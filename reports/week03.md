@@ -35,7 +35,7 @@ north_star:
 
 ## Individual contributions
 - Abhiram Metuku (Data&Eval): Conducted user interviews, synthesized the main validation patterns, drafted the persona, pain, hack, validation findings, and verdict. 
--  Moataz Saadeldin: drafted initial report with idea and interviews.
+- Moataz Abdelaziz: Drafted initial report with idea and interviews.
 - Sriram Vema: discussed NLP direction and started discussing plan for what milestones would look like.
 
 ## Lean canvas changes (if any)
