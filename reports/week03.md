@@ -1,17 +1,17 @@
 ---
-team: <your-company-name>
-week: <NN>
-date: <YYYY-MM-DD>
+team: <TerpLoad>
+week: <03>
+date: <2026-06-17>
 members:
-  - name: <name>
-    github: <handle>
-    hat: Product | Engineering | Data&Eval
-  - name: <name>
-    github: <handle>
-    hat: Product | Engineering | Data&Eval
-  - name: <name>
-    github: <handle>
-    hat: Product | Engineering | Data&Eval
+  - name: <Abhiram Metuku>
+    github: <@abhimet>
+    hat: Data&Eval
+  - name: <Sriram Vema>
+    github: <@sriramvema>
+    hat: Engineering
+  - name: <Moataz Saadeldin >
+    github: <@moatazsaad>
+    hat: Product 
 north_star:
   metric: <e.g. task success rate>
   value: <this week>
