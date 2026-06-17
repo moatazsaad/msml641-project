@@ -3,40 +3,40 @@ team: <TerpLoad>
 week: <03>
 date: <2026-06-17>
 members:
-  - name: <Abhiram Metuku>
-    github: <@abhimet>
+  - name: Abhiram Metuku
+    github: "@abhimet"
     hat: Data&Eval
-  - name: <Sriram Vema>
-    github: <@sriramvema>
+  - name: Sriram Vema
+    github: "@sriramvema"
     hat: Engineering
-  - name: <Moataz Saadeldin >
-    github: <@moatazsaad>
+  - name: Moataz Saadeldin >
+    github: "@moatazsaad"
     hat: Product 
 north_star:
-  metric: <e.g. task success rate>
-  value: <this week>
-  previous: <last week>
+  metric: interviews completed
+  value: 4
+  previous: 
 ---
 
 ## Shipped this week
-- <what is now merged or deployed>  (evidence: #12, PR #34; link the live product if it is deployed)
+- have iniital project direction for terpload
+- defined initial persona, pain, hack, user validation, verdict
+- conducted 4 user interviews with students or recent students who had experience planning difficult course combos.
+- added initial readme explaining thw validation for problem
 
 ## User / validation learning
-- <what you learned + how you got it: an interview, usage data, a task test>
+- in README.md
 
-## Metrics snapshot
-- <metric>: <value> (was <previous>)
 
-## Challenges / blockers
-- <what is hard, and what help you need>
 
 ## Next week's goal
-- <the one thing>
+- maybe think of mockups of how a report of the workload risk would look and get feedback from 3 more students.
+- get initial data for courses
 
 ## Individual contributions
-- <name> (<hat>): <what they did>  (evidence: PR #34, #12)
-- <name> (<hat>): <what they did>  (evidence: ...)
-- <name> (<hat>): <what they did>  (evidence: ...)
+- Abhiram Metuku (Data&Eval): Conducted user interviews, synthesized the main validation patterns, drafted the persona, pain, hack, validation findings, and verdict. 
+-  Moataz Saadeldin: drafted initial report with idea and interviews.
+- Sriram Vema: discussed NLP direction and started discussing plan for what milestones would look like.
 
 ## Lean canvas changes (if any)
 - <what shifted this week: user, problem, value proposition, cost, or risk>
