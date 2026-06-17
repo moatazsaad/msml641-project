@@ -27,8 +27,6 @@ north_star:
 ## User / validation learning
 - in README.md
 
-
-
 ## Next week's goal
 - maybe think of mockups of how a report of the workload risk would look and get feedback from 3 more students.
 - get initial data for courses
@@ -39,4 +37,4 @@ north_star:
 - Sriram Vema: discussed NLP direction and started discussing plan for what milestones would look like.
 
 ## Lean canvas changes (if any)
-- <what shifted this week: user, problem, value proposition, cost, or risk>
+- what shifted this week: user, problem, value proposition, cost, or risk
