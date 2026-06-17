@@ -1,7 +1,7 @@
 ---
-team: <TerpLoad>
-week: <03>
-date: <2026-06-17>
+team: TerpLoad
+week: 03
+date: 2026-06-17
 members:
   - name: Abhiram Metuku
     github: "@abhimet"
