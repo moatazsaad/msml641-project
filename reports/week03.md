@@ -9,7 +9,7 @@ members:
   - name: Sriram Vema
     github: "@sriramvema"
     hat: Engineering
-  - name: Moataz Saadeldin
+  - name: Moataz Abdelaziz
     github: "@moatazsaad"
     hat: Product 
 north_star:
