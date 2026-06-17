@@ -7,7 +7,7 @@ members:
     github: "@abhimet"
     hat: Data&Eval
   - name: Sriram Vema
-    github: "@sriramvema"
+    github: "@sriramv3"
     hat: Engineering
   - name: Moataz Abdelaziz
     github: "@moatazsaad"
