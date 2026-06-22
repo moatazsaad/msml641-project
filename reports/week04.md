@@ -1,24 +1,21 @@
 ---
-
 team: TerpLoad
 week: 04
 date: 2026-06-24
 members:
-
-* name: Abhiram Metuku
-  github: "@abhimet"
-  hat: Data&Eval
-* name: Sriram Vema
-  github: "@sriramvema"
-  hat: Engineering
-* name: Moataz Saadeldin
-  github: "@moatazsaad"
-  hat: Product
-  north_star:
+  - name: Abhiram Metuku
+    github: "@abhimet"
+    hat: Data&Eval
+  - name: Sriram Vema
+    github: "@sriramvema"
+    hat: Engineering
+  - name: Moataz Saadeldin
+    github: "@moatazsaad"
+    hat: Product
+north_star:
   metric: Percent of students who say the workload risk explanation would help them plan their schedule
   value: 4 interviews analyzed; 4/4 showed course-combination workload risk as a repeated pain point
   previous: Initial project direction selected
-
 ---
 
 ## Shipped this week
@@ -37,9 +34,9 @@ The most important missing information is project workload, exam difficulty, wee
 
 ## Metrics snapshot
 
-* Interviews analyzed: 4
-* Repeated course-combination pain pattern: 4/4 interviews
-* Baseline risk logic: created initial rule-based version
+- Interviews analyzed: 4
+- Repeated course-combination pain pattern: 4/4 interviews
+- Baseline risk logic: created initial rule-based version
 
 ## Challenges / blockers
 
