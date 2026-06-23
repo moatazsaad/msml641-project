@@ -22,8 +22,6 @@ north_star:
 
 Selected TerpLoad as the final project direction and narrowed it into a clear MVP scope before building further. Evidence: reports/week04.md.
 
-Added the required project scope lines to the Week 04 report: Problem, Solution, Why us, and MVP scope. Evidence: reports/week04.md.
-
 Converted interview findings into clearer product direction, including user research summary, MVP requirements, and an NLP data/model plan. Evidence: #4, PR #5.
 
 Created initial Data&Eval artifacts for workload labeling and course selection so future review collection can be evaluated consistently. Evidence: PR #6.
