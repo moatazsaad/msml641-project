@@ -24,7 +24,7 @@ Selected TerpLoad as the final project direction and narrowed it into a clear MV
 
 Converted interview findings into clearer product direction, including user research summary, MVP requirements, and an NLP data/model plan. Evidence: #4, PR #5.
 
-Created initial Data&Eval artifacts for workload labeling and course selection so future review collection can be evaluated consistently. Evidence: PR #6.
+Created initial artifacts for workload labeling and course selection so future review collection can be evaluated consistently. Evidence: PR #6.
 
 
 
