@@ -25,7 +25,7 @@ Opened a pull request converting the interview findings into clearer product dir
 Added a simple baseline schedule risk scoring script in `src/risk_rules.py` to give the team a starting point before building the NLP model. Evidence: #4, PR #5.
 
 
-
+## Project Plan and Scope
 Problem: UMD CS/STEM students often cannot tell whether a planned semester will become unmanageable because workload risk comes from how multiple courses stack through projects, exams, homework, and even unclear course structure.
 
 Solution: TerpLoad lets a student enter a planned course schedule and returns a workload-risk breakdown with course-level signals, evidence from reviews, and confidence/uncertainty notes.
