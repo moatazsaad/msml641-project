@@ -69,3 +69,16 @@ def extract_reviews(course_id: str, course_data: dict[str, Any]) -> list[dict[st
         )
 
     return extracted_reviews
+  
+def write_reviews_csv(reviews: list[dict[str, Any]], output_path: Path )-> None:
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    fieldnames = [
+      "review_id",
+      "course_id",
+      "review_text",
+      "rating",
+      "professor",
+      "date",
+      "source",
+    ]
+    
