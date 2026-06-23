@@ -22,7 +22,7 @@ north_star:
 
 Selected TerpLoad as the final project direction and narrowed it into a clear MVP scope before building further. Evidence: reports/week04.md.
 
-Converted interview findings into clearer product direction, including user research summary, MVP requirements, and an NLP data/model plan. Evidence: #4, PR #5.
+Converted interview findings into clearer product direction, including proper user research summary, MVP requirements, and an NLP data and modelling plan. Evidence: #4, PR #5.
 
 Created initial artifacts for workload labeling and course selection so future review collection can be evaluated consistently. Evidence: PR #6.
 
@@ -69,7 +69,7 @@ Collect initial course reviews for UMD CS/STEM courses based on interviews as st
 
 ## Individual contributions
 
-Abhiram Metuku (Data&Eval): Defined the initial workload labeling guidelines for TerpLoad and began turning the project into an evaluatable NLP task by identifying workload labels. Evidence: PR #6.
+Abhiram Metuku (Data&Eval): Defined the initial workload labeling guidelines for TerpLoad and began turning the project into NLP task by identifying workload labels. Evidence: PR #6.
 
 Sriram Vema (Engineering): To be updated after teammate review. Evidence: TBD.
 
@@ -77,8 +77,8 @@ Moataz Saadeldin (Product): Summarized interview findings, defined MVP requireme
 
 ## Lean canvas changes
 
-The project direction is now focused on workload risk awareness for UMD CS/STEM students, not general course recommendation.
+ main focus for project is on workload risk awareness for UMD CS/STEM students, not general course recommendation tool.
 
-The value proposition shifted toward explaining why a schedule is risky using workload factors such as projects, exams, time commitment, and professor/course-structure uncertainty.
+The value proposition shifted toward explaining why a schedule is risky using specific workload factors that could be from exams, homeworks, or professor style.
 
-The main product risk is incomplete or outdated workload data because course structure can change by professor and semester.
+The main product risk is incomplete or outdated workload data because course structure can change by professor and semester but we plan to address by having flags saying that data might not be up to date...      
