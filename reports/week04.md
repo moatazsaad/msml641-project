@@ -63,7 +63,7 @@ Collect initial course reviews for UMD CS/STEM courses based on interviews as st
 
 ## Individual contributions
 
-Abhiram Metuku (Data&Eval): Defined the initial workload labeling guidelines for TerpLoad and began turning the project into an evaluatable NLP task by identifying workload labels based on Moataz's work. Evidence: PR #6.
+Abhiram Metuku (Data&Eval): Defined the initial workload labeling guidelines for TerpLoad and began turning the project into an evaluatable NLP task by identifying workload labels. Evidence: PR #6.
 
 Sriram Vema (Engineering): To be updated after teammate review. Evidence: TBD.
 
