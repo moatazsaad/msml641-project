@@ -37,4 +37,35 @@ def load_course_ids(path:Path) -> list[str]:
         course_ids.append(course_id)
   
   return course_ids
-      
+
+def cache_path_for_course(course_id: str) -> Path:
+    """Return the cache file path for one course."""
+    return CACHE_DIR / f"{course_id}.json"
+
+def extract_reviews(course_id: str, course_data: dict[str, Any]) -> list[dict[str, Any]]:
+    """Extract review text from one PlanetTerp course response."""
+    reviews = course_data.get("reviews", [])
+    extracted_reviews: list[dict[str, Any]] = []
+
+    for index, review in enumerate(reviews):
+        text = review.get("review", "").strip()
+        rating = review.get("rating", "")
+        professor = review.get("professor", "")
+        date = review.get("date", "")
+
+        if not text:
+            continue
+
+        extracted_reviews.append(
+            {
+                "review_id": f"{course_id}_{index + 1:03d}",
+                "course_id": course_id,
+                "review_text": text,
+                "rating": rating,
+                "professor": professor,
+                "date": date,
+                "source": "PlanetTerp",
+            }
+        )
+
+    return extracted_reviews
