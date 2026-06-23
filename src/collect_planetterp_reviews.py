@@ -19,7 +19,10 @@ BASE_URL = "https://planetterp.com/api/v1/course"
 #need cahche so we dont hammer api
 COURSE_LIST_PATH = Path("data/initial_course_list.csv")
 CACHE_DIR = Path("data/cache/planetterp")
-OUTPUT_PATH = Path("data/raw_planetterp_reviews.csv")
+OUTPUT_PATH = Path("data/raw_planetterp.csv")
+
+REQUESTS_DELAY = 2
+MAX_REVIEWS_PER_COURSE = 2
 
 def load_course_ids(path:Path) -> list[str]:
   """Load course IDs """
@@ -71,14 +74,21 @@ def extract_reviews(course_id: str, course_data: dict[str, Any]) -> list[dict[st
     return extracted_reviews
   
 def write_reviews_csv(reviews: list[dict[str, Any]], output_path: Path )-> None:
-    output_path.parent.mkdir(parents=True, exist_ok=True)
-    fieldnames = [
-      "review_id",
-      "course_id",
-      "review_text",
-      "rating",
-      "professor",
-      "date",
-      "source",
-    ]
+  output_path.parent.mkdir(parents=True, exist_ok=True)
+  fieldnames = [
+    "review_id",
+    "course_id",
+    "review_text",
+    "rating",
+    "professor",
+    "date",
+    "source",
+  ]
+  with output_path.open("w", encoding="utf-8", newline="") as file:
+      writer = csv.DictWriter(file, fieldnames=fieldnames)
+      writer.writeheader()
+      writer.writerows(reviews)
+
+  print(f"[done] Wrote {len(reviews)} reviews to {output_path}")
+
     
