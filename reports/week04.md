@@ -53,16 +53,16 @@ members:
 
 ## Next week's goal
 
-* Collect initial course review/course description data for selected UMD CS/STEM courses and create a small labeled dataset for workload signals such as project-heavy, exam-heavy, lab-heavy, writing-heavy and time-consuming.
+* Collect initial course reviews for UMD CS/STEM courses based on interviews as students mentioned specific courses repeatedly
 
 ## Individual contributions
 
-* Abhiram Metuku (Data&Eval): To be updated after teammate review. (evidence: ...)
+* Abhiram Metuku (Data&Eval): Defined the initial workload labeling guidelines for TerpLoad and began turning the project into NLP task by identifying workload labels. Evidence: PR #6.
 * Sriram Vema (Engineering): To be updated after teammate review. (evidence: ...)
 * Moataz Saadeldin (Product): Summarized interview findings, defined MVP requirements, wrote the NLP data/model plan, and added the baseline schedule risk scoring script. (evidence: #4, PR #5)
 
 ## Lean canvas changes 
 
-* The project direction is now focused on workload risk awareness for UMD CS/STEM students, not general course recommendation.
+* Main focus for project is on workload risk awareness for UMD CS/STEM students, not general course recommendation.
 * The value proposition shifted toward explaining why a schedule is risky using workload factors such as projects, exams, time commitment, and professor/course-structure uncertainty.
 * The main product risk is incomplete or outdated workload data because course structure can change by professor and semester.
