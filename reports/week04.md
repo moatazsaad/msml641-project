@@ -24,6 +24,8 @@ Opened a pull request converting the interview findings into clearer product dir
 
 Added a simple baseline schedule risk scoring script in `src/risk_rules.py` to give the team a starting point before building the NLP model. Evidence: #4, PR #5.
 
+Created some initial workload labeling guidelines and an initial course list for future review collection and labeling. Evidence: PR #6.
+
 
 ## Project Plan and Scope
 
