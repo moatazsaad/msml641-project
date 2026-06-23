@@ -23,3 +23,18 @@ OUTPUT_PATH = Path("data/raw_planetterp_reviews.csv")
 
 def load_course_ids(path:Path) -> list[str]:
   """Load course IDs """
+  if not path.exists():
+    raise FileNotFoundError(f"Missing course list file: {path}")
+  
+  course_ids: list[str] = []
+  with path.open("r", encoding="utf-8") as file:
+    reader = csv.DictReader(file)
+    
+    for row in reader:
+      course_id = row.get("course_id", "").strip()
+      
+      if course_id:
+        course_ids.append(course_id)
+  
+  return course_ids
+      
