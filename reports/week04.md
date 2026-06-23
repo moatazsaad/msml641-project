@@ -20,11 +20,14 @@ north_star:
 
 ## Shipped this week
 
-Opened a pull request converting the interview findings into clearer product direction for TerpLoad, including a user research summary, MVP requirements, and an NLP data/model plan. Evidence: #4, PR #5.
+Selected TerpLoad as the final project direction and narrowed it into a clear MVP scope before building further. Evidence: reports/week04.md.
 
-Added a simple baseline schedule risk scoring script in `src/risk_rules.py` to give the team a starting point before building the NLP model. Evidence: #4, PR #5.
+Added the required project scope lines to the Week 04 report: Problem, Solution, Why us, and MVP scope. Evidence: reports/week04.md.
 
-Created some initial workload labeling guidelines and an initial course list for future review collection and labeling. Evidence: PR #6.
+Converted interview findings into clearer product direction, including user research summary, MVP requirements, and an NLP data/model plan. Evidence: #4, PR #5.
+
+Created initial Data&Eval artifacts for workload labeling and course selection so future review collection can be evaluated consistently. Evidence: PR #6.
+
 
 
 ## Project Plan and Scope
