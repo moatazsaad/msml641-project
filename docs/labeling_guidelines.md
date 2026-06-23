@@ -18,7 +18,7 @@ Workload labels describe what the review says about the course workload.
 
 ### project_heavy
 
-Use this when the review mentions large projects, frequent projects, coding projects, group projects, or projects taking a lot of time.
+review mentions large projects, frequent projects, coding projects, group projects, or projects taking a lot of time.
 
 Examples:
 -  projects took forever.”
