@@ -24,6 +24,16 @@ Opened a pull request converting the interview findings into clearer product dir
 
 Added a simple baseline schedule risk scoring script in `src/risk_rules.py` to give the team a starting point before building the NLP model. Evidence: #4, PR #5.
 
+
+Problem: UMD CS/STEM students often cannot tell whether a planned semester will become unmanageable because workload risk comes from how multiple courses stack through projects, exams, homework, and unclear course structure.
+
+Solution: TerpLoad lets a student enter a planned course schedule and returns a workload-risk breakdown with course-level signals, evidence from reviews, and confidence/uncertainty notes.
+
+Why us: We are grounding the product in UMD student interviews and course-review data, then turning unstructured reviews into evaluatable workload labels instead of giving a generic schedule opinion.
+
+MVP scope: A user can enter a small UMD CS/STEM course schedule and get a workload-risk report showing which courses or combinations are likely to be project-heavy, exam-heavy, time-consuming, or uncertain.
+
+
 ## User / validation learning
 
 From the 4 student interviews, we learned that the main pain is usually not one hard class by itself, but the way multiple difficult courses stack together in the same semester.
@@ -48,7 +58,7 @@ We need to decide which UMD CS/STEM courses to collect data for first.
 
 ## Next week's goal
 
-Collect initial course review/course description data for selected UMD CS/STEM courses and create a small labeled dataset for workload signals such as project-heavy, exam-heavy, lab-heavy, writing-heavy, and time-consuming.
+Collect initial course reviews for UMD CS/STEM courses based on interviews as students mentioned specific courses repeatedly
 
 ## Individual contributions
 
