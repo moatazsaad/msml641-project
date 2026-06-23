@@ -25,13 +25,14 @@ Opened a pull request converting the interview findings into clearer product dir
 Added a simple baseline schedule risk scoring script in `src/risk_rules.py` to give the team a starting point before building the NLP model. Evidence: #4, PR #5.
 
 
-Problem: UMD CS/STEM students often cannot tell whether a planned semester will become unmanageable because workload risk comes from how multiple courses stack through projects, exams, homework, and unclear course structure.
+
+Problem: UMD CS/STEM students often cannot tell whether a planned semester will become unmanageable because workload risk comes from how multiple courses stack through projects, exams, homework, and even unclear course structure.
 
 Solution: TerpLoad lets a student enter a planned course schedule and returns a workload-risk breakdown with course-level signals, evidence from reviews, and confidence/uncertainty notes.
 
-Why us: We are grounding the product in UMD student interviews and course-review data, then turning unstructured reviews into evaluatable workload labels instead of giving a generic schedule opinion.
+Why us: We plan to ground the product in UMD student interviews and course-review data, then turning unstructured reviews into evaluatable workload labels instead of giving a generic schedule opinion. 
 
-MVP scope: A user can enter a small UMD CS/STEM course schedule and get a workload-risk report showing which courses or combinations are likely to be project-heavy, exam-heavy, time-consuming, or uncertain.
+MVP scope: A user can enter a small UMD CS/STEM course schedule and get a workload-risk report showing which courses or combinations are likely to be project-heavy, exam-heavy, time-consuming, or uncertain. 
 
 
 ## User / validation learning
@@ -62,7 +63,7 @@ Collect initial course reviews for UMD CS/STEM courses based on interviews as st
 
 ## Individual contributions
 
-Abhiram Metuku (Data&Eval): Defined the initial workload labeling guidelines for TerpLoad and began turning the project into an evaluatable NLP task by identifying workload labels such as project-heavy, exam-heavy, homework-heavy, time-consuming, unclear structure, and professor dependency. Evidence: PR #6.
+Abhiram Metuku (Data&Eval): Defined the initial workload labeling guidelines for TerpLoad and began turning the project into an evaluatable NLP task by identifying workload labels based on Moataz's work. Evidence: PR #6.
 
 Sriram Vema (Engineering): To be updated after teammate review. Evidence: TBD.
 
