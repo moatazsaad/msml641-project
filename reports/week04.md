@@ -3,24 +3,23 @@
 team: TerpLoad
 week: 04
 date: 2026-06-24
-
 members:
 
 * name: Abhiram Metuku
-  github: "@abhimet"
+  github: @abhimet
   hat: Data&Eval
 * name: Sriram Vema
-  github: "@sriramvema"
+  github: @sriramvema
   hat: Engineering
 * name: Moataz Saadeldin
-  github: "@moatazsaad"
+  github: @moatazsaad
   hat: Product
+  north_star:
+  metric: Percent of students who say the workload risk explanation would help them plan their schedule
+  value: 4 interviews analyzed; 4/4 showed course-combination workload risk as a repeated pain point
+  previous: Initial project direction selected
 
-north_star:
-metric: Percent of students who say the workload risk explanation would help them plan their schedule
-value: 4 interviews analyzed; 4/4 showed course-combination workload risk as a repeated pain point
-previous: Initial project direction selected
---------------------------------------------
+---
 
 ## Shipped this week
 
@@ -35,9 +34,9 @@ previous: Initial project direction selected
 
 ## Metrics snapshot
 
-* Interviews analyzed: 4
+* Interviews analyzed: 4 (was 0 before initial validation)
 * Repeated course-combination pain pattern: 4/4 interviews (was unknown before interviews)
-* Baseline risk logic: created initial rule-based version
+* Baseline risk logic: created initial rule-based version (was not started)
 
 ## Challenges / blockers
 
@@ -47,7 +46,7 @@ previous: Initial project direction selected
 
 ## Next week's goal
 
-* Collect initial course review/course description data for selected UMD CS/STEM courses and create a small labeled dataset for workload signals such as project-heavy, exam-heavy, lab-heavy, writing-heavy and time-consuming.
+* Collect initial course review/course description data for selected UMD CS/STEM courses and create a small labeled dataset for workload signals such as project-heavy, exam-heavy, lab-heavy, writing-heavy, and time-consuming.
 
 ## Individual contributions
 
