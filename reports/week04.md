@@ -30,7 +30,7 @@ members:
 
 ## Shipped this week
 
-* Opened a pull request converting the interview findings into clearer product direction for TerpLoad, including a user research summary, MVP requirements, and an NLP data/model plan. (evidence: #4, PR #5)
+* Transformed interview findings into clearer product direction for TerpLoad, including a user research summary, MVP requirements, and an NLP data/model plan. (evidence: #4, PR #5)
 * Added a simple baseline schedule risk scoring script in `src/risk_rules.py` to give the team a starting point before building the NLP model. (evidence: #4, PR #5)
 
 ## User / validation learning
