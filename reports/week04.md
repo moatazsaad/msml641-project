@@ -6,13 +6,13 @@ date: 2026-06-24
 members:
 
 * name: Abhiram Metuku
-  github: @abhimet
-  hat: Data&Eval
+  github: "@abhimet"
+  hat: "Data&Eval"
 * name: Sriram Vema
-  github: @sriramvema
+  github: "@sriramvema"
   hat: Engineering
 * name: Moataz Saadeldin
-  github: @moatazsaad
+  github: "@moatazsaad"
   hat: Product
   north_star:
   metric: Percent of students who say the workload risk explanation would help them plan their schedule
@@ -20,6 +20,13 @@ members:
   previous: Initial project direction selected
 
 ---
+
+## Project scoping
+
+* Problem: UMD CS/STEM students planning difficult semesters struggle to know how multiple course workloads will stack together before registering.
+* Solution: TerpLoad will analyze course-related text and workload signals to give students a schedule risk level with clear reasons.
+* Why us: Our interviews showed the exact pain point, and our NLP approach focuses on UMD CS/STEM workload signals like projects, exams, time commitment, and professor/course-structure uncertainty.
+* MVP scope: A user can enter a planned UMD CS/STEM course schedule and get a Low, Medium, or High workload risk result with the main reasons.
 
 ## Shipped this week
 
@@ -34,9 +41,9 @@ members:
 
 ## Metrics snapshot
 
-* Interviews analyzed: 4 (was 0 before initial validation)
+* Interviews analyzed: 4
 * Repeated course-combination pain pattern: 4/4 interviews (was unknown before interviews)
-* Baseline risk logic: created initial rule-based version (was not started)
+* Baseline risk logic: created initial rule-based version
 
 ## Challenges / blockers
 
@@ -46,7 +53,7 @@ members:
 
 ## Next week's goal
 
-* Collect initial course review/course description data for selected UMD CS/STEM courses and create a small labeled dataset for workload signals such as project-heavy, exam-heavy, lab-heavy, writing-heavy, and time-consuming.
+* Collect initial course review/course description data for selected UMD CS/STEM courses and create a small labeled dataset for workload signals such as project-heavy, exam-heavy, lab-heavy, writing-heavy and time-consuming.
 
 ## Individual contributions
 
@@ -54,7 +61,7 @@ members:
 * Sriram Vema (Engineering): To be updated after teammate review. (evidence: ...)
 * Moataz Saadeldin (Product): Summarized interview findings, defined MVP requirements, wrote the NLP data/model plan, and added the baseline schedule risk scoring script. (evidence: #4, PR #5)
 
-## Lean canvas changes (if any)
+## Lean canvas changes 
 
 * The project direction is now focused on workload risk awareness for UMD CS/STEM students, not general course recommendation.
 * The value proposition shifted toward explaining why a schedule is risky using workload factors such as projects, exams, time commitment, and professor/course-structure uncertainty.
