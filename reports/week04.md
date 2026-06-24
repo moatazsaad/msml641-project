@@ -58,7 +58,7 @@ members:
 ## Individual contributions
 
 * Abhiram Metuku (Data&Eval): Defined the initial workload labeling guidelines for TerpLoad and began turning the project into NLP task by identifying workload labels. Evidence: PR #6.
-* Sriram Vema (Engineering): To be updated after teammate review. (evidence: ...)
+* Sriram Vema (Engineering): Combined Abhiram and Moataz's definitions into a detailed project flow, with steps describing data sources, example workflow indicators, proposed machine learning extension. 
 * Moataz Saadeldin (Product): Summarized interview findings, defined MVP requirements, wrote the NLP data/model plan, and added the baseline schedule risk scoring script. (evidence: #4, PR #5)
 
 ## Lean canvas changes 
