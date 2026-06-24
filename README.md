@@ -26,6 +26,3 @@ We interviewed four sutdents who we discovered had experience planning difficult
 * all agreed that the semester was harder than expected or difficult to judge beforehand.
 * Main thing they said was wanting more info about project workload, time commitment, and exam difficulty.
 
-## Verdict
-We had another idea which involved procurement item categorization, but based on the interviews and the problem we found, we want to proceed with TerpLoad. 
-We are not building a general course recommendation tool or aim to replace academic advising. We wwant to focus on workload risk awareness for UMD CS/STEM students planning difficult or required course combinations.
