@@ -45,4 +45,4 @@ Using the collected information, each course could be assigned workload-related 
 These attributes would provide a standardized way to compare courses.
 
 ## Proposed Machine Learning Extension
-A classifier can analyze the individual reports for sentiment, which we could use to give a more accurate score for each course. This would allow us to build a more reliable metric that students can compare. We can train a multiclass classifier on a list of predetermined attrbutes or indicators so that we can pull them from our sources.
+A classifier can analyze the individual reports for sentiment, which we could use to give a more accurate score for each course. This would allow us to build a more reliable metric that students can compare. We can train a classification model on a list of predetermined attrbutes or indicators so that we can pull them from our sources.
