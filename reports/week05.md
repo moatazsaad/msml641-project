@@ -49,6 +49,6 @@ north_star:
 * Abhiram Metuku (Data&Eval): To be updated after teammate input. (evidence: ...)
 * Sriram Vema (Engineering): To be updated after teammate input. (evidence: ...)
 
-## Lean canvas changes (if any)
+## Lean canvas changes
 
 * The first model scope was narrowed to four workload labels: project-heavy, exam-heavy, homework-heavy, and time-consuming.
