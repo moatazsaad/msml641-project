@@ -45,7 +45,7 @@ north_star:
 
 ## Individual contributions
 
-* Moataz Saadeldin (Product): Defined product data requirements and created the workload label schema. (evidence: issue #8, PR #Y)
+* Moataz Abdelaziz (Product): Defined product data requirements and created the workload label schema. (evidence: issue #8, PR #9)
 * Abhiram Metuku (Data&Eval): To be updated after teammate input. (evidence: ...)
 * Sriram Vema (Engineering): To be updated after teammate input. (evidence: ...)
 
