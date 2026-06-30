@@ -1,1 +1,1 @@
-course_id,review_text,project_heavy,exam_heavy,homework_heavy,time_consuming,notes,confidence,labeled_by
+course_id,professor,review_text,project_heavy,exam_heavy,homework_heavy,time_consuming,notes,confidence,labeled_by
