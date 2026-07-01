@@ -17,8 +17,8 @@
 		- **Instructors:**  
 		  - Name, Source URL, Online Rating  
 		  - Name, Source URL, Online Rating
-
-	**STAT400:** Top reviewed professors show final exam difficulty varies
+<br>
+**STAT400:** Top reviewed professors show final exam difficulty varies
 
 		- **Instructors:**  
 		  - Name, Source URL, Online Rating  
