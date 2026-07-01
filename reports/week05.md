@@ -23,7 +23,8 @@ north_star:
 * Defined what data TerpLoad needs for the MVP. (evidence: issue #8, PR #9)
 * Created a simple workload label schema for the first NLP model. (evidence: issue #8, PR #9)
 * Made initial labeled review sample using excerpts from real course reviews. (evidence: PR #10)
-
+* sample risk report created. (evidence: PR #11)
+  
 ## User / validation learning
 
 We focused on whether our label schema works on real review text. We applied the four workload labels to real excerpts from CMSC330, CMSC351, and STAT400(Main courses mentioned in interviews)
