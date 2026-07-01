@@ -14,15 +14,15 @@
 **Professor Patterns:**  
 	**CMSC351:** Top reviewed professors show exam/grading risk varies by instructor.
 
-- **Instructors:**  
-  - Name, Source URL, Online Rating  
-  - Name, Source URL, Online Rating
+		- **Instructors:**  
+		  - Name, Source URL, Online Rating  
+		  - Name, Source URL, Online Rating
 
 	**STAT400:** Top reviewed professors show final exam difficulty varies
 
-- **Instructors:**  
-  - Name, Source URL, Online Rating  
-  - Name, Source URL, Online Rating
+		- **Instructors:**  
+		  - Name, Source URL, Online Rating  
+		  - Name, Source URL, Online Rating
 
 **Best Move:** Doable, but don’t add another heavy course. Start CMSC330 projects early and prep CMSC351 before exam week
 
