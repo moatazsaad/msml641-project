@@ -12,12 +12,12 @@
 **Main Warning:** Projects and exam prep may stack badly in the same weeks
 
 **Professor Patterns:**  
-	**CMSC351:** Top reviewed professors show exam/grading risk varies by instructor.
+**CMSC351:** Top reviewed professors show exam/grading risk varies by instructor.
 
 		- **Instructors:**  
 		  - Name, Source URL, Online Rating  
 		  - Name, Source URL, Online Rating
-<br>
+</br>
 **STAT400:** Top reviewed professors show final exam difficulty varies
 
 		- **Instructors:**  
