@@ -55,7 +55,7 @@ Extra signals like professor dependence, harsh grading, self-learning, lab-heavy
 
 ## Individual contributions
 
-* Moataz Abdelaziz (Product): Aligned MVP documentation and baseline risk logic with the four-label first model. (evidence: issue 15, PR #Y)
+* Moataz Abdelaziz (Product): Aligned MVP documentation and baseline risk logic with the four-label first model. (evidence: issue 15, PR #16)
 * Abhiram Metuku (Data&Eval): To be updated after teammate input. (evidence: ...)
 * Sriram Vema (Engineering): To be updated after teammate input. (evidence: ...)
 
