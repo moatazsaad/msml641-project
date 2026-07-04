@@ -1,16 +1,14 @@
 """
 Simple baseline risk rules for TerpLoad.
 
-This is not the final NLP model. It is a baseline that uses workload signals
-to estimate schedule risk. Later, the NLP model can predict these signals
-from course review text.
+It is a baseline that uses the four
+first-version workload labels to estimate schedule risk.
 """
 
 
 def estimate_schedule_risk(courses):
     risk_score = 0
     reasons = []
-    uncertainty_flags = []
 
     if len(courses) >= 4:
         risk_score += 1
@@ -18,6 +16,8 @@ def estimate_schedule_risk(courses):
 
     project_heavy_count = 0
     exam_heavy_count = 0
+    homework_heavy_count = 0
+    time_consuming_count = 0
 
     for course in courses:
         code = course.get("course_code", "Unknown course")
@@ -28,34 +28,35 @@ def estimate_schedule_risk(courses):
             reasons.append(f"{code} may have heavy project workload.")
 
         if course.get("exam_heavy"):
-            risk_score += 1
-            exam_heavy_count += 1
-            reasons.append(f"{code} may have difficult exams.")
-
-        if course.get("lab_heavy"):
-            risk_score += 1
-            reasons.append(f"{code} may have lab workload.")
-
-        if course.get("writing_heavy"):
-            risk_score += 1
-            reasons.append(f"{code} may have writing workload.")
-
-        if course.get("estimated_hours_per_week", 0) >= 8:
             risk_score += 2
-            reasons.append(f"{code} may require high weekly time commitment.")
+            exam_heavy_count += 1
+            reasons.append(f"{code} may have heavy exam pressure.")
 
-        if course.get("professor_unclear"):
-            uncertainty_flags.append(
-                f"{code} has professor or course-structure uncertainty."
-            )
+        if course.get("homework_heavy"):
+            risk_score += 1
+            homework_heavy_count += 1
+            reasons.append(f"{code} may have heavy homework workload.")
+
+        if course.get("time_consuming"):
+            risk_score += 2
+            time_consuming_count += 1
+            reasons.append(f"{code} may require high weekly time commitment.")
 
     if project_heavy_count >= 2:
         risk_score += 2
         reasons.append("Multiple project-heavy courses may stack badly.")
 
     if exam_heavy_count >= 2:
-        risk_score += 1
+        risk_score += 2
         reasons.append("Multiple exam-heavy courses may increase pressure.")
+
+    if homework_heavy_count >= 2:
+        risk_score += 1
+        reasons.append("Multiple homework-heavy courses may increase weekly workload.")
+
+    if time_consuming_count >= 2:
+        risk_score += 2
+        reasons.append("Multiple time-consuming courses may make the semester harder to manage.")
 
     if risk_score >= 8:
         risk_level = "High"
@@ -64,19 +65,10 @@ def estimate_schedule_risk(courses):
     else:
         risk_level = "Low"
 
-    if len(uncertainty_flags) >= 2:
-        confidence = "Low"
-    elif len(uncertainty_flags) == 1:
-        confidence = "Medium"
-    else:
-        confidence = "High"
-
     return {
         "risk_level": risk_level,
         "risk_score": risk_score,
-        "confidence": confidence,
         "reasons": reasons,
-        "uncertainty_flags": uncertainty_flags,
     }
 
 
@@ -85,29 +77,23 @@ if __name__ == "__main__":
         {
             "course_code": "CMSC330",
             "project_heavy": True,
-            "exam_heavy": True,
-            "lab_heavy": False,
-            "writing_heavy": False,
-            "estimated_hours_per_week": 9,
-            "professor_unclear": False,
+            "exam_heavy": False,
+            "homework_heavy": False,
+            "time_consuming": True,
         },
         {
             "course_code": "CMSC351",
             "project_heavy": False,
             "exam_heavy": True,
-            "lab_heavy": False,
-            "writing_heavy": False,
-            "estimated_hours_per_week": 8,
-            "professor_unclear": False,
+            "homework_heavy": True,
+            "time_consuming": True,
         },
         {
             "course_code": "STAT400",
             "project_heavy": False,
             "exam_heavy": True,
-            "lab_heavy": False,
-            "writing_heavy": False,
-            "estimated_hours_per_week": 6,
-            "professor_unclear": True,
+            "homework_heavy": False,
+            "time_consuming": False,
         },
     ]
 
