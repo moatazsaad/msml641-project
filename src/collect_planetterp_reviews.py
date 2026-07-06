@@ -91,4 +91,4 @@ def write_reviews_csv(reviews: list[dict[str, Any]], output_path: Path )-> None:
 
   print(f"[done] Wrote {len(reviews)} reviews to {output_path}")
 
-    
+
