@@ -1,0 +1,24 @@
+{
+  "average_gpa": 3.0565217391304347,
+  "professors": [
+    "Samet Ayhan",
+    "Manoj Franklin",
+    "Manoj Franklin",
+    "Manoj Franklin",
+    "Samet Ayhan",
+    "Sujeong Kim",
+    "Manoj Franklin",
+    "Sujeong Kim",
+    "Samet Ayhan",
+    "Sujeong Kim"
+  ],
+  "reviews": [],
+  "department": "MSML",
+  "course_number": "606",
+  "name": "MSML606",
+  "title": "Algorithms and Data Structures for Machine Learning",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> MSML605.\nProvides both a broad coverage of basic algorithms and data structures. Topics include sorting, searching, graph and string algorithms; greedy algorithm, branch-and-bound, dynamic programming and job scheduling; Arrays, linked lists, queues, stacks, and hash tables;  Algorithm complexity, best/average/worst case analysis. Applications selected from machine learning problems.",
+  "is_recent": true,
+  "geneds": null
+}

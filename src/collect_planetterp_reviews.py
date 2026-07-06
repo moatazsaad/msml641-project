@@ -22,7 +22,7 @@ CACHE_DIR = Path("data/cache/planetterp")
 OUTPUT_PATH = Path("data/raw_planetterp.csv")
 
 REQUESTS_DELAY = 2
-MAX_REVIEWS_PER_COURSE = 2
+MAX_REVIEWS_PER_COURSE = 50
 
 def load_course_ids(path:Path) -> list[str]:
   """Load course IDs """
@@ -92,3 +92,71 @@ def write_reviews_csv(reviews: list[dict[str, Any]], output_path: Path )-> None:
   print(f"[done] Wrote {len(reviews)} reviews to {output_path}")
 
 
+def fetch_course_data(course_id: str) -> dict[str, Any]:
+  """Fetch one course from PlanetTerp, using cache when possible."""
+  CACHE_DIR.mkdir(parents=True, exist_ok=True)
+  cache_path = cache_path_for_course(course_id)
+
+  if cache_path.exists():
+      print(f"[cache] Using cached data for {course_id}")
+      with cache_path.open("r", encoding="utf-8") as file:
+          return json.load(file)
+
+  print(f"[fetch] Requesting {course_id} from PlanetTerp")
+
+  response = requests.get(
+      BASE_URL,
+      params={
+          "name": course_id,
+          "reviews": "true",
+      },
+      timeout=20,
+  )
+
+  response.raise_for_status()
+  course_data = response.json()
+
+  with cache_path.open("w", encoding="utf-8") as file:
+      json.dump(course_data, file, indent=2)
+
+  time.sleep(REQUESTS_DELAY)
+
+  return course_data
+
+
+
+#main method to get all courses and  handle any errors
+def main() -> None:
+  """Collect PlanetTerp reviews for the initial course list."""
+  course_ids = load_course_ids(COURSE_LIST_PATH)
+  print(f"[start] Loaded {len(course_ids)} courses")
+
+  all_reviews: list[dict[str, Any]] = []
+
+  for course_id in course_ids:
+      course_id = course_id.strip().upper()
+
+      try:
+          course_data = fetch_course_data(course_id)
+          reviews = extract_reviews(course_id, course_data)
+
+          if MAX_REVIEWS_PER_COURSE is not None:
+              reviews = reviews[:MAX_REVIEWS_PER_COURSE]
+
+          print(f"[course] {course_id}: {len(reviews)} reviews")
+          all_reviews.extend(reviews)
+
+      except requests.HTTPError as error:
+          print(f"[error] HTTP error for {course_id}: {error}")
+
+      except requests.RequestException as error:
+          print(f"[error] Request failed for {course_id}: {error}")
+
+      except Exception as error:
+          print(f"[error] Unexpected error for {course_id}: {error}")
+
+  write_reviews_csv(all_reviews, OUTPUT_PATH)
+
+
+if __name__ == "__main__":
+    main()

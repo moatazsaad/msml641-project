@@ -1,0 +1,47 @@
+{
+  "average_gpa": 3.294392523364486,
+  "professors": [
+    "Richard La",
+    "Richard La",
+    "Yuntao Liu",
+    "Richard La",
+    "Richard La",
+    "Amy Chester",
+    "Richard La",
+    "Siddharth Pal"
+  ],
+  "reviews": [
+    {
+      "professor": "Richard La",
+      "course": "MSML604",
+      "review": "He had to handle a difficult topic for a class which was honestly not smart (including me). He tried his best, but it wasnt easy because of the online lectures.\r\nClass averages were pretty low throughout, but he curved generously in the end.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2021-05-21T19:46:03Z"
+    },
+    {
+      "professor": "Richard La",
+      "course": "MSML604",
+      "review": "Professor Richard, who looks slightly vicious, is a lovely person who is highly knowledgeable in optimization, linear algebra, calculus, and probability theory. You may sometimes see him telling jokes with no expression during the lecture, and he is very patient with every student when you ask questions during office hours, class breaks, and class. However, I admit that some course concepts are hard to comprehend at first glance. Still, after reviewing the in-class material and combining it with the external video associated with that particular concept, the difficulty of the homework should be acceptable. As for the midterm and final, he will provide some review material and the review section. If you follow the pattern of the review materials, combined with some additional practice in linear algebra, both exams are good to go.\r\nFurthermore, for the final project, I recommend consolidating the topic and working on the solution as soon as possible; it may take longer than you expected. Professor Richard has the best mathematic expertise I have ever encountered at the University of Maryland. Eventually, he will automatically and dynamically adjust the grade scope according to the entire class's performance, so do not worry too much. As the final reminder, he will review the concept of linear algebra in optimization during the first several lectures; if you are not familiar with the relative concept, please try to catch it, which will make the rest of the lecture manageable.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-20T03:02:23.979372Z"
+    },
+    {
+      "professor": "Richard La",
+      "course": "MSML604",
+      "review": "he's clearly very knowledgeable but is a bad lecturer and definitely not approachable if you have questions. if you want to learn the material properly with clear examples, there is a full youtube course from IIT KANPUR which teaches the concepts in a more concise and understandable manner. Wish i found it on the first day - this prof lacks empathy.",
+      "rating": 2,
+      "expected_grade": "C+",
+      "created": "2025-10-27T06:09:59.063366Z"
+    }
+  ],
+  "department": "MSML",
+  "course_number": "604",
+  "name": "MSML604",
+  "title": "Introduction to Optimization",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> undergraduate courses in calculus and basic linear algebra.\nThe course focuses on recognizing, solving, and analyzing optimization problems. Linear algebra overview: vector spaces and matrices, linear transformations, matrix algebra, projections, similarity transformations, norms, eigen-decomposition and SVD. Convex sets, convex functions, duality theory and optimality conditions. Unconstrained optimization: 1D search, steepest descent, Newton's method, conjugate gradient method, DFP and BFGS methods, stochastic gradient descent. Constrained optimization: projected gradient methods, linear programming, quadratic programming, penalty functions, and interior-point methods. Global search methods: simulated annealing, genetic algorithms, particle swarm optimization.",
+  "is_recent": true,
+  "geneds": null
+}
