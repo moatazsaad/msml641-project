@@ -32,3 +32,9 @@ def parse_year(date_text: str) -> int | None:
 
   return None
 
+def is_recent_review(date_text: str) -> int:
+    """Return 1 if review is from 2022 or later, otherwise 0."""
+    year = parse_year(date_text)
+    if year is not None and year >= 2022:
+        return 1
+    return 0
