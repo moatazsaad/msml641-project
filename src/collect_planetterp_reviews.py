@@ -46,33 +46,37 @@ def cache_path_for_course(course_id: str) -> Path:
     return CACHE_DIR / f"{course_id}.json"
 
 def extract_reviews(course_id: str, course_data: dict[str, Any]) -> list[dict[str, Any]]:
-    """Extract review text from one PlanetTerp course response."""
-    reviews = course_data.get("reviews", [])
-    extracted_reviews: list[dict[str, Any]] = []
+  """Extract review text from one PlanetTerp course response."""
+  reviews = course_data.get("reviews", [])
+  extracted_reviews: list[dict[str, Any]] = []
 
-    for index, review in enumerate(reviews):
-        text = review.get("review", "").strip()
-        rating = review.get("rating", "")
-        professor = review.get("professor", "")
-        date = review.get("created", "")
-        
+  for index, review in enumerate(reviews):
+      text = review.get("review", "").strip()
+      rating = review.get("rating", "")
+      professor = review.get("professor", "")
+      date = review.get("created", "")
+      
 
-        if not text:
-            continue
+      if not text:
+          continue
 
-        extracted_reviews.append(
-            {
-                "review_id": f"{course_id}_{index + 1:03d}",
-                "course_id": course_id,
-                "review_text": text,
-                "rating": rating,
-                "professor": professor,
-                "date": date,
-                "source": "PlanetTerp",
-            }
-        )
+      extracted_reviews.append(
+          {
+              "review_id": f"{course_id}_{index + 1:03d}",
+              "course_id": course_id,
+              "review_text": text,
+              "rating": rating,
+              "professor": professor,
+              "date": date,
+              "source": "PlanetTerp",
+          }
+      )
+      extracted_reviews.sort(
+      key=lambda review: review.get("date", ""),
+      reverse=True,
+  )
 
-    return extracted_reviews
+  return extracted_reviews
   
 def write_reviews_csv(reviews: list[dict[str, Any]], output_path: Path )-> None:
   output_path.parent.mkdir(parents=True, exist_ok=True)
