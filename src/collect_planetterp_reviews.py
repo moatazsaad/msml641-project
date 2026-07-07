@@ -54,7 +54,8 @@ def extract_reviews(course_id: str, course_data: dict[str, Any]) -> list[dict[st
         text = review.get("review", "").strip()
         rating = review.get("rating", "")
         professor = review.get("professor", "")
-        date = review.get("date", "")
+        date = review.get("created", "")
+        
 
         if not text:
             continue
