@@ -8,25 +8,24 @@ INPUT_PATH = Path("data/raw_planetterp.csv")
 OUTPUT_PATH = Path("data/cleaned_reviews.csv")
 
 def normalize_whitespace(text: str) -> str:
-  """Normalize repeated whitespace without changing capitalization."""
+  """Normalize repeated whitespace"""
   return re.sub(r"\s+", " ", text).strip()
 
 
 def parse_year(date_text: str) -> int | None:
-  """Try to extract a year from a date string."""
   if not date_text:
       return None
 
   date_text = date_text.strip()
 
-  # Try common full date formats first.
+  # handling full date formats
   for fmt in ("%Y-%m-%d", "%m/%d/%Y", "%B %d, %Y", "%b %d, %Y"):
       try:
           return datetime.strptime(date_text, fmt).year
       except ValueError:
           pass
 
-  # Fallback: find any 4-digit year.
+  #get any year only
   match = re.search(r"(20\d{2}|19\d{2})", date_text)
   if match:
       return int(match.group(1))
