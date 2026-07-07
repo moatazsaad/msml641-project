@@ -7,34 +7,63 @@ from typing import Any
 INPUT_PATH = Path("data/raw_planetterp.csv")
 OUTPUT_PATH = Path("data/cleaned_reviews.csv")
 
-def normalize_whitespace(text: str) -> str:
-  """Normalize repeated whitespace"""
-  return re.sub(r"\s+", " ", text).strip()
+
+def normalize_whitespace(text: Any) -> str:
+  """Collapse repeated spaces and newlines into one space."""
+  if text is None:
+      return ""
+
+  return re.sub(r"\s+", " ", str(text)).strip()
 
 
 def parse_year(date_text: str) -> int | None:
+  """Extract a four-digit year from common date formats."""
+
   if not date_text:
       return None
 
   date_text = date_text.strip()
 
-  # handling full date formats
-  for fmt in ("%Y-%m-%d", "%m/%d/%Y", "%B %d, %Y", "%b %d, %Y"):
-      try:
-          return datetime.strptime(date_text, fmt).year
-      except ValueError:
-          pass
+  common_formats = [
+      "%Y-%m-%d",
+      "%Y-%m-%dT%H:%M:%S",
+      "%Y-%m-%dT%H:%M:%S.%f",
+      "%m/%d/%Y",
+      "%m/%d/%y",
+      "%B %d, %Y",
+      "%b %d, %Y",
+      "%Y",
+  ]
 
-  #get any year only
-  match = re.search(r"(20\d{2}|19\d{2})", date_text)
-  if match:
-      return int(match.group(1))
+  normalized_date = date_text.replace("Z", "")
+
+  for date_format in common_formats:
+      try:
+          return datetime.strptime(
+              normalized_date,
+              date_format,
+          ).year
+      except ValueError:
+          continue
+
+  year_match = re.search(r"\b(19|20)\d{2}\b", date_text)
+
+  if year_match:
+      return int(year_match.group())
 
   return None
 
-def is_recent_review(date_text: str) -> int:
-    """Return 1 if review is from 2022 or later, otherwise 0."""
-    year = parse_year(date_text)
-    if year is not None and year >= 2022:
-        return 1
-    return 0
+def review_recency_features(date_text: str) -> tuple[int, float, str]:
+  year = parse_year(date_text)
+
+  if year is None:
+      return 0, 0.25, "unknown"
+
+  if year >= 2022:
+      return 1, 1.0, "recent"
+
+  if year == 2021:
+      return 1, 0.75, "transition"
+
+  return 0, 0.50, "older"
+
