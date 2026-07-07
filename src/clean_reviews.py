@@ -57,13 +57,13 @@ def review_recency_features(date_text: str) -> tuple[int, float, str]:
   year = parse_year(date_text)
 
   if year is None:
-      return 0, 0.25, "unknown"
+      return 0, None, 0.25
 
   if year >= 2022:
-      return 1, 1.0, "recent"
+      return 1, year, 1.00
 
   if year == 2021:
-      return 1, 0.75, "transition"
+      return 1, year, 0.75
 
-  return 0, 0.50, "older"
+  return 0, year, 0.50
 
