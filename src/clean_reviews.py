@@ -2,85 +2,84 @@ import csv
 import re
 from datetime import datetime
 from pathlib import Path
-from typing import Any
+from typing import Any, Dict, List, Optional, Set, Tuple
+
 
 INPUT_PATH = Path("data/raw_planetterp.csv")
 OUTPUT_PATH = Path("data/cleaned_reviews.csv")
 
 
 def normalize_whitespace(text: Any) -> str:
-  """Collapse repeated spaces and newlines into one space."""
-  if text is None:
-      return ""
+    """Collapse repeated spaces and newlines into one space."""
+    if text is None:
+        return ""
 
-  return re.sub(r"\s+", " ", str(text)).strip()
+    return re.sub(r"\s+", " ", str(text)).strip()
 
 
-def parse_year(date_text: str) -> int | None:
-  """Extract a four-digit year from common date formats."""
+def parse_year(date_text: str) -> Optional[int]:
+    """Extract a four-digit year from common date formats."""
 
-  if not date_text:
-      return None
+    if not date_text:
+        return None
 
-  date_text = date_text.strip()
+    date_text = date_text.strip()
 
-  common_formats = [
-      "%Y-%m-%d",
-      "%Y-%m-%dT%H:%M:%S",
-      "%Y-%m-%dT%H:%M:%S.%f",
-      "%m/%d/%Y",
-      "%m/%d/%y",
-      "%B %d, %Y",
-      "%b %d, %Y",
-      "%Y",
-  ]
+    common_formats = [
+        "%Y-%m-%d",
+        "%Y-%m-%dT%H:%M:%S",
+        "%Y-%m-%dT%H:%M:%S.%f",
+        "%m/%d/%Y",
+        "%m/%d/%y",
+        "%B %d, %Y",
+        "%b %d, %Y",
+        "%Y",
+    ]
 
-  normalized_date = date_text.replace("Z", "")
+    normalized_date = date_text.replace("Z", "")
 
-  for date_format in common_formats:
-      try:
-          return datetime.strptime(
-              normalized_date,
-              date_format,
-          ).year
-      except ValueError:
-          continue
+    for date_format in common_formats:
+        try:
+            return datetime.strptime(
+                normalized_date,
+                date_format,
+            ).year
+        except ValueError:
+            continue
 
-  year_match = re.search(r"\b(19|20)\d{2}\b", date_text)
+    year_match = re.search(r"\b(19|20)\d{2}\b", date_text)
 
-  if year_match:
-      return int(year_match.group())
+    if year_match:
+        return int(year_match.group())
 
-  return None
+    return None
 
-def review_recency_features(date_text: str) -> tuple[int, float, str]:
-  year = parse_year(date_text)
 
-  if year is None:
-      return 0, None, 0.25
+def review_recency_features(
+    date_text: str,
+) -> Tuple[int, Optional[int], float]:
+    """
+    Return:
+    - is_recent
+    - review_year
+    - evidence_weight
+    """
 
-  if year >= 2022:
-      return 1, year, 1.00
+    year = parse_year(date_text)
 
-  if year == 2021:
-      return 1, year, 0.75
+    if year is None:
+        return 0, None, 0.25
 
-  return 0, year, 0.50
+    if year >= 2022:
+        return 1, year, 1.00
 
-def load_rows(path: Path) -> list[dict[str, Any]]:
-  """Load raw CSV rows."""
+    if year == 2021:
+        return 1, year, 0.75
 
-  if not path.exists():
-      raise FileNotFoundError(f"Missing input file: {path}")
+    return 0, year, 0.50
 
-  with path.open(
-      "r",
-      encoding="utf-8",
-      newline="",
-  ) as file:
-      return list(csv.DictReader(file))
-    
-def load_rows(path: Path) -> list[dict[str, Any]]:
+
+def load_rows(path: Path) -> List[Dict[str, Any]]:
     """Load raw CSV rows."""
 
     if not path.exists():
@@ -95,12 +94,12 @@ def load_rows(path: Path) -> list[dict[str, Any]]:
 
 
 def clean_reviews(
-    rows: list[dict[str, Any]],
-) -> tuple[list[dict[str, Any]], dict[str, Any]]:
+    rows: List[Dict[str, Any]],
+) -> Tuple[List[Dict[str, Any]], Dict[str, Any]]:
     """Clean, deduplicate, and enrich raw review rows."""
 
-    cleaned_rows: list[dict[str, Any]] = []
-    seen_reviews: set[tuple[str, str]] = set()
+    cleaned_rows: List[Dict[str, Any]] = []
+    seen_reviews: Set[Tuple[str, str]] = set()
 
     missing_review_text_count = 0
     duplicate_review_count = 0
@@ -118,7 +117,6 @@ def clean_reviews(
         course_id = normalize_whitespace(
             row.get("course_id", "")
         ).upper()
-
 
         duplicate_key = (
             course_id,
@@ -172,15 +170,21 @@ def clean_reviews(
         )
 
     recent_review_count = sum(
-        1 for row in cleaned_rows if row["is_recent"] == 1
+        1
+        for row in cleaned_rows
+        if row["is_recent"] == 1
     )
 
     professor_review_count = sum(
-        1 for row in cleaned_rows if row["professor"]
+        1
+        for row in cleaned_rows
+        if row["professor"]
     )
 
     dated_review_count = sum(
-        1 for row in cleaned_rows if row["review_year"] != ""
+        1
+        for row in cleaned_rows
+        if row["review_year"] != ""
     )
 
     course_ids = {
@@ -218,24 +222,38 @@ def clean_reviews(
         "courses_collected": len(course_ids),
     }
 
-    return cleaned_rows, stats    
-  
-def write_cleaned_reviews(rows: list[dict[str, Any]],output_path: Path,) -> None:
-  """Write cleaned review rows to CSV."""
-  output_path.parent.mkdir(parents=True, exist_ok=True)
-  fieldnames = [
-    "review_id",
-    "course_id",
-    "review_text",
-    "rating",
-    "professor",
-    "date",
-    "review_year",
-    "source",
-    "is_recent",
-    "evidence_weight",
+    return cleaned_rows, stats
+
+
+def write_cleaned_reviews(
+    rows: List[Dict[str, Any]],
+    output_path: Path,
+) -> None:
+    """Write cleaned review rows to CSV."""
+
+    output_path.parent.mkdir(
+        parents=True,
+        exist_ok=True,
+    )
+
+    fieldnames = [
+        "review_id",
+        "course_id",
+        "review_text",
+        "rating",
+        "professor",
+        "date",
+        "review_year",
+        "source",
+        "is_recent",
+        "evidence_weight",
     ]
-  with output_path.open("w", encoding="utf-8", newline="") as file:
+
+    with output_path.open(
+        "w",
+        encoding="utf-8",
+        newline="",
+    ) as file:
         writer = csv.DictWriter(
             file,
             fieldnames=fieldnames,
@@ -246,26 +264,29 @@ def write_cleaned_reviews(rows: list[dict[str, Any]],output_path: Path,) -> None
 
 
 def main() -> None:
-  """Run the review-cleaning pipeline."""
+    """Run the review-cleaning pipeline."""
 
-  raw_rows = load_rows(INPUT_PATH)
-  cleaned_rows, stats = clean_reviews(raw_rows)
+    raw_rows = load_rows(INPUT_PATH)
 
-  write_cleaned_reviews(
-      cleaned_rows,
-      OUTPUT_PATH,
-  )
+    cleaned_rows, stats = clean_reviews(
+        raw_rows
+    )
 
-  print(
-      f"[done] Wrote {len(cleaned_rows)} cleaned reviews "
-      f"to {OUTPUT_PATH}"
-  )
+    write_cleaned_reviews(
+        cleaned_rows,
+        OUTPUT_PATH,
+    )
 
-  print("[stats]")
+    print(
+        f"[done] Wrote {len(cleaned_rows)} cleaned reviews "
+        f"to {OUTPUT_PATH}"
+    )
 
-  for metric, value in stats.items():
-      print(f"{metric}: {value}")
+    print("[stats]")
+
+    for metric, value in stats.items():
+        print(f"{metric}: {value}")
 
 
 if __name__ == "__main__":
-  main()
+    main()
