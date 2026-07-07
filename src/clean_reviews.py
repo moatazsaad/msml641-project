@@ -67,3 +67,15 @@ def review_recency_features(date_text: str) -> tuple[int, float, str]:
 
   return 0, year, 0.50
 
+def load_rows(path: Path) -> list[dict[str, Any]]:
+  """Load raw CSV rows."""
+
+  if not path.exists():
+      raise FileNotFoundError(f"Missing input file: {path}")
+
+  with path.open(
+      "r",
+      encoding="utf-8",
+      newline="",
+  ) as file:
+      return list(csv.DictReader(file))
