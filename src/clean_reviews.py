@@ -119,8 +119,7 @@ def clean_reviews(
             row.get("course_id", "")
         ).upper()
 
-        # Include course ID so the same text in different courses
-        # is not automatically treated as a duplicate.
+
         duplicate_key = (
             course_id,
             review_text.casefold(),
@@ -220,3 +219,53 @@ def clean_reviews(
     }
 
     return cleaned_rows, stats    
+  
+def write_cleaned_reviews(rows: list[dict[str, Any]],output_path: Path,) -> None:
+  """Write cleaned review rows to CSV."""
+  output_path.parent.mkdir(parents=True, exist_ok=True)
+  fieldnames = [
+    "review_id",
+    "course_id",
+    "review_text",
+    "rating",
+    "professor",
+    "date",
+    "review_year",
+    "source",
+    "is_recent",
+    "evidence_weight",
+    ]
+  with output_path.open("w", encoding="utf-8", newline="") as file:
+        writer = csv.DictWriter(
+            file,
+            fieldnames=fieldnames,
+        )
+
+        writer.writeheader()
+        writer.writerows(rows)
+
+
+def main() -> None:
+  """Run the review-cleaning pipeline."""
+
+  raw_rows = load_rows(INPUT_PATH)
+  cleaned_rows, stats = clean_reviews(raw_rows)
+
+  write_cleaned_reviews(
+      cleaned_rows,
+      OUTPUT_PATH,
+  )
+
+  print(
+      f"[done] Wrote {len(cleaned_rows)} cleaned reviews "
+      f"to {OUTPUT_PATH}"
+  )
+
+  print("[stats]")
+
+  for metric, value in stats.items():
+      print(f"{metric}: {value}")
+
+
+if __name__ == "__main__":
+  main()
