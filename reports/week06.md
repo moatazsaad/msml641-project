@@ -25,8 +25,8 @@ north_star:
 ## Shipped this week
 
 - Aligned the MVP documentation with the four first-version workload labels and updated the risk rules. (evidence: issue #15, PR #16)
-- Collected and cleaned 255 PlanetTerp reviews, created a 30-review pilot, generated LLM-assisted candidate labels, and added the merge workflow.
-- Verified `risk_rules.py`, added the keyword baseline, created the TF-IDF training skeleton, and defined the training input/output schema.
+- Collected and cleaned 255 PlanetTerp reviews, created a 30-review pilot, generated LLM-assisted candidate labels, and added the merge workflow.  (evidence: issue #18, PR #19)
+- Verified `risk_rules.py`, added the keyword baseline, created the TF-IDF training skeleton, and defined the training input/output schema. (evidence: PR #20)
 
 ## User / validation learning
 
@@ -68,7 +68,7 @@ Additional signals such as `harsh_grading`, `self_learning_required`, and `disor
 
 - **Moataz Abdelaziz — Product:** Aligned MVP documentation and baseline risk logic with the four-label first model. (evidence: issue #15, PR #16)
 - **Abhiram Metuku — Data & Evaluation:** Collected and cleaned the PlanetTerp data, created the 30-review pilot, defined the labels and modifiers, generated candidate labels, and built the merge workflow. (evidence: issue #18, PR #19)
-- **Sriram Vema — Engineering:** Defined the training input columns, created `src/train_tfidf_classifier.py`, created `src/workload_signal_baseline.py`, and verified the risk-rule pipeline.
+- **Sriram Vema — Engineering:** Defined the training input columns, created `src/train_tfidf_classifier.py`, created `src/workload_signal_baseline.py`, and verified the risk-rule pipeline.(evidence: PR #20)
 
 ## Lean canvas changes
 
