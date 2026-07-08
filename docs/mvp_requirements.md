@@ -1,27 +1,40 @@
-MVP goal:
+## MVP goal
+
 Help UMD CS/STEM students understand workload risk before committing to a planned semester schedule.
 
-User input:
+## User input
+
 A student enters 3–5 planned courses.
 
 Example:
+
+```text
 CMSC330, CMSC351, STAT400
+```
 
-MVP output:
-- Overall risk: Low / Medium / High
-- Reasons for the risk
-- Confidence level
-- Warning if the risk comes from course combination
+## MVP output
 
-Required explanation factors:
-- project heavy courses
-- exam-heavy courses
-- lab-heavy courses
-- writing-heavy courses
-- high weekly time commitment
-- professor or semester uncertainty
+* Overall risk: Low / Medium / High
+* Reasons for the risk
+* Warning if the risk comes from a course combination
 
-Not included:
-- not replacing academic advising
-- not making official course recommendations
-- not guaranteeing success or failure
+## Required explanation factors
+
+The first MVP should explain risk using four workload signals:
+
+* project-heavy courses
+* exam-heavy courses
+* homework-heavy courses
+* time-consuming courses
+
+## Not included in the first MVP
+
+* Not replacing academic advising
+* Not making official course recommendations
+* Not guaranteeing success or failure
+* Not using confidence as a required output yet
+* Not using professor dependence or course uncertainty as first-version model labels yet
+
+## Future improvements
+
+Future versions may include professor dependence, harsh grading, self-learning, lab-heavy workload, writing-heavy workload, course disorganization, and confidence/uncertainty.
