@@ -57,7 +57,7 @@ Extra signals like professor dependence, harsh grading, self-learning, lab-heavy
 
 * Moataz Abdelaziz (Product): Aligned MVP documentation and baseline risk logic with the four-label first model. (evidence: issue 15, PR #16)
 * Abhiram Metuku (Data&Eval): To be updated after teammate input. (evidence: ...)
-* Sriram Vema (Engineering): To be updated after teammate input. (evidence: ...)
+* Sriram Vema (Engineering): Defined input columns for training, created src/train_tfidf_classifier.py skeleton and src/workload_signal_baseline.py
 
 ## Lean canvas changes
 
