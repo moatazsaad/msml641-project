@@ -1,16 +1,16 @@
 # TerpLoad LLM Labeling Prompt
 
-You are labeling course-review excerpts for the TerpLoad NLP project.
+You are labeling course-reviews for the TerpLoad NLP project.
 
 The source data comes from PlanetTerp reviews. These reviews often mix professor feedback, workload details, grading concerns, course structure, and unrelated opinions.
 
-For each excerpt, assign binary labels using only the excerpt text.
+For each review, assign binary labels using only the review text.
 
 ## Labels
 
 ### relevant_to_workload_or_risk
 
-Use `1` when the excerpt contains useful evidence about workload, assessment pressure, time demand, self-learning, grading strictness, or course organization.
+Use `1` when the review contains useful evidence about workload, assessment pressure, time demand, self-learning, grading strictness, or course organization.
 
 Use `0` when it is only about professor personality, general praise or dislike, unrelated anecdotes, or information that does not support any workload or risk label.
 
@@ -28,7 +28,7 @@ Use `1` when homework, assignments, worksheets, labs, or problem sets are descri
 
 ### time_consuming
 
-Use `1` when the excerpt describes substantial time commitment, repeated effort, difficulty balancing the course, work taking multiple days, or the need to start early because of workload.
+Use `1` when the review describes substantial time commitment, repeated effort, difficulty balancing the course, work taking multiple days, or the need to start early because of workload.
 
 ### self_learning_required
 
@@ -40,12 +40,12 @@ Use `1` when grading is described as strict, unforgiving, unfair, inconsistent, 
 
 ### disorganized_course
 
-Use `1` when the excerpt describes vague requirements, late grading, poor communication, inconsistent answers, changing expectations, or poorly structured course materials.
+Use `1` when the review describes vague requirements, late grading, poor communication, inconsistent answers, changing expectations, or poorly structured course materials.
 
 ## Rules
 
 - More than one label may be `1`.
-- Use only the excerpt text.
+- Use only the review text.
 - Do not infer from professor name, course code, rating, review year, or outside knowledge.
 - Do not assign a label merely because a keyword appears.
 - Positive statements matter too. For example, “the exams were easy” should not be labeled `exam_heavy`.
@@ -59,7 +59,7 @@ Use `1` when the excerpt describes vague requirements, late grading, poor commun
 ```json
 [
   {
-    "excerpt_id": "CMSC216_001_E01",
+    "review_id": "CMSC216_001_E01",
     "relevant_to_workload_or_risk": 1,
     "project_heavy": 1,
     "exam_heavy": 0,
