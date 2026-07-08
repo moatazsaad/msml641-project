@@ -1,0 +1,42 @@
+{
+  "average_gpa": 3.4906382978723407,
+  "professors": [
+    "Mohammad Nayeem Teli",
+    "Manoj Franklin",
+    "Manoj Franklin",
+    "Manoj Franklin",
+    "Mohammad Nayeem Teli",
+    "Gang Qu",
+    "Jerry Wu",
+    "Samet Ayhan",
+    "Jerry Wu",
+    "Rajeev Barua",
+    "Samet Ayhan"
+  ],
+  "reviews": [
+    {
+      "professor": "Manoj Franklin",
+      "course": "MSML605",
+      "review": "Don't expect to learn anything, the course content is Python101. Don't trust a word he says about what will be on the exam, every one of them has at least one \"gotchya\" question that, at times, requires explicit quoting from the slides (not kidding). Your best bet is to read the slides if you want, but be absolutely sure to print every single one of them out for the open-book exams, because any other notes you bring will be worthless. \r\n\r\nThe only A- I received in the program, not because I lacked the conceptual knowledge, but because I didn't have the slides on-hand to quote from, and I trusted him when he said we didn't need to regurgitate them. Don't get got. Print the slides.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2023-08-15T19:12:25.807978Z"
+    },
+    {
+      "professor": "Jerry Wu",
+      "course": "MSML605",
+      "review": "really nice dude grading wise (replaced our final with our project grade), all material is pretty high-level and he doesn't ask anything outside of whats in the slides. he gives you the answer pretty much for the in-class check ins and is generally very approachable.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-05-26T20:51:29.894400Z"
+    }
+  ],
+  "department": "MSML",
+  "course_number": "605",
+  "name": "MSML605",
+  "title": "Computing Systems for Machine Learning",
+  "credits": 3,
+  "description": "<b>Restriction:</b> Must be in the MPS in Machine Learning program.\nProgramming, software and hardware design and implementation issues of computing systems for machine learning. Topics in the programming/software domain will include: basic Python program structure, variables and assignment, built-in data types, flow control, functions and modules; basic I/O, and file operations. Classes, object-oriented programming and exceptions. Regular expressions, database access, network programming and sockets. Introduction to the Numpy, Scipy and Matplotlib libraries. Topics in the hardware domain include computer architecture, CPUs, single- and multi-core architectures, GPUs, memory and I/O systems, persistent storage, and virtual memory. Parallel processing architectures, multiprocessing and cluster processing.",
+  "is_recent": true,
+  "geneds": null
+}
