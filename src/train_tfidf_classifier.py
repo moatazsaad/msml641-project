@@ -8,6 +8,14 @@ Future work:
 - Load labeled review dataset
 - Train one classifier per workload label
 - Save trained models
+
+
+These are the exact input columns needed for training:
+review_text          (string)
+project_heavy        (0/1)
+exam_heavy           (0/1)
+homework_heavy       (0/1)
+time_consuming       (0/1)
 """
 
 import pandas as pd
