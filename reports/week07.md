@@ -5,13 +5,13 @@ week: 07
 date: 2026-07-15
 
 members:
-* name: Moataz Abdelaziz
+- name: Moataz Abdelaziz
   github: "@moatazsaad"
   hat: Product
-* name: Abhiram Metuku
+- name: Abhiram Metuku
   github: "@abhimet"
   hat: "Data&Eval"
-* name: Sriram Vema
+- name: Sriram Vema
   github: "@sriramvema"
   hat: Engineering
   
