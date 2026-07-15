@@ -82,3 +82,9 @@ Examples:
 - “The project instructions were vague.”
 - “Grades were returned weeks late.”
 - “The TAs and professor gave conflicting answers.”
+
+good = correctly labelled by LLM
+ambiguous = labels not identified but review mentions useful info(hw graded strictly, even if heavy not mentioned)
+corrected = wrongly identified
+
+After audtiting, found that the risk modifieres can be added but not for first model but still add context. Can have them as keyword based and use those keywords to determine harshness/disorganization. 
