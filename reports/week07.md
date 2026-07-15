@@ -63,7 +63,7 @@ The current TerpLoad flow is:
 
 * Moataz Abdelaziz (Product): Prepared the midterm presentation structure and added simple tests for `src/risk_rules.py`. (evidence: issue #21, PR #22)
 * Abhiram Metuku (Data&Eval): Working on pilot label audit and labeling notes, worked on midterm presentation. (evidence: issue #23, PR #24)
-* Sriram Vema (Engineering): Working on TF-IDF pipeline and DistilBERT skeleton. (evidence: issue #21, PR #22)
+* Sriram Vema (Engineering): Working on TF-IDF pipeline and DistilBERT skeleton. (evidence: PR #25)
 
 ## Lean canvas changes
 
