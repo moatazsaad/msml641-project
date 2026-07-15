@@ -3,8 +3,8 @@
 team: TerpLoad
 week: 07
 date: 2026-07-15
-members:
 
+members:
 * name: Moataz Abdelaziz
   github: "@moatazsaad"
   hat: Product
@@ -14,7 +14,8 @@ members:
 * name: Sriram Vema
   github: "@sriramvema"
   hat: Engineering
-  north_star:
+  
+north_star:
   metric: Midterm presentation readiness
   value: Midterm checkpoint prepared as a team
   previous: MVP labels and baseline logic aligned
