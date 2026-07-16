@@ -20,3 +20,14 @@ Audited reviews: 10
 Most audit issues were ambiguity issues rather than direct labeling errors. The LLM labels were usually reasonable, but several reviews contained professor-style information or positive-but-challenging signals that did not map cleanly to the four core workload labels.
 
 This suggests that Week 08 weak labeling should use clearer rules for ambiguous cases rather than expanding the first model targets.
+
+## Audit-Based Guideline Updates
+
+Based on the audit, we added the following clarifications:
+
+- Do not mark `project_heavy` only because a review mentions projects. The review should describe projects as long, frequent, intensive, difficult, or a major part of the workload.
+- Do not mark `homework_heavy` only because homework is graded strictly. The review should mention homework frequency, length, difficulty, or time burden.
+- Mark `exam_heavy` when exams are heavily weighted, unusually difficult, frequent, or central to the grade, even if the review is overall positive.
+- Positive reviews can still contain workload signals. A course can be well-taught but still exam-heavy or project-heavy.
+- Professor/course context such as strict grading, disorganization, or self-learning should be saved as descriptive modifiers, not first-model targets.
+- Add a separate modifier for `fair_but_strict` when reviews describe grading or exams as strict/challenging but fair.
