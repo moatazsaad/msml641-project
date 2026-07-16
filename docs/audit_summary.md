@@ -7,3 +7,16 @@
 * from all of them -- have new idea of allowing students to pick the professor as they enter the course.
 * need to put these to side and use as notes for updating labelling guidelines as we go.
   
+## Audit Results
+
+Audited reviews: 10
+
+- good: 6
+- corrected: 0
+- ambiguous: 4
+
+## Main Finding
+
+Most audit issues were ambiguity issues rather than direct labeling errors. The LLM labels were usually reasonable, but several reviews contained professor-style information or positive-but-challenging signals that did not map cleanly to the four core workload labels.
+
+This suggests that Week 08 weak labeling should use clearer rules for ambiguous cases rather than expanding the first model targets.
