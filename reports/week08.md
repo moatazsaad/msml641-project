@@ -24,9 +24,9 @@ north_star:
 
 ## Shipped this week
 
-- Added a simple command-line prototype where a student enters planned courses and receives a Low, Medium, or High workload-risk report. (evidence: issue #29, PR #Y)
-- Used the existing `risk_rules.py` logic with sample workload signals to test the report flow. (evidence: issue #29, PR #Y)
-- Added short user testing notes for checking if the report is clear and useful. (evidence: issue #29, PR #Y)
+- Added a simple command-line prototype where a student enters planned courses and receives a Low, Medium, or High workload-risk report. (evidence: issue #29, PR #30)
+- Used the existing `risk_rules.py` logic with sample workload signals to test the report flow. (evidence: issue #29, PR #30)
+- Added short user testing notes for checking if the report is clear and useful. (evidence: issue #29, PR #30)
 
 ## User / validation learning
 
@@ -47,7 +47,7 @@ The next thing to test is whether students understand the risk level and reasons
 
 ## Individual contributions
 
-- **Moataz Abdelaziz — Product:** Built the simple report CLI and added user testing notes. (evidence: issue #29, PR #Y)
+- **Moataz Abdelaziz — Product:** Built the simple report CLI and added user testing notes. (evidence: issue #29, PR #30)
 - **Abhiram Metuku — Data & Evaluation:** Continued labeling and evaluation work. (evidence: issue #29, PR #Y)
 - **Sriram Vema — Engineering:** Continued baseline/modeling pipeline work. (evidence: issue #29, PR #Y)
 
