@@ -1,71 +1,74 @@
 ---
-
 team: TerpLoad
-week: 07
-date: 2026-07-15
+week: 08
+date: 2026-07-22
 
 members:
-- name: Moataz Abdelaziz
-  github: "@moatazsaad"
-  hat: Product
-- name: Abhiram Metuku
-  github: "@abhimet"
-  hat: "Data&Eval"
-- name: Sriram Vema
-  github: "@sriramvema"
-  hat: Engineering
-  
-north_star:
-  metric: Midterm presentation readiness
-  value: Midterm checkpoint prepared as a team
-  previous: MVP labels and baseline logic aligned
+  - name: Moataz Abdelaziz
+    github: "@moatazsaad"
+    hat: Product
 
+  - name: Abhiram Metuku
+    github: "@abhimet"
+    hat: Data & Evaluation
+
+  - name: Sriram Vema
+    github: "@sriramvema"
+    hat: Engineering
+
+north_star:
+  metric: User-testable report flow
+  value: Simple CLI prototype created
+  previous: Midterm presentation prepared
 ---
 
 ## Shipped this week
 
-* Prepared the midterm presentation structure. 
-* Added simple tests for the baseline risk rules in `src/test_risk_rules.py`. 
-* Started auditing the pilot labeled reviews. 
-* Continued work on the TF-IDF pipeline and DistilBERT skeleton. 
+- Added a simple command-line prototype where a student enters planned courses and receives a Low, Medium, or High workload-risk report. (evidence: issue #29, PR #30)
+- Used the existing `risk_rules.py` logic with sample workload signals to test the report flow. (evidence: issue #29, PR #30)
+- Added short user testing notes for checking if the report is clear and useful. (evidence: issue #29, PR #30)
+- Created a 64-review weak-labeled dataset for first baseline experiments.(evidence: issue #26, PR #27)
+- Added a weakly labeled csv file with four core workload labels and descriptive modifiers.(evidence: issue #26, PR #27)
+
+
 
 ## User / validation learning
 
-The presentation focuses on the main user problem: students struggle to judge whether a planned course combination will be manageable before registration.
-
-The current TerpLoad flow is:
-
-* PlanetTerp reviews
-* four workload labels
-* baseline risk rules
-* student-facing schedule risk report
+The next thing to test is whether students understand the risk level and reasons before the final model is ready.
 
 ## Metrics snapshot
 
-* Workload labels: 4
-* Risk-rule tests added: 5
-* Midterm presentation structure: prepared
-* Pilot label audit: in progress
-* Trained classifier: not completed yet
+- Simple report CLI: created
+- User testing notes: created
+- Risk levels: Low, Medium, High
+- Final trained model: not completed yet
+
+  
+- Raw PlanetTerp reviews collected: about 903
+- Cleaned reviews available: 255
+- Pilot LLM-labeled reviews: 30
+- Week 8 weak-labeled reviews: 64
+- Core workload labels: 4
+- Descriptive modifiers: 4
 
 ## Challenges / blockers
 
-* The pilot labels still need audit-- need more auditing.
-* The TF-IDF model is not fully connected yet.
-* The full end-to-end flow is not complete yet.
+- The CLI uses sample workload signals not final model predictions.
+- The report wording still needs some more student feedback.
+- The TF-IDF model is not fully connected yet.
+- The full end-to-end flow is not complete yet.
+
 
 ## Next week's goal
+- Some reviews focus on professor style or grading rather than direct workload.
+- MSML606 had no cleaned reviews available in the current dataset.
+- project_heavy and homework_heavy have fewer positive examples than exam_heavy and time_consuming.
 
-* Finish label audit.
-* Run the first TF-IDF baseline.
-* Connect predicted labels to the risk report.
 
 ## Individual contributions
 
-* Moataz Abdelaziz (Product): Prepared the midterm presentation structure and added simple tests for `src/risk_rules.py`. (evidence: issue #21, PR #22)
-* Abhiram Metuku (Data&Eval): Working on pilot label audit and labeling notes, worked on midterm presentation. (evidence: issue #23, PR #24)
-* Sriram Vema (Engineering): Working on TF-IDF pipeline and DistilBERT skeleton. (evidence: PR #25)
+- **Moataz Abdelaziz  (Product):** Built the simple report CLI and added user testing notes. (evidence: issue #29, PR #30)
+- **Abhiram Metuku (Data&Eval):**  Created the Week 8 review sample, weak-labeled dataset, label distribution, and labeling notes. (evidence: issue #26, PR #27)
+- **Sriram Vema (Engineering):**   (evidence: issue #, PR #)
 
-## Lean canvas changes
 
-* The main focus is preparing for the midterm checkpoint and keeping the MVP scope realistic.
