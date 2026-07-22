@@ -14,3 +14,4 @@ Has reviews from:
 - MSML604
 - MSML605
 
+MSML 606 didn't have reviews avialable
