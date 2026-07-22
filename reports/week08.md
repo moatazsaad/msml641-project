@@ -73,7 +73,7 @@ The current TerpLoad flow is:
 * Moataz Abdelaziz (Product): 
 * Abhiram Metuku (Data&Eval):  Created the Week 8 review sample, weak-labeled dataset, label distribution, and labeling notes.  
   (evidence: issue #,26 PR #27
-* Sriram Vema (Engineering):   (evidence: issue #, PR #)
+* Sriram Vema (Engineering): Run keyword and TF IDF baselines on new data, generate results (evidence: PR #32)
   
 ## Lean canvas changes
 
