@@ -1,4 +1,4 @@
----
+]---
 
 team: TerpLoad
 week: 07
@@ -44,11 +44,14 @@ The current TerpLoad flow is:
 
 ## Metrics snapshot
 
-* Workload labels: 4
-* Risk-rule tests added: 5
-* Midterm presentation structure: prepared
-* Pilot label audit: in progress
-* Trained classifier: not completed yet
+## Metrics snapshot
+
+- Raw PlanetTerp reviews collected: about 903
+- Cleaned reviews available: 255
+- Pilot LLM-labeled reviews: 30
+- Week 8 weak-labeled reviews: 64
+- Core workload labels: 4
+- Descriptive modifiers: 4
 
 ## Challenges / blockers
 
@@ -58,17 +61,20 @@ The current TerpLoad flow is:
 
 ## Next week's goal
 
-* Finish label audit.
-* Run the first TF-IDF baseline.
-* Connect predicted labels to the risk report.
+- The weak-labeled dataset is small and not fully human-verified.
+- Some reviews focus on professor style or grading rather than direct workload.
+- MSML606 had no cleaned reviews ava/ilable in the current dataset.
+- project_heavy and homework_heavy have fewer positive examples than exam_heavy and time_consuming.
+- Baseline results should be treated as early signals, not final model perfo
+
 
 ## Individual contributions
 
 * Moataz Abdelaziz (Product): 
 * Abhiram Metuku (Data&Eval):  Created the Week 8 review sample, weak-labeled dataset, label distribution, and labeling notes.  
   (evidence: issue #,26 PR #27
-* Sriram Vema (Engineering): 
-
+* Sriram Vema (Engineering):   (evidence: issue #, PR #)
+  
 ## Lean canvas changes
 
 - We are keeping the MVP focused on an evidence-backed schedule-risk report.
