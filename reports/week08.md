@@ -2,7 +2,7 @@
 
 team: TerpLoad
 week: 07
-date: 2026-07-15
+date: 2026-07-22
 
 members:
 - name: Moataz Abdelaziz
