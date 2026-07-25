@@ -64,7 +64,7 @@ The current TerpLoad flow is:
 
 ## Individual contributions
 
-* Moataz Abdelaziz (Product): Connected the TF-IDF course signals to the CLI report, generated course workload signals and added CLI tests. (evidence: issue #33, PR #Y)
+* Moataz Abdelaziz (Product): Connected the TF-IDF course signals to the CLI report, generated course workload signals and added CLI tests. (evidence: issue #33, PR #34)
 * Abhiram Metuku (Data&Eval): Continued labeling and evaluation work. (evidence: issue #X, PR #Y)
 * Sriram Vema (Engineering): Continued baseline/modeling pipeline work. (evidence: issue #X, PR #Y)
 
