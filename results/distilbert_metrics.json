@@ -1,0 +1,24 @@
+{
+    "project_heavy": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "exam_heavy": {
+        "precision": 0.6153846153846154,
+        "recall": 1.0,
+        "f1": 0.7619047619047619
+    },
+    "homework_heavy": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "time_consuming": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+    },
+    "accuracy": 0.15384615384615385,
+    "macro_f1": 0.19047619047619047
+}

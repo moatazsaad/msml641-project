@@ -1,0 +1,4 @@
+Model,Accuracy,Macro F1
+Keyword,,
+TF-IDF,,
+DistilBERT,0.15384615384615385,0.19047619047619047
