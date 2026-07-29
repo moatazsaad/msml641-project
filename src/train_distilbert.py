@@ -1,15 +1,15 @@
+import os
+import json
+import numpy as np
 import pandas as pd
 import torch
 
+from sklearn.metrics import accuracy_score, precision_recall_fscore_support
 from sklearn.model_selection import train_test_split
 from torch.utils.data import Dataset, DataLoader
+from transformers import DistilBertTokenizer, DistilBertForSequenceClassification
 
-from transformers import (
-    DistilBertTokenizer,
-    DistilBertForSequenceClassification,
-)
-
-CSV_PATH = "data/labeled_reviews_sample.csv"
+CSV_PATH = "data/weakly-labeled-week08.csv"
 
 LABEL_COLUMNS = [
     "project_heavy",
@@ -18,34 +18,27 @@ LABEL_COLUMNS = [
     "time_consuming",
 ]
 
+RESULTS_DIR = "results"
+os.makedirs(RESULTS_DIR, exist_ok=True)
+
 MAX_LENGTH = 256
 BATCH_SIZE = 8
+EPOCHS = 3
+LR = 2e-5
 
 df = pd.read_csv(CSV_PATH)
 
-print("Dataset shape:", df.shape)
-
 texts = df["review_text"].astype(str).tolist()
-labels = df[LABEL_COLUMNS].values
+labels = df[LABEL_COLUMNS].astype(int).values
 
-print("Number of reviews:", len(texts))
-print("Label shape:", labels.shape)
-
-
-train_texts, val_texts, train_labels, val_labels = train_test_split(
+train_texts, test_texts, train_labels, test_labels = train_test_split(
     texts,
     labels,
     test_size=0.2,
     random_state=42,
 )
 
-print("Training samples:", len(train_texts))
-print("Validation samples:", len(val_texts))
-
-
-tokenizer = DistilBertTokenizer.from_pretrained(
-    "distilbert-base-uncased"
-)
+tokenizer = DistilBertTokenizer.from_pretrained("distilbert-base-uncased")
 
 train_encodings = tokenizer(
     train_texts,
@@ -54,15 +47,12 @@ train_encodings = tokenizer(
     max_length=MAX_LENGTH,
 )
 
-val_encodings = tokenizer(
-    val_texts,
+test_encodings = tokenizer(
+    test_texts,
     truncation=True,
     padding=True,
     max_length=MAX_LENGTH,
 )
-
-print("Tokenization complete.")
-
 
 class ReviewDataset(Dataset):
     def __init__(self, encodings, labels):
@@ -73,73 +63,155 @@ class ReviewDataset(Dataset):
         return len(self.labels)
 
     def __getitem__(self, idx):
-        item = {
-            key: torch.tensor(val[idx])
-            for key, val in self.encodings.items()
-        }
-
-        item["labels"] = torch.tensor(
-            self.labels[idx],
-            dtype=torch.float,
-        )
-
+        item = {k: torch.tensor(v[idx]) for k, v in self.encodings.items()}
+        item["labels"] = torch.tensor(self.labels[idx], dtype=torch.float)
         return item
 
-
-train_dataset = ReviewDataset(
-    train_encodings,
-    train_labels,
-)
-
-val_dataset = ReviewDataset(
-    val_encodings,
-    val_labels,
-)
-
-
 train_loader = DataLoader(
-    train_dataset,
+    ReviewDataset(train_encodings, train_labels),
     batch_size=BATCH_SIZE,
     shuffle=True,
 )
 
-val_loader = DataLoader(
-    val_dataset,
+test_loader = DataLoader(
+    ReviewDataset(test_encodings, test_labels),
     batch_size=BATCH_SIZE,
 )
 
-print("DataLoaders created.")
-
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 model = DistilBertForSequenceClassification.from_pretrained(
     "distilbert-base-uncased",
     num_labels=4,
     problem_type="multi_label_classification",
+).to(device)
+
+optimizer = torch.optim.AdamW(model.parameters(), lr=LR)
+
+print("Training...")
+
+model.train()
+
+for epoch in range(EPOCHS):
+    total_loss = 0.0
+    for batch in train_loader:
+        optimizer.zero_grad()
+
+        batch = {k: v.to(device) for k, v in batch.items()}
+
+        outputs = model(**batch)
+        loss = outputs.loss
+
+        loss.backward()
+        optimizer.step()
+
+        total_loss += loss.item()
+
+    print(f"Epoch {epoch+1}: loss={total_loss/len(train_loader):.4f}")
+
+print("Evaluating...")
+
+model.eval()
+
+predictions = []
+truths = []
+texts_out = []
+
+with torch.no_grad():
+    idx = 0
+    for batch in test_loader:
+        labels_batch = batch["labels"]
+
+        batch_gpu = {
+            "input_ids": batch["input_ids"].to(device),
+            "attention_mask": batch["attention_mask"].to(device),
+        }
+
+        outputs = model(**batch_gpu)
+
+        probs = torch.sigmoid(outputs.logits).cpu().numpy()
+        preds = (probs >= 0.5).astype(int)
+
+        predictions.extend(preds)
+        truths.extend(labels_batch.numpy())
+
+        bs = len(preds)
+        texts_out.extend(test_texts[idx:idx+bs])
+        idx += bs
+
+predictions = np.array(predictions)
+truths = np.array(truths)
+
+pred_df = pd.DataFrame({"review_text": texts_out})
+
+for i, label in enumerate(LABEL_COLUMNS):
+    pred_df[f"{label}_true"] = truths[:, i]
+    pred_df[f"{label}_pred"] = predictions[:, i]
+
+pred_df.to_csv(
+    os.path.join(RESULTS_DIR, "distilbert_predictions.csv"),
+    index=False,
 )
 
-print("Model loaded.")
+metrics = {}
 
+macro_f1 = []
 
-batch = next(iter(train_loader))
+for i, label in enumerate(LABEL_COLUMNS):
+    p, r, f1, _ = precision_recall_fscore_support(
+        truths[:, i],
+        predictions[:, i],
+        average="binary",
+        zero_division=0,
+    )
 
-outputs = model(
-    input_ids=batch["input_ids"],
-    attention_mask=batch["attention_mask"],
-    labels=batch["labels"],
+    metrics[label] = {
+        "precision": float(p),
+        "recall": float(r),
+        "f1": float(f1),
+    }
+
+    macro_f1.append(f1)
+
+subset_accuracy = accuracy_score(truths, predictions)
+
+metrics["accuracy"] = float(subset_accuracy)
+metrics["macro_f1"] = float(np.mean(macro_f1))
+
+with open(os.path.join(RESULTS_DIR, "distilbert_metrics.json"), "w") as f:
+    json.dump(metrics, f, indent=4)
+
+def load_metrics(path):
+    if os.path.exists(path):
+        with open(path) as f:
+            return json.load(f)
+    return {"accuracy": None, "macro_f1": None}
+
+keyword = load_metrics(os.path.join(RESULTS_DIR, "keyword_baseline_metrics.json"))
+tfidf = load_metrics(os.path.join(RESULTS_DIR, "tfidf_metrics.json"))
+distil = load_metrics(os.path.join(RESULTS_DIR, "distilbert_metrics.json"))
+
+comparison = pd.DataFrame([
+    {
+        "Model": "Keyword",
+        "Accuracy": keyword.get("accuracy"),
+        "Macro F1": keyword.get("macro_f1"),
+    },
+    {
+        "Model": "TF-IDF",
+        "Accuracy": tfidf.get("accuracy"),
+        "Macro F1": tfidf.get("macro_f1"),
+    },
+    {
+        "Model": "DistilBERT",
+        "Accuracy": distil.get("accuracy"),
+        "Macro F1": distil.get("macro_f1"),
+    },
+])
+
+comparison.to_csv(
+    os.path.join(RESULTS_DIR, "model_comparison.csv"),
+    index=False,
 )
 
-print("\nForward pass successful!")
-
-print("Loss:")
-print(outputs.loss.item())
-
-print("\nLogits shape:")
-print(outputs.logits.shape)
-
-print("\nExpected:")
-print(f"({BATCH_SIZE}, 4)")
-
-print("\nExample logits:")
-print(outputs.logits[0])
-
-print("\nDone!")
+print("Finished.")
