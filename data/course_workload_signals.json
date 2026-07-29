@@ -1,0 +1,86 @@
+{
+  "CMSC216": {
+    "course_code": "CMSC216",
+    "review_count": 50,
+    "project_heavy": false,
+    "project_heavy_positive_rate": 0.18,
+    "exam_heavy": true,
+    "exam_heavy_positive_rate": 0.36,
+    "homework_heavy": false,
+    "homework_heavy_positive_rate": 0.02,
+    "time_consuming": true,
+    "time_consuming_positive_rate": 0.44
+  },
+  "CMSC250": {
+    "course_code": "CMSC250",
+    "review_count": 50,
+    "project_heavy": false,
+    "project_heavy_positive_rate": 0.0,
+    "exam_heavy": true,
+    "exam_heavy_positive_rate": 0.68,
+    "homework_heavy": false,
+    "homework_heavy_positive_rate": 0.1,
+    "time_consuming": false,
+    "time_consuming_positive_rate": 0.14
+  },
+  "CMSC330": {
+    "course_code": "CMSC330",
+    "review_count": 50,
+    "project_heavy": false,
+    "project_heavy_positive_rate": 0.22,
+    "exam_heavy": false,
+    "exam_heavy_positive_rate": 0.24,
+    "homework_heavy": false,
+    "homework_heavy_positive_rate": 0.0,
+    "time_consuming": true,
+    "time_consuming_positive_rate": 0.66
+  },
+  "CMSC351": {
+    "course_code": "CMSC351",
+    "review_count": 50,
+    "project_heavy": false,
+    "project_heavy_positive_rate": 0.0,
+    "exam_heavy": true,
+    "exam_heavy_positive_rate": 0.76,
+    "homework_heavy": false,
+    "homework_heavy_positive_rate": 0.04,
+    "time_consuming": true,
+    "time_consuming_positive_rate": 0.32
+  },
+  "MSML604": {
+    "course_code": "MSML604",
+    "review_count": 3,
+    "project_heavy": true,
+    "project_heavy_positive_rate": 0.333,
+    "exam_heavy": false,
+    "exam_heavy_positive_rate": 0.0,
+    "homework_heavy": false,
+    "homework_heavy_positive_rate": 0.0,
+    "time_consuming": true,
+    "time_consuming_positive_rate": 0.333
+  },
+  "MSML605": {
+    "course_code": "MSML605",
+    "review_count": 2,
+    "project_heavy": false,
+    "project_heavy_positive_rate": 0.0,
+    "exam_heavy": true,
+    "exam_heavy_positive_rate": 0.5,
+    "homework_heavy": false,
+    "homework_heavy_positive_rate": 0.0,
+    "time_consuming": false,
+    "time_consuming_positive_rate": 0.0
+  },
+  "STAT400": {
+    "course_code": "STAT400",
+    "review_count": 50,
+    "project_heavy": false,
+    "project_heavy_positive_rate": 0.0,
+    "exam_heavy": true,
+    "exam_heavy_positive_rate": 0.76,
+    "homework_heavy": false,
+    "homework_heavy_positive_rate": 0.02,
+    "time_consuming": false,
+    "time_consuming_positive_rate": 0.18
+  }
+}
