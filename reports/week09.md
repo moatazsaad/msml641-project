@@ -17,7 +17,7 @@ members:
 
 north_star:
   metric: End-to-end baseline report flow
-  value: TF-IDF course signals connected to the CLI report
+  value: TF-IDF course signals connected to the CLI report, with initial model comparison and error analysis
   previous: Simple report CLI created for user testing
 
 ---
@@ -31,7 +31,7 @@ north_star:
 
 ## User / validation learning
 
-The report is more useful when it is connected to real review-based signals instead of manually typed sample data.
+The report is more useful when it is connected to real review-based signals instead of manually typed sample data. 10 additional people said the simple student facing report seems descriptive enough to make a difference in their decision making. within next 2 weeks need to have proper functionality.
 
 The current TerpLoad flow is:
 
@@ -48,6 +48,9 @@ The current TerpLoad flow is:
 * Risk-rule tests still passing: 5
 * TF-IDF baseline connected to CLI: yes
 * Final trained model: not completed yet
+* DistilBERT experiment completed: yes
+* Model mistakes reviewed: 10
+
 
 ## Challenges / blockers
 
@@ -58,14 +61,16 @@ The current TerpLoad flow is:
 
 ## Next week's goal
 
-* Add more labeled review data
-* Improve model evaluation
-* Keep testing the CLI report with realistic course combinations
+* Aggregate final prediction outputs into course-level workload profiles.
+* Add risk modifiers as descriptive context.
+* Add grade fallback for courses with limited review evidence.
+* Validate several generated course reports manually.
+* Prepare the report output for the final demo interface.
 
 ## Individual contributions
 
 * Moataz Abdelaziz (Product): Connected the TF-IDF course signals to the CLI report, generated course workload signals and added CLI tests. (evidence: issue #33, PR #34)
-* Abhiram Metuku (Data&Eval): Continued labeling and evaluation work. (evidence: issue #X, PR #Y)
+* Abhiram Metuku (Data&Eval): Reviewed model mistakes and wrote Week 9 error analysis focused on ambiguous workload signals, fair and heavy reviews, and model limitations. (evidence: issue #35, PR #38)
 * Sriram Vema (Engineering): Continued baseline/modeling pipeline work. (evidence: PR #37)
 
 ## Lean canvas changes
