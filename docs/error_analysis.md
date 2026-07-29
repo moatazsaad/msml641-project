@@ -12,3 +12,6 @@
 | 8 | CMSC216 | DistilBERT | Missed project_heavy and time_consuming for a review saying projects were hard and students should not wait until the last day. | This is a major miss because project-heavy and time-consuming are exactly the signals TerpLoad needs for schedule planning. |
 | 9 | CMSC351 | DistilBERT | Missed time_consuming for a review describing self-learning and major outside study effort. |  review implies time pressure through studying and possibly some self learning, model did not capture that though.  hows implied workload is harder than obvious keywords. |
 | 10 | MSML604 | DistilBERT | Predicted exam_heavy for a review mostly saying averages were low but the professor curved generously. | Low averages or grade difficulty do not always mean exam-heavy workload. so need the grade/context information, not automatically as workload risk. |
+
+
+Seemed like issue was with mixed reviews especially for keyword. Keyword is very sensitive to any mention of a label. TF-IDF also similar. DistilBERT was definitely better but  needs a bigger sample and plan to use model predictions together with confidence levels, evidence snippets, and descriptive modifiers.
