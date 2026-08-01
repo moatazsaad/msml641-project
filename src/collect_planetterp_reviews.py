@@ -12,7 +12,7 @@ import json
 import time
 from pathlib import Path
 from typing import Any 
-
+import os 
 import requests
 
 BASE_URL = "https://planetterp.com/api/v1/course"
@@ -21,8 +21,15 @@ COURSE_LIST_PATH = Path("data/initial_course_list.csv")
 CACHE_DIR = Path("data/cache/planetterp")
 OUTPUT_PATH = Path("data/raw_planetterp.csv")
 
-REQUESTS_DELAY = 2
-MAX_REVIEWS_PER_COURSE = 50
+REQUESTS_DELAY = float(os.getenv("PLANETTERP_REQUEST_DELAY", "2"))
+
+max_reviews_from_env = os.getenv("MAX_REVIEWS_PER_COURSE", "50").strip()
+
+MAX_REVIEWS_PER_COURSE = (
+    None
+    if max_reviews_from_env.lower() in {"", "none", "all"}
+    else int(max_reviews_from_env)
+)
 
 def load_course_ids(path:Path) -> list[str]:
   """Load course IDs """
