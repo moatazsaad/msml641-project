@@ -21,7 +21,7 @@ COURSE_LIST_PATH = Path("data/initial_course_list.csv")
 CACHE_DIR = Path("data/cache/planetterp")
 OUTPUT_PATH = Path("data/raw_planetterp.csv")
 
-REQUESTS_DELAY = float(os.getenv("PLANETTERP_REQUEST_DELAY", "2"))
+REQUESTS_DELAY = float(os.getenv("PLANETTERP_REQUEST_DELAY", "1"))
 
 max_reviews_from_env = os.getenv("MAX_REVIEWS_PER_COURSE", "50").strip()
 
