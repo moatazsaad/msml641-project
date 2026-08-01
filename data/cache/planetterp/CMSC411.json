@@ -1,0 +1,536 @@
+{
+  "average_gpa": 2.8826757532281206,
+  "professors": [
+    "Chau-Wen Tseng",
+    "Michelle Hugue",
+    "Alan Sussman",
+    "Ilchul Yoon",
+    "Ilchul Yoon",
+    "Bahar Asgari",
+    "Ilchul Yoon",
+    "Ilchul Yoon",
+    "Ilchul Yoon",
+    "Ilchul Yoon",
+    "Bahar Asgari",
+    "Ilchul Yoon",
+    "Bahar Asgari",
+    "Ilchul Yoon",
+    "Ilchul Yoon",
+    "Bahar Asgari",
+    "Ilchul Yoon"
+  ],
+  "reviews": [
+    {
+      "professor": "Michelle Hugue",
+      "course": "CMSC411",
+      "review": "Read all the posts below. She is fun, knowledgeable, cares about her students, and works with you if you don't understand certain concepts.\n\r\nHer teaching style isn't for everyone, but I find you can extrapolate your compatibility with her from the prior reviews.\n\r\nBottom line is: SHE CARES. She wants you to succeed and she'll fight tooth and nail for her students.\n\r\nThis review isn't nearly as long or as passionate as it should be, but I think the others get it across nicely.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2009-08-19T14:33:00Z"
+    },
+    {
+      "professor": "Michelle Hugue",
+      "course": "CMSC411",
+      "review": "You will not learn anything by taking this class. Past exams saved my life. ",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2018-04-17T03:48:39Z"
+    },
+    {
+      "professor": "Ilchul Yoon",
+      "course": "CMSC411",
+      "review": "Not a great lecturer. Too little resource to prepare for the exam. Get ready to teach yourself if you are about to take this professor's class.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2018-08-17T03:33:51Z"
+    },
+    {
+      "professor": "Ilchul Yoon",
+      "course": "CMSC411",
+      "review": "Pretty tough class if you don't understand. Exams are hard, there were not enough materials given to practice. He is understanding but not good as a lecturer.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2018-08-24T22:46:51Z"
+    },
+    {
+      "professor": "Ilchul Yoon",
+      "course": "CMSC411",
+      "review": "Dr. Yoon's delightful attitude towards student concerns was not enough to fully recommend him as a lecturer. This course is pretty dry and dull in terms of material, so I am not sure if any other teacher would've made it more interesting for me, but Dr. Yoon certainly did not.\r\n\r\nI took this course during a summer session so it was compacted into classes every day for 6 weeks. We had one midterm exam, a home work every week and a final exam. I felt so inadequately prepared for both exams, and the homeworks were tedious busy work. On top of that he assigned a coding project in C that was a simulation of the MIPS pipeline process (You learn about this during the class) and it was the second hardest project I ever took on and I felt it was just useless busy work. \r\n\r\nThe midterm was incredibly long and ridiculously packed with material not many were familiar with. He even said he anticipated low exam scores because people would not finish on time. For the first exam, we originally had 85 minutes, however since there was no class after ours let out he extended it to 100 minutes because people needed more time. This was the same situation for the final exam only no time extension. I barely got time to go to all the questions and just attempt them. \r\n\r\nThe one thing that makes this class with Yoon worth it, is it can be a passable class since he gives a butt load of extra credit and partial credit for just attempting questions but not necessarily answering them correctly.\r\n\r\nBecause of the unreasonable amount of questions on exams, the difficulty of the project and homeworks, the average of the class was a 56%. So Yoon curved the course NICELY. I ended up with a 66% and that was good enough for a B- .\r\n\r\nI like Yoon as a person and he's very helpful in his office hours but he still isn't very clear on the material a lot of times. Since I do not know how the other teachers are for 411 I cannot suggest taking them over Yoon. If you have to take Yoon just remember these things 1) The exams are unreasonably long and nearly impossible to get an A on, but he gives a lot of partial credit for simply attempting questions. 2) The project he assigns is hard and unnecessary busy work. 3) He isn't very effective as a lecturer, and does not give enough resources and practice materials to prepare you for exams. Even homeworks are not sufficient.",
+      "rating": 2,
+      "expected_grade": "B-",
+      "created": "2018-08-25T18:00:11Z"
+    },
+    {
+      "professor": "Ilchul Yoon",
+      "course": "CMSC411",
+      "review": "One of the worst professors I've had. He is a terrible lecturer - anything he says goes in one ear and out the other. He gives extra credit and partial credit - but you don't learn anything in his class. If you actually want to learn something, I recommend taking another teacher.",
+      "rating": 1,
+      "expected_grade": "W",
+      "created": "2018-08-27T21:39:27Z"
+    },
+    {
+      "professor": "Michelle Hugue",
+      "course": "CMSC411",
+      "review": "Perfect professor to take if you want to simply pass the class. I studied 3 days before both midterms and did perfectly fine. The exams are very long and you aren't expected to finish them. However, you should attempt to write something for every single question because you will get partial credit as long as it's not blank. The class is online now so you are given a ton of readings/videos and one homework to turn in each week. I never read any articles or watched any videos. The homeworks are graded for completion and are worth 5% of your grade. To study, simply read over the answers to the homeworks. As long as you know a little bit of the material, you should be completely fine. To pass, you need a 55%, which is incredibly easy to achieve. ",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2019-12-12T00:15:57Z"
+    },
+    {
+      "professor": "Michelle Hugue",
+      "course": "CMSC411",
+      "review": "Meesh is not a teacher. Meesh is a course coordinator. She sends students on a scavenger hunt looking for course material and then expects them to complete massive exam packets as if we learned enough from her to be able to complete even a portion of them. Instead of providing recorded lectures or even lecture notes, she links to other professors' lectures (I don't think she got permission), and random articles that are completely irrelevant to the questions she asks on examinations. She is very lazy and refuses to answer small questions because she answered them before, and you have to find them on her out of date ELMS pages. When I asked her a question about how things were being handled due to the move online (COVID-19), she gave an extremely rude response, giving the excuse that these things should be obvious when they are clearly not. Just the worst experience I have ever had in a class at Maryland. In fact its not a class, its paying close to 2000$ for the right to take exams. ",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2020-05-13T18:21:04Z"
+    },
+    {
+      "professor": "Michelle Hugue",
+      "course": "CMSC411",
+      "review": "Meesh is an enigma. This was the first semester that 411 was fully taught online. We weren't able to learn anything in the first week of classes because she didn't know how to hyperlink her files in ELMS. All Piazza questions were answered vaguely and in long mistyped formats that usually included her having conversations with herself before arriving at an \"answer\" which was usually copied and pasted from the syllabus (which was also confusing and vague). She had weekly worksheet assignments that you would submit on Gradescope. All her weekly \"lectures\" were readings from the book and YouTube videos. She never actually lectured or recorded herself lecturing and when students asked about this and if she could lecture she would respond with a very long and confusing post ultimately saying that she didn't think it was necessary and we should use our skills as students to use our resources (YouTube) to teach ourselves. \r\n\r\nIf you actually watch the YouTube videos, you will learn something. I found it interesting and actually learned a bit but there was no real use for it as the exams were almost copy and paste from her practice exam and the weekly worksheets. However, you won't have enough time to finish the exams because they are 30 pages long. She doesn't expect anyone to finish the exam and grades it based on the highest score. She also drops an exam including the final. You won't fail this class, but you might not learn from it and more than likely will be confused and get a headache if you actually have questions for her. I spent a solid 4 weeks not knowing what was going on and I'm pretty sure she didn't know what was going on either.",
+      "rating": 2,
+      "expected_grade": "P",
+      "created": "2020-05-15T04:24:47Z"
+    },
+    {
+      "professor": "Michelle Hugue",
+      "course": "CMSC411",
+      "review": "Pros:\r\n* prof answers questions on piazza\r\n* prof provides good practice problems\r\n* easy to get an A in the class (or at least very difficult to fail) because there's five different grading methods (your final grade in the class is max of all five possible final grades) and you will get at least one point for each question that is answered on an exam (ie you can only get a zero for a question if you leave it completely blank).\r\n* class is curved\r\n\r\nCon:\r\n* in lieu of lectures, the prof provides several links to mostly relevant material so this course is purely self-taught",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2020-05-17T00:59:06Z"
+    },
+    {
+      "professor": "Ilchul Yoon",
+      "course": "CMSC411",
+      "review": "I thought CMSC351 with Kruskal was the worst class at UMD, but CMSC411 with Yoon over Summer makes a close second or possibly #1. The way the class is taught, organized and graded is a joke and I learned nothing because of this professor's teaching style. \r\n\r\nThe syllabus describes having up to 5 homeworks with NO due date. We ended up with 4 homeworks released randomly during the semester, one of which was released the last week of class  with 3 days notice - Mean. The class project also did NOT have a release date or due date on the syllabus and it takes half the semester to get even a few points (most of the class couldn't score more than 50% on the project). How are we supposed to plan for a semester with NO DUE DATES????\r\n\r\nFinals week was unnecessarily stressful. Last homework was due, the month-long project was due, and the final exam were due all one day after another. My mental health took such a hit with this bombardment of assignments and inadequate teaching from lectures that I couldn't study for the final at all. Somehow if you just write something down you get partial credit? But did I learn anything? Absolutely not. \r\n\r\nThe only way I passed was because the class had an average of 59% +/- 20%. Nobody had a clue what their grade was going into finals week. I somehow passed but I honestly did not care if I failed, this class was garbage and I feel it took more out of me than what it offered. I wish I had seen a review like this that would have made me change my 4-year plan to avoid this garbage, but at least I can graduate a semester sooner. \r\n\r\n",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2020-08-26T03:48:15Z"
+    },
+    {
+      "professor": "Michelle Hugue",
+      "course": "CMSC411",
+      "review": "She is not a teacher but a photocopier, or this class should be \"How to use search engines\" but not \"Computer Systems Architecture\". She just gives out tons of youtube links and that will be the class. No lecture! You have no idea what the test will be on. We post a poll on piazza and 95% of students agree that the class material is not enough to take the test. IF you are good at GOOGLE, then choose her!",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2020-11-08T14:31:12Z"
+    },
+    {
+      "professor": "Michelle Hugue",
+      "course": "CMSC411",
+      "review": "Don't take this class unless your a fan of 20 page exams full of poorly taught information that take literal days to complete.",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2020-11-22T03:09:21Z"
+    },
+    {
+      "professor": "Michelle Hugue",
+      "course": "CMSC411",
+      "review": "Meesh is an awful teacher. I went in knowing that the class was at least a little disorganized, but it was beyond that. Grading was slow, the tests (6 of them) were all about 20 pages long and take home over three days, and the questions were always somewhere between confusing and trivia. Course materials weren't much better, and piazza responses to fair questions were rude, if they were answered at all. I don't recommend you take any class with Meesh. ",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2020-12-03T18:26:21Z"
+    },
+    {
+      "professor": "Michelle Hugue",
+      "course": "CMSC411",
+      "review": "We took a poll on piazza:\r\nDo you feel that the class materials adequately prepare you for the exams? \r\nOut of the 75 votes, 95% said No and 5% said Yes.\r\nWe then asked for some instructor commentary on the post after it closed. \r\nIt has been 1 month now and we still have not received a response.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2020-12-04T02:40:10Z"
+    },
+    {
+      "professor": "Michelle Hugue",
+      "course": "CMSC411",
+      "review": "This is the first time that 411 was taught fully online from start to finish and..... It was not a fun time at all. Friends of mine said this was a relatively easy class because you just go to lecture and take the 2 exams. But this class is online. From the beginning, Dr.Hugue posts weekly short worksheets with the answers, youtube videos by another professor at a different university, 5-10 pages from the textbook that won't help you on the exam at all, quizzes that are very vague and don't really cover the material on the exam, and with a cherry on top, doesn't lecture at all. Within the first week many students including myself had asked her how we were supposed to study for the exams, and many students including myself either were told to look at the given course material, or never received a response. There were 6 \"short tests\" (In reality they were 6 part tests with 1 being 20 multiple choice questions and the other 5 were 8-15 open response questions with a sentence or more each). She only grades the 5 highest tests too. I will at least say that the course material does help you to answer 3-5 questions on the exam. But that leaves pretty much 90% of the exam to be answered by googling questions for 8-12 hours in order to get a B on each test. I have to assume that if she would just hold lectures that it wouldn't be this bad, but since she either doesn't know how to do remote lectures or make lecture videos, your pretty much left to google all the answers for the tests. On the bright side you can pass the class with a 55% because that is her cut off for a C-.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2020-12-04T03:36:21Z"
+    },
+    {
+      "professor": "Michelle Hugue",
+      "course": "CMSC411",
+      "review": "The absolute worst professor I have ever had for any course. Unbearably long exams, horrible communication skills with her students, questions on exams that make no sense, \"short\" semester exams being 22 pages (we had 6 exams). She is not a professor. She simply writes exams and grades them, that is it. The TAs do nothing, she does not lecture, and she is rude as hell in piazza responses. Avoid her and this class. Take it if you want an easy A, though it may cost you your sanity",
+      "rating": 1,
+      "expected_grade": "A+",
+      "created": "2020-12-09T17:29:25Z"
+    },
+    {
+      "professor": "Michelle Hugue",
+      "course": "CMSC411",
+      "review": "Do not ever take a class with her if you value your time or sanity even the slightest bit. I would say \"this is by far the worst professor I have ever had,\" but she doesn't really even qualify as a \"professor\" in any real sense of the word. There's no lecture, and she gives 30-page exams based on material she never taught, riddled with typos and logic errors because they are never proofread, usually with massive sections plagiarized from other courses at other universities. The exams take hours to complete, if you want an A then be prepared to spend well over 80 hours doing independent research to complete them through the semester. Also be prepared to be yelled at if you ask a reasonable question on Piazza, if she deigns to answer at all.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2020-12-13T01:25:39Z"
+    },
+    {
+      "professor": "Michelle Hugue",
+      "course": "CMSC411",
+      "review": "She is not good at all. Like please, don't take her if you don't have to. You will not learn much at all. My knowledge of comp arch is very scattered because of this \"self teaching\" approach, and with no real structured lectures or anything it makes it hard since there's a lot of seemingly conflicting information. Speaking of conflicting information, her notes/worksheet answers are just straight up incorrect sometimes. \r\n\r\nOverall, a very disorganized course, and if you want to learn something you should probably take it with a different professor. I don't really know why she still teaches. ",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2020-12-13T01:31:16Z"
+    },
+    {
+      "professor": "Michelle Hugue",
+      "course": "CMSC411",
+      "review": "If you want to waste your time doing a bunch of 15+ page exams filled with typos, this is your professor. ",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2020-12-13T01:50:09Z"
+    },
+    {
+      "professor": "Michelle Hugue",
+      "course": "CMSC411",
+      "review": "6 exams, each like 20 pages, no lectures (actually zero), just YouTube videos and stolen slides. ",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2020-12-13T03:37:10Z"
+    },
+    {
+      "professor": "Michelle Hugue",
+      "course": "CMSC411",
+      "review": "This course should have been foundational to my computer science learning but the way the course was executed was below average. The grading policy was changed from the syllabus after the she discovered the one on the syllabus was not an accurate reflection of our scores (it would curve us down). Worksheets used for learning had answer keys with several mistakes. There were no concrete course materials to rely on as each week we were sent links (some of which didn't work) and those links did not help very much with the worksheets or tests. I'd say we were actually taught nothing through this course and that the process of doing the exams (which were open note and internet) was the only way a student could learn and students would have to google their own resources because the given class resources were hardly helpful aside from SOME of the worksheet answer keys (which as I mentioned earlier were poorly explained examples and contained several inaccuracies). Her responses to genuine questions on piazza were rather defensive which made many students not want to ask her questions. The tests determined 90% of our grades were so long-- I spent over 24 hours working on the last test and at least 12 hours on all the other ones (there were 6 short tests that were all 12+ pages). I guess I could summarize the course in that it wasn't necessarily hard but it required students to go far above what they needed to. It felt like she was not the professor of this course and that we did not have a professor at all. ",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2020-12-13T04:32:59Z"
+    },
+    {
+      "professor": "Michelle Hugue",
+      "course": "CMSC411",
+      "review": " This semester we had 6 \"short\" exams that ranged from 12-22 pages long each.  Class materials were given to us via youtube links.  She also was too lazy to fix mistakes in the exams and material she gave us.  Overall, not too hard to get a good grade, but the tests do take a considerable amount of time.",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2020-12-13T21:29:38Z"
+    },
+    {
+      "professor": "Michelle Hugue",
+      "course": "CMSC411",
+      "review": "Terrible. I don't care that I got a decent grade. What's the point if I did not learn anything? I don't even know what Prof. Hugue looks or even sounds like. All of the class materials uploaded for the course were from a Youtube Channel \"Prof. Dr. Ben H. Juurlink\" or random websites that contained somewhat \"relevant\" information.   Even the slides she uploads are not hers! The \"short\" semester tests are anything but short -- the tests got progressively longer, starting from 12 pages to 23 pages (really?!). Would never recommend this class to anyone that wants to actually learn something. ",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2020-12-13T22:48:28Z"
+    },
+    {
+      "professor": "Michelle Hugue",
+      "course": "CMSC411",
+      "review": "Completely fails to teach anything- uses other universities lecture slides and gives exam questions which have nothing to do with the provided notes. ",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2020-12-14T01:18:37Z"
+    },
+    {
+      "professor": "Michelle Hugue",
+      "course": "CMSC411",
+      "review": "Complete joke of a class. There are no lectures, just links to youtube videos from other random sources online. There is no communication with students. The tests are painfully long and the questions are sometimes pure nonsense. They are also filled with typos (including due dates because they are copied and pasted from previous semesters) that won't be addressed for days if at all. Anyone on here giving above a 1 star is just happy to pass the class with minimal effort, but as someone who also wanted to learn a little bit this was a complete waste of my time and tuition. I was warned all of this before taking the class but ignored it all because I wanted an easy passing grade, and here I am writing the only review I have ever felt the need to write. If you want to learn computer architecture I recommend doing it on your own, you will be much more successful that way.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2020-12-31T16:57:01Z"
+    },
+    {
+      "professor": "Michelle Hugue",
+      "course": "CMSC411",
+      "review": "Taking this class with Meesh was an incredibly disappointing experience. I knew going in that it wasn't supposed to be a hard class and that it could be a bit disorganized, and those things are both fair enough. This class had a LOT of work - six exams, of which only one was dropped, which gave an exam pretty much every other week. Each of them were about 20 pages, and finding the information was difficult. Grading took forever as well, so it was hard to know how you were doing in the course.  ",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2021-01-04T00:09:23Z"
+    },
+    {
+      "professor": "Michelle Hugue",
+      "course": "CMSC411",
+      "review": "Worst professor I've ever had. She literally doesn't teach at all!!! If you have any thoughts of taking a class with her, you should look at the tons of 1 star reviews below this to show how terrible of an instructor she was. DO NOT TAKE HER.",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2021-04-06T14:37:49Z"
+    },
+    {
+      "professor": "Michelle Hugue",
+      "course": "CMSC411",
+      "review": "Horrible. Absolutely horrible. No idea how the department still has her on staff, given the abysmal experiences in her classes. ",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2021-04-08T14:57:55Z"
+    },
+    {
+      "professor": "Michelle Hugue",
+      "course": "CMSC411",
+      "review": "Avoid taking this course with Meesh at all costs. You won't learn a single thing and you will waste your precious time doing 20+ page long exams multiple times per month. Even Yoon is a better option than this professor. Stay clear! Not taking 411 at all is better than 411 with Meesh. ",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2021-04-26T15:01:26Z"
+    },
+    {
+      "professor": "Ilchul Yoon",
+      "course": "CMSC411",
+      "review": "I have put my blood, sweat, and tears into this class. Every week, I open my legal textbook PDF and read a good 30 pages of it in addition to watching Ilchuls absolutely disorganized, unintelligible, garbled lectures. We have a lovely 5 quizzes, 5 homework assignments, 2 midterms, and a programming assignment that seem to be on things that Ilchul has never spoken of during lectures. Luckily, he sometimes gives practice material that sometimes helps you prepare for midterms/quizzes. When I think about this class, I feel like 50lbs of burning coal have amassed onto my chest. That being said, Ilchul is extremely clever; he will always give us quizzes/midterms that are impossible to finish, but then give a brief apology and swear a soon-to-be reneged promise to make the next quiz/midterm more fair and doable.\r\n",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2021-04-26T23:39:45Z"
+    },
+    {
+      "professor": "Ilchul Yoon",
+      "course": "CMSC411",
+      "review": "While I'd give Yoon a 3/5, all these 1-star ratings are just silly. There are only a few key ideas that you need to know that will get you a B/C on assignments, which will likely get curved up to an A/B anyways. People who overstress about trying to memorize endless pages and slides of material aren't approaching the course (and school) in the right way.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2021-05-05T17:45:27Z"
+    },
+    {
+      "professor": "Ilchul Yoon",
+      "course": "CMSC411",
+      "review": "Nice guy, but a terrible teacher. The class is terribly structured, and the TAs are not helpful. I feel like I barely learned anything from this class.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2021-05-17T15:01:46Z"
+    },
+    {
+      "professor": "Ilchul Yoon",
+      "course": "CMSC411",
+      "review": "I should preface this review by saying that not only did I take CMSC411 with Yoon, but I also took CMSC216 and CMSC131 with him. I was left with a sour taste in my mouth after 131 and 216. The common theme with all three of these experiences is that he is a subpar lecturer and his exams are hard. He very much adopts the philosophy of making exams harder than they need to be in hopes of students having a more thorough understanding of course material as a result. In 216, I completely disregarded his lectures and managed to pass the class solely through self-study of the recommended textbook. I anticipated that I would adopt a similar strategy for CMSC411, but it actually turned out to be the opposite. In 411, I learned practically all of the course material through lecture slides and their accompanying lectures. Reading the textbook isn't really necessary, but it is a useful second resource. I watched every recorded lecture and I was able to understand most of it, and it was not entirely because of the lecture slides. Yoon's lecturing was useful in understanding a lot of the complexities of computer architecture that I likely would have been lost on if I relied solely on the textbook (the textbook is far from an easy read), but the lectures were not easy to get through. The material for this course can be extremely boring at times. The project for this course is not to be taken lightly; absolutely start it as soon as possible. Class final grade average was ~62 and the cutoff to pass the course was basically a 50. Overall, I do feel like I learned a lot but it's not likely to be needed on a day-to-day basis so I will probably forget 90% of it. Yoon is quick to respond to piazza posts, punctual and courteous, but not the best lecturer.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2021-05-21T22:24:11Z"
+    },
+    {
+      "professor": "Michelle Hugue",
+      "course": "CMSC411",
+      "review": "If you are trying to take any class with this prof, you are making the biggest mistake of your life. To simply put it, \r\n1: you waste your time  2: you waste your money(tuition)  3: you learn nothing whatsoever \r\n4: you will stress out trying to do a 20-page long exam(6 of them) without being thought anything.  \r\n\r\nComputer architecture(CMSC411) is good for computer science students, however, if it comes to taking it with this professor, you are better of noting taking this course. \r\nTHE WORST PROFESSOR EVER EXISTED.   ",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2021-11-22T01:07:27Z"
+    },
+    {
+      "professor": "Michelle Hugue",
+      "course": "CMSC411",
+      "review": "Life was made difficult and inconvenient by the 20-page examinations issued over the course of the semester. Resources were lacking and the professor would post videos that were sometimes not even in English. You think the class is synchronous as it is listed like that, well think again its asynchronous, does not have actual lectures just bootlegged youtube videos. You won't learn, you'll probably pass though.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2021-11-23T00:18:15Z"
+    },
+    {
+      "professor": "Ilchul Yoon",
+      "course": "CMSC411",
+      "review": "He's clearly knowledgeable, but the class structuring is abysmal, and there are questions on exams that he does not prepare you for. \r\n\r\nThere is also this project that is not that hard and boils down to busy work. \r\n\r\nOverall, I'd say what I learned what pretty useless if I end up remembering it at all, and I would recommend you take a different course if you're trying to fill out your area 1 requirement.",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2021-12-09T18:57:44Z"
+    },
+    {
+      "professor": "Ilchul Yoon",
+      "course": "CMSC411",
+      "review": "Pros:\r\n- Dr. Yoon is very nice person\r\n- Will answer your question in class... probably because only 10 other people came to class\r\n- The 1 programming had better documentation and public tests than most other projects I have seen in CMSC upper levels\r\nCons:\r\n- The class is based around curving. It's more stressful than it has to be\r\n- Exams and quizzes are stupid long; you will not finish\r\n- Exams are only tangentially related to practice problems and homeworks\r\n- Lectures are hard to follow and go by too fast. Dr. Yoon has a hard time of gauging when the class doesn't understands a concept he is explaining and will abruptly move on\r\n- Asking questions about the homework on Piazza is met with vague answers\r\n\r\nWill you die if you take this class? No.\r\nWill it be more difficult than it has to be? Yes. \r\n\r\n\r\n\r\n\r\n",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2021-12-18T19:59:14Z"
+    },
+    {
+      "professor": "Ilchul Yoon",
+      "course": "CMSC411",
+      "review": "You do not need to attend his lectures. If you read the book you'll probably be fine. MAKE SURE TO WRITE SOMETHING REASONABLE DOWN FOR EVERY QUESTION ON HIS EXAMS. They are pretty generous with partial credit and will reward you for having some understanding of the material. Lectures were alright but I think the book was more useful. Class avg was like a 62 so just try to get around the average and you'll be fine.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2021-12-25T09:30:15Z"
+    },
+    {
+      "professor": "Bahar Asgari",
+      "course": "CMSC411",
+      "review": "This is the first semester she's teaching I believe, and she's honestly doing a pretty great job in comparison to some of the current cs professors. She definitely knows her stuff and is very willing to help students, so if you asked her questions she's very helpful. She gives you plenty of time to do the homework and projects (about 1 month). There was some struggle to do the homework at first, but everyone asked a lot of questions on piazza, and like I said, she's very willing to help and in the end I was able to do everything. Her homework, practice problems, and lectures definitely help prepare you for the midterm. \r\n\r\nShe does trip up on her words a bit when lecturing so I sometimes struggle to understand, but I think it's just from her first time teaching and it'll get better with experience. I would DEFINITELY RECOMMEND taking her!!",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2022-11-04T15:24:59.115286Z"
+    },
+    {
+      "professor": "Bahar Asgari",
+      "course": "CMSC411",
+      "review": "Dr. Asgari teaches this class completely different than how Yoon taught it so put all of that out of your mind. She's a nice person, and competent professor who genuinely wants her students to succeed (and isn't afraid to show it). Don't get me wrong, this class is not an easy A but the exams, projects, and homeworks are all very fair and doable. Her office hours are a valuable resource to get additional clarification and she'll also put practice problems on the course page that are also helpful in understanding the lecture content. Again, this class is difficult but there's less suffering with her as the professor.  I HIGHLY recommend taking a course taught by Dr. Asgari!",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2022-11-09T17:31:09.403488Z"
+    },
+    {
+      "professor": "Bahar Asgari",
+      "course": "CMSC411",
+      "review": "I'm extremely glad I took her class this semester. Ever since the beginning of the semester, she has been extremely pleasant and accommodating. All of her assignments are organized and if anything is unclear, she will gladly make things clear on Piazza or during office hours. Her exams in particular actually relate to provided material prior especially because she provides necessary examples to help us practice and understand concepts better. PICK HER CLASS!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-11-10T23:37:22.073976Z"
+    },
+    {
+      "professor": "Bahar Asgari",
+      "course": "CMSC411",
+      "review": "She is a new professor and I heard a lot of bad reviews about this course with Joon and Mesh so I was like lets give this a chance. Her class is very organized and homework and projects are doable. She also gives out practice problems to help with the homework, projects and exams. Exam is fair bc some of the questions looks like the practice problems and homework. So if you do the homework and the practice problems you will be fine. She is willing to answer any question you have and make sure that you understand. She really makes this course less painful.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2022-11-17T18:31:39.672215Z"
+    },
+    {
+      "professor": "Bahar Asgari",
+      "course": "CMSC411",
+      "review": "Computer architecture is not an exciting topic, and so her lectures are not the most exciting either. HOWEVER, she makes the most boring topics easy to understand and gives you plenty of practices for the material. She's very fair and accommodating. When we asked for an extension because of Election Day, she was willing to compromise. This is her first semester teaching I believe, and I truly truly truly hope Dr. Asgari will come back to teach another undergraduate CMSC course at UMD again. You will learn more than you thought you would about computer architecture if you take her.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2022-12-15T05:30:24.008610Z"
+    },
+    {
+      "professor": "Bahar Asgari",
+      "course": "CMSC411",
+      "review": "Breaks the mold for CS teachers. New CS teacher that I have no issues with and responds to every question on Piazza with a quick and easy to understand explanation. Highly recommend.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2022-12-15T22:45:24.062901Z"
+    },
+    {
+      "professor": "Bahar Asgari",
+      "course": "CMSC411",
+      "review": "Please take this class with her because the way she teaches the content will make sense. The exams are based on practice questions, homeworks, and exercises demonstrated in the slides. Computer Arch is a lower level topic so it could be confusing, but her step by step explanations make it clear. She's very nice during office hours and is willing to help clear your confusion. The projects aren't bad as long as you start around a week before due date. Also, the professor and TA (Jerry Gui) answered piazza questions quite well and detailed, which also was a plus. Overall 11/10 class. STRONGLY RECOMMENDED.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2022-12-18T21:04:53.687610Z"
+    },
+    {
+      "professor": "Bahar Asgari",
+      "course": "CMSC411",
+      "review": "Big up professor Asgari. The content she teaches in her architecture class are REALLY interesting, and the projects are so fun and educational. You really get a lot out of this class - she's super active on Piazza and is so helpful with clarifications. She's very accommodating of students' needs and requests, and you can tell she's a very genuinely nice person and wants her students to succeed. I loved this class - it's my favorite 400 level CS class so far, and it's definitely thanks in part to her projects and kindness. My one issue would be that her lectures are somewhat dry; while the content is super interesting, when lecturing she doesn't do much more than read from the slides monotonically and answer questions. The exams are fair and she's always open to help with students' questions.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2022-12-20T19:20:54.536829Z"
+    },
+    {
+      "professor": "Bahar Asgari",
+      "course": "CMSC411",
+      "review": "One of the best professors I have had at UMD. As other reviewers mentioned, she is very responsive on Piazza. She is also very lenient with the deadlines. Her exams and projects are fair and as long as you study her slides you will be fine. She genuinely wants her students to do well and I am glad that I took this course with her. Would 100% recommend her!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-12-22T07:19:42.635398Z"
+    },
+    {
+      "professor": "Bahar Asgari",
+      "course": "CMSC411",
+      "review": "Excellent professor. As others have said, she is extremely responsive to students during class, in office hours, and on Piazza. In fact she was probably the most helpful and responsive professor I had in all four years of my college experience. With that said, her lecturing can be on the weaker side but she makes up for it by again being very helpful, having excellent slides, and an abundance of practice questions.\r\n\r\nOverall would definitely recommend taking this class with Dr. Asgari.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2022-12-23T15:33:22.764128Z"
+    },
+    {
+      "professor": "Bahar Asgari",
+      "course": "CMSC411",
+      "review": "I highly recommend Asgari. She's new to teaching at UMD and yet has done a fantastic job at teaching the course. The course material itself is covered very well and in the case where it's a bit difficult to understand, she is extremely responsive to questions both in-person and on Piazza and is always willing to go as in-depth as required to make sure you understand the content. The projects are generally not too difficult but are *really* good in the way they help you learn the content in a way that lecturing just can't do. The exams are fine, just make to sure to study as a lot of it requires retention of information. Homework is also very light yet remains once again very helpful at reinforcing the content.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2022-12-25T07:52:14.948620Z"
+    },
+    {
+      "professor": "Ilchul Yoon",
+      "course": "CMSC411",
+      "review": "This may be the worst course I've taken at UMD. The material is artificially made 20x more confusing than it is (and it's already pretty confusing) by Dr. Yoon's disorganized, scattered lecture style. I never knew how topics were connected or how they related to each other or how they fit into the bigger picture of the course. We were given maybe 1-2 examples of problems to solve for each topic (if that), but most of the exams were problem solving variations of topics we had not seen examples for. We were similarly expected to solve homeworks entirely on our own with no peer help, when we had never seen examples of those problems before in lecture or otherwise. And this would be fine if the problems were straightforward, but he usually throws in a little curveball that completely changes the entire approach to the question. \r\n\r\nAnd then, on top of all that, he teases us by saying the homework problems and exam problems will seem \"so simple\" when we see the solutions. It was infuriating every time. \r\n\r\nYou will likely pass the course if you take it, because he curves. But you will waste a whole 4xx level on material that was so poorly conveyed that you'll forget it all in a month. Avoid if you can.",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2023-12-22T21:19:29.389678Z"
+    },
+    {
+      "professor": "Bahar Asgari",
+      "course": "CMSC411",
+      "review": "Lectures are fine but not always intitative, she often goes into depth and detail about concepts without actually introducing them or what they do. A lot of topics are realted to each other but its often unclear how.\r\nHomework and Exams are fine, exams are more conceptual while homeworks are more problem solving. This kind of thru people off midterm as she said Hw was enough study material.\r\nNot a fan off her projects, you basically completing an already implemented project. For be felt less like working with the concept we learned and more like rearrange someone elses code to make it work. Debugging was not easy as public test produce large text output which is not easy to understand.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2024-04-29T21:43:34.568351Z"
+    },
+    {
+      "professor": "Ilchul Yoon",
+      "course": "CMSC411",
+      "review": "Very very kind teacher who you can tell cares about his students. A lot of people tend to get upset about his teaching, but in all honesty, they are projecting their incompetency onto him. If you don't show up to class and don't take advantage of resources such as office hours, you will not do well in this class. The teaching is of a competent level, and people tend to blame their misunderstandings on Yoon, but I wouldn't say its his fault, its mainly because the class is so conceptually heavy and there's so much to go over in such little time.",
+      "rating": 4,
+      "expected_grade": "B-",
+      "created": "2024-12-14T00:14:43.502151Z"
+    },
+    {
+      "professor": "Ilchul Yoon",
+      "course": "CMSC411",
+      "review": "Like others are saying, he is a very kind teacher and wants his students to succeed, but he CANNOT teach.\r\n\r\nThe course content is not particularly difficult to understand, but Yoon's lecturing and lecture notes are terrible. I don't even know if he has actually contributed to the lecture notes. They seem to just be copy-pasted paragraphs/examples from the textbook and previous professors' lecture notes.\r\n\r\nHe sometimes will write examples on the board (which you will only be able to see if you sit in the first two rows), but then keeps writing over the examples with more examples until his work illegible. Even then, he doesn't fully explain his thought process, which leaves students more confused.\r\n\r\nYou will sit in his lectures and not understand anything, then go home and read the textbook for 30 minutes or an hour and understand the content just fine. \r\n\r\nThe projects are fine. If you start at least 1 or 2 days early, you can probably finish them with a 100%.\r\n\r\nThere is a curve.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-12-24T19:32:56.280944Z"
+    },
+    {
+      "professor": "Bahar Asgari",
+      "course": "CMSC411",
+      "review": "Bahar is a very nice and knowledgeable professor.  I would consider this course to be an intersection between computer engineering and science.  You will go pretty far down into understanding different parts of a computer and how they work, right above the transistor level.  Due to the low-level nature of this course, all of the projects are \"simulation\" rather than \"development\".  (You aren't gonna build your own CPU pipeline lol). It relates to much more analysis of how different parts perform under different scenarios.  They aren't very difficult imo.  \r\n\r\nThe exams are fair but are above average in difficulty imo.  The difficulty isn't exactly hard because of the content, but because of the limited amount of time you have to finish. Work fast!  This course is very content-dense; there is a lot of information that you have to learn.  It can be easy to get lost in the sauce many times.  Lectures are recorded, and they were an enormous help for reviewing material.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2025-05-13T21:38:06.012243Z"
+    },
+    {
+      "professor": "Bahar Asgari",
+      "course": "CMSC411",
+      "review": "She's very smart and knows what she's talking about, but it's hard to understand what she's talking about a lot of the time. Her slide shows also don't help much, they don't explain a lot of the details that matter for the homework and exams. The workload is pretty light, just 3 homeworks, 3 projects, and 1 midterm and final. But the homeworks have some poorly worded questions that are hard to understand what they're asking. Overall, not a bad teacher but you have to really like computer architecture to enjoy the class at all. It's also memorization heavy for the exams.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-05-23T20:26:24.817701Z"
+    },
+    {
+      "professor": "Bahar Asgari",
+      "course": "CMSC411",
+      "review": "She's a fine lecturer she's not bad but not good lectures are mainly her reading off slides. She records so that's a bonus. The workload composes of just three homeworks three projects one final and one midterm. Overall probably the best computer system architecture professor right now but the only other option is yoon so that's not really a high bar. This wasn't a hard class but also not very exciting average on the midterms were a 73+ if you did the homeworks and projects you could easily get a B+ or higher. To be honest she's more of a four star professor but because your only option right now as of the time of writing this review is her or yoon that automatically makes her a five star professor in my opinion because she is one in comparison.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2025-05-25T16:06:44.145503Z"
+    },
+    {
+      "professor": "Bahar Asgari",
+      "course": "CMSC411",
+      "review": "The lectures were pretty boring and not terribly informative. The class was well structured with only a few homework assignments and projects throughout the semester. Exams were fair and there is practice material provided.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2025-06-09T15:37:52.523112Z"
+    },
+    {
+      "professor": "Ilchul Yoon",
+      "course": "CMSC411",
+      "review": "He's not a bad teacher for CMSC411. You don't study a lot of material in this class, but you're expected to know the concepts you are taught like the back of your hand.\r\n\r\nWe had 3 exams (including the final) worth about 16% of your grade each. I thought all were very fair, which surprised me. The only tricky part was the T/F which tested you on a bunch of technicalities. There were 2 projects, both written in C. However, I thought the projects had no business being in C, as everything you simulate and implement could have been done in Python or any other high-level language to avoid the hassle that comes with low-level programming. The 5 homeworks were fine. They took me on average 3 hours each and I averaged an 88 on them.\r\n\r\nOverall, I wouldn't urge you to not take his class, but I wouldn't suggest scrambling to get a seat in it. -1 stars for the projects being a little unorganized, and -1 for sort of dry course content. Nothing bad to say about Dr. Yoon himself.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2025-12-15T16:54:50.567391Z"
+    },
+    {
+      "professor": "Ilchul Yoon",
+      "course": "CMSC411",
+      "review": "The goat",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2025-12-17T23:11:43.541373Z"
+    },
+    {
+      "professor": "Ilchul Yoon",
+      "course": "CMSC411",
+      "review": "Given all the reviews I saw, I thought he would be worse. He is definitely very knowledgeable about the course, and he is also surprisingly chill and understanding. His lectures are okay, but you should also review material outside of it. The most annoying parts of his lectures is that he draws directly on the slides so you have to follow along carefully. His exams are kind of tough - but I wouldn't say they're curveballs, it's just that there's a lot of topics to cover.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2025-12-20T22:19:27.458247Z"
+    },
+    {
+      "professor": "Ilchul Yoon",
+      "course": "CMSC411",
+      "review": "Honestly, I believe the only reason Yoon has such a low score is cuz his classes are hard. But, it\u2019s not like you will fail just because his class is hard. \r\n\r\nOut of all the professor\u2019s I\u2019ve had he is most definitely the most genuine professor I\u2019ve had and it\u2019s very clear he wants you to succeed and he has been always willing to work with you when you show an actual effort to pass. \r\n\r\nI do have to iterate though his class is hard and his slides are confusing at first. Also from the class I took majority of the grade came from quizzes and exams (which I suck at). But despite this the practice problems he gives out along with the homework translates almost directly to what is on the exams and quizzes\r\n\r\nSo do the work, and go to his office hours and you will be fine even if you are a donkey brained individual like me",
+      "rating": 5,
+      "expected_grade": "C-",
+      "created": "2025-12-29T03:14:42.450305Z"
+    },
+    {
+      "professor": "Ilchul Yoon",
+      "course": "CMSC411",
+      "review": "Yoon is awesome. If you enjoy learning about systems and are looking for a professor who is extremely knowledgeable and actually tries to get to know the students in his class, TAKE YOON! 90 percent of students skip lecture since its recorded, but going to class in person feels like highschool again. the class size is small (10 people ish) when everyone skips, and you get the whole class to yourself. worth the tuition and also cool guy. \r\n\r\ngrading: everyone seems pretty lost in the class, but he curves everything at the end. I recommend reading the textbook, he assigns readings for each section we cover in class. The content is super interesting, I read it before going to bed.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2026-03-25T22:02:11.053038Z"
+    }
+  ],
+  "department": "CMSC",
+  "course_number": "411",
+  "name": "CMSC411",
+  "title": "Computer Systems Architecture",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> Minimum grade of C- in CMSC330; or must be in the (Computer Science (Doctoral), Computer Science (Master's)) program.\n<b>Restriction:</b> Permission of CMNS-Computer Science department.\n<b>Credit only granted for:</b> ENEE446 or CMSC411.\nInput/output processors and techniques. Intra-system communication, buses, caches. Addressing and memory hierarchies. Microprogramming, parallelism, and pipelining.",
+  "is_recent": true,
+  "geneds": null
+}

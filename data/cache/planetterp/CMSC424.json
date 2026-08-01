@@ -1,0 +1,848 @@
+{
+  "average_gpa": 2.7447265034753707,
+  "professors": [
+    "Amol Deshpande",
+    "Nicholas Roussopoulos",
+    "Peter Keleher",
+    "Mihai Pop",
+    "Amol Deshpande",
+    "Peter Keleher",
+    "Daniel Abadi",
+    "Peter Keleher",
+    "Amol Deshpande",
+    "Herve Franceschi",
+    "Daniel Abadi",
+    "Peter Keleher",
+    "Herve Franceschi",
+    "Daniel Abadi",
+    "Herve Franceschi",
+    "Amol Deshpande",
+    "Herve Franceschi"
+  ],
+  "reviews": [
+    {
+      "professor": "Amol Deshpande",
+      "course": "CMSC424",
+      "review": "Prof. Deshpande was a great professor (especially for computer science courses). He did not just stand in front of the class and read off a power point. He actually taught the concepts, sometimes with no presentation at all. When he did use a power point, it was as a visual aid and not as a crutch.\n\r\nFor this semester, he did only quizzes (no midterm) and a final, plus homeworks. I liked the quizzes because it removed the stress of having a big midterm, however, it required you to always be caught up in the material.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2012-06-22T00:33:00Z"
+    },
+    {
+      "professor": "Nicholas Roussopoulos",
+      "course": "CMSC424",
+      "review": "Very tough class. He is a funny guy and knows his material, but expect everything to be self learning through reading the disastrously insane textbook as well as his lengthy slides.\n\r\n2 homeworks (5%), 2 SQL Assignments (10%), 1 Project (30%), 1 Midterm (22%) and Final (33%)\n\r\nThe class project involves scraping web data for a topic he chooses. Everything else is done on your own. \n\r\nMidterm and Final is extremely long and tough even for the TA to finish with the allotted time. No curve.\n\r\nIf you are the \"C\" type of CS student who puts in <=60% and expect to pass then expect to get murdered in this class. No pusssyfooting or you WILL get stomped on and tossed aside with a D or F.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2011-12-14T18:28:00Z"
+    },
+    {
+      "professor": "Nicholas Roussopoulos",
+      "course": "CMSC424",
+      "review": "I agree with the previous review about him just reading off the slides. DB is a very important and useful class though. See if you can get it with another professor. Nick's tests are very hard, and because he doesn't teach much (except for reading off the slides), you will find things going rough, unless you can keep up with him by reading the book. \r\nOn the other hand, I was surprised when he covered some topics at the end of the semester and did them on the whiteboard. He was so effective, and because the guy knows his stuff really well, it  worked out great. But that like last week of classes. During rest of the semester, it was all ugly outdated slides.\r\nIf you get stuck with him, convince him to do things on the board; will make your life so much easier. \r\nBut do take this course especially if you are looking to go into the industry. Maybe look for a different professor. \r\nHe has a midterm and a final, two SQL assignments, a couple of homeworks, and a major class project, which was very hard, and we didn't have much help on the project. \r\nAlso, read the book if you are taking it with Nick. Even though he covers most topics on slides (half-heartedly), his tests are definitely from the book.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2010-12-20T16:23:00Z"
+    },
+    {
+      "professor": "Nicholas Roussopoulos",
+      "course": "CMSC424",
+      "review": "Terrible class! \n\r\nHe's nice enough, but, the content is incredibly outdated, does not bother to update it, his 'slides' are just those out of the book, edited to be even more confusing, the homeworks and projects do not follow the course content closely enough, most people came out of this class not knowing ANYthing about databases, despite having done relatively well in the class. Do NOT waste your time.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2010-12-09T15:23:00Z"
+    },
+    {
+      "professor": "Peter Keleher",
+      "course": "CMSC424",
+      "review": "A lot of people say he's a douche or a jackass or w/e, so I was a bit worried when the class first started.  In my opinion there's nothing to worry about. Yes, there are times when he gets a little impatient with people, but to me it didn't seem any more extreme than any other professor. His responses on piazza were always curt, but I feel like most professors give super short/curt responses that could be seen as rude when it comes to written communication. \n\r\nAs far as teaching style, he's your average CS prof. Go to class, he pulls up slides and goes through them. He seemed to actually care whether or not students were understanding the material as he would stop and check often if people were keeping up. He would also encourage people  fairly often to ask questions. \n\r\nIn my case, it seemed like any of the few signs there may have been of him not enjoying teaching the class stemmed from the lack of class participation when he would encourage it (which was often) so he would be left talking at us, or there would be a dialogue between only him and a couple students. ",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2015-08-20T17:47:00Z"
+    },
+    {
+      "professor": "Amol Deshpande",
+      "course": "CMSC424",
+      "review": "Very nice professor, willing to work with his students. His projects earlier on in the semester aren't a joke (unless you've already studied python and django). So much stress in finishing each project, but it really hammered in the concepts for databases. I would recommend this course, but probably not to final semester seniors.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2018-01-24T06:44:21Z"
+    },
+    {
+      "professor": "Daniel Abadi",
+      "course": "CMSC424",
+      "review": "Really nice and lenient grader. Exams aren't too hard",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2018-05-02T20:42:33Z"
+    },
+    {
+      "professor": "Daniel Abadi",
+      "course": "CMSC424",
+      "review": "Good Professor, kinda boring to listen to during lectures but the material is interesting. Willing to listen to students about concerns with the class and will actually do something to address these issues. Exams are pretty hard though, but he curves them enough.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2018-05-14T17:06:10Z"
+    },
+    {
+      "professor": "Nicholas Roussopoulos",
+      "course": "CMSC424",
+      "review": "Very outdated class. My class average was a 50% and I got above that just by cramming before tests/quizzes. The final project this semester required us to make an android app and node js server, none of which even had to implement all of the advanced things we learned. Slides are also mediocre and literally just ripped from the book. I feel like I learned all of the important stuff with one the first 5 weeks then the rest of the course was just needlessly complicated and not very useful.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2018-12-11T17:42:19Z"
+    },
+    {
+      "professor": "Daniel Abadi",
+      "course": "CMSC424",
+      "review": "Pros:\r\nNice guy\r\nLenient grader\r\nListens to student's concerns\r\nEasy and fun material in the beginning \r\n\r\nCons:\r\nExtremely boring lecturer\r\nThe class material is extremely boring for the most part\r\nTowards the end of the semester the material becomes very difficult",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2019-07-08T15:26:53Z"
+    },
+    {
+      "professor": "Amol Deshpande",
+      "course": "CMSC424",
+      "review": "Nice professor. Didn't do the best job handling covid, but was clearly trying and cares.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2020-05-02T17:18:09Z"
+    },
+    {
+      "professor": "Amol Deshpande",
+      "course": "CMSC424",
+      "review": "This class as an online course has been horrible. The homeworks are absolutely killer and take 10+ hours a week to get done, if you can even figure them out at all. They\u2019re usually 20+ questions and some programming assignment that the instructions are often unclear for. Multiple times during the homework it feels like during lecture we were taught how to do a doggy paddle and the assignment is like figure out how to swim across the Atlantic, good luck. The midterm was poorly done too, with 2 parts on elms being multiple choice and a writing section, timed. I truly feel like I haven\u2019t learned that much and the homeworks are incredibly frustrating. Lectures are not great either and we have a synchronous time every week where we meet and he just repeats what\u2019s on the slides from the videos we already watched. This class is very poorly organized and I would not recommend it to anyone due to the frustration and headache.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2020-11-01T18:36:43Z"
+    },
+    {
+      "professor": "Amol Deshpande",
+      "course": "CMSC424",
+      "review": "CMSC424 during the full covid semester is actually kind of absurd. The concepts build up extremely rapidly, but the extraordinarily difficult homeworks don't even cover material relevant to future jobs. If I ever have to calculate precisely how many hard disk seeks and block reads occur when running a SQL Hybrid Hash merge join operation in the worst case at a future job, I will actually eat my hat. The fact that homeworks ask us to effectively re-derive and analyze internal sql algorithms is a bit ridiculous for this semester. \r\n\r\nI made the mistake of not doing a couple early homeworks to make room for other classes, thinking the difficulty would be consistent throughout the semester. Turns out I need every point I can get in this class, and that's not really possible with how inscrutable and impossible the homeworks have become. ",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2020-11-03T05:09:29Z"
+    },
+    {
+      "professor": "Amol Deshpande",
+      "course": "CMSC424",
+      "review": "The lectures are worthless, the homeworks take 10+ hours to complete and even then getting good scores on them is extremely difficult, the exam was terrible and poorly managed, and I don't think I learned a single thing this semester other than some useful surface level fragments of information",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2020-11-16T02:50:12Z"
+    },
+    {
+      "professor": "Amol Deshpande",
+      "course": "CMSC424",
+      "review": "First course I've ever had to withdraw from (3.9 GPA double major). Semester started off fine (SQL section was handled fairly) and veered completely off the rails into incomprehensible algorithms which were not well taught. Professor started off giving polls on certain concepts, but then didn't bother when it was really needed.\r\n\r\nHomeworks regularly required us to sift through documentation, including learning procedural SQL (not covered in class), to low-level implementations of data structures and joining algorithms in Python. If I wanted to write shitty low-level code for 10+ hrs/wk I would have just taken Operating Systems. In addition, even though the professor gives 20 late days, the standard due date for homeworks is within 3-4 days, so it's not that big of a helping hand. I thought the HW in the later half of the course would be similar to the difficulty in the first half, and got screwed having to write those algorithms with limited time.\r\n\r\nMidterm was filled with questions on highly specific concepts that were covered once in class. Average on Part 2 of the midterm was <50%. This midterm was also supposed to be taken closed note, but on the honor system. Any student who cheated probably gained a major advantage due to the specific nature of the questions.\r\n\r\nAvoid CMSC424 online with Deshpande at all costs. This class singlehandedly made me switch out of Data Science into the Machine Learning track, and probably killed any interest I would have in Data Science at all, which was a shame since I really enjoyed CMSC320 and CMSC422.",
+      "rating": 1,
+      "expected_grade": "W",
+      "created": "2020-12-14T07:27:33Z"
+    },
+    {
+      "professor": "Amol Deshpande",
+      "course": "CMSC424",
+      "review": "good class pogchamp\r\nvery hard - but lots of interesting material\r\nonline environment is, if anything, just as good or better than in person lecture, as is the case with most computer science courses\r\n\r\nThe coding homeworks are often straightforward, but the gradescope questions are usually relatively long. Overall not too bad of a class. The exams are hard, but everyone does terribly, and the grading is extremely flexible.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2020-12-18T01:34:56Z"
+    },
+    {
+      "professor": "Amol Deshpande",
+      "course": "CMSC424",
+      "review": "It's a good course but I don't know if its transition to online has been best. As many other reviewers have noted, there's a definite disconnect between the lecture/slides/textbook and the homework at times. Most coding assignments are fairly easy, but worksheets can be very vague and often require office hours for clarification. Projects/worksheets take up about 75% of your overall grade and there is probably a minimum of a solid 8 hours of homework each week. It seems like the curve will be fairly generous and I believe this class is pretty hard to fail, but it's also far from a piece of cake.\r\n\r\nAlso, there's simply way too much material involved in this course. You jump from topic to topic week after week while it feels like you're really just skimming the surface.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2020-12-21T04:30:28Z"
+    },
+    {
+      "professor": "Amol Deshpande",
+      "course": "CMSC424",
+      "review": "I believe this class is necessary for all computer science majors to take because it gives you an in depth overview about databases and the theories/concepts behind them. However, the real world will probably cover 20% of what you actually learn. Since it was the covid online semester, I appreciate Amol for having a synchronous call once a week to cover the panoptos for the week, but if you didn't watch the videos or have any questions the lecture is useless. There was a homework worksheet on gradescope and mini coding project due every week which did seem tough to finish at times (especially at the end of the semester) but he was lenient and gave us 20 late days for the whole semester while dropping some assignments. The midterms were very hard and the averages of them were on the low side, but the curve was extremely generous (80% is an A). He is responsive to concerns and was one of the more understanding CS professors that I have had. The only comment that I have is that there are so many topics that you feel you are zooming without really learning it in depth. But it is kinda impossible to fail this class since the curve is generous and if you show effort within each assignment, you are guaranteed to pass.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2021-01-08T15:56:20Z"
+    },
+    {
+      "professor": "Amol Deshpande",
+      "course": "CMSC424",
+      "review": "I took this class when it was online during covid. It was a terrible format for the insane amount of information they expected to teach. The pre-recorded lectures were decent (towards the end it started getting to be too much), but the once a week live classes were just simplified re-iterations of the pre-recorded lectures and did not add much value except for the few classes the professor created polls to practice application of the material.\r\n\r\nThe professor tried to answer questions during class but often ran out of time because he was spending most of the time re-iterating the material. There was no clear guidance to use the textbook, but sometimes he would answer a student question by just saying to read the textbook.\r\n\r\nHomeworks were way too long and sometimes vague in expectations. Exams were also too long to finish for the average person. There was an overall curve at the end that helped take into account the difficulty and effort required to complete all the assignments.\r\n\r\nI think a lot of the material in the class is useful to know, but since there is SO much information, it's hard to take all of it in and pick out which specific things you should know for homeworks or exams. A good word to describe this class is \"overwhelming,\" but if you're prepared to consume an insane amount of information (with a decent amount of self study), then you could get a lot out of this class.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2021-03-10T00:55:51Z"
+    },
+    {
+      "professor": "Peter Keleher",
+      "course": "CMSC424",
+      "review": "This is a good class overall, especially in an online setting. The content is definitely relevant and need-to-know, and Keleher is a good and straightforward lecturer - doesn't meander or BS around at all. Some might consider him too curt but I honestly prefer that to a professor that's distracting or all over the place. \r\nSlides are good, although I wish he could post slides before lecture and also record them, but that's mainly to give us incentive to show up to class. \r\nProjects aren't too bad, we have a week to do each and each are worth a good chunk of the grade. Speaking of which, I'm glad that the grade distribution for this class is balanced, so that no one assignment / exam is worth an insane amount (looking at you 351). Exams and quizzes are also fair. \r\nOverall, I'd recommend taking this class with Pete if you can. ",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2021-04-01T19:49:31Z"
+    },
+    {
+      "professor": "Peter Keleher",
+      "course": "CMSC424",
+      "review": "Mediocre prof. Reads of the PowerPoint rather than teaching. Posts quizzes and makes them due before he actually teaches the material. Refuses to post lecture recordings. Projects aren't bad. Very vague on information relating to exams. Pushes students to participate.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2021-04-13T19:07:54Z"
+    },
+    {
+      "professor": "Peter Keleher",
+      "course": "CMSC424",
+      "review": "Other than this class being useless, Peter is an awful teacher.  He doesn't record lectures, reads off of slides, and seems to have no passion for teaching the material.  Avoid if you can.",
+      "rating": 3,
+      "expected_grade": "P",
+      "created": "2021-04-28T21:57:16Z"
+    },
+    {
+      "professor": "Peter Keleher",
+      "course": "CMSC424",
+      "review": "Not a great experience. I took the course while it was online and it was harder for unnecessary reasons. Keleher refused to upload lecture recordings to us so we only had the book and slides. His reasoning being we should be reading the textbook in advance and come to class for clarification, but he never told us the chapters we should be reading. On top of that he was giving us quizzes on material he hadn't taught yet. He justified it by saying that he offered a total of 20 late days for assignments, but that point is kind of moot when you have a hard enough time preparing yourself",
+      "rating": 2,
+      "expected_grade": "P",
+      "created": "2021-05-05T01:11:26Z"
+    },
+    {
+      "professor": "Peter Keleher",
+      "course": "CMSC424",
+      "review": "Mediocore professor. The lecture and slides are somehow vague and disorganized. But do cares about students' needs. ",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2021-05-10T11:53:04Z"
+    },
+    {
+      "professor": "Peter Keleher",
+      "course": "CMSC424",
+      "review": "I did well in his class but I basically self taught the entire curriculum. The textbook is your friend if you can't get anything from the lectures. He wouldn't upload lecture recordings which I found quite annoying, and spending so much extra time reading the textbook for quizzes on material we didn't even learn in class yet was also quite annoying. The late days, exams, and assignments were fair but the assignments sometimes had vague descriptions. Overall, if you want to take CMSC424 and you have to take it with Peter, do it. I wouldn't avoid him for the sake of avoiding him, but don't expect it to be the best class....",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2021-05-11T03:05:54Z"
+    },
+    {
+      "professor": "Peter Keleher",
+      "course": "CMSC424",
+      "review": "Worst professor I've had at umd. His lectures are boring and useless. He doesn't even upload them and refuses to send them to anyone even if they were sick (although he records them!). His quizzes are due at noon (before lecture) and the material on the quiz is taught after the quiz's deadline (in lecture). He doesn't care about his students and only answers piazza questions selectively. He does not respond to emails and does not make ANY sort of accommodations/exceptions to help his students. Even though I did well in the class, I genuinely believe that he wants students to fail and doesn't give a f**** about them. Do NOT take him for any class!",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2021-05-12T20:57:55Z"
+    },
+    {
+      "professor": "Peter Keleher",
+      "course": "CMSC424",
+      "review": "He's an average professor, but the class was pretty good overall. We had weekly quizzes and project assignments, and we had three exams (no final). The lectures were kinda boring, but the lecture slides were useful and a good resource for studying for exams. The most annoying thing about the class is that the quizzes were based on content that we didn't learn yet, which meant that we had to learn topics ourselves using the textbook. I still think overall the class and the coursework was pretty fair, and the class isn't any better or worse than other 400 level cs classes.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2021-05-13T19:01:04Z"
+    },
+    {
+      "professor": "Peter Keleher",
+      "course": "CMSC424",
+      "review": "Do not take this professor. If he is the only one available, take the class next semester. Boring lectures, which he recorded but refused to share with anyone. His quizzes tested us on material that had not been taught yet. Also, he is the most difficult person to communicate with. He will only answer piazza posts if he feels like it and his answers will be at most a few words. You have a follow-up question to his 4-word answer? Good luck getting another response. In the syllabus, he says to email him if he does not respond on piazza. I sent him at least 4 emails this semester and he didn't respond to any of them. He really doesn't care about his students and he definitely wasn't there for them during this difficult online semester.",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2021-05-16T21:48:50Z"
+    },
+    {
+      "professor": "Peter Keleher",
+      "course": "CMSC424",
+      "review": "I don't think Pete is as bad as some of the reviews below state. First, I will say yes, he is not responsive on Piazza, and him not releasing recorded lectures is annoying, along with his refusal to post the slides beforehand. Some quizzes were hard, and he could have released answers sooner to some. The query optimizing part of the class was needlessly difficult and not very useful.\r\nHowever, I thought his lectures were ok- I've definitely seen waaaay worse. His exams were quite easy, with high averages, and were a lot like the quizzes. No final, too, which is a big relief. Projects were also reasonable, and I appreciate that they were worth a lot of the grade. Considering that other classes like CMSC351 and CMSC451 place an undue grade emphasis like 2 exams, this is a major relief. He also gave a total of 20 late days across all assignments, no penalties, which is also great. The content is also very useful to learn, especially in the first half. Like a review below said, if you plan on taking CMSC424 and see Pete is teaching it, you should be fine with him.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2021-05-18T19:48:31Z"
+    },
+    {
+      "professor": "Amol Deshpande",
+      "course": "CMSC424",
+      "review": "Absolute garbage professor. He gives out work without even teaching the material. Additionally, he has no respect for student concerns about taking an exam in person while Omricon is raging through the United States. Gave out assignments where majority of the time to work on it was during the Thanksgiving break. Would not take class with him. ",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2021-12-03T00:56:26Z"
+    },
+    {
+      "professor": "Amol Deshpande",
+      "course": "CMSC424",
+      "review": "I would give 0 star if I could. The lecture slides are basically 100+ pages table of content with excessive amount of useless information. The exams are insanely long and difficult given only 60 minutes. His lecture is just hard to understand and he doesn't explain things well. Worst class I've ever taken at UMD.",
+      "rating": 1,
+      "expected_grade": "F",
+      "created": "2021-12-06T07:11:34Z"
+    },
+    {
+      "professor": "Amol Deshpande",
+      "course": "CMSC424",
+      "review": "He is a very good and fair professor. He genuinely cares. CMSC424 could use some improvements - such as better coverage of the theory assessed on the exams. Most of the topics are covered well but the exams can be quite tricky. Projects are fair and even fun at times. I took the course hoping to be better prepared for industry since I lacked database experience. For me ~60% seems immediately useful and the remaining ~40% was some cool-to-know theory and some challenges/issues in the space. Others may not be happy with this ratio or they may perceive a different ratio. I enjoyed the class. I'd give it a 4, but I am giving it a 5 because it is  definitely better than 2.93 it currently stands at.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2021-12-08T01:14:26Z"
+    },
+    {
+      "professor": "Amol Deshpande",
+      "course": "CMSC424",
+      "review": "Not a good class at all. The lectures were very dry. I get it, databases aren't the most exciting topic in the world. But I just found it hard to retain anything from the lectures in this class. It's a very, very good thing that all the exams ended up being online, because I needed my notes and the slides as a reference. I just finished the final exam and there was so much stuff that I remember him talking about in class, but I couldn't remember any of the details of. Deshpande just doesn't seem to be very good at teaching. I don't think he got the concepts across very well at all.\r\n\r\nAnd man, this class is actually really hard! The projects will eat up tons of your time. The exams are really, really hard. Even the weekly quizzes were pretty challenging. The upside is that there's a very, very, very generous curve. No matter what, a 60 is the minimum grade to pass this class. That cutoff can be lowered, but never raised. So there is plenty of leniency. This class actually reminds me of 351 in a few ways. 424 focuses a lot on theory at times, much like 351. 351 is extraordinarily hard, but there's always a very generous curve at the end. This class is the same way.\r\n\r\nI have no doubt that the SQL skills learned in this class will be helpful. But this class is so much more than SQL, and I kind of mean that in a bad way. There's relational algebra and functional dependencies, E/R modeling, database implementation, then NoSQL stuff, and finally transactions. That's a vast array of topics, and they're done in a strange order, too. This class needs to be whittled down a lot. Focus much more on the SQL and NoSQL stuff. Then at the end, focus on database implementation. Cut out all the theory. Basically, what I'm saying is, this class covers a lot of useful information, but it also covers a lot of useless information. And under Deshpande, I think it's taught poorly. If I even got a 50% on this final, I'll be lucky. I'm just glad the cutoffs are so generous that I could afford to get a 10% on the final and still pass.",
+      "rating": 1,
+      "expected_grade": "C-",
+      "created": "2021-12-18T21:18:54Z"
+    },
+    {
+      "professor": "Amol Deshpande",
+      "course": "CMSC424",
+      "review": "good guy, but not the best at teaching/running a course. all the projects were rather difficult and required you to do a lot of learning outside of class to figure them out. on the bright side, no secret tests. the midterms and final were extremely long and difficult, but he heavily curves (A- is about an 80) to make up for it. giving him 3 stars because he does seem to care about his students learning, just doesn't seem the best at it",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2021-12-23T01:25:12Z"
+    },
+    {
+      "professor": "Amol Deshpande",
+      "course": "CMSC424",
+      "review": "Amol is a nice guy and generally means well, but this class has a lot of issues.\r\n\r\n1. Assignments - In Fall 2021 we had 6 assignments (2 written, 4 programming). While they are somewhat helpful in understanding the material, their length makes them really time consuming (more than expected for a 400 level class). For example, I remember writing 20 or so SQL queries where 10 would have been perfectly sufficient, and in general the written assignments were really long. They aren't necessarily difficult, but you definitely have to start early. One nice thing that I really appreciated was that Amol gives you 10 free late days (up to 5 on a single assignment). \r\n\r\n2. Exams - The exams are quite difficult, not in terms of content but more so in terms of time. If you had 24 hours to complete it, you could probably get 80+ assuming you understood the material. But with the time constraint, it was definitely very hard to complete all of the questions fully (the averages on the exam were around 60%). One good thing is that Amol puts a fat curve on the class. He didn't disclose the official cutoffs, but in the beginning of the semester he said that an 80% would be an A (i think it ended up being a few points lower). \r\n\r\n3. Content - This is probably my biggest gripe with the class. Amol tries to cover at least 2 semesters worth of content in this class. As a result, he moves extremely fast and tends to not explain things as fully as he can. For in depth explanations, he just tells you to read the textbook (which is decent). The content starts off at a decent pace, but after midterm 1 really picks up. I didn't feel like I was able to absorb anything meaningful because I was so focused on just cramming all of this information into my head to study. I also think that a lot of the content can be changed. We spend a lot of time learning about specific operations on disk, even though Amol prefaces the unit saying \"no systems actually do it this way anymore.\" He justifies it saying that this is still the foundation, but I personally found it very discouraging. \r\n\r\n4. Campuswire - This is maybe more of a personal issue, but Amol insists on using campuswire instead of piazza. I really hate campuswire (and I think the majority of the class did too). I find it harder to search posts, and you can't follow questions for when they've been answered.\r\n\r\nIn general, databases is a pretty dry subject so I don't blame Amol for the class being generally boring. One thing I really liked was that he was very responsive so you generally got a fast response to questions on campuswire. He did also listen to students' COVID concerns and had exams online (along with recorded lecture). There's definitely improvements to be made, so unless you are very interested in databases or need the class for a major requirement, I would avoid this class for now. \r\n",
+      "rating": 2,
+      "expected_grade": "A+",
+      "created": "2021-12-24T23:56:34Z"
+    },
+    {
+      "professor": "Amol Deshpande",
+      "course": "CMSC424",
+      "review": "He gets a lot of hate but I don't fully understand why. His exams are difficult but he clearly cares about the students wellbeing by moving our midterms and finals online due to students fearing about COVID. He also frequently takes questions during lectures, which is not something other CS professors normally do. The projects in this class are quite tedious (especially project 4 and its lack of documentation), but overall he's a really nice guy, explains things well (at least for me), and has a really flexible late day policy.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-12-25T06:40:19Z"
+    },
+    {
+      "professor": "Amol Deshpande",
+      "course": "CMSC424",
+      "review": "I took the course during Fall 2021.\r\n\r\nThe biggest issue with the class was his teaching style. He would just plow through his slides which were pretty much just copy and paste from the textbook, but he wouldn't explain the content on the slides well. He would pretty much just end up reading it straight from the slides and then assume that we know exactly what it means, while on most slides there was always something he could explain more. This made the class really difficult when it came to exam time. There could be a question that was somewhat similar to the slides, and many students would still have no clue how to do it, which is a big issue. When you go to office hours, there have been multiple times where I've asked the different TAs the same question and have gotten a different answer, which made things even harder to understand.\r\n\r\nThe assignments were actually not too hard, just takes a lot of time, so you really have to set time to really work on it. Just getting a project set up could take 2-3 hours if your unlucky. Usually though, they are doable and you can get 90+ on all of them. \r\n\r\nWhile the teaching style was bad, you could get a 50-70 on every exam and midterm and still end up with a B/B+, so it ends not being the worst class. You do end up learning SQL, Spark, MongoDB, and important relational database concepts in the class.\r\n\r\n\r\n\r\n\r\n\r\n",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2022-01-28T18:54:01Z"
+    },
+    {
+      "professor": "Amol Deshpande",
+      "course": "CMSC424",
+      "review": "Amazing course. Learnt a lot about databases and the projects were fun to code. He is a good person and a great lecturer. He and his TAs are very responsive to questions after class on CampusWire which was a godsend because database environments and coding lead to a lot of questions. They also have a strong grip on the material and I got all my queries resolved. Highly recommend the class. One of the best ones that I have taken at UMD.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-01-31T19:18:49Z"
+    },
+    {
+      "professor": "Peter Keleher",
+      "course": "CMSC424",
+      "review": "I took this course in Spring 2022\r\n\r\nPros:\r\n+ He really got his act together for the final, after one of the most disastrous midterms I have ever taken. He gave an exact topic breakdown of each question on the final to ensure you knew what was coming.\r\n+ All topics on the first midterm were taught and covered really well. \r\n+ The projects from this part of the course were also really manageable and conveyed the topics taught well.\r\n+ The first midterm as a whole was very fair and manageable\r\n+ Late day policy is extremely generous: 20 no penalty late days shared across all assignments\r\n\r\nCons:\r\n- Everything after the first midterm went to complete shit. Lectures suddenly became extremely dry, and it was hard to know what concepts to focus on and would become important later. Much less people stopped coming.\r\n- Topics in this part of the class were significantly more lower level and seemed to have less relevance to what you might be asked to do in real life\r\n- The second midterm went poorly as a result of this, with no one knowing how to answer the questions or having a good grasp on the topics\r\n- Projects in the later half of the course were exclusively instructor written but had almost no documentation. Since they were in Python, it was impossible to know what each function was asking for and was returning. This made coding the projects nigh impossible\r\n- Oftentimes, concepts were taught AFTER the weekly quiz corresponding to that topic was due, with the idea being you would use a late day. While the late day policy is generous, it contributed to an environment that encouraged hard quizzes, with the expectation that you would simply turn it in late after lecture",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2022-05-21T21:13:39Z"
+    },
+    {
+      "professor": "Amol Deshpande",
+      "course": "CMSC424",
+      "review": "This is THE worst structured course I have ever taken, which has not been helped by Amol's lectures not being useful, mostly just reading off of extremely long slide decks. Despite their size, the slides provide only minimal information to complete weekly homework and projects, so we are expected (explicitly) to read up on the programming language manuals for examples and syntax. The project descriptions are extremely vague and full of typos, with him usually updating them multiple times after releasing it. Sometimes the project descriptions contradict to examples we have gone over in class, making it all very confusing. \r\n\r\nThe class schedule is also a disaster. We will have homework due the day before exams, with a full project due only days after. On the topic of exams, he has put material on an exam that we had not learned until THE LECTURE BEFORE, with no opportunity to practice concepts on homework/projects. There were no explicit topic lists released for exams, usually having to be put together by scouring many piazza posts. The exams he released as practice did not accurately reflect the topics on the exam due to him re-organizing the syllabus, but he couldn't even be bothered to write an accurate practice exam. \r\n\r\nThe class has entirely too much content, trying to jam in at least 2 semesters of content, a lot of which is theory with no practical examples of why it is useful. \r\nI would not recommend taking this course under any circumstances. If you want to learn SQL, you are better off teaching yourself than subjecting yourself to this misery.",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2022-11-03T04:39:22.616702Z"
+    },
+    {
+      "professor": "Peter Keleher",
+      "course": "CMSC424",
+      "review": "Organization of the course was good, weekly quizzes covered content taught in the past two weeks or so, outlines for exam content were specific and exams were pretty similar to the provided sample exams and representative of the content taught/quizzes provided. I thought about 70-80% of the content in this class was pretty applicable to real life, the first 6 weeks focus on SQL and E/R diagrams/schema design. The rest of the course goes farther into indexes, query planning/optimization and more \"under the hood\" stuff about how databases work, which is still applicable although sometimes it felt we spent a lot of time studying one very protocol/algorithm that is only sometimes utilized in real life.\r\n\r\nAlso thought the projects in this class were fair. There's about one every week or two and they're fairly focused on one specific topic, meaning once you understand what you're doing they go by pretty quickly. \r\n\r\nThe reason for 3 stars is because mostly of the lectures/slides. There were more than a few times the slides were outdated and incorrect. The slides are also ambiguous and sometime difficult to understand/follow along. I also felt as if the lectures weren't very helpful, I still went to all of them but found myself needing to teach myself a lot of the content using the slides/textbook (the textbook is really good btw). The TAs are helpful and they had plenty of office hours, although the professor had no dedicated office hours. TAs/professor were pretty responsive on Piazza.\r\n\r\nOverall I'd recommend mostly for the usefulness of the content. From reading other reviews it sounds like this semester was a lot better than previous ones.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2022-12-12T18:39:55.092227Z"
+    },
+    {
+      "professor": "Amol Deshpande",
+      "course": "CMSC424",
+      "review": "This was the most miserable class I have ever taken. It's hard to know where to start:\r\n\r\nThe review below touches on this, but the class is structured and managed terribly. The slides don't have enough information to rely on, but the lectures often weren't useful enough, so it felt like I was losing by going to class (I went to class every day) or losing if I didn't go. Some of the slides literally say to look stuff up online. There is a topic called Canonical Cover we \"learned\" where the slides said to look up how to do it, we didn't do any examples in class, and then we had to do Canonical Cover twice on homework and on an exam. Because literally everything in the class is on exams, there was even a case where something we learned in the last 15 minutes of class the day before the exam was on the exam. It makes it extremely difficult to study, especially because slides are grouped by unit, which means you have to sift through a ~250 slide slideshow to find any information. Furthermore, Amol does not provide good examples of stuff. The limited examples he provides are often copied and pasted form the textbook. I had no SQL experience before this class, but when we covered SQL he never really taught us how to write queries, he just sped through the syntax. This meant that I struggled on the SQL programming assignments.\r\n\r\nAssignments are doable, but often require a ton of time. We had homework and projects due within days of exams. At one point we had three weeks' worth of homework assigned simultaneously. He does schedule assignments they're all done before Thanksgiving, but as a result we'd only have 1-2 days of \"rest\" between programming assignments. Homework is your only attempt to get practice with the vast majority of the class content. The homework was okay, but he never provides answer keys because of his lax late policy. I'd rather have him be slightly harsher about homework deadlines so I can actually get feedback and learn from the homework, because the Grade Scope rubric often doesn't provide the feedback you need.\r\n\r\nThis class also relies on Docker, so if you have a slow/old computer, like I do, you will be miserable on the programming assignments. Just a heads up.\r\n\r\nTo summarize, this class was terrible. If you are completely new to databases, like I was, just learn how to use SQL or MongoDB on your own. The hell you have to go through in this class is not worth the very little gain you'll get.",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2022-12-13T19:27:48.347925Z"
+    },
+    {
+      "professor": "Amol Deshpande",
+      "course": "CMSC424",
+      "review": "He is very very smart and this course covers a LOT of material. I was new to everything database/SQL, but had to learn fast. That being said, I thought the professor did a great job at teaching the content and answering questions for those who attended class. Projects were long but manageable, not to mention that he gave week long extensions available for every project/HW as the late policy. Overall, very useful class with lots to learn.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2022-12-13T23:08:08.851977Z"
+    },
+    {
+      "professor": "Amol Deshpande",
+      "course": "CMSC424",
+      "review": "The only pros to this semester were that the dreaded B+ tree, the E/R Project, and the math-related projects are removed. Spark is a separate project and MongoDB was another separate project, along with a new JDBC/ODBC project. That's the only reason why I'm giving this review two stars, since the projects were actually useful and were a lot easier than they were in the past, and from the generous late policy.\r\n\r\nBut other than that, this was miserable. Each topic no matter how complex it is was gone through in such surface level so then we have to pick up extra time ourselves to thoroughly learn the concepts, especially canonical cover, and concurrency. For canonical cover, we were just supposed to look up an algorithm instead which was ridiculous. Also, the fact that we have to study I don't know a 1000 slides for an exam that can ask about literally anything is ridiculous too. I could be fine with all of this if the homeworks had detailed solutions after them. Some answers are just marked as \"Correct\" or \"Incorrect\" without giving us the full answer, and how we get to that answer. Also, as I mentioned earlier in learning the material on our own, examples were not given well at all. Examples should mimic homework difficulty so then we can learn from them and apply to the homework problems, not learning them in surface level and then having to take a lot of extra time just to do the complex ones. And with the late policy, official solutions can't be released, which I understand that. But if that's the case, then we need more complex examples with solutions so we have a point of reference. Overall, this class was just a lot. If you want to learn databases, you're better off learning it on your own.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2022-12-15T00:42:28.846795Z"
+    },
+    {
+      "professor": "Peter Keleher",
+      "course": "CMSC424",
+      "review": "I had an amazing experience in CMSC424 with Prof Keleher. I think many of the 1-2 star reviews judge Keleher a little too negatively. I liked this class and the way Keleher taught it.\r\n\r\nPros:\r\n1) Keleher actively responds to Piazza posts and answers student questions in office hours and is very understanding if you communicate with him proactively\r\n2) Weekly lecture quizzes had questions and solutions that helped prepare for the exams and final\r\n3) Assignments were well-explained  and not too difficult to implement\r\n4) He posted practice exams with problems, detailed answer keys, and topic lists to prepare\r\n5) He answered questions in lecture and recommends good resources and sections in the textbook\r\n6) TAs are responsive and had both online/in-person OH and responded to my Piazza questions quickly and private posts\r\n7) Cutoffs for the overall grades were pretty generous\r\n8) Well organized, good logistics and regular announcements on Piazza\r\n9) Topics covered in class are very applicable to real-life database engineering\r\n\r\nCons:\r\n1) Doesn\u2019t record lectures which I found a little challenging at times as hearing his personal commentary would have helped supplement my understanding of the material\r\n\r\nOther than that, this was an excellent course that I learned a lot from and I would definitely recommend taking it with Keleher.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2022-12-17T18:32:48.165751Z"
+    },
+    {
+      "professor": "Amol Deshpande",
+      "course": "CMSC424",
+      "review": "Learned a lot of material in this class. We started with SQL, some theory about database design, MongoDB, Spark and ended with some more theory. Definitely a challenging class but there was a lot to learn. Every homework/project had a one week, no questions asked extension. Exams were challenging but also always had questions that were on the homework.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2022-12-20T01:49:54.648766Z"
+    },
+    {
+      "professor": "Amol Deshpande",
+      "course": "CMSC424",
+      "review": "Let\u2019s start with the pros. The course teaches you a decent amount of concepts about different database systems, how to design them, and how to work with each. The projects were a lot of fun and taught me most of what I know about databases. I would say you could finish a project in a day or two if you understand the concepts. With all that being said.. the homeworks and exams are MISERABLE. Amol has HUNDREDS of slides on a subject, but they don\u2019t really teach you much. He does go in depth about some subjects in class, but a lot of it is left to self teaching (go figure, it\u2019s a CS course). I wouldn\u2019t take this course again. A lot of what I found to be useful can be learned on your own if you follow some advanced SQL book and lookup Apache spark and mongodb. The last 4 weeks of class are mostly useless, as he goes into how database programs are implemented. It may seem useful at first, but there are just so many concepts to memorize. I\u2019m giving the class 3 stars because I enjoyed the projects. The other material was insane. On the bright side, there is a pretty generous curve.",
+      "rating": 3,
+      "expected_grade": "C+",
+      "created": "2022-12-21T02:31:25.818536Z"
+    },
+    {
+      "professor": "Amol Deshpande",
+      "course": "CMSC424",
+      "review": "Content in projects had very little to do with exams and lectures and had little impact on our grade relative to how time consuming they were, there was just too much content in the course to where we were allowed a cheat sheet on the final and it was possible you missed half the content on the exam",
+      "rating": 2,
+      "expected_grade": "C-",
+      "created": "2023-01-28T16:43:39.818866Z"
+    },
+    {
+      "professor": "Daniel Abadi",
+      "course": "CMSC424",
+      "review": "Enjoyed this class with Dr Abadi. You will learn a fair amount about SQL and using DBMS properly, but even more about the in depth technical details of designing databases. The first half of the class is straightforward and fun, learning about writing SQL queries and E/R models. Midterm was pretty easy if you paid attention. The material gets very very difficult towards the end of the semester. Reading quizzes get hard as the semester goes on. The projects become very time consuming and somewhat confusing as well. As always, if you start early, they are doable. Final was egregiously hard, but Dr Abadi informed us that there was a mistake made regarding the difficulty level. A quite substantial curve was provided on the final exam. Overall, would recommend, but be ready for a moderately heavy workload at times.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2023-05-20T03:22:21.350692Z"
+    },
+    {
+      "professor": "Daniel Abadi",
+      "course": "CMSC424",
+      "review": "Incredibly knowledgeable about databases. Great lecturer, projects and weekly quizzes are difficult but you get all the help needed. Definitely recommend!",
+      "rating": 5,
+      "expected_grade": "B-",
+      "created": "2023-05-29T18:37:05.968181Z"
+    },
+    {
+      "professor": "Daniel Abadi",
+      "course": "CMSC424",
+      "review": "1. Did you find the exams and major assignments fair? \r\n\u00b7 The reading quizzes are connected to the readings, but some questions can be tricky and require close attention. \r\n\u00b7 Clicker questions are free as long as someone provides a reasonable justification during class. \r\n\u00b7 The midterm exam was fair. The final exam was challenging but had a significant curve (20%). \r\n\u00b7 The projects were manageable, taking about 10 hours each. The last two projects are based on Berkeley's database class and require understanding the existing codebase before applying class concepts.\r\n\u00b7 The breakdown was projects (32%), midterm (20%), final (32%), clickers (8%), and reading quizzes (8%). \r\n\u2014\r\n2. Did you feel the professor had reasonable expectations for the students in the course overall? \r\n\u00b7 Yes. There were reading quizzes almost every week. Clicker questions were challenging but thought-provoking. Exams were reasonable. Participating during class and answering non-trivial questions was expected. Fair application of what we cover in the textbook and class.\r\n\u2014\r\n3. Did you like the professor's teaching style?\r\n\u00b7 I enjoyed the professor's teaching style as he provided clear guidance on how to prepare for and succeed in the course.\r\n\u00b7 He offered ample practice problems, gave advice on studying for exams, and emphasized hands-on practice. The midterm heavily focused on the projects. \r\n\u00b7 What I particularly enjoyed was the professor's dedication to creating a positive classroom culture. He made an effort to personalize interactions by remembering and using our names. He encouraged questions and fostered discussions. It was evident that he cared deeply about the subject matter and his students. His enthusiasm was reflected in his attire as well, as he wore a suit to every class. Very caring.\r\n\u2014\r\n4. Was the workload appropriate for the number of credits? \r\n\u00b7 The workload was appropriate but slightly heavy, considering 17 reading quizzes (approximately 1.5 hours each), 4 projects (each taking 10 hours), and 2 exams (requiring 10 hours of study each). \r\n\u2014\r\n5. Was this course valuable or a waste of time? \r\n\u00b7 This course is highly valuable, especially for those interested in software engineering and data science/machine learning. Interacting with databases is a crucial skill in various careers.  He emphasized making 424 practical rather than overly theoretical. \r\n\u00b7 The first half of course covers advanced SQL, ER diagrams, schemas, normalization, and database building components. The second half focuses on theoretical aspects, considering memory constraints and algorithm costs. Cost considerations of queries was one of my favorite topics. B-trees are a significant topic as well. \r\n\u00b7 Projects 3 and 4 provide excellent practice working with large existing codebases. \r\n\u00b7 The TA's (Pooja, Cuong) contribute to the positive learning experience.\r\n\u2014\r\n6. How much support did you receive throughout the semester (office hours, extra resources, etc.)?\r\n\u00b7 Four hours of TA office hours were available each week, and the TAs were responsive to Piazza and willing to provide assistance with code privately.\r\n\u00b7 The professor had office hours by appointment (after class) and was always willing to explain clicker and reading quiz questions. \r\n\u00b7 He offered a bonus project to raise project grades and had a generous project late penalty.\r\n\u00b7 Three reading quizzes and three clickers were dropped. \r\n\u00b7 While the professor sometimes spoke quickly and didn't record classes, the classroom culture, energy, and support were excellent. Attendance was required. \r\n\u2014\r\n7. TLDR Weekly reading quizzes, clicker questions, mandatory attendance, relevant concepts, fair projects and exams, exceptionally caring and intelligent professor who encourages participation during class. Decent workload, but this is my favorite CS class at UMD. I highly recommend it with Abadi.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-08-26T00:20:10.588760Z"
+    },
+    {
+      "professor": "Peter Keleher",
+      "course": "CMSC424",
+      "review": "Very poor expirence overall. He read of lecture slides never goes into detail. His exam and quiz often have content not covered in lecture, it is difficult to find examples relating to questions. This projects are often confusing  and structures of objects are unclear. \r\nGiving him some credit he often gives extensions and review material. You'll spend alot of time teaching yourself. The textbook has a lot of good information but is often hard to follow. Not the worst professsor ever but generally avoid.",
+      "rating": 2,
+      "expected_grade": "C",
+      "created": "2023-12-01T03:40:38.887830Z"
+    },
+    {
+      "professor": "Peter Keleher",
+      "course": "CMSC424",
+      "review": "Peter is a suitable lecturer. I do wish he would record his lectures or get a microphone (it was sometimes difficult to hear in class). The lectures were a deluge of information, most of which is not needed for an exam, but is probably useful if you really want to take all of this database stuff to heart. I found it difficult to know what was going to be tested before the exam. The content itself is tough following the latter half of the class, where it leaves the realm of using databases and enters the realm of hardware and how databases themselves work.\r\n\r\nA NOTE: This class is not just about using or setting up databases! A lot of the class is digging into the nitty gritty about how different parts of a database works. I definitely got in over my head on this one.",
+      "rating": 3,
+      "expected_grade": "B-",
+      "created": "2023-12-05T20:07:44.588854Z"
+    },
+    {
+      "professor": "Peter Keleher",
+      "course": "CMSC424",
+      "review": "Despite the slides being mediocre and the 12 quizzes being a bit tedious, the class was low-stress. His exams are very easy and he gives tons of past material.  He is also responsive on piazza and answers questions during office hours, and projects are easy. He even tells you what is on the exam and what topics you can expect, so he's very generous in this aspect. The TAs on the other hand are a tossup though and most are not helpful. They also do not answer questions properly. Make sure you read the textbook to learn. There\u2019s a lot to read but the material isn\u2019t anything analytically intensive. It\u2019s just textbook and conceptual memorization. I\u2019d recommend him for sure.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-12-16T22:05:21.179809Z"
+    },
+    {
+      "professor": "Peter Keleher",
+      "course": "CMSC424",
+      "review": "He could be the worst professor in the entire CS department. Boring lectures, useless slides, and generally dishonest. He promised a curve for the class in the very first lecture and completely ignored it. He also reiterated that there would be a curve before taking the final, saying last semester's A- was about an 86 and that this semester would be similar. He then gave no partial credit on the final and the A- was a HARD 90 (89.9 does not go). Awful professor, communicator, and generally dishonest. AVOID HIS CLASS AT ALL COSTS",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2023-12-20T18:42:10.664038Z"
+    },
+    {
+      "professor": "Peter Keleher",
+      "course": "CMSC424",
+      "review": "Very bad lecturer. He simply reads off slides and does not record lectures either. You will have to teach yourself the whole class. Assignments are not explained well and some are difficult to implement. Exams all had huge standard deviations. These exams and weekly quizzes have lots of material not covered in class, which you are expected to teach yourself from the textbook. Some of the material expected for you to learn is not even covered in the textbook and lots of the material in the textbook is very confusing.",
+      "rating": 2,
+      "expected_grade": "C",
+      "created": "2023-12-24T03:48:51.531980Z"
+    },
+    {
+      "professor": "Amol Deshpande",
+      "course": "CMSC424",
+      "review": "Midterms and the final are 60% of the final grade in which the scores are historically bad (mean of 50% with the upper quartile being just above that). The slides and lectures are more high-level/conceptual while the assignments and midterms are very technical and detail-oriented. Some exam questions are from 1 slide out of the 800+ posted. '\r\n\r\nMost of the materials posted for studying like past midterms and homework were posted just days before the exam. When asking questions about the material, Amol would respond to look at the past exams for more insight. The old exams have also been extremely outdated mostly from 2008-2015 or over COVID in an online setting in which the syllabus has heavily changed.\r\n\r\nFor many of the questions asked about the material or assignments, Amol would explain how the technologies have been updated and that the material in the slides was not widely used or optimal anymore. I think the book and material in this class have become outdated since Amol started teaching it. \r\n\r\nAmol definitely knows his stuff but delves too much into the details that the bigger picture is not translated. Amol isn't a bad lecturer, just focusing on the wrong things. He'd rather give exposure to every single detail, topic, and language than give a good foundation to build on.",
+      "rating": 2,
+      "expected_grade": "B-",
+      "created": "2024-05-10T20:55:37.092359Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC424",
+      "review": "He's such a kind and understanding professor with the ability to teach well.  The only negative remarks I would give about Herve is that lectures can sometimes be a tad boring and occasionally there are errors on the homework.  Besides that, I thoroughly enjoyed taking 424 with him, and I definitely learned a lot.  In particular, I appreciated how well he structured the course in order to balance both *practical* and *academic* topics.  I'm glad that not only did we focus on the internal workings of db's in B+ trees, etc., but we also learned a lot about relevant technologies in the industry and how to use them such as MongoDB, php, et cetera.  \r\n\r\nWould 100% recommend 424 with Herve, no doubt about it.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-05-19T18:52:54.019280Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC424",
+      "review": "I would suggest taking 424 with Herve! This was his first time teaching this course, and he provided study guides and practice material for quizzes and exams. There was one midterm, and one final. There were 5 quizzes throughout the semester. Quizzes and exams were easy to get a good grade on as long as you keep up with the content (there were no weird trick questions). There was weekly homework, but they are straightforward, and they rely on the slides (which he records and posts) and most can be completed in about 1 hour if you understand the content. Class was dull at times, but it was nice to come and support Herve since he genuinely seems knowledgable about SQL and databases.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-23T01:01:58.554515Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC424",
+      "review": "It's easy to get lost and overwhelmed because he uses a lot of slideshows. Otherwise, he's fair (our final had no trick questions) and understanding (responds to student emails) and wants you to succeed.",
+      "rating": 4,
+      "expected_grade": "C+",
+      "created": "2024-08-05T00:00:47.639151Z"
+    },
+    {
+      "professor": "Daniel Abadi",
+      "course": "CMSC424",
+      "review": "He's really knowledgeable about databases and his topics, but he is the type of professor to enjoy creating hard exams and projects. When reviewing his exam where the average score was very low (he also said several times in class that the exam was \"not trivial\" with a smug smile every time), he seemed proud of the toughest questions that he concocted. I think this course has traditionally been on the easier side, but I'm not sure what happened here.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2024-11-11T03:25:00.595234Z"
+    },
+    {
+      "professor": "Daniel Abadi",
+      "course": "CMSC424",
+      "review": "I think we need to find a better way to teach students than just buying a textbook and reading off the textbook all the time. It's also a very very boring textbook and I think the author is trying to be the most boring they can be. There's also discrepancies between the slideshows and the textbook.\r\n\r\nThe last two projects took way longer than they should have just because you have to look around to understand all of the surrounding code and the project description does a very poor job of giving context. So really, I spent more time reading and trying to understand code I didn't write than actually implementing the algorithms in class. \r\n\r\nFinally, I think the reading quizzes could be improved upon, I know they require extra thinking, but if that's the case maybe they should have two attempts each with the attempts showing what you missed. The point is to learn some material before coming to class, instead, it feels like time wasted after reading the boring textbook for 2 hours and getting a 50%.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2024-12-03T14:31:03.537731Z"
+    },
+    {
+      "professor": "Daniel Abadi",
+      "course": "CMSC424",
+      "review": "Super nice guy and a really great teacher. His version of this class is fairly demanding; a (usually challenging) reading quiz due before every lecture, in class clicker questions, 4 pretty difficult projects, and some of the most difficult exams i've ever taken. I found the textbook for this class to be a slog to get through, especially towards the end of the semester when the material gets very complicated. Nonetheless, the professor is an extemely knowledgeable and effective teacher, so if you're even somewhat interested in the subject you will probably like this class. If you find you have no interest whatsoever . . . you'll hate it.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2024-12-10T19:56:40.763798Z"
+    },
+    {
+      "professor": "Daniel Abadi",
+      "course": "CMSC424",
+      "review": "He's probably the smartest professor at this school and his credentials speak for his itself, but this does not mean that he's a good professor at all. He expects all of his students to catch up with his level of understanding, and this means that the reading quizzes cover niche edge cases that are not even covered in the textbook. He genuinely enjoys creating hard questions on the exams (he will smile and giggle in class going \"I really enjoyed this one\"), and the material is genuinely so difficult and dense to go through. This class used to be easy and fun with Herve, but it is my hardest class this semester despite going through it for stat420!!!",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2024-12-11T03:34:45.006181Z"
+    },
+    {
+      "professor": "Daniel Abadi",
+      "course": "CMSC424",
+      "review": "This class is so ridiculously hard for no reason",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2024-12-11T03:37:06.774906Z"
+    },
+    {
+      "professor": "Daniel Abadi",
+      "course": "CMSC424",
+      "review": "Very good course overall. Abadi is a good guy and cares about his students. The midterm and final are moderately difficult, but slightly curved depending on if the class doesn't do poorly on them. Projects are not easy so start early, and go to office hours because the TAs are awesome. He has a required reading and reading quiz before most classes which is annoying, and attendance to class is mandatory which he checks with in class quizzes. Not the easiest of classes, not the hardest either, and you get a lot out of it.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2024-12-11T17:09:06.117015Z"
+    },
+    {
+      "professor": "Daniel Abadi",
+      "course": "CMSC424",
+      "review": "such a hard class for no reason, 100% wait for another semester to take it with a different professor. this course would be interesting otherwise",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2024-12-12T04:34:00.798684Z"
+    },
+    {
+      "professor": "Peter Keleher",
+      "course": "CMSC424",
+      "review": "realistically probably one of the least structured classes i have taken at UMD. the TA's don't do anything, and the professor has a \"no question\" policy on exams. the final was really kind, and the coding wasn't terrible at all, but exams 1 and 2 had C and F averages respectfully. i'd like to emphasize how the TA's genuinely do not understand the course at all.",
+      "rating": 2,
+      "expected_grade": "B-",
+      "created": "2024-12-13T18:09:29.523112Z"
+    },
+    {
+      "professor": "Daniel Abadi",
+      "course": "CMSC424",
+      "review": "The projects and the content of the course are very interesting; I think Abadi does a good job of making sure you know the material (as long as you put in the normal amount of effort to learn course content) through his reading quiz questions and projects. However, he is not a very good lecturer. Definitely knowledgeable about the topics.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2024-12-14T02:11:58.842062Z"
+    },
+    {
+      "professor": "Daniel Abadi",
+      "course": "CMSC424",
+      "review": "I'm not sure why this guy designs his class so that people score low on everything. He says that there will be a curve, but studying for an exam which you know has intentionally been designed to trip you up and have an average score of a 60 is so demoralizing and takes the interest out of any of the material. This could've been a fun and cool course, but instead you're focused on memorizing every single detail from the genuine 600 pages of content from the textbook that is on the exam.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2024-12-14T21:19:30.670048Z"
+    },
+    {
+      "professor": "Daniel Abadi",
+      "course": "CMSC424",
+      "review": "super difficult for no reason",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2024-12-15T16:34:31.382813Z"
+    },
+    {
+      "professor": "Daniel Abadi",
+      "course": "CMSC424",
+      "review": "Sigh.... Where do I even begin?\r\n\r\nThis class has been the biggest pain in my side all semester, and may be the reason why I need to take an extra semester to graduate. Professor Abadi himself isn't a bad guy at all-- he's kind and understanding, and his lectures aren't that bad, but all those things mean nothing if he plans on purposely giving students constant stress and headaches with his class.\r\n\r\nHere's a list of reasons why I personally hated every second of being in this class (and why you may as well):\r\n- He assigns textbook readings to learn class content before he teaches it in lecture. I have never once agreed that this is a good way to teach any course, ever.\r\n- He assigns reading quizzes before class and lecture quizzes during class, both of which are graded for ACCURACY. So essentially if you found anything in the textbook confusing on any given night you can forget about getting your participation points that day.\r\n- His projects are wayyyyyyyyy too complicated. The first project on basic queries should have been clear and straightforward, since we were only about 2 weeks into SQL at that point, yet all of the queries were something the lines of: \"create a query to find passengers between the ages of 16 to 44 who took flights with American Airlines in January or Delta in May where the passengers also flew with at least 3 other passenger above the age of 60 that normally fly with an airline other than Delta or American\" (students will vouch that this isn't much of an exaggeration). Don't get me started on the B+ tree project, it was easily the most unnecessary information overload I've ever had to deal with. If I ever want to feel the feeling of being completely and utterly overwhelmed again, I'm just gonna read over that project again.\r\n- He purposely makes his tests hard (and tells you). He claims it's because he cares about you and that there will be a curve and that we shouldn't worry about our grades too much, so I walked out of our midterm thinking I got a B+ after a decent attempt and ended up getting a 63 after a 15 point curve. He also claimed that he tried to design it to give as much partial credit as possible, but I got all 0's on a series of 8 short answer questions that didn't even have options for partial credit.\r\n- He doesn't post announcements on ELMS for critical information, nor basically anywhere for that matter. He has a piazza, but not often will you find a helpful disclaimer or reminder that is clearly marked.\r\n\r\nDon't take this course with Abadi, and if you do, you better hope you aren't signed up for any other difficult courses, or you will be pulling hairs out of your head all semester.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2024-12-16T04:52:08.754862Z"
+    },
+    {
+      "professor": "Daniel Abadi",
+      "course": "CMSC424",
+      "review": "Nice guy, but wow was this class hard. Gives very time consuming reading quizzes every week, which are also difficult and cover scenarios not discussed in the textbook. Lectures are solid, but are not recorded, and still do not cover every detail we need to know from the textbook. Exams have very poor averages, but come with a curve (for instance, he added 10 points to everyone's original midterm score). Gave 4 projects, 2 of which were SQL, and 2 which were based of CS courses from Berkeley. The final two projects were very time consuming, and required very thorough knowledge of the content. \r\n\r\nOverall, this course gets you to learn the content somewhat well, but at the expense of a LOT of time, stress, and possibly your GPA. If you want an easy course this is not the one.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2024-12-17T03:35:05.858939Z"
+    },
+    {
+      "professor": "Daniel Abadi",
+      "course": "CMSC424",
+      "review": "Professor Abadi is a nice person, but this course was far more difficult and time-consuming than it needed to be. To overview:\r\n- Reading quizzes every week which require 1-2 hrs reading, and cover difficult scenarios not discussed in the textbook\r\n- Lectures rarely cover the depth of the content covered in the textbook\r\n- No lecture recordings, but posts slides (which aren't fully enough)\r\n- Clicker questions in lecture\r\n- Exams which are intentionally difficult, but come with a curve (1 midterm worth 20%, 1 final worth 35%) \r\n- 4 projects (2 are SQL, 2 are copied from Berkeley), the last 2 were very difficult and required a significant amount of time (10+ hrs)\r\n\r\nWhile Abadi works to challenge you as a student and give you a deep knowledge of the field, he also makes the course quite time-consuming and stressful. Would be much better if he devoted more time to developing better lectures and relying less on the textbook, and also if exams and projects were fairer and better resembled the workload of a 3 credit class.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2024-12-17T03:42:53.699161Z"
+    },
+    {
+      "professor": "Daniel Abadi",
+      "course": "CMSC424",
+      "review": "Professor Abadi was pretty pleasant throughout the semester as a lecturer. Unfortunately, the final exam felt convoluted, and I felt that many of the questions were his attempt to think up new questions that weren't covered throughout the practice midterm/final or during the semester as some \"gotcha\" moment. Regardless, could have been a skill issue on my part. Other than that, I think the projects were bearable but definitely on the difficult side. I felt that projects 3 and 4 weren't that useful and could use some modifications to feel more connected to what was tested during exams since they were weighted so heavily. My final issue was mostly the textbook usage. I felt that the textbook was extremely dense and convoluted in its explanations, so I wish there was less emphasis on reading the textbook before every reading quiz, and that more of the content was taught through lecture alone. I'd give him a 2.5 star but that option is not available, and I feel that Professor Abadi was more deserving of 3 stars rather than 2 stars. Overall, not a bad professor, just expect that your grade will be easily decided by the final since it was weighed 35%. Goodbye, my A.",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2024-12-17T03:54:27.449088Z"
+    },
+    {
+      "professor": "Daniel Abadi",
+      "course": "CMSC424",
+      "review": "same as below\u2026 god forbid i don\u2019t eat breathe sleep databases,\u2026. biggest sigh. diabolical course, put me through it this semester",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2024-12-17T06:52:31.551194Z"
+    },
+    {
+      "professor": "Daniel Abadi",
+      "course": "CMSC424",
+      "review": "Presumptuously delightful professor and course. \r\n\r\nLearned delectably and feel leagues better as a student after going through it.\r\n\r\nIgnore the really harsh review posted previously (I\u2019m certain it was grumpy goober Smurf).\r\n\r\nSigning off xoxo\r\n- Nayra\u00e1 LeTap",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-17T17:04:29.766344Z"
+    },
+    {
+      "professor": "Daniel Abadi",
+      "course": "CMSC424",
+      "review": "The review below me speaks volumes. This class was actually one of the worst ones I have ever taken at UMD, and I signed up under the pretense that it would be a fun, interesting class where I could focus on the actual content instead of spending hours on studying trivial details. Just to preface, I'm also a double major and my STAT420 course was literally so much easier than this class, and I would take that exam five times over instead of needing to study for this one. Here is a list of why this course is poorly structured.\r\n1. The material at the beginning is super easy and ridiculously difficult at the end, so the split of the content is hard to keep up with.\r\n2. The reading quizzes for each section in the textbook are graded for accuracy, and so are the in lecture participation quizzes. I get why the reading quizzes are on accuracy, but truly the in lecture ones are for participation so why is it possible to miss participation while I'm sitting in lecture?\r\n3. The reading quizzes themselves are also super hard, with things that are tested that are not covered in the edge cases in the textbook.\r\n\r\nWhy Abadi made it worse\r\n1. He designs exams and projects that are egregiously difficult. The projects are based off on UC Berkeley's previous projects, and the codebase is so deep and complex and it feels like nobody knows what the project is fully doing. The first project was literally based on SQL with us learning the basics, but the project was asking us to write complex queries on things that we a. had not learned! and b. things that weren't in the dense textbook!\r\n2. Every question on the exams was designed to be a gotcha question and he would take genuine joy in front of the class going over his carefully curated questions to trip you up.\r\n3. The exams are literally designed for you to fail, and he also lets you know this very proudly on his announcements. What's the point of making an exam so insanely difficult and then curving it afterwards? I feel that this does not let you properly show your knowledge as it's almost all or nothing on these insanely hard questions, not a fully comprehensive exam where you can test the knowledge that you have been taught. For every question, you have to take what you learned and then manipulate it in some way that requires a deep knowledge of the underworkings of the algorithm (apologies Abadi for not making this class the center of my life, god forbid I'm taking other courses right now as well). \r\n4. This guy is so, so smart and one of the leading minds in databases but he forgets that not everyone has a history of getting a PhD from MIT, made a commercialized database, and taught at Yale University for a decade.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2024-12-17T19:29:21.242073Z"
+    },
+    {
+      "professor": "Daniel Abadi",
+      "course": "CMSC424",
+      "review": "I'd say others are too critical of him... homeworks were fine and exams were challengingly fun.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-12-19T20:22:05.532074Z"
+    },
+    {
+      "professor": "Daniel Abadi",
+      "course": "CMSC424",
+      "review": "Taking 424 with Professor Abadi has been an experience. Not very pleasant at all and I do not recommend it. As a person, he is very approachable and kind but the way he teaches this class is an absolute nightmare. \r\n- Quizzes on textbook chapters graded for accuracy that are very hard and confusing before going over any of the content in class.\r\n- Lecture quizzes that are also graded for accuracy and hard\r\n- Projects straight from hell with how confusing it is\r\n- Brutal exams even after the curve. Partial credit is offered but many of the questions are short answer and partial isn't given there. Curve does not really help.\r\n- Poor communication as the ELMS page is dead and Piazza doesn't have any reminders. Rather everything is done through an email list. \r\n- Not enough study material for the exams and doesn't post the answer key for the exam that you took\r\nIn summary Professor Abadi's 424 is not an experience that I recommend to anyone who values their GPA and mental health.",
+      "rating": 1,
+      "expected_grade": "C-",
+      "created": "2024-12-20T19:16:54.684950Z"
+    },
+    {
+      "professor": "Daniel Abadi",
+      "course": "CMSC424",
+      "review": "I think some of the reviews are being a bit unfair to him, and I'd say he strikes a good balance between making the course useful and challenging without the experience becoming completely demoralizing. \r\n\r\nThe reading quizzes were often pretty difficult, and require a strong understanding of the fairly dry textbook readings. But they were a small percentage of our overall grade, so as long as you consistently tried on them, it wasn't going to impact your grade that much. I still think the quizzes were useful to tease the concepts that would be taught in class. They were also helpful in keeping me on track with the course material throughout the semester (which I presume was the point of creating them).  \r\n\r\nHis lectures are not the most engaging by any means, but they were still helpful in clearing up things I didn't understand from the reading quizzes. In addition, almost every lecture had graded clicker questions, which were annoying at times, but I have to admit that they helped me stay focused in lecture. The projects were not easy, but still pretty manageable and I didn't think any of them were excessively long or difficult. For the last two projects I do think some instructions were a bit barebones, and I would have saved some time if they were more clear. The exams were relatively hard and raw scores were low (averages in 50-60s), but they were both curved enough that class averages were reasonable (~85% on the midterm and ~75% on the final).  He was also nice in rounding up students' grades that were near cutoffs at the end of the semester. \r\n\r\nThe course content was pretty interesting and you will learn a decent amount about databases from it. The structure and material of this class forced me to take ownership of my learning. But it's clear he didn't design this course to fail a bunch of students nor did he make the class so difficult to understand that it prevented us getting anything out of it. If you're at least mildly interested in databases I'd recommend taking the course with him.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2024-12-20T22:23:27.660119Z"
+    },
+    {
+      "professor": "Daniel Abadi",
+      "course": "CMSC424",
+      "review": "While I would say the class was a pretty positive experience for me, I definitely understand the sentiment of other reviewers from Fall 2024. \r\n\r\nAbadi's class definitely was one of the hardest classes I took at UMD, which caught me completely off guard -- I had taken 424 mainly because i was juggling a few other technical courses this sem and heard 424 was one of the easier 400's. 424 w/ Abadi ended up being the hardest class out of my entire schedule. He is one of the smartest people I've ever seen, and you can tell he has a rich knowledge and passion for databases. He really wants you to understand the material, and goes to great lengths to ensure that there are little to no gaps in your understanding. \r\n\r\nThat being said, I think his standards for students are very, VERY high. While he's a smart guy and clearly knows what he's talking about, he talks extremely fast during lectures. Like it was almost impossible for myself or any of my friends to pick up on what he was saying. This made a large portion of the class reliant on self-studying, which was also difficult. We had to read the textbook before each class and do reading quizzes which were at time very, very difficult but in hindsight really made the class more rewarding. They helped me stay ontrack, and alongside the projects, made the class very useful.\r\n\r\nThe TA's for Abadi were amazing, like the best TAs I've seen for any class. Shoutout Pooja and Peter, they really did a good job in answering questions on Piazza, and definitely were really helpful for debugging projects in office hours. I'm ngl, even though this was one of the harder courses at UMD, I think its very useful, and if you want to really learn the concepts well, take it with Abadi. Hands-down a more demanding prof, but I guarantee you will learn far more than taking this with another prof.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-12-21T22:06:47.806232Z"
+    },
+    {
+      "professor": "Daniel Abadi",
+      "course": "CMSC424",
+      "review": "Pros:\r\n- Great lectures and slides.\r\n- Projects 1 and 2 are easy and fun. Projects 3 and 4 are very hard as we have to add additional features to Berkeley's codebase, but they are very useful for real-life applications.\r\n\r\nCons:\r\n- Required attendance through clicker questions.\r\n- Lectures are not recorded.\r\n- Does not post answers for the midterm + doesn't post the questions nor answers of the final after they are graded. \r\n- Flipped classroom (you have to read the textbook and take a quiz on readings of concepts we have never learned in class. These quizzes are quite difficult but only count for 5% of your grade).\r\n- Not enough practice questions for the midterm and final (the only practice material is the reading quizzes).\r\n- Really low curve. The midterm median grade was curved to ~83%, and the final grade to 72.7%. The final could have been curved more, considering it counted for 35% of your grade. No other curves other than midterm & final. \r\n\r\nMy main problem with this class: The textbook readings are very time-intensive and difficult, with very little learning occurring. They were overall a massive waste of time. Professor Abadi should flip the ordering of the reading quizzes to be done after we cover those concepts in class. Also, the lectures were a big waste of time. I could have learned much more in less time if they were recorded so I could watch them at home at 2x speed and hit pause. Easy to zone out during lectures. \r\n\r\nVerdict:\r\nCMSC424 is a very useful class for software engineering. Definitely take the class. If you're stuck with Professor Abadi, you'll still learn the course content well, but you could probably optimize your time & grade better with another professor.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2024-12-22T05:36:15.385315Z"
+    },
+    {
+      "professor": "Daniel Abadi",
+      "course": "CMSC424",
+      "review": "I agree that the other reviews have been too harsh. My impression of the class is that the workload is high, but you will learn a lot. I felt that the grading was lenient despite the high workload.\r\n\r\nThe majority of the workload comes from the reading homeworks before each class. They are advertised to be 1.5 hours, but I regularly spent more than that on them. They are also not easy, and you can\u2019t expect to get all the questions right. The clicker questions are similar to the reading homeworks, but they are more lenient since multiple answers can be correct. Unfortunately, I noticed that after doing the reading homeworks, the lectures were a bit stale since they mostly rehashed the content covered in the homeworks.\r\n\r\nThe 4 projects have one of the most lenient late penalties I\u2019ve ever seen, with 2.5% off per day late. Overall they were not too bad, comparable to the workload of CMSC420 projects. The last 2 projects were different since they used an established codebase. I spent a lot of time on those projects jumping around the codebase and trying to figure out what was going on.\r\n\r\nThe exams were challenging and similar to the reading homeworks and clicker questions. \r\nThe final exam was surprising compared to other finals in that there were almost no \u201cgimmes\u201d that I could answer quickly and move on. Instead of asking \u201cdo you remember this definition/formula/question\u201d, most of them looked like \u201ccan you use the underlying concept and apply it to new situations\u201d. \r\nFor me the HW and clicker questions, along with the practice exams, were the best way to prepare. Because of that, I think you gotta lock in the entire semester, more so than other courses, to be able to digest and understand the questions at a reasonable pace. I don\u2019t think cramming by reading through the slides and memorizing formulas would be very successful for these exams.\r\n\r\nOverall, I\u2019d say this is one of the harder CS electives out there. The ceiling for workload is high in that there\u2019s a lot of content and you can end up spending a lot of time on it. Even without reaching that ceiling, I think it\u2019s possible to get a good grade with the curves.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-23T01:45:54.126496Z"
+    },
+    {
+      "professor": "Daniel Abadi",
+      "course": "CMSC424",
+      "review": "So so difficult, the exams are brutal and he genuinely enjoys making hard questions for trip us up. Class is not organized, projects are super hard, and the reading quizzes are also super hard.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2024-12-23T06:42:22.019966Z"
+    },
+    {
+      "professor": "Daniel Abadi",
+      "course": "CMSC424",
+      "review": "This was the most difficult class I've ever taken at UMD, and I do not know why it was necessary for it to be this way. The participation quizzes in lecture are grading on accuracy, the reading quizzes during the week are difficult, and the exams are absolutely brutal. Avoid this professor at all costs and take another semester to actually enjoy learning about databases instead of tearing your hair out.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2025-01-01T22:42:16.012636Z"
+    },
+    {
+      "professor": "Peter Keleher",
+      "course": "CMSC424",
+      "review": "Very well-structured course where you are told exactly what is expected of you. He follows the textbook very closely and has detailed online slides. His grading is pretty good, sometimes a bit strict. Projects were relatively easy. Practice exams and homeworks were close to the actual exams. Second time taking this prof and would take a course by him again.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-01-08T21:17:33.783849Z"
+    },
+    {
+      "professor": "Daniel Abadi",
+      "course": "CMSC424",
+      "review": "this class was absolutely atrocious. the participation quizzes were not in fact graded on participation/completion, but rather on accuracy. the weekly readings are tedious and dense, and the reading quizzes themselves are a monstrosity. all of the projects are taken from another university, so the codebase is super deep and complex. there is very little guidance on implementing the required methods, and the difficulty of the projects do not match the information learned from the reading quizzes. onto the next: exams. the most vile questions are cooked up to test every single edge case of our knowledge. algorithms are confusingly modified to test if we have a master's level of understanding of databases, and the questions are specifically tailored to trip us up. the other reviews below can confirm this, abadi seems to find great joy in this. cool class and important concepts, but i did not anticipate this class to be the hardest class i have ever taken at my university. truly tragic when trying to load balance your schedule and this abomination of a class appears out of nowhere.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2025-01-19T00:59:45.991705Z"
+    },
+    {
+      "professor": "Daniel Abadi",
+      "course": "CMSC424",
+      "review": "I think a LOT of the reviews below saw his high reviews before last semester (that have gone down since) and thought this would be an easier class to skate through.\r\n\r\nProf Abadi is incredibly knowledgeable about databases and it shows. This guy wants his students to learn, and if you want to do well in this class, you will have to. The biggest qualm I have with this class is that the textbook can be confusing/quite boring at times. As an extension of this, the reading quizzes based on them can get a little challenging, especially as you cover DBMS internals towards the 2nd half of the semester (though these are a pretty small part of your end grade). However, from my experience, his lectures/slides covering the info again really ironed out everything for my understanding. \r\n\r\nYou will have to come to class to answer clicker questions, but most are simple and he usually gives credit for most wrong answers. Even if you picked an answer that received no credit, you could defend your thought process and he'd usually be nice enough to mark it correct anyway. Projects 3 and 4 are not trivial by any means, but I didn't find them devastatingly hard. The midterm was a bit challenging, but nothing compared to the final. You will have to study your butt off for the final, but if you can put in the time to really understand everything (mostly B trees and the DBMS algos), it's very doable. And that learning will most likely stick.\r\n\r\nOverall, I think this class is dragged the most down by the admittedly boring textbook. Maybe changing reading quizzes to be due after you learn the content in the lecture would be beneficial for this, but I'm not really sure.\r\n\r\nThat all being said, if you read textbooks well and strive to truly learn in your classes, I don't think you'll regret taking this. You will have to work hard, but if you are used to doing that to excel in your other classes I wouldn't view this as some insane challenge. It's definitely been the most valuable topic I've learned, maybe just behind OS.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2025-01-24T06:52:40.922320Z"
+    },
+    {
+      "professor": "Daniel Abadi",
+      "course": "CMSC424",
+      "review": "I never seriously thought I was going to fail a class until I took this final, despite going into the exam with an A-. The course was unnecessarily difficult with questions designed to trick you (and Abadi relishing in that). During the reading quizzes, I spent more time wondering whether Abadi was trying to trick me than the question itself. I have never hated a class or a professor more. The content itself is not incredibly difficult but Abadi makes it impossible to understand it. If you have any other option, take it (especially Herve). If you don\u2019t, it won\u2019t be the end of your degree, but it will be incredibly frustrating and hard.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2025-02-18T00:51:13.684285Z"
+    },
+    {
+      "professor": "Daniel Abadi",
+      "course": "CMSC424",
+      "review": "Workload was high, but I learned a lot. If you want to take the easy version of 424, take it with Herve. But I'm glad I took it with Abadi since it covers more material and the assignments and quizzes make you learn it at a surprisingly deep level. Exams were hard only because there were no \"free questions\". *Every single question* required you know something a little deeper than the surface content. This was brutal for people that only had time to get a surface understanding of the material during the semester. But for me, they were fine, especially after the curve. I definitely got more questions wrong in this class (on the quizzes and homeworks) than in any other class I have ever taken, but the experience of getting some of the corner case questions wrong on the homework quizzes helped me become more sensitive of these corner cases (e.g. handling of NULLs) and I learned more as a result (and it didn't really affect my grade since the quizzes are only worth 5% of the final grade).",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-03-13T22:30:32.889012Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC424",
+      "review": "cons\r\n- lectures are boring and a little bit disorganized\r\n- chooses the wildest colors for his slideshows(one had teal blue background with red or pink text)\r\n- very memorization focused\r\n- I don't think I really learned that much\r\n- english is not his first language so we spent a lot of time debating over the wording of homework questions and the TAs were pretty rude and unhelpful when asked for clarification(everyone I knew was confused)\r\npros\r\n- easy\r\n- not that much work\r\nstructure of the class:\r\nbiweeky quizzes(fairly easy), 1 midterm, final exam(fairly straightforward). He gives mostly similar practice questions\r\nweekly homeworks - mostly fill in the blank vocabulary type things which were easy(if you understood what was being asked which was not given), a couple coding homeworks which were a lot harder",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-05-12T13:05:41.649915Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC424",
+      "review": "Super straightforward lectures and organized into distinct units. First half of the semester was extremely easy as it is more conceptual and logic based, whereas the second half of the semester is harder if you don't memorize syntax. If you go to lecture, you literally don't need to study at all to get a good grade. Do the homework to study for the quiz and you're set. His style of questions is consistent and there are no curveballs. \r\n\r\nMore detail about the HW: 11HWs, 9 written + 2 coding. The written hws take ~20-30 min on avg if you know what you're doing, maybe ~1-2hrs if you need to look through notes/slides consistently. Coding HWs are a little longer but you can do them with a partner. Takes ~2-4 hrs if you do it alone.\r\n\r\nLectures are always recorded and although they may be dry, reading through the slides makes sense and pretty easy to follow along. Funny guy if you like dry humor.\r\n\r\nAlthough it may not feel like a crazy amount of information, most of it is quite practical/I've interacted with it while working. It'll give you a good foundation.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-05-18T20:53:03.368479Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC424",
+      "review": "I guess it's an easy but a bit boring class. The exams are a bit tedious because the grading is nitpicky.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-08-07T22:20:48.543575Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC424",
+      "review": "Great Professor, I had him for both CMSC424 and 436. As long as you show up to class to understand lecture (the videos can be a little hard to understand sometimes), pay attention, do the HWs (which are very straightforward), and study for quizzes and exams ahead of time, you will most likely get an A. The content you need to know is straight from the slides, nothing ever is there to trick you. Sometimes if he makes the midterm too easy, he might give a harder quiz, but it all balances out. The projects in 424 specifically can be pretty cool to do when you get to coding, the HWs are fairly straightforward too",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-16T22:49:56.861331Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC424",
+      "review": "Herve is super friendly, like genuinely one of the nicest guys at UMD. I overslept for a quiz once and I emailed him asking if there was anything I could do, and because he's so kind he just let me make it up with a small penalty. On top of that he gave me chances to submit the right assignment, and hes just a good teacher in general so I would recommend.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2025-12-17T03:14:37.730380Z"
+    },
+    {
+      "professor": "Daniel Abadi",
+      "course": "CMSC424",
+      "review": "This was the hardest CMSC4xx class I've taken, but this is the most I've learned in a CS class at UMD. Abadi is an incredibly knowledgeable professor and wants you to learn. I enjoyed the projects quite a bit, from mastering SQL to writing a B+ tree in Java. Both TAs were also great and put a ton of work into answering Piazza questions and providing support during the projects.\r\n\r\nYes, this class is hard and requires a ton of investment to learn the material. There are graded clicker questions each class and exams are extremely difficult (Abadi likes to say getting questions wrong is another form of learning the material). The midterm was curved by about 15%.\r\n\r\nI've heard that Herve teaches an easier version of the course. However, if you have the time and put in the effort, take it with Abadi and I guarantee you will walk away from this class with so much knowledge applicable to software engineering.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-19T01:46:09.765945Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC424",
+      "review": "Just read the slides it's all you have to do. And he gives practice quizzes and exams that tell you exactly what to expect. Nice guy",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-20T09:40:55.176158Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC424",
+      "review": "It's a very chill class with him and he teaches fairly well. However, a third of the content that was on quizes or exams were based on straight memorization like do you remember the library that allows you to do this. Also, the wording on the last quiz, homework, and exam was a bit confusing and very stubborn in terms of accepting a different interpretation of his vague questions. Other than those 2 complaints it's a chill class.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-12-21T15:32:51.282324Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC424",
+      "review": "Not too bad overall. While the course material is incredibly useful, the lectures can be quite dry and confusing, so I mainly studied the material using the slides or on my own. The professor is clearly organized, but the quality of class resources is inconsistent: some slides are excellent, while others are messy, and the lack of pre-populated databases makes it difficult to follow along with live examples.\r\n\r\nThe workload is fair, as the homework reflects the lecture topics well, and the first three quizzes are great for understanding the material, though the last two are quite memorization-heavy. While the exams are fair and include a clear topic breakdown, the 35% weighting of the final felt unnecessarily high. Overall, it\u2019s a very manageable and useful class; you'll do fine.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2025-12-31T17:32:05.629200Z"
+    },
+    {
+      "professor": "Daniel Abadi",
+      "course": "CMSC424",
+      "review": "The rest of the reviews are true, I only took 424 with Abadi since Herve's sections are full and I do not recommend it. There is no mandatory reading quizzes anymore but they're used for supplemental learning. There are clicker questions every class so attendance is mandatory and the exams are what the other reviews detail (extremely hard). There's a significant curve for each exam to help offset the difficulty. This course is a real pain in the a** so unless you want to devote your entire semester to this course, choose a different professor.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2026-01-06T14:35:15.921680Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC424",
+      "review": "Nice guy and mostly chill class. Just be careful not to slack off, because the end of the semester is much harder than the beginning. We spent like 2 months on SQL and then covered implementation details (B+ trees, indexing, merge sort, etc.) during the last few weeks. Quizzes and exams are fair, though do keep in mind that old/practice ones won't cover everything you'll be assessed on.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2026-01-29T07:27:12.379411Z"
+    }
+  ],
+  "department": "CMSC",
+  "course_number": "424",
+  "name": "CMSC424",
+  "title": "Database Design",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> Minimum grade of C- in CMSC351 and CMSC330; and permission of CMNS-Computer Science department. Or must be in the (Computer Science (Doctoral), Computer Science (Master's)) program.\nStudents are introduced to database systems and motivates the database approach as a mechanism for modeling the real world. An in-depth coverage of the relational model, logical database design, query languages, and other database concepts including query optimization, concurrency control; transaction management, and log based crash recovery. Distributed and Web database architectures are also discussed.",
+  "is_recent": true,
+  "geneds": null
+}

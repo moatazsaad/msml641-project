@@ -1,0 +1,254 @@
+{
+  "average_gpa": 3.170584652862363,
+  "professors": [
+    "Jennifer Golbeck",
+    "William Bower",
+    "Jordan Boyd-Graber Ying",
+    "William Bowser",
+    "Jennifer Proctor",
+    "Aditya Ravindra Bhat",
+    "Lori Perine",
+    "Wei Ai",
+    "Abdirisak Mohamed",
+    "Babak Fotouhi",
+    "Katherine Izsak",
+    "Zubin Jelveh",
+    "Naghmeh Momeni",
+    "Naghmeh Momeni",
+    "Abdirisak Mohamed",
+    "Cody Buntain",
+    "William Farmer",
+    "Christopher Dempwolf",
+    "David Patrick",
+    "Zubin Jelveh",
+    "Cody Buntain",
+    "Babak Fotouhi",
+    "Abdirisak Mohamed",
+    "William Farmer",
+    "Babak Fotouhi",
+    "Cody Buntain",
+    "Wei Ai",
+    "Zubin Jelveh",
+    "Cody Buntain",
+    "Naeemul Hassan",
+    "Wei Ai",
+    "William Farmer",
+    "Faisal Quader",
+    "Cody Buntain",
+    "Zubin Jelveh",
+    "Cody Buntain",
+    "Faisal Quader",
+    "Phuong Nguyen Le",
+    "Wei Ai",
+    "Brian Gillikin",
+    "Cody Buntain",
+    "Maria Krupenkin",
+    "Phuong Nguyen Le",
+    "Zubin Jelveh",
+    "Cody Buntain",
+    "Maria Krupenkin",
+    "Zubin Jelveh"
+  ],
+  "reviews": [
+    {
+      "professor": "Aditya Ravindra Bhat",
+      "course": "INST414",
+      "review": "Adi is a great guy and definitely knows what he is talking about. Despite being the first time he taught a class as an instructor, he still did well in conveying concepts and answering questions. He is a kind and lenient person that is willing to help whenever reached out to. As long as you are willing to show an interest, he will do anything he can to assist you.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2019-12-18T13:28:56Z"
+    },
+    {
+      "professor": "Aditya Ravindra Bhat",
+      "course": "INST414",
+      "review": "Makes himself available to help. A little hard to understand in lecture, but go to office hours and you\u2019ll be fine. ",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2019-12-18T22:58:58Z"
+    },
+    {
+      "professor": "Aditya Ravindra Bhat",
+      "course": "INST414",
+      "review": "Professor Aditya knows his material and know-how to teach a class. He does live coding and walk through step by step if you get stuck. He's very helpful and knows that everyone in his class learning and understanding the Data Science concepts. He's the best professor for INST 414.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2020-05-16T03:56:53Z"
+    },
+    {
+      "professor": "Babak Fotouhi",
+      "course": "INST414",
+      "review": "Absolutely solid professor. Took this class during the summer semester (online), and he posted ~3hrs of lectures per week. He grades super lightly, but the grading criteria is vague and he doesn't seem to provide any feedback for improvements. Gave lots of extra credit. I would 100% take him again.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2021-07-21T12:50:21Z"
+    },
+    {
+      "professor": "Naghmeh Momeni",
+      "course": "INST414",
+      "review": "Do not take this class with this professor. It is completely unorganized (she didn't release the syllabus until halfway through the first week and told us no assignments would be assigned until after add/drop... which I should have been suspicious of). She also never responds to emails and only hosts office hours by appointment only (but that might as well be no office hours since she doesn't reply to emails). Never sends out announcements or emails nor answers the questions posted in the Campuswire that she said would be the primary source for getting answered. She posts lectures/content whenever she wants; the class is poorly structured and she expects we'll just make time for it somehow as if this is the only class we have. Lectures are poor and barely help with the quizzes. She's hard to hear/understand and always have screaming children in the back of her videos. As a straight A student, this class with her is the absolute worse.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2021-10-24T18:48:37Z"
+    },
+    {
+      "professor": "David Patrick",
+      "course": "INST414",
+      "review": "The course isn't hard-- exams and quizzes are super easy (I mean super easy) and open book, note, internet. But this class was very disorganized. Oftentimes I would take the quizzes and some of the questions would be marked wrong when they were right. The professor did correct this after I emailed but this happened a lot and honestly the whole course felt sloppily put together. All of the homework was just textbook exercises and the readings were the textbook and YouTube videos. The exams and quizzes were just questions that we the students made for our reading assignments. That's right-- the professor didn't have any original materials in this course. I don't think a professor should be expected to write all notes and homework entirely from scratch but here Patrick was really just a grader, not really a professor. I could have done all of this on my own and taken a different elective instead. Oh, also another thing-- our syllabus listed that we would learn about SVMs, logistic regression, neural networks, and a few other things, but so far we have not touched on this at all in the readings or assignments. I would take him if you just want the grade but if you want to learn and be challenged (and feel like you're actually taking a class...) take another professor.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2022-11-30T18:27:26.708776Z"
+    },
+    {
+      "professor": "Zubin Jelveh",
+      "course": "INST414",
+      "review": "Professor is very nice and makes an effort to help students. He\u2019s very smart just a little disorganized and not the best at explaining concepts.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2023-01-21T02:58:28.124034Z"
+    },
+    {
+      "professor": "William Farmer",
+      "course": "INST414",
+      "review": "If you want a professor who holds office hours, communicates with students, does things on time, or explains things, DO NOT TAKE INST414 with him.\r\nHe would regularly cancel office hours and tell us he's rescheduling but never reschedule. He told us he'd hold an additional weekly review for us, but never held any. He would publish lecture videos and assignments at the last minute. He also promised us that he would have review videos before each assignment, but they were published after the assignments. The overall communication is just poor. He is slow to respond in the class Discord and via email.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2023-04-06T03:07:54.604963Z"
+    },
+    {
+      "professor": "William Farmer",
+      "course": "INST414",
+      "review": "Please DO NOT TAKE THIS CLASS WITH THIS MAN. He taught us nothing at all, did not explain anything and never showed up to his own office hours. He never reschedules the things he cancels, does not give you enough time to complete his vague assignments, and somehow expects you to get it. He does not publish any information and lectures until after we needed it, which it practically useless. The class discord what a wreck and he never gets around to anything. Please if you value your GPA, your time, and your sanity, don't bother with this class.",
+      "rating": 1,
+      "expected_grade": "C+",
+      "created": "2023-05-08T18:41:27.203368Z"
+    },
+    {
+      "professor": "William Farmer",
+      "course": "INST414",
+      "review": "At the moment this professor seems genuinely seems busy with all the things going on in his life. Which is fine but that comes at a cost to his courses. \r\nThis course is likely terrific if you already know all of the concepts and ideas that he asks for in assignments and exams. However, if you remotely struggle in this course there are very few resources available to you and it's extremely difficult to get in contact with the professor. Even when you do you frequently have to follow up in order to get any form of help.\r\nThis problem is only made worse since this semester the TA while being a great person didn't give a lot of help in the sometimes vague questions or when you were genuinely stuck. \r\nThis professor is best suited for students who require minimal help to understand data science and can quickly finish assignments since due dates aren't consistent.",
+      "rating": 3,
+      "expected_grade": "C+",
+      "created": "2023-05-13T19:16:49.843240Z"
+    },
+    {
+      "professor": "Cody Buntain",
+      "course": "INST414",
+      "review": "The professor is knowledgable but expects us to do grad work. Please don't take the class.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2023-11-02T03:18:36.426817Z"
+    },
+    {
+      "professor": "Cody Buntain",
+      "course": "INST414",
+      "review": "He lets you use AI for the module assignments. The in-class exercises were difficult and I rarely completed them in class, but they were mostly graded for completion. Felt like a lot of the content went over my head. Not too hard to get a high grade.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2023-11-27T23:08:58.531509Z"
+    },
+    {
+      "professor": "Wei Ai",
+      "course": "INST414",
+      "review": "Professor Ai is very knowledgeable and understanding. The class structure was pretty straightforward - an assignment every week and 2 larger projects. However, I found the format of the class exhausting. Attending a 3hr lecture with material that was not too 'engaging' became extremely difficult. At one point only 7-10 people would attend class (50 people signed up for this class), but I think that's on the iSchool rather than Professor Ai who really did try his best to make the class engaging. The assignments take about 1-2 hours every week and the 2 projects are pretty exhaustive in being able to apply class concepts - no group projects though. If you want to take INST414, I'd suggest taking it with Professor Ai but perhaps not a 3hr lecture.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2023-12-13T18:48:45.161067Z"
+    },
+    {
+      "professor": "Zubin Jelveh",
+      "course": "INST414",
+      "review": "This was my favorite class of the semester. The professor is always kind, helpful, and creates a good environment in the classroom. His explanations can be convoluted at times, but the professor is always open to questions and makes an effort to reiterate difficult topics. I appreciate how he keeps assignment expectations clear and wants his students to succeed in the course.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2023-12-29T02:34:48.342687Z"
+    },
+    {
+      "professor": "Cody Buntain",
+      "course": "INST414",
+      "review": "For the main medium posts you\u2019ll definitely need assistance whether it\u2019s using AI or going to office hours because in my experience these took the longest to get done. You get extensions on the medium assignments but for in class exercises, quizzes and semester project deliverables it\u2019s a strict due date but it\u2019s pretty fair in my opinion since the exercises and quizzes can be done in class and the project is spread out through the semester and each deliverable isn\u2019t too much work. Just to note, a lot of the content of this course is geared towards understanding the principles pertaining to the data science career field. You'll learn various principles, methods, and techniques of data science, and be taught to understand the use cases of these concepts. Code examples are also provided in order to get a better understanding of these concepts and help you with the in-class exercises.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-01-05T08:14:10.429806Z"
+    },
+    {
+      "professor": "Cody Buntain",
+      "course": "INST414",
+      "review": "I got shoulder surgery at the end of the semester after it had its date changed closer unexpectedly, and I emailed him the day after I could lift my arm for the first time and this guy didn't accept two of my projects that said \"no due date\". Even though turned them in before the end of the semester, and this caused my grade to go from a 78 to failing when the quality of the projects were certainly high enough that I should have at least finished with a B. If you don't believe me, I'll back it up. Here's the two projects. (There was max word limits and I hit them) https://medium.com/@crydel2/clustering-powerlifters-best-lifts-based-on-their-euclidian-distance-849a1c4cbe13 AND https://medium.com/@crydel2/ranking-real-estate-properties-for-similarity-239271d1e1b8 if you're reading this cody, there was no need to be so rude I was obviously under stress from the surgery, and I learned more from your class than half your students as they couldn't even answer your in class questions correctly.",
+      "rating": 1,
+      "expected_grade": "F",
+      "created": "2024-02-02T21:43:52.205507Z"
+    },
+    {
+      "professor": "Cody Buntain",
+      "course": "INST414",
+      "review": "The class wasn't too hard, and we could turn in projects late and still get full points. Using ChatGPT made the projects much easier to complete.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-19T05:48:31.227966Z"
+    },
+    {
+      "professor": "Cody Buntain",
+      "course": "INST414",
+      "review": "Chill, reasonable guy who gets straight to the point with the course content. I enjoyed taking 414 with him. The content is high-level, but you will be allowed access to AI resources and will walk through the technicals in class.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2024-05-20T18:35:32.835942Z"
+    },
+    {
+      "professor": "Zubin Jelveh",
+      "course": "INST414",
+      "review": "If you take this professor, you better pay attention in his class. He might randomly call on you and you\u2019ll be set up for humiliation.\r\n\r\nThis guy seems to really enjoy putting students on the spot and embarrassing them",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2024-10-03T16:11:20.865623Z"
+    },
+    {
+      "professor": "Zubin Jelveh",
+      "course": "INST414",
+      "review": "Great guy, great professor! Honestly was expecting five star reviews on here when I checked and I was really surprised to see otherwise. Excellent professor if you're interested in data science, I really feel like I learned a lot in this class regarding bias/discrimination, and he does a great job of showing actual applications from his previous research. I actually felt like I left this class being able to do work that can have an impact.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-18T00:38:25.135183Z"
+    },
+    {
+      "professor": "Phuong Nguyen-Le",
+      "course": "INST414",
+      "review": "She teaches INST 414, at least for Spring 2025. By far the worst professor I had at INFO Sci Dept. Attendance are worth 40% of the grade so if you miss weeks of classes your grades will hit the rock bottom in matter of no time. I do not like how the class is structured cause the class is mostly self-learning. Class only meets twice a week, in each of the classes she makes students to complete worksheets on their on or with partners rather than actually giving lectures. I do not understand why the attendance is mandatory when students can get their worksheets done while being in their home. Also, she is a super harsh grader and have no mercy at all. Another thing is that she doesn't respond to any grade inquiries until the end of the semesters, which makes it hard for students to know if they going to pass the class or not before the withdrawal period. I do not recommend anyone to take this professor cause she is just gonna drain your GPA.",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2025-03-15T04:09:04.452316Z"
+    },
+    {
+      "professor": "Phuong Anh Nguyen",
+      "course": "INST414",
+      "review": "I wanted to start by saying she was one of the worst professors I've ever had, but upon further reflection, she is the worst. Her course structure is unclear, no information is presented during lecture, and it has to be learned through YouTube videos she sends before class. For every class, we simply do an assignment that is due at the end of class\u2014NO EXCEPTIONS. She doesn't provide rubrics for major assignments and then gives unhelpful feedback when you receive a lower grade than expected. Grades on assignments CANNOT be discussed during office hours or, quote, \"your office hours privilege will be revoked.\" Her office hour structure is terrible, and you have to request an appointment based on a specific pretext. Most of the time, you will actually be meeting with the TAs instead of the professor. She is rude and resorts to threatening when a student has a mild disagreement and shuts down students' questions during class. Each week, we have a discussion assignment, which we aren't given enough time to complete\u2014or you could simply do a way easier online certificate to avoid discussion altogether. This structure really discourages you from actually attending discussions and interacting with classmates. If I could go back, I'd immediately withdraw from this class, and the course content\u2014compared to previous professors\u2014is abysmal. Do yourself a favor: if Kem is teaching your section, reschedule and pick a different professor.",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2025-04-11T20:46:52.372472Z"
+    },
+    {
+      "professor": "Cody Buntain",
+      "course": "INST414",
+      "review": "As a graduating senior, this is one of the classes that I have found most valuable to my education. The course content is high level and relevant. Class time is not wasted learning or doing things that do not matter. Lecture is where we learn, discussion is where we code together. This gives you the tools you need to complete the only assignments for the course- articles that you write and post on a topic of your choosing. What I like about this is that we will leave the class with tangible evidence of our learning that we can show off on our resume or to recruiters in the future. Additionally, the grading policy is VERY generous, with assignments being able to be turned in late for full credit and being able to fix your articles and re-submit for a higher grade. I can't say enough good things about this professor or this course. This is how all classes should be structured in my opinion. I highly highly recommend taking this course with Professor Buntain.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-08T13:28:05.222960Z"
+    },
+    {
+      "professor": "Maria Krupenkin",
+      "course": "INST414",
+      "review": "I don't really know how to describe her (or the class). \r\nPros:\r\n- Most of your grade comes from group work in the class, which is graded on completion \r\n- You're allowed to use AI, which helps a lot\r\n- She requires you to meet with her on zoom occasionally, which is always a bit awkward, but it's an easy few points\r\n- If you take it alongside 326, you'll be forced to learn API's pretty comprehensively (either a pro or a con)\r\nCons:\r\n- Attendance is mandatory, even though you don't really learn anything\r\n- While taking 326 prior to this course isn't mandatory, you will be completely over your head if you don't.\r\n- Grades are incredibly slow to come in. I'm writing this in mid October, and no grades have been posted yet\r\n- Kind of a weird con: if you ask her for help, and allow her to touch your laptop, she will close all of your open tabs and windows. She is known for doing this, and it's a bit odd.\r\n\r\nYou can probably get a good grade in this class, but I can't guarantee that you'll learn anything in the process.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2025-10-06T16:00:59.661812Z"
+    }
+  ],
+  "department": "INST",
+  "course_number": "414",
+  "name": "INST414",
+  "title": "Data Science Techniques",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> 1 course with a minimum grade of C- from (INST201, INST301); and minimum grade of C- in INST126, INST314, STAT100, MATH115, and PSYC100.\n<b>Restriction:</b> Must be in Information Science program.\nAn exploration of how to extract insights from large-scale datasets. The course will cover the complete analytical funnel from data extraction and cleaning to data analysis and insights interpretation and visualization. The data analysis component will focus on techniques in both supervised and unsupervised learning to extract information from datasets. Topics will include clustering, classification, and regression techniques.  Through homework assignments, a project, exams and in-class activities, students will practice working with these techniques and tools to extract relevant information from structured and unstructured data.",
+  "is_recent": true,
+  "geneds": null
+}

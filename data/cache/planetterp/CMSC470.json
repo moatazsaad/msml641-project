@@ -1,0 +1,174 @@
+{
+  "average_gpa": 3.2667125171939473,
+  "professors": [
+    "Jordan Boyd-Graber Ying",
+    "C Rytting",
+    "Jordan Boyd-Graber",
+    "Rachel Rudinger",
+    "Christopher Rytting",
+    "Marine Carpuat",
+    "Jordan Boyd-Graber",
+    "Jordan Ying",
+    "Rachel Rudinger",
+    "Jordan Ying",
+    "Triet Le",
+    "Rachel Rudinger",
+    "Jordan Ying",
+    "Rachel Rudinger",
+    "Sarah Wiegreffe"
+  ],
+  "reviews": [
+    {
+      "professor": "Rachel Rudinger",
+      "course": "CMSC470",
+      "review": "I'm not questioning her knowledge of the course materials or anything, but Rudinger definitely needs to prepare for each of the lectures/slides before presenting. Even though this probably isn't the case, it feels as if she just got the slides for a day's lecture THE SAME DAY and just decided to read off the slide contents instead of actually preparing to be asked questions. No one even asked questions because she was going so fast that we couldn't even process. It's almost like she was trying to get the lectures over with quickly because maybe she has stage fright or is embarrassed about not fully knowing everything in the slides, but we're not attending lecture to judge her or for a performance, we're just in class to learn course materials.\r\n\r\nShe does not create her own slides at all (which isn't the worst part, many professors probably don't). The worst part is that it does not even feel like she has read or prepared for the slides. Almost a majority of the class (80-90% of the time), she is reading directly from the slides and even gets lost sometimes.\r\nConstantly trips up or uses synonyms of words to make the presentation have more flare, but listening in during lectures were honestly painful.\r\n\r\nCourse assignments and grading were a mess as well. We had 2 homework assignments covering topics for the midterm, and the second homework wasn't even graded until the last three weeks of the semester (yes you read that correctly).\r\n\r\nI will say that this is probably her very first time ever leading or teaching a course and the pandemic was still going on, so she may have potential for improvement. But from what I saw, there is a LOT of room for improvement.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2021-05-13T21:59:40Z"
+    },
+    {
+      "professor": "Rachel Rudinger",
+      "course": "CMSC470",
+      "review": "She's a first time professor. In terms of lectures, she did try to make the content more understandable, and I think her explanations do, at times, make a significant improvement to the readings. While the difficulty and grading was not challenging as long as you listened to the lectures, the timing was a mess and it was never explained why it took so long for homework and midterms. Furthermore, the number of homework assignments were constantly changing throughout the course. I really hoped to learn more about NLP from this course. While the theoretical content was there, I am still not sure if there was enough technical support, with coding, to make this enriching to take as a course.\r\n\r\nAs another review mentioned, there is a lot of room for improvement. But, there's only one way up if you're at the bottom.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2021-06-01T14:14:01Z"
+    },
+    {
+      "professor": "Jordan Boyd-Graber",
+      "course": "CMSC470",
+      "review": "Dr BG was extremely knowledgeable and passionate about the material. His lectures were pretty hard to follow but he made it very easy to ask questions and gave alternative sources to learn materials. His homework\u2019s were very fair and helped with my overall understanding of the course material. The exams were extremely difficult and the average was low but he curves accordingly. Overall I had a positive experience in Dr Boyd-Graber\u2019s NLP class. ",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2021-12-21T17:19:19Z"
+    },
+    {
+      "professor": "Jordan Boyd-Graber Ying",
+      "course": "CMSC470",
+      "review": "Never take his class. Wait it out till another Professor teaches 470. He is very arrogant and looks down at UMD students, flaunting his Ivy League background. I mean sure, but why crush the confidence of students like you are literally a faculty at the same place you look down upon? He is also very image conscious and will make sure that he does not have to take critical decisions while showing no empathy for students during the COVID-19 waves. He does not give class lectures and there are videos already up on his class, so what is the point of attending the class? His coding assignments were weird with no semblance to latest ML and NLP industry practices. Also he teaches a very obsolete part of Q&A like yeah okay, then rename the course as Q&A not NLP. He has this weird obsession about trivia competitions like not every person in NLP has to do trivia. His class was one of the absolute worst at UMD.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2022-01-31T19:27:05Z"
+    },
+    {
+      "professor": "Rachel Rudinger",
+      "course": "CMSC470",
+      "review": "Extremely boring class. Lectures are drawn out with unnecessary detail that isn't interesting either. Homeworks are laughably easy for how much they're worth, so this class is an easy A. If she's still doing video recordings in the future I recommend skipping class and reading the slides, as you're just saving yourself the time for the same grade in the end.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2022-05-04T16:52:38Z"
+    },
+    {
+      "professor": "Rachel Rudinger",
+      "course": "CMSC470",
+      "review": "Honestly I don't get any of the other reviews here. First of all, I took this class in Spring 2022 so it was not her first time teaching this time. \r\n\r\nA very nice and understanding professor. Very cognizant of the covid situation and made reasonable changes to account for it. In terms of teaching I think she's pretty clear and straightforward. Her exams were also quite fair and she gave us relevant material to practice for them (old exams). She tries her hardest to make the students understand the content and that really shows in class. She gives ample time to address all types of questions in class which was great. \r\n\r\nHomeworks/Projects were manageable too. I just wish there were more TAs. \r\n\r\nOverall, I had a great experience with her!",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2022-05-13T21:49:43Z"
+    },
+    {
+      "professor": "Rachel Rudinger",
+      "course": "CMSC470",
+      "review": "She's kind and it's clear that she's trying. It's also clear that she's very knowledgeable about NLP. However, that did not translate to being able to teach well. Lectures were extremely dry and often hard to follow. It was often unclear what we had to know (vs what is just \"good to know\"), as lectures tended to contain a lot of superfluous detail. Concept explanations were made more complicated than they had to be. \r\n\r\nOn the plus side, homeworks were well-written, aided in understanding some concepts, and weren't too difficult. The midterm exam was also fair. \r\n\r\nSo, it seems like the issue is not structural, but in the substance of how the material is taught. I came into this class being really excited about the subject but found myself groaning in frustration during class.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2022-05-15T23:41:10Z"
+    },
+    {
+      "professor": "Jordan Boyd-Graber",
+      "course": "CMSC470",
+      "review": "This class is flipped lecture which means we watch the lecture videos on our own, and go into class to ask questions for one of the classes for the week. The other class for the week (not listed on testudo as a class/discussion time) is a workshop where we do an assignment on that week's lecture content.\r\nThe content of the course is ok. It's all pertinent to the subject, and is realistic for students to learn at this level.\r\nHowever, the logistics for this class and it's assignments were some of the worst I've ever taken at CS at Maryland.\r\n\r\nThis professor does not teach, and it feels like he does not care about this class at all. He was not present at the midterm to answer questions, and when we asked the TA's questions at the midterm, they said \"Let me ask the Professor\" and then the professor would not respond, so the TA's did their best in answering our questions for the midterm.\r\n\r\nEvery homework assignment released with bugs, meaning if you wanted to start the homework early, you'd have to post on piazza about the bug, wait for the TA's to fix it, and then start again.\r\nEvery homework assignment had extremally vague instructions and grading criteria spawning many questions on the piazza. These questions were often answered by complete non answers, or \"you should know this\". Might I add that the in person question sessions were not recorded, so if you could not remember what a TA/Professor said during class, there was no way to get that answer. So, if they answered a piazza question in class, you're just left hoping another student will answer it for you. \r\n\r\nIn completing the homeworks, many of the lecture videos were wholly unhelpful as well. The videos are not substantial enough to teach the content to a level needed to complete the homeworks in my opinion. To complete them, I would go back to reference the lecture videos, only to realize he spent maybe a sentence or two on implementation details we need for the homework, and the rest of the video introing why this technique is important in history, or why it fell out of favor.\r\n\r\nAll in all, the class felt lazy, sloppy, and an absolute nuisance to complete assignments.\r\nI strongly recommend against taking CMSC470 with this professor.",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2023-05-10T01:35:10.649086Z"
+    },
+    {
+      "professor": "Rachel Rudinger",
+      "course": "CMSC470",
+      "review": "I expected her class to be bad or disorganized after reading some of these. These bad experiences must have been from the being a new lecturer. this is hands down one of the best classes ive ever taken in this program. she is probably the best lecturer for an ml class i have had and explains concepts very well and knows the material like the back of her hand. only thing is she doesnt record. if you take this class, it might be helpful to make your own audio + screen recordings  as you go through slides during lecture so you have something to review. tests arent too hard, class averages were like 80%. also haviing 320 as a prereq for this class helps a lot. im not sure why it isnt required for 426. 422 will help in this class towards the end due to neural network stuff but you might survive without it. anyways yes i highly recommend this class, rudinger is one of the best lecturers in this program hands down. the workload is also very reasonable no absurdly long projects or hw. everything given is reasonable.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2023-11-11T09:41:50.007056Z"
+    },
+    {
+      "professor": "Rachel Rudinger",
+      "course": "CMSC470",
+      "review": "This is honestly one of the most disorganized classes I've taken at UMD.\r\n\r\nI get it, she's published several articles on NLP and seems to be very knowledgable aboutt the subject, but she just didn't seem to care about the class for much of the semester. For the first month, there were neither office hours nor homeworks, and it's pretty obvious that she never checks the Piazza posts too.\r\n\r\nI'm also not a huge fun of her lecturing. She just regurgitates the slides and never really goes deep into how a particular algorithm works. Her slides are just filled with a bunch of formulas with heavy math.\r\n\r\nIn addition, there are only 2 TAs in the class, one of which is not responsible of holding office hours and frequently shows up late to them.\r\n\r\nIf you decide to take this class, make sure you have a good group, because resources are extemely limited.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2023-11-29T23:50:10.923098Z"
+    },
+    {
+      "professor": "Rachel Rudinger",
+      "course": "CMSC470",
+      "review": "Reads off slides. Very few assignments. Inactive on Piazza. Final worth 45% of your final grade.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2023-11-30T05:40:33.494936Z"
+    },
+    {
+      "professor": "Rachel Rudinger",
+      "course": "CMSC470",
+      "review": "The first half of this class was pretty good - lectures were clear, assignments and midterm were very fair. But then all of a sudden it's like she stopped caring after the midterm. No homework or practice problems whatsoever on like half of the course material (that too, the more difficult half). No responses to most Piazza questions. No one knows how to prepare for the final, and it's worth 45% of the overall grade. Most of us are just hoping for a heavy curve at this point. The one good thing I can say is that she's a kind and understanding person, even if disorganized. Overall, I'd say take this course with another professor if possible, you'll learn more and probably be less stressed.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2023-12-06T05:02:27.993022Z"
+    },
+    {
+      "professor": "Rachel Rudinger",
+      "course": "CMSC470",
+      "review": "Class extremely easy but if you choke any assignment or test its over for you. I suspect that class will be good class when she gets firmer grasp on what content should be and what assignments/tests to give. Knowledgable person I think. For now, pretty bad but easy upper level.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2023-12-17T02:11:36.078801Z"
+    },
+    {
+      "professor": "Rachel Rudinger",
+      "course": "CMSC470",
+      "review": "she's pretty good at lecturing + pretty lenient too + assignments/exams are VERY fair. 10/10 recommend.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-22T00:30:31.815271Z"
+    },
+    {
+      "professor": "Rachel Rudinger",
+      "course": "CMSC470",
+      "review": "Professor Rudinger seems like a nice person; when you talk to her, she seems genuine and caring. Her slides were super informative and her lectures were fairly interesting, too. However, the lectures didn't actually add much to the content on the slides that was relevant for exams. If you're so interested in NLP that you'd like to acquire some fun-fact trivia knowledge that won't be tested, feel free to attend her lectures. Otherwise, just read the slides she posts after each class. \r\n\r\nThe biggest issue with Rudinger is her responsiveness. The organization of the class is genuinely horrible. We were meant to have 4 projects this semester, and we ended up having only two. The third was made optional/bonus, as it was released during the final week of the semester with 4 days to complete, and the fourth was scrapped entirely. She rarely (if ever) replies to emails, and the Piazza for this class is the slowest I've had for any CS class at the university thus far. \r\n\r\nThe final is worth 45% of your grade, which is frankly absurd. Almost the entire class's content is better taught in CMSC 472 instead; take that class and you'll come out far more knowledgeable about both NLP and general ML than you will by taking 470.",
+      "rating": 2,
+      "expected_grade": "A+",
+      "created": "2023-12-23T04:07:06.008410Z"
+    },
+    {
+      "professor": "Rachel Rudinger",
+      "course": "CMSC470",
+      "review": "I honestly think Professor Rudinger deserves a higher rating. Starting with the good:\r\n\r\nThe lectures were interesting and informative, offering clear explanations of complex topics. Professor Rudinger was very helpful during office hours and genuinely cared about students\u2019 understanding. HWs and exams are not difficult, and I felt that they reflected the course content well. Also, the new grading structure (gone is the 45% final, its weight split between an additional midterm and final) was a positive change, making the overall grade distribution more balanced. Formula sheets were allowed for every exam, which was helpful.\r\n\r\nHowever, there are still quite a few areas for improvement:\r\n\r\nStudents\u2019 questions on Piazza often went unanswered for days. Out of three TAs, only one ever responded to students, leading to delays in resolving questions and confusion. Professor Rudinger rarely checked Piazza and responded with huge delays. Although practice exams were provided, they were released very late. For example, the practice final (we still had the final review slides) was posted just one day before the actual exam, which left little time for preparation. \r\n\r\nIn my opinion, the course was overly theoretical. We never saw any code during the lecture or applied examples of the concepts, which made it challenging to connect theory to practice. The one programming assignment we had explicitly prohibited the use of optimized data structures, which made the project unnecessarily difficult and tedious.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2025-05-27T14:54:56.371655Z"
+    },
+    {
+      "professor": "Jordan Boyd-Graber",
+      "course": "CMSC470",
+      "review": "If you value your sanity I would advise against taking this professor, he forces you to come to an 8:30 AM lecture via quizzes. During the lectures he doesn\u2019t even teach, you\u2019re supposed to watch the videos beforehand and he answers questions during class so there\u2019s little reason to even show up other than to do the quizzes. Extremely bizarre format that I am really not a fan of.  The content is relatively useful and relevant, but not explained very well, lecture videos offer little help when it comes to assignments. The class is very theoretical and conceptual, so if that\u2019s not your thing this class will be a nightmare for you.   The assignments don\u2019t require you to write a ton of code but the instructions are often very confusing and unclear on what the task even is. A large portion of the time spent on an assignment is trying to decipher how to start and what we are being asked to do. Many assignments have very annoying setup steps and dependencies that make completing every assignment a massive chore. Also pretty much every assignment has bugs in it, meaning it\u2019s literally detrimental to start early before these bugs are found and fixed.   Exams are fair-ish, mostly multiple choice with the ability to choose between 1 of 3 free response questions. It\u2019s not difficult to get a passable grade on these exams if you have good intuition, but it is hard to do very well.   Overall I would not advise taking this class with this professor, it\u2019s a very disorganized and sloppily run class that\u2019s extremely annoying and aggravating when it comes to understand content, doing assignments, taking exams, and even showing up to lecture. Avoid this professor if at all possible.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2025-12-19T22:15:18.211696Z"
+    },
+    {
+      "professor": "Sarah Wiegreffe",
+      "course": "CMSC470",
+      "review": "Worst prof ever. Doesn't know shit about the mod. Gives out of syllabus questions in the quiz, which btw varies from section to section.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2026-03-06T01:36:25.648068Z"
+    }
+  ],
+  "department": "CMSC",
+  "course_number": "470",
+  "name": "CMSC470",
+  "title": "Introduction to Natural Language Processing",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> Minimum grade of C- in CMSC320, CMSC330, and CMSC351; and 1 course with a minimum grade of C- from (MATH240, MATH461).\n<b>Restriction:</b> Permission of CMNS-Computer Science department.\nIntroduction to fundamental techniques for automatically processing and generating natural language with computers. Machine learning techniques, models, and algorithms that enable computers to deal with the ambiguity and implicit structure of natural language. Application of these techniques in a series of assignments designed to address a core application such as question answering or machine translation.",
+  "is_recent": true,
+  "geneds": null
+}

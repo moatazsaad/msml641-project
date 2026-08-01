@@ -1,0 +1,395 @@
+{
+  "average_gpa": 3.6793508017207666,
+  "professors": [
+    "Nelson Padua-Perez",
+    "Nelson Padua-Perez",
+    "Nelson Padua-Perez",
+    "Ilchul Yoon",
+    "David Mount",
+    "Nelson Padua-Perez",
+    "Nelson Padua-Perez",
+    "Nelson Padua-Perez",
+    "Nelson Padua-Perez",
+    "Alan Sussman",
+    "Nelson Padua-Perez",
+    "Nelson Padua-Perez"
+  ],
+  "reviews": [
+    {
+      "professor": "Nelson Padua-Perez",
+      "course": "CMSC335",
+      "review": "Nelson made this course easy, and he knew it. Absolute king. I went to lecture, but you could easily get away without ever watching lecture. A lot of stuff you can find on the internet or in the lecture examples. I was a bit worried about this course because I found his 131/132 courses to be tricky at times (especially with exams), but Nelson kept this course very straightforward and minimized exam difficulty. I have nothing bad to say about this course except for the fact that I wish it provided more depth on practical skills. We only got into Node towards the end. However, part of what made this course easy was the lack of depth so yk... But yeah, def a chill elective with a wonderful prof!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-05-21T14:59:08Z"
+    },
+    {
+      "professor": "Nelson Padua-Perez",
+      "course": "CMSC335",
+      "review": "I am taking this course during the fall of 2022.\r\nNelson is the GOAT. Genuinely an amazing lecturer and an even better person. I wish he taught more upper-level classes so that I can take more classes with him.\r\nAlways keeps the class engaged by making funny jokes.\r\nAmazing teaching skills, he discusses a topic and then immediately shows an example.\r\nRecords lecture and immediately posts them. Attendance is not required unless it's exam day\r\nExams are extremely fair, nothing scary.\r\nProjects are not super challenging but do not wait till the last minute to implement them.\r\n\r\n\r\nAMAZING PROFESSOR MUST TAKE!!!!!!!!!!!!!!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-11-17T00:09:06.997413Z"
+    },
+    {
+      "professor": "Nelson Padua-Perez",
+      "course": "CMSC335",
+      "review": "Epic class, Epic professor. Everything is set up so perfectly. Attendance is optional. All resources in one place, reasonable exams and projects. Take this course if it all fits your plans.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-12-12T02:30:02.268252Z"
+    },
+    {
+      "professor": "Nelson Padua-Perez",
+      "course": "CMSC335",
+      "review": "Nice person and good professor overall.\r\nThis lectures were good and his projects were fair.\r\nHe understands how stressful college can be and trys to accommodate.\r\n\r\nOnly complate is that sometimes his exams material we have just learned and his review guides have a lot of topics which never actually get tested.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2022-12-20T14:19:43.727451Z"
+    },
+    {
+      "professor": "Nelson Padua-Perez",
+      "course": "CMSC335",
+      "review": "Nelson is very understanding and lenient on due dates. Highly recommend the course. Low stress while still getting a background in web dev.\r\nDoesn't require coming to class and records all lectures",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-12-27T18:31:44.181013Z"
+    },
+    {
+      "professor": "Nelson Padua-Perez",
+      "course": "CMSC335",
+      "review": "You need to take this class an elective with Nelson.\r\n\r\nNelson is the best. Period.\r\n\r\nThere are 3 tests and he gives you a test from the previous year that is basically the same thing, with different numbers.\r\n\r\nThe projects are all super easy and straight-forward, while also making you learn the topic. He also gave extensions for almost every project which was always a nice surpise.\r\n\r\nI wish we spend less time on html in the beginning and spend more time with React/Angular, but overall, great class and great teacher.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-01-24T18:27:11.583532Z"
+    },
+    {
+      "professor": "Nelson Padua-Perez",
+      "course": "CMSC335",
+      "review": "Nelson is the chillest professor. He understands students needs and teaches important material. This class was very easy though. Projects are mostly changing things from the examples he has in class. The tests are a lot of info to memorize but I found that it wasn't graded so harshly.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-02-06T15:26:06.609552Z"
+    },
+    {
+      "professor": "Nelson Padua-Perez",
+      "course": "CMSC335",
+      "review": "Straightforward and funny professor who teaches you the fundamentals. Great for people getting into web development. I would recommend Nelson 100% for CMSC335",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-03T19:03:06.554873Z"
+    },
+    {
+      "professor": "Nelson Padua-Perez",
+      "course": "CMSC335",
+      "review": "Nelson is great. He's really funny and understands student's struggles. 335 was a very useful class, and extremely manageable. Projects were basically just adapting what examples he did in class and there was no final exam, just a final project. Would definitely recommend.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-15T17:44:42.146423Z"
+    },
+    {
+      "professor": "Nelson Padua-Perez",
+      "course": "CMSC335",
+      "review": "Nelson is a very chill and funny professor. Lectures are recorded and projects and exams are very straightforward. The course covers express, node, and MongoDB, so you do learn some valuable information as well. Definitely recommend taking this course.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-05-16T20:50:02.416350Z"
+    },
+    {
+      "professor": "Nelson Padua-Perez",
+      "course": "CMSC335",
+      "review": "Great class! Good if you want an introduction to Web Development. Also good if you need an extra CS class that's not too difficult or time-consuming.\r\n Lectures are optional and if you skip them you'll be fine because the material is all online. The exams were easy and the projects were easy also and not too time-consuming.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-11-28T22:05:37.427665Z"
+    },
+    {
+      "professor": "Nelson Padua-Perez",
+      "course": "CMSC335",
+      "review": "This class was phenomenal! Genuinely the most enjoyable CMSC course you can take at UMD. Projects are very manageable, exams are quite easy if you run through study guides, and you do not have to attend class at all! If you make an effort to soak in the course material, you will learn a ton of applicable skills and it's an easy resume booster, you learn a lot of tools in such a short time. (I suggest working on the final project alone or doing something grand so you can put it on your resume, I did a personal portfolio as my final)",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-15T03:05:57.229670Z"
+    },
+    {
+      "professor": "Nelson Padua-Perez",
+      "course": "CMSC335",
+      "review": "I took CMSC335: Introduction to Javascript with Nelson over Fall 2023 as a CS elective.\r\n\r\nYou MUST take this course. It is actually useful and sometimes even fun. Nelson is of course, classic Nelson.\r\n\r\nPlease also take this course alongside TWO other CS classes because the workload for this course is negligible. It is easily balanced on top of taking CMSC330 and CMSC351, for example.\r\n\r\nRecords lectures, nobody shows up to class, I personally never watched the lectures but I did fine.\r\n\r\nNelson was terrible for CMSC131 (kind of expected because he does not like the subject so much and finds it boring, something to \"just pay the bills\") but he was great for CMSC216 and CMSC335 (both of which he likes), I cannot recommend him enough.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-12-21T19:35:34.974107Z"
+    },
+    {
+      "professor": "Nelson Padua-Perez",
+      "course": "CMSC335",
+      "review": "Super nice professor who's very fair in his exams and projects. He's also hilarious and makes lectures entertaining.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-12-28T16:50:17.541456Z"
+    },
+    {
+      "professor": "Nelson Padua-Perez",
+      "course": "CMSC335",
+      "review": "Nelson is as awesome as always. Take this course over all the other electives. You actually learn a good amount and become competent in website building at the end.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-01-01T18:51:37.669846Z"
+    },
+    {
+      "professor": "Nelson Padua-Perez",
+      "course": "CMSC335",
+      "review": "Nelson is a friendly professor for sure. He recorded lectures and posted slides so in-person lectures were optional. Midterms are fairly easy, and you can easy earn a A/B by practicing the old exams. The projects are easy as well. I'd definitely recommend it for students who want to learn web development.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-01-11T14:39:09.245854Z"
+    },
+    {
+      "professor": "Nelson Padua-Perez",
+      "course": "CMSC335",
+      "review": "Nelson is simply incredible. He is very chill, kind, and funny, all while being a great instructor. His exams (very fair), projects, and lectures are the best!",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2024-01-20T01:23:05.541087Z"
+    },
+    {
+      "professor": "Nelson Padua-Perez",
+      "course": "CMSC335",
+      "review": "The class is easy and Nelson is a great lecturer, he makes it very fun. However, you can't talk in class or he will call you out so if you want to do that then just watch his lecture videos.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2024-03-28T17:16:32.822862Z"
+    },
+    {
+      "professor": "Nelson Padua-Perez",
+      "course": "CMSC335",
+      "review": "His class is extremity disorganized and a lacks clarity regarding exam content. Despite the absence of guidance on exam topics and the withholding of practice exams, students are left to navigate a frustrating academic experience devoid of support. For exam 1, the main coding question had content from Exam 3. He misguided all of his students.",
+      "rating": 1,
+      "expected_grade": "C-",
+      "created": "2024-04-11T02:49:13.519446Z"
+    },
+    {
+      "professor": "Nelson Padua-Perez",
+      "course": "CMSC335",
+      "review": "Terribly organized class. You learn nothing. Not fun.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2024-05-14T16:09:39.497798Z"
+    },
+    {
+      "professor": "Nelson Padua-Perez",
+      "course": "CMSC335",
+      "review": "You should either attend lectures or watch recordings if you want to learn. It is actually a pretty useful class. Youll learn a lot about web development. I was taking 20 credits so I barely focused on this class. I just took it for some filler cs in my schedule. If you try even a little bit, you can easily get an A. Exams are basically the same as sample exams, just make sure you review and actually understand everything on the sample exam. The projects are pretty easy as well. There is no final exam, just a final group project.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2024-05-16T01:39:39.467835Z"
+    },
+    {
+      "professor": "Nelson Padua-Perez",
+      "course": "CMSC335",
+      "review": "His exam materials are all included in his bullet points for exam topics, which I thought was fair. The class was fun and chill, and projects were fair and easy. He also removed the last project just so we could have more time to do the final project/study.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-17T22:28:25.469562Z"
+    },
+    {
+      "professor": "Nelson Padua-Perez",
+      "course": "CMSC335",
+      "review": "Liked this class because I really learned a lot stuff from it. His exam materials were all included in his bullet points for exam topics, which I thought was fair. Project were fun and easy as well, and the final project was a very interesting one to me personally. Nelson, overall, is a pretty good lecturer, he is very funny, kind, and he cares about his students a lot. I recommend everyone take this class.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-20T00:08:24.573170Z"
+    },
+    {
+      "professor": "Nelson Padua-Perez",
+      "course": "CMSC335",
+      "review": "super chill course, especially for senior year :) only downsides sometimes were exams having coding content from other exams (ex. exam1 having the content from previous exam2s, exam2 having content from previous exam3s), but all the topics on exams were always outlined and stuff so it was fair in that regard. not bad at all and would 100% recommend!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-05-20T16:58:35.316112Z"
+    },
+    {
+      "professor": "Nelson Padua-Perez",
+      "course": "CMSC335",
+      "review": "Not the best teacher,he gave sample papers for exam 1 and asked major coding question(near 70 points) from other exam.Just goes through code examples,very hard to understand his teaching plus not very funny jokes during class.",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2024-05-21T03:56:18.011783Z"
+    },
+    {
+      "professor": "Nelson Padua-Perez",
+      "course": "CMSC335",
+      "review": "Nelson is a good teacher and very funny. he cares about the content a lot. This class is very fun and very useful for getting started with JavaScript and web development. Would definitely recommend. That being said, exam 1 was kind of a mess because it was not like the sample exams even though he said it would be. The rest of the exams and projects were straightforward. Definitely take him and this class, just expect to put some work into it if you want an A.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-29T00:32:26.575355Z"
+    },
+    {
+      "professor": "Nelson Padua-Perez",
+      "course": "CMSC335",
+      "review": "This class was chill but it\u2019s pretty useless. It\u2019s missing key elements that are useful in modern web development such as typescript, react, and relational databases. The class material is dated to like 2015 at best. Expected much more for the $$$ we are paying in tuition.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2024-05-29T11:30:02.378129Z"
+    },
+    {
+      "professor": "Andrej Rasevic",
+      "course": "CMSC335",
+      "review": "This professor is insanely disorganized and very very very bad at teaching. He uses Nelson's material, which is fine but the issue is that he does not prepare at all. It felt like he did not know any web-dev. He is very unprepared during lectures and just reads what's written in the slides.\r\nWhen a student is paying nearly $5000 for one course, the least he can do is read the material before presenting it. DO NOT TAKE CMSC-335 with him.",
+      "rating": 1,
+      "expected_grade": "A+",
+      "created": "2024-06-22T17:47:46.060541Z"
+    },
+    {
+      "professor": "Nelson Padua-Perez",
+      "course": "CMSC335",
+      "review": "It was a fine class. Content is not difficult but his exams can be tricky. The good thing is his exams are similar to practice (structure wise). I think some of the point distributions were unfair though. The big change I noticed from his other classes and this is the powerpoints are very bland. There wasn't really enough content on them to answer questions. So it forces you to watch the lectures or go to class (obviously most choose to watch lectures). That being said I think if you learn content from the practices and project you can set yourself up for at least a decent grade.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2024-07-01T00:06:35.476425Z"
+    },
+    {
+      "professor": "Nelson Padua-Perez",
+      "course": "CMSC335",
+      "review": "Since I already had experience with web programming, this was one of the easiest CS classes I've ever taken. Nelson doesn't require attendance, so I showed up only for the midterms. He provides many resources to use when studying so you're never unprepared. One neat thing about the final project is it's up to you to design and implement it.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-08-05T00:08:32.168665Z"
+    },
+    {
+      "professor": "Nelson Padua-Perez",
+      "course": "CMSC335",
+      "review": "Nelson is knowledgeable and teaches the material decently but he is unprofessional. He often distracts from the material and embarrasses students, like calling out a student for her insulin pump beeping. He shouldn't have to make jokes at the expense of a student to engage his class because not every student is comfortable being put on blast in front of the whole class. This behavior discourages students from coming to class and creates an uncomfortable environment for those that he picks on and students that have to watch. He does grade fairly and records lectures which is nice. He seems to care about students a lot but continues to act rudely towards them.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2024-09-10T17:07:33.741605Z"
+    },
+    {
+      "professor": "Nelson Padua-Perez",
+      "course": "CMSC335",
+      "review": "I don't really understand all the hype around Nelson; he comes across as a condescending teacher. For 335, the first midterm felt like a chore, requiring you to memorize a bunch of random information. The only effective way to prepare was by studying previous midterms. For fall 2024, our midterms were nearly identical to those from the previous spring, but they\u2019re always subject to change\u2014spring 2024's midterm, for example, wasn\u2019t like fall 2023's. Our semester got lucky with similar midterms, but overall, you don\u2019t learn much in this class.\r\n\r\nI was in the 8 AM section, and while I didn\u2019t mind the early timing, Nelson's lectures were quite boring. He often makes jokes and gets off-topic, which isn\u2019t what I want to deal with at 8 AM. It feels like he doesn\u2019t fully understand the material he's teaching. When asked for specifics, he often can\u2019t provide clear answers. If something in his code doesn\u2019t work, he doesn\u2019t seem to know why.\r\n\r\nI already knew the basics of HTML and CSS but wanted to learn more about JavaScript and MongoDB. Unfortunately, I was disappointed\u2014Nelson simply gave us the code for those topics without explaining how the systems work. The final exam was super easy and almost identical to Project 5. You could literally reword that project and still get full points on the final.\r\n\r\nThe TAs are often PhD or master\u2019s students, and they\u2019re difficult to work with. They don\u2019t provide helpful answers most of the time. This class is definitely worth taking if you\u2019re in it for the grade, but it has its downsides. For example, the midterms aren\u2019t given during class; instead, they\u2019re held at 6:30 PM in a different lecture hall. While I understand Nelson\u2019s intent to prevent one section from sharing answers with another, this setup is inconvenient. I would much prefer taking the midterms during class.\r\n\r\nOverall, I think 335 needs to be restructured. It feels outdated and poorly designed. We had to learn things from JavaScript ES5, which is deprecated\u2014why bother teaching it? I wish they\u2019d reduce the focus on CSS and introduce more relevant topics, like React, into the projects. A more modern framework would make this course much more worthwhile.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-12-19T17:49:59.833305Z"
+    },
+    {
+      "professor": "Nelson Padua-Perez",
+      "course": "CMSC335",
+      "review": "Not as easy as I would've thought, but still not very difficult. In terms of difficulty, the projects are easier than his 216 class, and instead of a final you get an easy final project, but the exams are about the same difficulty. Still do not slack off with the projects and make sure you study the past exams and focus on the most recent one",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-20T13:52:52.507654Z"
+    },
+    {
+      "professor": "Nelson Padua-Perez",
+      "course": "CMSC335",
+      "review": "Probably the easiest 300/400 level course in the CS department. If you put effort in not falling behind and starting the projects early, you will succeed. Nelson is great at explaining concepts when he\u2019s not joking around. My one complaint is that I wish he didn\u2019t joke around as much, but that wasn\u2019t a big deal. I just watched the lecture recordings since you can skip around and speed up the vids. Great prof for an easy and useful class.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-22T19:26:32.130841Z"
+    },
+    {
+      "professor": "Nelson Padua-Perez",
+      "course": "CMSC335",
+      "review": "nelson markets the class as \"the easiest a you'll ever get in cs\", and he isn't wrong per se. the projects are fairly straightforward (and the majority of the code for them can be found scattered across his lecture examples), although i know some students had issues with mongodb, which was in the last project so i'd definitely at least set up your projects early to troubleshoot potential issues. the exams for fall 2024 were also very similar to spring 2024, although spring 2024 was completely different from fall 2023, so take that how you will. honestly, this class is pretty chill if you're just looking for an upper level cs course, but is also very basic in what it covers (html, css, js, node, express, mongodb). nelson himself is the goat however so 5 stars",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-30T05:29:02.255476Z"
+    },
+    {
+      "professor": "Nelson Padua-Perez",
+      "course": "CMSC335",
+      "review": "Truly a great class! Nelson's expectations are always fair and clear. Projects are fun and straightforward as long as you know the content from the lecture. The lectures are recorded, and attendance is not mandatory. The TAs were very active on Piazza and answered all questions promptly.\r\n\r\nOne thing to note is that he made exams harder this semester. You can still get A\u2019s on all of them if you follow the study guide Nelson posts before every exam. On the downside, sometimes, he explains topics on a very superficial level or goes on tangents, making it harder to understand content.\r\n\r\nOverall, I highly recommend CMSC335 with Nelson, as it is a fun, manageable class that teaches you really useful content.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-01-17T17:37:16.916330Z"
+    },
+    {
+      "professor": "Nelson Padua-Perez",
+      "course": "CMSC335",
+      "review": "As other reviews had stated, pretty good on the workload and the way the exams are similar, no curveballs. The projects all have bread crumbs so it's 80 percent copy and paste and 20 percent work. If anything his TAs are pretty decent and care easy to reach.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2025-01-27T17:00:46.316257Z"
+    },
+    {
+      "professor": "Nelson Padua-Perez",
+      "course": "CMSC335",
+      "review": "This class is honestly a joke. You really don\u2019t need to go to lecture at all because you can teach yourself everything. Each project took me maybe 2\u20133 hours max, and for the exams, you just need to study the day before. And by \u201cstudy,\u201d I mean memorize the format of the previous exams.\r\n\r\nI'm giving Nelson a 3 because he doesn\u2019t seem very invested in what he\u2019s teaching and tends to go off-topic a lot (another reason I skipped lectures. I didn\u2019t feel like I learned much from them).\r\n\r\nI took this class alongside 330 and 351, and it wasn\u2019t too much work overall.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-05-21T03:32:36.976854Z"
+    },
+    {
+      "professor": "Nelson Padua-Perez",
+      "course": "CMSC335",
+      "review": "I also took 216 with Nelson and have never really been a fan of his teaching style. I just find it easy to become disengaged with how often he goes off topic. However, he's an extremely kind professor who cares a lot about his students. This class in specific is extremely easy to get an A in as long as you make sure you follow the instructions for all projects and set aside a day or 2 to \"study\" for the exams (just memorize the format). I attended a few lectures at the beginning of the semester but decided it wasn't necessary and was still able to get an A pretty easily. I'm personally not that interested in web dev but I did want to learn a basic overview and this class provided just that. Overall, I would recommend this class if you're interested in web dev or simply looking for an easy A.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-22T02:14:10.508710Z"
+    },
+    {
+      "professor": "Nelson Padua-Perez",
+      "course": "CMSC335",
+      "review": "Fair class",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2025-12-15T01:31:40.532730Z"
+    },
+    {
+      "professor": "Nelson Padua-Perez",
+      "course": "CMSC335",
+      "review": "Nelson as a person is great, but I\u2019ve always he\u2019d the belief that you retain little to no information through his courses, and that he gets majority 5 star reviews due to the fact that his classes and exams are so easy to pass. This problem is exacerbated in 335, which is a course that needs to be destroyed by the computer science department and rebuilt from the ground up. Easy A, bad class.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-12-19T22:04:44.684704Z"
+    },
+    {
+      "professor": "Nelson Padua-Perez",
+      "course": "CMSC335",
+      "review": "The Professor is really nice and funny at times. Attending lectures is not required, and lecture recordings are posted online. For exam preparation, he provides a folder of previous exams for practice, which greatly helps, as it is very similar to the actual exam. The projects are pretty simple and basically require copying and pasting code from the lecture example. There is no final exam, but a group project. Overall, the course is very easy to take and get an A in. If the projects allowed for some flexibility and were more engaging it would have been nice, as I felt like the content really didn't stick with me. Also, since most of the people did not attend lecture, making this class fully online for future semesters could be something to consider.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-12-22T23:46:51.551019Z"
+    },
+    {
+      "professor": "Nelson Padua-Perez",
+      "course": "CMSC335",
+      "review": "You probably know the drill about Nelson by now. He's a funny dude who is a great lecturer.. when he stays on topic and isn't making crude or inappropriate jokes. \r\n\r\nI was surprised by how much I learned from this class. I feel more knowledgeable about JavaScript and different web frameworks as a whole. \r\n\r\nYou don't need to go to lectures. Exams are copy paste from the semester before.\r\n\r\nI won't detract stars from Nelson for this, but his grading TAs are a pain to deal with.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2026-01-18T06:02:45.960141Z"
+    },
+    {
+      "professor": "Nelson Padua-Perez",
+      "course": "CMSC335",
+      "review": "Great class to learn about web servers, javascript, node.js, html/css. You will be able to create simple interactive web pages after this class and host them on a server. \r\nNelsons really very funny guy he will always find a way to make school less stressful and sad (so competitive these days) at the same time you can tell how longs he been teaching because hes very knowledgeable and eager to give his many years of teachings knowledge to his students. Exams are carbon copies of previous exams just do the old ones and your fine. This is a great easy A that you should take if you don't already know how the web works.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2026-01-21T05:11:22.951692Z"
+    },
+    {
+      "professor": "Nelson Padua-Perez",
+      "course": "CMSC335",
+      "review": "Went to the class first two times and he was like why are you here. Only showed up to class for the midterms after that. Midterms are copy paste from past semester with slight changes. Projects are pretty easy and somewhat fun but overall the class is what you make of it.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2026-02-08T01:40:38.739702Z"
+    },
+    {
+      "professor": "Nelson Padua-Perez",
+      "course": "CMSC335",
+      "review": "Disrespectful professor who calls students out. He also doesn't care too much about student's growth in the class. I am very dissapointed.",
+      "rating": 1,
+      "expected_grade": "A+",
+      "created": "2026-03-07T04:12:00.225630Z"
+    }
+  ],
+  "department": "CMSC",
+  "course_number": "335",
+  "name": "CMSC335",
+  "title": "Web Application Development with JavaScript",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> Minimum grade of C- in CMSC216 and CMSC250.\n<b>Restriction:</b> Permission of CMNS-Computer Science Department.\n<b>Credit only granted for:</b> CMSC389N or CMSC335.\n<b>Formerly:</b> CMSC389N.\nProvides an introduction to modern ways of developing Web Applications/Services using JavaScript for both front-end and back-end. The course covers topics on fundamental JavaScript language constructs, server-side JavaScript, back-end data persistence, and client-side JavaScript to build Web Applications that interact with Web services and back-end databases.",
+  "is_recent": true,
+  "geneds": null
+}
