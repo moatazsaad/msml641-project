@@ -1,4 +1,4 @@
-"""Split reviews_to_weak_label.csv into smaller LLM labeling batches."""
+"""Splitting the weak label reviews into smaller LLM labeling batches."""
 import argparse
 import csv
 from pathlib import Path
