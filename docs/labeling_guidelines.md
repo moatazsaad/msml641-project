@@ -3,6 +3,18 @@ working draft for the terpload labels. Main goal is to label course reviews for 
 
 These labels are not final. We expect to update them after labeling the first batch of reviews.
 
+## What "weak label" means
+
+Most labels in this project are "weak labels." A weak label is assigned by an automated
+process (an LLM following the prompt in `docs/labelling_prompt.md`) instead of a person
+reading the review and deciding by hand. Weak labels are useful and much better than
+nothing, but they can be wrong or miss context a human would catch — that is why the Week 7
+audit found 4 out of 10 checked labels to be "ambiguous" even though none were "corrected."
+A label only becomes human-verified after someone spot-checks it, the way the Week 7 audit
+did on a small sample. Any accuracy or F1 number reported for a model in this project
+measures how well the model matches these weak labels, not a fully human-verified ground
+truth — that distinction should be stated whenever those numbers are shared.
+
 ## How to label
 
 Each review can have more than one label.
