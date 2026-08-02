@@ -11,10 +11,10 @@ OUTPUT_PATH = Path("data/weakly_labeled_reviews_full.csv")
 
 def find_labeled_files(input_dir: Path) -> List[Path]:
     patterns = [
-        "terpload_labeled_batch_*.csv",
-        "weak_label_batch_*.csv",
-        "weak_label_batch_*_labeled.csv",
-        "labeled_batch_*.csv",
+    "terpload_labeled_batch_*.csv",
+    "labeled_weak_label_batch_*.csv",
+    "weak_label_batch_*_labeled.csv",
+    "labeled_batch_*.csv",
     ]
 
     files: List[Path] = []
