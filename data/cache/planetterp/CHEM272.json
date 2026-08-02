@@ -1,0 +1,491 @@
+{
+  "average_gpa": 2.8558992745768363,
+  "professors": [
+    "Lee Friedman",
+    "Joseph Houck",
+    "Natalia White",
+    "Soumya Rastogi",
+    "Amanda Schech",
+    "Jason Kahn",
+    "Elizabeth Griffith",
+    "Pedro Bueno",
+    "Amanda Schech",
+    "Amanda Schech",
+    "Amanda Schech",
+    "Amanda Schech",
+    "Amanda Schech",
+    "Amanda Schech",
+    "Amanda Schech",
+    "Amanda Schech",
+    "Amanda Schech",
+    "Amanda Schech",
+    "Amanda Schech",
+    "Amanda Schech"
+  ],
+  "reviews": [
+    {
+      "professor": "Michelle Brooks",
+      "course": "CHEM272",
+      "review": "Dr. Brooks is an unusual character. Some days she seems so nice and is willing to help you out any way possible, and some days it seems like she has pms and hates the world and wants you to get an F. All I can say is that I worked by @$$ off to get an A in this class, and it was the most workload I had out of any class. She curved the class so that if you had an 85% or higher, you would get an A. The three exams were difficult, especially the multiple choice part. Although the final was really easy, just make sure you write all the procedures and every chart from the lab manual. Overall if you really want to get A, get ready to work.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2009-05-20T13:14:00Z"
+    },
+    {
+      "professor": "Michelle Brooks",
+      "course": "CHEM272",
+      "review": "Epic fail class. 3 exams + final for a 2 credit class. There is a ridiculous amount of work for this class as well. Lab reports aren't short and the grading is VERY VERY inconsistent. I've compared my lab reports with others and some people will get points deducted and others won't for the same answer. It was difficult to study for exams. It was strongly based on application of the material. There was 1000 points total. CHEM271, the corresponding lecture, had only 500 points total and the work load was very small. \n\n\n",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2009-05-17T18:02:00Z"
+    },
+    {
+      "professor": "Michelle Brooks",
+      "course": "CHEM272",
+      "review": "I have mixed feelings about Dr. Brooks and this course. The course has way too much work for a 2 credit course (3 exams, a lab every week, and a final vs. 2 exams, a final, 2 quizzes, and 2 problem sets for 271). I had more work in this course than any of my other courses. On the other hand, I have never learned so much from a chemistry lab. I feel like I actually did take something away from this course and have a better understanding of certain things. \n\r\nThe lectures are somewhat unnecessary to attend especially if you can follow the powerpoints on your own. However, during some lectures, she gave you hints and answers to things you wouldn't normally get. \n\r\nI didn't interact with her too much throughout the semester, but I had a couple of problems and I never had anything bad to say about any interaction with her. I thought she was pleasant and helpful and was really there to teach you. ",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2009-05-03T16:48:00Z"
+    },
+    {
+      "professor": "Michelle Brooks",
+      "course": "CHEM272",
+      "review": "Her lectures were at best mediocre. They sometimes helped me with doing my laboratory reports, but usually they gave too much extraneous information that we would never have to remember or use for our exams. Overall, her exams were VERY difficult. To get full credit on all questions, you'll have to have in-depth knowledge of what's going on \"backstage\" and know EXACTLY what you did in lab, what happened, why you performed a certain procedure, and why you obtained your specific data/results.\n\r\nIn other words, her class was informative, but was much too demanding for a 2 credit course. The co-requisite course (CHEM 271), which is also 2 credits, is MUCH MUCH easier compared to this class, especially if you take Dr. Brooks.",
+      "rating": 2,
+      "expected_grade": "C",
+      "created": "2008-12-26T01:43:00Z"
+    },
+    {
+      "professor": "Michelle Brooks",
+      "course": "CHEM272",
+      "review": "Dr. Brooks is a horrible teacher.  As people have said before, she seems like she is nice but she is a straight up mean person.  Her lectures suck, she tries to be cool and talk about drugs and sex but picturing her having sex just makes me gag.  All she does in lecture is review over her slides, which she posts online anyways and are only slightly helpful when doing the labs.  The labs take forever.  Taking this class will seriously ruin your academic and social life.  Assuming you are taking 14-16 credits, you basically have to spend as much time on this worthless 2 credit class as ALL of your other classes combined.  The labs are graded horribly.  You can do nothing wrong and get questions completely wrong because you do not do the problem exactly the way she wants you to, or just get points off of every question because your sig figs aren't perfect.  Apparently half of the lab manual is copied straight out of wikipedia and also some of the lab procedures are written incorrectly.  Several people had to re-do large portions of labs because of the TA's were incapable/uninformed of this.  When I told Dr. Brooks that one of the lab procedures was wrong she insinuated that I am an idiot and should have known that the procedure was wrong just from reading it.  The TA's suck.  She's given horrible TA's purposely, and she tells them that they can't really help you if you go to their office hours.  The fact that this two credit class has a lab due every week, prelabs, 3 exams and a final is bullshit.  This class is such a waste of time and a GPA killer because of the ways she does the grades.  I feel bad for anyone who has to take this class with Brooks in the future, too bad she's the only one teaching it next semester.    \n\r\nFor the record, I have a 3.8 GPA as a chem major, so I am not just some idiot who writes shit like this about every teacher.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2008-12-20T14:47:00Z"
+    },
+    {
+      "professor": "Michelle Brooks",
+      "course": "CHEM272",
+      "review": "will fuck up your GPA and probably laugh about it to her cats. Doesn't care that shes messing with your future. Tried to give us a 2% curve until there was an uproar.",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2008-12-18T00:08:00Z"
+    },
+    {
+      "professor": "Michelle Brooks",
+      "course": "CHEM272",
+      "review": "'alyz's' review is spot on...\r\nHer slides are sometimes helpful with answering the post-lab questions. Her exams are pretty challenging and difficult to study for. She seems like she would be a pain to deal with individually (I avoided this)...but she is entertaining and seems nice enough in lecture. \n\r\nThe titration labs are really frustrating. So many trials..so many data points...uugh. On the whole, it is an annoying lab. ",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2008-12-10T20:31:00Z"
+    },
+    {
+      "professor": "Michelle Brooks",
+      "course": "CHEM272",
+      "review": "Teaches from slides, sometimes helpful with labs\r\nLab exams hard\r\nSuper picky with sig figs (ugh!)\r\nSeems nice but when you talk to her she's just plain mean\r\nTries too hard to be cool (aka drugs + tattoos)\n",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2008-11-13T02:32:00Z"
+    },
+    {
+      "professor": "Michelle Brooks",
+      "course": "CHEM272",
+      "review": "She's a good teacher, very approachable outside of class, goes out of her way to make the assignments as fair as possible. Lab reports are honestly not that hard; if you go to lecture, she practically does the whole report for you anyway. \n\r\nBut her exams are absolutely ridiculous. \r\nThey are unlike anything on the lab reports, and require an incredibly deep understanding of the material. ",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2008-07-01T23:00:00Z"
+    },
+    {
+      "professor": "Michelle Brooks",
+      "course": "CHEM272",
+      "review": "Class was extremely difficult. Most labs take a long time. The lab reports took forever and were hard. Some were graded easily while some were graded really harshly. She made her midterm and final almost impossible. Overall, very bad lab. She did curve in the end but not that much.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2008-06-02T17:40:00Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "garbage. pretends to care, but does not help, even when students actually reach out. does not show up to own office hours. ",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2017-11-20T22:22:14Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "I really loved Dr. Schech, especially after all of the other bad chem professors out there. She is so sweet and helpful and I thought her lectures were easy to follow. Tests can be difficult and her labs are time consuming and hard (but not as bad as other chem labs I have taken). ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2018-11-20T06:11:28Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "Her lectures are informative and thorough. They cover a lot of material and she is good at explaining concepts. However, the lab experiments/reports require an ungodly amount of time to complete. Be prepared to pull all-nighters completing them throughout the semester. Also, the exams are very difficult. She plays with words and makes the questions very tricky, which is annoying, especially since the exams are timed and you barely have enough to rush through it. ",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2020-10-27T07:17:49Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "She's an amazing professor who is very passionate about the subject. I had Dodson for lecture and Dr. Schech for lab and Dr. Schech was the main reason why lecture was doable. Her lectures are straight forward and clear with a lot of examples. She also offers a lot of resources to ensure that we understand the lab. Her exams are decent if you study well. I had her during an online setting",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2021-05-04T21:49:58Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "I had her in both CHEM131 and 272 and she's definitely one of my favorite chem professors. She's really engaging and approachable. Her exams were fair in my opinion and, for 131, they reflected the lecture and practice exams well (but not the homework, which just seemed to not really connect with the class at all). She does tend to talk quickly during in person lectures so I'd recommend recording them if you're someone that can't take notes quickly. For 272, she translated the course really well online and offered a lot of videos to help us understand the content. Her grading policies are also pretty on par with the rest of the chem professors.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2021-05-06T01:39:35Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "I had Dr. Schech for both CHEM131 (in person, Fall 2019) and CHEM272 (online, Spring 2021). For her ability to teach CHEM131, I was not that impressed. She would get confused in the middle of lecture sometimes and her TA would have to help her get back on track. Her exams were difficult but luckily it was an easy course. I was not looking forward to having to take her again for CHEM272, but I was pleasantly surprised with how this course turned out. Her lectures were very thorough and helped me get through both this course and the corresponding lecture component, CHEM271. Though the lab reports took a lot of time to complete, I am now an excel god. Her exams were still difficult, but I survived. So overall I\u2019d say 3 stars for CHEM131 and 5 stars for CHEM272, which brings us to an average of 4 stars altogether. (Make sure you use proper error reporting when doing calculations like that...)\r\n\r\nP.S. Time passes really slowly during her lectures! ",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2021-05-18T07:44:34Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "Great professor who truly cares about her students. Very approachable and will answer questions by email to help you out. But these lab reports take an ungodly amount of time to complete and I pulled all-nighters just about every week working on them. Praying for anyone who has to take CHEM272 because it truly was the most tedious class I've had to take at UMD",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-05-18T19:15:08Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "Dr. Schech's lectures are very helpful in providing the necessary background information and calculations needed for the lab. Her answers to email questions are pretty clear. Her answer on Piazza can be a little unclear and frustrating since she tells you to refer back to lectures a lot. The lab reports are the worst part of the class since they take hours (I took at least 4-5 hours on them) to complete since you have to analyze data and be very careful with significant figures. Overall, the materials were not hard but can be confusing sometimes. I suggest having a friend you know so you can ask quick questions about the lab and utilize office hours/Piazza/TA's and Dr. Schech's email. ",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2021-05-19T21:21:49Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "One of the best lab professors I have had in my time at UMD. Her lectures are super straightforward and she is great at simplifying all the topics and making them understandable. Her exams were very fair and she actually gave reasonable practice exams in comparison to other professors (ex. I had Dodson for lecture, whose practice did not at all reflect exam content). The only thing that sucks is lab reports take an insane amount of time to complete (I got an A on every one but I spent probably 10-15 hours on each report), and you NEED TO ATTEND OFFICE HOURS. I cannot stress that enough- if you want an A, go to office hours!! Additionally, to prepare for exams make sure you redo all of the pre lab walkthroughs and other pre-lab materials, since she creates questions that are often very similar to those. Overall, I enjoyed this class and learned a lot, and felt I was fairly assessed for my knowledge. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-05-23T16:12:35Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "Cannot say enough good things about Dr. Schech. She's a great lecturer, extremely organized, grades fairly, and is super nice! I took her for both gen chem labs and feel like I understood her material better than the actual lecture material. ",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2021-11-17T17:43:23Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "Literally the best ever. She is super helpful and answers questions pretty fast. She really knows what she is talking about and makes the class 10x easier. The class isn't bad if you ask questions and watch the videos she posts. Also the mid term was super fair- everything we had learned.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2021-12-08T23:12:57Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "If you are a transfer student and asked to retake the lab course of Gen Chemistry II, I would recommend you retake CHEM271 as well. The CHEM272's lecture really only covers the procedure of the lab as well as related calculations for the lab report. But on the exam, there will be unfamiliar questions that she never really went over nor was it on the lab report. The prelab walkthroughs and the exam reviews are helpful but it does not cover the whole content of the exam.",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2021-12-16T02:14:12Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "Had her for lab. She is a very clear lecturer and makes her expectations pretty clear most of the time. It's a very tough class though in the sense that you really have to put a lot of work into it. Enjoy!",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2022-05-15T17:00:40Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "THIS CLASS REQUIRE SO MUCH WORK. but it is not impossible at all. UTILIZE TA office hours!!!!!!!!!!!!!!! also the exams are not worth much so its pretty fair that the weekly reports are so time consuming for a two credit class. you got this. expecting A-....?",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2022-05-18T00:28:51Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "Schech is a nice person but the exams were hard and the lab reports took forever. Her lectures are very easy to understand but it only goes over the basics and the exams problems are much harder. Also, if you are a transfer student take chem271 as well. The classes go hand in hand and I would\u2019ve done much better on exams if I had taken chem271. GO TO TA OFFICE HOURS. The office hours are very helpful and you will get better grades on the reports if you go.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2022-12-06T17:48:21.110899Z"
+    },
+    {
+      "professor": "Nathan McLane",
+      "course": "CHEM272",
+      "review": "Nice guy, works with you. Chill asf",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2022-12-08T16:31:53.842875Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "I had Dr. Schech last semester and she was amazing!! Her lectures are very clear and if you watch them, you will do well on your post labs. I watched her lectures, reviewed her modules, and looked over her practice exams do review for the midterm and final. If you really put in the effort, you can definitely do well. I also attended a few office hours a week to go over the post labs which helped me a lot.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-04-05T17:51:37.175498Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "She is such an incredible professor. She's super engaging and you can tell she cares about her students. Her exams are fair, her content is easy to follow, and the overall applications of the chem content are so interesting. She really values us learning the content in a cool, interactive way. I enjoyed this lab more than any other lab I took in my two years at UMD so far. If you're nervous for CHEM272, don't be. She creates the class in a way to ensure that your grade is entirely based on the work you put in, which I am so appreciative of.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2023-04-09T05:03:32.701645Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "I had Schech for CHEM131 (Gen Chem I) and again for CHEM272 (Gen Chem II LAB) and she CARRIES the UMD chem department. She's kind, understanding, and super approachable. I love her so much I wish she taught all chem classes.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2023-05-05T01:48:00.343160Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "I am not very good at chemistry. I will likely be getting a C in lecture. However, I found lab much easier and will likely have an A or A- after the final. I only went to the first lecture for lab and never went again. She uploads the notes to ELMS and records the lecture, and I found that those were the only resources I needed to do well in the lab. I had an excellent TA and found good TAs to attend for office hours that made the post-labs easy. The midterm was also very fair compared to the midterms I took for gen chem 1 lab, orgo 1 lab, and orgo 2 lab. If you just pay attention to what you're doing in lab and actually have a basic understanding of the purpose of each lab, you'll do fine. A lot of people do poorly because they go into lab clueless and wait for another group member to tell them what to do. Just read the prelab, talk to your TA if you have questions, and you'll be fine. The post labs for this class took significantly less time for me than the post labs for orgo 1 and orgo 2 labs too.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-10T00:31:11.605764Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "This lab might be more work than usual, but she is the most fair chemistry lab professor out of ANYONE. she provides resources for the midterm and the final as well as resources for all the lab reports. She also is readily available during her office hours... I would highly recommend going for help on reports.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2023-05-16T01:06:16.070654Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "Of the 4 chemistry labs I've taken so far, Dr. Schech's was the best out of all of them by a mile. She makes sure the modules are understandable to the students, it is just recommended that you do them with time because they are a bit time-consuming. She was very approachable regarding office hours and seemed like she wanted all the students to succeed. Her exams were also very understandable, studying actually gave you a chance to get a good grade, which was definitely not the case for the other chem labs when exams were still a thing. If you are worried about this lab, don't be, it'll be fine as long as you put enough time into the class and study, as well as using office hours when you can.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-17T01:26:36.190473Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "HANDS DOWN THE BEST CHEM LAB PROCTOR AT UMD. Dr. Schech did not make this class more difficult than it needed to be. Lab reports were fair and doable, the midterm and final was fair (with averages being a C+, like when have you ever seen that for a chem lab midterm or final), and a curve that pretty much guarantees you get credit so long as you turn in your reports. In addition, she is extremely accessible, actively answering questions on the Piazza board, and responding to emails. I wish she taught lecture, I love her teaching style. Hopefully they don't ever take her away from CHEM272, she really shines here.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-17T18:53:33.953879Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "Amazing lab coordinator. Exams are extremely fair. She holds review sessions before exams and lots of information covered in those are directly applicable to the exams. Lab reports are long but doable. Very approachable and energetic. She's also a great lecturer and I have learned a lot after having Dr. Schech for both CHEM131 & CHEM272. Obviously passionate and cares about her students. Highly recommend.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-22T01:29:49.601307Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "I think the best part about Dr. Schech is she actually sounds like she wants to teach and isn't monotone during her lectures. She does a pretty good job breaking down the information in the lectures and how to do all the calculations. I don't know if she does it for every semester, but she recorded lectures as well which is a huge benefit for people who can't process/understand everything during the initial lecture. Lab reports take a while and have a ton of calculations, but she grades fairly and the exams are also pretty fair if you just understand the study guides and optional pre-lab walk throughs for each lab report. She also showed her face a couple times during our actual lab portions to check up on if the labs are going well which is pretty rare from a lab coordinator TBH. Also, she understands that not every lab is gonna go perfect so she cares more about the process/calculations behind our answers and not always necessarily if our data is correct. Overall, the class is a lot of work but as long as you just go to or watch the lectures as well as do the optional pre-lab walkthroughs you should be able to understand everything as well as do good on the exams.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2023-08-21T20:55:56.081891Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "Dr. Schech is THE gem of the chemistry department. She cares so so much about her students and tries to relate to us as much as possible. She is incredibly understanding, and while she does have to follow some strict guidelines because of our lovely chemistry department (i.e. maximum 3 lab absences), this course would be unbearable without her. The labs are very easy especially if you've survived Organic Chemistry labs. It's relieving. Lab reports take some time. Start early, go to office hours and ask questions on Piazza, you'll be fine. Midterm was very similar to the one she posted on ELMS. No curveballs. Shoutout to my awesome lab TA, Noor. She was very helpful through it all, too :D.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-11-28T15:31:54.355769Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "This might have been one of the more frustrating labs I have been in, nearly impossible to get 30/30 on lab reports when when take off petty .25 for missing work or sigfigs. If I did not need this class for my major so I would not recommend it if you don't need it. The teacher seems very sweet but that does not reflect your grade what so ever. This lab is the only lab in the chem department that still have a midterm and final. Makes u think why Orgo 1 and 2 got rid of them, maybe because they are irrelevant.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2023-12-11T18:47:38.315831Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "This is one of the hardest labs you will have to take, but it is mainly hard in terms of how time-consuming labs can be. She basically gives you pretty much all the resources you need to work through lab in her very efficient 50 minute lecture, and outside of that if you are having questions (pretty much anything!) or your data did not turn out as expected to complete the lab, go to office hours. The midterm and finals are designed to test your knowledge on the subject. So, if you understand why  and how certain labs were done, you should be able to figure everything out. Extremely organized everything-lectures, Canvas modules... this is  a class where you can genuinely earn the grade you aim for with effort, and Dr Schech is a great, kind and extremely reasonable professor.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-23T06:59:36.657839Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "Very inconsiderate. Tried to ignore excuse notes for sickness and takes off points for conceptually meaningless busy work.",
+      "rating": 1,
+      "expected_grade": "A+",
+      "created": "2024-02-15T19:17:51.902756Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "Amazing, wonderful, sweetest chem professor at UMD. Dr. Schech is perhaps the most well organized chem lab director at UMD and I obviously loved the layout of 272, her lectures were extremely informative (and recorded) and fully explained the necessary concepts/information needed to do well in lab, on the reports, and for the exams. Her exams are extremely fair and as long as you use your resources you\u2019ll do great! The reports can be a bit lengthy so I recommend starting them earlier in the week, but Dr.Schech truly makes this class EXTREMELY manageable!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-02T22:22:24.329405Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "This lab wasn't my most favorite due to the assigned groups and the tedious lab reports. Make sure to sign up with friends you know, because that can increase the likelihood of getting someone responsible in your group. I generally felt like my group members slacked off and hoped someone else would carry them, which got pretty frustrating sometimes. Overall, Schech is a really nice person and decent lecturer, but she goes slow. I almost never went to her lecture section because she records and puts all of her notes online, which is a huge plus. Exams were fair, and honestly pretty simple. If you're taking this lab in conjunction with the lecture, I assure you that your lecture class will have much harder exams, so Schech's exams will feel pretty straightforward.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2024-05-13T19:40:59.879072Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "Chem 272 is different than the other chem labs at umd, but not necessarily harder. Everything in this course is designed to help you. \r\n- There are extremely organized weekly lectures that walk you through your next experiment and tell you everything you need to know. I got out of lab early every week. \r\n- The lab reports are a bit long, but very doable. I set aside one day each week to do them and it took me no longer than 6 hours (I make a lot of mistakes and often have to go back and change my work). The questions walk you through what you should do, and you can always reference the lecture and supplemental videos. I think I only got below a 90% on one of them. \r\n- There are 2 exams, and this semester they each pertained to 1/2 of the semester. Yes, it is a bit dated to have exams in a lab, but they were not hard at all. Go to review sessions and you'll be fine. The cut-off for an A- this semester was 87.5% (maybe this will be adjusted, idk), and the class average was 89.9%. \r\n- There are tons of office hours, so go to them! \r\n- There are supplemental quizzes before each lab that are not mandatory. A lot of people will skip the questions and just submit them for the answers. I actually worked on each quiz and then checked my answers at the end. This helped me a lot with the pre-lab quizzes and the lab reports. I feel like other people robbed themselves of the practice.\r\n- There was a 24-hour grace period where you could submit each lab report up to 24 hours late with no penalty !!\r\nThis lab was time-consuming but not hard, and I'm no chem genius either. Overall, it was an easy 2-credit gpa boost and I would gladly take it again.\r\nAlso, I transferred here, so I only took the lab without the class. Do not listen to any reviews telling you that you should take the class to help with the lab. There is a reason that this lab has a lecture, and it is unnecessary to retake the class just to help with the lab. I'm living proof of that.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-14T14:24:08.472182Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "Chem272 was probably the most time-consuming lab I have taken, but it was definitely not the worst. The worst part of this course is the lab reports each week that can take a long time, but once you get the hang of them, they arent too bad. If you need help, there are many office hours available, and the piazza was also helpful. You are given all of the resources you need to complete the lab reports. The lab reports can be graded a little harshly, with points being taken off for tiny things (get the hang of sig figs and error reporting early!). With this, don't be scared because the average for my semester was an 89.9%, and there was a pre-set curve in the syllabus, which is very generous. Dr. Schech is prob the best lab coordinator at UMD, and I felt that she explained concepts really well. I found her lectures very informative and efficient. They were also recorded, which was very nice. She seems to truly care about students, and for my semester, she gave everyone a 24 hour grace period for turning all lab reports in, which was so nice and I know a lot of students used it. I was also very sick for one of the labs, and I really appreciated that I had no issues with a makeup assignment and I didn't feel like my grade suffered because I was absent. The midterm and final are very fair, and I highly recommend going to review sessions for them. For in lab, you work in groups and the lab instructions were sometimes confusing at first, but you figure it out. A lot of the labs took 2 hours or almost the whole time, but this can depend on your group and other things. I actually felt that I knew what was going on after doing each lab report, and some of the labs were really interesting. While taking this lab I was kinda annoyed because of the lab reports each week, but looking back it was probably one of my favorites that I took the most out of.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-05-17T04:58:23.595190Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "What grade you get for CHEM272 is dependent on really on how much you're willing to put into the class. Every week you complete a lab report that can take anywhere from 3-8 hours. These lab reports are not necessarily difficult but take a ton of time which use concepts from the weekly lecture. \r\nLectures are recorded and posted online, and I recommend that you at least put it on 2x speed and just get the general idea of the content. \r\n\r\nThe class has 2 mid term exams, no final. For all of the lab sections for this spring, the average was like an 89%. There are plenty of office hours from TAs online. Exams are not difficult and she gives you a very accurate practice exam w/answer keys. \r\n\r\nSo basically, if you grind, you'll get an A. However, this class is definitely a time sink, and for that I give it a 3/5. The professor is nice though.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2024-05-17T14:45:31.964332Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "Weird teacher if I have to be honest. Too worried about work life balance to actually care. Her lectures are useless for the lab so don\u2019t go to those. Recommend to only go to TA office hours and the labs worksheets are time consuming and really poorly worded. Manageable after getting the hang of them and the exams are really fair. For the two exams just study the formula sheet and should be easy. Doesn\u2019t disclose grades cause she gets overwhelmed by anything. Heard she\u2019s nice though and the TAs are great.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2024-12-18T14:41:14.156313Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "Schech is fine. You don't really need to go to the lecture to understand. Exams are pretty easy, you just need to go back to the notes (she posts her panopto video lectures) and do the practice exam basically. The average on the exam is like 85-90%. The only issue is some of the TAs grading the lab reports are very nitpicky and take points off for basically nothing, but that's not Schech's fault. Also, you can miss up to 3 labs without providing a \"university-approved excuse,\" just contact your TA and Dr. Schech.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2025-05-06T18:40:58.805770Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "She's so chill. The grading is the easiest and most laid back, definitely more than any other chem lab. Yeah, you probably won't learn a ton, and yeah you probably won't go to many of the chem lectures, but just make sure to keep up with the lectures or the exams will get you. You'll learn some good skills from a chem lab and helpful with data analysis, and the labs themselves ain't all that long either.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-05-23T22:49:47.347358Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "The class isn't hard, but rather a little tedious. Lectures are recorded, so attendance isn't mandatory except for exam days. The lectures provide context for the lab, pre-lab quiz, and how to do some calculations on the lab report, but honestly, most of it you could get without watching the lecture if you have a general idea of what's going on. Your grade is made up of 2 exams + 10 lab reports. The lab reports are long and a little annoying, but not hard. The exams aren't too hard either, and are based on the calculations done in the lab report. Dr. Schech is also pretty chill and is willing to answer questions. The class is very doable, just a little tedious.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-05-24T16:48:54.815496Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "Grades are based on the 2 exams, 10 lab reports, pre-lab notebooks and quizzes, and data & observations. The pre-lab notebooks and data & observations are pretty much graded for completion. You had to pay for LabArchives, which is an online lab notebook, which I found pretty nonsensical. We could have just as easily submitted the pre-lab notebook and data & observations through Canvas. The pre-lab quizzes are easy as long as you pay attention to the lectures and complete the optional pre-lab walkthrough. The exams are pretty close to the practice exams Dr. Schech posts, and people generally do well on them. I'd study for the exams by reviewing the lectures, completing the practice exam, and looking over previous lab reports. Like others have said, lectures are recorded and optional. If you get stuck on the lab reports, reviewing the associated lecture and pre-lab walkthrough should show you how to do it. The lab reports can be time-consuming, but as long as you attend office hours to verify your answers and double-check your sig-figs and math, getting 100% should be pretty easy. The labs themselves were kind of boring, but many groups got out early for most labs. Overall, the workload for this class was on the lighter side.\r\n\r\nDr. Schech was very approachable and welcoming during office hours, and she was thorough when answering questions. She was also available for a little while after the lectures for questions and was quick to answer questions on the class Piazza. She has a 24-hour grace period for late lab reports, during which they're not marked off for late submissions, so you essentially have 8 days to complete every lab report. I felt like lab reports were graded in a timely manner; grades were always sent out in time so that your lab reports could be used as study material for the exams. If you got points off, there would be an explanation why.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-05-28T08:30:56.273989Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "Loved it! Labs were easy but interesting, and lab reports were time-consuming but also pretty easy because the instructions walk you through them pretty thoroughly. Dr. Schech is so sweet and her lectures are really well-done, and my TA (shoutout to Rachel) was the best! The exams were easy if you study (and take the practice exam!) so overall a great class. \r\n\r\nAlso - I didn't take 271 (lecture) at UMD and had no trouble with this class, so don't be afraid to take 272 without 271.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-07-07T01:51:07.099885Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "Literally a ray of sunshine. SO SWEET and is very helpful when it comes to questions. I love her so much; she is my everything. Take her!!!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-09-12T20:51:33.498194Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "Dr. Schech made 272 easy as a lab coordinator. If you really want to, you only have to go to the 272 lecture twice, just for her two exams, because she posts the actual lectures on Panopto. The exams were very fair, just with a few annoying questions occasionally. In terms of the actual labs, I felt like they were pretty easy to do, but this also depends on your TA. At least with the structure of office hours that existed, it made it very easy to go to ask a TA for help on any lab report, which made it very easy to get 26-30/30 on every lab report if you had the time to go to office hours. I would recommend taking CHEM272 with her if you can.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-10-31T23:45:09.813671Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "Incredibly approachable, clear, and an amazing teacher. I truly learned a lot, and her office hours were very helpful. If you go to office hours it is easy to get 28-30/30 on the lab assignments. They take a while, but that is true for any 272 class. Her exams were very fair and doable if you attend the lectures and similar to the practice exams.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-11-26T03:06:30.348122Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "I love Dr. Schech with all of my heart. She's so sweet and helpful. You don't need to go to the lectures, and the exams are very doable if you have previous exams and did the prelab walkthroughs on Canvas. Bryan was a goated TA and helped a lot with our lab reports. The lab reports are a bit tricky, but are graded very leniently.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-21T19:30:09.195854Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "This might be a hot take, but I did not find this lab to be that stellar compared to the organic labs.  It's about the same.  The lab activities might be more simple, but the lab reports are harder, longer, and more tedious.  However, you do get 3 excused absences without having to provide documentation, so I could skip it and do the makeup when I felt like it.  Maybe I'm burned out or jaded but this was not that great of a lab.  Exams at least were easy in comparison to CHEM271, but why does a lab class need to have exams anyway!",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2026-01-07T15:12:21.671528Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "keep in mind that THIS review is from someone who has only ever taken her LABORATORY class and NOT any of her lectures. so this review is basically entirely about the lab. \r\n\r\nthe best way i could sum up chem272 lab is that you will experience the same things you experienced in chem132 lab, all over again. \r\n\r\ndr. Schech seems great, gives good lectures. (that is one thing I have noticed is different from all the other chem labs, this lab 272 has a once-weekly lecture session! other chem labs never have this, neither did they have midterms, but i guess its maybe a good thing that you have something else besides just labreports to base your grade off of?) The most important thing is DO YOUR LAB REPORTS ON TIME. If you are a procrastinator you will see in the syllabus that they have NO late penalty for turning in assignments under 24 hours late, a \"grace period\". DO NOT wait all week to do the lab report and then forget everything about the lab and then scramble to do it a few hours before the end of the grace period. you will hate yourself. they have in my experience been a 3-6 hour headache every time. the grading can also be QUITE harsh. they take off half points for tiny little things everywhere, which adds up, so if you don't go to the TA office hours to ask what do they actually want on your lab report, you can probably get a high B at most on each report if you just wing it even if you're great at lab, at chem and the concepts and the math. also good god this class is so anal about significant figures and error reporting. (i will admit that that IS the very nature and purpose of a general chemistry/analytical chemistry laboratory...) so just know that if youre one of those unfortunate stem majors required to have chem272 on your transcript youre going to spend at least 3-6 hours a week being terrified about sig figs for a whole semester. \r\n\r\nthe lab itself is fine. there will be a lot of spectrophotometry. it is not that different at all in your actual practices, from genchem1 lab (chem132), the procedures are fairly simple, they often dont even take up the full 3 hour time block of lab (but i thikn that also might be highly dependent on if you have a good TA)\r\n\r\nthe one other thing about this class different from other chem labs is they use a digital lab notebook called LabArchives instead of making you buy a physical book from the bookstore (you still have to pay for a subscription to labarchives..) my god, that website is ass. i am so sorry to all of you. if you think you've already seen the worst website on earth somewhere else, think again.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2026-03-09T23:05:06.403362Z"
+    },
+    {
+      "professor": "Amanda Schech",
+      "course": "CHEM272",
+      "review": "She is one of the best professors in the CHEM department. Labs were easy and fun. The lab reports were time-consuming but very doable. Dr. Schech is so sweet and her lectures are great. She is very open to questions after lectures. The exams are easy.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2026-04-15T22:21:01.005362Z"
+    }
+  ],
+  "department": "CHEM",
+  "course_number": "272",
+  "name": "CHEM272",
+  "title": "General Bioanalytical Chemistry Laboratory",
+  "credits": 2,
+  "description": "<b>Prerequisite:</b> CHEM241 and CHEM242; or CHEM247. And a grade of C- or better in the prerequisites is required for College of Computer, Mathematical, and Natural Sciences majors and recommended for all students.\n<b>Corequisite:</b> CHEM271.\n<b>Credit only granted for:</b> CHEM227, CHEM272 or CHEM277.\nAn introduction to analytical chemistry with an emphasis on bio-analytical instrumentation and techniques.\n<i>Students must pay a $40.00 lab materials fee.</i>",
+  "is_recent": true,
+  "geneds": null
+}

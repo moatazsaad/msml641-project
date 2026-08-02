@@ -1,0 +1,111 @@
+{
+  "average_gpa": 2.701234567901235,
+  "professors": [
+    "Harry Tamvakis",
+    "Christian Zickert",
+    "Patrick Brosnan",
+    "James Schafer",
+    "Thomas Haines",
+    "Christian Zickert",
+    "Harry Tamvakis",
+    "Thomas Haines"
+  ],
+  "reviews": [
+    {
+      "professor": "James Schafer",
+      "course": "MATH404",
+      "review": "He is a very brilliant prof and does a good job of repeating and going over the important stuff. \n\r\nwith that said he is a terrible teacher. his thoughts are not organized and his lessons aren't organized. he will skip 2 chapters then teach 3 and then go back and the jump to the end of the book and teach the last chapter. you won't be able to keep up if you skip class a lot \n\r\nhis homeworks are always do on tuesdays and he often gives you a few weeks to do it. but more often he will give you tons of homework on a thursday and expect it on tuesday. oh and he more than likely won't even really go over them and you won't really get a grade for your work unless he has a grader for the class. ",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2010-04-13T12:45:00Z"
+    },
+    {
+      "professor": "Harry Tamvakis",
+      "course": "MATH404",
+      "review": "I'm surprised no one has reviewed Tamvakis since 2009.\r\n\r\nThis man will make you work like a dog. His homeworks are brutal. His lectures are fast-paced. Everyone struggles, from the brightest students to the not so brightest students.\r\n\r\nMy mans is absolutely crazy. He is a bit impatient and thinks everything is trivial. Sometimes he asks the class a question and scoffs when nobody can answer him.\r\n\r\nAll in all, a good dude.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2020-05-24T01:40:28Z"
+    },
+    {
+      "professor": "Harry Tamvakis",
+      "course": "MATH404",
+      "review": "As a professor, he lecturing is very straightforward. He takes a little bit of time to emphasize some interesting parts or stories from math history to make the lecture a little bit more engaging.\r\n\r\nHis homeworks are pretty difficult and take some time to think through. His exams are significantly easier if you understand the concepts involved. Overall the class was a good class in person.\r\n\r\nOnline, Professor Tamvakis had a good setup with a document camera and live meetings although it was a little bit less engaging than in person (he would go over his prewritten lecture notes instead of say, writing on a board).",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2020-05-29T21:12:24Z"
+    },
+    {
+      "professor": "Christian Zickert",
+      "course": "MATH404",
+      "review": "I'm really surprised by how many positive reviews there are for this professor. His lectures are a worse presentation of the chapter of the textbook, and his terrible handwriting makes course notes useless. He doesn't seem well prepared for class and often rambles on during proofs, presenting things with little structure. Very disappointed and wish I didn't take this course.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2021-02-11T16:31:34Z"
+    },
+    {
+      "professor": "Patrick Brosnan",
+      "course": "MATH404",
+      "review": "He's really nice and has a sense of humor. We didn't use a textbook but his lecturing style makes it easy to take notes as he writes everything he says on the board. The homeworks were generally short and not too difficult. We had two exams which together were worth something like 80% of the grade.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2022-06-21T20:21:08Z"
+    },
+    {
+      "professor": "Patrick Brosnan",
+      "course": "MATH404",
+      "review": "I enjoyed him as a person, but his teaching style could be a bit disorganized. In particular, we didn't have our the majority of our homework graded until the last week of class. Also, he wrote pdf of lecture notes on the class material but only released them about two weeks before the final.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2022-08-19T01:04:12.216585Z"
+    },
+    {
+      "professor": "Thomas Haines",
+      "course": "MATH404",
+      "review": "He's a great professor. The class start can be a bit slow if you've already covered some field theory in 403, but I know a lot of 403 professors didn't cover it in nearly as much depth in Amin did, so I'm sure people appreciated it. The class material itself can be difficult, especially towards the latter end with Galois Theory at its peak, but Haines explains it all very well, is happy to review things - even going into hw problems in-depth after they're due - and is clearly very invested in the subject, which reflects in his teaching. The exams were more than fair in my opinion, and I wouldn't be surprised if they're curved in the end. The homework is pretty difficult, as is expected from upper level courses, but he's open to give hints (which can be pretty in-depth) if you ask during class, and he has said he can help more in OH. I'd recommend him 100%. He made sure to go beyond the textbook near the end, which I think made our coverage of Galois Theory better than that in either of the individual textbooks we had, and he also put up notes for the stuff that wasn't in the textbook.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-21T23:52:53.079201Z"
+    },
+    {
+      "professor": "Thomas Haines",
+      "course": "MATH404",
+      "review": "For 404, this was Haines's first time teaching, and so he seemed a bit rocky but he still managed to clearly prove and apply the main theorems and get the applications across. In class, he was very open to questions and answered them thoroughly. One thing he could improve on would be time management, as we would sometimes review a homework problem for over half a lecture, so this along with the first point meant that we didn't hit as many topics as other classes seemed to hit on their finals (constructability and polynomial discriminants). The homeworks were difficult -- a few were right out of the book (Herstein's Topics in Algebra) and could be more or less intuitive through the theorems in it, but the other half were written by him and could be extremely confusing without guidance. We had only one midterm (avg 77) and the final (88 avg) as the last assignments, and there was still a pretty large curve (turned my 88% into an A) at the end, so overall it felt like fair testing and grading for this class. As a lecturer, he definitely knows what he's doing, had clear proofs and applications of all his theorems, and made this class fairly challenging and interesting.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-23T13:11:25.569220Z"
+    },
+    {
+      "professor": "Thomas Haines",
+      "course": "MATH404",
+      "review": "he assigned hw weekly and selected certain problems to grade but drops a couple of your lower graded HW sets. i spent A LOT of time doing the hw problems but he responds to emails almost immediately answering any questions i had. also has in person and zoom office hours. we had 2 exams, both curved. also gave out exam review sheets for both exams. overall he\u2019s one of the most attentive professors i\u2019ve had and genuinely wants you to do well in his class",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2023-05-29T23:05:12.750098Z"
+    },
+    {
+      "professor": "Harry Tamvakis",
+      "course": "MATH404",
+      "review": "His lectures are fast and you need to take (or otherwise obtain) good notes since he covered a lot of content outside the textbook (and doesn't share lecture notes). Also collects homework in class. Workload is close to 2x of every other 400s class I've done. Though, his exams aren't too bad (he even dedicates a class to exam review before midterm and finals), and he's genuinely a great person who's willing to discuss with students outside class. \r\n\r\nIf you're taking Tamvakis you're probably doing some upper div or graduate class, in which case you have no choice anyways, so just prepare yourself for a hard class. You might also learn more than you would've with other profs.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2025-06-09T09:56:44.008376Z"
+    },
+    {
+      "professor": "Harry Tamvakis",
+      "course": "MATH404",
+      "review": "Great prof. I agree with all the other reviews: the class is FAST and a ton of work, but you will certainly learn. He is an excellent lecturer, and even though he goes really fast, he is still very clear in his explanations, and will occasionally sidebar about the history of math. Homeworks are tough but doable, exams are much easier. Each homework took me roughly twice as long as problem sets from other 400 level classes did.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-08-06T16:08:58.582932Z"
+    }
+  ],
+  "department": "MATH",
+  "course_number": "404",
+  "name": "MATH404",
+  "title": "Field Theory",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> Minimum grade of C- in MATH403.\nAlgebraic and transcendental elements, Galois theory, constructions with straight-edge and compass, solutions of equations of low degrees, insolubility of the quintic equation, Sylow theorems, fundamental theorem of finite Abelian groups.",
+  "is_recent": true,
+  "geneds": null
+}

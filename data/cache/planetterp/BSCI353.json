@@ -1,0 +1,437 @@
+{
+  "average_gpa": 3.05255424954792,
+  "professors": [
+    "Richard Payne",
+    "Catherine Carr",
+    "David Sandstrom",
+    "Patrick Kanold",
+    "Katrina MacLeod",
+    "Elizabeth Quinlan",
+    "Amanda Chicoli",
+    "Daniel Butts",
+    "Chan Lin",
+    "Melissa Caras",
+    "Chan Lin",
+    "Chan Lin",
+    "Melissa Caras",
+    "Chan Lin",
+    "Daniel Butts",
+    "David Sandstrom",
+    "Lorin Milescu",
+    "Chan Lin",
+    "Chan Lin",
+    "Chan Lin",
+    "Chan Lin",
+    "Melissa Caras",
+    "Chan Lin",
+    "Lorin Milescu",
+    "Chan Lin",
+    "Daniel Butts",
+    "Chan Lin",
+    "Chan Lin",
+    "Lorin Milescu",
+    "Melissa Caras",
+    "Vitaly Stepensky",
+    "Chan Lin",
+    "Chan Lin",
+    "Daniel Butts",
+    "Chan Lin",
+    "Chan Lin",
+    "Melissa Caras",
+    "Vitaly Stepensky"
+  ],
+  "reviews": [
+    {
+      "professor": "Richard Payne",
+      "course": "BSCI353",
+      "review": "Dr. Payne has been my favorite professor since I have been here (7 semesters).\n\r\nI took BSCI330 with him as well and I love how passionate he is, and how he really wants us to work hard in his class. He is super quirky and is a stickler for the way you phrase a question (all in good intentions, but annoying when you want to understand a concept and not get boggled down by semantics), but overall I really enjoyed his lectures and he presented the material in a very interactive way\n\r\nOne day we all brought in flashlights and practiced doing optical illusions. \r\nAdvice: if you want to learn, and also enjoy interactive lecture series, go take Payne. ",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2014-12-25T16:42:00Z"
+    },
+    {
+      "professor": "Richard Payne",
+      "course": "BSCI353",
+      "review": "I'm sure it's been repeated enough, but to do well in Dr. Payne's class, you need to know everything on his slides. Practice tests are a good depiction of what you should expect on the tests. I thought he was a great teacher and his lectures were interesting.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2013-12-30T02:37:00Z"
+    },
+    {
+      "professor": "Richard Payne",
+      "course": "BSCI353",
+      "review": "Sure, he can talk a lot I'll give you that.  He knows the information he teaches quite well, but he comes off quite rude at times.  Don't be fooled by your impression of him during lecture.  I went to his office hours for help, and all he did was confuse me and make me feel like an idiot for wasting me time going to ask for help.  He doesn't answer your questions during office hours, but instead consistently tells you that all the information is on the slides for us to work out.  His exams are full of nonsense that test us on the details of his lectures.  His exams are straight from the slides, but poorly written.  He tests you on maybe 25% of everything we learn, so you can technically study over 80% of the material and end up getting a C.  If his tests reflected more of what he taught, his class wouldn't be so bad.  Thankfully, professor Quinlan taught the last third of the class.  She wasn't bad at all.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2013-11-15T01:39:00Z"
+    },
+    {
+      "professor": "Richard Payne",
+      "course": "BSCI353",
+      "review": "I have loved many biology professors and it pains me to dislike this one. He is a nice person but an AWFUL professor. He is terrible at explaining concepts and highly unprofessional. I sadly learned nothing from this man and wasted 3 credits. I was actually surprised when I saw how high his ratings were because I completely disagreed. \n\r\nTake someone else.. you will learn nothing. \n\r\nClass consisted of two tests and a final.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2013-01-02T23:14:00Z"
+    },
+    {
+      "professor": "Patrick Kanold",
+      "course": "BSCI353",
+      "review": "I thought this class was pretty boring but on the easier side, if you have a little neuro background and some first year physics background. I had a friend who didn't have that background and she struggled a lot, eventually dropping. I studied a lot for this class - but unlike other classes, the studying paid off. There's a reasonable curve and if you use his slides supplemented with the textbook, you'll do well.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2014-07-31T09:29:00Z"
+    },
+    {
+      "professor": "Catherine Carr",
+      "course": "BSCI353",
+      "review": "She is absolutely terrible. Never coherent, rambles incessantly on material that isn't relevant for the tests, and is never prepared for lectures. She doesn't respond to emails and makes it clear she doesn't care about you. She also writes pretty awful test questions that she thinks are coherent and straightforward, but are absolutely awful. The class is very very unclear.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2020-05-18T19:06:41Z"
+    },
+    {
+      "professor": "Chan Lin",
+      "course": "BSCI353",
+      "review": "fair, obviously cares about teaching, reasonable, flexible, communicative, knows what he's talking about. What's not to like?",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2021-01-12T11:40:32Z"
+    },
+    {
+      "professor": "Chan Lin",
+      "course": "BSCI353",
+      "review": "I noticed that there aren't too many reviews on here, so I figured I'd leave one :)\r\nIf you're taking BSCI353, I HIGHLY recommend you take Professor Lin!! He is an incredibly accommodating professor and very easy to approach for questions and course suggestions. The material isn't too bad, though it does take some time to get used to it. His lecture pace is quite lovely and I never feel like I can't catch up. He uploads all of his lecture recordings onto ELMS so you don't really have to come to class (but it's much nicer to sit in the lecture room tbh). The exam material is VERY fair, includes extra credit, and there is a good mix of multiple choice and free-response application based questions on there. He recommends that you read the textbook to keep up with the material, but his lectures cover pretty much everything you need to know for exams and the hw quizzes - the textbook is helpful for clarification or to answer worksheet questions tho! Overall, highly recommend if you have the option to take him :) ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-12-19T20:16:10Z"
+    },
+    {
+      "professor": "Melissa Caras",
+      "course": "BSCI353",
+      "review": "I agree with everything these people have said about Caras. I talked to people who previously took this class and they said you could get an A with a decent amount of work but she structures the class extremely poorly to the point that lectures are hard to follow. She talks very fast and refuses to slow down. She doesn\u2019t care at all if we actually understand the material and says that we should just look in the textbook when we have questions. I was so excited to take this class but instead because of her this was the worst class I\u2019ve taken in my college career. She designed this class to be harder than biochem and that\u2019s not an exaggeration. She makes questions from textbook material even if she doesn\u2019t go over it in class but the textbook is columns of information that are hard to follow and consolidate. Please don\u2019t make the mistake of taking her for this class. ",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2021-12-20T16:09:10Z"
+    },
+    {
+      "professor": "Melissa Caras",
+      "course": "BSCI353",
+      "review": "These fools trippin. Professor Caras was straightforward with what she expected. You have one quiz and one worksheet per week, two midterms and a final. If you just go to lecture, read the book and review your notes before the exam you will know everything. There are no trick questions but this class does have a lot of material. Professor Caras answered all questions as best she could but she couldn't get to everything because there's a lot to get through.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-12-20T23:01:34Z"
+    },
+    {
+      "professor": "Melissa Caras",
+      "course": "BSCI353",
+      "review": "\"There will not be an exam review sheet, you have quizzes and worksheets to use to study\"\r\n**Worksheets and quizzes end up being a poor representation of the exam\r\n\r\nHer lectures are pointless to go to. I realized too late I could've just spent that time reviewing the textbook chapters more. She rushes through the topics in her lectures so it's hard to grasp what's going on. The only reasons you would need to come to class are these annoying worksheets you have to rush through and exams. And also, NO EXAM ANSWER KEYS BECAUSE WHY THE HELL WOULD YOU NEED THAT?\r\n\r\ngg",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2021-12-20T23:29:35Z"
+    },
+    {
+      "professor": "Melissa Caras",
+      "course": "BSCI353",
+      "review": "I have to go against the grain here and say that Dr. Caras has been a relatively normal teacher in my experience at UMD. This is an upper-level bio class, so I had high expectations with the workload and textbook dependency of this class. Her lectures aren't that bad, but IMO, what worked for me was doing the textbook in its entirety before viewing the lecture. The information is a lot, but it is doable and certainly not impossible. I had a lot of other obligations at home due to COVID and the stress of medical school applications and other upper-level classes. However, I still managed to (hopefully) squeeze out an A or A-, but you have to maximize how to study for this class because it is a lot of work and it is hard. She has been very receptive and kind to me when I ask her questions and such, so I don't think some of these reviews are entirely fair. Sure the COVID situation was pretty bad on her part, but she has not made the class impossible to pass. It may be more challenging than the other BSCI353 course, but I definitely had to readjust and refine my study habits to keep up with this rigorous class, so I do not regret taking this, even if I don't get the grade I want. \r\n\r\nOverall, her class was fairly standard in my experiences with upper-level bio classes. Usually, the upper-level bio classes I have taken never got curve, so I didn't feel cheated there either. ",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2021-12-21T00:52:04Z"
+    },
+    {
+      "professor": "Melissa Caras",
+      "course": "BSCI353",
+      "review": "Professor Caras is a nice person on the outside, but she does not accommodate for students whatsoever. My issue with her is that she thinks that she is doing a good job of preparing us for exams, but the structure of the class has made it difficult for me to retain information in an engaging way. I'm sure the other reviews attest to this too. Perhaps worst of all, her exam questions are not straightforward and her grading is EXTREMELY harsh. She also refuses to curve the class, despite the averages for this class being at a historic low according to planetterp data. One of the worst experiences I've had at umd (only second to Dodson for online chem271) ",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2021-12-21T06:05:01Z"
+    },
+    {
+      "professor": "Melissa Caras",
+      "course": "BSCI353",
+      "review": "If giving a professor 0 stars was an option, I would in a heartbeat. I wish I was kidding when I said that this is probably my most dis-liked professor at UMD, and I\u2019m a senior pre-med student so that says a lot. The structure of this class is ridiculously poor; you have basically one lecture PER WEEK to retain information that corresponds to 25-35 pages of textbook material. And this isn\u2019t a normal \u201ctextbook\u201d; this is almost a graduate student level textbook. For many students that are not neuro majors like myself, this was the first time taking a neuro class. However, the professor teaches at an unreasonable, insane pace where she thinks you\u2019re quite literally a neurologist yourself. You\u2019d think for a course that sounds this challenging (and i\u2019m not exaggerating), she would show some empathy \u2014 No. She has 0 empathy. Despite it being the first time she has taken this class, you would think she might ask other neuro professors who are experts at teaching this class for advice, tips, etc. Nope. She is an extremely prideful professor, which I\u2019m sure in HER LINE OF WORK, she has every reason to be. But teaching a course this challenging and having no regard to help her students really showed our class that she simply does not care about us or want the best for us. Their were moments throughout class where I genuinely thought she was making it harder for us on purpose. I can\u2019t emphasize this enough \u2014 do not take her. You will regret it SO MUCH. ",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2021-12-21T17:15:14Z"
+    },
+    {
+      "professor": "Melissa Caras",
+      "course": "BSCI353",
+      "review": "Overall, she did a poor job of teaching this course. Her lectures are very rushed and she tries to cram 25+ pages of content from each chapter, into one lecture. I realized too late that her lectures are really pointless to go too and I wish I could've just spent all that time reviewing the chapters on my own. She records the lectures but they are only reserved for people with \"excused absences\" like she even takes attendance. When someone asked if we could get a review sheet for the exams, she just said to use the quizzes and group worksheets. These quizzes/worksheets ended up being poor representations of the exam. I'm honestly surprised she managed to make this class more frustrating than mamm phys or biochem for me. If she would have two lectures each week (instead of one) and just make the group worksheets homework, that would have been better. Rushing through the worksheets made it difficult to intake the information, and almost all the time, we would just be using the textbook to find the answers, so it was pointless to force us to complete it and turn it in by the end of one class period. She was difficult to approach because she would just question if you read the chapter or not (sorry for not remembering every little detail from 25+ pages of content). I don't recommend taking her. I had high hopes for this class but it ended up being the most boring, frustrating class I've taken.\r\n\r\nAnd also, she doesn't post any exam key, because why would you ever need that right?",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2021-12-21T18:08:02Z"
+    },
+    {
+      "professor": "Melissa Caras",
+      "course": "BSCI353",
+      "review": "Do NOT take Caras for 353/306, you will regret your decision. She seems nice, but she does not care about her students at all and it is very clear. The exams are hard and are graded even harder. You will lose points for the most absurd things, and she does not have any sympathy with curving or extra credit. I have done well in every other upper BSCI class, and this class has completely shattered my GPA. I would highly recommend you take another professor for this class if you care about your grades at all, as I don't know a single person who has above a B+ in this class, and NO it is NOT curved at all. ",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2021-12-21T19:53:03Z"
+    },
+    {
+      "professor": "Chan Lin",
+      "course": "BSCI353",
+      "review": "Dr. Lin is a kind professor and he is always willing to answer any questions that you might have during class. Overall, he is a great professor, and if you happen to not understand something he provides the textbook pages that correspond to his lectures for reading purposes. I would definitely recommend him!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-12-21T21:08:20Z"
+    },
+    {
+      "professor": "Chan Lin",
+      "course": "BSCI353",
+      "review": "By far the nicest and understanding Professor I had at UMD who truly wants his students to do well. Exams are very fair and he is very accommodating. The material for this course is really interesting and you will definitely learn a lot, and Dr. Lin just makes learning this course 1000x better. He never tried to rush through material and answers all questions. He definitely knows what he\u2019s talking about and encourages people to add questions on the discussion board or make appointments with him if we need clarification on anything. This course was the highlight of my semester. Great professor, great course.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-12-22T21:53:39Z"
+    },
+    {
+      "professor": "Melissa Caras",
+      "course": "BSCI353",
+      "review": "I thought Dr. Caras was clear and concise and communicated complex topics in a way that made them easy to understand. This class is HARD, but this is typical for any upper-level biology course at UMD. She was a hard grader, but her exams were fair and covered the material we were expected to learn for class. I really don't understand the slew of negative reviews, except for the fact that she is a hard grader and people were salty that she refused to move the exam online in response to the COVID outbreak, however, this would've made the exam unfair to those who don't cheat. ",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2021-12-27T02:59:02Z"
+    },
+    {
+      "professor": "Melissa Caras",
+      "course": "BSCI353",
+      "review": "If you\u2019re looking to take this class to fulfill an upper level BSCI course requirement, don\u2019t take it if you can\u2019t put in a HIGH amount of effort.\r\n \r\nPersonally I hate reading textbooks, don\u2019t have the time for it, and this class runs completely by the book, so I struggled a lot in that area. I was able to keep up with the readings only for the first unit, and the lecture material wasn\u2019t too bad to understand at that point, so lectures were okay for the first unit. I need to mention she absolutely refused to post the lecture pdfs before class because she works on them up until the last minute before class starts. Majority of the class uses laptops or iPads to write notes and it would have been so much easier if we could write straight on the powerpoint because there\u2019s a million diagrams she refers to with minimal text. On the first day of school SEVERAL students asked her about posting powerpoints in advance, but she refused to comprise to fulfill the needs of her students. Every single step of the way whenever she had the chance, she chose to make our life harder. She acts like this class is our only responsibility. \r\n\r\nAnyway, after the first unit I started getting behind in readings and therefore getting lost during lecture. I stopped coming to lecture all together because it was just a waste of time at that point. She posts panaptos that are only for students with \u201cexcused absences,\u201d but I opened them and watched them all anyway because anyone can open the folder. I don\u2019t know why someone else here said we don\u2019t have access to them. We do, I watched them all. That helped me the most with doing well on the exams. I was able to watch the lecture at my own pace because she goes too fast in class and I can take in the information at my own pace. That is the only thing that helped me pass this course. I don\u2019t remember her mentioning panaptos, and some of my classmates didn\u2019t even know she posted them. She honestly should have encouraged all her students to watch them. Attending lecture, I was overwhelmed with info so I didn\u2019t like her teaching then. But watching her panaptos, her teaching was great I was able to understand everything. \r\n\r\nReviewing quizzes is pointless, has nothing to do with exams. Reviewing worksheets have been a little bit helpful with exams. No review sheets or anything, she wants you to memorize every single detail from the chapter and lecture, because all of it is \u201cfair game\u201d for the exams.\r\n\r\nInteracting with her in person was weird she\u2019s so hard to approach. I was much more comfortable talking to her TA Sophia, she was so kind. \r\n\r\n ",
+      "rating": 2,
+      "expected_grade": "B-",
+      "created": "2021-12-30T01:30:41Z"
+    },
+    {
+      "professor": "Melissa Caras",
+      "course": "BSCI353",
+      "review": "Any review stated here that is above 3 stars and that states she is a good professor is honestly shocking to me. Yes - upper level biology courses are very hard; no biology major or neuroscience major picks this as their major and expects 300-400 level classes to be a walk in the park. I was taking a 4 credit biology course that is known to be one of the hardest courses taught here at UMD while also taking BSCI 353 (you could probably guess which one just by me stating that if you're a junior or senior UMD student just because that's the reputation it has). The workload of BSCI 353 alone with Dr. Caras was nearly double the workload of the 4 credit biology class. The hours that it takes to even study and review for her exams was way more than the 4 credit course I was in. She herself made the course so unenjoyable and miserable. She made it as hard as it possibly could be for her students. Yes, the material is difficult and every student who signs up for this course expects that. But that doesn't necessarily mean it should be and feel impossible. That's exactly what she did though; made it impossible. She offered no review material, no study guides, so unapproachable, NEVER decided to listen to her student's suggestions or concerns and actively change little things here and there that could've helped majority of the class succeed. She is by far the worst professor I've ever had. Only 13 students got an A+. A, or A- in the class OUT OF ALMOST 100 STUDENTS. 20 kids got below a C- or failed the course. For someone who did okay in this class, I seriously think she is terrible and a horrible professor. Yes, she can \"teach\" but that alone shouldn't be a deciding factor as to whether or not you're a good professor. She talks so fast too and her lecture slides are quite horrible as well. ",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2021-12-30T18:22:38Z"
+    },
+    {
+      "professor": "Melissa Caras",
+      "course": "BSCI353",
+      "review": "This class was hard. Harder than it needed to be. Lectures were hard to follow because she would not upload lecture slide before class and spoke way too fast that most of the time I felt like I was trying to writer as fast as I can to catch up with her rather than learning the material. Im sure lectures would have been more beneficial if she had uploaded lectures ahead so we could just write down important info that was not presented on slides and actually listen to what she was teaching. She's a very HARSH grader. You have to be super specific in every sentence not to loose stupid points.\r\n\r\nAs mentioned below, I found that watching her Panapto recording was much more beneficial. I would attend every lecture but would not understand much. When I would go home, I watched the Panapto recordings side by side with the slides and I was able to understand the information. You have to read A LOT in this class. Im talking about 30+ pages and memorize every little detail from the book that may see insignificant since she doesn't go over it in lecture. Everything you don't think will be on exams will almost always be. Her exams are also very applicational based so you have to know material inside and out. This was a bit difficult since many of the biology course at UMD are memorization based. This class was work and I dreaded it... I would have multiple meltdowns a week because I felt that that she was making this class harder than it needed to be. She was also very hard to approach and at times it felt like she didnt respect her students based on judgmental comments I overheard her make when someone asked for help.\r\n\r\nIf you are taking this class to check an upper level BSCI course, I strongly suggest not to or choose a different professor maybe. If your a neuroscience major where this class is a major requirement, choose a different professors. At the end of the semester, 6 people failed with Fs, 14 with D's, and 20+ with C's (some students still need to take the final so this will probably change for the worse). ",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2021-12-30T23:48:06Z"
+    },
+    {
+      "professor": "Melissa Caras",
+      "course": "BSCI353",
+      "review": "This class was intentionally made much more difficult than other sections with other professors to \"prepare us for medical school.\" In almost every class period she would run out of time, and so we were forced to rely on our own research to learn the material. This professor's policies were strict and nonflexible. When missing class due to a severe illness, she would not provide an extension greater than 24 hours. I suffer from a few debilitating medical conditions and she was intolerant of my health, saying \"I expect you to have perfect attendance for the rest of the semester no matter what.\" Once, with an extension, I sent her the completed assignment but she refused to grade the assignment because I had forgotten to cc her, even when I successfully sent it to her a second time. She would inform the class what information the exams would focus on, but would not include those questions on the exam, so everyone was studying the wrong things. Exam questions were very specific and were graded with the utmost scrutiny. I do not understand what she seeks to gain from her teaching policies.",
+      "rating": 1,
+      "expected_grade": "D-",
+      "created": "2022-01-12T19:17:04Z"
+    },
+    {
+      "professor": "Chan Lin",
+      "course": "BSCI353",
+      "review": "Dr. Lin is a great professor and really seems to know his stuff. The only reason why I wouldn't give a 5 star is because of the first midterm exam which pretty much the entire class failed. There were too many questions and some of the questions were vague. The exam completely blindsided the class. Dr. Lin even gave us a mini-exam before the midterm to give us a feel of how the first midterm would be like, all I can say is that is that there was no resemblance at all. But his second and final exams were much better. The quizzes luckily were straightforward. One thing I enjoyed was the clinical scenarios that he put in our group worksheets, the only aspect about the worksheets I didn't like was that my group would hardly show up to class to discuss the worksheet lol. The TAs are nice and answer questions that we have about the worksheets. I would highly recommend reading the textbook for this class, it does a good job clarifying the lecture material plus one of the questions on his exams relate to something specifically from the textbook. ",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2022-05-22T12:11:00Z"
+    },
+    {
+      "professor": "Daniel Butts",
+      "course": "BSCI353",
+      "review": "Glad I took Bsci353 with Dr. Butts! In order to do well in his class you really need to understand the lecture concepts, instead of memorization like some other biology classes. Understand what the graphs and diagrams in the lecture slides and that will help you immensely with his exams. Gave a mini exam worth only 5% before the first big midterm which was useful to understand how he will write exams. He was always nice and responsive to questions. Would take the class with him again!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-05-22T23:24:12Z"
+    },
+    {
+      "professor": "Melissa Caras",
+      "course": "BSCI353",
+      "review": "The bad reviews are trippin: It's neuroscience y'all it's hard but ask questions and understand mechanisms and you will do fine and learn!!! Caras is an extremely helpful professor",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2022-11-03T05:31:50.497945Z"
+    },
+    {
+      "professor": "Chan Lin",
+      "course": "BSCI353",
+      "review": "Dr. Lin is a very sweet person, and is very open to questions - he won't ever make you feel stupid and takes the time to thoroughly answer questions. His lecture style is honestly amazing, haven't heard anyone who didn't like it. He makes mundane topics pretty interesting and makes it seem like you're listening to a story in class. Unfortunately, however, his exams are a different story. You'll think you understand the content in lecture, you'll think you know what the main ideas are, you'll know the concepts of the main experiments, and then he'll throw questions at you on the exam which test minute concepts from one slide of one lecture out of a 50 slide lecture, with the question being worth 15% of the points of that exam. On top of that, there was no curve this semester. Beware that the class is getting harder. tl;dr amazing guy, wonderful lecturer, very sweet, but exams are difficult and the class is getting harder.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2023-01-18T19:41:55.613071Z"
+    },
+    {
+      "professor": "Chan Lin",
+      "course": "BSCI353",
+      "review": "I did not vibe with Prof Lin. It felt like we dwelled so much on these few topics while skipping over others entirely. There were these weekly worksheets done in class as part of a group, and they were quite frankly the worst. I would much rather have done it as an individual assignment at home than have attendance taken to make sure I'm doing an assignment. I very often found myself falling asleep during class, or just straight up walking out because I did not find the lecture engaging at all.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2023-05-24T00:20:14.215082Z"
+    },
+    {
+      "professor": "Chan Lin",
+      "course": "BSCI353",
+      "review": "Dr. Lin is a really good teacher, he doesn't bombard you with slides and the pace of the class is really good. he also records all of his lectures which is super useful - every Monday there was a worksheet session which we had to go into class for, but besides that, you didn't have to go. His exams were also very fair and some of the questions were pulled directly from worksheets and the weekly quizzes we had.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-27T18:25:47.226540Z"
+    },
+    {
+      "professor": "Daniel Butts",
+      "course": "BSCI353",
+      "review": "This class was pretty difficult and required A LOT of memorization. Dr. Butts does provide practice/sample questions before exams which were very helpful since some questions did appear on the exams. He recorded lectures, but there were clickers so you shouldn\u2019t skip class. There were also worksheets almost every week which were done in groups. There also usually isn\u2019t a curve, but there was a ~2% curve this semester because the final exam average was poor. So, there really isn\u2019t \u201ccompetition\u201d and anyone could get an A.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2023-06-26T15:18:48.189542Z"
+    },
+    {
+      "professor": "Chan Lin",
+      "course": "BSCI353",
+      "review": "\u2022 content is kinda difficult, especially if you're taking it before mamphys and never properly understood neuro stuff\r\n\u2022 don't slack off bc it's not an easy class to finesse \r\n\u2022 he's sweet tho (and fair-ish)",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2023-06-30T13:13:07.663598Z"
+    },
+    {
+      "professor": "Chan Lin",
+      "course": "BSCI353",
+      "review": "I do not recommend Dr. Lin for neuro. His lectures were not engaging and he was very condescending towards students during class. I remember several times when a student asked a question and he basically laughed at them. The same thing would happen on exams where he would put a question regarding material we have never seen before and when I asked for clarification, I was told to read the question (which was very discouraging considering 1. I did read it and 2. how hard I had studied for that exam). I am disappointed overall because I had really looked forward to this class and did not have a good experience because of the professor specifically.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2023-08-03T17:54:13.347785Z"
+    },
+    {
+      "professor": "Melissa Caras",
+      "course": "BSCI353",
+      "review": "I may have to go against the grain here, but if you are taking this class with a lighter course load (that is, you are not taking it alongside MammPhys) and you are interested in pursuing neuroscience related research/internships, I would take it with Dr. Caras. This is typically not the case for many people, since this class is usually taken junior year and is a requirement for the Neurobio&Phys major.\r\n\r\nAlthough this class is difficult, you will definitely leave the class having understood the content at a much deeper level, relative to the other biology classes at UMD. Will your grade reflect it? Because of the sheer depth and memorization demands, you are bound to miss something while studying, so probably not.\r\n\r\nCompared to endocrinology and virology, which are both 400-level bio classes, this class was more difficult. It's not because the content itself is more difficult, it's that Dr. Caras requires that you understand these concepts mechanistically. \r\n\r\nFurthermore, this class is particularly difficult because the content you learn throughout the semester is compounding. If you don't really understand the electrochemical gradient (which is taught early on), the rest of the class is a struggle.\r\n\r\nGiven that her class demands a lot more depth, here are the pros and cons of her teaching style:\r\nPros:\r\n1. Her slides have no \"fat\". There is no extra content, every single slide is important and fair game. In fact, if you think of her lecture/slides as a supplement for prereading and taking notes from the textbook, you will be in great shape. That's why this class is going to be difficult for someone taking a bunch of other classes.\r\n2. She is generous with help on the graded in-class worksheets and regrade requests.\r\n3. She is enthusiastic about the science (and about particular topics, which tend to show up on exams more).\r\n4. Midterm averages increased through the semester (83, 84, 95 for Exams 1-3, respectively).\r\n5. Slides are posted in advance.\r\n6. Lots of extra credit (we had ~25 points of extra credit across the 4 exams). This must be a new addition to the course since other reviews said that she does not offer EC.\r\n\r\nCons:\r\n1. This semester she tended to finish her lectures early. This is sometimes good because then you have more time to ask questions; however, as other folks have mentioned here, that's 25-30 pages of content in about an hour of lecture. If you haven't done the reading (which happened to me several times), it's very difficult to keep up. I suppose that's why we have the pre-lecture textbook reading quizzes (which you could technically finish without having read the textbook, but then what's the point).\r\n2. Final exam average was a ~75%.\r\n3. No practice exams. You can try to compile the weekly worksheets to simulate a practice exam. The worksheets are quite similar to the practice exams, but about 25% easier. If you make comprehensive flash cards (mentioned below), you can bridge that knowledge gap and really master the content.\r\n4. Slides that are posted are sometimes a little outdated (and the additional diagrams are helpful).\r\n5. Readings can be quite long, a good idea would be to split them over 3 days.\r\n\r\n\r\nIf you have Dr. Caras next semester, here are some tips:\r\n1. How to take notes: 1) Type up notes when you pre-read the textbook chapter (before lecture). This takes time, but it is worth it. 2) During lecture, add to your notes the stuff that is in red on the slides and names of scientists.\r\n3. Make an anki deck for that week's notes.\r\n4. How to study for her exams in 2 days: 1) Review the slides 2) Complete your Anki cards 3) Do all the worksheets relevant to that exam (if it's the second midterm, do the weeks corresponding to that exam, since the midterms are not cumulative).\r\n5. In addition to mastering concepts, memorize the examples! Examples tend to be the basis of her bonus questions.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2023-12-20T18:25:41.979524Z"
+    },
+    {
+      "professor": "Daniel Butts",
+      "course": "BSCI353",
+      "review": "I loved this class and Dr. Butts! I'm a bio major so I was pretty nervous going in - I have 0 neuro experience. But Dr. Butts made everything super digestible and his interest in the subject def shines through and makes it a pretty interesting class to study for. Don't get me wrong - you do have to study well. For each exam, I watched each lecture recording, took some good notes, did his review questions (which give a pretty good gauge of the exam questions), and went to his review session (not rly necessary) - doing all that allowed me to average around a 95 on all the exams, including the final. \r\n\r\nYes, you have to put in the time, but everything is clear, organized, and learnable. He also makes it clear that he wants you to do well - he is willing to meet outside of class/office hours if you can't make the scheduled office hours / review sessions. There is no curve which is scary, but as long as you put in around 8ish total hours to prep for exams, you won't need it. Also, he does 5 group worksheets, which is a guaranteed 100/100 each as long as you complete it. The weekly quizzes are also easy to get consistent 9/10 and 10/10s on. \r\n\r\nOverall, I enjoyed this class a lot and really like Dr. Butts as a professor. Def reccomend!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-01-16T17:39:08.492536Z"
+    },
+    {
+      "professor": "Chan Lin",
+      "course": "BSCI353",
+      "review": "Lin is a sweet guy and a good lecturer; he explains all the content in class very well. However, his exams are pretty hard and a huge percentage of your grade. We only had two midterms and a final, so they were weighted a lot. No practice exams, and the types of questions he asks on his exams force you to think in a way that isn't really demonstrated in class (I can't say exams weren't what we covered in class bc they were, but you just had to think outside the box a lot). So honestly, you have to study hard for this class. Biggest tip: he likes to ask a lot of questions that are research-oriented (ex. he'll ask you to describe an experiment that proves some neuro concept you learn in class).",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2025-01-22T00:33:32.251773Z"
+    },
+    {
+      "professor": "Melissa Caras",
+      "course": "BSCI353",
+      "review": "so everything about her not being so good is true. it\u2019s not necessarily about the way she teaches, but it\u2019s about the lack of content given to us to prepare for exams. this class is very textbook heavy, which is a shame because the content is actually interesting. being asked to read 30 to 40 pages of a book every week only to maybe get asked about it once on the exam isn\u2019t worth it. but no matter how good you know the information she\u2019s not good at writing test questions that are coherent and clear. The averages for our exams were always very low teetering around a 72 to a 75. she in fact made our final too hard and had to give us extra 15 points to raise it up. so if you want a chance at a higher grade, please take this class with anybody else. She\u2019s the only professor with this kind of grade distribution which really doesn\u2019t make a lot of sense. interesting class would not recommend her !",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2025-05-22T15:25:15.188592Z"
+    },
+    {
+      "professor": "Chan Lin",
+      "course": "BSCI353",
+      "review": "The content was very interesting, and lectures were well-done. However, exams were *very* hard. They simultaneously required memorization of many little details (memorize every word on those worksheets!!!) and some big-picture understanding. I wish they focused more on the understanding part and less on the details (personally I don't care what the difference is between clathrin and dynamin) but at least the lectures taught plenty of understanding, not only details. \r\n\r\nDr. Lin is a nice guy, very funny sometimes, and good lecturer. TA's were not helpful and TA lectures were very confusing, but hopefully that was just this semester. Attendance is required Monday morning, which sucks, but other lectures can be skipped because they're recorded. The worksheets were also awful. But the textbook was good and I definitely learned A LOT. \r\n\r\nDefinitely ask for points back after exams if you feel the grading wasn't fair, and definitely read the textbook, and definitely study the worksheets and weekly quizzes a lot before exams. Good luck!",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-07-07T02:10:54.274263Z"
+    },
+    {
+      "professor": "Melissa Caras",
+      "course": "BSCI353",
+      "review": "This class was way harder than it needed to be. The professor intentionally made it more difficult than other sections because of how important the class seemed to her, and it ended up taking an insane amount of time every week just to earn a mid grade.\r\n\r\nLectures were tough to follow since she talked way too fast. Exams were the worst part and graded with extreme strictness. She said everything in the textbook and slides are \u201cfree game\u201d (which meant 30\u201360 pages of dense material per week), but she gave us very little practice. The worksheets she provided were not only easier than the exams but also not really like them, so they weren\u2019t real preparation. Exams were so detailed and specific that it felt impossible to do well no matter how much you studied. On top of that, she gave almost no partial credit, if you didn\u2019t use the exact vocab word she wanted, even if your answer was basically right, you\u2019d get a zero on a big question. Her exams are mainly written response too with a couple MC. \r\n\r\nThe reading and memorization load was ridiculous too. We had to know every little detail from the textbook, including things she never mentioned in lecture. This was exhausting because I would go out of my way to learn things in depth and would never see it again. Felt like a waste of time. Honestly, it felt like she made the class harder just for the sake of it, which left everyone drained and stressed. If you can take this class with another professor, DO IT! this by far is one of the most time-consuming and frustrating classes I\u2019ve ever taken.\r\n\r\nHowever, If you're stuck with her. Here is what I have to say:\r\n\r\nShe posts lecture videos.\r\nGood luck :)",
+      "rating": 1,
+      "expected_grade": "D+",
+      "created": "2025-09-29T05:49:00.387534Z"
+    },
+    {
+      "professor": "Daniel Butts",
+      "course": "BSCI353",
+      "review": "Gives in-class worksheets that are too long to finish in the time we are given, which causes a lot of stress. I also was laughed at by TA's on some occasions for asking questions, and at other times, they did not know how to answer my questions. Additonally, I was graded harshly on a single question on the 2nd exam, which brought down my grade significantly.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2025-11-25T19:03:26.591983Z"
+    },
+    {
+      "professor": "Daniel Butts",
+      "course": "BSCI353",
+      "review": "BSCI353 with Dr. Butts was a very interesting class. His excitement about neuroscience (especially in the later units) clearly showed in his teaching. This class requires a lot of work, but Dr. Butts is very helpful in office hours and in his review sessions before the exams.\r\n\r\nLectures are recorded, and the recordings have been very useful, but please still go to lecture because there are clicker questions that boost your grade. Additionally, there are 5 or so in-class group worksheets that you should get full credit for if you complete them, and I wish more professors gave them out \u2013 they\u2019re a great opportunity to learn from your peers and shore up your understanding. These worksheets are also very helpful for exam prep. Speaking of which, the exams are on the harder side, as they ask you to think more about applying the concepts you learn in lecture rather than rote memorization, but they\u2019re fair and he provides practice questions as a discussion board.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2025-12-20T05:03:06.342409Z"
+    },
+    {
+      "professor": "Daniel Butts",
+      "course": "BSCI353",
+      "review": "This professor is all nice on the outside but is harsh in the inside. His lecture slides are just images with little descriptions and tell us to \"Figure it out\". He does not provide any directions or assistance. His worksheets are impossible to complete in the 75 minute time constraint. His exams are hard but the final exam was worth 30% of our grade and some of the materials we discussed for one lecture was worth over 30 points on the final. Overall I do not recommend this professor at all.",
+      "rating": 1,
+      "expected_grade": "C-",
+      "created": "2025-12-20T17:54:14.496758Z"
+    },
+    {
+      "professor": "Chan Lin",
+      "course": "BSCI353",
+      "review": "I think he did a good job teaching the course overall. The class was very structured and easy to follow, which made the material more approachable. My main issue was that the exams were fairly difficult and made up a large portion of your grade. Going into the course, I felt the material was straightforward and digestible, but the first exam made it clear that he was testing very specific details rather than focusing on broader concepts. That first exam had a lasting impact on my grade for the rest of the semester. And while it is possible to recover, it still weighs heavily overall.\r\nI would strongly recommend studying thoroughly for each exam. Even when the material seems easy, there are many specific details that can be tested, and a deep understanding is necessary to earn full points. It is also important to pay close attention to the experiments, as he often tested us on our ability to recognize experimental setups, interpret conclusions, and even design experiments of our own on the exam.\r\nOverall, I think he was a good professor who genuinely wanted students to understand the material. Though at times, the emphasis on memorizing detailed information made the course more challenging than it needed to be rather than focusing on general concepts alone.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2025-12-21T16:34:22.440886Z"
+    },
+    {
+      "professor": "Chan Lin",
+      "course": "BSCI353",
+      "review": "I have very mixed feelings about this class because the content is really interesting, but the way these upper-level neuro classes are taught is honestly brutal. The worksheets feel kind of pointless and they are never really in sync with what we are learning in class, so you end up needing to know extra information for the tests, since of course all of that is fair game. The slides she gives out only scratch the surface of the material, and you really have to write down everything she explains in class if you want to do well.\r\nShe does reuse old quiz questions from the ELMS weekly quizzes on the exams, so definitely review those and the worksheets really well before each test. The exams themselves are insanely hard. You need to know every tiny detail AND the big picture, and then apply it. The multiple choice questions are super tricky and sometimes ask about small things that were said once in class. I am a straight-A student and I still struggled in this class because the tests are just that annoying and difficult.\r\nIf you are not a neuro major, I would not recommend taking this class. If you are a neuro major and you have to take it, make sure you truly understand what is going on for every single slide and concept. The TAs are not very helpful, so your best resources are the textbook and the professor himself.\r\nOverall, the class is really hard because of the exams, but the professor is a nice, normal guy who genuinely wants people to do well.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2025-12-23T15:19:39.270084Z"
+    },
+    {
+      "professor": "Daniel Butts",
+      "course": "BSCI353",
+      "review": "While Dan is very nice and kind, the class itself was very difficult. And I just would avoid taking the class as a whole if you don't need to. Dan's lecture style felt very hard to follow at times and there were points where I did understand for a bit and then he would completely lose me. There were about 5 in-class worksheets that were mandatory to go to and they were supposed to help develop understanding but it didn't really do anything for me. Neuroscience majors might have an advantage in this class because of NEUR305 background knowledge. Exams were hard but I guess if you studied well enough for them you would at least moderately understand what was being asked. The textbook I found to be kind of helpful in at least providing an extra explanation for what he was saying.\r\n\r\nClass format:\r\n- Clicker questions every class, he gives you the full points if you get the clicker questions right but if you get them wrong I believe you still get about 90% of the credit for answering it (I can't remember the exact number but it was greater than 90). Because of this to actually see the question you would have to show up in class because you can't actually see the question on point solutions itself. \r\n- Worksheets - There 5 worksheets this class. You have to show up to them it is mandatory because its group work and if you're not there you won't get the credit for it. If you can't make it you can email him and he is pretty lenient with it. Just make sure you have an excused absence. These worksheets can boost up you grade because they are worth 100 points each. They are generally free points for as long as you complete the entirety of the worksheet.\r\n- 2 midterms during the semester.\r\n- There was like 2 exams in one for the final. The first half was midterm 3 and the second half was the actual final itself. They were graded separately on elms. It was about a 12 page long combined exam. \r\n- Quizzes: there were chapter quizzes on elms, it was timed. But honestly you could probably just look up the answers. \r\n\r\nAverages were relatively low for his class apparently, around a 75% for each exam. \r\n\r\nPros:\r\n- Classes are recorded, so you could rewatch lectures if you needed to\r\n- Worksheets definitely boosted your grade\r\n- Dan is nice and is willing to answer your questions with zero judgement\r\n\r\nCons:\r\n- Hard class I'd rather take orgo all over again than this class in my opinion\r\n- Lectures just felt hard to folllow at times",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2025-12-23T21:04:35.820363Z"
+    },
+    {
+      "professor": "Daniel Butts",
+      "course": "BSCI353",
+      "review": "Honestly a pretty digestible class considering its upper-level bio. There are homework quizzes and in class worksheets that help buffer the grade a little bit. The exams were never something I found insanely difficult but they were sometimes graded pretty harshley. The only thing I will mention is that the exams include both the material covered in class as well as the textbook content covered in the unit which can be a bit annoying as it makes reviewing for the exam more difficult. I also found Dr. Butt's lectures to be engaging but they more served as an information dump instead of actually applying the material to different concepts (which was what the exams were on). \r\n\r\nHonestly, if you don't have any trouble self-teaching slightly for a course, I think Dr. Butts is a great person and a great lecturer.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2025-12-24T02:04:41.474583Z"
+    },
+    {
+      "professor": "Daniel Butts",
+      "course": "BSCI353",
+      "review": "This professor has been the most disappointing one I\u2019ve had. His lecture slides are largely ineffective, and his office hours are scheduled at times when most students are in other classes. The reference book he uses is not particularly useful. He assumes that students have already completed NEUR305 and higher-level biology courses, and his teaching does not adequately bridge these gaps. It\u2019s frustrating to pay for classes only to be expected to learn the material on our own. I used to have a passion for neuroscience, but this class has made me more fearful of the subject, if not outright resentful.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-12-24T16:35:57.730076Z"
+    },
+    {
+      "professor": "Daniel Butts",
+      "course": "BSCI353",
+      "review": "I was nervous about taking this class since I don't have any neuroscience background, and physics was a prerequisite for this class, but the content wasn't that bad. I don't think physics even needs to be a prereq since if you needed to know something, Dr. Butts would go over it in class. Dr. Butts was generally good at explaining difficult concepts. Sometimes he tripped up, but he corrected himself and made it clear which explanation was right. He was very approachable and open to answering questions. The lectures were very informative and well-paced. He records lectures. You did have to buy PointSolutions to participate in the clicker questions, but he might get rid of that in future semesters, depending on student feedback. The clicker questions were a good gauge of your understanding of the lecture, but I would have preferred not paying for it. Clickers were graded based on participation and attendance, but there was a little extra credit for correct answers.\r\n\r\nThere are no curves in this class, and it uses the standard grade cutoffs. Grades are based on the following: 1st midterm (15%), 2nd midterm (20%), final exam (30%), worksheets (22%), online quizzes (10%), and clickers (3%). The weekly online quizzes were based on assigned textbook chapters and were multiple-choice. You had 1 hour to complete them, and they ranged from 10-20 questions. If you read the chapter beforehand (or use ctrl+F), you should have no problem with the time limit and getting 100%. In-class worksheets were completed in randomly-assigned groups of 4, open note, and lasted 1 lecture period. The worksheets were hard, and my group always asked the TAs to help check our answers. The TAs were also very helpful in understanding how to answer the questions. Often, we would be working right up until class ended. They are graded leniently, so as long as your answer is somewhat right, you should get in the A range. The 1st worksheet also had an extra credit question. There were 5 worksheets total, but Dr. Butts said he could change the number for future classes based on student feedback. The answer keys for the worksheets were posted before exams, so we could use them to study. \r\n\r\nI felt like all the exams were fair and based on the content covered in the class. Dr. Butts said that content covered in the textbook but not covered in lecture could still be on the exams, but he never included them on our exams. The midterms were a mix of multiple choice (around 10 questions) and free response. Some of the multiple-choice questions were taken straight from the online quizzes. The free-response portion included matching, short-answer, long-answer, and drawing graphs. The review questions and worksheets were helpful for studying for the free-response section, but he didn't post an answer key for the review questions. Instead, they were held like a discussion board where multiple students could comment an answer and correct each other, with Dr. Butts providing feedback. If you wanted definitive answers to the review questions, you had to attend either office hours or the exam review session. The exam review sessions were just big office hours held before each exam, but they were helpful for hearing what questions other students asked to double-check your knowledge. The final was split into a comprehensive portion and the last third of the class content. The questions were the same format as the midterms, but it was longer and had proportionally more free-response questions. I didn't feel pressed for time on any of the exams, but I wouldn't recommend spending too much time on any question since some of the free-response questions were lengthy.\r\n\r\nI studied for the exams by reviewing the lecture recordings and my notes, completing the review questions, going over the worksheet answer keys and quizzes, and attending the exam review session for last-minute questions. Focus more on understanding concepts and the reasons why something happens rather than just memorizing. This wasn't a class to slack off in, but getting an A was completely doable with some effort.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2026-01-01T07:29:31.958723Z"
+    },
+    {
+      "professor": "Melissa Caras",
+      "course": "BSCI353",
+      "review": "this is probably the worst professor ive taken so far. right now im in the middle of studying for my exam and this is the first time ive ever stopped to instead go on planet terp and write how you should NEVER take this professor. she crams an entire chapter in one lecture and the other lecture is used to do worksheets that are way more detailed and difficult than what she went over. she heavily relies on the textbook to teach instead of teaching it herself, might as well give the textbook her job not even sure why umd is even paying her. this exam has 4 chapters in total and one of the chapters she completely skips and goes, \"just go read it\". next day she gives a worksheet that's entirely on the chapter that she didn't even go through at all and is surprised when people didn't do good. there is no lecture videos to go back from, she won't post lecture slides, the most she will do is give you blank copies of the worksheets, but no answer key. im now stuck here having to read a 40 page chapter before my exam that is so heavy in content because she refuses to teach. most people can't learn from a textbook, which is why teachers exist. she is a very nice professor, but her class is structured so poorly. i would give a lower star rating if i could.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2026-04-08T02:07:26.791663Z"
+    }
+  ],
+  "department": "BSCI",
+  "course_number": "353",
+  "name": "BSCI353",
+  "title": "Principles of Neuroscience",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> 1 course with a minimum grade of C- from (BSCI207, BSCI330).\n<b>Corequisite:</b> PHYS122, PHYS142, or PHYS132.\nPrinciples of nervous system function, ranging from molecular and cellular basis of neuron function through nervous system integration.\n<i>(Sponsoring Dept: BIOL). Acceptable toward Biological Sciences specialization areas: CEBG, GENB, and PHNB.</i>",
+  "is_recent": true,
+  "geneds": null
+}

@@ -1,0 +1,23 @@
+{
+  "average_gpa": 3.2185929648241207,
+  "professors": [
+    "Zoltan Safar",
+    "Zoltan Safar",
+    "Zoltan Safar",
+    "Samet Ayhan",
+    "Emre Gunduzhan",
+    "Samet Ayhan",
+    "Zoltan Safar",
+    "Jerry Wu",
+    "Zaoxing Liu"
+  ],
+  "reviews": [],
+  "department": "MSML",
+  "course_number": "650",
+  "name": "MSML650",
+  "title": "Cloud Computing",
+  "credits": 3,
+  "description": "<b>Cross-listed with:</b> DATA650.\nThe course will present the state of the art in cloud computing technologies and applications. Topics will include: telecommunications needs, architectural models for cloud computing, cloud computing platforms and services. Data center networking, server, network and storage virtualization technologies, and containerization. Cloud operating and orchestration systems. Security, privacy, and trust management; resource allocation and quality of service; interoperability and internetworking.",
+  "is_recent": true,
+  "geneds": null
+}

@@ -1,0 +1,27 @@
+{
+  "average_gpa": 3.685046728971962,
+  "professors": [
+    "Philip Resnik",
+    "Shabnam Tafreshi",
+    "Shabnam Tafreshi",
+    "Shabnam Tafreshi",
+    "Shabnam Tafreshi",
+    "Shabnam Tafreshi",
+    "Shabnam Tafreshi",
+    "Armin Mehrabian",
+    "Naeemul Hassan",
+    "Peter Vickers",
+    "Samet Ayhan",
+    "Toki Inan",
+    "Armin Mehrabian"
+  ],
+  "reviews": [],
+  "department": "MSML",
+  "course_number": "641",
+  "name": "MSML641",
+  "title": "Natural Language Processing",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> DATA603 or MSML603.\n<b>Cross-listed with:</b> DATA641.\n<b>Credit only granted for:</b> DATA641 or MSML641.\nIntroduces fundamental concepts and techniques involved in getting computers to deal more intelligently with human language. Focused primarily on text (as opposed to speech), the class will offer a grounding in core NLP methods for text processing (such as lexical analysis, sequential tagging, syntactic parsing, semantic representations, text classification, unsupervised discovery of latent structure),  key ideas in the application of deep learning to language tasks, and consideration of the role of language technology in modern society.",
+  "is_recent": true,
+  "geneds": null
+}

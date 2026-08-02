@@ -1,0 +1,198 @@
+{
+  "average_gpa": 3.7194524495677235,
+  "professors": [
+    "Mohammad Nayeem Teli",
+    "Mohammad Nayeem Teli",
+    "Mohammad Nayeem Teli",
+    "Mohammad Nayeem Teli",
+    "Fardina Alam",
+    "Fardina Alam",
+    "Fardina Alam"
+  ],
+  "reviews": [
+    {
+      "professor": "Mohammad Nayeem Teli",
+      "course": "DATA120",
+      "review": "Straightforward and easy python class.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-16T20:33:17.324672Z"
+    },
+    {
+      "professor": "Mohammad Nayeem Teli",
+      "course": "DATA120",
+      "review": "I have no idea about the prof.\r\n\r\nThe class itself was quite easy, especially if you already know programming basics. Just some of the quizzes tend to be unclear/vague which made me lose 1-2 points here and there. But, pretty free A.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2023-12-19T18:26:23.548044Z"
+    },
+    {
+      "professor": "Mohammad Nayeem Teli",
+      "course": "DATA120",
+      "review": "Super easy online course for a free A.  CMSC131 is harder than this.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-19T19:38:30.899238Z"
+    },
+    {
+      "professor": "Mohammad Nayeem Teli",
+      "course": "DATA120",
+      "review": "great videos and good assignments",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-11T03:21:52.799743Z"
+    },
+    {
+      "professor": "Mohammad Nayeem Teli",
+      "course": "DATA120",
+      "review": "Chill AF one credit Python class, but credit to him for putting together a lot of lectures and slides.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-02-02T04:31:06.467579Z"
+    },
+    {
+      "professor": "Fardina Alam",
+      "course": "DATA120",
+      "review": "Why did she make this course go from an easy 1 credit asynch meme to this tedious shit we have to keep up with weekly. thumbs DOWN because noone needs a college class to learn python lol",
+      "rating": 1,
+      "expected_grade": "A+",
+      "created": "2025-04-14T05:03:01.853953Z"
+    },
+    {
+      "professor": "Fardina Alam",
+      "course": "DATA120",
+      "review": "Too much work for a 1 credit class",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2025-04-25T15:26:08.344976Z"
+    },
+    {
+      "professor": "Fardina Alam",
+      "course": "DATA120",
+      "review": "Like the other review said, this class was too much work for a 1 credit class.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-05-05T02:31:22.555634Z"
+    },
+    {
+      "professor": "Fardina Alam",
+      "course": "DATA120",
+      "review": "I agree with others that there\u2019s a lot of content for just 1 credit, but honestly, the slides helped a lot and the homework really made me learn the material. I actually feel good about what I got out of it.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2025-05-05T20:48:28.703247Z"
+    },
+    {
+      "professor": "Fardina Alam",
+      "course": "DATA120",
+      "review": "Homework was a bit challenging sometimes, but it really helped me understand the content better. Contents are lengthy but I found them quite helpful.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2025-05-05T20:54:36.272425Z"
+    },
+    {
+      "professor": "Fardina Alam",
+      "course": "DATA120",
+      "review": "The slides have been helpful, but the first couple of weeks were a bit tough while getting used to the course pace. The last two weeks felt easier since there\u2019s been less content.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2025-05-06T13:10:19.248506Z"
+    },
+    {
+      "professor": "Fardina Alam",
+      "course": "DATA120",
+      "review": "This course is 1 credit, but she makes you do so much work. The homework has tons of questions, and she goes over Python pretty fast. Honestly, it's 6 weeks, and learning a new coding language (Python) isn't that bad, but when so much work is thrown at you in such a short period, you hardly learn anything. The quizzes were locked down using LockDown Browser, a software that is known to be invasive. I used Linux, so I had no way to do the quizzes other than using the school computer, which was an inconvenience. Overall, there shouldn't be this much work for a 1 credit course.  '_'",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2025-05-09T03:51:26.138406Z"
+    },
+    {
+      "professor": "Fardina Alam",
+      "course": "DATA120",
+      "review": "I took CMSC320 before, and honestly, I wish I had this course first. A lot of us struggled in 320 at first because we didn\u2019t know Python, and that course just expects you to know it. This class really helps fill that gap. It\u2019s a bit fast since it\u2019s only 1 credit over 6 weeks, but Fardina did a great job putting helpful stuff together. If it were a 3-credit class, I think we\u2019d all feel less rushed and get even more out of it. TAs are helpful!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-10T14:43:19.427617Z"
+    },
+    {
+      "professor": "Fardina Alam",
+      "course": "DATA120",
+      "review": "Most of the quizzes were easy and Homeworks were fun to solve. I actually love this course!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-12T01:24:58.899950Z"
+    },
+    {
+      "professor": "Fardina Alam",
+      "course": "DATA120",
+      "review": "Please note that she made this class much more intesive than your typical 1-credit e.g. math206, data110. You can't do all the assignments in one weekend; it's literally impossible because she releases quizzes and projects one-at-a-time. For the 6 weeks that it ran, it felt like another 3-credit class had suddenly been added to my schedule. 3 slidedecks, 1 quiz, and 1 homework set every week. I can see it being very overwhelming if you signed up for this without that much programming experience like I had.\r\n\r\nStill, overall, the class was pretty easy and very informative. Quizzes were surprisingly hard until she got rid of the lockdown browser requirement. Projects were sort of annoying, occasionally fun. The last project (worth twice as much as the previous ones) was an extremely easy paint-by-numbers juptyer notebook, so I guess this indicates she realized the course was a little stressful for students and adjusted. Might indicate how this class will be run in the future.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2025-05-14T08:02:26.599509Z"
+    },
+    {
+      "professor": "Fardina Alam",
+      "course": "DATA120",
+      "review": "A lot of content for 1 credit course, however if you actually take the time and try to learn it, it can be pretty fun. However, some homework's were long, quizzes were initially restricted to a lockdown browser which if you accidentally left the tab twice, it would auto submit. This got changed after quiz 3 thankfully. Also, wished it was a self-pace 1-credit course kinda like DATA110.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-05-24T04:23:44.100622Z"
+    },
+    {
+      "professor": "Fardina Alam",
+      "course": "DATA120",
+      "review": "the projects took a lot of time tbh for a 1 credit class but they were fun and really helped me learn Python. I got good grades on all the projects so I'm sure they weren't tooooo strict with grading. pretty easy",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2025-05-26T00:32:02.249980Z"
+    },
+    {
+      "professor": "Fardina Alam",
+      "course": "DATA120",
+      "review": "class is honestly a lot of work compared to data110, but it wasn't too bad overall. it only ran for half a semester, but we had weekly quizzes (which would only be open for a weekend) and homework assignments. the first few quizzes had to be taken via a lockdown browser, but she lifted this requirement after gathering student feedback. i came into this class with a pretty strong foundation in both python and data science, so i thought the homework assignments were pretty straightforward--however, i think the course itself may be a little heavy/fast paced for someone with no python experience or little coding experience (definitely still doable! but also not negligible)",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2025-06-02T01:35:51.754299Z"
+    },
+    {
+      "professor": "Fardina Alam",
+      "course": "DATA120",
+      "review": "Much harder and more work than DATA120, and very fast-paced if you've never done Python or coding before. However, the homeworks were fun and the perfect challenge level, and I learned a lot. I hope that the class is further tweaked to become more targeted towards either CS majors or non-CS majors, not both, because it was way too easy sometimes and way too hard other times (as a non-CS major with a little Python background). But overall I'm glad I took it.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-07-07T01:58:05.967869Z"
+    },
+    {
+      "professor": "Fardina Alam",
+      "course": "DATA120",
+      "review": "This class was SO MUCH WORK for a 1 credit class. I struggled so much because I was on a MacBook and half the VS coding assignments would not work. I ended up using Google Colab and it was a lot easier, but it was still a pain for the first couple of weeks. I only took this class because I needed to for my minor, but otherwise I would avoid this class. It is defiantly do-able, but I was in office hours a lot, and it caused me some stress. I ended up getting a good grade since it was on a 1-credit scale, but it was not as easy as DATA110.",
+      "rating": 2,
+      "expected_grade": "A+",
+      "created": "2025-12-17T21:02:20.908912Z"
+    },
+    {
+      "professor": "Fardina Alam",
+      "course": "DATA120",
+      "review": "easy. grade booster. she's responsive on email too so if you have any questions or issues she'll respond",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-21T15:22:44.079814Z"
+    },
+    {
+      "professor": "Fardina Alam",
+      "course": "DATA120",
+      "review": "I learned a lot about Python in this class. The grading was easier compared to many other classes, but its definitely not like DATA110. Every homework has a fixed deadline, so you need to stay on top of your work.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2026-02-02T16:18:32.738176Z"
+    }
+  ],
+  "department": "DATA",
+  "course_number": "120",
+  "name": "DATA120",
+  "title": "Python Programming for Data Science",
+  "credits": 1,
+  "description": "This course is intended to prepare students for courses requiring computation with Python, providing powerful and easy to use tools for data analysis.",
+  "is_recent": true,
+  "geneds": null
+}

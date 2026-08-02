@@ -1,0 +1,373 @@
+{
+  "average_gpa": 3.245173852573018,
+  "professors": [
+    "Atif Memon",
+    "Adam Porter",
+    "Charles Song",
+    "Vibha Sazawal",
+    "Peter Keleher",
+    "Michael Marsh",
+    "Adam Porter",
+    "Herve Franceschi",
+    "Michael Marsh",
+    "Adam Porter",
+    "Herve Franceschi",
+    "Herve Franceschi",
+    "Michael Marsh",
+    "Adam Porter",
+    "Herve Franceschi",
+    "Michael Marsh",
+    "Herve Franceschi",
+    "Michael Marsh",
+    "Herve Franceschi",
+    "Herve Franceschi",
+    "Herve Franceschi",
+    "Michael Marsh"
+  ],
+  "reviews": [
+    {
+      "professor": "Adam Porter",
+      "course": "CMSC436",
+      "review": "Easy class. Open note exams. One big group project.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2018-04-17T03:30:09Z"
+    },
+    {
+      "professor": "Adam Porter",
+      "course": "CMSC436",
+      "review": "Easy class but awful professor. He is frequently absent to nonexistent on the student forum Piazza, and many questions are left unanswered or answered only affer they aren\u2019t relevant anymore (i.e. exam/project questions after the deadline). A couple examples:\r\n\r\n1. For our midterm we were learning stuff up to the week before the exam. Porter confirmed that the exam material may include what was taught in lecture that week, but neglected to upload the slides for that material. Many students asked on the forum for the slides, frequently (13 hours before the exam, 9 hours, then 5 and then 2 hours before the exam, all on the same thread). One hour before the exam the professor finally responds saying \u201cSorry for the missing slides\u201d but still neglects to upload them\r\n\r\n2. On the Tuesday a week before Thanksgiving break Porter assigned us another lab, to be due the following Monday (2 days before break). Again, students posted on the forum asking for an extension on the lab due date as many people were traveling for break and as the lab was also longer and more difficult than any other. Once again, no response from the professor, even after over 30 people \u201cgood questioned\u201d it on Piazza. The day after, he assigned another lab due the Monday after break.\r\n\r\n3. The semester project was not brought up again until midterm season, and he waited an extra week to release the project idea bds, and then ANOTHER week to release the project signups (this wasn\u2019t intentional, he released them late), which left us about a month to start and finish a priject from scratch in addition to the weekly labs and our other classes.\r\n\r\n\r\nOverall, this class was a huge disappointment and made me reconsider never doing Android dev ever again. Other reviews say Porter grows bitter as more and more students stop going to class, but he also grows really unresponsive and irresponsible. He doesn\u2019t do a good job teaching; he just reads off the slides, which by themselves are just screenshots of sample code. Most of our labs we finished with a mix of stack overflow and just copying the sample code.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2018-11-21T01:56:02Z"
+    },
+    {
+      "professor": "Adam Porter",
+      "course": "CMSC436",
+      "review": "Totally ineffective as a lecturer. He reads from the slides that are literally just text and bullet points. Lecturers are not engaging, and because the emulator on android studio is laggy and takes forever, he cannot demonstrate how apps work but instead shows you the code in fragments on his slide which are of no help.\r\n\r\nHis labs are relatively easy because they are \"fill in the blank\" style. These weekly labs were slightly annoying because they did not offer anything substantial to teach you. You could easily look up how to do something on stack overflow and it was normally a one liner. But I guess it is harder to make normal cs projects that involve making an application on android from scratch so personally I do not know what other alternative there could be.\r\n\r\nNow about the big group project: I feel this was managed horribly. The teams were not assigned until after the first midterm in mid October along with the potential project ideas to pick from if you didn't have an original one of your own. This left students 6 weeks to build an android application from scratch, while balancing weekly labs and other coursework. 6 weeks was not an adequate time frame to do a group project. You are normally a team of 6 people but thats still hard to manage during the roughest part of the semester.\r\n\r\nWhen it came to the midterm, students felt they got steam rolled. It was all short answer with a few true/false mixed in. the average was around a 64%. Fortunately the labs and the group project will weigh more than exams in the long run. Several students who took the midterm felt railroaded but that is partially due to Porters ineffective teaching.\r\n\r\nI learned the most about android dev doing my own outside research on youtube and stack overflow and most importantly during the group project. That is where the real learning starts. I understand this class will be switching over to iOS development for handhelds but whether or not that is a permanent thing or if it will alternate from fall to spring semester from android to iOS i am not sure. If Porter is teaching 436 again don't worry. The class is not too hard and its pretty manageable to get a high passing grade. Just don't expect much from Porter. Or his incompetent TA's that never show up to office hours. In fact, it felt like both instructor and TAs just didn't give a damn this semester...",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2018-12-11T02:04:39Z"
+    },
+    {
+      "professor": "Adam Porter",
+      "course": "CMSC436",
+      "review": "Porter responds to few, if any questions asked on Piazza, and will often read off the slides instead of actually lecturing.  \r\n\r\nTAs are nonexistent on the online forum as well; many will often cancel office hours last minute, screwing over people who have questions on course content.\r\n\r\nPorter will often release the slides a few days late after lecture as well; while you can read previous semester's slides to study, this is still annoying nonetheless.\r\n\r\nI was and am extremely disappointed in this class' organization and content.  Based on the past reviews of this class and Porter, I was expecting a learning experience, not a power-point reading club.\r\n ",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2018-12-11T21:02:42Z"
+    },
+    {
+      "professor": "Adam Porter",
+      "course": "CMSC436",
+      "review": "436 was a fun class for me due to the subject matter but it was poorly run. The class was not difficult but TA's/professors were not very responsive in Piazza and Porter gave off a vibe that he did not really care about the class that much. My biggest gripe is with the midterm and final, where no practice material or quizzes were given beforehand, and we were not given the midterm back. The class was not hard but throughout the semester it was unclear what my grade in the class was as the weekly labs were only worth 25% of my grade, and the average for the first midterm was 65%, which indicates the class should be curved (Although Porter never talked about us or assured that a curve would happen). I went into the final not knowing what 50% of my grade in the class was going to be due to the final project being graded, and a week after the final I am still unsure what my final grade is. This uncertainty and poor administration made an otherwise fun course a source of minor anxiety for me.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2019-12-18T16:10:39Z"
+    },
+    {
+      "professor": "Peter Keleher",
+      "course": "CMSC436",
+      "review": "Lectures were very boring, but projects were pretty easy. We didn't really know what was going to be on the test. Not a hard class to get a good grade in however. ",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2021-12-01T15:35:33Z"
+    },
+    {
+      "professor": "Peter Keleher",
+      "course": "CMSC436",
+      "review": "I'm not sure what grade I'm expecting since this was written before the final and the final is worth 20% of our grade so I could end up with a C if I bomb it. The lectures are very boring and aren't recorded. The projects were easy; Only one of the projects took me a long time to do. This class shouldn't take too much of your time so taking it with another project heavy class should be ok. \r\n\r\nThe professor doesn't really listen to students' complaints. For example, someone asked the professor to record the lectures but he said \"no\" because he believed that people would stop coming to class and he also said recording through Panapto was difficult. Doesn't really make sense because only like maybe 20% of students come to class now and he doesn't record lectures so there isn't a difference. Project descriptions were pretty vague and TAs didn't seem to be much help. \r\n\r\nIn general, this class is more of a teach yourself type of a class. I still recommend taking it but maybe not with Keleher. ",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2021-12-13T01:19:03Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC436",
+      "review": "I took this course in Spring 2021.\r\nMarsh uses a flipped classroom but generally he makes everything very explicit and his lecture videos teach the material well. I would say that learning to program iOS apps with Swift is one of the most satisfying and valuable skills I gained in college.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2021-12-27T17:14:12Z"
+    },
+    {
+      "professor": "Peter Keleher",
+      "course": "CMSC436",
+      "review": "His lectures are pretty boring besides showing off a few demos. Did not want record the class and only posted slides. \r\nOverall, pretty easy class and projects are not too hard. ",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2022-01-23T03:24:36Z"
+    },
+    {
+      "professor": "Adam Porter",
+      "course": "CMSC436",
+      "review": "Awful bro. The labs are assigned over weekends, so there's no office hours til the day they're due. Porter hasn't answered a single thing on Piazza & the TAs watch the Piazza and just don't reply. I'm terrified for the midterm and final cause this class is a mess. Horribly run and not worth the stress.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2022-02-21T20:42:14Z"
+    },
+    {
+      "professor": "Adam Porter",
+      "course": "CMSC436",
+      "review": "Please don't. The worst, I repeat, the worst CS class I've taken at UMD.\r\n\r\nUsually, 2 weekly labs worth 1% take a good amount of time\r\n\r\nIt took us 3 to 4 weeks to convince him to release the labs 1 day earlier so we could use more OH or not have the weekend fully consumed by them.\r\n\r\nRidiculously unresponsive professor\r\n\r\nAdam Porter simply does not care about students and it's questionable how a professor can get away with this\r\n\r\nI have to make follow-ups on follow-up posts in Piazza and still no response\r\n\r\nWe still don't have any grades besides the midterm (it's almost April)\r\n\r\nThe Course is outdated. Porter has tried to make it seem it's not, but he does not cover the most recent architectural models in Android properly very well at all, such as view models, etc.\r\n\r\nThey probably won't let us look at our exam results as well\r\n\r\nNo study guide whatsoever. The exam was ridiculously long. He put questions from every single lecture slides\r\n\r\nGarbage slides by the way\r\n\r\n436 is a bag of everything you hate about a 400 at UMD. Absolute waste of time, money, and effort. Honestly, just do Google Labs.",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2022-03-29T16:39:15Z"
+    },
+    {
+      "professor": "Adam Porter",
+      "course": "CMSC436",
+      "review": "Not a hard class to take, but lectures are mostly a waste of time except for the 30 mins a week he spends on answering lab questions and giving tips. The labs are manageable and most of the code is in the example repo/slides. Otherwise, he doesn't provide much guidance and you tend to teach yourself for most of the class.\r\nOne downside, is he doesn't use ELMS at all, so you have to be checking Piazza or the class website for updates, which just add an extra layer to keeping up to date with tasks.",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2022-04-07T15:44:23Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC436",
+      "review": "Marsh taught the iOS version of this class when I took it and I also took 420 with him the previous semester. \r\n\r\nClass is structured like Marsh's other classes:\r\n- Projects are the majority of your grade in this class\r\n- There are exams but they are online on gradescope, open note, open internet\r\n- Class is flipped model, so lectures are prerecorded and you are expected to watch them before class. During actual lecture time, he goes over examples which may or may not be helpful.\r\n\r\nThe projects outside of the first one are graded by hand by TAs and they are pretty lenient with grading. Be fully prepared to teach yourself for this class and pray you get good TAs the semester you take it. There will be a group project to design an app, which is very open ended. My biggest complaint is with the final project. It felt very cobbled together and it was released far too late into the semester, while we had other projects to do as well.\r\n\r\nOverall, Marsh is one of the nicest, most accommodating professors in the department, but takes a while to get used to. His lectures can be very boring and 436 itself seemed to fall apart organizationally towards the end of the semester.",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2022-05-16T04:05:50Z"
+    },
+    {
+      "professor": "Adam Porter",
+      "course": "CMSC436",
+      "review": "I feel that I have learned nothing from the class.\r\n\r\nHis lab assignments which accounted for 30% of our grade, were mostly fill-in-the-blank style lab assignments.  Most of it was easy and copy and paste from class examples.  \r\nFor the big group semester project, most of what we learned wasn't useful as the lectures doesn't go in-depth for anything we cover. Google was the professor of this class.\r\n\r\nMid-term was a mess.  He wrote on the piazza that mid-term would be multiple choice, fill in the blanks, and free-response.  He didn't lie except there was 1 multiple choice, 1 fill in the blanks, and 30+ free responses.   Many free responses questions asked stupid things like the name of the class example you saw certain concepts covered.   Why ask the name of the example?? how does that test our knowledge of the concept? I don't know.\r\n\r\nBasically, the whole course is useless besides the fact that you get to get in a group to make an android app learning mostly how to do it by yourself and your peers.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2022-12-07T03:05:34.513261Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC436",
+      "review": "The way Herve lectures is by coding an app during lecture along with some slides that define the functions and things we are using. Projects are pretty easy and most can be done in a a day or two if not a couple hours. Main gripe with the class is the quizzes. Quizzes are very syntactical which makes them feel unfair/pointless when the the IDE the course uses autocompletes for you and makes it seem more like a memorization test. However he did mention that he wants to reduce the need for memorization and provided documentation on the midterm and final. Class also was a little disorganized with quizzes, as there was no schedule for them and we only really knew about them from the profs in class/elms announcements, and there were sometimes mistakes/unclear details in the project requirement papers, though he is very receptive to questions.",
+      "rating": 3,
+      "expected_grade": "C",
+      "created": "2023-05-05T23:22:09.773687Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC436",
+      "review": "Start projects early. Never went to class and but his videos and slides were super helpful. Because of the flipped class and all of the lectures are recorded it's sometimes hard to ask questions but if you go to his or any of the TAs office hours they are super helpful. Marsh is the goat fr. One of the top 3 CS class I've taken behind taking 420 with him.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-05-18T03:38:16.045476Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC436",
+      "review": "There are no tests in this class. Instead, we have a skill test (unlimited tries) that you schedule with TAs. He really is a professor that wants everyone to do well so he will scale grading requirements depending on how the class is doing. All lectures are posted and lessons plus projects are posted on the very same day which I wish more professors would do. There is no hard deadline (allowing multiple resubmissions too) and was very lenient towards the end, even extending the deadline way beyond what it was supposed to be. That being said, you still have to do work, and if you really apply yourself, you will take away a lot from the class. \r\n\r\nGreat person and very practical class too; I learned a lot! Taking Marsh for virtually any class is a no-brainer!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-05-19T21:12:33.025947Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC436",
+      "review": "absolute goat. marsh made the class self paced - each proj had a soft deadline and was allowed resubmissions for a higher score(hard deadline is the end of the semester). lectures are posted on elms while class time is more q/a based where he goes over concepts. as long as you stay on top of the assignments, the class will be enjoyable and easy",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-05-22T20:43:36.397705Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC436",
+      "review": "Marsh is a very good professor. You can tell he really wants his students to succeed and puts a lot of time and effort into making sure that happens. I don't know when Marsh's office hours are, but I know he spent way more than those on students a week. Several of my friends needed \"skills tests\" appointments (basically a live coding, open book quiz you take 1 on 1 with a prof or TA). He accomodated so many that I'm honestly surprised how he found all the time. Marsh also responds to piazza fairly quickly, for the majority of the semester. Marsh also provides hints in project descriptions about what concept to use to implement that part of the project. His projects are very fair. Not too easy, but not insanely difficult. This class was one of the few classes I walked out of thinking I had developed a real world skill. He's seriously a very good professor.\r\nMy only flaw with Marsh was the format of his recorded lecture. In it, he talks about what code does, which is just a screenshot in a slide. I wish he would execute it and show a demonstration. \r\nHowever, Marsh does have live lectures in addition where he does demonstrate so that makes up for it.\r\nMy only flaws with this course was the nature of skills test, and the TAs. The skills tests, especially the later ones, are so specific, you couldn't actually expect someone to be able to implement what they are asking. The earlier skills tests are okay though. \r\nThe next issue was the TAs. Some just weren't that helpful and some didn't seem to understand the projects that well.  But Marsh himself was so good this semester that it made up for it.\r\nThis semester he made this class so theres no hard due date on assignments. But if you take this class, do your best to follow the hard due dates. And watch a lecture video everyday, don't fall behind. Trust me, you can't finish everything in the last 2 weeks. Getting help will become more and more difficult as everyone whos been procrastinating is now also asking for help. Just do yourself a favor and don't fall behind.\r\nAnyways, I really recommend this class to anyone. You are given every resource to succeed and most of these concepts can be explained really well with youtube and Chat.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2023-05-23T05:54:49.144017Z"
+    },
+    {
+      "professor": "Adam Porter",
+      "course": "CMSC436",
+      "review": "Overall the class was fairly easy and the TAs were quite responsive and helpful. If you're looking for an easier 400 level this is the one to take. Labs usually don't take much longer than an hour to complete and are assigned once a week. Final project is posted from the beginning of the semester so there is plenty of time to work on it and get it done as long as you don't procrastinate. Only major problem with the class is similar to those mentioned below regarding exams. The problem mentioned below with the way the exam was described to be structured vs what it actually was is still present. Additionally, there are still questions on the exam that are unnecessarily specific about in class examples. However, if you keep in mind that exams are essentially open book thanks to a double sided notes sheet, then the exams are not too bad. Minus the few exam issues it was a good class.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2023-12-13T05:18:01.948735Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC436",
+      "review": "Very average CS professor. Doesn't teach that well (lectures are just run-throughs of code snippets), but the class is super easy and the projects are simple. Everything about this class and the professor felt very fair - take 436 with Herve if you want an easy A.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2023-12-23T04:11:34.048568Z"
+    },
+    {
+      "professor": "Adam Porter",
+      "course": "CMSC436",
+      "review": "This class is mid. Android programming as a field is interesting and highly relevant to jobs. However, the class itself is boring, outdated, and focuses on things you don't need to actually make Android apps. The professor just reads from slides every lecture, and the material focuses on hyper-specific details of how Android works when most of us have never programmed on Android before. \r\nThe HW assignments were easy, completion-based assignments. The exams were ridiculous- both the midterm and the final exam were 35 questions of pure memorization. However, we got a cheat sheet, which made things easier if you were able to fit all the slides' content onto one piece of paper. The exam was basically a word hunt for each question on the cheat sheet. \r\nThe final project was making a full android app. It was tough since we learned few practical implementation tips. However, the professor graded extremely leniently-- the lowest grade was an 85/100.\r\nIt was comparatively easier to get an A in this class compared to other 400 levels, but that isn't saying much. Take this class if you need an area 3 class for CS, want to learn a little bit about Android programming, or want an easier than average 400 level CS class; otherwise, skip.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2023-12-28T04:15:49.164427Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC436",
+      "review": "Marsh is a great dude. Take his classes. Nuff said",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-04-25T22:12:35.438860Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC436",
+      "review": "Good teacher, explains well, and is pretty organized. But as for someone who's as experienced as he is in the CS world, sometimes it feels like he doesn't know how to use a computer... most recent example: he opened two edge windows but thought one of them disappeared because he couldn't find the page he was just on when he was on the other window.\r\n\r\nThe projects were pretty fun and doable within the time frame if you start early (I started most of them late and still turned in on time). Quizzes were also fair and reflected what we learned.\r\n\r\nDefinitely recommend taking it!!",
+      "rating": 4,
+      "expected_grade": "B-",
+      "created": "2024-04-27T06:57:54.457472Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC436",
+      "review": "good professor, fair quizzes and exams as long as you actually watch all the lectures. i took it in the summer so it was very fast paced. quizzes are pretty specific from the slides and lectures, so you have to pay attention. the practice quizzes help a bit though but don't rely on it because it wont be the same questions. exams are fair if you actually pay attention to the class. i didn't do that well because I started skipping the lectures and didn't watch recordings so my grade tanked. hard to do good by only reviewing practice exams, you actually need to learn the material.",
+      "rating": 5,
+      "expected_grade": "C+",
+      "created": "2024-07-10T21:38:34.940291Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC436",
+      "review": "Good guy but tests and quizzes are so syntax specific. I dont see the point in memorizing these pointless things that are a Google search away.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-12-13T02:14:28.703207Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC436",
+      "review": "I loved this class! I have never taken or done app development, but I enjoyed it a lot. The lectures are kind of pointless since most of the phases require you to learn on your own, but I guess that's normal for a 400 level class. \r\n\r\nThe class consisted of two overall projects (an individual one and a group one). The individual one was 6 phases where you work towards creating an app. The grading system is really nice in this class, since you can submit as many times as you like (can keep improving your grade) as long as you get the final product (phase 6) in on time. The due dates listed are suggestions, which I highly recommend that you follow. The group project was basically any app you want to make with some features that require outside of class knowledge (it's pretty simple to find one). There are no exams or quizzes, just projects. \r\n\r\nThe TAs sometimes answer on Piazza, they just randomly decide to ignore the one question I need answered (;-;), but ig they're trying their best. Although this class did require a lot of effort it was enjoyable and it was nice to see a class where I am more focused on learning the actual development than stressing about an exam where I got to memorize a bunch of things :D",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2025-05-15T23:11:21.394572Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC436",
+      "review": "Pretty flawed but also very chill.\r\n\r\nThis course is extremely easy, with no exams or quizzes, defined as 6 labs only. The lectures are extremely useless, partly because there are no tests, partly because it's hard to go over them, but I also just didn't find Marsh to be a great lecturer. It's very hard to apply what he says and truly understand it, because there's no incentive to understand the deeper meaning behind Android development. It's extremely difficult, also cause slides have code, and things become extremely copy-pastable. All that is to say, nobody went to the lecture (as low as 5 people out of like 200?). Now, all of this is a good or bad thing, depending really on how much you care about learning, but I was hoping to at least learn a bit alongside the easy A.\r\n\r\nWhat did make me learn from this class, though, was Phase 4. There's an independent project separated into 6 phases, and the difficulty curve is insane (Phase 4 is harder than all the other 5 combined, IMO). While the first 2 are copy-paste, the last 4 get you to learn more, in my opinion, which is nice. Marsh alludes to Phase 4 taking a month... and he's kinda right? Don't procrastinate it, even with the flexibleish deadlines. Also, abuse the infinite resubmissions...\r\n\r\nLastly (and least), there is the group project. I don't think the project itself is bad; it's rather lenient, pretty creative, and your ending result can be pretty cool! I'm somewhat biased because my group was pretty bad (please find a good group). It was a lot more stress, but most of the time, you'll be fine.\r\n\r\nIf you want the easiest CS class possible, Marsh will be for you. Otherwise, it's a bit iffy depending on how much you really care about Android development.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2025-05-18T04:33:23.827437Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC436",
+      "review": "If you are a procrastinator, AVOID AVOID AVOID. This last month has been so ridiculously stressful. I really really really regret taking this course.\r\n\r\nIf you're not a procrastinator, then it's an Easy A.",
+      "rating": 4,
+      "expected_grade": "D",
+      "created": "2025-05-19T18:06:58.670659Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC436",
+      "review": "The other reviews for this course pretty much cover what the class is like, but one thing I want to add is that at the beginning of the semester, each student is assigned a TA that grades all the phases of your individual project. Your grade in this class depends on which TA you get. I was lucky enough to have a fairly lenient TA but my friends had TAs that were extremely harsh. Because of how Marsh's grading scheme works, this delayed them from working on later phases, resulting in a huge pile-up of work at the end of the semester.\r\n\r\nMaybe it's because this is my first Marsh class, but CMSC436 was NOT easy. Even when you don't procrastinate, this class is a huge time commitment outside of lecture (which no one went to). I'd only recommend this class if you have previous experience either with Marsh or Flutter and you're okay with teaching yourself the material.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2025-05-20T03:44:20.432978Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC436",
+      "review": "Let's get one thing straight, this class should be abolished. \r\n\r\nProjects - They're fine\r\n\r\nHerve - Boring, but a nice guy in general(But I don't go to lectures because it's boring, he doesn't have that Nelson charisma, so watching him type code is really mundane)\r\n\r\nQuizzes/Exams - This is genuinely the worst CS class I've encountered when it comes to this section. The guy forces you to memorize random obscure details about Android specifically certain functions along with their parameters and their return type. Heck he even makes you try to remember what class the method is inherited from. This is fine if he really only made us learn a limited amount but for each topic there's like a 100+ fucking terms you have to memorize which makes this class so fucking worthless. In the end, this is android programming where you're supposed to learn app dev through building projects. Remind me how making exams/quizzes basically 50 percent of your entire grade teaches you about app dev. Btw, I know I'm a dumbass but for reference I've taken other CS4XX classes which have material much more complex than this class and have gotten much better grades. Also in those classes, some of them gave you the option to bring your own cheat-sheet which is crazy since he doesn't allow us to have any in our class. He does provide a cheat sheet but it's fucking useless to the point that it only helps for basic questions. \r\n\r\nBtw, I currently have a B in the class and have to take the final tmrw, but I'm not in the mood to study for this goofy ahh class so I'm doing the bare minimum just to get the credits for this class at the very least",
+      "rating": 2,
+      "expected_grade": "D-",
+      "created": "2025-05-20T04:29:12.104671Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC436",
+      "review": "he's really nice and all assignments get infinite resubmissions and super flexible deadlines but unfortunately lectures were kind of dry and it never felt super worthwhile to go\r\n\r\nflutter is kind of annoying to code in and randomly breaks a lot but the slides were generally pretty helpful in figuring out what to do though i did have to look up a lot of docs online\r\n\r\nif you roughly keep pace with assignments the class feels like a good bit of work but relatively manageable, especially if you have time to go to office hours and resubmit multiple times, but if you fall behind i imagine it'd be really tough",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2025-05-21T04:36:50.636253Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC436",
+      "review": "He's a nice guy, projects are good and not too hard. Lecture is kinda boring but not required. But the quizzes are exams are just extremely annoying to study for. You have to memorize 100 different tiny details about each method, class, and syntax. I got points taken off because I accidentally wrote 1 interface to be implemented before another, for \"wrong order\". The grading is just extremely nitpicky, especially on the midterm and final.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2025-05-23T20:21:18.662282Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC436",
+      "review": "Projects are easy but the quizzes and exams are straight up just memorizing how to use random android library functions that are just a google search away. They are not practical at all.\r\nThe projects were pretty fun to do and you learn a lot. Lectures are soooo boring, he just types code all class and they are so hard to see if you don't sit in the first few rows.\r\nAlso he made his exams harder this semester, he mentioned in his lecture that exams from last semester were too easy so he's gonna up the difficulty. \r\nHis grading is pretty quick and he is pretty organized.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2025-05-25T15:19:39.142466Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC436",
+      "review": "This class isn't easy if you expect A with minimum. You will definitely read lots of documentation online and debug a lot due to syntax. AI tools are not completely reliable but they can be good templates. \r\n\r\nDO NOT PROCRASTINATE! Please follow the suggested due date for each phase. There are 6 individual phases total and a group project. Phase 4 is the hardest, so work on it as soon as you can.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-08-07T21:59:28.730836Z"
+    },
+    {
+      "professor": "Archit Kambhamettu",
+      "course": "CMSC436",
+      "review": "Stayed overtime to help me with my project. Apparently he didn't take this version of the class so he had to learn along with us but was still very helpful in explaining the content.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2025-12-08T15:41:42.114314Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC436",
+      "review": "Chill guy. No complaints. He's always a good choice. I don't even go to his class because his slides are basically all you need to know for any assignment quiz or exam. It was the same way for when I took 424 with him. As long as you read all the slides and study them then you'll be fine. He provides good study material like old quizzes and exams and they are usually very similar to the actual quizzes and exams. Plus he records lectures if you really need it.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-12-20T09:38:32.582023Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC436",
+      "review": "Lectures are long and boring af and I genuinely fell asleep a few times. Quizzes and exams are super annoying to study for because you have to read through hundreds of slides and get tested on random stuff about kotlin and the android sdk like specific syntax or the return type of certain functions and grading is kind of nitpicky. However projects are pretty good and you actually learn a decent amount, the grading was really quick, he seems like a nice guy, and has a cool accent.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-12-28T02:14:45.657679Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC436",
+      "review": "Great professor. His slides are very simple and easy to understand and his quizzes and exams are very generous. It's inspiring how he manages to teach while overcoming his chronic disability of being French.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2026-02-03T02:16:24.427211Z"
+    },
+    {
+      "professor": "Vikaas Venkatesh",
+      "course": "CMSC436",
+      "review": "Very quality TA",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2026-02-09T16:50:03.376106Z"
+    },
+    {
+      "professor": "Vikaas Venkatesh",
+      "course": "CMSC436",
+      "review": "Good TA",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2026-02-09T16:52:05.393285Z"
+    },
+    {
+      "professor": "Herve Franceschi",
+      "course": "CMSC436",
+      "review": "One of the easier upper level CS courses in that the material isn't conceptually demanding (compared to some of the low-level or mathy upper level CS courses). A better title for this course is \"Mobile App Development\" (\"Programming Handheld Systems\" can be misleading for embedded systems folks), and Dr. Franceschi uses Kotlin/Android Studio (as opposed to Flutter or React Native). Hence, a big part of doing well in the course is to familiarize yourself with Kotlin syntax and Android Studio, which he provides plenty of resources for.\r\n\r\nWhat you learn is relevant to mobile app development in general, regardless of the language/framework that's used in class. Syntax is the first thing you learn when picking up a new language, often followed by learning to read documentation. Writers of some of the other reviews seemed to miss this.\r\n\r\nIf you're reading the other reviews for this course that complain about \"unfair/pointless\" grading, lack of a cheatsheet, points taken off for incorrect code logic, or other easily solvable concerns \u2013 keep in mind that in any course that emphasizes learning a new language or framework, you are tested on your knowledge of the language/framework, NOT how well you can use an IDE or autocomplete. If you're proficient in ANY object-oriented programming language, then you know the learning curve is steepest at the start. Stay up-to-date with the material for the first 1-2 weeks, and you'll quickly learn what approach works best for you with regards to grasping the material\r\n\r\nAs for the class/grading structure, this is how it was for Fall 2025 (you can decide what's a pro or a con):\r\n- Dr. Franceschi posted all code and slides from class, and recorded every lecture to watch\r\n\r\n- in decreasing order of what was weighted most: final exam, total project grade, midterm, group project, quizzes. I understand the annoyance with quizzes because they could consist of questions from a range of given topics, and to do well you're inclined to knowing absolutely everything which makes them exam-like. Nonetheless, Dr. Franceschi doesn't throw curveballs, and the quizzes were the exact same in structure and style as the practice ones he posted. And doing bad on some quizzes won't kill your grade.\r\n\r\n- homeworks are projects, which were straightforward, and tweaking code examples from class/Canvas will help you a TON.\r\n- as with any group assignment: what makes/breaks your grade is your group; at worst, you'll end up doing more work than you intended. As long as the final result follows the rubric, there's nothing to worry about (you won't have to publish your app nor will outsiders be testing it).\r\n\r\n- midterm/final exams felt very long; exam questions matched practice questions in structure and style. Completing projects is the best way to prepare for the exams, followed by skimming through the code and class examples afterwards. He gave us documentation sheets with some class/functions/interfaces/variables that were on the exam, which guarantees free points if you know how to read. Regrade requests were addressed quickly.\r\n\r\n- Personal opinions: Dr. Franceschi's lecturing style is monotonous and not the most engaging, but it's far better than a professor who rushes or teaches like everyone already knows everything. He's respectful and clear about the class structure (and any changes to it that come up). Use the recordings to your advantage.\r\n\r\nI'd rate the course a 4.5/5 if I could. This is a lengthy review, but one that hopefully clears up some misconceptions about the course.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2026-02-11T03:39:10.955553Z"
+    }
+  ],
+  "department": "CMSC",
+  "course_number": "436",
+  "name": "CMSC436",
+  "title": "Programming Handheld Systems",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> Minimum grade of C- in CMSC330 and CMSC351; or must be in the (Computer Science (Doctoral), Computer Science (Master's)) program.\n<b>Restriction:</b> Permission of CMNS-Computer Science department.\nFundamental principles and concepts that underlie the programming of handheld systems, such as mobile phones, personal digital assistants, and tablet computers. Particular emphasis will be placed on concepts such as limited display size, power, memory and CPU speed; and new input modalities, where handheld systems differ substantially from non-handheld systems, and thus require special programming tools and approaches. Students will apply these concepts and principles in the context of an existing handset programming platform.",
+  "is_recent": true,
+  "geneds": null
+}

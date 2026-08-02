@@ -1,0 +1,436 @@
+{
+  "average_gpa": 2.5901253918495297,
+  "professors": [
+    "Niranjan Ramachandran",
+    "Amin Gholampour",
+    "Maria Cameron",
+    "Jeffrey Adams",
+    "Patrick Brosnan",
+    "Dipendra Prasad",
+    "Joseph Auslander",
+    "Elizabeth Wilson",
+    "Michelle Lee",
+    "James Schafer",
+    "Sarah Yeakel",
+    "Huanchen Bao",
+    "Matei Machedon",
+    "Allan Yashinski",
+    "John Millson",
+    "Giovanni Forni",
+    "Yihang Zhu",
+    "Nathan Manning",
+    "Adam Kanigowski",
+    "Justin Wyss-Gallifent",
+    "Michael Laskowski",
+    "Harry Tamvakis",
+    "Roohollah Ebrahimian",
+    "Adam Kanigowski",
+    "Michael Laskowski",
+    "Adam Kanigowski",
+    "Roohollah Ebrahimian",
+    "Gregory Chadwick",
+    "Shiferaw Berhanu",
+    "Steven Chadwick",
+    "Harry Tamvakis",
+    "James Conway",
+    "Peter Dillery",
+    "Terence Long",
+    "Allan Yashinski",
+    "Michael Laskowski",
+    "Wiseley Wong",
+    "Peter Dillery",
+    "Qendrim Gashi",
+    "Roohollah Ebrahimian",
+    "Srivatsav Kunnawalkam Elayavalli",
+    "Adam Kanigowski",
+    "James Conway",
+    "Qendrim Gashi",
+    "Wiseley Wong"
+  ],
+  "reviews": [
+    {
+      "professor": "Jeffrey Adams",
+      "course": "MATH405",
+      "review": "Adams is a fantastic professor. He always comes prepared to class and does a great job helping his students through difficult problems. I would recommend him highly if you get a chance to take one of his courses.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2013-12-12T17:58:00Z"
+    },
+    {
+      "professor": "Giovanni Forni",
+      "course": "MATH405",
+      "review": "Well, people below do make a quite-true comment on him. However, I have to say something else. Don't expect the teacher to teach you everything in the classroom, especially in the math class. If you don't do homework, don't read the text carefully, don't go to his office hour, then don't blame at last. I took MATH405 with him. I believe 405 is the most or second most difficult math class for undergrade(you guys can confirm this with anyone in math department or any students who have ever taken this class). His lecture is \"terrible\", full of abstract content and lots of stuff that presume you have already known. But, he is patient both in and out of classroom. You can bring your homework to his office, he will do every single one for you step by step. And he curve a lot, as long as you got a score above the average, you can guarantee to get a B. And usally, this B finally turns to an A- or even A on your transcrept, because he really CURVES a lot. \n\r\nGuys, don't blame how fxxxxxx bad the professor he is if you don't attend lecture, nor do homework. Blame yourselves, cuz you are students, you are supposed to be responsible for what you have ever done.\n\r\nLast, I want to say, if you devote your time into it, you really learn a lot, far more than the course coverage, from him. He is knowledgable and smart. You know, he was a Ph.D. from Princeton U. xD",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2012-02-11T15:35:00Z"
+    },
+    {
+      "professor": "Dipendra Prasad",
+      "course": "MATH405",
+      "review": "Professor did not understand or care for students with no experience with abstract algebra (it was not a prerequisite), and skipped over important topics like group theroy.",
+      "rating": 2,
+      "expected_grade": "W",
+      "created": "2018-01-24T22:54:24Z"
+    },
+    {
+      "professor": "James Schafer",
+      "course": "MATH405",
+      "review": "After speaking with others, Schafer seems to be a truly polarizing teacher.\r\n\r\nPersonally, I liked his informal and socratic style. It was a breath of fresh air from the oft pedantic teaching found in the department. He's visibly passionate about teaching and isn't one to provide a text-to-speech rendition of the book.\r\n\r\nIf you'd like an eccentric professor who speaks on material that goes beyond the book, then take Schafer. If you're on the fence, register for two professors: you can immediately determine if Schafer is for you or not by the end of the first lecture.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2019-10-03T13:25:50Z"
+    },
+    {
+      "professor": "Matei Machedon",
+      "course": "MATH405",
+      "review": "He's perhaps the nicest professor I've taken a class with in the math department. \r\n\r\nOne complaint I have about the class in general is that it was too easy. Before the exam he would post \"practice problems\" and then when we got the exams we would discover that the exams basically had the exact same problems word for word. Essentially by the end of the course we have some students left who do not understand the basics very well as to ask questions which are either straight up incoherent or seemingly \"are you seriously asking that at this point in the course?\"\r\n\r\nThe textbook for the class kind of sucks.\r\n\r\nHe was very willing to entertain some of my brief after-class discussions of some alternative and wacky ways to prove certain things.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2019-12-10T02:07:27Z"
+    },
+    {
+      "professor": "Matei Machedon",
+      "course": "MATH405",
+      "review": "Super nice guy, maybe even too nice. He made the class very easy, and gave us exam questions beforehand for practice. We spent a lot of time on basic linear algebra topics, but overall still covered a fair amount of new and challenging material.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2019-12-19T06:43:12Z"
+    },
+    {
+      "professor": "Matei Machedon",
+      "course": "MATH405",
+      "review": "Professor Machedon is by far one of the nicest professors one could ever take at the university. I think he really takes time to help you succeed if you ask for it.\r\nEven so, there were some things that could be improved about the course. I think he lectured a little too slowly. The exams were also really easy, which concerned me, both the people who scored abysmally on them and the people who did well on the exams and did not understand anything that went on in the class.\r\nThe textbook he uses for 405 (Curtis) I feel is pretty crummy as well.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2020-02-03T22:31:07Z"
+    },
+    {
+      "professor": "Patrick Brosnan",
+      "course": "MATH405",
+      "review": "He's a really nice guy, but he has this really annoying habit of deciding he's \"bored\" halfway through a proof during lectures. Harsh grading in exams but curves at the end of the semester. I would recommend him overall for 405 since he's an algebraist so he has a lot of interesting things to say about the subject.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2020-03-29T19:15:03Z"
+    },
+    {
+      "professor": "Allan Yashinski",
+      "course": "MATH405",
+      "review": "Dr. Yashinski is a very good professor at upper-level math courses. You learn a lot in his lectures. ",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2020-06-14T03:20:52Z"
+    },
+    {
+      "professor": "Nathan Manning",
+      "course": "MATH405",
+      "review": "Fantastic professor. You will need to be comfortable with abstractions should you decide to take his course because he is (surprise!) an abstract algebra researcher. Can be difficult to get an A but the grades themselves are fair and apt. Handled going online very well and uses ELMS/Gradescope in a good way. Based on the MATH240 students it sounds like he cares more about upper level classes than lower level ones, so it might be worth being careful about that, too.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2021-05-21T23:33:34Z"
+    },
+    {
+      "professor": "Adam Kanigowski",
+      "course": "MATH405",
+      "review": "Great professor, really cares about his students",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-05-22T11:47:04Z"
+    },
+    {
+      "professor": "Yihang Zhu",
+      "course": "MATH405",
+      "review": "New professor at the time, midterms and homeworks were fair but final was incredibly hard.\r\n\r\nPerhaps he is better now but at the time there was nothing too special to write home about",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2021-09-23T04:37:20Z"
+    },
+    {
+      "professor": "Yihang Zhu",
+      "course": "MATH405",
+      "review": "I took him when he was new. Wasn't very interesting or engaging in lecture. 2 midterms were easy, but he made a very difficult final to \"compensate\", and the curve hurt me (I was on the borderline). He's very slow to respond to emails if you have these kinds of issues.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2021-09-23T05:16:17Z"
+    },
+    {
+      "professor": "Jeffrey Adams",
+      "course": "MATH405",
+      "review": "Great prof, very good instruction, reasonable homeworks and exams. A high-quality course where you'll learn a lot about advanced linear algebra.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-12-23T02:52:23Z"
+    },
+    {
+      "professor": "Jeffrey Adams",
+      "course": "MATH405",
+      "review": "While I dropped this course halfway through the semester Adams is a great professor. MATH405 is extremely difficult and I quickly learned I was in over my head. In class Adams does a good job explaining the theorems/definitions as well as providing examples. My only complaint is that sometimes he uses different variables compared to what's in the book when explaining concepts. The homework is extremely difficult compared to in-class examples and time consuming. The midterms however are much easier and straightforward the averages are still low but he has an insane curve, post curve the average for our first midterm was a 90. Honestly to do well in this course memorize the theorems/definitions and go to office hours to get help whenever you feel you need it.",
+      "rating": 5,
+      "expected_grade": "W",
+      "created": "2021-12-30T09:20:45Z"
+    },
+    {
+      "professor": "Harry Tamvakis",
+      "course": "MATH405",
+      "review": "His lectures are great, but first note that he sometimes went really different from the books, not only one chapter but multiple chapter. while he doesn't have any notes available on elms. You have no place to go back to check and you have to have pretty good notes. \r\nThe HW are brutal. It it really difficult and you have to spent so many times to finish it.  Also no answers key. Exams are really hard. There is no study guide and most of the exam problems aren't any hw problem nor class example we did. \r\nHowever, his lectures are very straightforward and he answers questions in the office hour. So if you are a student who is determined to put your times to study math, Tamvakis is great.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2022-11-13T05:58:24.915603Z"
+    },
+    {
+      "professor": "Harry Tamvakis",
+      "course": "MATH405",
+      "review": "His lecturing is mediocre. He goes through topics at high speed, pausing for a second and asking if people have any questions like a student that is lost will have enough time to formulate a question. He isn't willing to give out notes before or after lecture. He isn't willing to tell you what section of the book he is going to cover before lecture. These things give the impression that he just wants to come to class, write on the board for an hour, then leave. Not good.\r\n\r\nHis homeworks are extremely difficult but thankfully he gives you 2 free late passes which were very much appreciated.  I would not take this class with Harry alone, having a friend to talk to about homework problems is essential to doing well. \r\n\r\nHe also doesn't pull any punches with his exams. It was so bad that I spent the time before the final terrified and in tears that I would fail the class. Never has an upper level math class put me under so much stress. \r\n\r\nIn conclusion I wold not recommend taking 405 with Harry unless you are doing so with a friend, and/or feel comfortable with the topics covered.",
+      "rating": 3,
+      "expected_grade": "B-",
+      "created": "2022-12-22T16:50:30.403055Z"
+    },
+    {
+      "professor": "Harry Tamvakis",
+      "course": "MATH405",
+      "review": "Harry is a really good lecturer who you can tell enjoys the subject he teaches. Lectures are rather quickly paced and in-depth, but he'll be happy to answer any questions whenever. As others have said, the homework is rather difficult. It took me a quite a bit of time per homework, but the homework was very good at reinforcing the concepts learned in-class. His content mostly matched that of the textbook, but he did diverge in places and he doesn't give out notes so if you're one to skip occasionally, make sure you have a way of ensuring you get all the content. Overall I'd highly recommend him if you're comfortable with the class not necessarily being the easiest thing in the world as he teaches it very well. In case the difficulty dissuades you, I'd like to also note that the homework grading was always pretty chill and he seemed to curve a pretty large amount at the end.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-12-25T07:48:12.780956Z"
+    },
+    {
+      "professor": "Adam Kanigowski",
+      "course": "MATH405",
+      "review": "Makes this class a way less stress experience than any other 405 professor. 6 homeworks worth 20 points each that consist of 5 problems from the book, 1 midterm that's 100 points, and 1 final exam that's 200 points. 2 homeworks are dropped. I've spent maybe 15 hours on this class in total throughout the entire semester. Superb lecturer and really puts in effort into ensuring students understanding of material.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-04-25T23:20:33.958961Z"
+    },
+    {
+      "professor": "Adam Kanigowski",
+      "course": "MATH405",
+      "review": "This course is pretty tough (I mean it's a 400-level), though the assignments are not too hard. I honestly wanted more homework because I didn't feel prepared for the exam, but it was fine. \r\n\r\nThis was my first 400-level math class (taken concurrently with 406), and it definitely took some effort. The textbook is pretty poorly written and unhelpful, but you can find free textbooks for proof-based linear algebra online. If you have already taken 403, I imagine this class is significantly nicer just because the notation learning curve is steep. \r\n\r\nAdam is pretty responsive to student feedback. You just have to speak up.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2023-04-30T19:14:44.260003Z"
+    },
+    {
+      "professor": "Michael Laskowski",
+      "course": "MATH405",
+      "review": "I loved his class. He is a great lecturer. Everything was always so clear after he explained it. Exams are, okay, dare I say easy, compared to others in the department. The exams are always very similar to homework (which are sometimes a bit long but reasonable still). You will never be shocked. I hope to take another class with Professor Laskowski, because he is just such a great professor.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-08-31T00:44:29.394943Z"
+    },
+    {
+      "professor": "Roohollah Ebrahimian",
+      "course": "MATH405",
+      "review": "The ideal math teacher in every aspect. Clear lecturing, clean handwriting. Expanded office hours based on student feedback. Detailed and comprehensive typed notes cover *everything* in lecture. Quizzes are taken from HWs. Exams closely follow the study guide. Dr. Ebrahimian is committed to teaching well. The class itself is a hard 400-level math class (part of the heavily theoretical 403-405 sequence). Spent 10hrs/wk on average. If you are a good math student you will love his style of teaching.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2023-10-25T20:06:17.903730Z"
+    },
+    {
+      "professor": "Adam Kanigowski",
+      "course": "MATH405",
+      "review": "Was very nice and helpful. If you ask questions hell do his best to answer, cares about students.\r\n\r\nWish there was more homework to help with understanding. We use the textbook Linear Algebra by Serge Lang, all the homework is from the textbook, you can also find solutions online which is helpful in understanding the content. Exam questions are pretty fair as well. Think there was a pretty good curve on the final as well.\r\n\r\nThis class was hard for me since I had bad preparation (first proofs class, only took CMSC250, no MATH410 either), but taking it with Kanigowski helped a lot.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-20T18:31:57.142460Z"
+    },
+    {
+      "professor": "Adam Kanigowski",
+      "course": "MATH405",
+      "review": "Kanigowski made the course very manageable. Only 6 home work assignments with 2 drops, and some of those were just reusing 240 concepts, the midterm was~30% and the final was ~45% of the total grade. Agreed with other people that more assignments (or at least proofs in those assignments) would be a good way to prep for the final, but the curve was decent and ended my 90% as an A. Probably important to note that because he give way less work than other 405 sections, there's not as much material that is put in (most classes introduce adjoint matrices and hermitians, how to diagonalize, and some get to Jordan canonical form, none of which we do), which could be bad if you plan grad school or need a more intense linear algebra understanding. As a lecturer, the class is run decently well where he knows how to make the proofs intuitive, gives us time to do exercises in class, and also allows us to provide feedback to how he's teaching which all felt very welcoming. Definitely a chill guy and if you want a nice 405 then take the course with him.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-23T18:21:28.014312Z"
+    },
+    {
+      "professor": "Roohollah Ebrahimian",
+      "course": "MATH405",
+      "review": "Dr. Ebrahimian is an excellent teacher. He's not particularly easy, but he's there for you if you ask for help. He cares a lot about teaching well and about students learning the material properly. This means his courses tend to be harder, but he also gives you plenty of resources to help them to be manageable. His lectures are quite good. He also makes his own notes, which may follow the text closely but with additional material and examples. He gives additional practice problems in addition to the (fairly sizeable) weekly homework. He pulls from {homework, practice problems} for his weekly quizzes. Attending lectures is important. He holds extensive office hours, holds review sessions before exams, and is available via email. He often gives the answers to the homework, quiz, and even exam questions (modulo some slight modification) between his lectures, review sessions, and rigid study guides. The course grades are typically not curved (or only lightly), so you have a good idea of where you stand throughout the course, but he does drop your lowest few quizzes and homeworks, and your final can supplant a midterm if you did poorly on one.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2024-01-04T02:56:34.305173Z"
+    },
+    {
+      "professor": "Steven Chadwick",
+      "course": "MATH405",
+      "review": "Worst professor I ever had in the school. The course is way slower and easier than other 405 professors. However, he grades the exam by the criterion \"It looks right.\" Multiple students I heard has the same experience of writing the correct proof and got taken off points because rigorous on proofs",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2024-05-03T17:22:07.624998Z"
+    },
+    {
+      "professor": "Shiferaw Berhanu",
+      "course": "MATH405",
+      "review": "Good and passionate instructor. He is very much into research level math. He taught this course directly out of the textbook, which was helpful. Exams and homework were easy and graded fairly.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-13T21:06:31.516185Z"
+    },
+    {
+      "professor": "Shiferaw Berhanu",
+      "course": "MATH405",
+      "review": "Although the content for this course is challenging Professor Berhanu tries to make it easier for you. His content and proofs during the class can be a bit fast but he makes his exams easier. The weekly homework can take some time (if you are like me...) but also is a good review of the content and the exam - he takes some exam questions straight from the homework or the exam review problems he provides. You should probably go to the lectures: he will notice your absence... and the textbook makes no sense sometimes... Overall the course is proof-based and starts off proving things from 240 but goes into other advanced theorems later on. There were some ups and downs but this course taught me a lot and I do recommend 405 with Berhanu!",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2024-05-14T03:32:06.178358Z"
+    },
+    {
+      "professor": "Shiferaw Berhanu",
+      "course": "MATH405",
+      "review": "Dr. Berhanu is one of the best professors I have had. He has a very clean and concise teaching style and runs his class very well.  If you are serious about math and want a rigorous understanding of the concepts in MATH405, Dr. Berhanu should be one of your top choices. He is a very reasonable grader and makes his tests very straightforward--if you go to class and understand the homeworks, his tests should be very doable. Additionally, he allocates a lot of time for test review. Overall, if you are someone who genuinely wants to learn the material for MATH405 and are willing to attend class and pay attention, definitely consider him.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-05-15T00:48:01.704826Z"
+    },
+    {
+      "professor": "Shiferaw Berhanu",
+      "course": "MATH405",
+      "review": "This was my first 400 level math class and it was a very harsh introduction to rigorous mathematical proofs. CMSC250 exempted me from MATH310, so take this review with grain of salt. Berhanu is clearly a passionate teacher which I appreciated, but following along in class was almost impossible for me. He zooms through the proofs insanely fast assuming students are following. The only time people were regularly asking questions were at the beginning of the course, and when they did Berhanu makes it seem like the answer is obvious and makes students feel stupid (atleast from my perspective). Our ~25 student class only asked MAYBE asked 1 or 2 questions per class. I was expecting a lot more student/prof interaction given the class size. The only way I was able to get through this class was through teaching myself the textbook, and I\u2019ve heard Curtis\u2019 Linear Algebra textbook is among the harder of undergraduate textbooks. The only positive I saw in taking his course were his midterms. The midterms felt very fair and on the easier side. However, the final felt completely different and was measurably harder than the midterms. I had an A- prior to the final and ended the course with a B. Overall the Prof is a good guy but I think his teaching style can definitely demean students sense of intelligence and turn them away from the course.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2024-07-08T17:31:59.420212Z"
+    },
+    {
+      "professor": "Adam Kanigowski",
+      "course": "MATH405",
+      "review": "Amazing prof all around, took 401 with him at the same time and was really good with exams. The textbook choice was really good too (Lang).",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2024-10-27T06:24:16.728197Z"
+    },
+    {
+      "professor": "Harry Tamvakis",
+      "course": "MATH405",
+      "review": "Great guy. His lectures are well-structured, if fast, and he explains things clearly, going into great depth on each topic. Homeworks are challenging but manageable, and they push you to think deeper about the concepts. Exam averages tend to be low, but there are plenty of extra credit opportunities to help you boost your grade.\r\n\r\nHe answers any questions you may have very thoroughly and doesn't make you feel stupid, and he's also willing to talk about concepts beyond the scope of the class if you're interested. It's clear he's extremely knowledgeable and passionate about what he does.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-08T22:34:15.167080Z"
+    },
+    {
+      "professor": "Peter Dillery",
+      "course": "MATH405",
+      "review": "I loved this class, every second of it. It's really tough, and it will make your inductive reasoning skills really strong. I did horrendously on the majority of the exams however due to, well, a poor understanding of the course. Dr.dilllery would often say that so long you don't cheat on the Hw you should be able to do the exams, and this is true to some extent since a majority of exam problems are often taken from the homework, or inspired by them. Its important that you know how to do these problems properly however otherwise you'll end up probably failing like me. Often stack overflow would contain answer to these HW problems and would explain how to do them in detail. He says to ask him for help directly if you end up getting stuck, which provides a more healthy experience with solving the problems.\r\n\r\nDillery himself is a professor who comes off as authoritative at first, but is really altruistic towards his students and generous. He's always willing to help his students with nearly anything. \r\n\r\nIn general though, this class attracts some of the smartest students UMD has to offer in my opinion. Just getting to sit there is an honor. This is the only class that I'm honestly okay with absolutely failing, I'm glad I took it anyways.",
+      "rating": 5,
+      "expected_grade": "D+",
+      "created": "2024-12-13T08:38:08.083643Z"
+    },
+    {
+      "professor": "Peter Dillery",
+      "course": "MATH405",
+      "review": "Homework was obnoxiously lengthy but later on some problems became optional. Used an unusual textbook and I feel like we learned less than other 405 classes overall",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-12-18T22:12:45.368641Z"
+    },
+    {
+      "professor": "Michael Laskowski",
+      "course": "MATH405",
+      "review": "This was my favorite class this semester. I really liked lectures, he was very approachable in office hours, homeworks were sufficiently challenging without feeling overboard most of the time, the content was interesting to me. I don't know, this class just did it for me. I talked to some people about taking this class and not having taken MATH403 yet, and a few have questioned me for doing so. While basic content from that class may be helpful for this class, MATH403 is in no way an implicit prerequisite for this professor's MATH405 (it may be for some sections, though I don't know personally).\r\n\r\nPositivity is hard to write about, so I'll put a few things I didn't quite like about this class here. For one, homeworks are physically handed in during class. I do all my work digitally, and printers are my worst nightmare, so this bugged me quite a bit, even though I attended every class anyways. Exams are heavily weighted, as each midterm is 25%, and the final is 40%, with the remaining 10% being homeworks. This isn't quite as bad as it could be, as the exams were rather easy all things considered, and each of them come with a bit of extra credit, but it's something to keep in mind if exams aren't your strongsuit. The textbook we used, Linear Algebra Second Edition by Hoffman and Kunze, isn't bad by any means, but I didn't like some aspects of it. There are some problems in the book which aren't the most clear due to having wonky English, using terminology which hasn't been fully established (independent set comes to mind, where the book means linearly independent set without first establishing that fact, where independent set is a term from graph theory), or having odd symbol usage (using \\to instead of \\mapsto for mappings, for example). In general, I generally prefer how Linear Algebra Done Right by Sheldon Axler presents information, and used it as a second reference on a few occasions throughout the course. Finally, one particular lecture after exam 2 felt very rushed, which was rather annoying given that a homework on the topic was assigned that day and due the next class (usually, a full week is given to do ahttps://youtu.be/XjZHAa4hR68 homework).\r\n\r\nFor me, my gripes are minor in the grand scheme of things. I highly recommend this professor for MATH405.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-23T00:55:47.738505Z"
+    },
+    {
+      "professor": "Allan Yashinski",
+      "course": "MATH405",
+      "review": "Allan is good, but there's not too much to say about him. His class is extremely straightforward, he's a good lecturer, has weekly homework assignments that aren't too difficult, and the exams are typical for an upper-level math class. The material is just proof-based linear algebra; the content is exactly what you'd expect. Take this course if you want to develop your knowledge in linear algebra, and take Allan if he's available.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-05-26T16:07:30.732584Z"
+    },
+    {
+      "professor": "Wiseley Wong",
+      "course": "MATH405",
+      "review": "Pros:\r\n- Quick homeworks; 4 problems each, takes maybe 1-1.5 hours to do the whole HW\r\n- Nice at OH\r\nCons:\r\n- Chalkboard lecturer\r\n\r\nHonestly I don't have much more to say. Very average, I suppose. Nothing he does particularly great, nothing he does particularly poorly. If you take him, you're not going to have a rough time or anything, but you're also not going to be having the time of your life or anything.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-05-27T18:44:10.117760Z"
+    },
+    {
+      "professor": "Allan Yashinski",
+      "course": "MATH405",
+      "review": "Allan for MATH405 is not my most recommended pick, but he wasn't particularly bad. The amount of work he assigned us every week was somewhat annoying, especially when there would still be homeworks due 2 days before the midterm exams, and his lectures were ordinary and simple just following proofs from the textbook. His grading was fair/on the slightly stricter side, but he did record all lectures.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2025-06-01T19:14:00.035785Z"
+    },
+    {
+      "professor": "Terence Long",
+      "course": "MATH405",
+      "review": "He is a good lecturer and cared about our success, but the course was a little disorganized in the beginning, with us not receiving homework until quite a lot of content was covered and no idea when each midterm would be until 2/3 weeks in advance.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-06-30T00:22:55.293057Z"
+    },
+    {
+      "professor": "Roohollah Ebrahimian",
+      "course": "MATH405",
+      "review": "The subjects that Dr. Ebrahimian teaches are difficult, so you should expect to have to put in work. That being said, I can't express how much I appreciate having him as a professor. I took MATH340 with him in Fall 2022 as a freshman and have him now for MATH405 in Fall 2025 as a senior. His teaching style is the best I've come across for a few reasons:\r\n\r\n1. His notes are written clearly and coherently in LaTeX. They're available online, but he also hands them out in lectures.\r\n\r\n2. The online version of the notes contain a ton of fully solved example problems, plus a bunch of unsolved exercises for practicing on your own.\r\n\r\n3. Weekly homework and quizzes (yes, there are weekly quizzes) keep me accountable and help keep the material fresh in my head. I'm prone to procrastination and cramming before exams, which is never ideal for learning, so this helps a lot. The quizzes are typically a single question and are one of the questions from the homework.\r\n\r\n4. He writes exam study guides that give us more practice problems and tell us which main proofs from class we should remember for the exam.\r\n\r\n5. The majority of our lectures are spent proving main theorems on the chalkboard, but he also goes through some helpful examples. I've personally found his lectures a lot easier to follow than lectures of my other professors.\r\n\r\n6. He's very approachable after class and in office hours.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-10-09T20:33:59.594619Z"
+    },
+    {
+      "professor": "Srivatsav Kunnawalkam Elayavalli",
+      "course": "MATH405",
+      "review": "Overall, I would not recommend this professor since he made this class a lot harder and more stressful than it had to be.  However, this was his first semester teaching at UMD, so hopefully the quality of his instruction will improve next semester.  \r\n\r\npros:\r\n- can be pretty funny and entertaining\r\n- did a huge curve for our class (thought I would fail, ended the class with a B+)\r\n- homeworks were reasonable, mostly graded for completion (except one problem is graded for accuracy)\r\n- exam problems were mostly reasonable and we were given plenty of time\r\n\r\ncons:\r\n- vague about what is on exams, which made it very difficult and stressful to prepare for exams.  The structure of his exams was usually some definitions and 3-4 theorems from class or homeworks, but since his exams would be only 3-5 problems each, it felt very hit or miss\r\n- exam averages for both midterm exams were pretty low, around 65-70%\r\n- very picky about definitions and harsh grader for proofs\r\n- wasn't always fully prepared for lectures, would sometimes waste time during lecture trying to come up with proofs\r\n- wasn't very encouraging, during class he said our proofs were \"disgusting\" and ideally he would give most people zeroes on all their proofs and wasn't much nicer during office hours\r\n- not a good lecturer; his explanations and proofs were often confusing, his handwriting was hard to read, and would often block view of the board while writing\r\n- exams were worth 90% of our grade (50% final, 20% each midterm)\r\n- doesn't post notes to encourage lecture attendance",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2025-12-27T03:16:21.113265Z"
+    },
+    {
+      "professor": "Roohollah Ebrahimian",
+      "course": "MATH405",
+      "review": "Dr. Ebrahimian is one of the best, if not the best, lecturers at UMD. He's nice, funny, and extremely knowledgeable.\r\n- He's IMO silver medalist, and it's clear that he's insanely smart, but he's extremely approachable and so good at explaining things, so ask him any questions during the office hours and he will answer anything.\r\n- There are weekly quizzes, which is based on one of the homework problems. The lowest 2 quiz grades are dropped.\r\n- The exams follow closely to the study guide he provides 1-2 weeks before the exam date. The final exam can replace a midterm grade you didn't do well on.\r\n- Even though it is easy to achieve a high grade, you will learn a ton. He designs the class so that you can only ace if you're understanding the material.\r\n- He cares deeply about teaching undergrad students and really makes sure his students actually learn.\r\n- He types up all of his notes in LaTeX, which also includes a plethora of examples and problems.\r\n- He has a very good sense of humor. Even now, some of his jokes still make me chuckle lol.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2025-12-29T06:20:34.439946Z"
+    },
+    {
+      "professor": "Srivatsav Kunnawalkam Elayavalli",
+      "course": "MATH405",
+      "review": "Sri is not the best lecturer. He started the semester by preparing notes before each lecture, but then later started lecturing straight from the textbook. Many times he would forget how to write a proof and spend several minutes rewriting and erasing his work, which made the material confusing. Also, he frequently blocked the board while writing, which is frustrating when taking notes, and his handwriting is sometimes difficult to read. During class he will answer questions but he does not really encourage them; he also does not stay after class to answer questions.\r\n\r\nThe course is also heavily exam based (90%) with HW 10%, two midterms 20% each, and the final is 50%. Exams tend to be 4-5 questions, with a total score of 15 pts per midterm. Sri would claim the exams would contain some computational questions and homework questions, but then exams would end up being almost entirely proofs from the textbook (along with a few definitions). For tests, I would recommend studying the textbook and memorizing proofs/definitions from the chapters rather than reviewing HW's. Also, given the small number of questions and low point total, if you forgot a specific textbook proof you could lose a fairly significant amount of points. The final exam seemed slightly easier, with more definitions and one challenge problem. There was a good curve at the end of the class though.\r\n\r\nHe grades exams pretty quickly but there is no feedback. HW's were graded half for completion and half on one randomly chosen problem, so there was feedback for only one problem. By the end of the course only 4 of the total 8 HWs were graded.\r\n\r\nOverall, I think this class would be more informative and easier with another professor. This was his first semester teaching at UMD though. If you are good at memorizing/writing proofs then you will likely do fine in his class, especially given the curve.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2026-01-06T06:40:27.916875Z"
+    },
+    {
+      "professor": "Srivatsav Kunnawalkam Elayavalli",
+      "course": "MATH405",
+      "review": "Bad lecturer, would forget how to do proofs during class. Exams were on memorizing textbook proofs and definitions. Would not recommend.",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2026-01-17T18:37:08.939603Z"
+    },
+    {
+      "professor": "Qendrim Gashi",
+      "course": "MATH405",
+      "review": "The G in Prof. Gashi's name stands for goat. I don't regret taking his class.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2026-01-23T00:03:56.955756Z"
+    },
+    {
+      "professor": "Qendrim Gashi",
+      "course": "MATH405",
+      "review": "THATS WHAT I'M TALKING ABOUT! THATS WHY HE'S THE GOAT! THE GOATTTTTTT!\r\n\r\nBit of a late review since I took this class Fall 2025. His lectures lectures were really good and his homework assignments were pretty fair. His grading for exams is pretty lenient. He also curves the final grade very generously at the end, so grades shouldn't be too much of a stressor during this class. I don't think anyone in this class got less than a B- at the end.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2026-02-11T17:49:28.987662Z"
+    },
+    {
+      "professor": "Wiseley Wong",
+      "course": "MATH405",
+      "review": "Good prof overall. I had to drop the class because exams were bulk of the grade and I struggled a lot with being able to execute well enough under time pressure because it was my first semester at UMD as a transfer student.\r\n\r\nTeaching-wise: prof is okay, he doesn't do anything too interesting too special, but he can be little bit rude at times when you ask questions. But, I would not recommend taking MATH 405 as a first-semester transfer student. I would recommend taking easier 400-level classes, like MATH 402 etc.",
+      "rating": 4,
+      "expected_grade": "W",
+      "created": "2026-04-13T00:05:42.224168Z"
+    }
+  ],
+  "department": "MATH",
+  "course_number": "405",
+  "name": "MATH405",
+  "title": "Linear Algebra",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> 1 course with a minimum grade of C- from (MATH240, MATH461, MATH341); and minimum grade of C- in MATH310.\nAn abstract treatment of finite dimensional vector spaces. Linear transformations and their invariants.",
+  "is_recent": true,
+  "geneds": null
+}

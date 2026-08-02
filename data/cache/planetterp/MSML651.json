@@ -1,0 +1,17 @@
+{
+  "average_gpa": 3.5666666666666664,
+  "professors": [
+    "Paul Rodrigues",
+    "Paul Rodrigues",
+    "Paul Rodrigues"
+  ],
+  "reviews": [],
+  "department": "MSML",
+  "course_number": "651",
+  "name": "MSML651",
+  "title": "Big Data Analytics",
+  "credits": 3,
+  "description": "The course will focus on the challenges, tools and methods to design and implement machine learning algorithms for very large datasets, and the configuration and operation of distributed computing platforms to execute them. Topics include scalable learning techniques, data streaming and data flow analytics, machine learning on large graphs. Massively parallel computing models such as map-reduce, and techniques to reduce the memory, disk storage and/or communication requirements of parallel machine learning algorithms. SQL and no-SQL database systems, distributed file systems, key-value stores, document databases, graph databases and large dataset visualization.",
+  "is_recent": true,
+  "geneds": null
+}

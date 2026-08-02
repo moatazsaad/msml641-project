@@ -1,0 +1,289 @@
+{
+  "average_gpa": 3.51883646683221,
+  "professors": [
+    "Edward Redish",
+    "Wolfgang Losert",
+    "Thomas Antonsen",
+    "David Buehrle",
+    "Benjamin Dreyfus",
+    "Marco Colombini",
+    "William Dorland",
+    "David Somers",
+    "Mary Chessey",
+    "Matt Severson",
+    "David Buehrle",
+    "David Buehrle",
+    "Matt Severson",
+    "David Buehrle",
+    "David Buehrle",
+    "David Buehrle",
+    "Matt Severson",
+    "Wolfgang Losert",
+    "Matt Severson",
+    "Matt Severson",
+    "Wolfgang Losert",
+    "Matt Severson",
+    "David Buehrle",
+    "Matt Severson",
+    "Wolfgang Losert",
+    "Matt Severson"
+  ],
+  "reviews": [
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS132",
+      "review": "Buehrle is your best bet with physics II. We tend to repeat material in class from the class before and after, which helps enforce the topic. The class didn\u2019t seem to be a lot of work besides the lab, which will never not be a pain in the ass, but at least there is no take-home work from lab. Honestly the key to success with either physics for the life sciences (I or II) is to do well on the homework. Find a group of friends and work on it together, and go to office hours with a TA who seems the most competent. And hint hint, the homework get reused usually each semester. Overall I would recommend taking PHYS132 with Buehrle, seems like a pretty chill and nice guy.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2016-06-03T10:28:00Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS132",
+      "review": "Great professor. His motto is: ZERO STRESS. He recycles A LOT of clicker questions on his weekly quizzes and on his exams. Great at answering questions and responding to student concerns. And he doesn't use those annoying white boards from 131 which is awesome! ",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2015-06-08T19:42:00Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS132",
+      "review": "He is a pretty good lecturer but the class is still difficult. Reuses a lot of questions on clickers, homework, quizzes, and exams. One nice thing is that the exams do not count for a large percentage of the final grade. The exams have way too many questions to get done in the time period allotted. ",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2018-11-20T17:13:11Z"
+    },
+    {
+      "professor": "Freddy Cisneros",
+      "course": "PHYS132",
+      "review": "He has got to be one of the worst physics TAs out there. He does not grade anything in a timely manner (in the 12th week of school he has only graded our first lab) and he does not know how to effectively communicate physics concepts to a group of students. He also is unresponsive to emails. If you have him I would suggest switching to another section. ",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2018-11-20T17:18:21Z"
+    },
+    {
+      "professor": "Matt Severson",
+      "course": "PHYS132",
+      "review": "Dr.Severson is a great professor. His teaching style isn't the best but he still manages to explain things clear enough. There are some instances were he would get confused since he is using another professor's teaching material. My biggest concern with his class was that since it was online when I took it, there were a lot of people cheating on his exams and it showed on the averages. We had 2 midterms and the average on each of them was ~80% which is very high considering the difficulty of the exams. While this was not entirely Dr. Severson's fault, this could have been prevented if he had muted the exams after it was completed. When I took the class, he had it where you had the whole weekend to take the exam with about 75 minutes to complete it once you start it. When you finished the exam, it would tell you what you got wrong and the correct answers to the questions. This allowed some people in our class to cheat artificially raising the average and almost lowering the curve/cutoff.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2021-05-24T13:41:41Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS132",
+      "review": "This class is a dub. Even though my man is the epitome of laizefaire, the class is an absolute W.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-08-26T21:03:56Z"
+    },
+    {
+      "professor": "Matt Severson",
+      "course": "PHYS132",
+      "review": "He curves which is a blessing but this class is just rough. I have no clue what I'm gonna get in this class and I have never been so lost in my life. I plan on dropping pre-med after this semester, this class was the last straw and it made me realize just how exhausted I am. I can't wait till the semester is over. Take 121 if you can. ",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2022-04-26T01:55:00Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS132",
+      "review": "I always enjoy his lectures, even though I've never liked physics much, because he does a good job of incorporating a lot of examples and practice problems. The class is definitely doable - he has lots of Tophat questions for completion that help boost your grade, and the hws and labs, while tedious, aren't too bad if you work with others or go to course center hours. Exams aren't too hard, they're usually similar to many of hws and old exam practice problems. Buehrle's a very nice and understanding professor - when one of our exam averages was pretty low this semester, he gave us the opportunity to make up points on a couple of the problems, which I really appreciated as not many STEM professors will do this. Glad I got to take his course for 131/132.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-12-16T19:00:30.605189Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS132",
+      "review": "Dr. Buehrle is seriously one of the best people, and professors you can have as a student at this University. It is rare to find a professor who is not only genuinely passionate about the material they teach but also about the students they teach it to. Dr. B is very accommodating of students' needs and will do anything in his power to ensure they succeed. I highly recommend taking any class he teaches.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2022-12-17T23:28:39.085506Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS132",
+      "review": "Dave Buehrle is a legend. He may seem intimidating at first through lecture or email, but I promise you he is a genuinely nice professor and person. His lecture is engaging and interesting, and I promise you will learn a lot of useful information. The grading is setup so that as long as you put in effort you will NOT fail. I'm not sure what these other reviews are about, but definitely chose this professor and come ready to class.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-12-26T04:57:49.688882Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS132",
+      "review": "Phys132 was very disorganized. The lectures, labs, homeworks, exams, and textbook were all out of sync with each other. The material in the 2nd half of the semester was poorly taught, not enough examples to prepare for assignments. Easy A but did not learn a lot.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2023-01-05T20:59:48.931580Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS132",
+      "review": "Actually the worst professor of the worst class ever. Everything in this class is a mess. None of the material is relevant to the tests, and the tests are not meant to be answered by students of this class. Most people will get an A, if that's what you're worried about. But if you want to actually learn physics DO NOT take this class.\r\nThe absolute WOAT",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2023-01-26T21:39:26.010663Z"
+    },
+    {
+      "professor": "Wolfgang Losert",
+      "course": "PHYS132",
+      "review": "I highly recommend Dr. Losert. This was his first time teaching this class in years and he had no trouble diving back in. He is a very passionate lecturer and always takes time to answer everyone\u2019s questions during class. He is very receptive to feedback and always ready to help when you email him. Homework and Tophat questions were fair, on exams he allows you to make a front and back equation sheet. Both the exams and your overall grade are curved at least 10%, so it\u2019s difficult to get a low score in the class. Exams are only 35% of the grade, so there is a much greater emphasis on your textbook questions, lab participation, and homework.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-03-08T15:27:34.121099Z"
+    },
+    {
+      "professor": "Wolfgang Losert",
+      "course": "PHYS132",
+      "review": "He\u2019s a great professor who's always willing to answer questions and provide help. If you put in effort you'll get an A.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-22T23:11:15.846417Z"
+    },
+    {
+      "professor": "Wolfgang Losert",
+      "course": "PHYS132",
+      "review": "He\u2019s a great professor! He made the class funny with his demos and tried his best to make all the hard concepts easy. I would definitely recommend him to everyone as he made physics fun.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-29T23:09:40.842724Z"
+    },
+    {
+      "professor": "Matt Severson",
+      "course": "PHYS132",
+      "review": "Exams are really easy if you study the practice problems and practice exam. Lectures are a bit hard to understand because it gets really boring but, he records them. The curve + opportunities to get a good grade in this class make it very easy to do well. Just do all the hw assignments and tophat questions.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-11-01T01:18:03.280352Z"
+    },
+    {
+      "professor": "Matt Severson",
+      "course": "PHYS132",
+      "review": "Cool guy but it's pretty obvious that he hates teaching this course. The best way to get to know him is to go to his office hours. He's a bit impatient and won't sugarcoat things when he explains concepts, but he knows what he's talking about. If you ask the right questions he can be very helpful. I personally highly recommend going to the TA office hours whenever you get the chance. They'll be more willing to hold your hand for a lot of these more complicated concepts and explain things in more intuitive ways (which I personally needed and I know a lot of students appreciated). While this course has a very generous curve and the assignments are a great buffer, the content itself can be very complicated depending on how well you want to understand it. Don't just brush off the content because it'll haunt you on the MCAT.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2023-12-24T00:50:47.389053Z"
+    },
+    {
+      "professor": "Wolfgang Losert",
+      "course": "PHYS132",
+      "review": "prof is chill, make sure you do the clickers. class is 'mandatory' because of the clickers. exams are annoying but the curve is insane. for the second exam, a 75 was curved to a 93-ish. decent professor but rlly boring lecture, he loves his work but the content in class and the content on the exams are very irregular and don't match up.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2024-01-29T20:08:17.130560Z"
+    },
+    {
+      "professor": "Matt Severson",
+      "course": "PHYS132",
+      "review": "The class itself is hard but Severson curves based on a standard curve, has practice exams and records class. Participation credit is open for 24hrs so you don't have to go. The lab sucks but that's just phys lab. ExpertTA HW each week. I don't think you get options for a phys class for bio major but regardless he's aight. Also has a couple of dropped tophat questions. Cheat sheet for test but tbh the material is hard and there's so much that it's hard to prepare well. That said exams don't count for everything in this class.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-04-30T21:00:03.101330Z"
+    },
+    {
+      "professor": "Wolfgang Losert",
+      "course": "PHYS132",
+      "review": "Losert is a good professor. I just hate the life science physics classes. Losert is passionate about physics and he can be funny at times as well. However, the head TA taught 1/3 of the lectures because Losert was at a conference like every other week. He does TopHat questions just like 131, and some of them are graded for accuracy, but he'll literally tell you the answers in class so as long as you're there, you will get it right. ExpertTA homework was time consuming and annoying. \r\n\r\nIt's literally impossible to fail this class. You don't need to know anything about the content going into the exams because you get a double-sided formula sheet and the curve is insane, and you can bs enough to get a solid grade. Also, the exams have retakes, where your new grade is the average of the original and the retake (although I've heard the retakes are much harder). Exam 2 was nothing like the practice. \r\n\r\nLabs are easier than 131 - once you get through the couple of harder lab reports at the beginning, the rest are easy and don't require a whole lab report - just answering questions. It's also highly dependent on if your group members actually do the work. \r\n\r\nOverall, I've learned nothing in this class. 131 and 132 are a joke. I would've been better off taking the non-life science physics courses.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2024-11-22T17:29:39.918527Z"
+    },
+    {
+      "professor": "Matt Severson",
+      "course": "PHYS132",
+      "review": "Severson is an extremely lazy professor. You legitimately get nothing from going to the in-person lectures, he records them and leaves the TopHat clicker questions open for 48 hours. He consistently goes on his phone multiple times a lecture and you can really tell that he doesn\u2019t want to be teaching the class. The curve is really generous. You can score significantly below the mean on the exams and still end with a B or B+ in the class. Overall, take this class if you want a good grade, but don\u2019t expect to learn anything about physics. If you\u2019re studying for the MCAT, you may want to consider going with another professor who\u2019ll actually teach the class, otherwise you\u2019re going to be stuck self-studying.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2024-12-23T02:26:23.790871Z"
+    },
+    {
+      "professor": "Matt Severson",
+      "course": "PHYS132",
+      "review": "This class is whatever. Physics itself is cool, but like a joke, once you explain it, it loses its silliness. \r\n\r\nPROS\r\n- His exams are fair, he gives partial credit, and regrades are available. He also offers to retake the exam, but just an inside tip in case he doesn't mention it... don't do it. He said statistics show most people don't do much better, and since he takes the average of both exams, it doesn't really help.... so why does he offer it??? lol\r\n- The exam content matches up to his slides, HW problems, and somewhat to his practice exam. \r\n- If you score above the mean, you get an A; otherwise, you have to score close to the mean to get a B on exams. \r\n- Go to office hours for homework 'help' (answers) and to clear up misunderstandings.\r\n- Records lectures\r\n- A lot of buffer points like PHYS131 \r\n- Attendance isn't mandatory, but there are TopHat questions that are free points that you'll miss out on\r\n\r\nCONS\r\n- Unfortunately, he's very monotone. Not as engaging, although he has his moments. Sit at the front if you need to force yourself to be engaged. \r\n- He's also a little unclear at explaining at times, which I blame more on the content being hard to explain \r\n- There's a good bit of outside reading and homework assigned, so prepare for that. \r\n- Have to pay for TopHat AND ExpertTA :(  RIP my wallet. \r\n- The HW has point deductions, so don't just guess. \r\n- Lab is so much work, also half of the materials used never work, like the computers or microscopes or cameras or software or or or....\r\n- Lab can also be difficult, but it depends on the TA, mine unfortunately wasn't all that helpful",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-03-28T14:50:19.249557Z"
+    },
+    {
+      "professor": "Fahad Shaikh",
+      "course": "PHYS132",
+      "review": "Fahad was a great TA! He is very knowledgeable and always happy to help. He is also super understanding and flexible with deadlines. His recitations were always helpful for reinforcing content from class. Even though our lab was at 8am, he always brought positive energy. Definitely lucky to have him as a TA!",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-05-03T00:05:26.519162Z"
+    },
+    {
+      "professor": "Matt Severson",
+      "course": "PHYS132",
+      "review": "He is way better than burhle in my opinion he teaches way better and goes very slowly so you can get the concepts. His hw and exams are really doable and nothing really surprises you even when harder concepts are applied. His curves are not that good however they are very standard based and it really relies on how the class does. Our class had a class average of 70-75 which is pretty high for phys compared to 131. The only thing about him is he is extremely lazy which can be a double edged sword as he will almost always forget to post hw solutions or post wrong solutions are for different problems which can be unhelpful but also sometimes he uses those different problems on his exams. As for study tips \r\n\r\n- Use nexus problems as extra practice \r\n- Try your best to grasp the concept of the hw and concepts of the lecture",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-05-22T02:04:07.308976Z"
+    },
+    {
+      "professor": "Matt Severson",
+      "course": "PHYS132",
+      "review": "I found PHYS132 to be easier than PHYS131.  Severson is definitely a little lazy, and he doesn't really seem to care about some of the topics that come early in the course (like thermodynamics).  But when it gets to waves and sound and light, he is pretty passionate about those and does cool demos, but most of the class has stopped showing up at that point.  Exams are much easier than 131, the problems are straightforward and comparable to the HWs (more solving, less conceptual, thankfully).  This does logically mean that the curve isn't as good as 131.  A lot of buffer points again in this class with the annoying labs and weekly HWs.  There are tophat questions but they stay open for at least a day after lecture in case you miss it.  Definitely review the HWs and practice exams for the exams, some questions come right from there or are slightly modified.  Overall pretty chill class and Severson is a solid 4 star professor.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-05-22T13:28:49.834330Z"
+    },
+    {
+      "professor": "Matt Severson",
+      "course": "PHYS132",
+      "review": "I didn't take PHYS131, so I was a little worried about how I would do in this class, but it was surprisingly simple. The lectures have all of the information you need to take the exams and complete the homework, so I didn't need to review any 131 topics that might not be covered in a conventional physics class. Dr. Severson was a good lecturer; he spoke slowly and clearly and sometimes drew diagrams to assist his explanations. I think he gives a little too much time to answer clicker questions, but they're nice as a brain break, and he explains the answers afterward. He's not the most passionate teacher and tends to read off the slides, but most of the class is just here for the credit anyway. He records his lectures. Attendance is not mandatory, and the in-lecture clicker questions can be completed outside of lecture.\r\n\r\nDoing the lab reports was a bit of a challenge since I wasn't used to their format, but I had good teammates who knew what they were doing, and I learned through observation. If you took PHYS131, the lab reports are in the same tedious format. Make sure you pay attention to the rubrics for the lab reports and try to do the modeling section in lab so you can ask the TA questions. The last couple of lab reports were easier than the first ones since they had you answer specific questions instead of a conventional report. All the lab reports were completed in groups, so make sure you pick good teammates. The lab scores get normalized at the end of the semester, so some people ended up with over 100% for their lab grade. There is a recitation you're supposed to complete each lab that's graded for participation, but some TAs don't really care if you do them. Lab content has no bearing on the exams.\r\n\r\nOther than lab reports, the only other assignments we have are the Expert TA homework and the TopHat clicker questions, both of which you have to pay for. The clicker questions (both in-lecture and for homework) are generally graded for completion. Sometimes there are TopHat quizzes in lecture graded for accuracy, but Dr. Severson warns you about them ahead of time, and they're not difficult. You can also talk to your classmates to verify answers. The Expert TA questions are graded for accuracy, so I'd recommend completing them on a sheet of paper, verifying your answers with a TA, then submitting them online. There are 10 graded Expert TA assignments, and some are longer than others, so make sure to check them before deciding to do them last minute.\r\n\r\nThere are 3 exams total (2 midterms and a final), with the final worth 17% of your grade and each midterm worth 14%. All the content you need to know is covered in the lecture, so I didn't really use the textbook to study. To prepare for exams, I went over my notes, reviewed the Expert TA assignments, and completed the practice exams. The Expert TA questions and the practice exam are pretty close in format and difficulty to the actual exam questions. The midterms have retakes, where your final score is an average of your original exam score and the retake score, so I'd recommend only taking the retake if you did really badly on the original. Dr. Severson is pretty accommodating about finding times for the retakes, but I've heard that the retakes are a little harder than the original exams. The final focuses on the topics covered in the last portion of the semester, but there is a cumulative component as well. Dr. Severson gives out a list of topics to review for the cumulative part, so you don't have to relearn the whole class. All the exams have a lot of partial credit, so always show your work. Exams consist of multiple-choice, short-answer, calculation, long-answer, and estimation questions. You should have enough time to complete the exam within the allotted time; I usually finish a few minutes early. Midterm solutions are posted as a video walkthrough explaining them, which is helpful for studying for the final.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-05-25T09:04:43.113416Z"
+    },
+    {
+      "professor": "Matt Severson",
+      "course": "PHYS132",
+      "review": "Overall class was okay. So glad I'm done with physics, although because the overall physics for life sciences sequence is not taught well, I know I'll need to review it pretty well for the MCAT. I, and many other peers, found it hard to pay attention in lecture, and it was difficult being behind with the content to the point where our 2nd exam was pushed back. The first 30 minutes of class would be repeating what was said last class, which was helpful sometimes (like when rewatching) but I feel pushed us back a lot. Homework is ExpertTA and like 131, except you have to be careful because you lose points for wrong answers. TopHat was also fine; if you forgot some they got dropped which was nice. Additionally, Severson gives you soooo much time for the TopHat quiz questions in class, there was no difficulty with them. Exams felt easier than Buerhle's (PHYS131), but not to be underestimated. Rewatching the lecture videos and doing practice problems online really helped me succeed on the 2nd and final exams compared to the first. Grades are not curved up like 131 which threw me for a loop (since it is what I personally prefer), but instead there were cutoffs. I earned a B, A, and then A on the final and that was comfortably an A without cutoffs (>93). Overall cutoff for an A I believe was an 87, which I thought was fair for the class. Severson was funny sometimes and taught certain topics well (ex. mirrors) but also could be snippy over email and in announcements (which to be fair, some scenarios were justified). I heard from my peers that it was better to approach him in office hours if there were any questions, as he would be more lenient. I saw many peers also go to TA office hours for homework guidance which I heard was very helpful. Overall, I have no crazy gripes about Severson, he's just your standard physics professor. Something else I noticed was that overall exam grading was extremely inconsistent over the two midterms, which was pretty upsetting. Additionally, labs and recitation were so pointless, to the point where it felt almost laughable that it was this much work for a 100 level class. My other upper level STEM labs were easier, and I felt like I got more out of them. My TA (Corey) was also extremely condescending and hard to approach, with an unnecessary number of points taken off many times throughout the semester (something common for all the lab groups I talked to), despite us asking for guidance on the rubric. He was unnecessarily harsh and his overall demeanor suggested he hated what he was doing. I would urge him to seek out not TA-ing if he can't treat his students with respect and leave behind his general unpleasant demeanor. All in all, lab was unclear, confusing, pointless, and honestly a huge pain to be in for 2-3 hours every week. Again, I'm happy to be done with physics but it's hard to tell how much I've learned. Severson is definitely a better professor than Buerhle and his exam style demanded more mastery of the content/theory (as opposed to just plug and chug) which is a double-edged sword but perhaps better in the long term. If I was just evaluating Severson, would have probably given 3 stars, but because I'm considering the class as a whole, 2 stars it is.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2025-05-27T14:43:49.384049Z"
+    },
+    {
+      "professor": "Matt Severson",
+      "course": "PHYS132",
+      "review": "The class was easy and just a continuation of 131, though I much preferred 132 over 131. \r\n\r\nAs for Severson, I found him funny and good at explaining things. While he has little patience for some aspects of the class (openly says he is tired of teaching thermo... valid imo) or students who don't try at all (also valid), he is actually really nice if you ask him a genuine question and he gives lots of real life examples during lectures. Only thing is lectures can be dry in real-time because he speaks fairly slowly, but he records all lectures!\r\n\r\nMy advice: Watch recorded lectures on 2x speed, print out and annotate and practice with the equation sheet throughout the semester, and don't be afraid to ask Severson a question about the material if you don't understand. You'll be ok!",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-07-07T01:42:31.245382Z"
+    },
+    {
+      "professor": "Matt Severson",
+      "course": "PHYS132",
+      "review": "My advice for this class: Sverson is probably a great teacher if you have a \u201cphysics brain,\u201d but a lot of people don\u2019t, and that\u2019s totally okay. The labs are much easier than PHYS131 but the recitations are on Top Hat, so you technically have to go\u2026 I don\u2019t think anyone checks them.\r\nThe teaching is fine and there are a ton of Top Hat questions, but you don\u2019t actually have to be in class to do them since they\u2019re assigned and due 24 hours later. Lectures are recorded, so you could realistically show up only for the exams if you wanted to, which is exactly what a lot of students did. The content itself is weird, and the tests are very similar to PHYS131 in the sense that you get tested on things you haven\u2019t really seen before, but with a good curve and a couple days of studying before each exam, you should be okay.\r\nSvereson is an interesting guy. He clearly loves physics, and he is very, very chill about everything, which honestly helps. He just wants things to work and make sense. Sometimes he can be monotone in lecture and seem like he does not care, but when he does care, it\u2019s actually kind of fun to watch him with his little demonstrations.\r\nHe gives a premade formula sheet for every exam, so definitely print it out early and use it to study so you already know where everything is during the actual test. Overall, weird class, chill professor, manageable if you study.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-12-23T15:30:58.614236Z"
+    },
+    {
+      "professor": "Wolfgang Losert",
+      "course": "PHYS132",
+      "review": "Physics 132 with Losert is unfortunately, the best way of taking a physics 2 class without having to do calculus. I don\u2019t remember learning much of anything from either 131 or 132, except for basic conceptual information (but any formulas we learned have completely vanished from my head). No matter which Phys132 professor you take, both are fine, and it's really the actual class material and structure that many students have problems with.\r\n\r\nExam 1 had continuation of material from Phys131. Losert made it pretty difficult and not similar to any of the practice exams he has posted on the material. That\u2019s fine, though, as the entire class did poor, and he added 10 points to everyone\u2019s score after the exam. There are always areas where you can essentially get free points on the exam too (essay questions) that, if you write anything remotely close to the topic they ask you, you get full points. Exam 2 was also quite difficult, but again, the class got a 10-point raw curve to everyone\u2019s score, so I actually ended up with a 91%, which was pretty good compared to everyone else. Overall, the exams aren\u2019t worth much in the gradebook (only 20% of the class grade was the midterms) so don\u2019t stress too much. They are also very liberal with partial credit, so even if you just write the formula and some work, they try to give you points. Every exam, including the final, allows you a formula sheet. I recommend just making a sheet for exam 1 on 1/3 of the page and adding to it for each exam, so you don\u2019t have to redo it for the final. \r\n\r\nWeekly Expert TA Homework - 20%, In-Class Midterm Exams (2) - 20%, Final Exam - 20%, TopHat (RQs, Lecture Participation, Quizzes) - 20%, Lab Reports - 12%, Recitation/Lab Participation - 8%.\r\n\r\nThe final was difficult, with a heavy emphasis on what we learned after exam 2 (50% of the material was new). I found it quite challenging again, and I didn\u2019t really come up with a real answer for probably 25% of the problems. I ended up with a 88% on the final so I'm sure I got a ton of partial credit. \r\n\r\nExpert TA is awful, and unfortunately, in Phys132, it deducts points for incorrect attempts, so be careful about submitting answers. ChatGPT can get a few of the questions correct if you\u2019re stuck, but sometimes nobody in the entire class, including AI, could answer them correctly. TopHat questions in lecture were there for participation and occasionally for accuracy, but he would always tell us which were for accuracy and would let us change our answers after discussion occasionally. Lectures are recorded, but just go to class to listen passively and do the tophats. He\u2019s an interesting guy and also brought a bunch of cool demos for us to see.\r\n\r\nThe first couple of lab reports are full-length formatted and time-consuming, but towards the end, they just give you questions to answer, and you turn in your answers in a document. Recitations for lab are before every class -- they were also really difficult at times, and thankfully, they were graded for completion/effort. The labs in general are really difficult to get to work correctly, especially working with ImageJ and calculating velocities and stuff with the microscopes. Usually, the TA would get it working for 1 or 2 of the groups, and we would share data at the end of class. Labs overall just 1. depend on your TA and 2. are pretty long and tiresome overall.\r\n\r\nOverall an awful class, but Losert is a pretty good lecturer. He had some fun demos during the semester that kept you entertained. No matter the professor, Phys132 is slightly useless and I know that Losert would rather be teaching a more exciting course to a class more excited about physics, but everyone (including him) knows that this is a pre-med requirement, so just take him. I ended with an A, and most people do too.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2026-01-01T14:54:10.327721Z"
+    },
+    {
+      "professor": "Matt Severson",
+      "course": "PHYS132",
+      "review": "I didn't learn anything in this class. But, the % distributions will save you. On the exams i got a C, B, and a C on the final and still got an A (cutoff was 87% and I was still at a 91 from the homework, participation, and labs buffering my grade). Done slack on the easy points cause this class is truly an easy A.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2026-01-10T02:08:46.138521Z"
+    }
+  ],
+  "department": "PHYS",
+  "course_number": "132",
+  "name": "PHYS132",
+  "title": "Fundamentals of Physics for Life Sciences II",
+  "credits": 4,
+  "description": "<b>Prerequisite:</b> PHYS131; or students who have taken courses with comparable content may contact the department.\n<b>Credit only granted for:</b> PHYS122, PHYS132, or PHYS332.\nThe second part of a two-semester course in general physics specifically oriented towards applications relevant for students in biology and pre-medical programs. The course covers basic statistical physics, electricity and magnetism, and optics done in authentic biological contexts.\n<i>Students must pay a $50.00 lab materials fee.</i>",
+  "is_recent": true,
+  "geneds": null
+}

@@ -1,0 +1,17 @@
+{
+  "average_gpa": 3.6874999999999996,
+  "professors": [
+    "Jerry Wu",
+    "Jerry Wu",
+    "Jerry Wu"
+  ],
+  "reviews": [],
+  "department": "MSML",
+  "course_number": "642",
+  "name": "MSML642",
+  "title": "Robotics",
+  "credits": 3,
+  "description": "An introduction to the design and programming of robotics systems. Topics include kinematics, differential motion and velocity, dynamics and forces. Sensors, actuators and drive systems. Trajectory planning and motion control systems, open-loop and closed-loop controllers, state estimation and Kalman filters. It will also discuss recent applications of machine learning to motion planning, grasping, manipulation, and related areas.",
+  "is_recent": true,
+  "geneds": null
+}

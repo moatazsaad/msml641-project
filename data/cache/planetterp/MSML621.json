@@ -1,0 +1,16 @@
+{
+  "average_gpa": 3.366666666666667,
+  "professors": [
+    "Marc Lichtman",
+    "Marc Lichtman"
+  ],
+  "reviews": [],
+  "department": "MSML",
+  "course_number": "621",
+  "name": "MSML621",
+  "title": "Machine Learning for Wireless Communications",
+  "credits": 3,
+  "description": "This course provides an introduction to the fundamental concepts of wireless communications and how machine learning can be applied to the domain.  Example applications include signal detection, modulation classification, spectrum sensing, cellular network optimization, and cognitive radio.  In addition, students will get hands-on experience using software-defined radios to explore the RF spectrum around them and detect/classify different types of signals.  Topics include sampling, filtering, frequency domain/FFTs, digital modulation, cellular/IoT technologies, and how supervised, unsupervised, and reinforcement learning can be applied to these topics.",
+  "is_recent": true,
+  "geneds": null
+}

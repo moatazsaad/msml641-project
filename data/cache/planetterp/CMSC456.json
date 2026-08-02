@@ -1,0 +1,534 @@
+{
+  "average_gpa": 2.3666666666666667,
+  "professors": [
+    "Jonathan Katz",
+    "James Schafer",
+    "Lawrence Washington",
+    "Jonathan Rosenberg",
+    "Jeffrey Adams",
+    "Samuel Ranellucci",
+    "William Gasarch",
+    "Dana Dachman-Soled",
+    "Nathan Manning",
+    "Gorjan Alagic",
+    "Charalampos Papamanthou",
+    "Wiseley Wong",
+    "Justin Wyss-Gallifent",
+    "Daniel Gottesman",
+    "Jeffrey Adams",
+    "Nathan Manning",
+    "Dana Dachman-Soled",
+    "Lawrence Washington",
+    "Daniel Gottesman",
+    "Allan Yashinski",
+    "Dana Dachman-Soled",
+    "Todd Rowland",
+    "Allan Yashinski",
+    "Dana Dachman-Soled",
+    "Gorjan Alagic",
+    "Wiseley Wong",
+    "Daniel Gottesman",
+    "Hatice Sahinoglu",
+    "Dana Dachman-Soled",
+    "Gorjan Alagic",
+    "Todd Rowland"
+  ],
+  "reviews": [
+    {
+      "professor": "Jonathan Katz",
+      "course": "CMSC456",
+      "review": "I give Dr. Katz a 4 out of 5 because, all things considered, he was a pretty good professor in a lot of ways.\n\r\nFirst of all, his lectures and the content of the course follow his textbook almost to the letter so you have something concrete that you can use to follow along with the course. That being said, I found the book to be a bit dry and ambiguous at certain points (especially the 3rd chapter) and it definitely took a lot of getting used to. Still, it's a pretty solid book (especially considering that it's the first proof based undergrad crypto textbook on the market) and Katz does a good job of following the content well.\n\r\nAnother of Katz's strengths is that he's VERY open to taking questions and will elegantly field even the dumbest possible questions you could ever imagine. In all seriousness though, he's always willing to take questions and clarify points. Given that crypto is a pretty comprehensive and complex subject this is very important and very helpful.\n\r\nNow for (what I thought were) the not-so-good aspects of Katz's teaching style. For one thing, I personally found  that the way he communicated just wasn't very easy to learn from. It wasn't just that the course was hard either -- I found that even when Katz lectured on stuff that I already knew that the message he was trying to get across was vague and difficult to wrap one's head around. It's hard to explain -- that's just how I felt about his teaching style.\n\r\nAlso, I felt that his homeworks were a huge pain and didn't really help very much to get across the content of the course. Most of the questions were taken from the exercises in the book and they took FOREVER and were graded pretty (to be frank, VERY) harshly by the TA.\n\r\nOverall, I recommend Katz for CMSC/MATH 456. I personally don't think he's the best lecturer out there but I learned a ton in his class and I know for a fact that you're going to learn a LOT more from him than you are from Fitzgerald or the other math crypto professor.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2012-12-26T01:36:00Z"
+    },
+    {
+      "professor": "Jonathan Katz",
+      "course": "CMSC456",
+      "review": "Professor: Seems like a great guy. He does his lectures on a whiteboard and doesn't post any notes online. As a whole his lectures are good and worth going too. He likes answering questions and will schedule a meeting with you if you need extra help (and ask for it). \n\r\nCoursework: We only had homework, the midterm, and the final. The homework's are challenging, are graded hard, and are a big part of your grade. I would recommend trying to team up with another person in class to work on them or to stop by the TA's office hours (I did neither). The midterm and the final were medium difficulty. He doesn't give any practice tests to study, so study the book and the book problems...hard.    \n\r\nGrades: He does some kinda of curve with the homework's, not sure what. The midterm and the final cut offs might be changed depending on how the class did overall. No extra work or credit will be given, so study hard for the midterm and the final. If you do badly on either, you have a good chance of failing the class.   \n\r\nBottom Line? Don't underestimate the homework's or the tests and you can do well in this class. My C grade was due to a poor midterm grade and some of my poor homework grades. This is a great senior class because of the low workload (homework's are spaced around with one to two weeks breaks in between, and you only have two tests). But don't take this class if your the type that does badly on tests.",
+      "rating": 4,
+      "expected_grade": "C",
+      "created": "2012-12-23T04:17:00Z"
+    },
+    {
+      "professor": "Jonathan Rosenberg",
+      "course": "CMSC456",
+      "review": "He's alright, I suppose.  \n\r\nThere were \r\n- 11 homeworks worth a total of 20%. He dropped the lowest one. \r\n- 2 midterms worth 20% each \r\n- The final exam was worth 35%. \r\n- 2 simple online quizzes on Elms worth a total of 5%.\r\nAll the grades were kept up to date on Elms, which is nice.\n\r\nI did go to lectures and took notes most of the time, but I felt like I took notes just for the sake of it. I never really looked over them, because I felt he was just reiterating what was in the book sometimes. He did do examples though. One lecture I realized he was introducing something we had just done for homework as if he wasn't aware of the homework at all. I suppose a TA grades it. \n\r\nThe homework was kind of easy, with a few problems requiring Matlab. He had the useful M files on Elms. I learned mostly from the book and Google...\n\r\nThe only issue was his exams. The questions were pretty tricky. None of them were really similar to any homework or previous exam. You had know the topics pretty well and even then you had to think pretty hard for a bit to try and work out some of these problems. I felt some of them were riddles really. Another thing is there were a lot of topics and cryptosystems to study for... a lot of tricky modular arithmetic and number theory involving factoring, Fermat, primality, and whatnot. \n\r\nThe final was pretty nasty. I felt like I had pretty much failed the course after time was up. It was 200 points. There were only about 20, maybe 30 points worth of problems I felt confident about. The class average for it was 108 (out of 200). \n\r\nI guess it's okay though because apparently no one got below C- with overall final scores ranging from 43% to 90%, an average of 67, and a standard deviation of 12.8 for 27 students. So it's a huge curve for this class at least. It's quite a relief because I needed this to graduate. \n\r\nIt's weird because I was really wondering. A few people almost never showed up to class, and I think this one guy only showed up for the exams. ",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2013-05-20T16:37:00Z"
+    },
+    {
+      "professor": "Aravind Srinivasan",
+      "course": "CMSC456",
+      "review": "He seems nice and caring.\n\r\nBut don't expect him to be nice on grade. He will fail you regardless of what situation you are in...even if it's your last semester ever, he will make you stay.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2011-12-20T18:49:00Z"
+    },
+    {
+      "professor": "Aravind Srinivasan",
+      "course": "CMSC456",
+      "review": "Very reasonable guy.  He's very open to questions and dedicates fridays to recapping what he over the prior week and for student questions (no one takes advantage of this).\n\r\nAs for exams, he is incredibly reasonable.  As long as you attend class regularly, you don't even have to study for the exam.  He focuses more on the general idea more than anything else.  I can't say that I found the course itself too interesting (CMSC414, which I took the same semester, had a section about crypto that basically went over anything I was interested in), but the course was pretty good in conjunction with CMSC414.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2009-12-19T22:07:00Z"
+    },
+    {
+      "professor": "Aravind Srinivasan",
+      "course": "CMSC456",
+      "review": "He is a good lecturer and is very open to students' questions. The homework is very hard (even if you know the material very well) but the tests are VERY easy. He curves the grades so that the median is somewhere around a C+/B-.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2008-12-29T19:10:00Z"
+    },
+    {
+      "professor": "Aravind Srinivasan",
+      "course": "CMSC456",
+      "review": "Does a good job at teaching. He answers any questions about the proofs, theorems, and constructions during lectures. He also references some real world examples outside the course work to keep the class interested. Exams were very easy (20min midterm, 40min final) if you studied the material and did well on the homeworks. Homeworks may be ridiculously difficult at times but the challenges was certainly enjoyed.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2008-12-28T22:18:00Z"
+    },
+    {
+      "professor": "Lawrence Washington",
+      "course": "CMSC456",
+      "review": "Dr. Washington was great and the nicest professor. He was interesting everyday and had his material ready. Unfortunately, he had generally low standards for how much material to cover in the class, and if you really want to take cryptology to know the material at an advanced level, don't take it with him. If you want to take it for fun and to learn a few things about cryptology, take it with him, because you will learn!",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2013-12-23T19:30:00Z"
+    },
+    {
+      "professor": "Jeffrey Adams",
+      "course": "CMSC456",
+      "review": "Adams was an all around wonderful professor and this class was my favorite of the semester.  It's a tough course, with an estimate 5-10 hours needed per week to master the homework problems and material.  Thankfully, Adams did very well explaining concepts and helping the students through problems.  He's a really nice guy (with a relaxed teaching style) who was very helpful during office hours.  He was also lenient when it came to a late homework once in a while or toward emergencies.  Frankly, he's just a nice guy that loves teaching Cryptology.  There are weekly homework assignments with reasonable due dates and two midterms and a final (no quizzes).  I found the exams tough, but struggled with the material throughout the course.  For some reason, the course material clicked toward the end and I started to see the \"big picture.\"  Adams does a nice curve and does everything he can to make sure everyone passes (i.e. possibly dropping a poor exam grade if you do good on the other one).  \n\r\nTaking number theory (Math 406) is not mandatory for this class as Adams covers the topics from number theory that are needed.  It will obviously put you ahead of the curve if you've taken such a class, but you won't be behind if you didn't.  \n\r\nThis review covers Cmsc 456 and Math 456 as they are the same course.      ",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2009-07-23T23:50:00Z"
+    },
+    {
+      "professor": "Lawrence Washington",
+      "course": "CMSC456",
+      "review": "Dr. Washington is an amazing professor!\r\n\r\nHe teaches concepts very clearly, is a super nice guy. He's very understanding about workload and will give you any extensions you need. Exams are very fair, and I had fun putting in what work I could to learn the material (I was also taking cmsc414 and cmsc320 that semester). Definitely take a class with him before you graduate!",
+      "rating": 5,
+      "expected_grade": "C",
+      "created": "2018-06-11T16:38:54Z"
+    },
+    {
+      "professor": "William Gasarch",
+      "course": "CMSC456",
+      "review": "He is THE man. Great guy, super funny and he really cares about his students. His homeworks are also fair, challenging but not impossible. He's also good about explaining everything until you understand",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2018-10-19T03:36:53Z"
+    },
+    {
+      "professor": "Lawrence Washington",
+      "course": "CMSC456",
+      "review": "Best professor I ever had. Posts Panopto recordings and uploads his notes onto ELMS, very fair exams and not a lot of HW. Such a nice guy as well. 10/10 recommend",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2019-05-19T06:09:52Z"
+    },
+    {
+      "professor": "Gorjan Alagic",
+      "course": "CMSC456",
+      "review": "Wouldn't recommend, his lecture slides are terrible for someone trying to learn the course content. I've skipped class the past few weeks now and have been learning the same content from elsewhere online because they are explained in easier terms, without all the confusing notation. His teaching style is fairly decent though, as he speaks clearly and reiterates a lot of the content to try to help you understand.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2020-02-26T00:38:55Z"
+    },
+    {
+      "professor": "Nathan Manning",
+      "course": "CMSC456",
+      "review": "(spring 2020, ~ second half online due to COVID-19, expecting A/A+ but also P since I will P/F all my classes)\r\nI was going to rate 4/5, but Dr. Manning handled the shift to the online format really well, so 5/5.\r\nThe first midterm (in-class) was made really easy (mathematically) since a lot of CS majors don't have the sufficient proof-writing experience. Similarly some lectures could be really boring due to the need to explain some math concepts that some CS majors aren't familiar with (e.g. basic linear algebra).\r\nNote that on PlanetTerp (as of writing this) MATH456 has an average GPA of 2.93 while CMSC456 has an average GPA of 2.37 even though they are the same class (only math majors / cs+math double majors can register for the class as MATH456).\r\n\r\nAfter the class was shifted online due to COVID-19, Dr. Manning provided recorded videos (much better than forcing students to virtually attend at fixed times) and the second midterm was a ~week-long mix of theoretical questions and programming (implementing some of the algorithms described in the lectures).",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2020-05-11T23:07:24Z"
+    },
+    {
+      "professor": "Gorjan Alagic",
+      "course": "CMSC456",
+      "review": "i mean, the course content is just hard in general. but i had trouble paying attention in lecture, i mostly self taught from the book, with guidance from the lecture slides. i will admit the lecture slides are good. i took this class during the COVID-19 pandemic and the transition to online learning was very smooth. homeworks can be hard but they aren't like 451 hard, and it's \"possible\" to do it in one day. work with other people...coming up with certain proof ideas can be hard on your own. ",
+      "rating": 3,
+      "expected_grade": "P",
+      "created": "2020-05-13T01:02:20Z"
+    },
+    {
+      "professor": "Jeffrey Adams",
+      "course": "CMSC456",
+      "review": "Adams has been super supportive and understanding this semester due to the online format. He made all midterms open note and take home with at least 24 hours to complete each one. For this semester, the final is optional if you're already satisfied with your grade. Adams is also good at stopping for student questions.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2020-12-16T03:41:39Z"
+    },
+    {
+      "professor": "William Gasarch",
+      "course": "CMSC456",
+      "review": "Bill G is the GOAT!  He is super friendly and great at teaching the material in a way that is understandable.  Homeworks and exams are sometimes tricky but aren't impossible if you understand the material from class.  We had a handful of guest lectures this semester as a \"break\" from the normal material.  Overall, he's fantastic and I'd take another course with him in a heartbeat.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2020-12-29T23:13:26Z"
+    },
+    {
+      "professor": "William Gasarch",
+      "course": "CMSC456",
+      "review": "Course was easy and interesting at the same time, Bill was funny and taught the material in a super understandable way. Would easily take another course with him",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-01-15T04:20:40Z"
+    },
+    {
+      "professor": "William Gasarch",
+      "course": "CMSC456",
+      "review": "Very WEIRD profesor who typos a lot. Not sure why he is a computer science professor when all he does is MATH.\r\n\r\nAfter 5 months he still doesnt know my NAME.\r\n\r\nI am surprised he is alowed to make bets with students.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2021-04-30T23:09:29Z"
+    },
+    {
+      "professor": "Charalampos Papamanthou",
+      "course": "CMSC456",
+      "review": "The grading in this class is significantly harsher than Washington's Cryptography section (class average was 79.5% while Washington historically averages ~87% and we did not get a curve. In addition, Dr. Papamanthou did not hold us back from the mathematical rigor that a cryptography course should have. Homeworks and course content are proof-based and taught rigorously. Having a good understanding of proofs will likely make this course much easier.\r\n\r\nThat being said, I felt like Dr. Papamanthou was a very good professor. He frequently stopped to ask questions in class and carefully answered all of them, trying to make sure everyone understood the material. The course content reflected content in corresponding chapters of the textbook, but his lectures definitely condensed the material and made it more digestible.\r\n\r\nOverall good professor, but I would suggest having a good understanding of proofs before taking this class. In addition, taking MATH406 Number Theory before or alongside this course makes the group theory part of the course much more understandable, in addition to helping you get used to proofs.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2021-06-04T21:59:18Z"
+    },
+    {
+      "professor": "William Gasarch",
+      "course": "CMSC456",
+      "review": "This was probably the easiest class I've ever taken. I literally only ever lost 10 points on one homework assignment all year; it is so easy to do super well in this class that I'm not even sure how you review it. I never went to lecture, so I'm not sure how much ill retain if anything, but got an easy A so take that as you may.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-12-24T18:38:05Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC456",
+      "review": "Unsurprisingly a great class. Nothing less expected from Justin.\r\n\r\nPros: \r\n+ Outstanding lectures\r\n+ Reasonable homeworks and coding assignments\r\n+ Fair exams\r\n+ Good grade distribution - nothing is too heavily weighted\r\n+ Responsive on Piazza\r\n+ Helpful overview of materials, was an appropriate amount of breadth\r\n\r\nCons (these are really meant to be constructive feedback):\r\n- There were some nontrivial mistakes on homeworks/notes/exams, which wasn't the end of the world, but did cost me time while taking the exam\r\n- Some of the Piazza responses could have been more civil\r\n\r\nTake a class with Justin if he's teaching it!",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2022-05-15T21:41:04Z"
+    },
+    {
+      "professor": "Jonathan Katz",
+      "course": "CMSC456",
+      "review": "Dr. Katz is pretty good. He is world renowned in cybersecurity and he literally wrote the book (one of them at least). That being said while he does a good job explaining, he does move a bit fast and covers more material than many of the other professors. Whether that is a pro or a con is for you to decide. His exams are a bit on the tough side also. Much of our class did pretty poor on the midterm and final, although only about 1/4 of the class actually came to lecture, so maybe that factored into it as well. \r\n\r\n The only real gripe I have is that he comes off as a bit rude via email and piazaza. Though in person and in office hours he isn't like this.\r\n\r\nOverall I'd say Dr Katz is a solid choice if you're willing to put in the effort and study the material.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2022-05-17T20:18:34Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC456",
+      "review": "as we all know Justin is a great professor and that was the case with cryptography. definitely learned a lot and he didn't make it harder or easier than it needed to be, which is amazing considering it's his first time teaching the course. as a teacher, there is nothing that I can complain about. there is a fair amount of work but I think it's reasonable for a 400 level course. \r\nI'm giving him 4 stars because I felt there were instances where he was rather curt/rude when responding on Piazza. maybe that wasn't his intention because he's always very kind in class, but that is how it came across on Piazza. also no recorded lectures which was kind of annoying (i think he just really hates anything to do with online school) but at least he posts his notes from class online.\r\noverall, great in terms of teaching so I would recommend",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2022-05-19T01:53:31Z"
+    },
+    {
+      "professor": "Dana Dachman-Soled",
+      "course": "CMSC456",
+      "review": "She is nice and a clear lecturer. She teaches from slides which generally have everything you need to know and does examples on the projector. The exams weren't trivial but were often similar to examples which were heavily emphasized in class.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2022-06-21T20:26:57Z"
+    },
+    {
+      "professor": "Daniel Gottesman",
+      "course": "CMSC456",
+      "review": "I'll be adding to this review by the end of the semester with more details, but please anyone who is thinking about signing up for a class with this guy... just DON'T. He teaches at his own pace without worrying about the students, every lecture is basically him going on and on just listening to the sound of his own voice. Students have made multiple Piazza suggestions about how to improve his lectures to be more understandable and he pretty much blatantly ignores them. We have a week to do each homework and when the class was able to solve all the problems on HW3, he was surprised and said that isn't normal, so he'll make sure to increase the difficulty in the future HWs this semester ??. To prepare for our midterm he won't give us answers to practice questions and his advice is to \"read the textbook\" to prepare for the exam. Especially if you are a CS major this guy is not for you, he teaches class like he has never heard of computer science and only cares about math and physics concepts.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2022-10-17T12:41:23.128688Z"
+    },
+    {
+      "professor": "Daniel Gottesman",
+      "course": "CMSC456",
+      "review": "This teacher is extremely poor at teaching.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2022-10-17T22:44:38.122583Z"
+    },
+    {
+      "professor": "Daniel Gottesman",
+      "course": "CMSC456",
+      "review": "This guy teaches undergrads as if they were PhD students. He has no clue what he\u2019s doing. This guy will spend 80% of review for midterm going over something that won\u2019t be on the midterm, but when we ask for examples of problems we need to be able to do, that\u2019s \u201cnot a good use of class time\u201d. He won\u2019t even use the doc cams because he personally doesn\u2019t like them. Do yourself a favor and steer clear of this clown.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2022-10-26T15:52:34.685167Z"
+    },
+    {
+      "professor": "Daniel Gottesman",
+      "course": "CMSC456",
+      "review": "The reviews posted by other people are honestly very disrespectful. This class is definitley very challenging, but these personal attacks are honestly ridiculous. Not fair at all to call your professor a 'clown' or whatever. As one of many hoping for a curve in this class, maybe blatant disrespect aint the way to go.",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2022-12-01T22:37:12.554912Z"
+    },
+    {
+      "professor": "Daniel Gottesman",
+      "course": "CMSC456",
+      "review": "The course is hard but some of the teaching decisions have just made it significantly harder, the grading policy is baffling (dropping the highest and lowest grades???) and then increasing the problem difficulty when people did well on a week's homework, we got practice problems for the midterm/final and then when we asked to have an answer key for them he said no???",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2022-12-14T22:41:40.253621Z"
+    },
+    {
+      "professor": "Daniel Gottesman",
+      "course": "CMSC456",
+      "review": "Do not take Gottesman for this class unless you want a semester of the teacher trying to prevent you from getting good scores on Homeworks and Exams. The way he drops your best homework grade and increases the homework difficulty when students are actually able to figure out the problems is mind boggling. This guy is extremely against any computer science in his class and actually baits students to try and use Python on the Homework, only to tell them after the fact that it's really impossible to solve the problem with Python so they just get the question wrong.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2022-12-15T19:56:04.602657Z"
+    },
+    {
+      "professor": "Daniel Gottesman",
+      "course": "CMSC456",
+      "review": "Anybody but this guy especially if its CMSC456, just wait another semester until an actual good prof is scheduled to teach this class. I came in excited to learn about Cryptography and I'm leaving hoping that I never have to do any Cryptography for the rest of my life",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2022-12-15T20:16:36.656693Z"
+    },
+    {
+      "professor": "Daniel Gottesman",
+      "course": "CMSC456",
+      "review": "His teaching style is exactly what he did in videos on youtube. To be more exact, his lecture is more like giving a seminar talk as opposed to teaching a class. He doesn't write when he explains something in the class. So, it is extremely difficult to follow the arguments, especially, when there are proofs and mathematical concepts involved. He treats us like experts and he doesn't review mathematical concepts that are not parts of the course's prerequisites. He expects us to already known the materials. Many students get lost but most of them did not drop the class b/c they believe in a generous curve. His exams tend to favor mathematical theories that are used in cryptography.\r\n\r\nHe said \"no pain no gain\", hey Daniel that thought is out of date! You need to make your student enjoying your class and still gain.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2022-12-19T20:46:16.455910Z"
+    },
+    {
+      "professor": "Daniel Gottesman",
+      "course": "CMSC456",
+      "review": "Class was very hard and lecture pace is difficult to follow along, however he did end up being very generous with the curve.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2022-12-23T22:43:12.123113Z"
+    },
+    {
+      "professor": "Daniel Gottesman",
+      "course": "CMSC456",
+      "review": "To be completely honest everyone on here is being too harsh and is failing to understand that this is a 400 level math class. Of course it\u2019s going to be hard. Sure it\u2019s going to even harder with a professor who has never taught the class before, but when the class is curved an entire letter grade at the end how can you complain. Professor Gottesman increased the quality of his slides significantly as the semester progressed and took class feedback seriously- something most professors don\u2019t do.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2022-12-28T16:32:51.575584Z"
+    },
+    {
+      "professor": "Lawrence Washington",
+      "course": "CMSC456",
+      "review": "Very nice and caring professor, one of my favorites I have ever had. He always has funny stories related to the different topics in the course that come up to keep you hooked during the lecture. Lecture notes are posted after every class and the course follows his textbook so you could self study if you REALLY wanted to. He is also a good lecturer and conveys topics in a digestible manner. There are usually 1 or 2 tricky questions on the homeworks, but him and the TAs will always help if you go to class or OH and ask about it. Lectures were not recorded this semester because the room does not have a camera, but I think he normally does. My biggest issue with the class is its way too focused on exams for grading. The final and two midterms make up 85% of your grade. The exams are fair, but I believe applying more elements of applied cryptography through programming instead of just math would be good. I am a CS major so I am biased in that regard.\r\n\r\nOverall you SHOULD take a course with him, but it sounds like he is retiring soon! Sad to see a professor with passion who genuinely cares about teaching preparing to leave :(",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2023-05-02T18:10:57.607228Z"
+    },
+    {
+      "professor": "Lawrence Washington",
+      "course": "CMSC456",
+      "review": "Great lecturer, very nice guy! Teaches very well but he is a little disorganized at times. Whether it was missing solutions on the keys for homework/exams or not posting lecture notes for weeks at a time, he made the course a little difficult to follow at times. I also was not a big fan of how exam heavy this class was being I believe 85-90% exams and 10% homework. Regardless though he is a very sweet and caring professor who lectures well. He is very reasonable with what he expects from you and is very clear in the topics he chooses to teach. I've heard this was his last time teaching undergrads but if you ever get a chance to take a course with him I would take it in a heartbeat.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2023-05-17T04:25:33.735288Z"
+    },
+    {
+      "professor": "Lawrence Washington",
+      "course": "CMSC456",
+      "review": "The actual GOAT and one of my favorite professors at this university. He's a fantastic lecturer (in-depth and engaging), takes care to answer questions (in-person/Piazza) and make material very easy to understand, and so on. I think he's retiring, but if he ever teaches again, I highly recommend taking the course with him.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-28T23:04:29.174226Z"
+    },
+    {
+      "professor": "Daniel Gottesman",
+      "course": "CMSC456",
+      "review": "Even though I complained a lot about the class at first, It turned out to not be so bad. His lectures are pretty dry and I ended up skipping most of them, but the lecture slides/textbook were enough to get me through the problem sets and midterm. Each problem set is out of 120 points, for a total of 1200 points in the category, but only 1000 of those points are counted. You could get 20 points off of every problem set and still get 100% overall, which helps a lot because the problem sets are fairly difficult. The exams work the same way, and are open note and open book. We've only had one programming assignment (in Python) so far which is disappointing. If you have strong math skills (especially with proofs) and are willing to put in the time then this class won't be too difficult. If 250 and 351 were a struggle for you, I would not take this class.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2023-11-07T19:57:03.580279Z"
+    },
+    {
+      "professor": "Daniel Gottesman",
+      "course": "CMSC456",
+      "review": "Not recommended at all, man. Never prepare before the class, just read slides.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2023-12-15T15:31:33.797503Z"
+    },
+    {
+      "professor": "Daniel Gottesman",
+      "course": "CMSC456",
+      "review": "Nice professor but lectures were proof-heavy and went into detail about every topic. He also did not do a good job of connecting the topics. Exams were open notes which helped. Problem sets were very hard, but doable, and don't have to get all of them right to get 100% (could work on them with other people). There were 2 python problem sets. He curved a lot at the end. C- was a 55",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2023-12-23T15:42:30.834952Z"
+    },
+    {
+      "professor": "Allan Yashinski",
+      "course": "CMSC456",
+      "review": "Lectures were recorded, and homeworks were fairly easy (graded really leniently). Exams seemed fair but lengthy, and nothing was really a surprise. Yashinski is the goat too :D",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-05-18T19:18:26.237560Z"
+    },
+    {
+      "professor": "Allan Yashinski",
+      "course": "CMSC456",
+      "review": "Great guy, great lectures, fair homeworks, and fair exams. Extremely easy-to-follow course that covers the mathematical theory of key cryptographic concepts, and Yashinski is a cutie who delivers it all in an extremely absorbable format.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-05-20T00:14:23.464064Z"
+    },
+    {
+      "professor": "Allan Yashinski",
+      "course": "CMSC456",
+      "review": "Allan is very good at explaining difficult concepts in my opinion. He's also able to gauge when the class isn't getting something and will take the time to re-explain. Note that his version of CMSC456 is purely a math class and includes little to no coding/technology (only for demonstrations). Exams are challenging but fair and he records lectures and posts practice material. I actually ended up finding this class very interesting and I did not expect to going in.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-06-25T20:58:59.643342Z"
+    },
+    {
+      "professor": "Todd Rowland",
+      "course": "CMSC456",
+      "review": "Super knowledgeable about this field, and also treats students really kindly. He's understanding of a lot of situations, and the exams were also easy. Highly recommend!",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2024-11-19T16:58:38.456273Z"
+    },
+    {
+      "professor": "Todd Rowland",
+      "course": "CMSC456",
+      "review": "Very nice guy and funny. Willing to help with problems and questions. Made the first 2 exams very easy and similar to the practice exam, but threw a curveball for exam 3, it was harder. The homework is tough but the entire class is just homework and exams with some free in class quizzes every Friday that you can work on with others.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-16T17:18:36.753415Z"
+    },
+    {
+      "professor": "Todd Rowland",
+      "course": "CMSC456",
+      "review": "Really chill professor. First two exams and final were very similar to the practice exams, although exam 3 was slightly harder. Homework was challenging, but not impossible and interesting.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-17T01:07:07.759595Z"
+    },
+    {
+      "professor": "Todd Rowland",
+      "course": "CMSC456",
+      "review": "really awesome professor, super funny, super based",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-17T04:57:07.593532Z"
+    },
+    {
+      "professor": "Todd Rowland",
+      "course": "CMSC456",
+      "review": "Great class. Teaching material was pretty good, detailed slides using wolfram. Todd worked at wolfram for 15 years, he was able to use it for lectures. Exams were fair, homework grading was easy and fast. \r\n\r\nReally goes to show that the math department actually cares about students. Thankfully this semester 456 was under control by the math department. If it was taught by CS it would have terrible teaching, terrible TAs, and terrible grades.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-17T21:06:58.576816Z"
+    },
+    {
+      "professor": "Gorjan Alagic",
+      "course": "CMSC456",
+      "review": "Amazing professor. First time in college I got a math course where concepts were explained and intuition was built up rather than just being given definitions and theorems and examples and proofs. He really builds up the concepts and the homeworks are very good at having us prove things that we use later - this meant that there wasn't much to study because \r\nIt's a rigorous proof-based math class so any low-star reviewers don't realize they need to put in more effort if this is not their strong suit (as it wasn't mine). If you're working really hard and still not getting the grade you want then you have to go to office hours to figure out what YOU'RE doing wrong (in fact Gorjan suggests you email him about this too). I did well because I went to office hours every or multiple times a week to find that I was doing the homework wrong and getting hints and spending time in a homework group with my peers. I eventually got the hang of it. The first homework took me like 12 hours but after that not that long. Most homeworks are <5 questions. I also had a pretty strong background in classical cryptography, which is only the first week of class, but it made things less overwhelming. Would definitely recommend a homework/study group but also spend time by yourself on the homework. Would recommend participating in class.\r\nThis is a VERY fascinating course and he has very good lectures, very good at making you think for yourself when answering questions, and everything is very fair. Textbook is not required but helpful to review the content a second time and learn about a few other things. I recommend reading the textbook AFTER the lecture on that topic because he explains things much more plainly than the textbook (for me doing it in reverse would mean I just kind of forget the content of the textbook, or I needlessly take notes on everything in the textbook and then the lecture would be kind of useless). \r\nHe doesn't grant extensions but that's to be fair. No one is entitled to a curve. No one is entitled to an extension. No one is entitled to a homework drop. \r\nGreat course and great professor!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-15T00:51:52.243034Z"
+    },
+    {
+      "professor": "Dana Dachman-Soled",
+      "course": "CMSC456",
+      "review": "This course had the potential to be much more engaging, but I found the content covered to be overly theoretical and not particularly useful in a practical context. While theory certainly has its place, the class focused almost exclusively on it, which made it difficult to stay engaged, especially when I heard that Professor Wiseley Wong\u2019s section explored more hands-on, practical topics.\r\n\r\nThere were daily in-class quizzes and homework assignments roughly every 2\u20133 weeks. I\u2019ll admit, the frequent quizzes encouraged consistent review, which did help me stay somewhat on track with the material. However, the lectures themselves were quite dry and didn\u2019t connect well to the homework assignments. To make matters worse, only 3 of the 6 homework assignments were graded by the end of the semester, which was frustrating.\r\n\r\nIn terms of performance metrics, the average final grade was around an 83. The first midterm average was a 76 (including extra credit), while the second midterm average dropped significantly to a 57. I think these averages reflect the general difficulty students had in understanding the course material.\r\n\r\nOverall, I\u2019d recommend taking this class with a different professor if you\u2019re looking for more practical applications. If you enjoy theoretical computer science and abstract concepts, Professor Dana might be a better fit for you.",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2025-05-23T16:22:24.510716Z"
+    },
+    {
+      "professor": "Gorjan Alagic",
+      "course": "CMSC456",
+      "review": "Pros:\r\n- Goes slowly during lecture, stops frequently to ask for questions, explains content very clearly (much more helpful than textbook imo, but the textbook is also good to read)\r\n- Posts lecture notes and lecture recordings online\r\n- Great TA; go to OH!\r\n- Making a comeback is doable; I got 50%'s on two homeworks and still got an A; make sure you go to OH, watch (and maybe rewatch) lectures and read lecture notes, and really understand how to do the HW problems\r\n- Final mostly consisted of problems from the midterm and the homeworks\r\nCons:\r\n- No easy homework problems. Every homework problem was quite difficult; it's like running a marathon without having ever run a 5K\r\n- No practice exams\r\n- HW counts for 40% of your grade, final counts for 30%",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-05-27T18:21:17.115266Z"
+    },
+    {
+      "professor": "Wiseley Wong",
+      "course": "CMSC456",
+      "review": "Professor Wong is amazing, the homework is reasonable and his explanations are clear. The semester I took this class was very tough, I lost my grandma during midterms and my grandpa during finals. Professor Wong helped me during this time by extending my work, letting me have time to grieve. I would recommend this professor to anyone.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-07-23T15:48:18.918500Z"
+    },
+    {
+      "professor": "Allan Yashinski",
+      "course": "CMSC456",
+      "review": "Allan is an awesome professor. Great lectures, good exams. His version of CMSC456/MATH456/ENES456 is a math-based class.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2025-08-07T22:12:47.721895Z"
+    },
+    {
+      "professor": "Daniel Gottesman",
+      "course": "CMSC456",
+      "review": "Nice teacher. Records lectures which is very helpful and is very accommodating. Also knows his shit.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-12-18T04:12:51.198263Z"
+    },
+    {
+      "professor": "Daniel Gottesman",
+      "course": "CMSC456",
+      "review": "Curves a ton, kinda boring and material was super theoretical, but super happy with this class. Records all the lectures. Beware that 95% of your grade is tests so make sure to lock in for those.",
+      "rating": 4,
+      "expected_grade": "B-",
+      "created": "2025-12-23T22:22:37.140776Z"
+    },
+    {
+      "professor": "Hatice Sahinoglu",
+      "course": "CMSC456",
+      "review": "honestly, i don't fully understand why her reviews are so low. i personally did not mesh well with her lecture style, so i stopped going to lectures pretty quickly in the semester. she posted a rough schedule on her syllabus (that included quiz dates and lecture content) and followed the textbook pretty closely, so i was able to self-study most of the material. she does post her slides, which were helpful to cross-reference with - however, her slides sometimes had some egregious typos in the math, which was pretty annoying. in my experience, she was also incredibly responsive to emails - i emailed her quite a bit throughout the semester, and she always responded pretty quickly. in general, she seems very nice and wants to see students succeed (oftentimes giving us a little extra time on quizzes if we wanted it). the main reason why i'm taking off one star is because her exams were a little diabolical - however, she had an insane curve at the end of the semester to make up for it, so i can't complain too much about that either",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2025-12-25T18:06:00.641877Z"
+    },
+    {
+      "professor": "Daniel Gottesman",
+      "course": "CMSC456",
+      "review": "Nice and intelligent guy. This semester of his 456 was the first (to my knowledge) to have to have two midterms. The grade breakdown was 5% psets, 30% m1, 30% m2, 35% final, which can be stressful if you have bad exam days. I considered the exams fair but challenging and many people in the class had low grades on m2 (which covered public key, which was the hardest topic). \r\n\r\nI found the material difficult but still very interesting. The hardest parts (if your math is not up to par) will be the abstract algebra, modular arithmetic and proofs (on the psets; none of the exams had a proof besides a simple short answer).  Office hours were unfortunately at a very inconvenient time for me and when I did go, I did not see many other students there, even though they were worth going to and very helpful. The class tends to have a massive curve (C- was a 45) at the end and it tends to be stressful not knowing where you stand right until the very end, but as long as you don't consistently score below the lower quartile on exams, you should be fine.",
+      "rating": 4,
+      "expected_grade": "B-",
+      "created": "2025-12-25T20:21:01.292836Z"
+    },
+    {
+      "professor": "Daniel Gottesman",
+      "course": "CMSC456",
+      "review": "Ouch, these other reviews are harsh!\r\nCourse Specifics:\r\n2 Midterms (30% each)\r\n9 Problems Sets ( 5%)\r\nFinal (35%)\r\nAs you can see the course is 95% exams, however they are all completely open note. You are not allowed electronic devices but you have access to any physical notes you would like. In addition all assignment have a maximum of 120 points but are graded out of 100. This means  an 80/120 on an exam will actually be an 80/100 in the grade book. For the problem sets, any additional points carried over to any problem sets you may have lost points on.\r\nThe problem sets were sometimes time consuming, most of them were proof based questions. There were two programming assignments which were done in python.\r\nThe exams were challenging but and the averages (when taken out of 100) were in the high 70s. The exams were half true or false and then other conceptual questions. There were no proofs on the exams.\r\nHe also applied a substantial curve, a C minus was a 45 in the class. \r\nAs for his teaching style, I thought his lectures were very engaging. He posts his slide, which are comprehensive and lecture is worth attending as he usually has some sort of interactive activity he does with the class. I think this is a more of a math class than a CS class, so if that is not your thing, I would not take it with Gottesman. \r\nOtherwise, the professor was incredibly kind when it came to questions and helpful during office hours.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2025-12-27T17:59:16.033296Z"
+    },
+    {
+      "professor": "Daniel Gottesman",
+      "course": "CMSC456",
+      "review": "Fantastic Professor. Grades the class very generously",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2026-01-29T21:36:38.724525Z"
+    },
+    {
+      "professor": "Dana Dachman-Soled",
+      "course": "CMSC456",
+      "review": "I may daresay Dr. Dachman-Soled might be one of the better, if not best, crypto professors, especially if you're interested in moving forward with cryptography in any aspect. Her expertise lies very solidly in the domain of the subject, and she emphasizes a lot of the theoretical games that any good cryptographer should be considering when creating a cryptographic algorithm, such as CPA or MacForge. The importance of this can't be understated; from a practical standpoint, it's true that cryptographic algorithms tend to stay pretty constant thanks to NIST standards and cryptographic libraries, but if you're interested in crypto research, these are ideas that are foundational to the subject that even published crypto papers get wrong. She's also one of the few crypto profs that goes over post-quantum crypto, which we're slowly (very, very, very slowly) migrating towards, meaning that if you're interested at all in the future of crypto algorithms, you should absolutely take 456 with her. I enjoyed the subject immensely. The B I got was mostly thanks to me skill-issuing the statistics (I hate statistics) which is a large part of the analysis done on cryptography, especially in regards to information theory. (I also hate linear algebra, which is what a lot of PQC is.) (I'm not very good at math.)\r\n\r\nThat being said, the class is hard as all hell and I don't recommend it with her if you're looking for something easy. I also wish that she covered more of the applications of the crypto algorithms. It's a bit of a shame that we didn't even go over digital signatures even though they're one of the more common applications of asymmetric crypto. If there was a bit more emphasis on real-world cryptosystems, like multi-party computation systems, encrypted messaging channels, or even more discussion on PKI, that would easily elevate this class from a 4 to a 5.\r\n\r\nOn a side note, loved the website. Lots of bells and whistles.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2026-04-02T19:27:34.779565Z"
+    }
+  ],
+  "department": "CMSC",
+  "course_number": "456",
+  "name": "CMSC456",
+  "title": "Cryptography",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> (CMSC106, CMSC131, or ENEE150; or equivalent programming experience); and (2 courses from (CMSC330, CMSC351, ENEE324, or ENEE380); or any one of these courses and a 400-level MATH course, or two 400-level MATH courses). Or permission of instructor.  Also offered as: MATH456, ENEE456.\n<b>Credit only granted for:</b> MATH456, CMSC456, or ENEE456.\nThe theory, application, and implementation of mathematical techniques used to secure modern communications. Topics include symmetric and public-key encryption, message integrity, hash functions, block-cipher design and analysis, number theory, and digital signatures.",
+  "is_recent": true,
+  "geneds": null
+}

@@ -1,0 +1,198 @@
+{
+  "average_gpa": 3.540384767635183,
+  "professors": [
+    "Wendell Hill",
+    "Sungwoo Hong",
+    "Frederick Wellstood",
+    "Matthew Severson",
+    "George Goldenbaum",
+    "James Anderson",
+    "David Buehrle",
+    "Matt Severson",
+    "Long Cheung",
+    "Yao-Chieh Hu",
+    "Gaurav Ajay Agrawal",
+    "Mary Pitman",
+    "Gaurav Agrawal",
+    "Matt Severson",
+    "Matt Severson",
+    "Matt Severson",
+    "David Buehrle",
+    "Andris Skuja",
+    "David Buehrle",
+    "Andris Skuja",
+    "Andris Skuja",
+    "Matt Severson",
+    "Andris Skuja",
+    "Andris Skuja",
+    "Matt Severson",
+    "David Buehrle",
+    "Andris Skuja",
+    "Matt Severson",
+    "Andris Skuja",
+    "Matt Severson",
+    "Peter Shawhan"
+  ],
+  "reviews": [
+    {
+      "professor": "Min Ouyang",
+      "course": "PHYS261",
+      "review": "It really depends on who you get for your ta. My ta was not at all useful, didn't answer questions and explained things poorly. But he curved well. Use what you learn from the first lab (error propagation) and use it for all the other labs (for error calculations). ",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2011-01-01T14:39:00Z"
+    },
+    {
+      "professor": "Min Ouyang",
+      "course": "PHYS261",
+      "review": "Lab is very tedious and boring. Too much error analysis and not enough seeing actual applications of real world problems. The class depends on your TA.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2010-12-19T02:41:00Z"
+    },
+    {
+      "professor": "Min Ouyang",
+      "course": "PHYS261",
+      "review": "The difficulty of this class really depends on your TA. My TA explained everything about the lab and answered any questions which arose. Once again, this class really depends on your TA.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2010-11-02T03:13:00Z"
+    },
+    {
+      "professor": "Min Ouyang",
+      "course": "PHYS261",
+      "review": "This lab is pretty decent.  Once you get the experiment going, it's pretty easy to see how the concepts from 260 apply, so it is beneficial in terms of providing a real-world example.  However, the technicalities of the course can be confusing--how to use the random equipment they have set up each week, how to enter difficult formulas into the excel spreadsheets, how to calculate errors, etc.  Overall, not that bad, but the explanations need to be a bit clearer on some things.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2010-01-18T14:27:00Z"
+    },
+    {
+      "professor": "Frederick Wellstood",
+      "course": "PHYS261",
+      "review": "*This is a review for Phys261 Lab*\r\nNote: My grade in lab was an A, but because I got a C in 260, I got a C in lab unfortunately. Anyways, this class is taught by your TA, and I had Ryan Maunu. He was great! He had notes to help us and always checked our work. He would try to give you hints to get you in the right direction. This was my first lab course, and it wasn't difficult if you came prepared. Met only every other week.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2011-12-25T22:33:00Z"
+    },
+    {
+      "professor": "Matthew Severson",
+      "course": "PHYS261",
+      "review": "This lab is strange because it seems like it should be a corequisite for physics 1, not physics 2. Since almost everything was review, it was very easy, and it was possible to finish each lab at least an hour ahead of time. (Note that Severson was never there in-person, only the TAs.)",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2019-06-09T03:52:44Z"
+    },
+    {
+      "professor": "Matthew Severson",
+      "course": "PHYS261",
+      "review": "the lab isnt bad. you legit never see severson tho. Its a pretty easy lab not gonna lie ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2020-11-05T18:45:51Z"
+    },
+    {
+      "professor": "Matthew Severson",
+      "course": "PHYS261",
+      "review": "You never actually see Severson, but he posts some hilarious announcements and makes the course very clear. The labs are pretty much filling out Excel sheets and its very hard to do poor.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2021-01-27T22:53:12Z"
+    },
+    {
+      "professor": "Matt Severson",
+      "course": "PHYS261",
+      "review": "Severson did a really solid job setting up 261. Every lab is done entirely through Excel and LoggerPro, with instructions on Expert TA. Prelabs are also on Expert TA, and you do get penalized for incorrect attempts. \r\nHe gives you an Excel template for each lab which is very straightforward, there's just a lot of copying and pasting and typing out complex formulas, but nothing challenging. The instructions for each lab are easy to follow so there's no issue getting out early. After the first 5 labs, there's a makeup week for anyone who missed one of those labs, but if you didn't miss any you get the week off. There's another makeup week after labs 6-9, too. After that, the next week is a review for the final, and the week after that is the final, which takes place before the usual finals week. The final is not bad at all, and he gives you a bunch of practice questions (though not the answers to them), a couple of which were on the actual exam. The final was originally going to be in person, but he moved it online and mentioned that he'll probably keep it online in the future.\r\nOne thing to note about 261, though, is that it may be the physics 2 lab, but the majority of the labs are on physics 1 concepts, like momentum, centripetal motion, and pendulums.  Only the last two labs were on physics 2 concepts, waves and the ideal gas law.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-12-18T19:33:03Z"
+    },
+    {
+      "professor": "Matt Severson",
+      "course": "PHYS261",
+      "review": "I never actually met him, since this was just the lab section of Physics 260, but the labs were alright. Not too hard, but nitpicky with the grading. I liked that the final exam was online. Don't worry.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2022-12-01T01:17:09.968153Z"
+    },
+    {
+      "professor": "Matt Severson",
+      "course": "PHYS261",
+      "review": "Never seen him in my life but my TA was the best. The class is taught completely by TA's, so it can be a hit or miss depending on your TA.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2022-12-19T17:37:28.938916Z"
+    },
+    {
+      "professor": "Matt Severson",
+      "course": "PHYS261",
+      "review": "I had him for the lab period, but pretty much no one actually interacted in person since the TAs run the labs. I give this 5-star review because one, the lab was well run and my lab partner and I always finished within a reasonable time frame and the excel sheets were very well made. And two, someone posted a profanity-ridden ELMs post about the review HW having deductions (it was actually worth no points), and the professor responded with a brief explanation of the no points thing and ended it with \"lol\" full stop. Giga chad move IMO, A++ professor.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-12-20T23:24:50.013111Z"
+    },
+    {
+      "professor": "Andris Skuja",
+      "course": "PHYS261",
+      "review": "Neutral review: You won't really get to meet him so I can't give a one or 5 star review. My TA was pretty awesome though!",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2023-10-21T15:03:44.302785Z"
+    },
+    {
+      "professor": "Andris Skuja",
+      "course": "PHYS261",
+      "review": "Never met him, but the lab isn't too bad. You got in for two hours and just fill out an Excel sheet, as long as you have an okay TA you'll do fine on the labs. There's not even an actual lab report or anything, the only thing you have to do outside of lab is the pre-lab questions which are super easy and just from the lab manual.\r\nThe final was kinda rough, he said it'd be similar to the study guide from the lab manual but it really wasn't.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2023-12-06T06:54:40.683933Z"
+    },
+    {
+      "professor": "Matt Severson",
+      "course": "PHYS261",
+      "review": "Hated this useless class but easy A. Final was nothing like the practice.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2024-02-09T19:58:55.249758Z"
+    },
+    {
+      "professor": "Andris Skuja",
+      "course": "PHYS261",
+      "review": "I met him once in lab and he was chill. He's never in there though because the TA will run the lab. The lab itself is super easy. My lab partner and I were able to leave early most of the time, so don't worry about a late lab time. The final was dumb because it's not similar to the study guide at all but it is open note, not open partner. Easiest lab I've taken at UMD.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-12-18T23:28:15.201949Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS261",
+      "review": "PHYS261 was very chill, the lab is run by the TA so this is more about the class than the professor. The labs were on excel and the lab manuals are from expertTA where we had to do pre-lab questions for each experiment. The TA was very helpful and kind and my lab partner was also great which made the class easy. Sometimes I felt like the lab wasn\u2019t super helpful but I learned how to use Excel really well so I think it was worth it.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-08-24T03:19:01.757542Z"
+    },
+    {
+      "professor": "Matt Severson",
+      "course": "PHYS261",
+      "review": "Class is useless and you can literally put zero effort and still get an A",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2025-12-21T20:30:52.229718Z"
+    },
+    {
+      "professor": "Matt Severson",
+      "course": "PHYS261",
+      "review": "Did everything he needed to do. Answered all questions very quickly, would look over labs before submission telling us exactly what was wrong (if anything) so we could get basically a 100% every time. Would sometimes remove requirements from the lab when they were simply just annoying... Overall really good.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-24T08:08:25.310144Z"
+    }
+  ],
+  "department": "PHYS",
+  "course_number": "261",
+  "name": "PHYS261",
+  "title": "General Physics: Vibrations, Waves, Heat, Electricity and Magnetism (Laboratory)",
+  "credits": 1,
+  "description": "<b>Corequisite:</b> PHYS260.\nLab includes experiments on mechanics, vibrations, waves, heat, electricity and magnetism. PHYS260 and PHYS261 (lab) must be taken in the same semester.\n<i>Students must pay a $50.00 lab materials fee.</i>",
+  "is_recent": true,
+  "geneds": null
+}

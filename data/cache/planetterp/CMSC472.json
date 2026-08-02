@@ -1,0 +1,69 @@
+{
+  "average_gpa": 3.8173184357541903,
+  "professors": [
+    "Abhinav Shrivastava",
+    "Abhinav Shrivastava",
+    "Abhinav Shrivastava",
+    "Abhinav Shrivastava",
+    "Abhinav Shrivastava",
+    "Mohammad Nayeem Teli"
+  ],
+  "reviews": [
+    {
+      "professor": "Abhinav Shrivastava",
+      "course": "CMSC472",
+      "review": "This class is not too bad and quite interesting if you're at all invested in more complex machine learning techniques. I feel like the class's pacing could be better, as the beginning of the class is extremely slow, but the last few weeks are a bit rough with assignments, final project checkpoints, and the final exam all overlapping. The lectures can be dry and math theory heavy but if you're interested it's doable. And all the lectures are recorded and taught on zoom concurrently so you don't have to physically attend class.\r\n\r\nProfessor Shrivastava is very kind and understanding when it comes to grade concerns or other logistical concerns. Almost no one fails this class. That being said, the TAs (for my class at least) were very hard on grading and rarely granted regrade requests. But like I said, it doesn't really matter unless you're trying to get a 95 or more because the curve is high.\r\n\r\nOverall, I recommend this class for those who are interested in machine learning/deep learning. If you're not interested in the topics you *will* be bored out of your mind.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2023-05-01T14:23:31.464219Z"
+    },
+    {
+      "professor": "Abhinav Shrivastava",
+      "course": "CMSC472",
+      "review": "Really nice professor. Gives 7 late days to use for homework assignments throughout the semester, lets us use cheat sheets for midterm and final. Throughout the course, in each lecture he'll mention if a question or topic specifically will be on the final or midterm, so if you note them down throughout the semester you basically have half of the midterm/final questions right there. Knows a ton of stuff about deep learning since he's been a bit of a helping hand/pioneer in the field itself as well. Nice curve at the end of class. Because there's a group final project though, you probably want to take the class with a friend since you can choose groups. Good class",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2023-05-23T21:29:23.676704Z"
+    },
+    {
+      "professor": "Abhinav Shrivastava",
+      "course": "CMSC472",
+      "review": "Overall bad class. Take what I say with a grain of salt - I'm an average student who puts in a lot of effort. I also took this class with no AI/ML experience. He's knowledgeable about the subject but is not good at explaining anything. Professor Shrivastava is nice but does not put much effort, if any at all, into the class. He gives no notice on homework assignments because he himself doesn't know when he will post it.  Him nor the TA's will answer your questions on Piazza. The TA's also hardly hold office hours (they don't even have regular scheduled office hours). If you are someone who likes structure in a class, you will not like this class.\r\n\r\nPros:\r\n- gives us 7 late tokens to use for homework assignments (though only max 2 per assignment)\r\n- can use cheat sheet for midterm and final\r\n- lectures are recorded and you can attend live on Zoom instead of in-person\r\n- curves the class and offers lots of bonus opportunities (though challenging)\r\n\r\nCons:\r\n- He does not explain topics well, you are practically teaching yourself the material\r\n- Topics are complex (this really shouldn't be called intro to Deep Learning)\r\n- there is no study material/ study guide/ past exams to study with so you will be seeing the exam questions for the very first time \r\n- assignments are open-ended so it's easy to feel lost\r\n\r\nOnly take this class if you already have experience in AI/ML, have an interest in the subject, and taking this class with a friend, otherwise you will be bored out of your mind and miserable.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2024-11-19T02:13:24.642646Z"
+    },
+    {
+      "professor": "Abhinav Shrivastava",
+      "course": "CMSC472",
+      "review": "The class covers exactly what the course title is- \"Deep Learning.\" It's definitely an \"intro\" to deep learning, but not ML as a whole. Although you supposedly don't need any AI/ML experience to take the course, you should have taken at least one ML course prior so you don't spend too much time trying to learn the overview of a concept- he really dives into the details.\r\n\r\nThe beginning of the course is a bit math-heavy, but you're not expected to do anything too complex on the exams, so if you can get through the (first?) assignment you are fine. He also provides no study guide for the exams, but they're very high level so as long as you pick up on the main concepts you're good. During class he will also say what details/types of questions will be on the exam so you know what to expect. The group final project is really open ended and easy to procrastinate, so I would take the course with a trusted friend.\r\n\r\nOverall he's a really nice guy and there's a lot of leniency for assignments (7 late-day tokens), lectures are recorded, curves + extra credit opportunities. Grade distribution is crazy good. You can tell he really loves this field so it'll be a great class if you're also passionate about it.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2024-12-10T17:27:43.252938Z"
+    },
+    {
+      "professor": "Abhinav Shrivastava",
+      "course": "CMSC472",
+      "review": "This course is a solid introductory course to deep learning. He starts off with some ML basics, but I would come into this course with some background on topics such as supervised learning, data preprocessing, etc. Something like CMSC320 would suffice. The course covers all of neural networks from the beginning through VAEs and GANs. I think the course is ok but there are some problems with it. Abhinav isn't the best at explaining things, and he flies through 8000 slides per day. I think he would benefit from slowing down a bit and skipping a few of the more in-depth topics that come later on in the course. I liked the assignments he gave us, and everything was graded super leniently (including a curve at the end of the semester), so pretty much everyone got a good grade. TAs are great and very helpful, the final project is also really great, but make sure you are in a good group. There are also a bunch of online courses that you can watch on youtube that are very similar to this course.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-11T17:03:44.357751Z"
+    },
+    {
+      "professor": "Abhinav Shrivastava",
+      "course": "CMSC472",
+      "review": "Abhinav is very good at explaining complex concepts through the story of why they were developed. The class had a pretty light workload but did cover some conceptually challenging concepts. Homework and exams were graded leniently, and an easy group project which makes up 35% of the grade. It was the best ML class and professor I've had at UMD, and you will come out of it with a high degree of competence.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2024-12-13T05:47:54.082956Z"
+    }
+  ],
+  "department": "CMSC",
+  "course_number": "472",
+  "name": "CMSC472",
+  "title": "Introduction to Deep Learning",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> Minimum grade of C- or higher in CMSC330 and CMSC351; and 1 course with a minimum grade of C- or higher from (MATH240, MATH461).\n<b>Restriction:</b> Permission of the CMNS-Computer Science department. Or must be in the (Computer Science (Doctoral), Computer Science (Master's) program.\n<b>Credit only granted for:</b> CMSC498L or CMSC472.\n<b>Formerly:</b> CMSC498L.\nAn introduction to deep learning, a machine learning technique, as well as its applications to a variety of domains. Provides a broad overview of deep learning concepts including neural networks, convolutional neural networks, recurrent neural networks, generative models, and deep reinforcement learning, and an intuitive introduction to basics of machine learning such as simple models, learning paradigms, optimization, overfitting, importance of data, and training caveats.",
+  "is_recent": true,
+  "geneds": null
+}

@@ -1,0 +1,761 @@
+{
+  "average_gpa": 2.7502830900855564,
+  "professors": [
+    "Lenea Stocker",
+    "Christiana Guest",
+    "Maryann Jones",
+    "Earle Stone",
+    "Natalia White",
+    "Christiana Guest",
+    "Christiana Guest",
+    "Christiana Guest",
+    "Christiana Guest",
+    "Natalia White",
+    "Natalia White",
+    "Christiana Guest",
+    "Christiana Guest",
+    "Christiana Guest",
+    "Christiana Guest",
+    "Natalia White",
+    "Christiana Guest",
+    "Samuel Lascio"
+  ],
+  "reviews": [
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "never met her, so can't say anything about her personality but lab manuals have extreme typos, post lab questions make no sense, mid term and final are very hard as well. if you have to take her for lab just make sure you go to office hours for the post lab otherwise the questions can be interpreted 10 different ways. ",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2018-12-18T20:22:39Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "You're probably forced to take CHEM132 at some point but if you want to take this class for fun... don't! I was lucky enough to have a great TA but other's are harsh and you literally never even meet the professor... all she did was write the lab manual which has SOOOOOO many typos in it anyway. Even the TA's say that the procedures she writes suck",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2018-12-19T06:31:02Z"
+    },
+    {
+      "professor": "Jason Tran",
+      "course": "CHEM132",
+      "review": "Jason is easily the best TA for all of CHEM132. I don't know how long he is going to be around because he is probably going to be offered a position as a TA for a more selective class but that just goes to show how good he is. He puts a lot of effort into the class and into the students as well.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2018-12-19T06:36:43Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "Bad lab reports consisting of many typos, way too much work for a one-credit course. ",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2019-10-23T19:29:50Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "AVOID AT ALL COSTS. The lab book is written by her and seems like no one bothered to edit it before publishing. It's super inconsistent (ex. in the pre-lab background information she'll refer to Part A of the lab, Part B of the lab, etc, but in the actual procedure it's labeled Part 1, Part 2, etc. Not an issue at first but in later labs when there are multiple parts it gets VERY confusing VERY quickly). Grammatical errors and typos actually make it difficult to understand what she's saying. In sample calculations nothing is labeled so you don't know where any of the numbers come from, or why she's using them, or what they mean. When there is an explanation, a lot of times she makes assumptions that you know things that were never explained. The lab book is about $55. The only reason I mention the price is because it's so poorly written that it almost feels like exploitation that we had to buy it. The TAs run the labs and grade the lab reports. Grading is VERY harsh and it seems like they want to deduct points (one of my lab reports got a RAW score of 27.85/30. The TA grading my paper literally took off 0.15 points from a question. I can understand taking 1/2 point off, but 0.15???) Exams are outrageously difficult, but apparently that's how all labs are. Be prepared to spend an hour or two in your TAs office hours every week if you even want a chance of getting a good score.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2020-05-03T01:45:48Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "I wish I could give 0 stars. Dr Guest is rude, unintelligent, and does not care about her students. During review sessions she laughed at students who were struggling with difficult material. She has an accent that makes it difficult to understand her. Our lab final exam had an average of 40%. The final exam also had lots of typos and mistakes on it, and was overall just horrible and bad. Dr Guest should not be in charge of a chemistry lab at UMD. I did not have a good experience with her this semester. ",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2020-05-15T00:55:01Z"
+    },
+    {
+      "professor": "Jie Jung Shih",
+      "course": "CHEM132",
+      "review": "Responds to questions promptly and really helpful. Nice to students.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2020-10-01T06:57:46Z"
+    },
+    {
+      "professor": "Lenea Stocker",
+      "course": "CHEM132",
+      "review": "Pros: One of the easier STEM labs you'll take. I'm not saying it's easy, but in comparison to other poop courses, it is. The exams are manageable and fair if you study and review your notes.\r\nCons: A lot of work. ",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2020-12-15T19:09:02Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "Definitely not the worst professor, but she definitely makes the lab course more difficult than it needs to be. While the labs themselves were fine (the TAs ran them), the other assignments like pre-lab quizzes and the final exam were usually poorly written and hard to understand, with multiple typos. She also did not post answer keys for them after you took them so that you could understand your mistakes. She can also be difficult to communicate with, and is strict with email formatting. That being said, she still explained material well in review sessions and Panopto lectures, and overall seemed like a nice person. She also gave a rather generous final grade curve.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2020-12-20T18:15:51Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "Definitely not a good professor because she makes the course more difficult than it needs to be. The final exam dropped most people I know's grades by a letter grade!",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2021-01-17T18:18:08Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "Truly a terrible professor. Seriously can't express how bad her class was.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2021-07-16T18:00:59Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "If I could give negative stars I would. Christiana Guest should have her teaching degree suspended.  She was the WORST i repeat the WORST professor I have EVER had. She shouldn't even be called a professor. The class suspects that Christiana doesn't actually exist, and rather UMD chooses a random student with zero chemistry experience to act as Christiana Guest because they couldn't find anyone else. To begin, this is a one credit course. However, it has the amount of work as a 4 credit class. To put it into perspective, my TA explicitly said to me midsemester, \"This is a one credit course? Why do you guys put so much effort into this?!\" I spent more time on this lab as I spent on my actual chem lecture class. Be prepared to spend hours on top of hours every week\r\nLets talk about the midterm. Everyone fails it thats just how it is. My TA basically told me not to even study for it because everyone fails and there's no point and when we looked at him with concerning faces he said \"Lets just put this into perspective, I failed both my midterm and my final and I'm your TA so you guys will be fine.\" In any of your classes has your TA blatantly said that they failed their exams???? \r\nAnother thing, Dr. Guest only has one hour slot of office hours herself, which she usually only shows up for about 10 minutes for, with her camera off, and its during my actual lab section so i have zero way of commuciation with the so called \"professor\". and you must go to if you have an issue with grades as she does not answer emails. I logged onto the zoom, (her camera was off!!) and one student mentioned an issue he had with a grade. He mentioned how he has emailed her every day for the whole semester about the first assignment that he has a 0 for. She simply responded, \"Why are you only telling me this now?\" with her camera still off. I came to her with another issue after emailing her every day for a month because I had missed a lab due to religious holidays and I hadn't heard back from her or the TA. She again didn't have her camera on and her response to me was \"why didn't you title the email to be more urgent?\" Hmm I don't know, maybe it's because in her syllabus it says specifically to title your emails a specific way or else she won't see it. She even told me \"I get too many emails so I can't respond to my students.\" I'm sorry but what's the point in having an email and having specific instructions in your syllabus for emailing you if you don't check your emails to begin with. \r\nNow lets move on to the pre labs. The pre labs were on lockdown browser and there were automatic answers they were looking for that were usually wrong, so even if you got the answers right, it was graded wrong. As a result the average on the pre lab quizzes were usually between a 2-3 out of 10. She hasn't done anything to fix this. The questions were completely arbitrary, something we never learned and had zero clue how to do. Also, we had 10 minutes to answer 10 questions of something we have never seen in our life before. She claims that the pre lab videos will teach you how to do this, but do not watch them!!! This will be the biggest waste of your time!! Again, putting into perspective, you watch the video and thoroughly study it, read the lab, waste all this time, take the quiz to realize you know nothing on it one bit.\r\nMoving on to the labs. The labs had the most difficult and time consuming questions. They were graded extremely harshly and arbitrary, each TA grading it however they want. It's based on luck which TA you had. This class doesn't have anything to do with hard work, hard work does nothing for you in this class, it solely relies on luck.\r\nRandomly everyone's grades went up because everyone was doing so poorly. However, it was a game of chance how much your grade would go up. Some went up 2 percent, some went up 15 percent, it happened out of no where with zero explanation. \r\nSTAY CLEAR OF THIS CLASS. IT IS THE WORST CLASS I HAVE EVER TAKEN AND I HAVE NEVER HATED MY LIFE MORE.\r\nBut, because you all have to take it as she is the only option for this lab, all I can say is best of luck.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2021-12-07T03:50:03Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "Extremely hands off.  Her zoom sessions aren't even that helpful and her TAs are the only people that give any help whatsoever, and even my TA doesn't seem to know what they're talking about.  The whole class is a mess and the grading is awful and done by TAs.  If I feel as if I would do a better job than my professor and TA, there is a clear problem with the course.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2021-12-14T16:58:27Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "CHEM132 is needlessly complicated but Dr Guest is fairly easy to reach as long as you go through a TA",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2021-12-15T20:01:20Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "everything you read is true. i got a 29% on my midterm, which was released a day after dropping period. the labs make sense and can be useful, but Guest is as uninvolved as humanely possible. exams are completely unreasonable and consist of poorly written multiple choice (multiple choice for a LAB exam? yup.) She does not deserve to be associated with the great State of Maryland.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2021-12-15T20:16:31Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "She was the only professor for gen chem lab this semester so its not like anyone had a choice to take her but if I had a choice I would definitely not take any class with her ever again. She wrote the lab manual that we use in class and it has so many typos and the experiments can be unclear I recommend looking at the pre lab video she posts under the modules and watching them do the experiment instead of following the book. My main issue with this class is not the labs themselves since they are definitely doable, its the two exams in a LAB course. Every exam is all multiple choice and each question is worth 6 POINTS which makes it almost impossible to get an A on them since the questions are so confusing and nothing like the lab manual. For some questions she would give 7 answer choices which is insane. Don't take her if you don't have to. If you do have to take her, pray your TA is nice and helpful ",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2021-12-19T21:04:56Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "Genuinely bad professor who does not respond to emails and has put me at a disadvantage because of my disabilities. Blatant ableism. I took AP Chemistry in high school and got an A every quarter and a 4 on the final exam. Since I am a biology major, I decided to retake it as a review in preparation for organic chemistry. I can justifiably say that this was the most awful class I have taken thus far. Dr. Guest rarely responds to emails. The midterm was extremely unfair (average was below a 50%) and the final was similar. On top of this, I have ADS accommodations and have experienced ableism in this class that I will have to address with the College of Computer and Mathematical Sciences here at UMD. I was unable to use my accommodations during my midterm because we had a lab immediately after during the same class period. One of my accommodations enlists an increased time to take tests, so I would have missed this lab and been forced to do a make-up lab instead, taking more time out of my schedule. The final was online and I was at ADS taking my exam and noticed I did not have my time extension. The testing proctor contacted Dr. Guest with no response. I then was unable to complete the final and had to email her myself. She replied that she would \"get back to me\" but never did and instead released the grades for everyone's final, mine included. I have reached out to her again, but am leaving campus today due to COVID-19 protocol. Dont know what my final grade will be looking like because I have no idea what I am going to do for my final.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2021-12-20T20:29:48Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "This class was okay if you stayed on top of the work. However, it still seemed very excessive for something only worth one credit. ",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2021-12-21T02:35:02Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "You are probably forced to take this class so there is no escaping it. Dr. Guest is a ghost to her students and TA's. She does not always check in with her TA's which I found to be funny. Her lab manual which she wrote (and forces us to buy) is filled with typos. This made so many question problems more confusing than they needed to be. Her labs are okay their fun in my opinion. I can't believe there is a midterm and a final in this class because what do we actually learn? Most of the things in this class is contingent on you understanding concepts from chem131. She tells us to study off of the lab manual for our exams, but these lab manuals do not prep for her exams whatsoever. Her Panopto videos of her teaching often have poor video and audio quality, making it hard to understand her at times. Her exams consist of multiple-choice questions. Which is good right. No. She would have 10 choices to 1 multiple choice question. She would also make each question worth 7 points making it hard to achieve an A. For our midterm and final the average was below a 49. Take that as you will. There is no escaping this class. Just hope that you have an awesome TA like I did!",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2021-12-21T17:32:09Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "I've never met this woman, she does not interact with her students, deliberately stating at the beginning of the course to not email her barring emergency. Her lab reports, while fair, are inconsistently graded due to different grading policies of different TAs. The midterm and final were not fair however, as they had many poorly worded questions. I would say avoid if you can, but she's the only one who proctors this lab, so instead I'll just wish you good luck.",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2022-02-06T22:20:52Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "This woman is literally a mystery.  This class was a ridiculous amount of work for a one credit lab, but I gave her an additional star for her ginormous curve at the end of the semester.",
+      "rating": 2,
+      "expected_grade": "B-",
+      "created": "2022-02-16T18:30:23Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "I've never met her ever, because she will never actually teach you. Your TA will run the entire lab. I recommend meeting with TA's because they will teach you everything. This class has lots of work and the exams are difficult to score high on. Getting in contact with her is very difficult and the grading in her class is pretty unfair (different TA's grade each assignment, leading to inconsistencies). You will be in the lab for the entire period and spend probably an equal amount of time for your post-labs, depending on the lab. Make sure to buy the print textbook because you will have a very rough life without it. She is the only professor teaching CHEM132, so good luck. She does give a phaaaat curve at the end though, but don't rely on that.",
+      "rating": 1,
+      "expected_grade": "A+",
+      "created": "2022-05-21T12:54:38Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "DISCLAIMER: Mind that this is coming from someone who got a 100% on the midterm (final is pending) and has a near perfect grade in the class. Yet, I have a very strong opinion of Dr. Guest. (should lowkey be stripped of the \"Dr.\" title) \r\nWe are approaching the end of the semester and I am not sure if she even exists. The TAs run the class, grade all of your labs, and organize equipment. She also has a Canvas manager who is in charge of all the pre-lab exams and midterm/final. So the purpose of having Guest is kind of unknown. Guest wrote the lab manual which is your holy grail for the semester. Everything for the class comes from that so protect it with all costs and just study that for the midterm/final and you'll do well. For prelab quizzes, they're on Canvas and only some are lockdown browser. They're very easy but just don't make stupid mistakes. She gives like two attempts for each which is enough to get perfect on all of them. \r\nI feel that any person could do her job because she is literally getting paid to sit there. \r\nActually, she doesn't even sit there because she only came into our lab class once over the course of the entire semester. The class and labs are easy but for people who don't have a background in chem (this is an intro chem lab), it would be somewhat difficult. The class is also out of sync with the professors. I had the professor who was ahead of everyone else in CHEM131 so people from my class knew the concepts in lab, but other profs did not teach up to pace. I don't even think her own lecture was up to pace so try and learn stuff on your own or take a nice professor (...not her). \r\nHacks to do well: \r\n1) Ace the prelab quizzes because they are gimme points and online. \r\n2) For labs, go on her Canvas modules and make sure you are submitting everything you have to. Don't leave out any details and explain all questions and answers thoroughly because the TAs are required to take points off for dumb mistakes (she makes some answer sheet, which also is quite bad but we all have to bear with it). \r\n3) For midterm (and final we haven't taken yet but should be similar), read through the experiments which are on the exam. Should be half and half but +/- 1. Practice the types of equations and stuff and it'll be fine overall. Average was like a 50 something percent but I studied the morning of the exam and got a 100 so doing similar prep should get you at least a C, which is enough. \r\n4) Pray. \r\n\r\nShe apparently has some curve but no idea how much it is. It won't impact my grade but if it is rly nice, I'll edit this review. Get to know your TA, they have to deal with her.",
+      "rating": 1,
+      "expected_grade": "A+",
+      "created": "2022-12-05T21:32:27.466633Z"
+    },
+    {
+      "professor": "Fahad Shaikh",
+      "course": "CHEM132",
+      "review": "Fahad is simply the best TA I've ever had the privilege of having. He always had a smile on his face, was always super helpful in making sure we were all successful. I can confidently say my entire class loved this man so if you have the chance of having Fahad as a TA treat him so well!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-12-07T17:39:34.459315Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "Both Chem lecture and Chem lab with Dr Guest have been a pleasure. She always makes sure to teach us the material and she never surprises us with difficult questions on the exams. If you study and do the achieves/practice problems she provides you in class, then you will do great.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2022-12-12T00:44:44.914567Z"
+    },
+    {
+      "professor": "Fahad Shaikh",
+      "course": "CHEM132",
+      "review": "Fahad is an amazing TA, is very knowledgeable and does so well in helping all the students in the class succeed. He made attending lab more fun and less tedious. He was always so happy and definitely brought good energy into the room. Definitely has such a kind and caring heart.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2022-12-12T06:34:50.864191Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "Just prepare yourself, chem lab is the ugliest course ever and the fact that it's only 1 credit makes me want to rip my hair out. communication is absolutely awful. if there's a mistake in your grade, you literally just have to accept that - the TAs communication with each other and Dr. Guest is literally nonexistent (at least with my TA). I've been trying to get one of my lab report grades just LOOKED AT for months now and have gotten no response. this class is very unreal like Dr. Guest is just a figment of my imagination and the grading doesn't align with logic. As long as you do all your work you should be okay grade-wise, but you might lose your sanity. Pray for a good lab partner that's the only thing that made this manageable for me.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2022-12-15T20:09:31.047195Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "I took this class for an entire semester and never met or saw Dr. Guest once the entire semester. The TA's run the entire lab which is fine, but Guest has terrible communication with them which causes alot of problems when grading. Good luck if you have any problems throughout the semester because it is near impossible to reach her. Her midterms and finals are aggressively difficult and only consist of about 15 multiple choices with 6-7 answer choices, making it very easy to make mistakes. That being said, despite my two star review, it is not impossible to succeed in this class. Lab reports are worth most of the grade, so failing the midterm and final does not impact your grade too much. I gave her 2 stars for the PHAT curve she gave at the end (about 6% for me at least). Although, I am still annoyed I was 1% off from an A.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2022-12-19T02:07:04.783891Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "Yall don't need another review from me. Just pray and do your best lol. Try to get 100% on all the lab reports (its honestly doable) and try to get around 50-60 on the midterms. If you do, you can snag an A in the class. But I have seen Dr. Guest like .5 times idek if shes real either",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2022-12-20T16:01:51.229667Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "I was lucky enough to get a great TA for this class who was super chill and funny. There were so many things wrong with this class though. It was super unorganized; from hearing from students in other sections, every TA had a different answer regarding lab report questions. The lab manual had multiple spelling/grammar errors, the procedures for MANY of the experiments were not descriptive enough, and the midterm and final had almost nothing to do with the experiments, making them impossible to study for. Grading on lab reports takes forever. It literally took up until the LAST week of classes for one of my lab reports to get graded, which was due way back in October. Students had this same problem with the same lab report. It was not hard to get decent grades on the lab reports though.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2023-01-05T00:10:48.223597Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "Thank god I had a good TA (Natasha!!) . If you don't like your TA, find another section. If not just go to office hours and find a good TA to help you with the lab reports. She is so disorganized and her review videos are hopeless with her accent and terrible handwriting. She does push back pre labs but does it so late. The midterm was honestly fine, the final was kinda hell",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2023-01-05T01:13:53.505752Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "She is a very inaccessible professor. She is near impossible to get ahold of and her answer keys for the post labs are often very specific and odd. Certainly go to office hours for help with them. My TA (Laura!) was lovely and always helped make the labs go faster. The 'reflection quizes' (so a final but broken up into a little every week) weren't too bad as long as you looked the material over beforehand. She never grades the assignments before you  are tested on them, however, and you often aren't able to use both attempts on the pre-lab because you won't get a grade back for the first one until a week or two after. I understand that she is a very busy woman, but perhaps she should have other help and less courses than everyone in chem132 having the same issues.",
+      "rating": 2,
+      "expected_grade": "A+",
+      "created": "2023-05-02T01:12:02.372853Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "This class was probably my least favorite class of the semester because it was so tedious and boring. I was also not friends with my lab partner so it made the class even worse, so make sure to get a good lab partner just to make the long class more enjoyable. The lab reports were pretty time-consuming, but going to office hours really helped. Your TA plays a big role and I was so lucky to get an extremely helpful one who did everything she could to help me succeed. You barely ever interact with or see Dr. Guest. The quizzes at the beginning of lab are a bit difficult, but it is way better than having exams. The class was a bit disorganized because sometimes assignments would be due at a certain time, but a place to submit them wouldn't open up until very close to the set due date (ex. weekly lab reports). The curve at the end was not too bad and it helped my grade. The lab reports were also graded by different TAs every time, so sometimes you just got lucky with a TA who grades easily or unlucky with a TA who grades harshly.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2023-05-14T03:42:18.225801Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "The course is set up as a pre-lab quiz on Canvas, a 3 hour lab section each week with a short lecture at the beginning, lab reports due a week after each experiment, and a midterm and final exam. With all lab professors, it's definitely a hit or miss because your TA will be the one teaching the course and grading your lab reports. Definitely be wary of who you choose as a lab partner because this class will be awful if you have one that doesn't do anything like I did. The experiments weren't too bad, and luckily I ended up with a super kind and understanding TA who would patiently guide me through any trouble I was having. I would definitely recommend reading through the experimental procedures and background information before lab, because it will save you some confusion during the experiment. Also definitely go through the module for each experiment and watch the pre-lab videos-- they walk you through each step of the experiment. It was hard to expect what would be on the midterm and final, but Dr. Guest provided a recorded review session that was super helpful in reviewing what you needed to know from each experiment. I would also recommend going to office hours if you need help-- Dr. Guest is super kind, patient, and helpful and will take time to explain concepts.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2023-08-23T10:10:55.600977Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "I had an amazing TA, Raquel, who was super sweet and helpful!  She made sure we understood the experiments and gave tips for the lab reports.  We usually got out of lab earlier than the 3hr time slot as well.  A few labs were a little tedious but most were pretty painless.  This was my first chem lab course (in HS it was online) and it was pretty positive.  Sometimes the lab reports were graded harshly but the lab manual has good explanations and sample problems that are helpful if you take the time to read them.  Prelab quizzes are pretty easy and you do those online outside of class.  The reflection quizzes (online, in class) are not hard but you do have to remember essentially how to do the previous lab.  Overall, solid experience!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-04T20:24:43.920965Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "If you\u2019ve done labs before this class isn\u2019t that hard. I recommend looking at the modules for each lab because there\u2019s usually a video of how to do the lab and another video of how to take any calculations the lab involves. The lab reports can be tedious depending on the experiment but it\u2019s nothing too awful. How do you also depends on who you have as your TA too since Dr.Guest isn\u2019t really involved with the class itself. I got lucky with my TA (shoutout Raquel) since she answered our questions and showed us how to do certain steps in the lab and gave helpful feedback with the lab reports.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2023-12-06T20:32:30.998707Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "For gen chem lab, students work directly with their TAs. I never met or interacted with Dr. Guest. My TA was extremely helpful.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-08T20:29:56.278562Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "This class is taught by a TA; I didn\u2019t see Dr. Guest even once during the semester. Most labs can be finished earlier than the class ending time. You will usually be doing the lab with the same lab partner (so choose yours wisely), though you will sometimes work in groups of four or eight. Divide and conquer is the best way to finish and get out of there early.\r\n\r\nWe had no midterms or final in this class, but we did have one pre-lab quiz due every Monday before lab as well as one reflection quiz two weeks after each corresponding lab. These quizzes can be tricky and sometimes allow two attempts; use them if you need to! Doing badly on the quizzes can bring down your grade a significant amount. Generally, if you do okay on the quizzes and follow all directions for the labs, you will succeed in this class.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2023-12-12T04:59:06.608829Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "I don't actually know Dr. Guest but the way that the lab is scheduled is great. There are many resources available to show how the lab is supposed to be done, however the reflection quizzes SUCK. Truthfully I think it is really evil that those go into the 50% category because it's usually out of 10.6 and there are three questions, meaning that if you mess a couple up and your lab reports aren't that great you can kiss an A goodbye. However, having an amazing TA like Cristina Zhang makes the experience a lot better. Christina is so kind, patient, and funny. She put up with my group's multiple mistakes and still managed to teach us a lot about chem. The overarching theme is that Dr. Guest is mid and Cristina is amazing.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2023-12-17T16:32:54.886944Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "Lab is entirely TA-run. My TA was ok and ran the lab smoothly. You'll have some TAs who'll grade harshly and others who will be softer. Ultimately, your experience in this course depends on what TAs happen to grade your lab. The only reason why people took Guest this semester is because she was the ONLY option for this course. At least you will never interact with her in lab. \r\n\r\nThis is why I'm giving her a one-star review: At the end of the semester, she unexpectedly curved everyone's grade DOWN by 3-5 percent (i.e. ~92 equates to a B+). I got a high 93% (raw percentage) which got dropped to an 88%. She states in her lab manual that \"you should work as if there was no curve in this class\"... so what does that mean if you curve down? This does not allow students to accurately keep track of their letter grades, and turns the class into a giant competition to get good grades. If you try to email her about that, you will be met with no response -- as other reviews have said, it is extremely difficult to communicate with her.\r\n\r\nFor future students... do yourself a favor: if there is another option, go with that option. Although this isn't likely to change.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2023-12-18T02:46:27.803577Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "I was supposed to receive a 94% but my grade was curved down 6% to a B+. This pulls down my GPA by several points. If you can avoid it, do not take a class with Dr. Guest.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2023-12-18T12:38:14.957070Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "Her grading system sucks. The reflection quizzes are quite hard.",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2023-12-18T12:59:17.024799Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "If I could give 0 stars I would. I have never taken a class that was managed so poorly. There was basically no communication with her TAs given that mine, Sneha, never knew what the password was for our weekly quizzes, gave maybe two shits about us, and spent the entire lab period talking to this one kid that she knew from her premed frat. The weekly lab quizzes shouldn't have been that hard, but there were frequent wording issues that made some questions confusing. The grading was super specific on the lab reports and I got points off for answers that TAs during office hours literally told me were good. I think it's ridiculous that the grading leniency seems to vary drastically between the TAs, they need a better rubric. Also, our lab grades on Gradescope were not consistent with the ones on Canvas such that denominator on Canvas was /35 for all of the reports but that was not the case on Gradescope where the denominator ranged up to /41. This caused some of us to get over 100% on labs on Canvas (ex. 38/35). The issue was not addressed until literally after finals week where we were told (in a frankly barely comprehensible Canvas annnouncement) that she was going to correct for it by dropping all of our grades down by 3%. She also made us pay for her $60+ mandatory lab manual (she's literally making thousands off of it) that was riddled with errors that our TAs had to correct. Through all of this I have never once seen her in the flesh and sometimes I wondered if she even existed. Her pre-lab videos are useless and a waste of your time to watch. The experiments themselves sucked, but were doable. It was the crazy poor class management that left a bad taste in my mouth.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2023-12-20T21:58:42.377594Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "So this isn't really about Guest herself, because you barely see her if at all, but the course itself since she's the only instructor. The TAs basically run the whole class, and I am very lucky to have gotten a good TA. There are prelab quizzes, and they aren't that bad, however, there are refection quizzes that occur 1-2 weeks after a lab has taken place that are such a pain. They are in place of a final exam, and I do think I prefer those to a final, however, they are quite challenging and only have 2-3 questions and are around 10 points, so if you get something wrong on one of these quizzes with 3 questions, that's immediately a 66%, and like I mentioned before, they are quote challenging. The lab itself isn't horrible, but the instructions in the lab manual which Dr. Guest wrote are quite confusing, and I had to ask my TA lots of questions for the procedures to make sense. The post-lab questions for your lab reports are straightforward and pretty easy. On the lab reports, you can also get extra credit. However, this past semester, some people got over 100% in the class due to the extra credit, so basically the class had a negative curve, as I have a 94.7% in the class and that's an A-, which I am not happy about. I know some people have it worse, but as I worked very hard in that class, getting an A- with a grade that would be an A in any other circumstance really angers me, since it isn't a 4.0. This class is also only 1 credit, so it shouldn't screw my GPA as someone who is also a STEM major, but I am annoyed by it. The class takes up a lot of time with the prelab quizzes and lab reports for a 1 credit class, and as someone who took this their first semester as a freshman, it really added to the stress levels. I would recommend taking this after you have already adjusted to the workload of college, and really, this class can be a hit or miss.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2023-12-23T14:50:09.662258Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "This was my first lab ever and all things considered, it wasn't too bad. You will never actually meet Dr. Guest and the labs are solely TA run. The TA's do all the grading, teaching, and primary communication. If you have a good TA and ask questions/go to office hours you will be able to complete the post labs easily and get a 90+ on each. You will often get out of lab before the 3 hour mark as the labs were typically simple and easy to follow.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2024-01-03T21:23:13.879715Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "My expected grade is listed as an A, but I really have no idea what it actually will be. The letter-grade percentage correlation is based on an incredibly vague average of student performance which is not made clear until the end of the semester - this is me being optimistic. This course is a general chemistry lab, and it is going to suck. Dr. Guest herself is essentially non-existent for this course, but she is responsible for the formatting and system so I still feel validated attributing this review to her. Your main grades come from pre-lab quizzes, lab reports, and post-lab quizzes. For a one-credit class, this is a TON of work and will likely be more draining than your 3 and 4 credit classes (I spent more time on homework for this class than any other class). Luckily, there are no midterms and there is no final exam. The pre-lab quizzes typically give you multiple attempts, but you have to learn all the content from the lab manual and videos posted to elms since the lecture and lab schedules do not overlap. Therefore, you can lose a lot of points even with the multiple attempts because you simply do not know what you are supposed to be doing. Lab reports are sometimes straightforward and sometimes incredibly confusing. Post-lab quizzes are usually fine, but you have to be SURE that you are familiar with the content from labs a couple weeks ago each time. Having a good TA and a good lab partner/group will ease a lot of the pain that comes with this class.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2024-04-29T16:30:11.775100Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "okay the class was dogshit of course, but as a BSOS person who mustered an A in this class without cheating on everything, i'm gonna tell you how to maximize your grade in a reasonably achievable way bc all i saw online before taking this class was people being like 'you're gonna fail kiss your GPA goodbye'. \r\n\r\nas a disclaimer, i'll say i had a great TA, however even my TA would tell me wrong things for lab reports, and some of the other TAs that graded my stuff were real assholes.\r\n\r\nfirst of all, put effort into looking at the prelab stuff. i'd usually set aside my sunday morning for it and it sucked ass, but if you're too scared to cheat like i was (which, newsflash to the instructors, everyone else did) then thoroughly reading the prelab readings and watching the panopto video voiced by dr. guest sets you up pretty well for the prelabs. skip the TA videos that go through the experiment, i've been explicitly told by TAs that those are bullshit. but do not forget the panopto video - 70% of the time it's just recap but 30% of the time there's something there that the reading didn't even mention. and make sure you actually understand it, and can reproduce the logic in your own words before you start the prelab. usually you get 2 attempts, so start your first one as early as possible bc sometimes it takes a while before canvas tells you what your score is.  \r\n\r\nfor those post lab reflection quizzes, just go over the material quickly beforehand and make sure you remember the prelab content and the experiment. and for both the prelabs and postlab reflections make sure you READ THAT SHIT. they WILL word things stupidly to trip you up, but if you look at each question as skeptically as possible you can get it. i failed the first postlab reflection and then got a 100% on almost every single one afterward, and it's bc i used All my time to pay as much attention to the details of each problem as possible - make sure you leave enough time to check your answers. also, remember some of the basics from older experiments, bc sometimes you have to draw upon that knowledge for the later quizzes. \r\n\r\nfor the lab reports, first of all do them right after the experiment they're for. it's boring and mind numbing but your memory of the experiment and the material at this time will be at its highest which makes it much easier. then, you have a week to check any of your answers or make any adjustments. secondly, if you have a question about formatting or basically anything not chem-related, either don't bother asking the TAs or ask multiple TAs, because they do Not know what's going on and they Will give you wrong answers. you gotta corroborate, and if you really don't know ask dr. guest, she's usually pretty helpful.\r\n\r\nfinally do not be shy. if you have a question, ask. if someone made a mistake that led to a bad grade, let that person know and try to fix it. if you think something should be regraded, even if there's an 80% chance the TA will give it half a glance 3 weeks later and say no, request the regrade. be as polite and dicksuck-y as possible about it, but do it. the worst the TAs can do is get annoyed or say no (or maybe chew you out if they really suck), but the best that can happen is a grade increase which you can Always use. \r\n\r\ndoing this stuff isn't 100% foolproof; this course is ridiculous and poorly made, and stupid shit Will happen. however, if you've cushioned yourself with mostly alright grades, then when this stuff happens it'll affect you less. they've also made the course itself way less difficult in the last few years, so don't get caught up in what people have said about it in the past. good luck soldier.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2024-06-02T01:22:53.675715Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "Most disorganized professor at UMD. It is embarrassing that UMD selected her as the lab coordinator out of all the other options. Pre-labs are never posted until the day before lab. In the lab, TAs have told us to lie about our numbers and alter them to the outcomes they were supposed to be. Wearing lab safety gear is also never enforced.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2024-09-29T23:43:46.785685Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "Chem132 is so disorganized--and you might think issues will be resolved later into the semester, but it only gets worse. Pre-labs are posted late, giving you a few days to do them, so you can't really be proactive. Then, when you can finally do the pre-lab, you don't get your score back, so you don't know whether or not to use your second attempt. Labs are disorganized, your success depends on if you get a good TA. Dr. Guest is not reachable.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2024-10-15T13:30:06.327283Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "gives unclear instructions, and you'll never actually see her in person. I'm not actually sure what she does because she has TA's grade everything but get that bag I guess.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2024-11-01T21:19:09.128194Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "This is the most god awful lab coordinator I have ever seen at UMD. She is extremely disorganized, will randomly remove and add grades back into the gradebook, and she obviously does not know how canvas works because even though all her pre-lab quizzes give you two attempts, they are muted so you won't even know if you need the second attempt. She is terrible at her job and given these reviews I don't know how she is still employed as the lab coordinator. This is the stupidest and most poorly designed class I have ever taken at UMD. Good luck.",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2024-11-20T20:57:31.292142Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "If I could give -1 stars, I would. This is a poorly organized class, you would barely see the professor at all not even an introduction. The TAs run the class, and can not even grade properly. Twice now there has been errors in grading lab reports, graded as 0 which is so confusing. Whoever that puts the grades in clearly have no idea how to work canvas. Also grades have cut offs so if you have an A, you could get a B. This is not fair because all your hard work is clearly not appreciated. This class is not worth it all considering the work load and also spending 3 hours in the lab weekly. This is a horrible class, just pray your TA is good enough at least.",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2024-12-03T14:46:59.189186Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "They don't teach you any of the math for the calculations in the lab report. The TAs do all the grading and take off way too many petty points. There wasn't always enough time to finish the labs, and the reflection quizzes you would fail if you got one wrong. The way labs are done needs some major revamping, especially for a Gen Ed that literally everyone is required to take. The TAs all have different preferences of approaching the problems, and they aren't the one grading so it is impossible to get good grades on the lab reports unless you go to the TAs office hours and literally fight for points.",
+      "rating": 1,
+      "expected_grade": "A+",
+      "created": "2024-12-04T15:46:48.959428Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "I never even saw this professor for the entire semester. While that may be normal for lab classes, she is also incredibly disorganized and half of the challenge of this class was just figuring out what was going on. The lab book you are forced to buy is full of typos and the questions rarely made any sense, to the point where even the TAs at office hours did not have answers or could not explain them. While I had a decent TA so I got through the labs, the lab reports and other assignments were a different story because it is often hard to even figure out what the lab is accomplishing and answer questions about it. If you don't have to take this class then don't.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2024-12-04T20:41:40.084447Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "VERY unclear with instructions, made us buy a 40 dollar flashdrive we never used. TERRIBLE communication with lab TA. never really saw her but I can tell she does not care about all her students. Prelab quizzes are ungraded until after the due date even when they have multiple attempts so your answers are hidden until the submissions are closed and the second attempt means nothing (got myself a couple 4/10s cause of this stupidity). I should also say it was my TAs first year teaching the lab, so thats probably why it was so bumpy.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2024-12-04T23:24:50.657522Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "ONLY THE TOP 35% OF STUDENTS TAKING THIS CLASS (in all of her sections) GET AN A. this class requires a lotttt of effort and dr guest is pretty useless in terms of helping students. she will not reply to emails so don't try. just try your hardest on the lab - and make sure the data looks correct with the ta - and pray you get into that 35%.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2024-12-06T00:54:12.228457Z"
+    },
+    {
+      "professor": "Enoch Agbodjogbe",
+      "course": "CHEM132",
+      "review": "Best TA ever,  he broke everything down during his office hours. He related the information to real world examples if I didn't understand and he was able to break things down to an elementary level, which was very helpful. He even helped me with things I didn't understand in my lecture as well. He also stated with me longer than his assigned time if I truly needed extra help. He also referred me to other TA's that he thought were good or would be able to help me if he couldn't. He was very understanding and flexible.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-10T18:27:44.287896Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "Everything the reviews say are true- this lab is incredibly disorganized. My TA was wonderful, so that was our classes saving grace. This course is super annoying just like all 1-credit labs, but it's particularly bad as often the post-lab questions had absolutely nothing to do with the lab. Additionally, the reflection quizzes after each lab are difficult and often don't come from the lab at all. You will make it through this course with a good grade as long as you score decently well on everything, however only the top 35% of students get an A. Lab reports are long and annoying. Overall, as frustrating as this class can be, you will make it through!",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-12-12T15:26:05.016406Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "(i actually have no idea what grade i will get because this class for some god awful reason bases the grade on the average instead of having set grade guidelines)\r\n\r\n(i also accidentally posted this review under the wrong class, so ill repost it here in the right one, sorry!)\r\n\r\nyou will never see dr. guest, this entire lab is run by and dependent on the TA you get. if you have a bad TA, good luck. this course is genuinely terrible and a LOT of work for a 1 credit lab class. dr guest does this insanely annoying thing where she does not allow you to see your pre-lab quiz grade until the day before it is due. her canvas page and due dates are sometimes disorganized and have wrong information for some reason. if you're taking this class along with gen chem, i assume it's required for your major, but if you really don't have to take this lab, don't. just don't.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2024-12-14T04:22:12.030685Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "One of the most disorganized labs I have taken in my life. The grading system is so inconsistent. At times I got zeros in the grade book on lab reports because the TA did not grade it yet and it STILL got put in. Some of the labs I had to wait weeks for the grade to be changed from a zero after everyone else's lab report got graded in other sections. Never met Dr. Guest, the only interaction with her is the pre-lab videos she posts. The lab manual is awful and incredibly vague so it's really confusing on what you're supposed to do. Lab reports aren't actually the big essay type of lab reports that I expected, it's just answering the post-lab questions which was a nice suprise but the post-lab questions are really confusing. Expect to spend a lot of time on this class even though it's only one credit.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2024-12-15T05:52:01.163137Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "The experience you will have on this course is dependent on your lab TA and how cool they are. Mine was super chill and honestly made the class feel not that stressful. The lab manual is written pretty decently and you can ask your TA for clarification if you get confused. Completing the experiment successfully is honestly not that big of a deal as you can just grab someone else's data. They are all honestly pretty easy, but Experiment 5 (Solubility) expects you to place hot test tubes into an ice bath without the glass exploding (some exploded). Lab reports take up a lot of time, but I would recommend doing as much of the post lab questions as you can before you even do the experiment if you have free time during the week. A lot of the questions don't even require the data and are just conceptual questions based on the experiment. It saves you time and also makes what you are doing in the lab make sense. The grading on the lab reports is fair and I only got something other than 95+% on 1 report out of 11. Sometimes lab reports get graded as 0 in canvas before the TA grades them, so you will be stuck with a low grade until the TA grades it. Before every lab you have to do a pre-lab quiz which locks after you take it, so you don't even know the grade you will get or what questions you got wrong until weeks after. They are pretty easy though. You also take post-lab quizzes which are sometimes vague and downright confusing. Expect to get 30-50% on at least 2 of them. I actually saw Dr. Guest because my TA slept in and missed our section. She was actually helpful and was understanding of our situation, and let us off with doing the lab through the lab videos. She also gave our section an extra 3 day extension to turn in the lab report which is why I'm giving her +1 star. What was confusing is what you learn in the lab is ahead of what you learn in CHEM131 lecture, so sometimes you learn concepts in lab first before lecture. Additionally, you have no idea what your final grade is until the end of the semester, and the curve is very weird. I don't know how helpful office hours are because I didn't go to them. Overall, its criminal that this class is only 1 credit and you will spend a lot of time on this class, but if you put in the effort you should get out with a pretty good grade.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2024-12-16T22:02:04.913689Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "This lab is rough, and your experience really depends on your TA. The experiments themselves aren\u2019t too bad, but the lab report grading is extremely harsh\u2014they take off points for the smallest things. The only way to maintain a decent grade is to submit regrade requests for every point lost and hope to get some points back. Fortunately, the class is curved based on how everyone else does, so I got an A+. If you're taking this class, I highly recommend double-checking your post-lab questions with others, and if you lose points for any reason, ALWAYS submit a regrade request\u2014it literally saved my grade!",
+      "rating": 2,
+      "expected_grade": "A+",
+      "created": "2025-02-16T04:02:58.550108Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "I want to enjoy CHEM and the labs since I love labs back in high school. However, I hate how the prelab quizzes are difficult, I cannot even find the answers in my lab manual or the resources. I even had to look at my CHEM131 lecture notes (obviously, most of the time, the answers aren't even there). I also despise how she titles each assignments on ELMS, like please stop writing them in caps, I hate reading words in all caps when it is unnecessary. It is actually quite annoying and hard to read. Comparing this lab to my BSCI lab, CHEM132 is the most disorganized. I wanna drop this course but this is one of the my requirements and I have no choice but to take it. The only hope I have right now, is passing with a C.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2025-03-05T03:32:27.180823Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "Chem132 is horrible. The lab coordinator doesn't respond to important emails like emails asking for assignments to be regraded. The TA I had was a bit lazy and didn't answer my questions over email fully. Countless times TAs grades my assignments incorrectly and when I ask for a regrade, I barely get points added back. For a lot of the post lab assignments, they take off points for things they never asked you to do even though you answered the question correctly. I recommend going to office hours and asking a TA if there is anything missing from your response to a post lab question.",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2025-03-24T17:59:15.561957Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "Christiana Guest is about as competent as an unplugged toaster",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2025-04-25T18:23:39.211842Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "Don't expect a fast in and out lab. It is very timely. My TA was super chill and would sign our manuals as long as we had the lab data even if everything wasn't filled out. I never interacted with Dr. Guest but her final grades depend on the distribution. The pre-lab quiz is self explanatory but lock in on the reflection quiz because theres barely any questions and it hurts your grade. Post labs what you put in is what you get out. Meaning put some effort into the postlab and you will get a good grade. It can be a lot but it moves quick. Unlike my BSCI171 lab it tends to correlate pretty well with CHEM131 in my opinion. Make sure you like your partner a lot and even your table group because nothing is individual work.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2025-04-29T18:37:43.803329Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "As most labs, you work with the TA only. I never saw Dr. Guest but her post-lab assessments were extremely hard for no reason and the fact they were 2 weeks after the lab too made it harder to get a good grade on them. My TA was amazing and couldn't recommend her enough (shoutout Saili), I emailed her on spring break and she responded to me in an hour. Grading wise the TAs are very harsh graders but I only got one C on a lab report the rest I got A's. Labs are quick but post labs are timely. Dr. Guest also releases grades very late and to her own discretion so you really don't know your grade until grades are finalized. The lab overall is kinda disorganized but manageable to get through.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2025-05-20T15:19:32.455607Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "Class is very disorganized, assignments are never graded on time.Honestly if you get a good TA you'll enjoy the class.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2025-05-22T18:17:13.980254Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "This class is just so disorganized that it drove me crazy. Random ELMS assignments appearing and disappearing (with random confusing titles in all caps), sudden 0/35 scores appearing for lab reports that were submitted on time, a completely disorganized syllabus, and horrible communication all around. The in-person labs are not actually that bad (I only remember staying the full 3 hours once or twice) but the post-labs and pre-labs are the rough part about this course. Overall I think this course just needs to be redesigned",
+      "rating": 1,
+      "expected_grade": "A+",
+      "created": "2025-05-25T02:11:15.797969Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "First, professor Guest will NOT be the person inside instructing the lab, essentially it'll be whatever TA you get assigned to, and I think that plays a HUGE role in the outcome of this lab. I had Jennifer and she was pretty helpful and seemed to care about us and our outcome in the lab. As other reviews have mentioned, this class is pretty disorganized. ELMS is an absolute mess and the lab manual gets really confusing and isn't clear on a lot of steps, which is where having a helpful TA comes in. Still, it is graded how you and your lab partner perform independently as a team for the labs. Also, grading isn't done by professor Guest, but instead another TA assigned to grade them, and it takes FOREVERRR to get a lab report grade back. Before each lab there are pre-lab questions to answer and they'll either take you 30 min or and hour or two, no in-between. At first they were just to make sure you understood the expectations and steps for the weeks lab, but then progressed to more complex problems and confusing problems. There's also weekly 15 min quizzes based on the lab from the previous week and they suckk, i got on average 0% or at least 50% on most of them because of how confusing they were (unless you really know your chemistry stuff (which i did not lol)). After each lab there's also post-lab questions to top it all off which can also be time consuming. The amount of time put in just for just a 1 credit class is insane, but I think that goes for any other lab so not just this one. \r\n\r\nSo if you find yourself having to take this lab, it'll get frustrating and annoying, but you got this. I really don't like chem and find it very confusing, but managed to pass on through. If you get lucky with a good TA, it'll take the initial bite of this class off, just make sure you manage your time wisely and don't be afraid to ask for help. ALSO it really helps to talk to and make friends in the lab like with other people at your table, better to be confused together than alone haha. Best of luck!",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2025-05-31T04:24:19.983689Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "She curved everyones grades down...",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-07-05T14:47:31.936538Z"
+    },
+    {
+      "professor": "Jennifer Amesimeku",
+      "course": "CHEM132",
+      "review": "This TA is truly outstanding. She's not only well-versed in all the experiments but also incredibly supportive of her students. Her instructions are always clear and easy to follow, and she makes sure everyone grasps the experiment's concepts. I was particularly impressed by her understanding attitude towards corrections and her willingness to offer second chances, which greatly helped reinforce learning. She's an invaluable asset to the course.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-07-14T14:32:47.392236Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "The ELMS page is SO disorganized - it is genuinely the most frustrating thing ever. Half of the pre-lab questions do not make sense due to them having either A) Wrong/nonexistent answer choices or B) Completely mistyped answers/Answers that will not be found in lab manual. If you don't have a good TA, good luck. This class is a joke. The lab director (Dr.Guest) needs to get her shit together and fix this fucking course. This is one of the LARGEST lab classes at UMD, and its this disorganized? Like come on. There are plenty of more chem doctorates who can do what she does but a million times better. I cannot believe that she hasn't been fired yet.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-09-23T02:07:30.395342Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "My main complaint with this course and lab coordinator is that the rubrics for post-lab assignments are incredibly nit-picky and points are taken off for errors that are impossible to anticipate. There is almost no specific directions in this entire course, and I do not blame the TAs. The lab coordinator is mostly to blame.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2025-10-12T19:19:37.055227Z"
+    },
+    {
+      "professor": "Abby Melick",
+      "course": "CHEM132",
+      "review": "99% sure she's graduating, but in the off chance she ever comes back to UMD to teach or something, or even in the case that she searches her name randomly on here one day, I felt the need to write this review. Abby is the chillest, most helpful TA I've had by a long shot. She includes pre-lab and wrap up slides which essentially none of the other 132 TAs do, or so I've heard from friends in other sections (I send them the slides every week because they're so helpful when it comes to decoding the awful lab manual/instructions). If we have questions she's always available to answer them, and I'm genuinely sad that I'll have to deal with different TAs that are surely less understanding and chill. If you have her this spring (if she's still a TA) you got super lucky!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-11-18T06:00:59.202838Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "The TAs are very nitpicky with grading post-labs, but you can definitely achieve a 100% on post-labs. I received many 100s across the post-labs by simply attending the TA office hours and asking my questions (plus you get another pair of eyes to look at your work). You have to make sure you have proper sig figs, proper graph titles, etc. Also, even if you get a good TA, they do not grade your labs lmao. That is probably the worst part about this class, it's meant to be fair since one TA might be really nice and show favoritism towards you, while a random TA will just grade normally. Post-labs do take a long time, they are very annoying. I feel like I didn't really learn anything from the lab because the lab was always ahead of my lecture. Thankfully, there is no practical; in lieu of this, you have the reflection quizzes. Reflection quizzes have 3 questions (usually), so if you get one wrong every time, your grade is sort of screwed. Just make sure to study the previous lab, including calculation stuff and conceptual stuff, because you will have to know those types of things to answer questions. My TA was incredible, though, so that's why Dr. Guest gets 2 stars. Overall, I did more work for this 1-credit class than my math class (4 credits). I think reflection quizzes, TAQs, and lab practicals need to be destroyed/eliminated/burned/combusted out of existence. I hope the chemistry department at this school gets better, although I am not sure this will ever happen, the department is garbage.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2025-11-19T01:22:44.603587Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "I have come to learn that labs are ALWAYS extremely uncoordinated and not in relation to lecture at all (very rarely will there be a crossover of material). The main assignments consist of the pre lab quiz, actual lab procedure, post lab, lab report, and reflection quizzes. None of the assignments are that difficult just tedious and sometimes don't relate to the lab (like the post lab questions in the manual). Also, highly recommend you study for the reflection quizzes because they will send your grade DOWN if you get one wrong (usually 2 or 3 questions so one question wrong is like a 50% or 60%). The biggest thing for me this semester was the grading. It is almost the end of the semester and lab reports from the very beginning of October have not been graded. Additionally, the TAs like to take points off for ANYTHING. Thank god grade scope lets you resubmit so just make sure you check over all of the requirements in there and in the module for that week to not miss stupid points. All of the TAs grade very differently (ex: I forgot to add something to the title page on two separate lab reports and one TA took points off and another did not). The lab is really not that bad. I had an alright TA who tended to divide the procedure into groups so we could get it done, share answers, and leave faster. I stayed till the actual lab ending time only once or twice. So far out of the labs I have taken, this has been the easiest one. But, everything other than that (like online and assignments) is unorganized, last minute, and unfair. It is an enormous amount of work for it being 1 credit. It is manageable, but it is highly annoying that it's more work that half of my other classes. It's funny that I have never even met the lab coordinator, yet she gets 1 star. Pray for a good TA and ask questions. Mine was pretty responsive over email. Have fun.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2025-11-20T16:22:41.695687Z"
+    },
+    {
+      "professor": "Abby Melick",
+      "course": "CHEM132",
+      "review": "The absolute best TA. No idea if she's going to be a TA for the spring semester but she was genuinely so helpful during lab. She made labs easier considering how horrible the lab coordinator is, and how poorly the course is designed. She sent out wrap up slides every week (which many other TAs don't do!) which were incredibly helpful when completing the post labs. This course is absoltely dependent on your TA; if you have Abby you're gonna be fine, hope she stays.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-11-21T19:46:11.532952Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "Only spoke to Professor Guest once and she was very helpful. The course was difficult but if you attend the TA's office hours then you will do fine. It was a rough start in the beginning of the semester but once you get used to doing the lab reports then it's not too bad. I recommend going to Gloria Kuate's or Rishi Kumar's office hours if they are still TA's for this course.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2025-12-03T02:43:56.757770Z"
+    },
+    {
+      "professor": "Madison Trice",
+      "course": "CHEM132",
+      "review": "Maddie is probably one of the best TA's I will ever have in college. She was extremely helpful in the lab, whether that be helping you understand the procedure or calculations after the fact. She responds to emails wicked fast, and clarified any problems I had with post lab. Overall a really nice person and great TA.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2025-12-09T02:15:17.286282Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "You will most likely never see Mrs. Guest unless you meet with her outside of the lab. The class is hard but manageable with weekly pre-lab quizzes, lab, post lab questions, and reflection quizzes. Mrs. Guest records videos to watch before taking the pre-lab quiz and they almost are never helpful for the test. Though, if you have a good TA you will do good, and make sure to visit office hours for help on the post lab questions. Only TA\u2019s grade the post lab questions, some are forgiving and others not so much, getting random points off that I didn't even know I needed to include in my responses. Overall, the class is manageable if you put in the effort.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-12-09T17:12:33.138110Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "This was one of the most disorganized classes ive ever taken. The content itself is manageable, but there are always problems with the lab materials and sessions, and quiz grades are extremely unfair (3 difficult questions that tank your grade). Honestly it all depends on your TA, mine was a man who couldnt care less about the class, and never knew what was going on. If you have a good TA who gives you resources, you should be fine.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2025-12-10T19:42:09.121606Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "Like other people said, your lab experience mostly depends on the TA. 132 was timed really badly with 131 lectures so we would do the lab a week or two before the lecture so we wouldn\u2019t know what we were doing or the science behind it until after the lab report was submitted. \r\nThe TAs do all the grading and I lost a bunch of points on dumb stuff but my TA Docia kindly looks over any requests you have and will most likely give you points back as long as it\u2019s sort of reasonable. \r\nPost and pre lab quizzes were BS where you could lose a bunch of points easily. The post lab quizzes are taken in lab 2 weeks after you do the lab, so you forgot everything already. They are each 3 questions worth 10 points in total, so it\u2019s really easy to get a 0, 3, or 6 out of 10 which will lwk tank your grade since each of the 10 labs is only worth around 30-40 points. \r\n\r\nLab reports are all done essentially as worksheets with written responses and math work shown. They\u2019re okay, kind of time consuming but not terrible, though it's so hard to get all the points since we never get to see a rubric beforehand. I lost tons of points on significant figures in my data sheets and other small mistakes. All the labs we do are kind of boring and our data is always wrong because we suck and all the equipment is broken. \r\n\r\nFYI for resources you do need goggles, lab coat, the lab manual and a lock (any lock is fine it doesn\u2019t need to be the bookstore one) . You don\u2019t need a special calculator (I used TI-84 but any graphing or nongraphing will work) or a flash drive",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2025-12-11T19:24:25.374925Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "If you don't put any effort into this class, then call it wraps. In order to do you well in this lab you need to put ALL your effort into the pre-lab quizzes, lab reports, and ESPECIALLY the reflection quizzes. The pre-lab quizzes were sometimes hard, only because topics weren't covered in lecture yet, but very doable. Lab reports should be an easy A, except for the time you get graded by a TA who prays on your downfall and takes off petty points (I swear some TAs have massive egos and need a reality check). On that note, the TA that leads your lab is not always the person who grades your lab reports, however, if you had a GOATED TA like I did, then you shouldn't have to worry about it because they can easily look over you lab report and make any changes to the grading as needed. Something that WILL kick you in the ass is the reflection quizzes. Since they are only 2-3 questions if you get one question wrong your grade gets TANKED like fucking D-Day. Expect to get a 0 or 50 on a few. I ended up getting one 0, one 50, and the rest 100 because I locked in. At the beginning they were really hard and were designed to trip you up, BUT as the semester went on they got significantly easier. And if/when you get those low reflection quiz scores, getting really good grades on the lab reports will balance that. Dr. Guest ended up dropping the lowest reflection quiz, so she is goated for that. She also decided to drop the lowest lab report and pre-lab quiz which brought my grade to an A+. Overall, my tips to succeed in this course is to find a TA that actually cares, is willing to answer your questions, and go to their office hours for help on your lab report. Before you know it lab will be over and you will be FREE!!!",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2025-12-17T17:27:32.688924Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "Class is pretty disorganized and the pre and post lab quizzes are difficult but doable. The labs are graded by TAs but you don't know the rubric so it's hard to get full points on them. The class experience itself really depends on your TA.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-12-18T01:53:52.342357Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "If you're considering taking this class, it's probably because its a required class for your major in which case you'll be stuck taking it in either case. So, I'm not going to tell you whether or not to take this class, I'm just gonna tell you what to expect. This lab definetely isn't easy, but it also isn't the hardest class. There are tons of office hours to choose from, so find a good TA to ask questions to and you'll be fine. Your experience in lab def depends on your TA (shoutout to Ireen--she's the best!), but again if you dont understand something in lab just ask your friends or go to office hours. You are going to have to take prelab quizes which are honestly pretty hard (her panopto videos can be helpful for these, but they can be long and hard to understand) as well as post lab quizes which I found less hard (but it is true that you take them three weeks after the lab). The post labs can at times take a really long time, but usually aren't too difficult. There are a few oppurtunities for extra credit, and our year she dropped the lowest quiz grade and lowest lab grade. Moral of the story is it's going to be a challenge but you've got this!",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2025-12-29T22:01:44.365772Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "The course is unfortunately very unorganized, and communication often comes across as passive-aggressive. Points are deducted very strictly, so I recommend requesting regrades whenever appropriate, as points are often returned. Earning a good grade is possible, but it requires extra effort. I also had a TA (Joshua Mathew) who did not seem well-prepared which was unfortunate bc labs are completely run by the TA. This negatively impacted my experience so hopefully future students are assigned a more effective TA.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2026-01-06T19:18:00.556854Z"
+    },
+    {
+      "professor": "Joshua Mathew",
+      "course": "CHEM132",
+      "review": "always seemed like he was in a mood...i got a good grade but it definitely wasn't the result of the TA",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2026-01-06T19:19:23.994782Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "Dr. Guest was not the lab proctor in fact I never saw her once our labs were TA led so it really just depends on who you get as a TA. The labs were okay not too hard your just had to be focused and pay attention to the directions HOWEVER the post lab quizzes were absolutely awful it had nothing to do with what we learned I got a 0/10 on most of them but it didn't affect my grade that much. Lab grading was super annoying because marks would be taken off for literally anything like if they can't \"read\" your handwriting or even a decimal off on a calculation so just beware of that.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2026-01-11T02:41:30.640479Z"
+    },
+    {
+      "professor": "Rishi Kumar",
+      "course": "CHEM132",
+      "review": "Very good TA! Covers content very well. Sometimes, the labs weren't perfectly run, but overall quite nice",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2026-01-22T00:10:12.914239Z"
+    },
+    {
+      "professor": "Christiana Guest",
+      "course": "CHEM132",
+      "review": "This review is not much about Dr. Guest but mainly the actual course. Based on my and my friends' experiences, Dr. Guest doesn't really respond to emails, and I made sure that I wasn't asking a stupid question that could be answered by my TA or syllabus for that email. \r\n\r\nEverything really depends on who your TA and lab partner is, and also what TA grades your lab reports, which goes on a rotating basis through all the TAs. I personally think the lab report grading was pretty fair, and I didn't really get points off for anything I thought was nitpicky. Some of the reflection quizzes and pre-lab quizzes were really annoying, because a single multiple choice question would cost you like half of the total points. The labs and lab report questions themselves were pretty easy, and this class can actually be pretty fun if you have a good lab partner. The lab does not line up at all with the lecture though, so be prepared to ask for help.\r\n\r\nThe lowest lab report score (plus the pre-lab for that lab report) and the lowest reflection quiz score was dropped as a reward for most of the class doing a survey about the lab when Dr. Guest asked us to at the end of the semester. Dr. Guest did not curve down for final grades, and I think she automatically rounded everyone who was close to a cutoff up. I don't really know what the curve was though, the way she assigns final grades are pretty mysterious.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2026-03-01T01:28:23.554837Z"
+    }
+  ],
+  "department": "CHEM",
+  "course_number": "132",
+  "name": "CHEM132",
+  "title": "General Chemistry I Laboratory",
+  "credits": 1,
+  "description": "<b>Prerequisite:</b> Must have math eligibility of MATH120 or higher.\n<b>Corequisite:</b> CHEM131.\n<b>Credit only granted for:</b> CHEM103, CHEM132, CHEM136, CHEM143, CHEM147 or CHEM177.\n<b>Formerly:</b> CHEM103.\nIntroduction to the quantification of chemical substances, including the concept of the mole and chemical stoichiometry. Additional work involves the synthesis of ionic substances and their qualitative characterization. Must be taken concurrently with CHEM131.\n<i>Laboratory sessions will begin after the first lecture. Students must pay a $40.00 lab materials fee.</i>",
+  "is_recent": true,
+  "geneds": null
+}

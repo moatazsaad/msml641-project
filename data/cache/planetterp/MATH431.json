@@ -1,0 +1,79 @@
+{
+  "average_gpa": 2.975666666666667,
+  "professors": [
+    "William Goldman",
+    "James Schafer",
+    "Brian Collier",
+    "Justin Wyss-Gallifent",
+    "William Goldman",
+    "William Goldman",
+    "William Goldman",
+    "William Goldman"
+  ],
+  "reviews": [
+    {
+      "professor": "William Goldman",
+      "course": "MATH431",
+      "review": "Quite possibly the biggest disappointment of a class I've ever had. His class has no direction or structure. \"Lectures\" are just a discussion between himself and the 4-5 math geniuses in class who already know everything, while everyone else is left in the dust, not following a single word. This makes the homework problems and tests pretty hard. Finals are coming up and it will be interesting to see how he decides final grades, since everyone seems to be doing either really well or abysmally bad.",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2013-12-17T16:43:00Z"
+    },
+    {
+      "professor": "William Goldman",
+      "course": "MATH431",
+      "review": "Don't be fooled... this is a projective geometry course, not a computer graphics one.  There is zero computer work involved, and almost no discussion about of how the material could even be applied to computer graphics.  The professor admits that it is an \"experimental\" course... meaning there is no text, making it very difficult to follow if you get lost.  He should really have lecture notes posted online to give students at least SOMETHING to go by.\n\r\nOnly take it if you kick ass at Linear Algebra.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2008-12-24T03:24:00Z"
+    },
+    {
+      "professor": "William Goldman",
+      "course": "MATH431",
+      "review": "Dr. Goldman is such a nice and helpful instructor!  He is always willing to meet with his students outside of class to discuss homework, class material, and even just normal things in life!  His homeworks were challenging because he wanted students to be challenged, but he's more than happy to elaborate or assist you if you're really stuck on a problem.  He also provided us with notes from previous semesters, both from him and Justin Wyss-Gallifent, which were super useful in clearing up any confusion in the material.  Overall, the course was difficult but Dr. Goldman was super helpful and friendly to everybody.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2020-12-29T23:19:21Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "MATH431",
+      "review": "Honestly with the way the class is setup, he wants you to succeed. Some homeworks can be challenging but he offers a lot of help during office hours. The class itself itself is really interesting, mainly because of how Justin teaches it.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2021-12-23T13:43:11Z"
+    },
+    {
+      "professor": "William Goldman",
+      "course": "MATH431",
+      "review": "He is a very sweet guy and cares about you're grade and makes fair assignments. However, his lectures could be structured a bit better as they can be all over the place at times",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-11-29T18:23:02.056799Z"
+    },
+    {
+      "professor": "William Goldman",
+      "course": "MATH431",
+      "review": "This class has absolutely NOTHING to do with computer graphics. The title and description are entirely inaccurate. This is a class on projective geometry and linear algebra. We never actually discussed anything to do with computers or how the projective geometry translates to coding in the slightest. That being said: for this semester fall 24 the course structure was relatively stress free. The entire grade was 5 HW assignments that usually had 5 problems each (each with 3-7ish subproblems so 25 problems on average per HW), but we were allowed to complete them in groups of up to 5 people. His lectures are generally poorly structured and lack any direction. They are hard to follow if you aren't really good at linear algebra already. The lectures also have pretty little to do with the HW assignments, so there's not much incentive to learn or pay attention from class. Overall I don't think i have learned less from a class in my 7 semesters so far in college. I will say it was nice being able to forget about the class for 2-3 weeks at a time, then on the day before the HW is due grind it out with my group. Mr. Goldman is a very kind and understanding person who does want you to succeed so he will work with you in office hours or during class if you're brave enough to ask for clarification enough times. This class is \"experimental\" so it is still evolving, and I am not sure whether this same low-learning stress-free model will be implemented in the future, so take at your own risk. 4/5 stars for the easy stress free upper level elective. If this class had any sort of difficulty to googling the answers on the HW's or if it was harshly graded then I would give it 2/5/",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-12-05T19:07:04.007227Z"
+    },
+    {
+      "professor": "William Goldman",
+      "course": "MATH431",
+      "review": "This is a really great class to take. It's very do able to get a decent grade, and the workload isn't that much. I like the group homework structure, as well as some of the insights he brought up in class. Everything is clear and straightforward, and he's actually very kind and approachable too.\r\n\r\nI will say though, you won't learn much from the class unless if you do go above and beyond. I took this class as I really love computer graphics. And yes, while it's true it has nothing much to do with CG, the class still teaches the fundamentals that make CG happen and is very important to be able to go further into this field. I really liked Justin's notes for this class, especially the earlier content. I feel like as we started going near the end of the class, topics started to feel not relevant to CG (or at least my areas of concentration) anymore. Prof. Goldman brought up topics that I'll be honest are very new and just honestly impossible for me to comprehend. It was also very unstructured and didn't feel organized at all based on how the lectures went. \r\n\r\nRegardless, 10/10 class to take at UMD! You will expose yourself to the deeper areas of math even more, and you will have a great time taking this course.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2026-01-15T19:54:48.585616Z"
+    }
+  ],
+  "department": "MATH",
+  "course_number": "431",
+  "name": "MATH431",
+  "title": "Geometry for Computer Applications",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> 1 course with a minimum grade of C- from (MATH461, MATH240, MATH341).\nTopics from projective geometry and transformation geometry, emphasizing the two-dimensional representation of three-dimensional objects and objects moving about in the  plane and space.  The emphasis will be on formulas and algorithms of immediate use in computer graphics.",
+  "is_recent": true,
+  "geneds": null
+}

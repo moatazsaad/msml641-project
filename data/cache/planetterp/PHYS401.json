@@ -1,0 +1,167 @@
+{
+  "average_gpa": 2.711053412462908,
+  "professors": [
+    "Ian Appelbaum",
+    "Sylvester Gates",
+    "Christopher Monroe",
+    "Steven Rolston",
+    "Christopher Lobb",
+    "Daniel Lathrop",
+    "Steven Anlage",
+    "Gregory Sullivan",
+    "Victor Galitski",
+    "Chandra Turpen",
+    "Gregory Sullivan",
+    "Steven Rolston",
+    "Kara Hoffman",
+    "Chandra Turpen",
+    "Steven Rolston",
+    "Kara Hoffman",
+    "Steven Rolston",
+    "Kara Hoffman",
+    "Phoebe Hamilton",
+    "Christopher Palmer",
+    "Kara Hoffman",
+    "Kara Hoffman",
+    "Phoebe Hamilton",
+    "Christopher Palmer"
+  ],
+  "reviews": [
+    {
+      "professor": "Carter Hall",
+      "course": "PHYS401",
+      "review": "This professor is a no-nonsense professor. His notes just get straight to the point. His notes are also very clear and excellent. His tests are no-nonsense. They are similar to the homework problems, and his final exam just re-used questions from old homeworks and midterms. He is not out there to try to get you or screw you over. He is just straightforward. If you study, you'll do well; that simple. No strings attached. His assignments are simple, and are much more testing of concept, and not just mathematics. An excellent physics professor indeed.  I dont think he'll teach PHYS401 a year from now ... which is unfortunate for many (as the PHYS dept. does 3 - year cycles). Good luck to those who have not had this guy for 401. ",
+      "rating": 5,
+      "expected_grade": "B-",
+      "created": "2011-12-26T01:44:00Z"
+    },
+    {
+      "professor": "Carter Hall",
+      "course": "PHYS401",
+      "review": "I've had Dr Hall twice now. I liked him the first time (phys272) and I loved him the second tie (phys401). He's a good lecturer. His notes were very well organized, which is something I find extremely helpful in understanding the material. He also would use the discussion time to go over the answers to the homework, which was amazingly helpful. The tests for 401 were take home, which made it more about what you actually understand and less about what you can remember in an hour.\r\nHe has definitely been my favorite physics professor.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2010-11-09T12:50:00Z"
+    },
+    {
+      "professor": "Christopher Monroe",
+      "course": "PHYS401",
+      "review": "Do not take him. He is awful. Worst Professor of all time. He is mean. Bad! He  ate my cheerios",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2014-05-14T19:38:00Z"
+    },
+    {
+      "professor": "Sylvester Gates",
+      "course": "PHYS401",
+      "review": "So I had a lot of problems with Gates' teaching style. First is that, being a theoretical physicist whose career is based on quantum mechanics, he is a bit too good at the concepts in this class. So he would often go over material too quickly for everyone to understand it. \n\r\nAlso, he was frequently out of town so we would often have a substitute which was not a horrible thing but I kind of like consistency. \n\r\nHowever, my biggest problem was his grading. He gave several quizzes throughout the semester and one of those was the day before Thanksgiving. How many people go to class that day? He also refused to let people make the quiz up.\n\r\nOn both of the midterms, the front page said you have 2 hours to complete the test. We had 1 hour classes. So pretty much no one finished the tests and the grades reflected that. Even if we had had enough time the tests were incredibly difficult and the grades still would have been awful (virtually all the questions were incredibly difficult unless you knew some obscure math trick).\n\r\nThese poor grades are reflected by the grade distribution. I think that over 60% of the class got a C or below, including about 1/4 of the class getting D's or F's. In my opinion, that is an absurd distribution that reflects an awful grade policy. \n\r\nThat said, he was good about answering questions so if you knew what you didn't understand you could ask for help easily  enough. But I really didn't know what I didn't know until after the tests.",
+      "rating": 2,
+      "expected_grade": "C",
+      "created": "2013-08-14T16:03:00Z"
+    },
+    {
+      "professor": "Sylvester Gates",
+      "course": "PHYS401",
+      "review": "I've never met a man who has such a deep understanding of the subject matter at hand before taking a class with Dr. Gates.  He is very passionate about what he teaches and genuinely wants everybody to do well.\n\r\nPROS:\r\n- Class is engaging and upbeat\r\n- Fair grading scheme\r\n- Definite sense of actually learning something throughout taking the course\n\r\nCONS:\r\n- Tests are DISGUSTINGLY hard; the first test had an average of about a 50%, and the second test grades were so poor that he did not count it.\r\n- Is absent frequently",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2012-12-22T03:22:00Z"
+    },
+    {
+      "professor": "Christopher Lobb",
+      "course": "PHYS401",
+      "review": "Best prof I've had, makes class entertaining and clearly cares about students. Also exams never require memorization at all, only test for understanding.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2017-11-24T03:30:47Z"
+    },
+    {
+      "professor": "Kara Hoffman",
+      "course": "PHYS401",
+      "review": "I thought this class was very well-taught. I've come out of it with a strong understanding of the fundamentals of QM and feel like I was able to follow along with the material without having to fake it. Homeworks were usually helpful and suitably challenging, albeit often computationally intensive and tedious (don't shy away from using Mathematica/integral calculators). Exams were very fair as long as you went over the homework and understood it. There were a few lectures (spherical harmonics, harmonic oscillator) where she just quickly went through a complicated derivation, which I didn't find particularly useful, although I don't really know how I would teach those in an engaging or memorable way either. Most lectures were engaging and comprehensive. \r\n\r\nI know there was a lot of frustration from the class over the fact that 20% of the grade was participation/attendance. 10% of the grade came from attendance to the weekly Friday discussions/group worksheets. She dropped one of these at the end of the semester if you missed it but wasn't really communicative or forgiving if you had to miss more than one, so just don't be sick on Friday more than once I guess. Another 10% of the grade was \"class engagement\" through Piazza, which she graded based on whether or not you were responding to the in-class clicker questions because people weren't posting questions/discussions outside of class enough. She didn't tell us this until the end of the semester, so lecture attendance was being secretly graded.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2023-05-29T16:24:43.529929Z"
+    },
+    {
+      "professor": "Kara Hoffman",
+      "course": "PHYS401",
+      "review": "I have nothing but praise for Dr. Hoffman\u2019s PHYS401 course. Every element of this class was useful for learning the material. Homeworks were legitimately helpful for both learning and studying. Friday discussions repeatedly hammered concepts into my head until I genuinely understood them. The textbook choice was great. Exams were just the right level of difficulty. Dr. Hoffman even went the extra mile to post exams from previous years for us to practice with, which was a great study tool. I haven\u2019t taken the final exam yet, but Hoffman said she\u2019s willing to replace our lowest midterm grade with the final exam grade. If you have the chance to take PHYS401 with Dr. Hoffman, you should do so with no reservations!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-06T15:04:38.432573Z"
+    },
+    {
+      "professor": "Kara Hoffman",
+      "course": "PHYS401",
+      "review": "Extremely lazy lectures. Slides are direct copy from the book but without the care and the detail. She also stumbles through HER own slides like she doesn't know what she's talking about. She is clearly very smart and is an expert in astroparticle physics experiments, meaning she is obviously well-versed in the subject. But she absolutely fails to convey that enthusiasm and knowledge through her lectures.\r\n\r\nWe used some god-forsaken copyrighted material from some other university for our discussion session activities, which meant that she could not post the solutions on elms at the risk of being sued. She said she would have the solutions available at TA office hours but they did not, in fact, have the solutions.\r\n\r\nThe homeworks were graded so slowly. I mean what's the point of getting a hw I submitted a month ago to be graded now? I don't completely blame the TAs because they had to hold office hours, show up for discussion sessions, etc. I think they should hire more TAs or reserve 1 of the 3 for just grading purposes.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2024-05-10T01:44:37.045668Z"
+    },
+    {
+      "professor": "Kara Hoffman",
+      "course": "PHYS401",
+      "review": "Kara Hoffman is the worst physics professor I have ever had at UMD. First of all, she is an awful lecturer. She only lectures from premade slides that move way too fast and anyways don't teach anything. She knows her lectures are bad, so she forces students to come to class by grading them based on their responses to clicker questions (this is 10% of your grade). None of this helps the actual issue, which is that she doesn't know how to teach at all. Another 10% of your grade is attendance for discussion sections, where the worksheets given are usually on topics that have not been taught yet, so that is not very useful. Indeed, this same issue was present in the homework. Also, Hoffman gave a more difficult first midterm than we were led to expect (average in the 60s and most people agreed with this sentiment), which wouldn't necessarily be an issue, except for the fact that she previously said we should expect a pretty easy midterm that most people can finish before class ends. \r\nAdditionally, Hoffman also insisted on using the textbook of MacIntyre, not Griffiths. MacIntyre is a terrible quantum textbook because it derives next to nothing, so you are really left to just memorize formulas without understanding the underlying physics. Hoffman's lectures are somehow even worse, and explain absolutely no concepts and are all about calculations and memorizing formulas. \r\nOn top of all that, Hoffman is rude and snarky in manner and not understanding at all. She does not care if her students succeed and seems disinterested in their learning. Anecdotally, for example, she wrote in the official syllabus that students could come 10 minutes late to the discussion section with no points lost. However, without telling the class, halfway through the semester she started taking off points from participation for students who were even just a minute late. This is a breach of the syllabus and therefore against university rules, but Hoffman doesn\u2019t care. She insists we are in class for every possible second, which makes it all the more infuriating that being in her class is completely useless since she is a terrible lecturer. \r\nFor a class as crucial for a physics student as quantum, it was exceedingly disappointing to have had such a bad experience and learn so little conceptual information. If you can afford to wait a semester and take quantum with a different professor, I would highly recommend doing so and wish I did so myself.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2024-05-10T19:46:37.713199Z"
+    },
+    {
+      "professor": "Kara Hoffman",
+      "course": "PHYS401",
+      "review": "Kara Hoffman is an extremely poor professor. She doesn't explain the content well at all during lectures, and the textbook that she insisted we use (QM by David McIntyre) was no help at all, as it more often than not simply presented us with complicated formulas without explaining or deriving them at all, so we were left with an incredibly poor grasp of many concepts in this class. She also insists on forcing her \"active learning\" style on students, where 10% of your grade goes to answering piazza questions for participation in lectures, and another 10% goes to attending discussions, such that 20% of your total grade ends up having nothing to do with your grasp of the material. All in all, this was an atrocious learning experience, and if you can, I'd recommend waiting a semester to take this class with a different professor.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2024-05-10T20:13:59.038956Z"
+    },
+    {
+      "professor": "Kara Hoffman",
+      "course": "PHYS401",
+      "review": "Having had Dr. Hoffman for PHYS171, this class was a big improvement over that experience. Lectures were good and they remained engaging thanks to regular Piazza questions that also helped to reinforce the material. The homeworks were the perfect length to really learn the material while not being super tedious. The exams were also fair in my opinion. I think the only thing keeping this from being 5 stars is McIntyre not being the my favorite textbook. \r\n\r\nThe TAs were also really good. Regardless of how good at physics you are, I recommend going to the group problem solving sessions. They're totally worth it.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-05-11T05:28:40.258339Z"
+    },
+    {
+      "professor": "Kara Hoffman",
+      "course": "PHYS401",
+      "review": "Dr Hoffman might be one of the worst Physics professors at UMD. First of all, this class is structured entirely differently from every other physics class you have taken up until this point. Regardless, she uses material which for some reason cannot be emailed to us or shared, due to it being copyright material.... this begs the question, where is our tuition going that we must use illegal documents? Furthermore, she is extremely rude and seems to have such an ego about questions, or if you don't know something. \r\n\r\nworst professor i've had for a physics class, and i've had some pretty bad ones before.....",
+      "rating": 1,
+      "expected_grade": "C-",
+      "created": "2024-12-18T19:11:43.116172Z"
+    },
+    {
+      "professor": "Christopher Palmer",
+      "course": "PHYS401",
+      "review": "Hes a good lecturer who cares a lot and gives fair exams. The homeworks are extremely long though so start early every time. Participation weighted quite heavily (inclass clicker + piazza is just under a quarter of the grade.) More of a 3.5 star than a 2.5 star but am limited by the scoring system here.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-04-20T04:22:22.581257Z"
+    },
+    {
+      "professor": "Christopher Palmer",
+      "course": "PHYS401",
+      "review": "I don't know what's going on with the other reviews, Dr. Palmer is genuinely one of the best professors I've ever had. He really cares about his students succeeding and will spend time, both in class and during office hours, to ensure that his students understand the material. Also, his exams are extremely fair and he gives a practice exam before each exam. He's also extremely clear about what he wants you to take away from the class and what you should study. He does require in class participation on slido, but it's not that big of a deal. He also has a policy where you can make your grade just your final exam grade or just the grades you got on all the exams averaged, if you didn't do well on the homeworks or didn't go to class.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-04-30T15:45:03.521231Z"
+    },
+    {
+      "professor": "Phoebe Hamilton",
+      "course": "PHYS401",
+      "review": "Awesome class and a good prof, reasonable homeworks and exams not too bad",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-12-12T19:21:23.015459Z"
+    }
+  ],
+  "department": "PHYS",
+  "course_number": "401",
+  "name": "PHYS401",
+  "title": "Quantum Physics I",
+  "credits": 4,
+  "description": "<b>Prerequisite:</b> PHYS371 and PHYS373.\n<b>Formerly:</b> PHYS421.\nIntroduces some quantum phenomena leading to wave-particle duality. Schroedinger theory for bound states and scattering in one dimension. One-particle Schroedinger equation and the hydrogen atom.",
+  "is_recent": true,
+  "geneds": null
+}

@@ -1,0 +1,704 @@
+{
+  "average_gpa": 3.4975436562567923,
+  "professors": [
+    "David Kirschtel",
+    "Swarna Mohan",
+    "Swarna Mohan",
+    "Swarna Mohan",
+    "Swarna Mohan",
+    "Swarna Mohan",
+    "Swarna Mohan",
+    "Swarna Mohan",
+    "Ronald Clark",
+    "Swarna Mohan",
+    "Swarna Mohan",
+    "Ronald Clark",
+    "Swarna Mohan",
+    "Swarna Mohan",
+    "Swarna Mohan",
+    "Donald Costello",
+    "Swarna Mohan"
+  ],
+  "reviews": [
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "This professor did not care about the students while going through a rough time in S20",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2020-05-13T01:50:56Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "During this Spring20 semester as bio171 lab has been online, this lady (as the head of the department) was a NIGHTMARE to deal with. She thought that by opening up a discussion thread she would be able to answer all questions students had in an efficient way. As students, we assumed she would be answering all our questions and trying to be as helpful as possible as moving a lab online is very difficult for students to manage as much as the TAs. But NO. She was of NO help when you asked a question in the discussion thread, and just tell you to refer to a different page, when we already didn't understand that page in the first place. Overall, I wish I never had the chance to have to work with this lady, as she was very bad with communicating and helping her students during this semester. Just horrible!",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2020-05-16T03:37:09Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "Professor Mohan is strict and straightforward. She is not very helpful herself, especially since this class is asynchronous, so if you need help you have to ask a TA. The lectures are not that long but do not provide adequate information for the weekly quizzes. Overall this class is a LOT of work (labs, quizzes, lab reports) all for just 1 credit.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2020-12-04T17:45:10Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "The professor herself did not really engage at all especially in the virtual setting and she did not provide much clarification. On the flip side, the class itself was not too hard to get a decent grade although the workload for it was too much for a 1 credit class. The TAs I had this year was a lenient grader and gave good clarification on assignments.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2020-12-09T21:15:13Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "171 was a very easy class to do online that requires very little effort. The lab simulations were kind of silly, and based on the lab manual, I imagine the labs would be pretty difficult to do in person. The quizzes were very easy, and you had to take them all twice, where the second attempt is worth more points (the questions are exactly the same though). Dr. Mohan didn't really make much of an effort to reach out to students; I don't even know what she looks like. Her pages on elms were also pretty cluttered, but they gave specific enough instructions.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2020-12-16T20:47:15Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "Professor Mohan is strict and straightforward. She is not very helpful herself, especially since this class is asynchronous, so if you need help you have to ask a TA. The lectures are not that long but do not provide adequate information for the weekly quizzes. Overall this class is a LOT of work (labs, quizzes, lab reports) all for just 1 credit.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2020-12-18T23:13:02Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "The absolute worst professor at the University of Maryland. Completely unhelpful and way too much of a workload for a single credit. I would not recommend this professor and I only hope that she is fired soon, so that other students will not have to endure her pathetic teaching style and this horrible class experience.",
+      "rating": 1,
+      "expected_grade": "A+",
+      "created": "2021-02-04T21:03:29Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "Mohan straight up sucks. She gives way too much work for a 1 credit class and never really offers help to her students. Its so annoying how a 1 credit class has more work than some of my 3 credit courses. Do NOT take her class if you have the option to enroll in other professors' bsci171 courses.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2021-03-05T02:21:25Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "Excessive work and harsh grading, especially considering it's a one-credit class. She is very inflexible with due dates and other possible concerns; she's inconsiderate of student's time. In the online format, there is no direct interaction with her and she discourages it. Her lectures are somewhat helpful, but very dry and did not really elaborate much on the content found in the lab manual we are expected to read. In general, unhelpful and harsh. Would not recommend her class at all.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2021-05-07T17:46:31Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "I took this class online during Covid and I barely had any interactions with her. The TA's pretty much run the class, but an A is definitely possible. As long as you put in the work and actually take the time to watch the lectures, you'll do fine in the class. I ended the class with a 97% so it's very possible to get an A.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2021-05-11T18:00:12Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "I didn't really have to interact with her much thankfully since it was mostly the TA's running the class but GODDAMN did this class suck. All Mohan is really good at doing is assigning large amounts of ridiculously stupid assignments and gives little to no leniency with them. I legit spent so much more time on this class than I did my 3 credit BSCI170 course. I swear sometimes it feels like she rambles on more about academic dishonesty rather than actually teaching useful shit in her lectures and explaining assignments well. She also talked a lot about how assignments were individual and you weren't allowed to work with people on them. And I think she should first start by teaching things properly so that students won't feel the need to collaborate in the first place LMAO. Thank god I had a super chill TA though. She was super kind, helpful and a fair grader.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2021-05-13T16:39:43Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "The class is very straightforward and most of the time all assignments for the week can be done in a day or 2. Going to the TAs if you need clarification is important. Overall not too challenging to get an A if you put in the work to get assignments done and get help from office hours.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2021-05-22T18:11:57Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "The workload was heavy for a one-credit class, however, that's kind of always how it is for lab classes, so it's nothing new. The assignments we not very difficult, just time-consuming. As long as you spent time and effort on the assignments you should do pretty well. ",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2021-05-28T01:40:54Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "The expectations were very clear for this course and the work load was fair. If you put in effort, you will get an A",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2021-12-02T16:43:31Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "The TA ran the class so did not have much exposure to Dr. Mohan, but do not rely on her for questions. If your TA is not clear about what you are supposed to be doing (which mine is not) do not even try emailing Dr. Mohan because she will direct you back to your TA. Office hours are your best bet and usually clear all confusion. Hopefully you can understand your TA's accent (I couldn't) but if not, just go to office hours.",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2022-04-26T16:10:15Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "This is a lab so you will not be seeing Mohan at all lol. TA's run the class. My ta was very helpful and knowledgeable so I think it depends on the TA you get. To be honest, this class is so easy. Compared to Chem132(hell), this class is a breeze. Her assignments are easy and if you have trouble with it just go to office hours, it's that simple. Her pre-labs are pretty easy the answers are in the book/pdf she uploaded. If you manage to do well on all of her post lab, then you are for sure getting an A. She doesn't curve. The hardest thing in this class was probably the lab practical, lab report, and poster project (which you have to present). I did below average on the lab practical (an 80). But I assume that most people thought it was easy. I believe the average is an 87. The lab report is probably the hardest assignment with the average being an 80. And the poster project is pretty easy so don't sweat it. Majority of the class did pass with a B+. Anyways you are forced to take her anyways so you can't run away lol.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-05-18T13:21:23Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "The TA's run the entire class so you only will be able to see Dr. Mohan once or twice. This class really depends on your TA. The class is pretty straight forward with pre-lab assignments, post-lab assignments, lab practicals, and reports. Going to TA office hours is important, especially before the Lab practical, because they will go over everything to help you succeed. Make sure to show up to your labs (absences can be pretty rough because this class is solely based on you showing up). This class really depends on your TA, but overall just show up to labs and you should be ok. ",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2022-05-21T13:20:59Z"
+    },
+    {
+      "professor": "Dominc Brady",
+      "course": "BSCI171",
+      "review": "Dominic was fantastic! He always found a way to made lab enjoyable and entertaining for everyone. The class would have been much worse if it weren't for Dom's ability to light up the room with humor.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-12-08T22:21:26.666000Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "I never tried to contact her, and I never saw her. This is a class entirely taught by a TA. Still, she designed the class and I thought it was a good lab. Some of the instructions in the lab manual were a little hard to follow or confusing, but other than that it was all good. The lab manuals, to my knowledge, are also updated every year... so make sure to get the current lab manual!",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2022-12-09T17:05:16.767840Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "Literally had no interaction with her. This course entirely depends on your TA and I was lucky to get a really good one. The class itself isn't too difficult, but it was a bit time consuming, tedious, and boring.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2022-12-15T18:31:42.145543Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "I have never seen Dr. Mohan, as she is the lab coordinator. However, my TA (Householder), was awesome. I felt that the lab manual was well written and easy to follow, and that the assignments of the lab weren't overwhelming. A lot of the experience that someone has when taking a lab is due to the TA, but removing that factor, the guidelines, the manual, and the course structure created by Dr. Mohan were enough to make concepts stick in my mind (like DNA replication) but not too intense where I have to spend all of my time on a one-credit lab.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-12-15T22:59:39.556118Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "This class was really stressful. The grading wasn't necessarily harsh, but I never knew what to include in my worksheets or writing because the instructions for assignments were really vague. Weeks 4-16 are basically two different group projects, and if you have a bad group you're going to be spending a lot of time on the assignments. My TA usually let us out early.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2022-12-24T14:36:30.982145Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "Dr. Mohan does not directly teach us but she has multiple TAs to teach 1 section each. We've had multiple run-ins with Dr. Mohan and they've all been somewhat traumatic. By our 5th class, our TA got replaced by Dr. Mohan after an unrelated and unforeseen health emergency. Our lab section really loved that TA, but we expected that Dr. Mohan would fire her after that health emergency. Dr. Mohan swiftly replaced her with another TA. This TA was much, much worse than the other TAs. Our section overall had the lowest average score. Before our TA got replaced my grade in that class was an A+ and it ended up dropping to a C. Our lab section is always last to leave because she makes mistakes in the procedure, blames us for her mistakes, and for not correcting her. She never admits or acknowledges that anything is her fault. Our section is constantly anxious around her, partially due to how Dr. Mohan randomly drops into our lab section because our TA told her that we weren\u2019t good students. Also, don't attempt to ask Dr. Mohan for help, she will not help you. Another thing, she has a very strict policy and won't sympathize with you and give you leniency. Avoid this class and her if you can.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2023-01-11T22:13:43.681584Z"
+    },
+    {
+      "professor": "Dominc Brady",
+      "course": "BSCI171",
+      "review": "Dominic made lab fun and enjoyable, he was friendly and always open to help. He was also very knowledgable about biology and good at explaining concepts. I've heard from my friends about other classes, and I truly think this lab section would have been miserable if not for Dominic.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2023-02-09T18:43:34.483467Z"
+    },
+    {
+      "professor": "Jibreel Ali",
+      "course": "BSCI171",
+      "review": "Jibreel is a great TA who tries his best to engage students during lab. Very down to Earth and cares about the success about his students. He allows lab to end in a timely manner. He emphasizes the importance of efficiency, and he helps students out a lot.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-03-09T19:30:04.272108Z"
+    },
+    {
+      "professor": "Jibreel Ali",
+      "course": "BSCI171",
+      "review": "Jibreel is a very understanding TA who genuinely cares about the success of his students. He always makes sure that lab does not go over how long the protocol is supposed take and engages with students to make them more interested. Jibreel inspires me on a daily basis and helps me with many hardships.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-03-09T19:35:05.234507Z"
+    },
+    {
+      "professor": "Jibreel Ali",
+      "course": "BSCI171",
+      "review": "Jibreel is probably my favorite TA Ive had so far. He explains the lab material clearly and quickly and answers any questions one has during the lab. He's a good grader and everything is very fair.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-03-30T23:11:15.085853Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "I never met professor Mohan, but this wasn't an issue at all. The pre-labs are fairly easy and you have two attempts, so you should be able to get 100 on most of them. There were no exams and instead were some projects interspersed throughout which I actually found quite fun and actually applicable to possible future research. None of them were too hard either. I had a fantastic TA (Elizabeth!!) who was super kind and helpful, so that always made lab go a lot smoother.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-05-02T01:14:05.336919Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "Supper rude and inconsiderate. She is opposite of helpful and you can tell she doesn't give a damn about her students.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2023-05-05T00:40:44.549684Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "I am honestly shocked by this professor and her actions.  She has been beyond unprofessional, rude, and unhelpful in every interaction that I've had with her. She doesn't even teach the class directly week-to-week, but she's made it very clear that she assumes the worst in every student. She does her best to inconvenience students, especially when they ask her questions or ask for extensions due to extenuating circumstances. Furthermore, she has jumped to extreme conclusions and falsely reported dozens of students for 'plagiarism'. It's very unfortunate that she is the only professor for BSCI171, but her behavior needs to change.",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2023-05-08T19:17:07.637211Z"
+    },
+    {
+      "professor": "Jibreel Ali",
+      "course": "BSCI171",
+      "review": "Jibreel was a great TA. I would take this section a million times over. He was super chill and did not make everything seem so serious. It was great. He also explains the long lab manual material in simpler terms, which is awesome.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2023-05-13T03:13:09.510264Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "I never interacted with her, but her lab manual is a scam. You pay like $25 for a lab manual that is poorly written, confusing, and ridden with errors, and she has about 1000 or so students each semester all of which need to buy in order to succeed, so she is making bank scamming college students. She was super strict about small things. I turned in one assignment 3 minutes late, which is my fault, but I ended up getting 1/2 credit. Aside from her being super strict, your experience within the class will be reliant on your TA.",
+      "rating": 2,
+      "expected_grade": "A+",
+      "created": "2023-05-14T18:17:25.973154Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "I never met Professor Mohan, but I've heard she is extremely scary even from my TA so it's ok. The pre-labs are pretty easy however you have to pay attention to small details, luckily you have two attempts on each one. There were no exams but was a poster project which was really easy as long as you have a good group. You kind of work out your lab groups on the first day so pick wisely. Having a good group is really beneficial not just for assignments, but for efficiency in class. Volunteer to go first for as much as you can because usually, you will get out earlier than other groups. READ EVERYTHING it is straightforward but they will take points off for the littlest of things. The major things in this class are completing the pre-lab quiz, lab manual, poster project, 1 lab report, and the lab practical. The lab practical is super easy. I would highly recommend going to office hours before the lab practical because the TAs literally walk you through it. They also post an example of the exam on canvas which makes it easy to see what you need to know. Overall this lab is easy but annoying.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2023-05-25T23:07:22.333346Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "It's a Biolab: boring, too much work but it's whatever. All up to TA. 3 Stars.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2023-05-27T22:39:02.404320Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "never responded to my email regarding my final grade nor the follow ups but threatened to change an assignment grade to a 50% when i took more than 24hrs to respond to her email earlier in the semester",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2023-06-01T20:18:00.255437Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "(review of LAB, not Mohan's lecture) It all depends on your TA because they run the lab. The content is easy, just stay on top of TopHat readings and pre-labs if that's what they still do.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-06-14T21:44:27.195006Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "Horrible and extremely rude.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2023-08-23T18:30:09.670421Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "The lab itself is not difficult at all. You complete a weekly pre-lab quiz before you go to the lab, then you answer some in-lab questions during class. Sometimes there are post-lab assignments but everything is fairly easy. Usually you'll finish the lab early and you can leave. Mohan did not teach my class and we were instead taught by a TA. The TA I had was very unprofessional and unhelpful. He barely teaches and gives little to no instructions (none that made sense at least) for any of the labs or assignments even if you directly ask him questions. However, the grading is not strict so you can expect to get an A in this expect.",
+      "rating": 2,
+      "expected_grade": "A+",
+      "created": "2023-10-31T16:47:13.303717Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "The lab and workload is easy, but pray that you get a good TA because it will make your life easier. I never met Professor Mohan and the lab was solely led by a TA. My TA was very unhelpful and did not teach or guide us through the labs at all.",
+      "rating": 2,
+      "expected_grade": "A+",
+      "created": "2023-12-05T15:58:49.225248Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "She is just isn't an understanding person at all and all of her policies reflect this. For example someone in my group realized that they submitted the wrong assignment an hour after the deadline and she refused to accept the correct worksheet. She also sucks to get a hold of because when you do email her she puts a time restraint on when you can email her back or she assume \"your not being serious\" about what you emailed her about.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2024-03-10T00:00:42.735942Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "This professor was not lenient at all. She is a trash grader. DO NOT TAKE HER CLASS.",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2024-04-15T22:00:52.733863Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "If you are trading this class you barely interact with Dr. Mohan it all depends on the TA you get. There are Pre-lab quizzes every week (2 attempts) and then usually post lab assignments afterwards, sometimes they are group work. You upload the work you did in the lab manual to canvas so it is important to actually fill outta the sheets. There is a poster presentation about an experiment which you work on over several week. The lab practical at the end is fairly easy if you do the practice quiz and actually practice techniques during the experiments. My #1 tip is to always read the rubrics for this class, her rubrics are extremely detailed and it's easy to get points off from little things like citation errors or forgetting to state the controls.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-05-13T19:00:49.450736Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "Annoying class, but pretty easy work. She is super strict on the grading and you could lose points for a small mistake like forgetting to capitalize something. Overall the class is easy and the practical is actually a joke, should be a free A. Does kinda depend on how good your TA is because if they don't know how to answer some of your questions you might be a little confused.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-05-17T15:35:38.155190Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "Honestly, as long as you read the prelabs and submit everything on time, the class is not bad at all. I get that it is too much work for a 1 credit class, but that is just expected for labs. Ask your TA for help, make sure you stay on top of tasks, and go into your TA office hours if needed. Your TA is the one grading most (if not all) of your work so as long as you follow the rubric, lab manual, and syllabus, you should be fine. Do not take the syllabus and policies as a joke. I saw some comments about how she is not good at grading, but again, the assignments are graded by TAs and there is a rubric for every assignment that basically lays out everything you need to get an A. Reread the assignment instructions and rubrics, make sure your assignment has all its components, and you will get the A.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-05-23T01:47:37.943597Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "I am only reviewing the lab. I had no interactions with this professor, but I can tell you her emails for the lab are rinsed and repeated. \r\nIt is overall pretty easy and the experiments are straight forward. The rubrics for the bigger assignments are terrible and I had points constantly taken off by my TA for things that I did not know I needed. The practical is very easy and there were no + or - for final grades.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-07-14T01:36:27.657908Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "Horrible. Didn\u2019t accommodate   misunderstands and was not lenient. Rude and dismissive in emails. Luckily, TA was amazing. Only plus. Wouldn\u2019t recommend",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2024-12-03T15:24:59.710980Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "Dr. Mohan is not the nicest person by far but to be honest, you're probably never going to see her since her class is taught by TAs. Despite her being kind of mean, she is pretty understanding if you talk to her directly over email. The class itself was very easy. The TAs grade everything so if you have a good TA, you should be fine. Assignments are pretty easy and straightforward and if your lab group is good than it makes the class a lot easier.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2024-12-05T04:56:21.530530Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "Solely reviewing the lab course. Overall, it was a simple class. Yes, at times the workload could be much so make sure to keep on top of the syllabus. Weekly prelab quizzes due before the lab where you have a prelab reading to do (2 attempts). Occasionally there were pre and post lab assignments which could be a lot (read the rubric so you don't lose points!) and sometimes lab group presentations. The content was quite simple and easy to grasp. Everything is graded by the TA you have so it depends on them. Loved my TA, she accommodated the students needs very well and always went over concepts we were confused about. A great into lab to take for bio.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2024-12-05T05:46:47.013855Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "I have never interacted with Professor Mohan, but my TA (Faran) was great; the workload isn't terrible, most weeks is just a pre-lab quiz with the occasional assignment having to be completed. Towards the end of the end of the semester, we had to write a research paper as well as a group poster project which was more work than at the start of the semester, but not terrible.\r\n\r\nOverall, the lab was easy and we would be let out an hour early more often than not out of the 3hrs allotted for lab.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-06T18:50:44.916477Z"
+    },
+    {
+      "professor": "Jane Jou",
+      "course": "BSCI171",
+      "review": "Very friendly and helpful, tries her best to explain the answer to your question, is forgiving and generally a great TA.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-10T01:46:17.952362Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "She never actually shows up, and you are mainly with the TA.",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2024-12-11T00:45:52.875052Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "I never spoke personally with Dr. Mohan however my TA, Christian was amazing 100/10 and I highly recommend taking the lab with him. It was a really straight forward class where there weren't any calculations or procedures that were too complicated.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2024-12-13T00:05:08.003068Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "This lab is fairly easy, pre-labs, in-labs and sometimes post lab assignments. Its ran by the TA, so your experience will depend on your TA.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-13T07:21:05.180932Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "This is taught by the TA but she is the lab coordinator however she never comes to the lab portion therefore your class will go based off your TA. There are pre-lab, in lab, and sometimes post lab assignments. Fairly easy class, lab practial pretty straight forward passed it with a 99%.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2024-12-13T07:36:09.130023Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "This is an easy class, and majority of the TAs are awesome here (SHOUTOUT TO CARTER HES AWESOME!!) all the BSCI171 comments before me pretty much sum up all the curriculum. But PLEASE pay attention to the rubrics. If you need help with any written assignment/group project, just go to office hours and they\u2019ll tell you straight up. \r\nOverall, everything is pretty easy, many super chill TAs, and you usually won\u2019t use the 3 whole class hours.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-20T23:13:57.869856Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "This is an easy class, and majority of the TAs are awesome here (SHOUTOUT TO CARTER HES AWESOME!!) all the BSCI171 comments before me pretty much sum up all the curriculum. But PLEASE pay attention to the rubrics, if you need help with any written assignment/group project, just go to office hours and they\u2019ll tell you straight up. \r\nOverall, everything is pretty easy, many super chill TAs, and you usually won\u2019t use the 3 whole class hours.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-20T23:14:48.726033Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "This class is pretty easy. Honestly, the hardest part is just showing up at 8 AM on Fridays (DON'T DO THIS). As long as you follow the class schedule and complete all the pre-labs, in-class assignments, and post-labs, you'll be fine. The TAs aren\u2019t tough graders, but it\u2019s important to follow the rubrics. There are a few busywork assignments, like creating a poster, but most of the work is manageable. At the end of the semester, there\u2019s a lab practical\u2014but if you attend the mock practical, they basically give you the answers. Good luck!",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2025-02-16T03:49:21.700456Z"
+    },
+    {
+      "professor": "Yang Yang",
+      "course": "BSCI171",
+      "review": "This is the BEST TA ever. He thoroughly explains the labs and whatever you may have questions about. He is so chill and encourages all his students to succeed.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-04-24T19:33:01.176070Z"
+    },
+    {
+      "professor": "Joshua Ha",
+      "course": "BSCI171",
+      "review": "Josh is the best TA I have ever had for any lab section. As an undergrad TA, I don't know how he stays on top of a whole class of us: but he does. He takes his time to explain every assignment, never gets annoyed at questions no matter how many times we ask, and goes out of his way to make sure everyone is understanding the information; which is a big improvement over many other TAs, who seem to try to get students to do the experiment and get out, rather than caring about explaining what. He is very personable, gets people to participate (willingly!) and is even encouraging of our other academic interests and will provide tips. \r\n\r\nIf Josh continues to be a TA for this course, or any other... Take his section!!!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-04-29T15:30:43.975691Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "This lab is pretty easy and there is not too much work outside the lab like there is for some other courses. I have heard bad things about her, but most people never even see her because labs are led by TAs. I loved my TA, she was very kind and helpful and she left really good comments on our assignments. I know for me the lab didn't really correlate with what I want to do in the future but at least it was easy.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-04-30T16:00:17.535895Z"
+    },
+    {
+      "professor": "Joshua Ha",
+      "course": "BSCI171",
+      "review": "Josh is truly one of the best. He's always patient, explains things clearly, and will work with you if you don't understand. He truly cares about every student he TAs, and it shows in how he brings himself to the lab every week. In addition to all course material, he keeps everyone's attention, and most everyone in my section\u2014like the other review says\u2014was happy to participate in anything he asked us to do. I'm a STEM major, but even the non-STEM majors could follow easily and clearly grasp what we did, because of how he taught the material.\r\n\r\nIf Josh is available, take him! You won't regret it.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-05-06T16:55:02.090507Z"
+    },
+    {
+      "professor": "Joshua Ha",
+      "course": "BSCI171",
+      "review": "Josh is such a fantastic TA. He was an incredible leader and put so much work into helping us in this lab. He went beyond just getting us through the procedure- he actually explained and helped us learn the concepts that we would need later for the lab practical. He is incredibly organized and easy to work with. PLEASE take Josh if you can- he is genuinely the best TA I have ever had.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-05-06T19:06:39.609177Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "After taking Gen Chem and Orgo lab, this one felt more like a \u201cfake lab.\u201d The work wasn\u2019t hard, but my TA made it frustrating by taking off points for things not on the rubric \u2014 and even admitted he\u2019d give them back when asked, which made no sense. It was also stressful that the full 3-hour lab was used for both the experiment and random assignments due by the end, leaving no time to just focus on the lab itself.\r\n\r\nThe class had weekly pre-lab quizzes (2 attempts), easy in-lab questions, and post-lab assignments that really depended on how harsh your TA graded. The \u201cbackground research\u201d tasks were annoying since you had to dig through long articles during lab. There was one research report and two presentations \u2014 not too bad overall.\r\n\r\nThe final practical was easy if you went to office hours. It\u2019s not super time-consuming outside of lab, but definitely nitpicky and unnecessarily stressful depending on your TA.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-05-07T00:45:12.636210Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "I've never interacted with Dr. Mohan since I took the lab, but I can say that it isn't all that bad. Sometimes, the wording on instructions for assignments were very intimidating and confusing. It is a lot of work for a 1 credit course and a 3 hour lab, but it's fairly easy to do well. The practical was easy, and if you have a patient TA like Carter, you'll be fine!",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-05-12T14:58:05.227005Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "Never met the lady but if you get a good TA you're good. Honestly I am the worst science person in the world but am ending this class with almost an A+ and 100% on the practical. It is not hard as long as you show up and pick a good lab group. The people you work with make or break the class but the content isn't too hard and they are there to help you. It is a bigger time commitment than a 1 credit class but it is still fine especially if you have to take it as a course requirement.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-05-15T01:24:45.521421Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "Mohan is very unforgiving and cold. Do not even bother going to her for any help, as she will make you feel small and dismiss any concerns you have. She grades harshly, and asking her for regrades will most likely be unsuccessful. The practical was easy, but she took off 15 out of the 40 points because of units, so make sure to remember them. The class is overall simple, and the TAs are fine.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2025-05-17T20:47:37.670780Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "Your TA makes or breaks this course. Her rules are dumb and obnoxiously strict, but the content is easy. It's all luck if you have a good lab group and TA. Sorry, best of luck.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2025-05-30T17:09:32.282987Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "I never actually met this person. For BSCI171 you are assigned a random TA, who will make or break your lab experience. Personally, I loved my TA she was awesome and so chill and made the class not as dreadful as I thought it was going to be. Hopefully you will get a laid back and easy-going TA who will grade easily. Swarna Mohan I believe is just the BSCI171 lab coordinator/director you will only email Mohan if you are going to have to be absent for lab and they will assign you a make-up assignment. Or, if something goes wrong during lab I suppose. I also found lab to be a lot easier than bio (BSCI170) itself. The labs can be quite long and tedious but thy are only once a week, so I recommend taking it early in the week (like Monday's) to get it over with for the week. Outside of class I had post & pre lab quizzes, and some other random assignments. We also had a group project making a digital poster/presentation with our lab group that we were assigned in class. At the end of the semester (typically the last day of lab) there is a lab practical which isn't too hard where you have to demonstrate everything you've learned infront of your TA. Overall this class isn't too bad you just kind of have to suck it up do the work and get it over with.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-06-09T12:38:11.753758Z"
+    },
+    {
+      "professor": "Joshua Ha",
+      "course": "BSCI171",
+      "review": "Josh is the best TA I have ever had. He makes sure you actually understand the concepts. He\u2019s patient, clear, and genuinely cares about every single student in the room while being incredibly organized. Josh made lab not just manageable but enjoyable. \r\n\r\nIt\u2019s sad he\u2019s leaving the biology department, because he\u2019s one of those rare TAs who makes a huge difference in students\u2019 learning.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-08-22T00:16:25.662105Z"
+    },
+    {
+      "professor": "Joshua Ha",
+      "course": "BSCI171",
+      "review": "I had Josh for BSCI171 during summer session 2, and all I can say is that he is one of the best TAs I have had at UMD. Josh was very understanding of the fact that we only had 6 weeks to learn the course material and was very accommodating. He took the time to carefully explain each lab procedure and even provided additional help when needed. Josh was also kind enough to provide us with snacks during each lab, as well as letting us know the estimated run time (a lifesaver for parking).  Since we didn't have a practical, Josh took the time to make sure we understood the concepts, so that we would be prepared for future labs. He is incredibly organized, and honestly he is really funny. Josh truly cares about his students, so I would highly recommend taking his section for any course that he TAs!!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-08-22T15:01:54.349616Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "Easy and very organized lab. I think it all depends on your TA, I have an amazing TA who provides so many resources, is thorough, and is really nice to talk to as well. This lab is very simple, with mostly basic content, very little work outside of class, and a very efficient way of uploading lab questions. THe practical was also very self explainatory, yet gave me a good sense of skills for later BSCI classes.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-10T19:44:14.227825Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "This class is solely TA run, so your TA is really what matters for the class. The assignments can be annoying and long, but not too bad if your lab group is good. I was lucky enough to have Harriet Harris, who was awesome. My lab group was great, making this an overall enjoyable experience.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-11T17:12:24.706190Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "This lab section is completely run by your TA, you will probably see Dr. Mohan once if it all. If you get lucky and have a good TA they can be very helpful during labs and with assignments. There are quite a lot of assignments for this course, but I wouldn't say any of them were insanely difficult. You are required to do pre-lab quiz every week before your lab, and a couple assignments during lab each week. Some of the work is busy work, but again nothing really challenging. If you get assigned a good lab group you will be set for the semester pretty much. Labs are a bit tedious at times, but again if you have a good group and TA you can all figure it out together. The amount of work may seem overwhelming but genuinely if you turn everything in on time and do what the assignments ask you to, you should get an A. Also don't be intimidated by the practical at the end of the semester, it's actually much simpler than you would expect. Most people in my class got A's so as long as you review a little bit you should be fine.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-12-12T22:02:36.892283Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "The reviews are right that you never interact with this professor throughout the semester, unless you have her for lecture. Your grade is heavily based on if you get a good TA and a good lab group, both of which I did not get. However, it is still possible to get an A if you work hard. I found the labs sometimes confusing and the post-lab assignments sometimes unnecessary. There are also a lot of literature-based assignments where you have to background research, which was really annoying. Besides that, the lab practical is easy as long as you pay attention and participate in labs. Also, never ever be late.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-12-13T21:27:22.940593Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "This review is pointless to Dr. Mohan because you don't ever speak or meet her since it is ran by a TA. Your experience truly depends on how good your TA is. As long as your TA knows what they're doing, you should do just fine. Your grade, however, depends on your group. Make sure on the first day to sit with the students that know what they're doing. You don't want to get stuck with a deadbeat group all semester. The labs can be very annoying and very long but should not be too difficult. The practical and class itself was fairly easy so I recommend you take it!!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-13T23:02:12.867501Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "Easy A!! Shoutout to my TA, Johena!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-15T22:49:44.770706Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "This class is totally dependent on your TA, but Dr. Mohan is super organized and makes it easy. This is how a 1-credit course should be and all labs should be this way!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-19T02:28:42.140251Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "this class really solely depends on your TA and who you sit with the first few classes. Your TA will be the only face you see for the entire semester unless you go out of your way to meet with Professor Mohan, then depending on the type of group you get or specific group mates will determine how fast you get work done.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-12-21T02:46:46.291232Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "As far as UMD labs go, 171 is pretty well-structured. Assignments aren't backbreaking, and the practical is stupidly easy if you weren't literally asleep for every lab. If you get a bad TA, this lab could be much worse, but it's really just free either way.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-23T18:34:00.140074Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "She's never really there, but she does answer emails. Your TA will partially decide your experience in this course, but your lab group will make or break your grade in this course, so choose wisely. My lab group was almost the reason I didn't get an A in the lab. Go to office hours, especially your TA's, to see what you're missing on group projects, and read the textbook carefully to understand what you're doing that week.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2026-01-08T16:51:02.335757Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "Lab sessions can range in duration, but usually you will get out early. There were only a few times where lab went the full time (and a couple instances where we unfortunately had to stay later than the set class time). Choose your lab group wisely, and there shouldn't be any issues in terms of work-distribution and efficiency. Hardly ever interacted with Dr. Mohan herself, although she did grade a couple assignments throughout the professor. My TA was Aditi B., and she was super sweet and patient. Labs usually consisted of the actual experiment, in-lab questions, and a post-lab assignment that were all due during class. Occasionally, there would be presentations about the lab results, but we were given a week to complete them and they were fairly simple. Pre-lab quizzes were also due before each lab session, but they were open-note and based on the lab readings for that week. The lab practical final should be easily passable as long as you pay attention throughout the semester and study required formulas/how to use lab equipment. Overall, the course was pretty tedious, and some lab sessions had a lot of work for one class, but it was a pretty decent experience overall.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2026-01-21T22:52:42.619658Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "really not that bad its easy but its so long and annoying. only take it of your required cause its so boring. \r\nur ta makes or breaks it. you never really talk to mohan unless you need to make up an assignment, and shes not that nice.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2026-04-05T23:34:58.903567Z"
+    },
+    {
+      "professor": "Swarna Mohan",
+      "course": "BSCI171",
+      "review": "The TA makes or breaks the lab, but she is extremely condescending. I unfortunately do not get along with my TA and when I reached out to her for the lack of feedback I have ever received from him, she was quick to attack me and my integrity first. Left a bad taste in my mouth and will not be seeking out her or my current TA for biology ever. Unprofessional to say the least.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2026-04-08T17:00:18.957737Z"
+    },
+    {
+      "professor": "James Nowotny",
+      "course": "BSCI171",
+      "review": "Explains the actual lesson pretty well, but he is extremely condescending in tone. When you ask questions he will constantly say \"I don't know what you're trying to say\" even when explained multiple times. He kind of makes you feel dumb for even asking questions in the first place, almost as if he assumes you know everything there is to know about biology. To add to that - his explanations are also phrased in ways that make it seem like he is so much smarter than he actually is. Don't expect any feedback on assignments, he simply write 1-2 sentences and it isn't helpful whatsoever.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2026-04-08T17:14:57.179529Z"
+    }
+  ],
+  "department": "BSCI",
+  "course_number": "171",
+  "name": "BSCI171",
+  "title": "Principles of Molecular & Cellular Biology Laboratory",
+  "credits": 1,
+  "description": "<b>Prerequisite:</b> Must have math eligibility of MATH120 or higher.\n<b>Corequisite:</b> BSCI170.\n<b>Recommended:</b> For Science majors.\nBasic laboratory principles of biology with special emphasis on cellular and molecular biology.\n<i>(Sponsoring Dept.: BSCI). Students must pay a $40.00 laboratory materials fee.</i>",
+  "is_recent": true,
+  "geneds": null
+}

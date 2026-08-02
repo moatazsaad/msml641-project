@@ -1,0 +1,356 @@
+{
+  "average_gpa": 2.6478995901639344,
+  "professors": [
+    "Tammatha O'Brien",
+    "Sara Lombardi",
+    "Caitlin Fox",
+    "Justicia Opoku-Edusei",
+    "Nelson Bennett",
+    "Caitlin Fox",
+    "Sara Lombardi",
+    "Tammatha O'Brien",
+    "Caitlin Fox",
+    "Nelson Bennett",
+    "Sara Lombardi",
+    "Tammatha O'Brien",
+    "Caitlin Fox",
+    "Nelson Bennett",
+    "Sara Lombardi",
+    "Tammatha O'Brien",
+    "Caitlin Fox",
+    "Tammatha O'Brien",
+    "Caitlin Fox",
+    "Tammatha O'Brien",
+    "Caitlin Fox",
+    "Sara Lombardi",
+    "Tammatha O'Brien",
+    "Caitlin Fox",
+    "Edward Orlando",
+    "Nelson Bennett",
+    "Sara Lombardi",
+    "Tammatha O'Brien",
+    "Caitlin Fox",
+    "Maira Goytia",
+    "Sara Lombardi",
+    "Caitlin Fox",
+    "Edward Orlando",
+    "Justicia Opoku-Edusei",
+    "Maira Goytia",
+    "Nelson Bennett",
+    "Caitlin Fox",
+    "Justicia Opoku-Edusei",
+    "Caitlin Fox",
+    "Maira Goytia",
+    "Sara Lombardi",
+    "Caitlin Fox",
+    "Edward Orlando",
+    "Justicia Opoku-Edusei",
+    "Maira Goytia"
+  ],
+  "reviews": [
+    {
+      "professor": "Justicia Opoku-Edusei",
+      "course": "BSCI202",
+      "review": "Opoku literally knows everything about Anatomy. Dont worry about the book, Exams are strictly from lecture so study hard and you will get an A. Coming to class is imperative because If you don't, Opoku is a machine and writes so much that you miss alot so make sure you have a friend who has your back. Lab manual you need though.\r\n Both lecture and lab require insane amounts of memorizing but Im assuming if youre taking BSCI201/202 you have to because otherwise this class as an elective would make you the dumbest person alive. Just make sure to study about 3 - 4 days in advance and you will be fine!",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2009-04-28T14:26:00Z"
+    },
+    {
+      "professor": "Sara Lombardi",
+      "course": "BSCI202",
+      "review": "AWESOME professor. She knows her stuff and is extremely passionate about A&P. She brings a lot of energy into her lectures and makes them engaging. There's a good amount of memorization but that's just the nature of the course. She makes all the material very understandable. I was dreading this course but she made me love it! Hands down the best professor I've had at UMD.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2020-11-10T18:47:55Z"
+    },
+    {
+      "professor": "Sara Lombardi",
+      "course": "BSCI202",
+      "review": "Great professor, you can really tell she loves what she does and that makes the content a lot more engaging. She gives you everything you need for the exams right in her lectures, so keep up with the content and you should be fine. Especially online w open notes, everything you need she gives to you. I took her for BSCI201 last semester and got an A-, I'm taking her again for BSCI202 this semester and planning to get the same or above. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-02-22T17:21:30Z"
+    },
+    {
+      "professor": "Sara Lombardi",
+      "course": "BSCI202",
+      "review": "I have nothing but very good things to say about Dr. Lombardi. She is consistently available to respond to any student questions or concerns, has an extremely approachable lecture style, and makes it very clear that she cares deeply about her students. I took her for both BSCI201 and BSCI202 and, while 202 was a bit tougher, both courses were highly dependent on the work the student puts in. Highly recommended!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2021-06-11T19:55:41Z"
+    },
+    {
+      "professor": "Caitlin Fox",
+      "course": "BSCI202",
+      "review": "First of all... if you are going to make your students purchase YOUR OWN lab manual every semester, at MINIMUM make sure that it encompasses all the material. Studying for the practicals is more of a scavenger hunt than actually learning the material. I spent more time gathering the appropriate diagrams and lecture slides that actually memorizing them. Horrendous professor. Have fun taking her for two semesters. ",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2022-04-28T23:00:21Z"
+    },
+    {
+      "professor": "Tammatha O'Brien",
+      "course": "BSCI202",
+      "review": "Great professor, I was worried because of the other reviews but she really cares about this class and her students. She gives snacks on exam days and lets you get 10 extra points for doing exam reviews. She gives LOTS of extra credit during lectures and on the exams and lets you drop a few assignments if you missed them. The class was tough and I had to study A LOT but it was worth it for the exams. Overall I would recommend her for sure. Everything you need to know for the exam she goes over in her lecture and her slides. (The practice exams help a lot!)",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2022-05-11T01:56:34Z"
+    },
+    {
+      "professor": "Sara Lombardi",
+      "course": "BSCI202",
+      "review": "the absolute best",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-10-26T00:26:11.969309Z"
+    },
+    {
+      "professor": "Tammatha O'Brien",
+      "course": "BSCI202",
+      "review": "Doctor Obrien fails to understand life outside of the classroom. During the semester things happen outside of school that are not within our control. I have had countless family issues which greatly affected my performance within the class and i have tried countless times to justify myself but it just felt as if there was no remorse at all. Its always just \"no\", here is the UMD counseling if you need help. There was never a moment when she would try to understand where I am coming from. I found it frustrating because at times I felt hopeless in the class. But I guess it just doesn't matter because I am a college student and feelings dont necessarily matter.",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2022-11-27T21:05:37.065105Z"
+    },
+    {
+      "professor": "Sara Lombardi",
+      "course": "BSCI202",
+      "review": "This class covers a lot of content, but Dr. Lombardi does an amazing job of teaching it in a way that's easy to understand. She also records all her lectures on Panopto, which is nice. Overall highly recommend",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-01-25T05:07:49.954485Z"
+    },
+    {
+      "professor": "Caitlin Fox",
+      "course": "BSCI202",
+      "review": "I only ever met Dr. Fox once, but she coordinated the BSCI 201 and 202 labs, and this review is for both. Like most lab coordinators, she's not good at her job, and gets away with it because she almost never has to interact with students directly. The activities in lab are incredibly time consuming but aren't actually helpful, especially the design an experiment activities with the lab computer software that never works right. The textbook is expensive and unhelpful, usually providing more info that you need so you don't know what to study. The lab practicals are done in an incredibly stupid format, where you move around the room in timed stations and do a question at each station. Studying for those practicals is worse, because Dr. Fox doesn't give you a good sense of what you need to study other than \"everything\", which sometimes includes 200 bones or 400+ muscles/muscle attachment points. You wind up studying a bunch of memorization stuff, most of which you don't need, then end up with a bunch of questions on something you barely studied because you thought it wasn't important. Unfortunately, there's no avoiding her if you need to take anatomy, so you just have to deal with the terrible lab.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2023-01-25T05:16:47.479378Z"
+    },
+    {
+      "professor": "Tammatha O'Brien",
+      "course": "BSCI202",
+      "review": "Worst professor I\u2019ve ever had by a mile",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2023-02-23T13:09:55.213955Z"
+    },
+    {
+      "professor": "Sara Lombardi",
+      "course": "BSCI202",
+      "review": "If you want to rewatch lectures multiple times at 0.5x speed then this is the professor for you !",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2023-03-07T07:50:25.747135Z"
+    },
+    {
+      "professor": "Tammatha O'Brien",
+      "course": "BSCI202",
+      "review": "Her exams are unnecessarily specific and you literally need to memorize everything she says in lecture to be able to pass them. When asking her a question she makes you feel dumb for even asking and will cut you off when speaking. She gives extra credit coupons in class for answering questions but you have to know the answer and raise your hand within 0.5 seconds or she won't call on you. The only reason I did well in the class was due to my own out of class dedication.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2023-04-27T23:46:24.147634Z"
+    },
+    {
+      "professor": "Tammatha O'Brien",
+      "course": "BSCI202",
+      "review": "Not sure why reviews are so negative! She's a really strange lady, and her voice is definitely too loud and obnoxious for when I had it at 8am. But she's really really smart, gives you opportunities to rack up extra credit points during lectures just by answering questions, and there's a lot of filler assignments that make it easier to get a decent grade. The lecture assignments are kind of annoying, but it's NBD. Exams are hard but you really just need to memorize the slides. She gives out the slides, along with video recordings of her lecturing. pretty good",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2023-04-30T21:17:51.956496Z"
+    },
+    {
+      "professor": "Sara Lombardi",
+      "course": "BSCI202",
+      "review": "I like professor Lombardi and I think she's a really good lecturer. However, BE WARNED, her exams are not as easy as some people say they are. She does try to trick you and she will if you are not paying enough attention to the entire scope of the question. ESPECIALLY THE TRUE AND FALSE. for people taking her next semester, read over the true and false a few times and underline the key words, I promise you there are tricks in there that if you're glancing at the questions quickly, you will miss them. Those are honestly the hardest parts of the tests, but other than that the class is definitely doable.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2023-05-01T19:03:22.297154Z"
+    },
+    {
+      "professor": "Tammatha O'Brien",
+      "course": "BSCI202",
+      "review": "she's kinda weird. Her exams are extremely specific and its loads of memorization (but I mean it's anatomy so what can you expect). her lecture exam averages were mid 70's which I'd say is pretty ok for this level of class. she does give group assignments and extra credit which helps your grade a ton. You need to show her you are actively listening and participating for this extra credit. She drops a few assignments here and there which also boosts your grade. Her lecture exam dates would always fall the day before or after the lab practicals though which was super inconvenient. She is rude at times but you don't interact with her too much. Her voice is extremely annoying. Worst part of this class is the final. Her midterms were typically a 6/10 for difficulty, but the final is completely a 10/10, it delves into topics you have not learned and does not cover at all what is taught in class. I took this class at the same time as orgo and it was super difficult to balance both.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2023-06-28T19:18:28.966245Z"
+    },
+    {
+      "professor": "Tammatha O'Brien",
+      "course": "BSCI202",
+      "review": "I absolutely love this class and Dr. O'Brien does an amazing job at explaining the hard concepts. While there is a lot of information to memorize, it is Anatomy 2 so what else can you expect? I'm not sure why a lot of the reviews say she is rude, if you go to her office hours she is extremely helpful and easy to talk to. She gives many opportunities for extra credit and you can get one every class just by answering questions which she asks a lot of (you do not have to answer correctly). She drops some of the assignments at the end of the semester which raises your grade. The only thing is this class is at 8 am, so be sure to be prepared for that.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-11T20:20:01.284875Z"
+    },
+    {
+      "professor": "Sara Lombardi",
+      "course": "BSCI202",
+      "review": "Overall, a very thoughtful lecturer. Each lecture includes a \"think-pair-share\" question that helps you consider the content in the scope of the real world. She has lecture assignments built into the class that help cushion your grade if you don't test well. Each exam has at least 1-2 extra credit questions which are also really nice. Super approachable, extremely kind, and accommodating. If I had anything negative to say, it would be that she has WAY too much faith in her students' math skills and doesn't allow calculators for some of her exams (luckily not too many math questions). I would definitely recommend, but be sure to go back and rewatch lectures because she puts some emphasis on very specific points that aren't always written on her slides.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-15T00:31:14.186007Z"
+    },
+    {
+      "professor": "Sara Lombardi",
+      "course": "BSCI202",
+      "review": "Dr. Lombardi is a really amazing professor, there is just so much content in this class that you really have to put in a ton of work - especially if it doesn't come as naturally (me sadly). She posts panopto recordings of the lectures that saved my life when studying and she explains things pretty well. I definitely suggest taking her over any other professor - just be prepared for pretty tough exams and definitely use crash courses + stuff to help!",
+      "rating": 4,
+      "expected_grade": "C+",
+      "created": "2023-12-15T01:56:09.719709Z"
+    },
+    {
+      "professor": "Sara Lombardi",
+      "course": "BSCI202",
+      "review": "I loved Dr. Lombardi! The material was really interesting and she taught it in a way you could understand! I got an A on each exam, but I put in work to study. I can see how the exams would be difficult if you didn't have a good study technique down. This class is mainly MEMORIZATION!!! I basically turned every lecture topic into quizlets, and some of my quizlets are 200-300+ terms. She teaches the conceptual info really well, and sometimes I wouldn't get it the first time in a lecture and would be able to get it on my own with the slides or a quick youtube video. She recorded her lectures which was really nice for if you couldn't come to class, but I highly suggest you go to class as much as you can. I went to every class and I think that was one of the reasons I was able to do well. She also verbally says/explains more info you should know or that is helpful that is not on the slides, but her slides are pretty comprehensive. There are lecture assignments you need to be present for in lectures and many people missed these because they were sometimes during random/unpredictable lectures. Some of our lecture assignments were also just canvas quizzes before exams. She dropped 3/10 lecture assignments which was nice. She is a great professor and you just need to be prepared to take the time to memorize. If you don't understand a concept, her office hours are really helpful and she is always willing to help. There are always a couple of points of extra credit on each exam, but some of the true-false and even multiple choice can be tricky. I recommend slowing down and going over the true false multiple times. The written portion of the exams always has a concept she emphasized or spent more time on. The final exam was all multiple-choice and pretty fair in my opinion.  Overall a really interesting class with an amazing professor!!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-12-17T23:08:04.694841Z"
+    },
+    {
+      "professor": "Edward Orlando",
+      "course": "BSCI202",
+      "review": "he has a 2.9 review on ratemyprofessor for a reason \ud83d\ude2d  he tangents about things that are literally not relevant to anything, and then when it comes to things that are important for the exam he either only mentions it once, and also completely omits important things for his exams from his slides like how are you supposed to review for that? he's also like not a good lecturer and he lectures in a way that's not comprehendible and so i end up having to teach myself, but i usually cant since his posted lectures are incomplete, and he's also really passive aggressive when you ask for help so it's like you kind of rely on your ta or gss leader for any outside help. i can only study so much in a class where the professor is confusing and doesn't clearly explain what's important, and this is coming from someone that had an a+ in anatomy 1.",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2024-05-09T03:31:50.575175Z"
+    },
+    {
+      "professor": "Edward Orlando",
+      "course": "BSCI202",
+      "review": "I really hope Dr. Orlando considers returning for another semester because he is truly amazing at teaching anatomy. He clearly loves his job and also happens to be great at it.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-05-18T14:18:21.048525Z"
+    },
+    {
+      "professor": "Sara Lombardi",
+      "course": "BSCI202",
+      "review": "This teacher is not only the most selfish teacher I have ever had to deal with but also does not follow university policies. She is not accommodating nor does she care for her students I had the worst experience with her and she denied me of my accommodation except nothing but selfishness from her.",
+      "rating": 1,
+      "expected_grade": "C-",
+      "created": "2024-12-13T20:06:47.675045Z"
+    },
+    {
+      "professor": "Maira Goytia",
+      "course": "BSCI202",
+      "review": "A&P 2 was much, much heavier on the physiology aspect than A&P 1. However, the anatomy portion and lab practicals were a lot easier and there was less to memorize. For me, it was a harder class overall. The lab practicals were weighted a lot less than the lecture exams (compared to A&P 1) which ended up hurting my grade. \r\nI would HIGHLY recommend going to class as professor Goytia is very knowledgeable and explains concepts well. Learning from just her lecture slides won't get you an A on exams because she adds in questions to her exams that she says in class, not from the slides. You also need to memorize every diagram in the textbook because she takes diagrams from the textbook and adds it to the exams. \r\nI thought that her exam questions were confusing at times. I would know the subject material well for the question she was asking, but would lose points because of the weird wording in her exams, especially on multiple choice and matching. I think that she writes the exams last minute and doesn't have time to really think about if the questions she is asking are clear. However, she does offer extra credit depending on how well the class did. The averages for each lecture exam, AFTER extra credit was added, was 82%, 70% and 76%. No extra credit was added for lab practicals and the average for those combined was a 78%. The hardest exam was the second lecture exam where everyone basically failed (63% average before the extra credit). There are 7 exams total, same as A&P 1.\r\nIn terms of extra credit, the exams are not curved, you actually have to put in work and print out a scantron, retake the exam and submit it to her in person during lecture time. If you get everything right the second time, you get full extra credit points. If you don't, you will only get a little bit of extra credit.\r\nThere are pre-lab quizzes every week before lab, post-lab worksheets usually around 20-30 questions (multiple choice, written response, matching), clicker questions, quizzes due before lecture. \r\nThe final is cumulative. :(\r\nAnywho, overall, this class is hard but certainly doable if you go to lecture, actually listen and take notes.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2024-12-17T10:04:50.795996Z"
+    },
+    {
+      "professor": "Maira Goytia",
+      "course": "BSCI202",
+      "review": "What a roller coaster of emotions throughout this semester. Weekly assignments very easy, as well as pre and post labs. But exams were VERY difficult. Would give extra credit to get average to 70 (had to retake exam for points). Ended up with a D+, missing the cutoff by 0.12%. Final grade was put in as D+. With a random change of heart, I checked a few days later and bumped to a C-. Very difficult course as you would expect. Exams much different than study guides and practice exams. Overall okay teacher.",
+      "rating": 3,
+      "expected_grade": "C-",
+      "created": "2024-12-23T16:55:23.082368Z"
+    },
+    {
+      "professor": "Maira Goytia",
+      "course": "BSCI202",
+      "review": "Doesn't give cheat sheets but the class is still really good. not mandatory lecture, easy to learn at home, practicals aren't bad. gave 20 points extra credit on exam 2 and 25 extra credit points on exam 3.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-15T03:56:10.173922Z"
+    },
+    {
+      "professor": "Maira Goytia",
+      "course": "BSCI202",
+      "review": "I've taken Goytia for both 201 and 202 and can without a doubt say she is an absolute gem of the UMD BSCI department. I've had great professors before, but her level of understanding, passion, and care for her students and anatomy itself is truly remarkable. Dr. Goytia wants her students to succeed more than any professor I've seen, she understands this subject is difficult and requires time/dedication, and offers students many ways to make up points (extra credit that allows you to see what you got wrong, multiple attempts on quizzes, offers old exams for studying, and more)! Her lectures can get a bit complicated, but she mostly tests you on big picture ideas, and I think she gets especially excited talking about certain topics (because a lot of the processes are really cool). I have and will continue to recommend her to anyone looking to take 201 and 202 in future semesters, Dr. Goytia truly is one of the best.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-16T01:45:53.822594Z"
+    },
+    {
+      "professor": "Justicia Opoku-Edusei",
+      "course": "BSCI202",
+      "review": "Dr Opoku is exactly who you want to take for anatomy. I took her for BSCI 201 as well, and the class is very easy once you figure out how to study. Take her \"study guides\" as gospel and you will do just fine.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-17T21:23:20.585405Z"
+    },
+    {
+      "professor": "Justicia Opoku-Edusei",
+      "course": "BSCI202",
+      "review": "Covers good content. Hates you if you take the make-up exam and WILL fail you regardless if you got questions right. Biggest tip of all is to watch her recorded videos to study and take notes, make sure you actually understand the topics not just memorizing, and do not take the make up exam. I could be on my death bed and still get up and go take the test bc of how strict and how much harder the make-ups are. She is nice in lecture but if you are not a star student then she will yell at you in office hours. 1 star for making me cry, 1 star back bc I did well on the last 2 exams and she gives lots of bonus points.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2025-06-27T21:25:52.453115Z"
+    },
+    {
+      "professor": "Caitlin Fox",
+      "course": "BSCI202",
+      "review": "Dr. Fox is only the lab coordinator for BSCI201/202, and does not interact with any students unless you have the unfortunate need to reach out to her. There is a tremendous amount of work and memorization for the lab portion of this course. She displays no care at all for students, and offers terrible and impractical solutions. Be glad most of your interactions in this course is with your TA, interacting with Dr. Fox is a terrible and humiliating experience.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-11-24T22:13:47.378123Z"
+    },
+    {
+      "professor": "Sara Lombardi",
+      "course": "BSCI202",
+      "review": "Her exams are terrible.",
+      "rating": 2,
+      "expected_grade": "C+",
+      "created": "2025-12-13T18:03:43.609328Z"
+    },
+    {
+      "professor": "Sara Lombardi",
+      "course": "BSCI202",
+      "review": "Overall, anatomy is a hard class because it focuses memory and applications, but do not take her class if you are taking another heavy class. I took her class this semester and I feel like her teaching style is very nice. She's eager to teach and tries to make the class interactive. She pulls around chairs and tries to demonstrate how blood flow works, how respiratory processes work, etc. WARNING! If you do not attend in-person lecture, this is probably not the class for you. She does not record lectures anymore. She recorded lecture online around 3 times this semester because she was out, but it took a long time to upload the recording file. For the third exam, we did not have access to the recording until 2-3 days before the last lecture exam. Also, she does lecture assignments to add cushion to your grade. Its worth 55 points in total. However, she doesn't warn you when she will include a lecture assignment in class, so you just have to hope for the best. If you miss one of these lecture assignments (4 in total), you will miss out on points. Each in-person lecture assignment is counted as a \"double assignment\" and this is for around 10-11 points.  \r\n\r\nHer exams are fair, but hard. I feel like I performed well in the class, but the exam questions were tricky. This is on top of studying for 4-8 hours per week with flashcards and quizlets. On exams, its a mix of T/F, multiple choice, and short response. Her short answer questions were extremely difficult because it gave you options to circle based on a scenario, but they were so confusing. Also, no study guides. Her \"study guides\" are a list of topics that could appear on the exam, but no practice questions or old practice exams. Her extra credit for our exams were around 2-5 points.  Overall, shes a good professor when teaching, but her exams are hard. I recommend Goytia if you are taking heavy classes during the semester.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2025-12-19T01:12:18.979064Z"
+    },
+    {
+      "professor": "Sara Lombardi",
+      "course": "BSCI202",
+      "review": "Dr. Lombardi is the best bet for BSCI202. Her lectures keep you engaged for all 75 mins and she put a lot of effort into making her own slide decks. The exams are fair, and she also gives helpful in-class activities (which are basically free points as long as you are present in class on those days). Her office hours were also beneficial if you get confused about anything.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-12-20T00:10:14.550583Z"
+    },
+    {
+      "professor": "Sara Lombardi",
+      "course": "BSCI202",
+      "review": "Anatomy is obviously a difficult class, but I felt that Dr. Lombardi made it harder than it needed to be. I would study for days, but I still found the exams very challenging because there were many application questions about very obscure topics. No curve, even though the exam averages were very low. Lombardi is very passionate about her job, which makes class nicer to attend.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2026-01-29T02:09:22.542948Z"
+    },
+    {
+      "professor": "Dennis Tudor",
+      "course": "BSCI202",
+      "review": "Very helpful and welcoming!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2026-01-30T01:10:18.746023Z"
+    },
+    {
+      "professor": "Maira Goytia",
+      "course": "BSCI202",
+      "review": "She and Opoku both have their pros and cons after switching from Opoku for 201 to Goyita for 202, I would say Opoku's lectures are quite boring, not as interactive as Goyita's, and not very informative, while Goyita's lectures are too informative, if that is even a critique. The attendance in Goiyta's class is actually criminal because people would rather self-study with the lecture videos she posts than sit through the physical lecture and still be confused by how overcomplicated she explains the physiology. Her review sheets are quite vague compared to the actual exam, in my opinion. THOROUGHLY going over her lectures and slides is better. Every exam so far has had to have a curve because of our low average; Exam 2 specifically had a 30-point curve (extra credit on it), that is how bad the exam and our performance were. I still feel like it's possible to pass the class, just do A LOT of self-studying!",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2026-04-17T23:28:13.540280Z"
+    },
+    {
+      "professor": "Maira Goytia",
+      "course": "BSCI202",
+      "review": "She and Opoku both have their pros and cons after switching from Opoku for 201 to Goyita for 202, I would say Opoku's lectures are quite boring, not as interactive as Goyita's, and not very informative, while Goyita's lectures are too informative, if that is even a critique. The attendance in Goiyta's class is actually criminal because people would rather self-study with the lecture videos she posts than sit through the physical lecture and still be confused by how overcomplicated she explains the physiology. Her review sheets are quite vague compared to the actual exam, in my opinion. THOROUGHLY going over her lectures and slides is better. Every exam so far has had to have a curve because of our low average; Exam 2 specifically had a 30-point curve (extra credit on it), that is how bad the exam and our performance were. I still feel like it's possible to pass the class, just do A LOT of self-studying!",
+      "rating": 3,
+      "expected_grade": "B-",
+      "created": "2026-04-21T01:02:18.050059Z"
+    }
+  ],
+  "department": "BSCI",
+  "course_number": "202",
+  "name": "BSCI202",
+  "title": "Human Anatomy and Physiology II",
+  "credits": 4,
+  "description": "<b>Prerequisite:</b> BSCI201; or permission of CMNS-Biology department.\nAnatomy and physiology of the cardiovascular, respiratory, immune, digestive, urinary and reproductive systems. Course not acceptable toward major requirements in Biological Sciences, Chemistry or Biochemistry.\n<i>(Sponsoring Dept.: BIOL). Students must pay a $40.00 laboratory materials fee.</i>",
+  "is_recent": true,
+  "geneds": null
+}

@@ -1,0 +1,109 @@
+{
+  "average_gpa": 2.9684439608269857,
+  "professors": [
+    "Sylvester Gates",
+    "Kaustubh Agashe",
+    "Shabnam Jabeen",
+    "Daniel Lathrop",
+    "Edward Ott",
+    "Anson Hook",
+    "Victor Yakovenko",
+    "Zohreh Davoudi",
+    "Phillip Sprangle",
+    "Victor Yakovenko",
+    "Xiangdong Ji",
+    "Zohreh Davoudi",
+    "Xiangdong Ji",
+    "Xiangdong Ji"
+  ],
+  "reviews": [
+    {
+      "professor": "Theodore Jacobson",
+      "course": "PHYS411",
+      "review": "This was a really hard class. The material was very difficult. I'd like to say that this class was like a vector calculus boot camp. Problems commonly included partial differential equations, integrations in spherical/cylindrical coordinates, Legendre polynomials, Fourier analysis, and alot of other fancy stuff. The homework problems (from Griffiths) were long and tough, and Jacobson also created his own supplementary problems to add to the fun. They were actually sometimes easier than Griffiths'. \n\r\nOverall, Jacobson is a good lecturer. He presents the material quite well, and is very sharp when answering student qustions. If he can't properly address a student's question in class, he'll email the class later on explaining a concept. He is very nice and respectful of student concerns. Instead of just re-writing notes on the board, he actually interacts with student questions. He answers emails quickly. He does alot of interesting demos. His grading scheme is nice; grade is broken into 4 pieces: homework, midterm 1, midterm 2, and final exam (NOT cumulative). Your two best each count 35%, two worst are 15%. Very fair grading scheme. My only comment is that his final was really difficult, and I probably got like a 15% on it. Luckily, he seems to curve exams ...\n\r\nOverall, very fair professor. I may take PHYS410 this fall with him if I can fit it into my schedule. I'd recommend him. ",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2011-05-17T22:57:00Z"
+    },
+    {
+      "professor": "Edward Ott",
+      "course": "PHYS411",
+      "review": "Professor Ott is one of those professors who is too smart for teaching. The fact that he is not aware of the class's understanding, or lack thereof, is also clear. He writes on the board and blocks what he writes with his body, talks into the board, and often mumbles. Medians of the exams were in 40s and 50s. You are better off taking a different professor.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2009-12-27T02:46:00Z"
+    },
+    {
+      "professor": "Sylvester Gates",
+      "course": "PHYS411",
+      "review": "He explains things well and knows the material extremely well. On top of that, he's a friendly guy who's willing to help his students in any way he can. He had this one inspirational lecture that actually made me want to go home and do some physics.\n\r\nHe's an award winning physicist, which is great, but this means that he travels a lot and misses a lot of class. When he isn't in class (which was in total about a third of the semester), he has one of his two post docs teach the class. As a result, the class material gets really fragmented. This is the main reason I'm not giving him 5 stars.\n\r\nHomework takes forever and tests are difficult, but this is no reason to downgrade him. This is just a forewarning.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2013-05-13T18:38:00Z"
+    },
+    {
+      "professor": "Zohreh Davoudi",
+      "course": "PHYS411",
+      "review": "Davoudi is a decent professor, she gets the points across well and uploads all her videos and notes on time. \r\n\r\nHowever, she gives incredibly difficult and long homework assignments and has very little flexibility. She would often add 3 or more problems to an assignment in the middle of the week, which could add hours of extra work depending on the section. \r\n\r\nHer exams are very difficult but I thought they were all fair except for one, where she did not test on most of the material we covered. \r\n\r\n\r\nStill, she delivered the content on pace and pretty clearly. ",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2021-05-17T06:35:28Z"
+    },
+    {
+      "professor": "Zohreh Davoudi",
+      "course": "PHYS411",
+      "review": "Prof. Davoudi gives long homework assignments and very difficult exams. She is sometimes a bit condescending when answering student questions. There was a decent curve in our course given the pitiful exam and homework averages so she gets an extra star for that.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2021-10-19T18:13:08Z"
+    },
+    {
+      "professor": "Zohreh Davoudi",
+      "course": "PHYS411",
+      "review": "She doesn't teach and her exams are impossible. Do everything to avoid taking a class with her ",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2022-03-08T22:40:42Z"
+    },
+    {
+      "professor": "Zohreh Davoudi",
+      "course": "PHYS411",
+      "review": "She was unaccommodating and the exams were incredibly difficult both in time management and material that had not been covered in class. She was nice, but not a good teacher.  However, her class structure (dropped homeworks and curved exams) were nice. ",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2022-05-16T16:27:34Z"
+    },
+    {
+      "professor": "Zohreh Davoudi",
+      "course": "PHYS411",
+      "review": "I had the honor of taking PHYS411 with Prof Davoudi in the spring of 2023. This was one of the very few courses where I learnt the material thoroughly. Prof. Davoudi is an amazing instructor, granted that the course is very difficult. The key to doing well in this course is to form a study group, do that as early as you can in the semester.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-06-15T20:46:00.841598Z"
+    },
+    {
+      "professor": "Xiangdong Ji",
+      "course": "PHYS411",
+      "review": "Xiangdong Ji is one of the best professors I have had. Firstly, he is very energetic and passionate about teaching. He exudes energy and loves to tell interesting and funny stories from his life, which make lectures worth coming to on its own. In addition to covering the topics in the textbook, he also covered more advanced topics, which definitely helped me to prepare for more advanced physics classes. Although some of his homeworks are quite difficult as he makes his own questions sometimes, the tests are very easy and completely trivial compared to the homework. He has a good understanding of what makes a class engaging and what it is like to be a student. 10/10 would recommend.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-12-09T20:36:31.036972Z"
+    },
+    {
+      "professor": "Xiangdong Ji",
+      "course": "PHYS411",
+      "review": "Probably the best professor I've had for any course at UMD. I was at a point of where I was getting burned out by physics and was considering pivoting and focusing more on something else, like math, until I took Phys411 with Dr. Ji. His energy and passion for physics really made me remember why I chose to study physics in the first place; he also had some of the best explanations for the material you could ever ask for. He was able to properly cover what usually would take two semesters to cover in just one semester, while also giving insight into research topics in physics and how what we learned applied to that. Also, his lectures were never boring, and were always worth going to. overall, I would highly recommend Dr. Ji, and I do truly believe he is the best physics professor in the entire department.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-01-15T22:26:34.623860Z"
+    }
+  ],
+  "department": "PHYS",
+  "course_number": "411",
+  "name": "PHYS411",
+  "title": "Intermediate Electricity and Magnetism",
+  "credits": 4,
+  "description": "<b>Prerequisite:</b> PHYS373.\nFoundations of electromagnetic theory, with extensive applications of the methods. Thorough treatment of wave properties of solutions of Maxwell's equations.",
+  "is_recent": true,
+  "geneds": null
+}

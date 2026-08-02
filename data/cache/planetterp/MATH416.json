@@ -1,0 +1,147 @@
+{
+  "average_gpa": 2.3397205588822363,
+  "professors": [
+    "Wojciech Czaja",
+    "McBlaine Boyle",
+    "Benjamin Manning",
+    "Radu Balan",
+    "Julia Dobrosotskaya",
+    "Xuemei Chen",
+    "Kasso Okoudjou",
+    "Charles Levermore",
+    "Stefan Doboszczak",
+    "Wojciech Czaja",
+    "Wojciech Czaja",
+    "Wojciech Czaja",
+    "Wojciech Czaja",
+    "Wojciech Czaja",
+    "Wojciech Czaja",
+    "Stefan Doboszczak",
+    "Wojciech Czaja",
+    "Junren Chen",
+    "Meenakshi Krishnan",
+    "Stefan Doboszczak"
+  ],
+  "reviews": [
+    {
+      "professor": "Wojciech Czaja",
+      "course": "MATH416",
+      "review": "For this class, he's honestly a really good lecturer. He explains how things came to be and why things matter, which is always a good thing when introducing left field concepts. So I enjoyed his lectures a lot.\r\n\r\nOverall the class is pretty straightforward in the content, as his lecture notes span maybe 30 or 40 pages for the entire course (of course, they are not fully complete). He also allows for students to make up grades with an extra-credit project worth around 10%, but the project comes with very high standards.\r\n\r\nThe exams are what I call \"troll\": as a veteran student of mathematics they consist of various little tricks which are decently easy to see if you are decently mathematically mature and which seem intractable if you are not, which is why the exam averages are 60-70%.\r\n\r\nOverall the course is interesting and I would recommend people take it for an elective or something like that.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2019-12-10T02:01:26Z"
+    },
+    {
+      "professor": "Charles Levermore",
+      "course": "MATH416",
+      "review": "Levermore is cool - as long as you can endure his snarky attitude. His lecture is fine, but I find the pace a bit slow. That said, this man should be banned from teaching new courses. He couldn't finish writing the homework on time for most of the time of the semester, so we had 5 psets for spring break and 4 psets for final's week. That was just not very reasonable. The exams were take-homes because of the pandemic. While the first exam was long and easy (the format was similar to the hw with the workload doubled), the second one was really tedious (he picked the hardest + longest problem from each hw and compiled them together). That was one of the instances when I look at my solution and wonder how on earth would the instructor have the mental power to read through my solution. He graded things very leniently at the end, I'm not sure if it was because he felt sorry for the way he bombarded us with giant hw packages or he's just lenient. Anyway.. the material is very interesting, I recommend learning some harmonic analysis on your own if you get a chance. The text used was Wickerhauser - alright but not the best for self-study (<- so you can't learn everything by reading the book and not attending lectures).",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2020-06-29T21:54:38Z"
+    },
+    {
+      "professor": "Stefan Doboszczak",
+      "course": "MATH416",
+      "review": "Very generous with grading. Any homework if you emailed him he would give you an extension. Office hour appointments out of scheduled times if you asked, and generous test grading. Very fair teacher for a wicked hard class.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2021-05-17T16:11:35Z"
+    },
+    {
+      "professor": "Wojciech Czaja",
+      "course": "MATH416",
+      "review": "416 content is definitely challenging but Czaja explains it very well. Content is genuinely interesting. He writes exams so that all questions have 2-3 line simple (elegant) answers, especially proofs, but if you don't catch it at the moment exams are hard. Cheat sheet is allowed and he drops one midterm. Getting a good grade in this class isn't hard if you keep up with homework and average 70s on exams. He changed the final to be optional for our class.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-02-20T18:10:33.520929Z"
+    },
+    {
+      "professor": "Wojciech Czaja",
+      "course": "MATH416",
+      "review": "Things to note: 3 midterms one of which is dropped; 10 hws 2 of which are dropped\r\nIn our class, the third midterm was a take-home free one (basically guaranteed 95+) and so, the best of Midterm 1 and Midterm 2 (which are legit midterms) along w/ M3 are going to make the 2 midterms that count for your grade.\r\n\r\nHe will offer an opportunity to drop the final and take the score of the 3 midterms and the first 8 hws if you want to take that opportunity up. \r\n\r\nRegarding the homeworks, most of them are pretty chill -- he doesn't really offer help in OH though so you gotta learn through Stack Overflow, GPT, and just trying stuff out. The midterms are challenging asf -- the thing is they aren't really anything like the homeworks and are way more proof-based than what you'd expect given what he describes the midterms as. Only 1 or 2 of the questions are \"here, do it\" questions, the rest are showing some type of property or proof question which is significantly harder. As others mentioned, if you can notice the gimmick fast enough, it's normally a 2-3 liner. If you can push yourself through, it can take 10-15 minutes sometimes and you can get the answer. But chances are, you might just f*ck it up because there's no really good way to prepare (you just have to remember and notice the right things in the moment). Definitely use the practice problems from his notes though because they are somewhat similar to the actual midterm (the homework problems that he assigns aren't though).\r\n\r\nLecture-wise, he's pretty good. Just, it gets a bit tiring after a while especially because a lot of the content is cumulative (especially near the end of the course), so if you forget things from previous lectures, you're kinda F-ed. That being said, the accent isn't really an issue and you get kinda used to the whole structure of the course after a while.\r\n\r\nAll in all, I'd just suggest being TOTALLY aware that you're interested in DSP stuff before taking this course becuase while the material can be extremely interesting and fun to learn, if you're not interested enough for it to motivate getting through the times where you're misunderstanding things or have to read through the notes, you'll ultimately end up hating the course and neglecting it leading to not great outcomes.\r\n\r\nOverall, pretty good course, but requires more mathematical maturity than just a MATH240+MATH141 prereq (I think he should also add a MATH401 or MATH405 pre-req as well since some of the linalg does get a bit crazy). Make sure to attend lecture and focus/lock-in on the shit so you don't fall behind.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-05-08T21:47:57.758894Z"
+    },
+    {
+      "professor": "Wojciech Czaja",
+      "course": "MATH416",
+      "review": "I do not understand why Czaja's review score is so high, he's a decent lecturer but he does his best to make the material as obtuse as possible and give as little actual help as he can, all while feeling kinda pompous about it the whole time. He does not do examples, he does not explain the application of the material that you're teaching you, and he does not give you practice problems. I have our third exam tomorrow, and I have gotten no feedback on any of the three homework assignments I have turned in on this material. There is no POSSIBLE way for me to know if I actually understand the material or not. The textbook has typos and is difficult to comprehend, and often skips huge chunks of work saying that it is \"easy to see\" how something works out, which is simply lazy writing.\r\n\r\nA few lectures ago he gave the entire class a quadratic system of equations with four variables, one of the few actual example problems he has done this entire semester, and not one person knew how to do it. Rather than actually do his job and teach us, he made fun of us for not knowing something that \"a highschooler should know how to do\" and then proceeded to just write the answer on the board without showing how he got it. I went to his class notes to see a deeper derivation only to find even in the notes he says \"it's easy to see\" and then not explain it. \r\n\r\nI realize that the class material is difficult, but if he actually explained what we were doing instead of just spouting theory at us for 3 hours a week it might be easier to understand. We're nine lectures in to the unit on wavelet transforms and I still could not tell you what they actually do. This class fundamentally fails to teach you signal processing. Sure I know how the transforms are defined, but if you asked me what the use case was for them I would not have the slightest idea where to start.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2024-12-02T07:41:19.420739Z"
+    },
+    {
+      "professor": "Wojciech Czaja",
+      "course": "MATH416",
+      "review": "Like the 12/02/24 review says, the prof doesn't really give us example problems of the material when we are first introduced to it. He also does sometimes skip steps in his lectures and makes some things sound obvious when they are not. The title of the class \"Applied Harmonic Analysis: An Introduction to Signal Processing,\" can be somewhat misleading. The exams and lectures are mostly theoretical and the homework include some theory and some application (mainly in the form of MATLAB coding). I'll break down each of these 3 components:\r\n\r\nLectures: Pretty theoretical especially towards the middle and end. Expect to know linear algebra pretty well (Math240 material, idt Math405/401 is necessary). Czaja is a good lecturer though in that his lectures are very structured and easy to follow. He posts his notes online and his notes are very detailed (almost too detailed, but like one reviewer said, he sometimes writes certain things are \"easy to see\" when they aren't). You should still go to class though because he does say things in lecture that aren't in the notes\r\n\r\nExams: This is what most people have mixed feelings about. Like previous reviewers mention, if you can see the trick/gimmick on each question, the exams are easy, otherwise the exams can be tough. This, on top of the fact that the prof doesn't go over many examples/doesn't make practice exams, means the only \"real\" way to study for these exams is to try stuff out on your own and study the lecture notes rigorously. While there are some problems in the profs lecture notes that do help, some exam questions will catch you off guard and there's no real way to expect it. Averages on exams are in the 60-70% range.\r\n\r\nHomeworks: Mostly chill, some are theoretical but not egregious and others are just implementing stuff in MATLAB. Studying the homeworks can sometimes help for the exams too. Pretty sure most of the class did well on the homeworks\r\n\r\nAdditional Info: His grading is so that your lowest 2 homeworks get dropped and lowest midterm (out of 3) gets dropped. For Fall 2024, he again implemented the policy where you can take the grade of all 3 midterms and the first 8 homeworks as your final grade, and not take the final. However, for Fall 2024 our third midterm was NOT take home (and was also the day we came back from Thanksgiving Break). \r\n\r\nTLDR: If you care about/enjoy the theoretical math that propels signal processing and data representation techniques, this class might be for you. If you don't mind spending time on your own investigating these theoretical aspects, this class is for you. Else, I can understand why some people are frustrated with the way this class is taught and you might be better off taking something less stressful.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-12-06T22:17:02.198668Z"
+    },
+    {
+      "professor": "Wojciech Czaja",
+      "course": "MATH416",
+      "review": "While I think he understands and is passionate about the subject, I believe the way that he teaches the class is detrimental to the performance of those in his class. \r\n\r\nHomework assignments were not regularly spaced out, with grading not happening on time. While it was interesting to go from one concept to the next via deriving them via proofs and previous knowledge, there was a severe lack of examples to do in class or to practice with, which made me feel unprepared for the content on both the homeworks and the exams. I personally despise chatgpt but was really considering using it to assist me with homeworks. \r\n\r\nI appreciated the content he included in his notes, however, they were basically what we went over in lecture but more in-depth \u2013 meaning it was overwhelming to comb through to find specific things if you needed to look for something. \r\n\r\nThere is a curve that he mentions, with the person with the highest grade guaranteed to get an A, however I genuinely cannot tell how the class is performing at this moment because there is rarely any class participation. Aside from my grades, I have not received any feedback on my homeworks, meaning I don't know what I have gotten wrong etc.\r\n\r\nI also had issues with him in terms of accommodations, he was very resistant to respecting some of mine which caused me trouble in the beginning of the semester. \r\n\r\nI love to learn more about math, however since exams and homeworks are everything in this class, I feel like the way he teaches is not fit for the structure of the class.",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2025-05-03T16:47:57.573655Z"
+    },
+    {
+      "professor": "Wojciech Czaja",
+      "course": "MATH416",
+      "review": "Dr. Czaja is a pretty good professor. His lectures are solid, and his exams and homework are fair. My main issue with Dr. Czaja, however, is not with his teaching. He refuses to post the unit notes until after each unit or right before a homework, which is incredibly frustrating because students who rely on him to post the notes will be without the course notes for a while, which caused me to fall very far behind. He is very stubborn and set in his ways, and refuses to accommodate students who make reasonable requests.\r\n\r\nMAKE SURE TO READ THIS IF YOU TAKE THE CLASS. My biggest issue with him is that the course syllabus says that we can drop the lowest 2/10 homework and the lowest 1/3 midterms. This is usually great! Except that for ON THE VERY LAST CLASS of the semester, he told us that if we took all 3 midterms and completed the first 8 midterms, we could not take the final exam and use the existing grades as our final grade. This would usually be great except for students who did well on the first 2 midterms, like myself didn't take the last midterm because we didn't need to. It is completely ridiculous not to tell students of this policy ahead of time. Because of this idiotic policy and his refusal to be reasonable, Dr. Czaja gets docked a few points. So if you take his class, make sure to take all 3 midterms no matter what. You're welcome.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2025-05-15T14:58:55.185995Z"
+    },
+    {
+      "professor": "Wojciech Czaja",
+      "course": "MATH416",
+      "review": "Extremely rude, doesn't care at all about students. He has a peculiar accent which is difficult to understand and whenever a question is asked, he keeps on mocking the students and makes them feel very stupid. \r\nThere are 10 HWS, 3 midterms (drop 1) and 1 final, which is not bad except you are not told about the \"DROP FINAL\" policy 2 days before the final. \r\nThe midterms are not reflective of the content taught in the class AT ALL. If you have seen the questions for the midterm beforehand, only then you will have an idea how to solve them, otherwise good luck. He provides practice problems <1 day before the exams, that too without an answer key, making it impossible to see where you are going wrong. Also, the hws are not graded before the exams, so you literally have 0 idea of your preparation \r\n for the exam. Overall, my worst MATH experience at UMD. Avoid him if you can!!!",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2025-05-18T22:20:42.403981Z"
+    },
+    {
+      "professor": "Wojciech Czaja",
+      "course": "MATH416",
+      "review": "One of the worst classes I\u2019ve taken at UMD. The course content is very interesting if taught well, however, that was far from the case here.\r\n\r\nThe material taught by the professor was extremely unintuitive. We could hardly understand what he was doing in class or why. He often skipped steps during proofs, dismissing them as \u201celementary\u201d or \u201chigh school level.\u201d Notes were not released until 1\u20132 days before homework was due, leaving us almost no time to learn the material before completing the assignments. He also had a tendency to make students feel dumb if they didn\u2019t know a step or asked for clarification. I never felt comfortable asking questions in class because students who did were mocked\u2014their doubts dismissed as \u201ctoo easy\u201d and supposedly something that should have been covered in MATH240, not this class.\r\n\r\nThe midterms were even worse, completely unlike anything we had done in class. Homework was not graded before the exams, so we had no idea whether we were doing things correctly. Practice problems were released less than a day before the exam, without solutions of course, and office hours were in the morning after releasing the problems. His TA didn\u2019t hold office hours at all as well.\r\n\r\nHe allowed us the option to drop the final, but only told us a few days before it. Even then, the grading scheme came with several last-minute twists. The class wasn\u2019t curved either, despite the exam averages being in the 60s.\r\n\r\nDo not take this class with him!!",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2025-05-20T21:38:22.399522Z"
+    },
+    {
+      "professor": "Wojciech Czaja",
+      "course": "MATH416",
+      "review": "Shockingly bad experience. After reading the earlier reviews, I thought that everything would be okay. It was not.\r\n\r\nHomeworks were sporadically spaced and not at all representative of midterm material. If you couldn't see the \"trick\" involved in an exam problem, you would not succeed, and he would be extremely harsh with grading. Even after going to office hours to ask about how to solve a particular exam question, I was still confused and unable to solve the problem. Lecture notes were released extremely late and homeworks were oftentimes not graded until after the exam was over. The 6-7 homeworks that actually had problems on them were not helpful for the midterms, and there was no practice given besides from a short list of practice problems released a day before the midterm. \r\n\r\nCzaja is clearly an extremely intelligent person, but he expects us all to be the same. His lectures are beyond unintuitive and it is impossible to follow what is going on if you do not already know about the topic. He skips steps in proofs and also proves seemingly irrelevant statements. His lectures also seem disorganized and he is very condescending whenever people asked questions. There was nearly no curve (less than 1.5% if there was any at all) in a class where midterm averages were in the 60s. He also changed a key grading policy one week before the final exam, allowing us to not take the final if we used the first three midterms and first eight homeworks, as opposed to the grading policy in the syllabus: final is required, 2 out of 10 homeworks dropped, 1 midterm out of 3 dropped.\r\n\r\nThe class is very interesting, but taking it with Czaja was a mistake.",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2025-06-10T02:35:44.788847Z"
+    },
+    {
+      "professor": "Stefan Doboszczak",
+      "course": "MATH416",
+      "review": "goat",
+      "rating": 4,
+      "expected_grade": "B-",
+      "created": "2025-12-04T18:22:54.024720Z"
+    },
+    {
+      "professor": "Stefan Doboszczak",
+      "course": "MATH416",
+      "review": "He was great at teaching for this class. He kept a consistent weekly structure in terms of homework, and stuff was graded on time. He was approachable during office hours, and always entertained questions during class and immediately afterwards, pausing frequently to let us process new material. He's also thoughtful during lecture, asking if anyone was colorblind when he was illustrating stuff with multiple chalk colors. Although a bit unsure of his own knowledge on the subject, he gave me a solid introduction to the mathematical framework behind signals. He is also just fundamentally a decent person, and cares about the students in his class. \r\n\r\nAlso he lets you create your own 1 page double sided cheat sheet for the final (which he did make 50% of our grade, but I trust it will be fair). This on top of letting you bring handouts from class to the final, which cover one of the major topics of the class in its entirety. Overall, no substantive complaints about the class.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-12T01:24:29.020739Z"
+    }
+  ],
+  "department": "MATH",
+  "course_number": "416",
+  "name": "MATH416",
+  "title": "Applied Harmonic Analysis: An Introduction to Signal Processing",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> Minimum grade of C- in MATH141; and 1 course with a minimum grade of C- from (MATH240, MATH461, MATH341); and familiarity with MATLAB is required.\nIntroduces students to the mathematical concepts arising in signal analysis from the applied harmonic analysis point of view. Topics include applied linear algebra, Fourier series, discrete Fourier transform, Fourier transform, Shannon Sampling Theorem, wavelet bases, multiresolution analysis, and discrete wavelet transform.",
+  "is_recent": true,
+  "geneds": null
+}

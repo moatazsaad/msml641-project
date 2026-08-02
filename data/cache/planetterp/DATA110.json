@@ -1,0 +1,145 @@
+{
+  "average_gpa": 3.716870415647922,
+  "professors": [
+    "Susan Mazzullo",
+    "Susan Mazzullo",
+    "Susan Mazzullo",
+    "Susan Mazzullo",
+    "Susan Mazzullo",
+    "Susan Mazzullo",
+    "Susan Mazzullo",
+    "Susan Mazzullo",
+    "Susan Mazzullo",
+    "Susan Mazzullo"
+  ],
+  "reviews": [
+    {
+      "professor": "Susan Mazzullo",
+      "course": "DATA110",
+      "review": "Super easy and straightforward class, very similar to MATH206 where the class is largely self taught but is simple",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-12-12T01:15:49.763815Z"
+    },
+    {
+      "professor": "Susan Mazzullo",
+      "course": "DATA110",
+      "review": "I know nothing about the professor.\r\n\r\nThe class itself is pretty easy. The slideshows can be confusing since some of the slides are the same with a few numbers changed between them and the formatting is messed up, but overall the class was easy.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2023-12-19T18:34:49.323095Z"
+    },
+    {
+      "professor": "Susan Mazzullo",
+      "course": "DATA110",
+      "review": "The class is easy, straightforward, and asynchronous. Its structure is similar to MATH206.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-04-02T18:16:51.312050Z"
+    },
+    {
+      "professor": "Susan Mazzullo",
+      "course": "DATA110",
+      "review": "Asynchronous & finished it the first weekend it was released.  EZ work",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-05-19T19:37:17.591577Z"
+    },
+    {
+      "professor": "Susan Mazzullo",
+      "course": "DATA110",
+      "review": "easy class, barely requires any work. it's async so you can finish the whole class in 1 day if you want.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-07-28T19:42:51.629695Z"
+    },
+    {
+      "professor": "Susan Mazzullo",
+      "course": "DATA110",
+      "review": "Very easy asynchronous class, the modules are well organized. Not sure how much of it was this professor but 5 stars anyways",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-10-19T17:06:29.545537Z"
+    },
+    {
+      "professor": "Susan Mazzullo",
+      "course": "DATA110",
+      "review": "Slides were really informational for just being slides and work was always simple",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-11T03:21:07.683203Z"
+    },
+    {
+      "professor": "Susan Mazzullo",
+      "course": "DATA110",
+      "review": "very easy one credit asynchronous class (i knocked it out in one weekend), structured into mcq quizzes (that have multiple attempts and show you what you got wrong and what the correct answer was, so you're guaranteed a 100% after the first one) and short frq assignments. only thing is i thought the slides were sometimes a bit confusing in their formatting, and her announcements were a little confusing but that's it",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2024-12-30T05:40:05.267560Z"
+    },
+    {
+      "professor": "Susan Mazzullo",
+      "course": "DATA110",
+      "review": "Responded to emails in reasonable manner and this class was a fun intro into R. Non-MCQ assignments consisted of monkey see, monkey do, with the slides.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-05-24T04:19:29.248154Z"
+    },
+    {
+      "professor": "Susan Mazzullo",
+      "course": "DATA110",
+      "review": "Very, very easy. But I don't think I learned anything.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2025-07-07T01:51:54.450767Z"
+    },
+    {
+      "professor": "Susan Mazzullo",
+      "course": "DATA110",
+      "review": "DATA110 is one of the easiest classes I've ever taken. If you really wanted to learn R this can be a good start, but if you're not interested in programming and just need an extra 1 credit boost PLEASE TAKE THIS. It's a few hours worth of work, I didn't do anything until 3 days before, and finished with time to spare. \r\nProf. Mazzullo is great and responds to emails very fast.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2025-10-20T21:53:52.709617Z"
+    },
+    {
+      "professor": "Susan Mazzullo",
+      "course": "DATA110",
+      "review": "At first, it seemed scary and I had no coding experience so it was a bit intimidating, but the way the class is set up, sets you up well to actually learn some things. The class is completely self-paced so you can complete it in 1 weekend if you want. You also have multiple attempts on each assignment so its kind of hard to do bad in.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-17T21:09:28.910850Z"
+    },
+    {
+      "professor": "Susan Mazzullo",
+      "course": "DATA110",
+      "review": "Super easy class. Barely learned anything since the assignments are basically just going off of the slides, but it did get me a good understanding of some aspects of R. It only runs for a portion of the semester and you can finish the course pretty easily. The professor herself is responsive and nice and makes sure to remind us to turn in our work by the suggested deadlines. Overall I'd take it!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-18T00:15:11.681309Z"
+    },
+    {
+      "professor": "Susan Mazzullo",
+      "course": "DATA110",
+      "review": "Easy. grade booster",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-21T15:22:04.567137Z"
+    },
+    {
+      "professor": "Susan Mazzullo",
+      "course": "DATA110",
+      "review": "data110 is an entirely online asynchronous class. i know nothing about the professor herself. the class, incredibly easy. there are only 9 assignments. you have the entire length of the course to do them all, with no late penalties, as long as everything is turned in by the end of the course date (about halfway through the actual semester, for me taking it in spring this was march 10.) i also think it's basically impossible to NOT get 100% on each assignment (for the most part, they are just quizzes that you can keep resubmitting, some of them have you write really simple R codes and make really easy graphs.) i think you would probably be able to finish the entirety of this class in 1-3 days. that being said it would be a horrible idea to try and do everything on the last day to turn it in because there is absolutely nothing allowed beyond that date since it is THE course end.\r\n\r\nbasically, if you find yourself having to take this class for whatever reason, don't worry, like, at all. its potentially the easiest class in the entire university",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2026-03-09T23:28:23.096478Z"
+    }
+  ],
+  "department": "DATA",
+  "course_number": "110",
+  "name": "DATA110",
+  "title": "Applications of R for Data Science",
+  "credits": 1,
+  "description": "This course is intended to prepare students for courses requiring computation with R, providing powerful and easy to use tools for statistical analysis.",
+  "is_recent": true,
+  "geneds": null
+}

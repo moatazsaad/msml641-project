@@ -1,0 +1,566 @@
+{
+  "average_gpa": 2.7349792531120327,
+  "professors": [
+    "Melissa Macasieb",
+    "Christian Zickert",
+    "Niranjan Ramachandran",
+    "Patrick Brosnan",
+    "Harry Tamvakis",
+    "Thomas Haines",
+    "Amin Gholampour",
+    "Lawrence Washington",
+    "Joel Cohen",
+    "Antoine Mellet",
+    "Justin Wyss-Gallifent",
+    "Xuhua He",
+    "Roohollah Ebrahimian",
+    "Jonathan Rosenberg",
+    "Sarah Yeakel",
+    "Allan Yashinski",
+    "Manjit Bhatia",
+    "James Schafer",
+    "David Kueker",
+    "Koushik Pal",
+    "Michelle Lee",
+    "Dragomir Saric",
+    "Yanir Rubinstein",
+    "Huanchen Bao",
+    "Adam Kanigowski",
+    "Samuel Bloom",
+    "Giovanni Forni",
+    "Jingren Chi",
+    "Steven Chadwick",
+    "Nathan Manning",
+    "Yordanka Kovacheva",
+    "Terence Long",
+    "Todd Rowland",
+    "Yihang Zhu",
+    "Changguang Dong",
+    "Antoine Mellet",
+    "Jeffrey Adams",
+    "Lutian Zhao",
+    "Peter Dillery",
+    "William Goldman",
+    "Antoine Mellet",
+    "Eoin Mackall",
+    "Justin Wyss-Gallifent",
+    "Peter Dillery",
+    "Steven Chadwick",
+    "Harry Tamvakis",
+    "William Goldman",
+    "Yihang Zhu",
+    "Dori Bejleri",
+    "Giovanni Forni",
+    "Kendall Williams",
+    "Peter Dillery",
+    "Dong Quan Nguyen",
+    "Thomas Haines",
+    "Dong Quan Nguyen",
+    "Qendrim Gashi",
+    "Shin Song",
+    "Niranjan Ramachandran",
+    "Christian Zickert",
+    "Harry Tamvakis",
+    "Shin Song",
+    "Allan Yashinski",
+    "Shin Song"
+  ],
+  "reviews": [
+    {
+      "professor": "Melissa Macasieb",
+      "course": "MATH406",
+      "review": "She obviously knows number theory really well but her lectures were devoted more to proving theorems which really weren't tested at all. Also all of the proofs were in the book anyway so she could have just said \"for details on the proof for theorem x consult the book.\" Also her grader was quite draconian and if you said something like \"I lost 8/10 points for an arithmetic error\", she would say \"if you want I could maybe give you a few points back\" and then spend a few minutes continuing to expand on how you were wrong which was quite annoying.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2012-12-18T04:57:00Z"
+    },
+    {
+      "professor": "Melissa Macasieb",
+      "course": "MATH406",
+      "review": "Macasieb is great. She understands number theory in and out, and communicates it very well to her students. Lectures are focused on going through basic proofs of the material, and a sufficient number of examples for you to understand what's going on. If you skip class, you can just read the book; it's essentially the same thing.\n\r\nGrades consist of weekly homework from the book (lowest 1-2 grades dropped), weekly quizzes that are homework problems verbatim (again, lowest few dropped), two midterms, and a cumulative final. \n\r\nExam questions are either computational (and thus simple) or proof-based (almost always come from problems in the textbook that are recommended but not explicitly assigned).\n\r\nExam averages suck (we're talking 55-65ish), so she will obviously curve a bit in the end. \n\r\nAdvice to do well: keep up with the material (early concepts such as Fermat's theorem and modulo arithmetic definitely impact the later material substantially), do extra practice problems from the book.\n\r\nThis class requires a bit of work, but if you put in the effort, you'll be fine.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2012-09-23T00:09:00Z"
+    },
+    {
+      "professor": "Melissa Macasieb",
+      "course": "MATH406",
+      "review": "Like most math, number theory is not difficult to understand once you learn to mentally adopt new methods of abstract visualization. How this is best done probably depends on the student.\n\r\nThis branch of math really amounts to little more than a massive game of pattern-finding, which can be a lot of fun. My issue with Macasieb is that she takes the fun out of it. She fails to communicate any enthusiasm for the material, or math and problem solving in general, lecturing purely from the book, proof after proof. She makes superficial attempts to engage the class, by occasionally prompting for part of a proof or example, but has no real sense of how to harness classroom energy.\n\r\nUltimately, there is no reason to go to class if you learn well from books. She uses a good text, and reading it let me focus on the math without the awkward tension of the classroom. YMMV, but for me the point of math is that's it's fun, and this is not a fun class.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2012-05-25T02:49:00Z"
+    },
+    {
+      "professor": "Melissa Macasieb",
+      "course": "MATH406",
+      "review": "Macasieb was a great professor, but that comes with a slight catch.  She really only wants to help the students who seem serious and study the material often enough to never fall behind on the small things.  She gets rather annoyed during lecture if she needs to explain something that we went over last week.  That being said if you are on top of things you will do fine.  \n\r\nHomework/Quizzes:\r\nWas somewhat difficult, but manageable most of the time. 4 questions were often turned in for grading and all the other questions were possibilities to be seen on a quiz the day the homework was due.  The quizzes were just redoing the hw problem w/o the book or notes, which wasn't hard to do. \n\r\nThe Book:\r\n\"Intro to Number Theory\" by Dudley or something like that.  It was a pretty good book.  It was short, but effective.  Although I must say that the author starts to get impatient and lazy around section 12, but nothing really to worry about.\n\r\nTests:\r\n2 Midterms and a final (ALL are cumulative, despite what she might say). Number Theory is one of those classes where if you fall behind you stay behind, because there isn't any concept that you can just say \"I just wont bother learning that and I can scrape by with a B\" because everything builds on the previous stuff.  \r\nThe Midterms were about 75% computation and 25% proofs\r\nThe Final was about 60/40 computation to proof.\r\nOverall I would say make sure you know all the theorems that took a while to prove during class or that she emphasizes, because those are sure to show up on the tests. \n\r\nFINAL NOTES:\r\n-MAKE SURE TO GET MODULAR ARITHMETIC DOWN SUPER FAST OR YOU WILL BE LOST.\r\n-FERMAT'S THEOREM IS VERY IMPORTANT, AS IS PRETTY MUCH ANY THEOREM PROVED BY EULER OR EUCLID (THERE ARE MANY)\r\n-THE ONLY WAY THAT SHE WILL HELP YOU IS IF IT SEEMS AS THOUGH YOU HAVE PUT A LOT OF EFFORT INTO FIGURING SOMETHING OUT AND HAVE A GOOD UNDERSTANDING OF THE MATERIAL. IF YOU SEEM LOST SHE WILL NOT HELP, SHE EXPECTS YOU TO BE ABLE TO FIGURE \"SIMPLE\" THINGS OUT BY YOURSELF BY NOW. (Here \"simple\" means stuff we did last week) \n\r\nAlso I managed an A+ because I destroyed the final, I studied for it for pretty much 4 days straight.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2011-12-24T01:16:00Z"
+    },
+    {
+      "professor": "Niranjan Ramachandran",
+      "course": "MATH406",
+      "review": "Dr. Ramachandran is, hands down, the best college professor I've ever had. He is extremely knowledgeable, is very good at communicating information and is a very nice man who essentially embodies everything that is needed in a college professor.\n\r\nLet me begin by admitting that his class was very challenging. The homeworks were tough, the average on the two midterms probably averaged out at a 59 (there was a very generous curve at the end of the course) and you won't get very far by lollygagging and mindlessly memorizing a few formulas. That being said, I thoroughly learned about an immense (almost unbelievable) amount of difficult and very important mathematical concepts and I am very, very happy that I took the course with him. After having taken Rama's course I honestly consider myself a much more mature and knowledgeable mathematician than I did before I took his course (and I had straight As in math beforehand). \n\r\nI guess I should also warn you that Ramachandran is not for everyone. A lot of people in my class didn't like it at all and claimed that he was a bad professor for various lame reasons. Usually, their reasoning was something like, \"He's all over the place and is impossible to follow,\" or, \"I feel like we don't learn anything in the class\". What that illustrates is that they're not accustomed to rigorous, difficult math courses and that they're either too lazy or not apt enough to study and understand the deeper concepts that are actually worth putting the time and effort in for. One kid in the class said that \"Modular arithmetic is dumb because there are no formulas.\" If you associate yourself with people like that then I recommend dropping out of any upper-level math courses and taking something more your style like communications.\n\r\nIn summation, I highly recommend Dr. Ramachandran to anyone who is a serious and mature student and/or to anyone who wants to learn some awesome math. If you're in it for the easy A then take he class with someone else.\n\n\r\nP.S. His grading is very fair; it's just that his problems and homeworks are challenging and take a fair amount of time and effort to complete.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2012-12-26T01:26:00Z"
+    },
+    {
+      "professor": "Kathryn Truman",
+      "course": "MATH406",
+      "review": "she is awesome. if you are taking math406 take her class.\n\r\ngo over your homeworks and any theorems that she says you have to know!! do the work and you will do well.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2008-02-02T19:20:00Z"
+    },
+    {
+      "professor": "Lawrence Washington",
+      "course": "MATH406",
+      "review": "Very nice guy and a pretty good professor. His tests are very reasonable and he gives you practice tests too. He is very approachable during office hours.\n\r\nHe assigns homework bi-weekly. He collects 2 or 3 problems and then quizzes you on another 2. However, in class before the quiz, you can ask him ANY homework problem and he will do it. There's usually enough time to do all of them, so you're set for the quiz. He'll also do problems in office hours. With a little effort, you can get a 100% in homework and quizzes.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2011-03-02T00:52:00Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "MATH406",
+      "review": "Great professor.  Made the material easy to understand.  I didn't even need to buy the book because the notes were so clear.  However his curve isn't really generous so don't expect a free A. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2009-05-24T21:58:00Z"
+    },
+    {
+      "professor": "Joel Cohen",
+      "course": "MATH406",
+      "review": "Although he's a really nice guy and very amiable, he's not a very good math professor. He clearly cares about his students and tries hard to address questions and concerns, but he seemed to never be able to find ways to clearly explain concepts in the class. He simply walks through proof after esoteric proof, then assigns homework which the student is forced to figure out on their own. Overall, I would recommend taking any other professor for a math class if you have the option.",
+      "rating": 3,
+      "expected_grade": "C+",
+      "created": "2010-05-20T19:39:00Z"
+    },
+    {
+      "professor": "Joel Cohen",
+      "course": "MATH406",
+      "review": "He's a pretty nice guy, definitely approachable, and fairly understanding when it comes to extensions.  HOWEVER, to be perfectly honest, he is not a good teacher.  He rushes through proofs and skips a lot of steps, he rushes through examples and (once again) skips a lot of steps, and all in all, he simply doesn't explain what he's doing.  He pretty much takes his lectures directly from the book, and doesn't know how to break things down into a more comprehensible format.  If you ask him to explain something, he will stop and try to explain, but he usually just says the same thing he did before, meaning that asking him for help is ultimately not very useful.  The exams are fine but you come out of the class feeling more like you memorized a bunch of tricks and rules rather than actually learning number theory well.  Homework is useful and usually similar to the questions on the exam.  \r\nIf you REALLY want to learn number theory, I would recommend taking the class with someone else.  ",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2010-05-19T15:04:00Z"
+    },
+    {
+      "professor": "Joel Cohen",
+      "course": "MATH406",
+      "review": "He's not a bad guy. In fact, if you can't get your homework in on-time, you can you email him for an extension. However, he is a crappy teacher. He does the examples that are found in the book. These examples are only helpful for a couple problems, then you get stuck. He doesn't give any insight or information other than the book. He brings the book to class, and reads it to you.",
+      "rating": 2,
+      "expected_grade": "C-",
+      "created": "2010-02-13T21:11:00Z"
+    },
+    {
+      "professor": "Joel Cohen",
+      "course": "MATH406",
+      "review": "Hard to follow during the first half of the course. His lectures follow the course of the text but he will take the time in class to explain any confusions you have. Second half was better as you picked up enough of the number theory background to follow some of the proofs.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2008-12-28T22:11:00Z"
+    },
+    {
+      "professor": "Joel Cohen",
+      "course": "MATH406",
+      "review": "The class was pretty easy, the test content was always well covered in class/homework, and he kept the lectures somewhat entertaining.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2008-08-25T16:44:00Z"
+    },
+    {
+      "professor": "Joel Cohen",
+      "course": "MATH406",
+      "review": "MATH406 with Prof. Cohen is the only course I've ever been in where you can burst out loud \"I have no idea what's going on!\" and everything will be explained to you again patiently. In contrast to the other reviews, I find his lectures very clear.  If you're really on your stuff with math you will do fine with  him. ",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2008-04-23T04:08:00Z"
+    },
+    {
+      "professor": "Thomas Haines",
+      "course": "MATH406",
+      "review": "Haines was a good and fair prof. His lectures were sometimes boring but he allows time for HW questions. He has 2 exams which are curved and weren't that bad if you keep up with HW. He gave practice exams for both. HWs were very helpful in learning and practicing the material and he drops 3.\r\nHe told some \"funny\" jokes to lighten the mood several times. \r\nOverall good prof, nice guy.",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2010-01-04T16:50:00Z"
+    },
+    {
+      "professor": "Jonathan Rosenberg",
+      "course": "MATH406",
+      "review": "If you want to get an A by just studying given material and don't have experience with proofs, avoid taking any classes taught by Rosenberg!\r\n\r\nTeaching: He can explain concepts straightforwardly, although he chooses to cover proofs in class instead of problems related to homework or ones you'd find on tests. \r\n\r\nThe homeworks are hard. Even if you do well on the exams, this is where you will be losing your points. Expect to sit down on homework for at least 4 hours unless you are good at proofs. He usually asks 2 to 3 difficult thinking questions that require you to do proofs where you need to think outside of the box.\r\n\r\nExam Difficulty: He starts off the class seemingly easy. The first exam took about 20 minutes or less if you just did the homework problems. Its mostly arithmetic / problems memorized from the notes. I got a 97 on it. On the second exam, I got a D... the full exam was all proofs except 1 problem despite the fact that he said it would be more arithmetic based than proofs and easy like the first exam. Rosenberg loves proofs so if you're not a math major like me (comp sci), avoid this class. He likes to make you think intuitively on the exam. Out of the 5 problems, I only saw 1 before, despite reviewing every single hw problem and the notes multiple times before the test. Rosenberg only curves at the end and you have no idea how you did. The final exam is brutal just like the second midterm ... do not be fooled by the curriculum of this class or the first midterm. He made it way more difficult half way through the year and doesn't seem to care about student concerns ... you don't even get the solutions to the homework problems after the first 2 or three. If you do end up taking his class, do all the proofs covered in class. Try to look for previous exams and study everything. Studying all the material is not enough to get an A. You need to practice proofs a lot.\r\n\r\nGrading Breakdown:\r\nIn-class exams\t\t100 points each\r\nHomework\t\t100 points total\r\nQuizzes\t\t50 points total\r\nFinal Exam\t\t200 points\r\nTotal\t\t550 points",
+      "rating": 2,
+      "expected_grade": "B-",
+      "created": "2018-01-02T21:22:12Z"
+    },
+    {
+      "professor": "Manjit Bhatia",
+      "course": "MATH406",
+      "review": "number theory is an easy math400 in general. manjit bhatia is pretty old but he's not a terrible professor in my opinion. he can be very generous with exams as he allowed the first exam to be regraded and turned in for full points back. HOWEVER his grading on exam is BS sometimes. the reason why so many people needed regrades was because of this. he takes off like 90% credit even if you show you know how to do 95% of a problem. you need to make sure you know what he wants. but otherwise a low stress class and i wouldnt avoid taking him for this class by any means.\r\n\r\n\r\nalso he didnt show up for our 8am final which was annoying...but the math department was the one being annoying by not letting it be a take-home exam after that happened. ",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2019-12-21T02:39:24Z"
+    },
+    {
+      "professor": "Adam Kanigowski",
+      "course": "MATH406",
+      "review": "Professor Kanigowski is phenomenal. I had him for Math 406 as a freshmen. He is so kind and patient. He is the kind of professor who is extremely brilliant but also cares about his students learning the material. He understands that students might not necessarily understand the material through one approach and if you ask questions or he notices that he has lost student in his lecture, he will go back through what he just taught and try to teach it in a different way so it makes sense.\r\n\r\nASK QUESTIONS IN CLASS!!! He is so willing to help you understand and he WANTS you to ask questions. He will repeatedly ask during lecture if there are any questions, and every time I have asked (which was a lot) he always made sure to answer it to the best of his abilities and I always understood it better. He is very nice at office hours and will spend however much time it takes going over problems until you feel comfortable. His homework and midterm prep are very useful and you will feel very well prepared for his exams if you complete them. \r\n\r\nThe class breakdown is 6 to 7 graded homework assignments with 1 midterm and 1 final. However the homework and lectures really prepare you for the midterm and final so you will be okay. He does not require you to attend lecture, and the book is helpful, but I found his lectures to be a lot more helpful than the textbook, and he doesn't go in order of everything in the book so you at least need to know what topics he covered in class. I would highly recommend attending lectures.\r\n\r\nSide note - I had him during the time that UMD went online for the second half of the second semester because of COVID - 19 and he did so much to make sure that all his students were okay. He made sure to modify the curriculum and add more office hours so that we knew we could reach out to him. He said he cares more about his students understanding what he has taught than just bulldozing though material for the sake of saying he completed everything on his timeline. He is great for people who love math, or who struggle with math. He will challenge your brain to think different for those who enjoy it, and he is there to support you and encourage you when you struggle.  100% recommend taking him and I would take his class again if I could. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2020-04-06T19:05:50Z"
+    },
+    {
+      "professor": "Adam Kanigowski",
+      "course": "MATH406",
+      "review": "Decent professor. Not the best lecturer, but fair and exams are not bad.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2020-05-02T17:17:05Z"
+    },
+    {
+      "professor": "Adam Kanigowski",
+      "course": "MATH406",
+      "review": "Very understanding man. Definitely cares about students and wants you to understand the material. Did recieve an A- in the class.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2020-10-27T21:55:33Z"
+    },
+    {
+      "professor": "Nathan Manning",
+      "course": "MATH406",
+      "review": "Great guy, knows the material well and makes jokes in the class. First exam was too long, he listened and vastly improved exam 2.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2020-11-11T22:30:52Z"
+    },
+    {
+      "professor": "Yanir Rubinstein",
+      "course": "MATH406",
+      "review": "Actually really bad. I had taken this class by mistake and didn't realize it was a mistake until after add/drop, and he was the only available professor. He didn't have any reviews yet; just one from like 5 years ago that said he was awful. I said ehh, it's only 1 bad review, but I should've listened. So far the mean exam grade has been a 60 and he says he isn't going to curve it. Lectures are painful. He does zero prep and reads VERY slowly through the book, and if you ask a question he will either barely answer it or talk down to you. Probably just here for the research. The grade distribution is nice, HW's aren't graded and you get points for making a study guide, but seeing how the exams (basically the only source of a grade: 5 quizzes, ~10% each and he drops the lowest one) it's not looking great. Unless you are really good at Math and it's like your passion/you do Math research for fun, this class is gonna be the death of your GPA. I've taken up to Calc3 and LinAlg, and this class could be interesting, but he makes it tedious to sit through and gets mad when students don't show up to lecture.",
+      "rating": 2,
+      "expected_grade": "C-",
+      "created": "2021-04-14T22:09:16Z"
+    },
+    {
+      "professor": "Antoine Mellet",
+      "course": "MATH406",
+      "review": "He is a good professor and this class isn't too hard if you have prior experience with proofs. However, Mellet's accent can sometimes make it hard to understand what he is saying as he talks quickly and mumbles sometimes. Luckily, he follows the textbook to a T so if you miss something, it's in the textbook. He uses the same examples and everything. He also goes pretty quickly in class in general, so you have to be a quick notetaker-- he starts wiping down the board the second he is done a proof or example. There also was a small curve at the end-- I walked into the exam with an 84 and ended up with an A- in the class, and it was not possible for me to get an A- even if I got 100% on the final. I definitely would have done better in this class if I had studied overall more. He has no quizzes, only weekly homework, 2 tests, and a final. So if you're like me and you do homework in 1-2 days, you may struggle a bit to catch up when it's time for exams.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2021-12-19T21:23:01Z"
+    },
+    {
+      "professor": "Harry Tamvakis",
+      "course": "MATH406",
+      "review": "Very straightforward and easy-to-understand lectures, but he gets angry at the American education system (he's Greek) sometimes and takes it out a little on you.",
+      "rating": 4,
+      "expected_grade": "C",
+      "created": "2022-05-04T16:53:57Z"
+    },
+    {
+      "professor": "Thomas Haines",
+      "course": "MATH406",
+      "review": "great professor",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-07-02T17:17:29Z"
+    },
+    {
+      "professor": "Nathan Manning",
+      "course": "MATH406",
+      "review": "Nathan is one of the best professors I have had. Don't be fooled by the low reviews; they're probably from 240 students who were upset that they couldn't get an easy A. He is very knowledgeable and cares a lot about his students. His tests are sometimes tricky but definitely doable if you go to lecture, study, do the homework, and go to office hours. He encourages students to ask questions and is always accessible via office hours and email. I have also had him for 240 and 310 and my math thinking and appreciation has grown so much thanks to him!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-11-02T15:21:06.586760Z"
+    },
+    {
+      "professor": "Lutian Zhao",
+      "course": "MATH406",
+      "review": "He cares a great deal about lowering the pressure of getting a good grade. He is very generous in his grading scheme and teaches the material in such a way that makes it interesting. There were some moments when the material was hard to understand, but not once did I feel stressed about it since he made sure that only what we knew was on the exam or homework.\r\n\r\nOne of the best professors I have ever had.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-12-06T17:30:58.968029Z"
+    },
+    {
+      "professor": "Lutian Zhao",
+      "course": "MATH406",
+      "review": "Just stop reading reviews and sign up now before his class gets filed up.\r\n\r\nPros:\r\n- Clear teaching\r\n- Gives practice exams VERY similar to actual exam\r\n- Reasonable homework\u2019s\r\n- Drops lowest exam\r\n- Final is presenting/ making a report on how to solve a theorem that you have weeks to prepare for (you choose the theorem from a list)\r\n- Good personality\r\n\r\nCons:\r\n- (this one is very minor but) when explaining he looks mostly on at the board so if you have a question you either have to say so or you might need to wait a few minutes until he sees you\r\n\r\nDo yourself a favor, sign up now\r\n\r\nP.S.\r\nThanks Lutian for a great semester :)",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-12-06T17:33:26.073929Z"
+    },
+    {
+      "professor": "Peter Dillery",
+      "course": "MATH406",
+      "review": "Great lecturer, and takes time for questions. Poor handwriting but legible.\r\nMain issue is that he does not post notes, so you need to take detailed notes in class.\r\nAbout 2-3 hours of homework per week, exams are fair.\r\nAttendence is not graded but absolutely critical to pass the class.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-12-16T18:06:27.664291Z"
+    },
+    {
+      "professor": "Lutian Zhao",
+      "course": "MATH406",
+      "review": "Amazing professor. Made the class an awesome experience and I would rush to sign up for any class with Lutian. He puts a large emphasis on making sure you're not stressed out and can actually learn and enjoy the material he is teaching, while still making sure you understand it. The only complaint I have is as somebody who is good at math and proofs, sometimes he would lose me because he was moving too fast. In fact, there were numerous times where somebody would have to stop and ask him to slow down or ask him to repeat something.\r\n\r\nOther then that, 5/5 professor would take him again :)",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-12-16T20:57:13.461874Z"
+    },
+    {
+      "professor": "Lutian Zhao",
+      "course": "MATH406",
+      "review": "Actual GOAT.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-12-20T21:53:45.166676Z"
+    },
+    {
+      "professor": "William Goldman",
+      "course": "MATH406",
+      "review": "Super nice guy, not the best teacher, but I still learned a good amount and the curve was super generous",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2022-12-23T20:59:07.583385Z"
+    },
+    {
+      "professor": "Lutian Zhao",
+      "course": "MATH406",
+      "review": "The class is interesting and Lutian really wants to learn. He's HWs and practice exams are helpful. It would be better to have some pdf notes.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-01-23T23:34:43.706615Z"
+    },
+    {
+      "professor": "Antoine Mellet",
+      "course": "MATH406",
+      "review": "Definitely a great choice for a professor. If you have the opportunity to take Mellet for any course, I would highly recommend it. He teaches the course content very well, and sticks closely to the textbook which makes it easy to learn outside of class. The exams were very fair and the homeworks were not too long but were still helpful. Mellet has a moderate french accent which is easy to understand and I would argue actually improves the course significantly. The course itself is not very difficult compared to other 400 level math courses, and was interesting.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-04-03T17:42:47.284111Z"
+    },
+    {
+      "professor": "Peter Dillery",
+      "course": "MATH406",
+      "review": "On one end, he's a great lecturer, curves pretty substantially, and administers fair exams.\r\nThat being said, he doesn't post notes, and homework are quite lengthy, and are graded very stringently.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2023-04-07T03:09:02.641908Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "MATH406",
+      "review": "This was my first 400-level math class (taken concurrently with 405). If you are comfortable with proofs (CMSC250 or MATH310), it will probably be pretty easy. The cryptography applications are super fun! Our exams have not been curved so far, but that's because the averages were high. I would not expect anything to get curved. It's just not needed.\r\n\r\nThe homeworks are a bit long, but it makes studying for the exams easier. I suggest at least starting the problems the same day that you cover the material, and then reviewing them at the end of the week. If you can code, it is definitely good practice to code up the algorithms we discuss. \r\n\r\nJustin is impressively organized. He posts all assignments well in advance (often a whole month). He is very responsive on Piazza. His past exams and solutions are available on his website, so there are plenty of study resources.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-04-30T18:49:43.769722Z"
+    },
+    {
+      "professor": "Peter Dillery",
+      "course": "MATH406",
+      "review": "As for the good, he curves quite substantially.\r\n\r\nApart from that, I don't have much else to say. Excessive (and excessively long) homeworks every week (we even have a full length homework assignment due during finals week, something I've never encountered in any class before this), he doesn't post notes at all and his lectures are effectively just a worse presentation of the sections of the textbook (his textbook of choice being abysmal as well), and extremely low exam averages. First exam average was a D, second and third one an F. The exams weren't as difficult as the low averages entail, but barely any material is provided to accurately prepare for these exams, and we are stuck using Justin's practice material and past homeworks, which are extremely excessive.\r\n\r\nOverall, he's a genuinely nice guy, but is a strict butler for the rules and can be quite a bit of an asshole at times.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2023-05-08T09:14:14.040331Z"
+    },
+    {
+      "professor": "William Goldman",
+      "course": "MATH406",
+      "review": "Great professor, clearly very passionate about the topics taught. The professor often engaged in discussions with students about math topics. The workload in the class was light(1 homework assignment every 2 weeks), but still allowed a chance to gain an understanding of the content. Dr. Goldman was willing to go over homework problems the class struggled with in class. The final exam was also curved. \r\n\r\nThe only negative was that the professor is not the best lecturer and often seemed to have difficulty conveying topics.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2023-05-10T21:17:24.803705Z"
+    },
+    {
+      "professor": "Peter Dillery",
+      "course": "MATH406",
+      "review": "Great professor gives examples for everything which is super helpful. Exams are super fair (though I sadly bombed test 2) if you study and actually pay attention. I agree with everything the other reviewers say as well. Although slow at responding emails sometimes but very good professor.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2023-05-25T21:29:19.154344Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "MATH406",
+      "review": "I was taking MATH241/406 with Justin in Spring 2023.\r\n- MATH241: His lectures were straightforward to follow. Also, he made the quizzes/exams not too hard, so getting high scores would be easy. However, TAs wouldn't go over the discussion/quiz problems for the entire section; if you've ever felt lost, definitely ask for help (My TA was Luis, and he's super helpful). For grading, he dropped the 4 lowest quizzes at the end, and the final grade could replace the lowest midterm if it was higher.\r\n- MATH406: This is the most interesting class I've ever taken. The proofs were confusing sometimes, but he made it clear. Homework could be time-consuming but I did enjoy doing it. Exams are pretty similar to the practice.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-26T03:30:50.383382Z"
+    },
+    {
+      "professor": "William Goldman",
+      "course": "MATH406",
+      "review": "I didn't believe people when they said their professor's voice would put them to sleep until I took this class. He seems like a nice enough guy, and I don't think the class is super hard, but I straight up could not learn anything from the lectures. I taught myself the content for the first midterm and did well, and I'll have to do the same for the final. I've definitely had worse professors but I wouldn't recommend him.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2023-12-12T18:21:15.647510Z"
+    },
+    {
+      "professor": "William Goldman",
+      "course": "MATH406",
+      "review": "really really nice person, understanding of your concerns and values your enjoyment and learning. his lectures can be kind of boring and repetitive at times, but homework and exams are fair",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2023-12-16T04:32:56.393686Z"
+    },
+    {
+      "professor": "William Goldman",
+      "course": "MATH406",
+      "review": "I had Prof. Goldman for Intro to Number Theory. He is very patient, takes time to explain things in detail, and is super responsive to questions. He will approach the same problem or concept in different ways, so you end up with a super thorough understanding of the material covered in lecture. His exams are fair and are based entirely on what's been taught in lecture and practiced in homework assignments, so you're not thrown any unfair curve-ball questions. I really enjoyed his class this semester.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-17T00:01:32.967917Z"
+    },
+    {
+      "professor": "Harry Tamvakis",
+      "course": "MATH406",
+      "review": "Professor Tamvakis is a great professor! He is a great lecturer and is always willing to meet with his students to help them out. He assigns weekly homeworks, 2 of which he allows to be turned late for full credit. With that being said, the homeworks can be challenging and long. The exams were pretty straight forward, no big surprises. He is also a quick grader so you'll recieve your exams back within a week. He gives review worksheets prior to each exam covering the content that the exam will be on them. As far as grading goes, he is a fair grader. He also curves the class at the end of the semester which is always nice. On the other hand, be aware that he does not use canvas at all, except to make announcements and distribute reviewsheets. So going to lectures is a MUST. He does not post any notes or slides on canvas or his website. Also, you won't know your grade until the end of the semester, unless you manually calculate it yourself. Overall, I would recommend Professor Tamvakis, you'll definitely learn a lot with him.",
+      "rating": 4,
+      "expected_grade": "C",
+      "created": "2023-12-17T22:52:28.052861Z"
+    },
+    {
+      "professor": "Harry Tamvakis",
+      "course": "MATH406",
+      "review": "Professor Tamvakis is just wonderful. When it comes to teaching, he presents great lectures which 95% of the time provide all the information and formulation necessary to complete the exams. He offers outstanding help during office hours which is always useful in completing the homework, and he leads you through the entire process to the final answer rather than some other professors who are afraid of telling you if you answer is right or wrong. The homework is hard, of course, but I appreciate the difficulty because it can make the exams feel easy, which is great of course considering that the homework is only 20% of the final grade.\r\n\r\nWhen it comes to exams, he provides exam review problems and goes over most of the problems the class before the corresponding exam. The review problems are always harder than the exam problems so it truly prepares you for what will appear on the exam, in addition to the homework. And best of all, there is a curve AND there is extra credit on every exam and on most of the homework! Definitely would suggest taking MATH406 with Tamvakis as it is one of the hardest math classes you can take!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-21T16:21:44.590456Z"
+    },
+    {
+      "professor": "Kendall Williams",
+      "course": "MATH406",
+      "review": "Pros: \r\n- He has some rather fun and engaging lectures where he will ask plenty of questions and entertain any questions students have\r\n- Goes through several practice problems during lectures, usually done in groups with classmates\r\n- Gives study guides for exams with practice problems that are usually identical to those on the exam\r\n- Pretty good pace in lecture, writes everything out on the board, and willing to explain ideas\r\n- He is generally a nice guy and makes being in his class for lectures not insufferable\r\n\r\nCons\r\n- Not mathematically rigorous, so if this is what you're looking for out of a 4XX class, don't take him\r\n- Requires proof-writing occasionally without giving structured expectations for such proofs\r\n- Honestly, doesn't seem to know the material very well; relies HEAVILY on the textbook\r\n- Occasionally made mistakes during lecture (related to the previous point)\r\n- Occasionally spent several lectures on unrelated (or generally unimportant) topics, which were testable nonetheless\r\n- Missed/Cancelled an unusually high number of classes; Otherwise seems uninterested in teaching this class\r\n\r\nGenerally, he will make MATH406 easy for you if you give it enough effort\u2013take notes, do the practice problems (in class and out), and look at the pre-exam study guides he gives\u2013but if you are mathematically interested, do not take him because you will not learn enough or won't learn the material at a deep level. Ultimately, without all the nuance: he is a lecturer who will give you a good grade but is merely serviceable for actual learning.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2024-05-04T23:59:52.551720Z"
+    },
+    {
+      "professor": "Dori Bejleri",
+      "course": "MATH406",
+      "review": "Apparently, this was his first semester teaching 406. I wouldn't have guessed - we just go over proofs in class and he is pretty good at explaining everything going on. If you do zone out and stop following a proof, he usually goes over the important conclusions at the start of the next class anyway. We have homework posted every Friday due the next Friday and that's pretty much it except for exams. The homeworks are good practice for the exams and don't typically take too long. The two midterms were only four problems that were directly related to what we had covered in class and intuitive, especially because he will give a selected list of problems from the homework to study and solutions to them. He is always willing to give a hint in an email or in class if you are stuck on a problem on the homework too. I haven't been to office hours since I haven't had to but he's pretty chill in class. Assuming he doesn't suddenly get really mean, I thought he was awesome! Learned a lot of cool stuff and none of it was much pressure!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-05-17T00:35:09.670920Z"
+    },
+    {
+      "professor": "Peter Dillery",
+      "course": "MATH406",
+      "review": "Peter Dillery is a top-tier lecturer, but the organization of his class is a little lacking. His homeworks are difficult but reasonable, and his exams are never too difficult. Overall, I'd recommend him.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2024-05-28T01:56:02.809175Z"
+    },
+    {
+      "professor": "Niranjan Ramachandran",
+      "course": "MATH406",
+      "review": "very hard class. i took it in the summer. there are 10 homework over 6 weeks so around 2 homeworks per week. they take pretty long. exams are hard. however the professor is great and he knows what he's talking about. he is also very nice, pretty chill guy. if you have any struggles in the class, just reach out to him. he also adds a nice curve at the end, but don't rely on it.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-07-10T21:35:51.764076Z"
+    },
+    {
+      "professor": "Dong Quan Nguyen",
+      "course": "MATH406",
+      "review": "As other reviews have mentioned, Dong Quan is a great teacher when it comes to explaining and developing concepts. He is always willing to go out of his way to recap unfamiliar or forgotten material, and will answer any question asked in detail. Furthermore, he is very nice and wants everybody to succeed doing everything in his power to help every student get good grades. \r\n\r\nThe problem with this, though, is that there is a notable difference between students learning material and getting good grades. Graded exercises are made trivial after discussed in class (often before their due date, and in detail) and due to a generous grading structure, nobody in the class had to take the final since a take-home midterm was half our grade.\r\n\r\nThe grading structure was the top two categories out of homework, midterm, and final, each of the two weighted to be 50% of our final grade. I don't think anybody ended the course without an A+, though, and certainly not without an A because so many assignments became copy-and-paste from his notes in class.\r\n\r\nThis resulted in students receiving good grades without the need for them to learn or understand material. Looking at some exams in the testbank, for example, I'm lost on many of the questions, with question formats we've never seen. I'd attribute this to a mix of a focus on theory from Dong Quan and a lack of rigor to the course. While Dong Quan is great at teaching, one of the fundamentals of learning is practice, and without any graded assignments that actually required students to do anything other than copy and paste notes, it's hard to say that anybody came out of the class knowing a ton more than when they entered.\r\n\r\nOn a separate note, I want to verify his habit to extend due dates and his somewhat frequent online lectures. There's nothing necessarily bad about either of these, but both are something to be aware of.\r\n\r\nIn conclusion, take the class if all you care about is your final grade. In this case, you will get the grade you want with minimal effort. Otherwise, opt for another more rigorous teacher.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2024-12-10T23:06:25.293529Z"
+    },
+    {
+      "professor": "Dong Quan Nguyen",
+      "course": "MATH406",
+      "review": "Dong Quan was a great teacher and very nice, but due to the class's structure, I'd say very few people came out of the class having learned much of the content.\r\n\r\nThere were two assignment types on which students were evaluated -- homework and one midterm. There was also a scheduled final but the grading structure required nobody to take the final when it came around. (50% each of the highest two categories between homework, midterm, and final).\r\n\r\nWith this generous grading structure, almost all homework questions were covered in class before their due date and the midterm was open book, making each of these assignments almost guaranteed to yield high grades for all students. With this, no matter how great Dong Quan's lecturing was (which was very good) students didn't have to retain information, and therefore many left the class no better off than when the semester started.\r\n\r\nIf you take Dong Quan, you will get a great grade with minimal effort, but it will not be rigorous, and you will not learn nearly as much as you would taking classes with any other professor.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2024-12-27T03:12:48.240523Z"
+    },
+    {
+      "professor": "Dong Quan Nguyen",
+      "course": "MATH406",
+      "review": "The review below summarizes a lot about the class, but I'd like to add an update that the grading structure did change mildly: there is no \"50% of each of the two highest categories\" thing for us, so you have to do decently well on the midterm (the final is online for us), but it's still pretty relaxed and he goes over extremely similar exam problems during the in-class review. Some homework problems are very very difficult, but he will usually give you a major hint (pretty much the entire solution) in class for those ones.\r\n\r\nThere are a few ways Dong could improve lectures, in my opinion. He tends to go on tangents about the history of mathematics or about something related but not fully comprehensible to most of us undergraduates, often involving abstract algebra. Obviously, this is in part due to his love for math, and the enthusiasm is a nice break from the bore of our other classes, but I felt like it would have been better to focus on lecture material in some cases. He is clearly very intelligent because he seems to pull many of the proofs straight from memory.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2025-04-26T20:04:46.894939Z"
+    },
+    {
+      "professor": "Qendrim Gashi",
+      "course": "MATH406",
+      "review": "Professor Gashi is great! He is nice, accommodating, and very passionate about math. Exams are pretty long, but they are very study-able and graded very leniently. The class follows the textbook really closely, so if you ever get confused you can always read that. If you have the option to, take any class you can with him. It's been a very fun and rewarding class!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-13T23:47:56.198131Z"
+    },
+    {
+      "professor": "Shin Song",
+      "course": "MATH406",
+      "review": "She is a really nice person - I'm sure if you're struggling and you talk to her she would cut you some slack. The exams were extremely fair, no curveballs or anything just applications of the stuff taught. The lecture notes I thought were really good because they are all in one document and typed (you can ctrl + f) which was convenient. 8 total homework, nothing crazy and the final was also pretty easy. I will say that when I was in lecture it was really easy to get lost because sometimes shes not the clearest about what she means.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-05-17T20:28:03.389141Z"
+    },
+    {
+      "professor": "Shin Song",
+      "course": "MATH406",
+      "review": "I think she's pretty passionate about this course since it's related to her specialty (she said this a few times). 8 homeworks 2 midterms and 1 final, pretty easy if you know how to do the homework. Kinda easy to get lost during the lectures since she sometimes talks about the history of whatever you learn. Lecture notes are organized and typeset so it's easy to find what you need, but she's sometimes slow on updating them.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-05-20T17:07:15.767202Z"
+    },
+    {
+      "professor": "Dong Quan Nguyen",
+      "course": "MATH406",
+      "review": "Dong was a really nice professor, and quite frankly, taking this course with him is an easy A. \r\n\r\nThis course consists of 6 HWs, a midterm and a final. The HW contained a mixture of mildly difficult problems and very challenging problems. The challenging problems were very theoretical in nature. I will state, though, that he usually went over the challenging problems in class, and outright gave entire answers for those problems. However, I think the HW could have been a little easier and less theoretical. \r\n\r\nHis exams are pretty chill. Unlike the previous semester (which had a take-home midterm and a final that was basically optional), we had an in-person midterm as well as a take-home final. The midterm was very fair - he gave us practice problems for the midterm that correlated very well with the actual exam. Most people got an A on the midterm. The final was a little harder, but due to it being take-home, it was very little stress.\r\n\r\nHis lectures were not the best, but also not the worst. His accent is very thick, so it is difficult to understand what he is saying at times. I found it difficult to learn from his lectures, but it wasn't the biggest problem as the textbook contains the content that he covers in class. He also does not record lectures, nor does he post notes. I would prefer if he at least posted notes for his lectures, but again, because of the textbook, it wasn't that big of an issue. \r\n\r\nI'd like to note that he is very passionate about Number Theory. He also has an impressive knowledge of Math history, and often goes in depth into it in his lectures. This made his lectures pretty enjoyable, in my opinion.\r\n\r\nAlso, the TA and the professor were extremely lenient with the grading, which made this course super chill in general.\r\n\r\nOverall, this professor was a life-saver for me this semester, as I was stressed out with other courses. I'd recommend taking Dong if you want an easy A. I would have preferred to learn a little more, but still think I gained something from it (got a lot of practice with congruences, and learning all the tricks and manipulation you can do with them). \r\n\r\nI would like to note that MATH406 is actually a really difficult course if you were to take it with any other professor - only take this course if Dong is teaching it.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2025-05-22T03:28:05.701728Z"
+    },
+    {
+      "professor": "Qendrim Gashi",
+      "course": "MATH406",
+      "review": "The thing I appreciate most about this class is that it was very challenging, but forgiving. That's basically my entire reason for a 5 star rating. If I recall correctly from class, Qendrim doesn't want the reputation of being easy so people actually try in his classes, but he is absolutely not out there to fail you if you put in meaningful effort. It was a bit stressful throughout the semester, as I didn't do particularly great on the first midterm, but it turned out well in the end.\r\n\r\nWe followed the textbook Introduction to Number Theory with Cryptography Second Edition by Larry Washington very closely, with the course content and homeworks being almost entirely structured around it. Lectures tended to pull directly from this textbook, though some things from the book needed corrections and/or further elaboration in class (for example, Hensel's lemma is written slightly incorrectly in the textbook). I'll say I found the computations in this class to be mostly fairly easy, but the proofs could get fairly challenging if you don't see the trick right away. Homework proofs tended to be more about using theorems from the book to prove other facts, while exam proofs tended to be more about proving the theorems from class.\r\n\r\nI really have little else to say here. I'm certainly taking this professor again if the opportunity arises, and from what he's said in class, he plans to stay for at least a little while longer. He's stated an interest in teaching abstract algebra again at some point, as well as real analysis.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-05-23T01:28:09.566534Z"
+    },
+    {
+      "professor": "Dong Quan Nguyen",
+      "course": "MATH406",
+      "review": "He is very passionate about the material, but his hw assignments were sparse and skipped many sections we covered, which made it difficult to keep up.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2025-05-23T20:09:11.989838Z"
+    },
+    {
+      "professor": "Niranjan Ramachandran",
+      "course": "MATH406",
+      "review": "I've only taken 2 weeks of this class and I've never written a review here before so it's saying a lot that I'm doing this right now. I've taken a LOT of math classes at UMD and by far Professor Ramachandran is my favorite. He doesn't assume that people come in with any prior knowledge, and yes, the class is a lot of work and definitely a time commitment, but if you're in anyway interested in the subject matter I would take it. He is so excited to teach the class, always smiling, very friendly and fair. His only downsides are that he doesn't give extensions (at least during the summer) and the homeworks are quite long, but it is a 400 level math class so it is to be expected. Don't expect an extremely easy or an extremely hard class, but its been a delight to sit in on these lectures with Professor Ramachandran.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-07-23T13:11:37.087629Z"
+    },
+    {
+      "professor": "Harry Tamvakis",
+      "course": "MATH406",
+      "review": "Tamvakis for MATH406 was decent overall. He was super kind, really cared about students, and you could tell he loved number theory. Every so often he\u2019d drop some random historical fact behind a theorem or proof, and those were honestly some of my favorite parts of the course. He explained things well and was always patient when we had questions. The virtual exam study guide walkthroughs also helped a ton leading up to midterms.\r\n\r\nHe doesn't post lecture notes at all. I believe attendance is important but even missing one lecture (even if it's for an emergency) can result in a cascading effect leading up to the next exam as the class moves fast. Plus on his exams, he wants you to approach problems the way they were in lecture, not necessarily the textbook. Exam grades aren't put on ELMS  so you wouldn't know what your grade was until grades were due, since the curve was gatekept.\r\n\r\nAnother issue wasn't really with him, but with how class was structured (unsure if this is the professor or department's doing). It makes no sense that two midterms are worth 50%, the final is 40%, and then the 11 problem sets, which easily took 30-40 hours total (atleast for me), are only worth 10%. There\u2019s technically extra credit, but it\u2019s just ~1%, which doesn\u2019t change much. I get that AI makes cheating on homework easier, but this grading setup feels like an overcorrection. Some people are naturally better at proof-style exam problems, and the weighting heavily favors them. Without a curve, the averages were borderline failing. The testbank practice finals weren't much help either, as past professors often taught entirely different topics and/or from different texts.\r\n\r\nI feel like if your brain doesn't think the way the problems want you to, you get punished for it. To this point, I'd also recommend that if a step of a proof feels trivial/given to you, don't assume that for everyone. Teachers know this subject front-to-back but oftentimes several steps were glossed over and can leave confusion. I'll ask clarification occasionally but I don't want to be raising my hand throughout the class. In other words, some more emphasis on the thought-process step-by-step would be useful is all.",
+      "rating": 4,
+      "expected_grade": "C",
+      "created": "2025-12-23T17:30:01.665206Z"
+    },
+    {
+      "professor": "Harry Tamvakis",
+      "course": "MATH406",
+      "review": "maybe im the exception, but i thought he was eh\r\npros:\r\ngreat guy\r\np good lecturer\r\ninteresting material\r\n\r\ncons:\r\neverything is pen and paper, you have to come to class\r\nclass is pretty hard\r\nsometimes he would drone on in lecture, this made it hard to focus",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2025-12-30T22:57:30.638503Z"
+    }
+  ],
+  "department": "MATH",
+  "course_number": "406",
+  "name": "MATH406",
+  "title": "Introduction to Number Theory",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> 1 course with a minimum grade of C- from (MATH240, MATH241, MATH246, MATH340, MATH341, MATH461); or permission of CMNS-Mathematics department.\nIntegers, divisibility, prime numbers, unique factorization, congruences, quadratic reciprocity, Diophantine equations and arithmetic functions.",
+  "is_recent": true,
+  "geneds": null
+}

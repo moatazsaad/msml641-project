@@ -1,0 +1,684 @@
+{
+  "average_gpa": 2.8855576539712517,
+  "professors": [
+    "Frederick Khachik",
+    "Monique Koppel",
+    "Maryann Jones",
+    "Bonnie Dixon",
+    "Soumya Rastogi",
+    "Christopher Capp",
+    "Lenea Stocker",
+    "Monique Koppel",
+    "Monique Koppel",
+    "Monique Koppel",
+    "Lenea Stocker",
+    "Monique Koppel",
+    "Monique Koppel",
+    "Monique Koppel",
+    "Monique Koppel",
+    "Monique Koppel",
+    "Monique Koppel",
+    "Lenea Stocker",
+    "Monique Koppel",
+    "Monique Koppel",
+    "Monique Koppel"
+  ],
+  "reviews": [
+    {
+      "professor": "Frederick Khachik",
+      "course": "CHEM232",
+      "review": "I had him for lab, so I cannot give an accurate review of him as a professor, but here's what I thought of orgo lab:\r\nI hate lab, mostly because the order in which information is learned is completely unrelated to the order in which things are learned in class, and the lab textbook does a really shitty job of explaining concepts, but the professors can\u2019t really do anything about that. Memorize the review guide the professor sends out before the midterm and the final, because they\u2019re hard and the average is usually pretty low. Khachik gave out an incredible curve at the end of the semester, but don\u2019t count on that. I screwed up both my midterm and final but did well on my labs so I still managed to get an A.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2014-07-06T22:41:00Z"
+    },
+    {
+      "professor": "Emily Luteran",
+      "course": "CHEM232",
+      "review": "Absolutely incredible in every possible way",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2019-12-17T19:07:57Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "Dr. Koppel's lab was a mess! The lab videos were not helpful. You had to go to several office hours to understand how to do the labs. The final was AWFUL (less than 50% average) and not on anything we covered. She's super strict so don't think about cheating. Thankfully she did a huge curve at the end because she knew everyone failed her final. ",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2020-12-24T17:58:11Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "The online lab was a mess. Super disorganized and whenever people were confused she had a lot of attitude. ",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2021-01-05T20:16:57Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "Labs weren't too bad however the TAs could be very picky with answers to post lab questions. Overall not too bad, the final is challenging so make sure to study and get a high enough score so it doesn't completely ruin your grade. Office hours are very helpful for any confusion to labs.  Make sure to do the prep work for labs because it will make everything easier for you. ",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2021-05-22T17:59:52Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "Labs were difficult but TA office hours were very helpful. I was on track to receiving an A this semester, but went down to a B with the absolutely unnecessary final. The final was extremely difficult and it was very disappointing to be assigned one despite the fact that we have been home for a year due to the pandemic. Koppel was very reluctant to give any sort of leniency. Try to do well on the labs, because the final will bring you down a few percentage points. Again not sure why it was at all necessary, especially considering the fact that we were able to demonstrate our understanding of the material with our labs.",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2021-05-25T18:17:02Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "The labs were generally fair and she modified them well to let us get out early. There were tons of office hours with the Tis, which are essential to getting the Post Lab questions answered. However, you should try to good really good on the lab reports, because the final is very hard. Since it is multiple choice (for chemistry), you can lose a lot of points quickly and it will bring your grade down. There was a pretty good curve at the end (4%) though, to account for this.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2021-05-29T18:38:43Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "the lab this semester was a mess, and she kept making decisions that made it more so. \r\nthis class is meant to supplement what we're doing in 231, which is a great idea in theory. in practice, all of the professors are covering the concepts on a different timeline. which would be fine, but there is hardly an explanation of the concepts in the lab manual. sometimes you get videos to watch before the lab, which are really helpful, but they can range from being over 2 hours in total to maybe 5 minutes for the week. and sometimes they don't even cover theory, just how to do the actual lab. a ta also called the recommended textbook useless. which would be fine since we can just go to office hours. but halfway into the semester she's limited how much the ta's can say when they answer a question. which would be fine, you don't want your ta's just giving out answers. but it's to the point where i've seen people ask basic questions on theory and the ta's still can't answer. there's literally not a single source to find the theory we NEED to know, considering it's almost all of what's on the midterm/final/PLQ's, which are HUGE parts of the grade. \r\nthe lab is ran so poorly, for being just 1 credit i find myself putting in a stupid amount of effort for disappointing results. if the lab manual that she wrote was just slightly more extensive, that would be so helpful. if the ta's weren't kept away from explaining even basic theory, that would be so helpful! i know there's no other choice for the lab, but be prepared for a really difficult, frustrating semester if you do have to take it. ",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2021-12-13T02:48:01Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "Lab coordinators are usually barely involved with the actual lab, so I can't really fault Koppel for that. However, she still made this lab far more difficult than it needs to be. She's essentially the only person who teaches CHEM232, so there isn't really a chance of avoiding her, it's more about knowing how to approach her lab.\r\n\r\nThe number one thing is that her post-lab questions are ridiculously difficult. These are the questions that she will post on ELMS in addition to the post-lab questions that are already in the lab manual. They will ask hard questions that barely relate to the content of the lab and ask about content that most students don't learn in lecture. Usually, it's not hard to get full points on every other part of the experiments. Those are always graded by your TA (so it's pretty nice to have a chill TA in the class). A lot of times, the pre-lab component is only graded on completion. The post-lab questions (PLQs) are graded on rotation, so they're graded by different TAs every time. Every TA grades a little bit different, and they all grade at different paces, so do not expect to receive your labs back periodically/be able to use your graded labs to help with the future ones. If you want to ensure that you do well on the PLQs, GO TO OFFICE HOURS. Or find a friend who does. A lot of the questions are near impossible to answer unless the TAs tell you the answer. Also, the TAs for my class (Fall 2021) had the answer keys for each lab, so the literal answers were given out at office hours. Koppel eventually realized this and stopped giving them the answer keys, and so the TAs stopped being as helpful, but they were still better than nothing.\r\n\r\nI always saved doing my lab stuff until the night before, which I really regret. This lab has SO much more work than a one-credit course should have, and it's a good idea to get started on that stuff early so you have time to go to office hours. Also, try and find a TA you like or that other students like, they're likely to be more helpful. I never personally found the pre-lab videos that helpful, but definitely try to watch them, especially for the more complicated labs. Just read the manual closely for each lab and know the directions, it'll make everything go a lot faster (you're gonna wanna get out of those labs as fast as possible, some of them WILL take the full three hours).\r\n\r\nBesides the lab, there are a few additional assignments, which aren't hard. The midterm in this lab is excessively difficult. There is simply no way to study for it. Koppel published a review guide and it didn't help in any single way. As for the final, Koppel, hosted a review session for the exam, and it was so, so helpful. If she does that again, GO TO IT!! The final felt a lot easier than the midterm for me, and it also wasn't cumulative (just on the second half of the experiments in the course). In a way, there isn't a way to control your grade in this lab. It's impossible to answer questions exactly how Koppel expects. You just have to get through it, unfortunately, there isn't really a way to avoid Koppel.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2021-12-18T18:00:39Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "While I'm not sure how Dr. Koppel is with lecture, I can say that her lab is difficult, but also passable. I do think that this course was too difficult for a 1 credit course. The actual lab manual is not difficult, but her post lab questions are extremely difficult, and you will need to go to TA office hours for help. I think the most frustrating past of the post labs were the article searches, as it seems pointless to make students waste their times finding a specific article that she could just attach to the assignment. Along with that, she decided to stop giving the TA's answer keys, which meant that it was very difficult for students to get help. Not all TAs knew what to do for all of those post lab questions. \r\n\r\nHer exams are known for being unpassable, especially the midterm. However, for the final, she will have an in-person review session, and that was extremely helpful in my opinion. I really like her lecture style, she is actually very easy to listen to, and she does a great job of keeping the lecture on topic. Don't panic if you do poorly on the midterm -- everyone does (including me). \r\n\r\nYou will learn a lot from this class, but the class can be very frustrating at times. To be honest, your enjoyment of this class will be determined by your TA. Make sure not to miss any labs!",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2021-12-22T00:28:34Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "I personally never actually met with Dr. Koppel- labs are run by your section TA. I will not review my TA here, though he was awesome.\r\n\r\nOther than the ten labs you will complete, there are two separate assignments (literature and IR spectroscopy), which are basically 60 free points.\r\nThe lab manual is your saving grace. Almost everything you need in the semester is in there. Labs are straightforward- just follow the manual. Post-lab questions are the only difficult parts of the labs, and sometimes you will have to attend office hours in order to understand them. Otherwise, the labs constitute 490 of your ~860 points in the semester, so they are very important. Why? See the next section.\r\n\r\nThe rest of the points come from the midterm and final exams. Each exam is 128 points, and the average is always around 50%. My TA told me that these exams are designed to bring the class average down, which makes sense. After taking the exams, they feel like they were designed that way. You will be fine, as long as you work hard on the post-lab questions. Again, all you can really study off of for the final is the lab manual. Good luck :)",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2021-12-24T16:44:48Z"
+    },
+    {
+      "professor": "Diandra Soemardi",
+      "course": "CHEM232",
+      "review": "Diandra was the best TA I have had. I was so so lucky because I got Diandra as my orgo lab TA, and Shannon as my lecture TA. I honestly cannot say how great it was to have Diandra. She always knew so much about the material and was able to explain it in ways that made sense. I know that she significantly helped my grade because the one week I couldn't make it to lab, I was completely lost. She is extremely helpful, does so much to make sure we get the quality of assistance she thinks we deserve. Honestly just 12/10 TA. I don't know how else to put it in this review. She had 6 lab sections and still managed it all. I'm sad she is leaving. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-05-14T00:09:54Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "Labs were pretty organized, but the midterm and final were brutal, especially the midterm. There were some free points but this class was so much work for one credit. Hated that the exams also had no partial credit, just 8-point multiple choice questions. Your lab report grades also heavily depend on your TA, and same goes for the pre-lab quizzes since TA's get to pick the questions. You kinda just have to get lucky, with your TA and on the exams. I personally did better in lecture than this class, but I will say the class does have a huge curve which is the only benefit. Good luck!",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2022-05-23T19:12:41Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "Lab reports are graded harshly and even if you go to office hours and work through problems with TAs and other students, you can still fail the reports. Instructions aren't always clear. Midterm and final want students to have a deeper understanding of the material that you cannot get from the lab book or Koppel's prelab videos.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2022-12-19T20:43:54.367342Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "Labs (particularly the post-lab questions) are hard. Make sure to go to office hours!! Everyone says that because it is truly imperative for getting a good grade. The midterm and final are hard - I got ~60% on the midterm and ~50% on the final. But, all of my lab grades were high Bs or As, which saved me. There is a big curve. I had an 82% before the curve and I ended up with an A in the class, which is +/-. Don't rely on this curve, though. Work hard to keep your grade up, but don't cry if you do badly on the midterm and final, because almost everyone does. Also, lab reports are graded by all TAs, so your grade on them does not depend on one TA's grading tendencies. Good luck!",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2022-12-21T17:13:22.001403Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "I hated this class. I had the best TA and I made friends which made it a little bit bearable. You must go to office hours to get above average on the lab reports. We literally have no knowledge on how to do the post lab like idk why she even made those questions. Our lecture doesnt cover what the lab cover. What the heck is an E1CB mechanism anyways? what happened to e1/e2/sn1/sn2??? But dont sweat this class. I got a 18% on the midterm and a 37% on the final. They are both way below average btw which is like a 50. And I still got a B. LOL. The curve is something else man.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2022-12-21T22:55:09.902475Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "Not a fan of her lab. However, if you want to do well then go to office hours, the TAs will essentially tell you what you need to know to get an A on the post lab questions, which sometimes are impossible to answer correctly without a TA because the information necessary was just not taught. The exams are designed to lower the average, and it's very clear that they are. The questions are written to trip you up and go into aspects of the lab techniques that are not mentioned at any other time. The lab practical is also 50 points but only two questions and only 10 minutes long. The two questions are randomly given so each student is basically taking a different practical, and you have to hope you get a question thats simple. I can understand making a lab difficult, but she just doesn't prepare her students or test them on what she teaches them.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2022-12-22T06:58:00.256022Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "Office hours are essential to getting a good grade on the lab reports! The TA's are there to help you! Attempt the questions yourself, but then go to office hours and go over them. For Spring 2022, Koppel stopped having a midterm and there was just the practical, which wasn't too bad, it tests you on the lab set ups you've already done. It's a chem lab, so it's not gonna be a great class, but I would definitely say it's the hardest lab I've had so far.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2023-05-07T20:55:24.070862Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "Horrible rude professor who makes you purchase her lab manual which is riddled which errors LOL. She is a complete joke who fails to convey any concepts yet asks you extremely difficult questions on lab reports, for which you have to go out of your way to cram TA office hours into your schedule so that they can do the teaching that she failed to do",
+      "rating": 1,
+      "expected_grade": "A+",
+      "created": "2023-10-18T08:04:59.751222Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "This lab has been the absolute worst part of my semester.  Even though it is only a 1 credit course, it is definitely the one I have to do the most work for.  In addition to the 3 hour weekly lab, you'll likely have to find time to get to TA office hours because the lab reports are beyond challenging and loosely connect to what we did in lab.  The pre-labs and everything else is fine, but the post-labs are so horrible and they take off points for any little mistake.  The ELMS page is helpful though and the pre-lab videos make it clear what you are supposed to do during the actual lab.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2023-11-14T16:05:59.316514Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "People are generally pretty dramatic about lab professors, especially when they perform poorly in the class, but Koppel definitely sucks. I can\u2019t speak to her lecturing abilities but in terms of lab, Koppel leaves you stranded with a poorly written lab notebook and TAs that are just as helpless, often citing how unhelpful she is themselves. Particularly terrible are the Post Lab Questions. Almost never written in a way which even loosely connects to what you did in lab, these garbo time-drainers are beyond difficult even with a comprehensive understanding of whatever you learned in lecture. They are not difficult because the content is hard, but mostly in that they are confusing and contain needlessly tricky and unrelated BS, so my biggest recommendation is to SHOW UP TO OFFICE HOURS. This class will make you feel stupid, because it is stupid, so a good grade will only result from a lot of time and a lot of talking in office hours with TAs who are slightly less confused than you are. Good luck.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2023-11-26T21:52:24.712373Z"
+    },
+    {
+      "professor": "Ziyan Ahmed",
+      "course": "CHEM232",
+      "review": "Ziyan is an exceptional TA. He puts a lot of effort into making sure that his students feel supported during this notoriously difficult lab. \r\nEvery week leading up to the lab, Ziyan sends an email detailing the assignments and tasks needed for the upcoming lab. Lab requires a lot of various worksheets every week, so this is super helpful in making sure we are prepared.\r\nZiyan is also known to have exceptionally good office hours. He is very organized and explains topics in a way that makes a lot of sense. \r\nKeep in mind that people love his office hours and they can be very crowded. (Sometimes every chair is seated, so extra students have to sit on the floor.) This goes to show how super helpful Ziyan is. But try to get there early to get a seat.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2023-12-12T15:44:03.049815Z"
+    },
+    {
+      "professor": "Mariadelia Arguello Acuna",
+      "course": "CHEM232",
+      "review": "An amazing TA with so much knowledge about the subject of Organic Chemistry. She is someone with so much kindness, compassion, and intelligence and made Organic Chemistry I lab so interesting and manageable.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-12-17T21:55:22.365097Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "This class was not my favorite. The only thing that helped me survived was having a good TA and going to the right office hours. The PLQS literally had 0 connection to anything that we did in lab. Going to office hours for them was a must and even the TAs barely knew what they were talking about. Why would she make the questions in such a way that even the TAs can barely answer them? The directions in the lab were very poorly written, leaving everyone confused all the time. The labs were extremely stressful, and Koppel should seriously consider going paperless because the amounts of paper we have to turn in is ridiculous. I don't understand why we can't just upload them to gradescope or ELMS. The lab practical literally destroyed my grade, but the grading cutoff/curve (?) helped. This class probably took up the most time out of all of my classes.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2023-12-28T14:43:46.270324Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "You never see Koppel, only your TA, so this review is just for the class itself. It took more time outside of class than some of my 3 credit courses, so definitely make sure to have time in your schedule dedicated to it, and also make sure to have time to go to office hours every week because YOU WILL NEED TO - because sometimes the post lab questions just don't make sense. Sometimes even the TA's had trouble answering the questions, but even then they're helpful to talk to when there's anything you aren't sure about. The labs themselves are fun and not too hard, just be careful with those PLQs and don't be afraid to ask for help as much as you need it.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-01-24T22:20:44.661328Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "Your success in lab is entirely dependent on the TAs because you pretty much never see Koppel. Thankfully, you're never graded on the accuracy of your results in the lab. The workload is a lot for a 1 credit class but it's not hard if you go to office hours. Her post-lab questions are sometimes things you have never even learned and would have no way of knowing, so it's better to just suck it up and go to office hours. Just figure out who are the good TAs and go to their office hours for everything and you're pretty much guaranteed a a 90%+. I have messed up literally EVERY single experiment we've had so far but I still have a 96% because I just got all the answers from office hours. Benjamin Kim is the GOAT if he's still TA-ing.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-04-22T17:20:24.050244Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "TA's run the lab and make or break your grade. (I got lucky) Labs are based on completion. Hardest part was the PLQ's, office hours saved you if you were concerned on a response.  Koppel only appeared like once and it was for GC analysis.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-04-24T02:18:29.404508Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "Ok the lab sucks, and the PLQs suck more. My TA didn\u2019t really know what he was doing and told our class the wrong instructions more than once. PLQs took me maybe 2-3 hours average (though later ones were definitely longer). Don\u2019t take Monday/Tuesday labs if you can help it, as you\u2019ll be limited in office hours since data was not usually released until just before the weekend. \r\nHowever, 10x better than CHEM136 so I\u2019ll take it",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2024-04-30T02:51:27.019500Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "Honestly, she isn't as bad as people say she is. Don't get me wrong, orgo lab is a LOT of work, and her post lab questions are made to trick you and confuse you. However, if you go to office hours, and actually put in effort you should have almost no problem getting at least an A- in this class. I put in maybe 1-2 hours a week (not including the actual lab time), and managed to get all of the work done and get an A in the course. Overall not a problem, and she's actually kinda nice when you meet her, unlike some of the reviews below will tell you.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-05-17T15:37:27.279473Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "ok so you actually never interact with Koppel unless you go out of your way to. the post lab questions are sometimes mad hard and she expects so much writing from stuff that isn't even mentioned int he question so rlly make sure you hit all the bases when answering and over explain yourself. also the labs you actually have to prepare for so just read the stuff and watch h the videos and you ill be fine",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-05-17T19:20:01.919015Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "Never met her, you only interact with the TAs. The work for this class is actually insane considering it\u2019s only 1 credit. You have to do the pre lab write up and pre lab worksheet for the current weeks lab but then another post lab worksheet and post lab questions for the previous weeks lab. Pre-labs arent that much work and sometimes the pre lab/post lab worksheets arent bad either, but the post lab questions are so long and tedious. The TAs lowkey grade harsh too. Go to the TAs office hours for help on the PLQs and sometimes the post lab worksheets too. Find a TA who will give you the answers bc some are stuck up and wont help you unless you attempt it first. If youre wondering abt the curve I got a 78% rounded to a B.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2024-05-17T19:20:11.967588Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "i have never seen koppel or contacted her the whole time, its mainly the TAs doing everything. for a 1 credit class, it is a bunch of work. every week you have to do a pre lab write up & worksheet(s) for the current week and then the post lab questions & worksheet(s) for the previous weeks. the PLQs are so hard and long, sometimes the worksheets are confusing as well but the pre lab write ups are fine. i learned this later on in the semester (wish i started in the beginning), but you HAVE to go to the TAs office hours to make your life easier. especially find a TA who will just give you the answers bc some are stuck up and will only help if you attempt the question. there was a curve, i dont think any other reviews really mentioned this but my 78 got rounded to a B.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2024-05-18T04:02:11.650055Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "This class was just ok. My TA was amazing but other TAs were very rude and condescending. The worksheets are not hard but the post-lab questions are very annoying. You can never really tell what Koppel wants from your answer (also half the time I just paraphrased what was in the manual and got full points). But on some questions it was so hard to tell what she wanted and I lost a lot of points because of that. It also depends on the TA who grades it, some are very harsh other not.\r\nI will say tho, the curve (for me anyway) was non existent which kinda sucked because I ended with an 87 and expected the curve to bring me to an A- but it didn't, so don't rely on any curve for this course.\r\nI would advise you to go to as many office hours as possible and avoid Monday lab.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2024-05-31T03:32:25.773054Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "I took 232 Orgo 1 lab in Spring '24, which was honestly better than expected, definitely better than Gen Chem 1 lab. Like the other reviews, this one is more for the course itself than for Dr. Koppel. Overall, MOST of the labs weren't time-consuming and sometimes fun but the post-lab questions offered nothing but annoyance because they often had little to do with what we did in labs. I STRONGLY recommend going to office hours EVERY week, whether for the worksheets or post-lab questions. Either way, this strategy relieves unnecessary stress and guarantees a decent score on the questions. If your TA is great (like mine was), optimize their time sections. \r\nYou need to maximize your points on ALL the lab reports as much as you can because THERE IS NO CURVE. Since Dr. Koppel removed midterms and finals, she no longer fancied one. Now there is only a practical \"quiz\" at the end of the semester, which is generally easy if you study well, BUT it can plummet your grade too since there are only two questions worth 25 points each, so don't take it lightly! \r\nOverall, complete all your assignments, study well for the practical, and most importantly go to office hours.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-08-22T14:39:48.250339Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "I had an amazing TA, so this class wasn't that bad. The TAs run the classes and grade everything. I only saw Koppel once near the end of the semester because one of the machines in our lab wasn't working and the TA asked her about it. The worksheets and pre-labs are easy, but the post-lab questions suck. They have nothing to do with what you learned in lab and yet take up so much time. This class should be worth more than 1 credit since I was spending more time on the post-labs at some points than my core classes. To get a good grade on the post-lab questions, use Google and attend TA office hours. Also, make sure to watch the videos going over the lab procedure before lab because it will make doing the experiments much easier. Overall, lab was fun but the PLQs were not.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-08-25T03:11:21.189534Z"
+    },
+    {
+      "professor": "Silas Ameshiku",
+      "course": "CHEM232",
+      "review": "Overall just a good TA. Willing to help and explain concepts. He's approachable and will chat with students.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2024-11-14T03:19:37.095476Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "This lab was a bit of a nightmare to take. The grading expectations for the post labs were not clear, and the post labs took a lot of time and effort. I quite liked the lab work itself, although a lot of it was unnecessary. Two of the most important things to do to succeed in the course is to go to the TA office hours and to properly read the lab manual, you would be surprised how much helpful information is in it.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2024-12-10T19:38:41.488934Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "Everything was graded quite harshly. Also, I never met Koppel which is typical for a lab course but she was not helpful in any way. The TAs are your lifeline in this class.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2024-12-13T17:59:22.421645Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "Very messy class in all the ways. Lacking in organization. The unfortunate part is that as of now there is no other lab coordinator for this course at UMD I think so you are stuck. But having a good TA might save you. It's just hard to get a good TA because a lot of them are undegrads and don't themselves understand the material well enough.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2024-12-13T22:17:21.521439Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "Your success in this class depends on your TA (plain and simple). The lab reports and assignments were not very difficult for me, but that opinion was different for others. My TA was amazing, she would help us work through a problem, or during dry labs, she would go through the worksheet with us, and she would outright say if the answer was right or wrong. The grading on lab reports was a little harsh this semester because the way Koppel let the TAs grade was different than previous semesters (they weren't given answer keys until after a report was submitted, and only to the TA grading the report). I didn't meet Koppel in person, but she releases an announcement before the week starts stating what is due or what we are doing in lab that is helpful. I watched the lab demonstrations at 2x to prep the labs, but I never watched the pre-lab lecture videos she posted (I tried at the beginning, but got lazy later). For the practical, I used a study guide given out by the TAs and I got 100% (ask them for it if they don't give it to you automatically).  Also, I had like an A- in the class at the end, but she put an A in the course grades thing which was a nice and means she gives a small curve.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-16T08:52:45.627572Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "A lot of work outside of lab.  Definitely a huge step up from 132.  Labs aren't terribly complicated but you have to do the prep work to get what's going on.  Post lab questions were awful and graded by rotating TAs so sometimes I got 15/20 and sometimes got 5/20.  Overall course grade - my 86 ended up being an A- so curve is nice.  \r\n\r\nOther reviews said it's disorganized?? It's definitely well organized.  Koppel sends out weekly announcements and the weekly assignment structure never really changes.  (Before lab, do the pre lab assignments.  In lab, do in lab sheets.  After lab, do PLQs, and prep for next lab.)  It was just a lot of volume of work to keep up with.  Thank god I had a fantastic TA otherwise the lab would have been miserable - having a great TA helps so much.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2024-12-17T15:28:56.185324Z"
+    },
+    {
+      "professor": "Hannah Zhu",
+      "course": "CHEM232",
+      "review": "Though you don't get to choose your TA for CHEM232, if you know which section Hannah is TAing for, choose her! She's really chill in labs and will tell you straightforward when you are doing something wrong and explains things well.\r\n\r\nIf you don't have her, go to her office hours because she's really good at explaining post-lab questions so that they are less confusing. Please go to office hours for CHEM232 though, or you will fail.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-18T22:22:59.646141Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "This lab is full of inconsistencies and very disorganized. Dr.Koppel is extremely hostile when you go to her for help. Like the other reviews have mentioned, we have post-lab questions that are ridiculous. For the post lab questions, she does not provide the TAs with a rubric or key in advance, so it is extremely difficult to get help from your TA when they do not even know what Dr.Koppel expects out of answers. This has resulted in numerous grading inconsistencies, where some weeks could get a 45/50 and the next week a 30/50. As someone in a Monday lab section (DO NOT TAKE A MONDAY LAB!), she always waits later in the week to post the post-lab questions, so I wouldn't have time to go to office hours to get help if she posted them on the weekend. When I asked her to post them earlier, she said \"Well that's your fault for picking a Monday lab.\" Additionally, she does not post the prelab information until Sunday night or often Monday morning, which puts Monday lab students at a huge disadvantage. Extremely unprofessional behavior, and I would give this 0 stars if I could. Your success in this class heavily depends on how your harshly your TA grades. You definitely need to go to office hours to answer the worksheet questions. I had a great TA and he was the only reason this class made some sense.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2025-03-31T14:38:54.021614Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "I have been through 2 breakups and 2 deaths in the family and taking this class was still my most miserable life experience (yet. This was only my second chem lab after all.)\r\nEvery time I think I do perfectly well on lab reports and the other assignments I'm hit in the face with routinely some of the worst grades I might get in my time at school. If you're reading this you're probably some sort of natural sciences major who has no choice but to be put through all the chemistry labs and well, you're in for hell. The TA I had for this class was wonderful so the time *during* lab wasn't bad but the assignments are still so awful and the lab manual is often insufficient for what we need to know. They give quizzes for things that you don't learn in lecture and expect you to just know it since they don't put anything in the manual or post any kind of information on ELMS to teach you about it.... average for the first quiz in my semester was 7/20.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2025-04-08T18:47:07.581155Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "I think I'm abt to crash out. Like literally. I'm sitting here doing her post lab questions that has me pulling out my hair. I'm going to tweak out. This class shouldn't be that hard considering it is a ONE Credit class. Tf the lab itself is fine and assuming you have good partners throughout the semester you can be in an out of those labs. But be warned some of the labs take a very long time so you're just waiting around. I lowkey loved the people in my lab and the TA but the class itself is pointless. She makes her questions impossible answers making you have to go to office hours. But even still each TA is different. If you have friends that are also in Orgo and lab deff create a group to study and stuff where you guys can help each other find the answer. Bc doing this shiii alone is not fun. There is no reason I should be stressed over this lab of all things. She's just playing with our feeling at this point. This class also made me realize maybe pre-med aint for me. Good luck little troopers if your still pre-med after this but I've fallen and can't get back up. I'm not joking. This class is not for the weak. Professors like seeing students fail or something. And I don't think it's a funny joke.",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2025-04-24T23:54:27.411251Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "I have never had such a miserable experience with a professor. The stress that this ONE CREDIT course caused me was beyond ridiculous. She gave us TAQs for four of the assignments and most of them were unfair aside from like two. She also has a terrible lab manual that doesn't fully explain anything and left me having to google key things in order to do my in lab worksheets. Like the other reviews say, the post lab questions are RIDICULOUS. For two experiments she had us analyze and review very complex organic chemistry research studies that even the TAs had trouble with. Luckily, I was able to get a lot of help in office hours. If you need help, go to Didier, he is so nice and knowledgeable about this lab from hell.",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2025-04-25T14:55:18.621353Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "This is the first semester orgo labs have been giving TAQs and they are HORRIBLE. People got an average of 7/20 on the first one, the questions are difficult and you only have 10-15 minutes to complete them. The PLQs are difficult but manageable, but genuinely the biggest thing hurting people's grades are the TAQs. Hopefully they curve this class because people need a C- to pass and most people I've talked to aren't doing well...",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2025-05-01T19:16:44.113667Z"
+    },
+    {
+      "professor": "Gabriel Pantusa",
+      "course": "CHEM232",
+      "review": "Gabe was a pretty good TA. He's kind of a harsh grader for the post-lab questions, but he does help out a lot in his office hours. He was a really easy grader for prelabs, worksheets and the notebook pages. He's always happy to help and responds to emails pretty quickly.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2025-05-03T00:17:03.411918Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "For a class that so many people are forced to take, the way this class is run is ridiculous. The labs themselves are fine but how well you understand things is almost entirely dependent on your TA, if yours is bad just give up honestly. I got lucky and had a good one. The amount of work for this one credit class is easily equal to 3 credits worth, and no attempt is made to help you understand. The post lab questions are so poorly written that even going to office hours doesn't help because the TAs don't understand either. Koppel herself makes no appearances, all office hours are through the TAs, and all she does is write pointlessly confusing questions that test your ability to figure out what she is asking more than your knowledge of organic chemistry.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2025-05-05T22:22:14.977876Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "Honestly lab isnt as bad as I thought it would be. Yes, its a decent amount of work for a 1 credit class but as long as you pay attention in lectures and watch the videos they post before going into lab you should be fine. They did start adding in TAQs so basically some labs you have post lab questions and some labs you take a quiz in lab before you start. The TAQs...everyone bombed. They're actually so bad, I would much rather do PLQ but it is what it is. I ended with around a 83 so it should hopefully curve to around a B+ or A-. The lab practical is super super easy. Just know the set-ups of each lab and what theyre used for (filtration, distillation, etc.) and you should be fine. I barely studied and still got 100 on the practical (I studied two hours before).",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2025-05-09T19:46:32.547709Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "I might be a little biased since I had Koppel for lecture too, but here's my take. The lab experiments themselves were honestly enjoyable \u2014 a few even ended early which was nice. The pre-lab questions were super manageable (just written ones from the manual), which I preferred over Gen Chem\u2019s in-lab quizzes.\r\n\r\nNow for the frustrating parts. We were almost two months in before anything was graded (at least in my section), and the first few lab reports got graded super harshly. Everyone panicked because we\u2019d already turned in like 6 reports with zero feedback. My grade ended up recovering, but it was annoying. That\u2019s when I started going to office hours, which really helped \u2014 especially for the PLQs. They\u2019re super specific, and sometimes even the TAs didn\u2019t know what the questions were asking.\r\n\r\nThe TAQs though\u2026 brutal. We had like 4 or 5 of them \u2014 10-minute in-lab quizzes a week or two after each experiment. Everyone I knew was getting like 3/20 or 7/20. No real way to study for them, so hopefully there\u2019s a curve.\r\n\r\nThe IR workshop was a good grade booster, and the lab practical was actually easy. Just wish we got more timely feedback and maybe a study guide for the TAQs.\r\n\r\nAlso, I had an easier time with the PLQs because Koppel\u2019s lectures matched the lab content. People with Dixon had it rough \u2014 they were doing substitution and elimination labs before learning that stuff in class. So if Koppel\u2019s teaching again, I\u2019d recommend taking her for lecture too to make lab less painful. My review for koppel as a lecturer is a 5/5, I'm rating the lab itself a 3/5 because it was just frustrating - but what can you even expect from a lab?",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2025-05-11T21:12:01.298154Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "The TAQs suck, study for them. Since you never really meet Dr. Koppel, I have nothing else to add",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2025-05-14T20:29:06.047888Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "Absolutely hated this lab. My TA was just as clueless as we were and the TAQs were actually the worst thing ever and brought my grade down so much. The actual experiments were easy, and most the time I left lab early but there was a lot of waiting around involved and just overall annoying to sit there. Some TAs would grade your lab reports really easily and others would grade them like their life depended on it which was also very very annoying.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2025-05-15T18:58:52.941053Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "The curve was clutch - 87 got curved to an A (not even an A-). Class took years off my life though.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-05-16T19:38:48.922586Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "Much better than CHEM136! Labs aligned with the topics in CHEM231, so if you actually read the experiment and understand the process it's kinda fun.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-17T01:17:01.458637Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "My 84 got curved to an A. That tells you how hard this class is. Good luck.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2025-05-17T17:40:22.843554Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "The curve for the class was great, as my 88 percent earned an A. This class definitely takes a lot of your time, especially the post-lab assignments, which are sometimes hard and confusing, while other times they are simple and easy. Some TAs grade generously, while others deduct significant points for minor mistakes. The TAQs were horrible\u2014there was no way to study for them properly. In my opinion, the first and last TAQs were the worst.\r\n\r\nDo well on the post-lab assignments (be very detailed, as the instructor looks for specific topics or keywords) so you don\u2019t have to put too much effort into the TAQs. The practical quiz was easy, in my opinion, since you become familiar with the lab by doing it. Having a good TA is essential to genuinely enjoying your lab experience. I personally enjoyed attending my lab sessions, but completing the post-lab assignments was frustrating and time-consuming.\r\n\r\nGo to the TA\u2019s office hours for help.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-05-17T18:14:20.224382Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "This course tends to have outdated information. Lab manuals don\u2019t provide as much detail as gen chem 1. Watch pre-lab videos as the expectation for the lab is you know what you are doing. \r\n\r\nLabs tend to run pretty long, especially with some experiments having a long wait time. Start your lab and ask your questions as soon as possible. Pre-labs were pretty easy and done in first 5 mins of class. Your lab manual questions are graded leniently -- complete them, show effort, and you are guaranteed 100%. PLQ\u2019s were manageable, though I recommend speaking with your TA. TAQ\u2019s were pretty brutal and you have about 10-15 mins. The practical quiz was not bad, know your apparatus/set-ups, techniques, and common errors in set-up -- you should be fine, unless there are changes to the practical.\r\n\r\nMy ~79% rounded up to a B+. Do not get discouraged!",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2025-05-20T09:15:03.539667Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "Enjoyable lab, aligned with the CHEM231 course pretty well. Pre-lab questions were a grade booster and notebook pages could take a while honestly but were also grade boosters. Actual post-lab questions genuinely are not as difficult as people make them out to be. Many people think you basically need to go to the TAs to understand what is being asked, but I did well on every post lab question set and did not have to go to TAs. Note if you have Dixon: she goes out of order from the lab and you will have to self-teach some concepts that will show up on the post lab questions.\r\n\r\nWhat I did not like were the TAQs. They were instituted this semester and were very unreasonable for 10 minutes. Scores averaged very low, and they were often written in an unclear way. However, I think she might fix this by next semester. Overall, not a bad course, and just 1 credit. Much better than CHEM132 in my opinion and better organized. Can be very stressful during lab, so make sure you have your TA's support and ask questions.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-05-21T04:41:51.559944Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "I did not enjoy this class whatsoever and it is not worth the amount of effort you put in for a 1 credit class. The labs don't always match up with what you're learning in lecture and there isn't much guidance on how to approach questions, definitely go to office hours for extra help. There were also quizzes she'd give you that were horrible, I think one of them had an average of like 8/20 but wasn't curved. The class is curved at the end though and was very generous, as I got an A- from an 84%.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2025-05-22T16:50:40.742126Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "(Fall 2024)\r\n\r\nInsane workload for a 1-credit lab course. I found I was spending hours on work outside of lab. In my opinion, the lab itself is structured badly and not very well aligned with the 231 course. Lab experience is very dependent on TA. Didier was great at making a 6:30-9:30 lab feel not miserable and having good vibes, even if he wasn't always the most knowledgeable. \r\n\r\nI never interacted with Koppel herself, but there was an incident where at office hours, multiple TAs didn't understand the post-lab question/what she was looking for, and one went up to ask. She sent him back down with nothing, and told him that he was giving us too much help. Really soured my taste on her.\r\n\r\nAverage weekly workload for the lab looks like:\r\n- Pre-Lab Writeup (Objective, Procedure, Reagent Table with structures)\r\n- Pre-Lab Worksheet (Mostly fine if you read the theory/procedure, but sometimes confusing)\r\n- Watch the lab video (Not always necessary)\r\n- Pre-Lab Quiz (A grade boost as long as you read the procedure. A total no-brainer.)\r\n- Post-Lab Worksheet (Answering a few questions based on things in lab. Functionally a lab report. Not terrible.)\r\n- Post-Lab Questions (Evil. Oftentimes not related to anything done in lab, vaguely about theory. It's hard to understand what she actually wants in an answer. Office hours are a saving grace, but even the TAs don't always know what she wants or how to answer the question. Also, for two different weeks, required reading grad-school level papers.)\r\n\r\nOn the bright side, if you have to take orgo 2 lab, doing this one first will make it feel like a walk in the park!",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2025-05-22T20:46:38.944377Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "You\u2019re going to make the labs go full length most of the time? Fair. You\u2019re gonna make us do the procedure ourselves? Fair. You\u2019re going to thoroughly quiz us on material within the lab book? Fine. You\u2019re going to give us post-lab questions on things we never learned, and there\u2019s no way to know, other than maybe one cruddy, unrelated example from the lab book, which provides maybe a fifth of the information needed to answer the question? I don\u2019t think so. Not a one-credit class. This lab is harder than lecture! I did marginally better on exams from lectures than the plqs/taqs here, while spending less time.\r\nIt is preposterous and vicious to put people through this!",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2025-07-24T00:40:41.355218Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "Genuinely more disorganized than Chem 132...",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2025-10-02T21:46:17.220755Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "This class so far has been fine. TAQ 1 was a little challenging, but honestly not crazy (I'd review how to tell the density of diff molecules lol) as long as you had a solid theoretical understanding/intuition for extraction (rtfm!). Given the semester GroupMe was rampant with people asking braindead questions 24/7 (eg what experiment are we doing this week??? what reagents does that need !?!?!1/1///???), I suspect that may be the majority of the 1-star reviews Dr. Koppel received below; that is to say I wouldn't stress too hard abt this class.\r\n\r\nTL;DR not terrible, just accept this class will be more work than the 1 credit suggests (and know OH are a tremendous help).",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2025-10-31T02:07:37.460325Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "Who's old, miserable, and unaware? You guessed it, Dr. Koppel!!! She refuses to acknowledge that things need to improve within her course. And coming from a TA the average for the first lab quiz was a 3.7/20.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2025-11-10T16:48:09.927269Z"
+    },
+    {
+      "professor": "Debleena Chatterjee",
+      "course": "CHEM232",
+      "review": "Debleena was so helpful always. It was clear she really cares about the well being of students. She tried to explain concepts in detail and would provide help with solving the worksheets and analyzing data in every lab during the pre-lab lecture. She also beautifully tied together the theory with the practical in the class. She never made students feel lost or unsupported. She was always there to help. She is one of the busiest TAs I have ever seen with her always being by the students' side throughout the experiment. She is easily one of the best TAs I have ever had. She made this difficult course a bit more manageable with her help. She was always responsive to emails and very helpful during her office hours. I was really lucky to have her as my TA.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-05T13:37:44.589168Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "As a 1 credit course, this lab is a lot more work than I believe 1 credit should be offering. Not only is there 3 hour lab once a week, but the post-lab questions, post-lab worksheets, studying for TAQs, and completing pre-labs often takes me 3 hours total to finish. This class took a lot of my time and effort and I think some of the grading rubrics of PLQs are quite strict/too rigid. I think the course was interesting and definitely taught me some new things, but it is overall just way too much work for a 1 credit course. Furthermore, office hours for the TAs were often very unhelpful. I went to many office hours for different TAs and half of them do not know what is going on. They don't know how to answer our post lab questions either and going to multiple TAs will give you different answers that completely vary from each other.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-12-05T14:41:22.714988Z"
+    },
+    {
+      "professor": "Debleena Chatterjee",
+      "course": "CHEM232",
+      "review": "DEBBIE IS AMAZINGGGG!!! If you have her as your TA you should NEVER mess up in lab. She's always willing to help and is one of the nicest people I've ever met.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-12-08T00:55:59.954241Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "Listen, chem lab will be chem lab, but I enjoyed this lab much more than gen chem. Go to the TAs office hours. My only thing is don't go to office hours without trying to do the work yourself. If you go in with some basic understanding, things will make much more sense and it'll be easier for the TA to help. Also, make sure you know the concepts because you keep building on it throughout the semester. The TAQs can be confusing but they're not as bad as people make them out to be. Not saying that I got 100s, just saying that you can at the very least get above the average if you review the theories. I do agree with others on this course being a lot of work for 1 credit but it's to be expected.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2025-12-08T01:04:24.284446Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "Genuinely one of the worst professors I\u2019ve ever had. Sends emails out SUNDAY nights about what we need to do for lab the next week. I\u2019d say reports are graded more strict than 132. There has been multiple occasions where I go in for office hours and the TAs will tell me my post labs are all correct but when I submit them I get a 10/20. Doesn\u2019t seem like the TAs know how to do it either. I\u2019ve also heard from multiple TAs that Dr koppel tells them to be as strict as possible with grading and give minimal points.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2025-12-08T16:17:44.491193Z"
+    },
+    {
+      "professor": "Debleena Chatterjee",
+      "course": "CHEM232",
+      "review": "Debleena is probably the best TA you could get for a lab. I was scared going in because people always say the TAs are of no help and leave you in the dust. Debleena clearly cared for her students and made it very known. There was never a time you couldn't ask her a question or for help. She was always looking out for her students. I don't think I saw her sit once during lab because she was always helping someone or making herself available. Considering she was constantly busy with her own PhD she made this class very manageable for the students. her kindness and support never went unnoticed.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-10T00:10:26.162547Z"
+    },
+    {
+      "professor": "Arjun Pinto",
+      "course": "CHEM232",
+      "review": "Arjun is a very patient and upbeat TA. He made all the labs feel like they went by quickly, even though a lot of them can be rather dull in content (waiting for reaction to go through). His office hours were really helpful for the PLQs even though a lot of them are quite confusing.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2025-12-12T18:14:29.835904Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "Lab over the summer felt like a fever dream. It was so fast-paced and fried me. My TA also didn't quite seem to know what he was doing! Just come prepared for each lab.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2025-12-13T17:40:15.267424Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "As a 1 credit course, like the other reviews say, this class is a LOT of work and very disorganized. Oftentimes you will find yourself writing the same things in many different places. But really, it is not horribly difficult, just rather time consuming.\r\n\r\nPoints go as following: 5 points for the pre-lab quiz (pretty straightforward if you read the procedure), 5 points for the notebook pages (pretty straightforward too), 20 points for the worksheets (straightforward as long as you did the experiment or the makeup), and 20 points for either the PLQ (post lab questions) or TAQ (theory and applications quiz)...and no, they are not as notorious as people say. \r\n\r\nAll you need to do for PLQs to do well on them (coming from someone who repeatedly scored 90%+ on them) is to understand the procedure of the lab: not necessarily which chemicals were used, but the objective of the lab. Essentially, they are to apply the objective of the lab to a different set of chemicals, as a sort of \"what if\" situation. Office hours help A LOT. Sometimes they were very confusing, other times pretty easy. But do not ever wait last minute to do them, that's how you screw up. \r\n\r\nTAQs are like PLQs, but instead of having a week or two to do it, you have only 10 minutes in class. These...are horrible to say the least. Because they are so rushed, getting a 10/20 or above will feel like luck. Class averages for these being under 5/20 are no exaggeration.\r\n\r\nOverall, it is possible to do well in the course. You just need to be able to understand the objective of each procedure to pass.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-12-14T05:35:49.878036Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "horrible ahh 1 credit lab. taq's are IMPOSSIBLE. genuinely no idea what was going on for any of them. average was a 5/20 so im really struggling to understand why they're even administered if everyone fails. i guess it helps if ur in her lecture, but personally i was not and i was taking these quizzes on topics i hadn't even learned yet. the plq's are also really hard some weeks. GO TO TA OFFICE HOURS THEY WILL HELP, but honestly it all depends on which TA is grading them that week, some are nicer and more forgiving than others. the lab itself was fine me and my partner made stuff up half the time and no one cared, as long as u looked like u were busy. curve was really good. i had an 85 raw and it was curved to an a, and i know someone who had a 68 and was rounded to a b-. i have heard shes very unapproachable if u ever have a problem, but my ta was very nice and understanding 99% of the time i asked her anything, but u dont get to pick ur ta so it's really all luck. honestly gl and study for those taq's to the best of ur ability- it will really help separate u from the average grades at the end of the semester",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-12-21T03:41:08.054499Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "I have never hated a lab more; half the time things didn't work. But she curved my 80 to an A-",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2025-12-22T17:49:15.322910Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "I took this lab in Spring 2025, and I\u2019m not going to lie\u2014this lab is cheeks. It\u2019s definitely better than CHEM132 but worse than CHEM242, so at least the good news is that the grass is greener on the other side. There is simply way too much work for a 1-credit course. Most weeks, you have both a post-lab worksheet and post-lab questions. You lowkey have to go to office hours if you want to do well on the labs. Some weeks are lighter and only require a lab worksheet, but then you\u2019re expected to study for a TAQ, which is basically a quiz on the lab experiment. The TAQs are pretty hard and you need to know not only every step of the lab but also the underlying conceptual theory. My TA was just as confused as we were and was rarely prepared for lab. Most of the time, he would figure things out as we were actively doing the experiment. People often complain that TA office hours are useless, but my advice is to go to another TA's office hours and find one that basically gives out the lab answers. I will say, the lab practical is very easy, and you can probably find the review document or a Quizlet online. The only reason I ended the course with an A is because there\u2019s a very generous curve at the end and my 91% was curved up to an A. Good luck, and honestly, just try your best.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-12-23T04:17:34.247420Z"
+    },
+    {
+      "professor": "Debleena Chatterjee",
+      "course": "CHEM232",
+      "review": "Debleena is the absolute best. She was always super helpful and kind. She always checks in during experiments and helps when you make a mistake. Additionally, she explains how do the worksheets very well and prepares you for each experiment. She worked very hard to make sure all of her students succeeded and I am very grateful for her. She is by far the best TA I have ever had.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-23T17:20:54.435659Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "Review for Lab and Lecture\r\n\r\nLecture\r\n- Provides past exams that are super helpful, the format and problems on the practice exams were very similar to the actual ones\r\n- Very friendly during office hours, takes time to make sure you know the material\r\n- Hosts \"Late Night Sessions\" to do practice problems which is super helpful\r\n- The first month was basically gen chem review, stereochem (the first definitive orgo topic) wasnt even on our first exam\r\n- Pretty good lecturer, explains things well\r\n- Homework was hard at times but all you need is an 80% on all homeworks for Koppel to bump it up to an 100%, and getting an 80% is pretty easy to do, also all homework is due right before an exam, so you can space it out however you want to (which is also nice)\r\n\r\nGeneral tips (Coming from someone who got an A+ in lecture)\r\n- Memorize the flowcharts she gives for the alkene and alkyne reactions - this will make the exams so much easier trust me\r\n- try not to miss any lectures, you can get behind very easily and while Koppel does post notes, her handwriting is hard to read and her notes are hard to understand if you did not go to lecture\r\n- you dont need to go to discussion (I never did), but you definitely do need to practice outside of class, i mainly went to GSS, office hours, and just studied on my own\r\n\r\nLab (I got an A)\r\n- Time consuming\r\n- The first TAQ was very very hard, I got a 5% (not a typo) on it, however, the next 3 are so much easier, all you need to do is watch the lab video on the ELMS before lab and you can basically ace the TAQs\r\n- pre labs were very easy\r\n- post labs were at the very least time consuming, and sometimes very hard - my advice is to look up answers, consult friends in lab, go to TA office hours, but also just be willing and ready to accept that some of the problems are incredibly hard to solve\r\n- labs themselves were pretty easy, for 2 of the labs, the TA does the lab so you just leave lab after doing the pre lab quiz and the TAQ (if you have one) which takes like 20 minutes\r\n- also you do basically all labs with a partner, so it makes it much better\r\n\r\nOverall comments - in my opinion Koppel is pretty over hated. She provides the resources needed to pass, is a good lecturer, and I really like her Homework policy. Her labs aren't that bad just be prepared to completely fail the first TAQ",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2026-01-20T09:44:58.514374Z"
+    },
+    {
+      "professor": "Monique Koppel",
+      "course": "CHEM232",
+      "review": "Someone even worse than gen chem lab. This has genuinely been the worst lab experience in my life. Everyone has failed the first TAQ and Koppel is very unhelpful. Everything in the lab is broken and my TA tells us to ignore what the manual says every time. The PLQs are also horrible and honestly impossible with knowledge from just what we learn.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2026-03-14T00:50:25.756362Z"
+    },
+    {
+      "professor": "Silas Ameshiku",
+      "course": "CHEM232",
+      "review": "Silas is a really awesome TA for CHEM 232...\r\n\r\nIf you get him, you got the GOAT! Very kind and is always willing to check in with students in lab to talk about it.\r\n\r\nOne he responded to my email within a good 2 mins and sent the class data out, wonderful timing!",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2026-04-21T20:20:22.147620Z"
+    }
+  ],
+  "department": "CHEM",
+  "course_number": "232",
+  "name": "CHEM232",
+  "title": "Organic Chemistry Laboratory I",
+  "credits": 1,
+  "description": "<b>Prerequisite:</b> CHEM131 and CHEM132; or (CHEM135 and CHEM136); or (CHEM146 and CHEM147). And a grade of C- or better in the prerequisites is required for College of Computer, Mathematical, and Natural Sciences majors and recommended for all students.\n<b>Corequisite:</b> CHEM231.\n<b>Credit only granted for:</b> CHEM104, CHEM231, CHEM233 or CHEM237.\n<b>Formerly:</b> CHEM233.\nProvides experience in developing some basic laboratory techniques, recrystallization, distillation, extraction, chromatography.\n<i>Students must pay a $40.00 lab materials fee.</i>",
+  "is_recent": true,
+  "geneds": null
+}

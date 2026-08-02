@@ -1,0 +1,22 @@
+{
+  "average_gpa": 3.811111111111111,
+  "professors": [
+    "Zhizhong Han",
+    "Samet Ayhan",
+    "Samet Ayhan",
+    "Yuntao Liu",
+    "Samet Ayhan",
+    "Samet Ayhan",
+    "Emre Gunduzhan",
+    "Samet Ayhan"
+  ],
+  "reviews": [],
+  "department": "MSML",
+  "course_number": "612",
+  "name": "MSML612",
+  "title": "Deep Learning",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> DATA603 or MSML603.\n<b>Cross-listed with:</b> DATA612.\n<b>Credit only granted for:</b> DATA612 or MSML612.\nThis course provides an introduction to the construction and use of deep neural networks, that is models that are composed of several layers of nonlinear processing.  The class will especially focus on the foundational understanding of the main features in the structure of deep neural nets that make them attractive from the computational point of view and for a sample of applications.  Specific topics include the key concept of backpropagation and its importance to reduce the computational cost of the training of the neural nets, a discussion of some of the various coding tools available and how they use parallelization, and a presentation and study of convolutional neural networks. Additional topics may include autoencoders, variational autoencoders, convolutional neural networks, recurrent and recursive neural networks, generative adversarial networks, and attention-based models. The concepts introduced in the class will finally be illustrated by some examples of applications chosen among various classification/clustering questions, computer vision, natural language processing.",
+  "is_recent": true,
+  "geneds": null
+}

@@ -1,0 +1,29 @@
+{
+  "average_gpa": 3.5055555555555555,
+  "professors": [
+    "Sandra Fox-Moon",
+    "Stephen Mount",
+    "Caren Chang",
+    "Cornelia Van der Weele",
+    "Harlan King",
+    "Nidhi Verma",
+    "Caren Chang",
+    "Nidhi Verma",
+    "Caren Chang",
+    "Nidhi Verma",
+    "Caren Chang",
+    "Norberto Gonzalez- Juarbe",
+    "Nidhi Verma",
+    "Norberto Gonzalez- Juarbe",
+    "Caitlin Fox"
+  ],
+  "reviews": [],
+  "department": "BSCI",
+  "course_number": "414",
+  "name": "BSCI414",
+  "title": "Recombinant DNA Laboratory",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> BSCI222.\nAn advanced course offering hands-on experience in performing recombinant DNA experiments. All current molecular biology techniques used for cloning prokaryotic genes, analyzing the gene products, and modifying the genes will be performed. Techniques include isolation of DNA, use of restriction enzymes; cloning procedures, PCR analysis, and Southern hybridizations. Lecture material focuses on interpretation of results generated in the laboratory.\n<i>(Sponsoring Dept.: CBMG). Acceptable toward Biological Sciences Specialization Areas: PHNB, MICB, CEBG and GENB. Students must pay a $40.00 laboratory materials fee.</i>",
+  "is_recent": true,
+  "geneds": null
+}

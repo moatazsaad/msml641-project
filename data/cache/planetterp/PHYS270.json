@@ -1,0 +1,749 @@
+{
+  "average_gpa": 2.945540775014459,
+  "professors": [
+    "Thomas Antonsen",
+    "Min Ouyang",
+    "Hailu Gebremariam",
+    "Rabindra Mohapatra",
+    "Wendell Hill",
+    "Peter Shawhan",
+    "Shabnam Jabeen",
+    "Sergio Picozzi",
+    "Bei Lok Hu",
+    "Marguerite Tonjes",
+    "Andrew Smith",
+    "Konstantinos Papadopoulos",
+    "David Buehrle",
+    "Victor Yakovenko",
+    "Matthew Severson",
+    "Howard Milchberg",
+    "Hsing-Hen Chen",
+    "Xiangdong Ji",
+    "Eun-Suk Seo",
+    "Matt Severson",
+    "Drew Baden",
+    "Drew Baden",
+    "Drew Baden",
+    "Eun-Suk Seo",
+    "Drew Baden",
+    "Hailu Gebremariam",
+    "David Buehrle",
+    "David Buehrle",
+    "Drew Baden",
+    "Eun-Suk Seo",
+    "Hailu Gebremariam",
+    "Michael Crescimanno",
+    "Drew Baden",
+    "Eun-Suk Seo",
+    "Anson Hook",
+    "Hailu Gebremariam",
+    "Andris Skuja",
+    "Drew Baden",
+    "Hailu Gebremariam",
+    "David Buehrle",
+    "Andris Skuja",
+    "Anson Hook",
+    "Hailu Gebremariam",
+    "Andris Skuja",
+    "Drew Baden",
+    "Hailu Gebremariam"
+  ],
+  "reviews": [
+    {
+      "professor": "Thomas Antonsen",
+      "course": "PHYS270",
+      "review": "This guy isn't that bad when you get down to the root.  This is his first semester teaching this course, so I don't know if he will teach it in the future.\n\r\nDr. Antonsen is actually from the Electrical engineering department, so what he is really good with in this course is explaining circuits.  That was one of the concepts that I understood very easily, especially because he was able to explain it in such a clear way.\n\r\nExams were moderately difficult, just about as hard as a physics exam should be.  The problems aren't plug and chug, but also aren't super difficult (though quite a few people found them hard)\n\r\nBasically, read your textbook, go to class (sometimes I doze off given the driness of the subject), and do some practice problems, and you should be fine.\n\r\nOverall, he's a great guy.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2011-04-04T17:44:00Z"
+    },
+    {
+      "professor": "Theodore Kirkpatrick",
+      "course": "PHYS270",
+      "review": "I thought these reviews were a little misleading. He is not at all as bad of a teacher as everyone here claims. Yes, lectures sometimes involve proofs and derivations which can be difficult. However if you write down what he does on the board and just listen to what he says you will learn something. The tests can be really hard if you don't go to class or the review. In class he does examples which he warns may appear on the test in almost identical form. Going to the review also gives you almost everything that you need for studying including at least one identical problem.\n\r\nI enjoyed this class and I liked him as a teacher more than my other two physics teachers I had here. I'm done taking physics classes but if I had to take another one I would try to get in his class again.\n",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2010-05-21T00:38:00Z"
+    },
+    {
+      "professor": "Rabindra Mohapatra",
+      "course": "PHYS270",
+      "review": "Dr. Mohapatra is a fine lecturer and teacher, but he's not really given much to work with - the material covered in PHYS270 feels disjointed and would likely be difficult regardless of the professor. Our class was apparently two weeks ahead of the other one, so I'm thankful for that. There appears to be a hefty curve in the class.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2011-12-24T19:56:00Z"
+    },
+    {
+      "professor": "Rabindra Mohapatra",
+      "course": "PHYS270",
+      "review": "Mohapatra is an average lecturer, and class notes were either somewhat disorganized or not thorough. However, he's really nice and helpful in office hours. The weekly quizzes he gave were fair for the most part, and helped to indicate what topics were most important.\n\r\nTests were not too difficult, but don't expect to get anywhere without reading the book. The Mastering Physics assignments ranged a bit in difficulty, but were probably the single most useful part of the course. Doing well in this class is all about practicing a variety of problems, and Dr. Mohapatra didn't assign a bunch of single bar problems like the other teacher (Bantu) did.\n\r\nI personally found his accent entertaining and very easy to understand, and I also thought he was pretty funny. He's very responsive by e-mail, and is extremely understanding about grading concerns. You probably won't find much better teachers for PHYS270.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2010-12-03T02:44:00Z"
+    },
+    {
+      "professor": "Ellen Williams",
+      "course": "PHYS270",
+      "review": "Seems like a nice person, but makes a lot of mistakes during lecture (writing equations, doing examples, etc.)  Focuses a lot of time on experiments and has them on tests so you should definitely go to lecture to know her experiments.  Some of the questions were ridiculous, like the name of someone who came in to help with an experiment.  Other than that, pretty ridiculous curve for C, so don't sweat it too hard if your grades look low, you'll still pass.",
+      "rating": 2,
+      "expected_grade": "C",
+      "created": "2009-06-17T15:13:00Z"
+    },
+    {
+      "professor": "Wendell Hill",
+      "course": "PHYS270",
+      "review": "Dr. Hill is by far the worst teacher I have ever had. If I could really rank him, he would be negative. NEVER EVER EVER take his class. His exams were impossible, the material is class was worthless. He has no respect for his students. He was awful to deal with, never responds to emails. ",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2014-01-26T19:38:00Z"
+    },
+    {
+      "professor": "Thomas Cohen",
+      "course": "PHYS270",
+      "review": "Quite possibly the best physics professor I've had so far in UMD. \r\nThe tests on the other hand are extremely easy. Throughout the entire semester, I've been to lecture at most 5 times, read the book before the day of the exam, and still managed to pull As on my tests. \n\r\nThe only bad thing I would say about Cohen is the heavy weight he puts on Homeworks (20%) and Discussion Quizzes (5%), though this may work for you if you actually do your homeworks.\n\n",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2009-05-19T22:15:00Z"
+    },
+    {
+      "professor": "Thomas Cohen",
+      "course": "PHYS270",
+      "review": "Tom Cohen is a pretty cool guy as far as physics teachers go. He tried really hard to make boring material seem at least vaguely interesting and his tests looked a lot like the practice tests. He was very open to meeting with students, discussing concerns, and going over material outside of class. Overall he's a very approachable guy who just wants students to have a painless physics experience.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2009-05-19T01:23:00Z"
+    },
+    {
+      "professor": "James Drake",
+      "course": "PHYS270",
+      "review": "Dr. Drake is a great professor.  Gives very clear and informative lectures with very good notes.  If you go to lectures and take the notes he writes up on the board you can get an A without ever opening the textbook.  Exams and assignments ask fair questions that are representative of the material covered in the lecture and are graded fairly as well.  Dr. Drake personally holds a review session before every exam and the final and is more than happy to meet with students outside of class to help them.  It is very easy to make a time to meet with him as he is in his office very regularly.  If you need help go talk to him and he will help you.  If you miss a lecture go talk to him and he will copy his lecture notes for you and go through them with you.  Take a class with Dr. Drake if at all possible.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2008-05-18T15:24:00Z"
+    },
+    {
+      "professor": "Konstantinos Papadopoulos",
+      "course": "PHYS270",
+      "review": "Not going to lie, most lectures were pretty boring.  He posts all his powerpoints online so obviously it is very difficult to find the motivation to go to class.  However, he would include questions on his exams that were solely taught in class and not on the powerpoints.  His review sessions would usually include a problem or two that would be on the exam and the review documents he posted on his website were very similar to some of the exam problems.  Average exam scores were very low, however, there were huge curves for all all of them including the final. Overall, not bad at all for engineering-physics.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2010-07-28T14:24:00Z"
+    },
+    {
+      "professor": "Konstantinos Papadopoulos",
+      "course": "PHYS270",
+      "review": "Really boring, tests are pretty difficult,  but curve is nice. Takes most of exam problems from what he says in class. ",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2010-05-09T21:05:00Z"
+    },
+    {
+      "professor": "Konstantinos Papadopoulos",
+      "course": "PHYS270",
+      "review": "Not a great professor. He can't really teach and has an accent. Just try to learn from the book, doing MasteringPhysics, and discussion class. ",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2009-11-25T16:37:00Z"
+    },
+    {
+      "professor": "Konstantinos Papadopoulos",
+      "course": "PHYS270",
+      "review": "It only requires V5 but actually uses V3,4 and5. Does not make sense to buy 3 books. Try the full volume(ISBN:0805389601)! It will be a lot cheaper.",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2009-01-24T16:25:00Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS270",
+      "review": "Bantu makes PHYS270 a decent experience.    There are two midterms, each worth 12% of your grade, which is nice because most of the PHYS270 professors do 3 midterms.  Overall, they were pretty easy, with a few of the questions being very similar, or even direct questions from the homework.  \n\r\nLab is 25%, but that is the same regardless of your professor. Lab was, in my opinion, the worst part of the class.  There are only 4 labs (plus the culminating lab), but they all pretty much took the full 3 hours and were pretty tough.  Your experience is going to depend entirely on who your lab TA is.  If you get a good one, lab shouldn't be bad. \n\r\nQuizzes are 10% of your grade, and there is one at the end of each chapter.  He does not announce the quizzes beforehand, but if you follow his lectures and the schedule, you should know about when they will be.  They are almost always very easy and require only basic knowledge of the chapter.  Write down the equations as he is teaching, or start the homework before he finishes the chapter, and quizzes will be simple.\n\r\nHomework is 21%, with 14% being masteringphysics and 7% being written.  The written is just to do 3 of the masteringphysics problems by hand on paper and turn it in, so it's not really extra work.  The masteringphysics tends to be pretty easy, so the homework isn't a huge burden. Do check often if there is an assignment though because he does not announce when he posts them.  Do not copy from the solutions manual because they are watching for that and a large portion of the class did just that on the first homework.\n\r\nThe exams were each 3 problems and were usually pretty simple.  The only issue is that since they are only 3 problems, if you are completely lost on one question, you already lost a large portion of your grade.  Study hard for these, redo the masteringphysics, and you'll be fine.\n\r\nThe final exam was a common final across all the sections, and was actually pretty easy.  It's hard to say if he curved the class because we did not get our final exam scores back, but I have a feeling that he did.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2012-05-19T13:14:00Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS270",
+      "review": "This guy isn't that bad, but he isn't that good. He should illustrate some more example problems. Instead, he primarily just uses Power-Point slides which are identical to the book, so if the book confuses you Bantu won't help that much. Also, I didn't like that he gives no sample exams whatsoever; on Fri. before a Mon. exam he just tell us \"3 problems 1 is on Chap 35, 2 is on 36, 3 is on 37\". However, his exams were really straightforward, everything was an example in the book or an assigned homework problem - no curve balls. ",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2010-03-03T19:03:00Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS270",
+      "review": "Bantu is a really nice guy and a decent lecturer, although he can be kind of boring. He goes through the material pretty slowly, which means his tests end up covering less material than usual for 270, so they are not very difficult in general.\n\r\nHe grades very fairly and I think there was a curve at the end of the semester.\n\r\nHe usually does one pop quiz a week, but the questions are so easy (as long as you have the equations written down).\n\r\nThe Mastering Physics hw is not too bad, especially since he gives you 5 chances to answer each question correctly, with no loss of credit until the last chance is used up. \n\r\nThe only really annoying thing about Bantu was that he never emailed us when he posted assignments, so you basically have to check Blackboard constantly to see if there is a written assignment and you have to check MP to see if there is a new online assignment.\n\r\nOverall, Bantu is definitely one of the better physics professors.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2009-12-28T20:34:00Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS270",
+      "review": "Dr. Bantu is a very nice, easygoing professor who made PHYS270 a relatively easy experience. He's a rather dry lecturer, but he cracks jokes in lecture occasionally to wake up the many sleepy, bored students. \n\r\nHowever, his class was not too hard., especially compared to the other professor, Jenkins. The tests were straightforward (except maybe the second one, which almost no one finished), and the final was not even cumulative! MasteringPhysics was the homework system used and there was always help available if you knew where to look. There were quizzes in lecture at the end of each chapter, but most of the time you did not really have to go to lecture since he posts lecture powerpoints online. Also, discussion is useless. My TA always went on tangents that usually ended in him talking about Maxwell's equations, which was irrelevant to most of the topics we were covering.\n\r\nThe worst part of this class is the lab which counts for 25% of the 270 grade. Fortunately, we only had it every other week, but my experience was awful since no one knew what he or she was doing and the TA couldn't speak a word of English and explain anything!\n\r\nOverall, definitely take Bantu over any other PHYS270 professor!",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2009-12-23T14:36:00Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS270",
+      "review": "It only requires V5 but actually uses V3,4 and5. Does not make sense to buy 3 books. Try the full volume(ISBN:0805389601)! It will be a lot cheaper.",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2009-01-24T16:23:00Z"
+    },
+    {
+      "professor": "Matthew Severson",
+      "course": "PHYS270",
+      "review": "Severson was a good professor. His exams are extremely straightforward. Most of the problems were just plugging variables into equations, so as long as you make a good formula sheet, you'll get an A. He doesn't spend too much time deriving equations and gets straight to the point. He did a great job of teaching physics to engineering majors. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2018-01-02T16:20:32Z"
+    },
+    {
+      "professor": "Howard Milchberg",
+      "course": "PHYS270",
+      "review": "Milchberg is a decent lecturer and a great/hilarious guy. Homework was straight out of the textbook for 270, and the exams were pretty insane, but his grading is dependent on progress. The departmental final for 270 meant that after his exams the final was a cakewalk and almost everyone in the class walked away with an A. \r\n\r\nJust wish I could take him for 420, but they switched up the professors on me. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2018-12-18T23:19:25Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS270",
+      "review": "In my experience in all 3 general physics classes here, I thought Hailu was the most well-rounded when it comes to teaching the material and going through examples in class. Although the first exam is pretty hard, he lightens up the second and third exam. He also curves the class on average 2-3%. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2018-12-22T21:36:00Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS270",
+      "review": "Whatever you do please don't take this professor. Three exams, doesn't drop any, doesn't narrow down on topics covered in the exams he will say to \"study everything\" which is no help at all. His lectures are super boring but he does do a lot of example problems which help a little at first but definitely doesn't prepare you for the exams. His exams are such curve balls there's aways one problem that will throw you off and he gives like 2 problems, so if you screw up one, you fail. He curves a lot at the end but you gotta have at least a 70% or higher to get a B. Which isn't bad but his exams are bad so that might be hard to get. The course isn't bad as long as you read the textbook and do practice problems, but just make sure you have a good professor. ",
+      "rating": 3,
+      "expected_grade": "C",
+      "created": "2019-05-28T08:25:25Z"
+    },
+    {
+      "professor": "Xiangdong Ji",
+      "course": "PHYS270",
+      "review": "Extremely fun to talk to and observe in class. He is very intelligent and his tests are exactly taken from the homework sets.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2019-12-17T16:41:25Z"
+    },
+    {
+      "professor": "Xiangdong Ji",
+      "course": "PHYS270",
+      "review": "Professor Ji was among the most enthusiastic teachers I have ever had. His excitement and passion for physics made the class truly enjoyable. He was also able to clearly and effectively answer any and all questions I had about the material.\r\n\r\nThe main criticism I have heard is that people do not think his exams are hard enough to prepare students for the final. (When I took his class in fall 2019, the exams were almost exact transcriptions of the homework assignments.) Frankly, this is nonsense. If you know what you are doing and have a good, comprehensive formula sheet going into the exam, you will be fine.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2020-02-26T04:37:47Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS270",
+      "review": "Professor Gebremariam is one of those professors that you can just tell that he is being forced to teach students, which is clear when you email him, as he talks down to his students and acts like he is gods gift to physics. His lectures are mind numbingly boring and pointless. To make it even worse, the TA that i had was somehow has worse Hailu. Would stay away from this professor if possible.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2020-05-23T17:07:02Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS270",
+      "review": "Buehrle was great. Online lectures were helpful and frequently ended early. OH were helpful and he was cool. Exams were standardized and on ExpertTA",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2020-12-04T23:06:43Z"
+    },
+    {
+      "professor": "Howard Milchberg",
+      "course": "PHYS270",
+      "review": "I would say Milchberg is an above average lecturer. In his lectures he spends time deriving formulas and explaining concepts. He will include a few examples but not too many. His reviews before the final and midterms were helpful where he could do more examples and summarize concepts. The homework is time consuming but you get roughly 2 weeks per assignment to complete it. He also uses an improvement grading style where only your best midterm is counted and if your final exam grade is higher than your best midterm then that counts for both your final exam grade and midterm grades. Usually on midterms and the final he will include a problem that's similar to the homework. Overall Milchberg is a nice professor and wants to help his students.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2021-01-05T23:29:02Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS270",
+      "review": "The most cold-hearted and cruel professor that I have met so far. He even made the expectations of us learning online being higher than in-person settings. For some weeks, he made the HW problems extremely difficult and he didn't care if most people are immensely struggling. Instead he always would say that these problems are easy and made people feel even worse. He basically doesn't know how to show empathy towards his students and. If he would help us out, then everyone could be benefited that way! \r\n",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2021-05-23T20:01:45Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS270",
+      "review": "Some may say his lectures sound monotonous. This is true and he speaks so incredibly slowly\u2014still, I think they were good quality lectures that were easy to understand and had plenty of examples. His quizzes are easy and exams are fair. He typically will curve the final grades to a B- average, but since our class average was already doing this well, we didn't get a curve this semester.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2021-06-26T14:23:33Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS270",
+      "review": "Buerhle explains every single concepts very clearly and concisely in his lectures, and even taking the course over the summer, he always host office hours regularly and he won't even mind to meet students at times other than office hours. He addresses every question very well, and once when I got stuck on a problem for hours, he and I spent 30 minutes together and we figured it out. Exam questions formatted a lot like the homework questions, perhaps there may be one question that threw people off especially on the third midterm or the final exam, but I promise you will learn a lot from his lectures and the class as a whole. \r\nIf you are planning on taking PHYS 270 over summer, even when it definitely will be in-person next summer, still, do it! I guarantee it will be the best experience! ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-07-21T23:22:16Z"
+    },
+    {
+      "professor": "Drew Baden",
+      "course": "PHYS270",
+      "review": "Dr. Baden kept the lectures informative and catered to engineers as opposed to physicists, which made the class, in general, a bit easier. It was his first time teaching the class, and while he did a wonderful job, there were a few confusing aspects. Firstly, he never posted student exams to grades, and just showed a grade distribution which made it harder to ascertain my final grade. This said, the exams were all straightforward with generous partial credit. They got more challenging as there became more concepts to cover in the exam, but a well-studied student could manage this without difficulty. I would highly recommend Dr. Baden if you have the option.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2021-12-23T15:55:33Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS270",
+      "review": "I literally could not make it through Hailu's lectures without falling asleep because he speaks in a monotone and is so disinterested in his own words. Eventually, I stopped going to lecture and taught myself the material. I actually was doing better in the class this way until I bombed the final because it was a common final exam and was completely different from Hailu's midterms, quizzes, and homeworks. There was no good way to prepare for midterms or the final because students are given no practice problems, no old exams, no feedback on anything you submit, nothing at all to give any vague idea of what an exam problem might look like.\r\n\r\nAlso, I had to speak with Hailu on two different occasions about special circumstances that affected my ability to do work, and he was cold and unsympathetic, providing the bare minimum accommodation of one make-up quiz, then not telling me what the quiz would be on so that I ended up with a zero on it because I had no idea what to study. ",
+      "rating": 1,
+      "expected_grade": "C+",
+      "created": "2021-12-24T17:53:05Z"
+    },
+    {
+      "professor": "Eun-Suk Seo",
+      "course": "PHYS270",
+      "review": "I'll admit I didn't attend most lectures. She talked really quite, so combined with her accent, it made it difficult to follow lectures. She lectures from slides which I'm not usually a big fan of but that's just my preference. Homework's were done online with expertTA and were fairly easy, and would help reinforce concepts with easy questions that tended to lead to somewhat more challenging questions. However her tests were quite a bit more difficult than the homework's, and would sometimes test on material not found in the homework which I found difficult to study for. There were review worksheets which were somewhat helpful, however. The key to this class is a good equation sheet. Really try to cover your bases because one obscure missing equation can really trip you up in an exam. Overall not bad I just wasn't super impressed by the way the class was set up, but it is still completely possible to do well in this class and get an A.  ",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2021-12-25T15:07:15Z"
+    },
+    {
+      "professor": "Drew Baden",
+      "course": "PHYS270",
+      "review": "Professor Baden is definitely one of my better experiences in the Physics department. He's notably passionate on showing how physics relates to modern applications, and he's a pretty nice guy. His lectures are not the most beneficial, most of them consisting of him deriving expression, but he at least works through stuff instead of reading off of a PowerPoint. My main plus about his course is that his exams were very straightforward (similar format to HW problems), and he and the TA's were fair about partial credit. He also implemented a curve (a bit confusing but I can't really complain) and dropped the lowest exam (3 exams total). Homework was about the same level of difficulty as the other physics pre-reqs, and I used the formulas from it for my exams, which proved to be very helpful. My TA was also very helpful, offering practice problems that covered topics on the homework and exams.\r\nOverall, I would recommend this professor, since you will probably have a better experience than many of the other options for this course.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2022-01-25T02:24:39Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS270",
+      "review": "You know he is a good teacher the problem is you might fall asleep in his lectures.",
+      "rating": 4,
+      "expected_grade": "C+",
+      "created": "2023-04-14T20:35:53.688615Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS270",
+      "review": "His lectures are pretty boring and hard to follow, but sometimes he draws diagrams and those are pretty helpful.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2023-05-12T04:19:57.843446Z"
+    },
+    {
+      "professor": "Drew Baden",
+      "course": "PHYS270",
+      "review": "The only truly great physics professor at UMD in my (limited) experience. His exams aren't necessarily easy, but they're direct and worded well so that if you understand the proper concepts you will succeed. Helpful guy overall with a keen sense of humor and the passion to make otherwise lackluster content seem interesting enough to learn. Only slight on him is that he doesn't update canvas nearly as much as he should, but otherwise is the best bet by far if you want a good experience in Physics 3.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2023-05-16T18:17:35.657265Z"
+    },
+    {
+      "professor": "Drew Baden",
+      "course": "PHYS270",
+      "review": "A breath of fresh air in the UMD physics department. His exams are well worded, direct and do a good job of fairly assessing whether or not you fully understand the material. He shows a great deal of passion towards engineering and physics concepts, which make the otherwise semi-dull content easier to pay attention to and understand. He makes good jokes, constantly asks students if they have any questions, and is overall a professor who has compassion and an understanding of his students. This course isn't necessarily easy, but with Baden it has been a much smoother ride than in my past Physics courses. My one slight on him is that he rarely, if ever, updates canvas, but he hands back exam grades in class so you will always have a rough estimate of your grade at all times. Overall great guy, great professor and great for his students sanity.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2023-05-16T18:24:00.590305Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS270",
+      "review": "Hailu is pretty boring, but if you go to lecture and somewhat pay attention to the practice problems he does, you will do well in the class.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2023-05-25T03:25:24.543464Z"
+    },
+    {
+      "professor": "Eun-Suk Seo",
+      "course": "PHYS270",
+      "review": "I don't know why Professor Seo has such bad reviews. I was worried about this class at the start of the semester, but she has done a great job teaching it. She's very smart so sometimes she does gloss over topics that should be explained a little more but overall she does a great job preparing us for exams. Overall I'd say her class is very fair and there's reason to avoid her as a professor.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2023-11-15T02:35:07.951372Z"
+    },
+    {
+      "professor": "Howard Milchberg",
+      "course": "PHYS270",
+      "review": "Physics is a really boring class at times. Milchberg is never boring. His only flaws are that he goes into too much detail and can be a little disorganized. If you like physics or math or are majoring in one of those you will love his class. He really knows his stuff and he is very nice and is also fair and listens to his students. He asks questions to the class and if you have a questions he will really try to get you an answer, he wants you to succeed and learn. If you are an engineering major you may struggle a bit. His lectures will bog you down with fine details and things that you may not have to care about or may not apply to you. His lectures are also almost entirely conceptual which can be hard for engineers who are used to building things and using numbers physical literal examples. His grading scale is very generous, the homeworks are textbook problems that you have 2 weeks to do and while his exams are hard, he will only count your higher midterms and if you do better than either midterm on the final he will use your final exam grade as 80% of your total grade. This class isn't a lot of work and honestly if you show up and take notes and pay attention you will be fine.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2023-11-16T02:05:17.705293Z"
+    },
+    {
+      "professor": "Drew Baden",
+      "course": "PHYS270",
+      "review": "Baden made phys270 a great and enjoyable class to be in, the concepts were never too hard and the exams were very easy but he made sure that we knew the underlying concepts with more depth than was required for the class so we could actually learn them. As a physicist, he emphasized learning these concepts not just to apply them but also to influence how we think (he himself admitted that relativity and quantum mechanics was not something most of us would use anyway, but that it was still important to learn them). His lectures are engaging and interesting, and he could always answer student questions immediately and with great clarity that brought insight to the topics. The only complaint I ever had from his class was that he would consistently go 2-3 minutes over time at the end of class to finish explaining his topic, which is certainly a lot less of a complaint than most professors at UMD. It goes to show how good Baden is that lectures always had very good attendance even though he never really made lecture attendance graded.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-11-29T13:44:04.129444Z"
+    },
+    {
+      "professor": "Drew Baden",
+      "course": "PHYS270",
+      "review": "Excellent lecturer, and a really nice guy. His exams are fair and surprisingly easy. I always had fun going to lecture since he made every concept super interesting.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-16T19:44:04.206712Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS270",
+      "review": "ONE OF THE WORST PROFESSORS EVER. Not only is he boring, but his lectures are composed of copied slides from somewhere else and writes messy stuff. He should be fired. I DON'T UNDERSTAND HOW HE STILL HAS A JOB.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2024-02-09T19:57:34.465989Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS270",
+      "review": "misunderstood goat \r\njust know the formulas",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-04-17T18:51:10.038096Z"
+    },
+    {
+      "professor": "Michael Crescimanno",
+      "course": "PHYS270",
+      "review": "Overall a good teacher if you are genuinely interested in the subject as he goes very in depth but that is ultimately his downfall as he wastes class time teaching things that aren't on exams or things you'd need to know for homeworks. He also has no idea how to use canvas so expect to use his horrible website \"docphoton.com\" and also expect graded warmups. Not to mention he makes pretty unreasonable exams that require you to use logic to be able to answer.",
+      "rating": 2,
+      "expected_grade": "B-",
+      "created": "2024-05-13T20:52:41.055507Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS270",
+      "review": "Had Hailu for 270 and 260; he can definitely be a bit boring during lecture but he generally explains things pretty clearly and is happy to answer questions. Quizzes were generally very easy, and exams were pretty fair(moreso in 270 than 260), but were difficult to prepare for as no practice materials were released.  My advice would be to be familiar with the example problems covered during lecture and the hw, as these were generally very similar if not identical(with different numbers) to many exam problems.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2024-05-17T07:13:03.024707Z"
+    },
+    {
+      "professor": "Michael Crescimanno",
+      "course": "PHYS270",
+      "review": "I was going to give him three or four stars. His exams are insanely hard and seem almost like he did not prepare us nearly enough for the exams in class. However, he said at the beginning of the year that his class is very hard, but nobody has ever been disappointed by their grade in the class. Since the grades have been posted, everybody, including myself, have been more than content with out grades. Also, unlike some other professors who teach this class, Dr. C actually seems to care and goes out of his way for his students. Every other class there was some sort of demonstration, he made practice problems before exams, he considered each students' situation and tried to help accommodate them, and he is super friendly. My favorite things were when he brought up what seemed to be random examples, like the \"grandma bench,\" and related it perfectly back to the topics. I find that he spent the class making sure to teach at a conceptual level, even if that meant not many examples, because that is the foundation of learning any further in the course. Also, he curves so so much.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2024-05-24T19:25:29.755706Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS270",
+      "review": "[Taken Spring 2024] I do not like Hailu Gebremarium. His lectures are psychological torture if you attempt to pay attention, as the man has the voice and cadence perfectly crafted to induce a deep, restful slumber. In conjunction with the incredibly boring, perplexingly convoluted (mainly referring to diffraction and quantum mechanics here), and ridiculously impractical material, his lectures diminish your will to follow along and take notes (if you care to do so only bother copying the example problems- the theory does not help). It will feel manageable at first, but that hour and fifteen minutes is an eternity and will chip away at your mental fortitude. You will likely give up taking notes or even showing up at some point and this is understandable if not the norm. As far as the exams go, from my experience all except the first one resulted in an absolute dumpster fire of an experience (ESPECIALLY the final). Assuming the course remains the same, you will be given zero practice material prior and will have to cram as many homework problems and lecture examples as possible to give yourself a fighting chance. You are also encouraged to practice using former quiz problems, but they are of no service as they are insultingly easy. Like I alluded to previously, aside from the first exam, which included especially easy material, you will be racing against the clock to conjure up any semblance of work (in an attempt to garner partial credit) that you can conceive of. What makes the exams terrible is the time limitation (in a cruel twist of fate you are given an hour to complete said exams despite having to sit through hour and fifteen minute lectures) and the fact that Hailu commonly attempts to insert questions that are either unnecessarily difficult variations that you have not seen before or are simple but require incredibly niche equations that exist outside your knowledge (since they are never emphasized anywhere and are thus easy to neglect on a formula sheet). Another thing about the exams that I hated was the very strict grading. Partial credit was handed out incredibly sparingly and you could even lose points for not including units on intermediate answers! The final was the cherry on top. Hailu showed up at the last minute and looked incredibly ticked off for no reason at all before giving us the holy grail of horrible final exams. Every problem was a hard variation of what we had learned and everybody ended up BS'ing the entire thing, especially the quantum mechanics which I don't think a single soul figured out. The only saving grace of this class is that there is enough of a curve so that if you are close to the average on each exam you will succeed no matter how bad things are. I would also like to add that my review has been undoubtedly influenced by the fact that I had this man for two semesters in a row and thus had to deal with him for an entire year, but I'm sure you will find enough commonalities between my review and others to validate what I am saying. Avoid him if possible. Having him is not the end of the world but you will be absolutely sick of him by the end.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2024-08-08T02:36:16.976460Z"
+    },
+    {
+      "professor": "Anson Hook",
+      "course": "PHYS270",
+      "review": "Lectures suck so bad. The homework is pretty good, though, and tests are miles easier than anything else.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2024-12-10T19:33:56.886738Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS270",
+      "review": "His lectures are entirely worthless. You will be teaching yourself all of the course content.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2024-12-11T22:12:16.676991Z"
+    },
+    {
+      "professor": "Anson Hook",
+      "course": "PHYS270",
+      "review": "Hook is a young teacher and says things how it really is. He feels free to express emotion during lecture and explains the concepts in basic terms, saying things such as \"yea physics people just make up all these variables because they're too lazy to write the same thing over and over\". For me, Hook makes this class really enjoyable, and I am able to understand the concepts completely. He personally cares about his students, trying to keep the average of each exam around an 80, which is something I do not find many UMD professors doing in their classes. I would say Anson is the best physics or math teacher I have taken at UMD quite honestly. If you put in the work to Expert TA, pay attention in lecture, and study for each exam, you should have no problem succeeding. At times Hook will derive an equation for a while, but it usually ends with some sort of lesson of what physicists or mathematicians found. Would take again, does not deserve the 3.33 rating.",
+      "rating": 5,
+      "expected_grade": "B-",
+      "created": "2024-12-14T22:56:52.087527Z"
+    },
+    {
+      "professor": "Anson Hook",
+      "course": "PHYS270",
+      "review": "His lectures are significantly harder than any assignment you will do. The ExpertTA homework is not bad overall and the exam questions are very fair. You also get to make a formula sheet for every exam and the final. However, his lectures tend to lead astray from anything necessary (he shows you proofs that you just don't need to know for the exam) which can get confusing. He also scares you by doing in class problems that are miles harder than anything on his exams. Overall, he wouldn't be my first choice but he's definitely not a bad option.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2024-12-16T01:52:51.170899Z"
+    },
+    {
+      "professor": "Anson Hook",
+      "course": "PHYS270",
+      "review": "Anson is a genuinely nice guy and clearly brilliant when it comes to physics. His lectures are mostly proof-based and extremely boring- I could never keep my eyes open in his class. But he does do some helpful examples on the board during lecture and he follows the textbook pretty closely so it's easy to catch up on the content on your own. One thing that I really appreciated was he started each lecture with a quick recap of the previous lecture so you could keep track of the big picture and not fall completely behind. He is also super willing to be interrupted and answer questions while lecturing, even if they seem like really bad questions or something he already said. As for exams, he lets you know what the topics will be and does some review during class to help you prepare. His exam problems are relatively straightforward and fair and he also curves pretty generously. I'd recommend him overall, he doesn't make your life any more difficult than it needs to be for physics.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-22T04:52:48.227868Z"
+    },
+    {
+      "professor": "Anson Hook",
+      "course": "PHYS270",
+      "review": "Very nice guy. Very forgiving grading (curved the last two midterms so that the average was a ~85). His lectures were really boring, but all the material is in the textbook and in the homework so it doesn't really matter if you pay attention or not.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-01-15T04:09:24.479839Z"
+    },
+    {
+      "professor": "Anson Hook",
+      "course": "PHYS270",
+      "review": "Anson himself is very kind, he seems like a lovely person. But his lectures were awful. I could never understand what he was trying to explain to us so I decided to self study instead of going to lecture which was the right decision for me. He is very smart but I just couldn't deal with his lectures. The work itself is difficult but not unreasonably so, and the textbook is very helpful. Overall the class was good, but just be prepared to be doing your own learning most of the time.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2025-01-30T04:41:14.559141Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS270",
+      "review": "People complain too much. He does practice problems all class that are exactly like his exam questions. What more do you need?!",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2025-03-04T20:41:20.364224Z"
+    },
+    {
+      "professor": "Andris Skuja",
+      "course": "PHYS270",
+      "review": "Professor Skuja is a very kind and sincere man. However, his lectures and class overall leave much to be desired. Lectures are completely dry and devoid of example problems, which I have found are an important tool for learning physics. At first I thought the poor lectures may be due to the content just being dry, but we were fortunate enough to have another professor fill in one day and the lecture was interesting, engaging, and informative. Many of Skuja's lectures end in me just screenshotting the slideshow and pasting the important equations in my notes. Lectures are completely skippable because of this. However Professor Skuja understands that no one would come to lecture and for at least 2/3 of our weekly lectures either hands out a quiz or \"participation check,\" therefore forcing students to come to class to get a good grade. Exams are fine, just make sure you have all the equations on your sheet and know what each of the variables mean.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2025-04-08T19:58:13.474917Z"
+    },
+    {
+      "professor": "Andris Skuja",
+      "course": "PHYS270",
+      "review": "Wish I could give zero stars, literally the worst professor I've ever had. He reads typed-out derivations directly from slides that he pretty clearly made like a decade ago. He mumbles a lot and is super hard to understand. I am completely self-teaching myself this class. Avoid taking him is you value your grade or sanity!!",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2025-04-16T16:58:36.534314Z"
+    },
+    {
+      "professor": "Drew Baden",
+      "course": "PHYS270",
+      "review": "Drew Baden is one of the professors of all time. He completely changed the format of midterms from previous semesters by making them all multiple choice. You think that would be easier but no, he just added more questions and still expects you to show all work. Speaking of exams, they are incredibly long for no reason. Unless you know exactly what to do on every single problem, you will probably not sufficiently answer every question. \r\n\r\nHis lectures don't cover what is on the homework. Your supposed to apply what you learned in lecture on the homework except with Baden. You will basically be learning what he covered in lecture on your own and will just have to figure it out on the homework. His lectures are fine but he goes off on tangents sometimes and spends too much time talking about the history of what you're learning instead of doing example problems. In fact, he doesn't even do example problems in lecture. If you want example problems you'll have to go to discussion so pray you get a good TA. \r\n\r\nThat being said, he is significantly better than Skuja but slightly worse than Anson Hook. I would take him again but I'd probably choose Anson Hook over Baden if I had the choice. Baden's saving grace is that only 2/3 midterms will count towards your final grade.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2025-05-05T17:41:45.770357Z"
+    },
+    {
+      "professor": "Drew Baden",
+      "course": "PHYS270",
+      "review": "Debated whether to give four or five stars; he's good but not stellar so I'll do four. The main thing I enjoyed about taking Baden was that he seemed more concerned with teaching us the actual physics than he was with teaching us to take the exams. The majority of lecture time is him explaining the physical phenomena behind what we're learning about, rather than just the equations we need to solve the homework, which I really enjoyed. I also didn't mind the multiple choice exams, it was a breath of fresh air compared to Hailu's three question exams where getting one thing wrong tanked your grade.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2025-05-10T15:09:34.496699Z"
+    },
+    {
+      "professor": "Drew Baden",
+      "course": "PHYS270",
+      "review": "Very good lecturer and made the class very interesting. His exams are long but are basically the same questions as the homework so its not too hard. He seemed to actually care if we understood the actual physics and really seemed to want us to succeed.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-10T16:02:13.494635Z"
+    },
+    {
+      "professor": "Drew Baden",
+      "course": "PHYS270",
+      "review": "His lectures are okay and the few homework assignments he gives are really long. He drops a midterm and his final wasn\u2019t incredibly easy so he gets 5 stars for that",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-05-15T23:48:54.942377Z"
+    },
+    {
+      "professor": "Drew Baden",
+      "course": "PHYS270",
+      "review": "Best professor ever classes is curved. Final exam is really easy lectures are engaging 10 / 10 would recommend.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2025-05-16T00:25:02.689192Z"
+    },
+    {
+      "professor": "Drew Baden",
+      "course": "PHYS270",
+      "review": "Absolutely amazing lecturer. Most of the classes felt like history lectures.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-05-16T00:49:56.834591Z"
+    },
+    {
+      "professor": "Drew Baden",
+      "course": "PHYS270",
+      "review": "There are 2 factors I would consider when taking Baden\r\n\r\n1) He is a very boring lecturer and his lectures are incoherent and he just talks to himself while writing on the board. He doesn't explain what the equations he writes are called or even what they are used for in general. I honestly stopped going to lecture and really just learned the material and equations from the HW. \r\n\r\n2) His exams are LITERALLY MADE BY EXPERTTA (the hw software). The exams are multiple choice, copy paste HW problems which you technically can't put the your double sided equation sheet, but they don't check and also its all just equations so there are ways around that. The exams are curved, the final is curved, hw is curved (only downside to this is that going into finals you literally don't know what you grade in the class is other than how you did in relation to the average on exams). I never knew how to study for his exams other than by redoing the hw and it worked pretty well. The final was 80% copy paste from the 3 midterms we took this semester! \r\n\r\nTLDR: Baden is a really boring and just bad lecturer, but it's easy to do well (or at least average) in the class by just doing the HW since his multiple choice exams are literally just the HW. Class is very curved.",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2025-05-16T16:27:57.835972Z"
+    },
+    {
+      "professor": "Drew Baden",
+      "course": "PHYS270",
+      "review": "Boring lecture\r\ndon't know your actual grade in the class at all since its curved\r\nmultiple choice exams that are the same as the HW\r\ndrops lowest midterm grade\r\nfinal was the midterms and hw together in one fat packet\r\nexams are a time crunch and you dont get partial credit since its multiple choice and you also dont get credit for the correct answer if you didnt show any work\r\n\r\nwhat Baden lacks in lecturing skills he makes up for with off-handed comments and jokes in class and easy exams",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2025-05-16T16:33:11.570812Z"
+    },
+    {
+      "professor": "Drew Baden",
+      "course": "PHYS270",
+      "review": "Lectures are moderately boring - more interesting than most physics professors, but there's only so much that can be done\r\nClass is pretty easy, ALL EXAMS ARE MULTIPLE CHOICE - FINAL INCLUDED. All exams are printouts of the ExpertTA hw, and half the time he doesn't even bother to change the numbers. The final was an exact compilation of the midterms, problems literally copy-pasted right over.\r\nAll class notes are posted, but his handwriting is pretty messy\r\nMostly taught myself how to solve the hw, copied all the equations I used and did fine on all the exams\r\nNice guy in general",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2025-05-16T20:58:25.375076Z"
+    },
+    {
+      "professor": "Drew Baden",
+      "course": "PHYS270",
+      "review": "Baden is a very interesting professor. His lectures are not bad as he is more concerned about you understanding the material than grades, but because of that he doesn't really help when it comes to preparing for midterms. Likes others have mentioned, the midterms are multiple choice and come straight from ExpertTA, BUT the exams can be annoying at times due to not having adequate time. It is also annoying how it is common for the exams to have typos and sometimes we had to skip some questions that were added by accident (luckily this was not the case for the final). But besides that, he drops the score of the midterm you did the worst on in relation to others which is great. I also enjoyed some of the lectures where he did demonstrations and overall Baden is a nice and funny guy.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2025-05-21T05:11:40.877575Z"
+    },
+    {
+      "professor": "Drew Baden",
+      "course": "PHYS270",
+      "review": "I started off the semester by going to Baden's lectures, but they progressively got more and more boring. I got through the class by doing the homework and learning from that. The exams were extremely difficult, as the averages were around 50-60%, but he curves the class so that the average ends up around an 85%. The structure of the course is also very strange, as we cover many topics that don't seem to relate to each other, which makes studying for the final very difficult. The one good thing I can say about Baden is that he applies the physics we learn to engineering, which makes the class somewhat interesting.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2025-05-23T18:00:47.147159Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS270",
+      "review": "slow and explains everything well in lecture, home work can be challenging, gives you a cheat sheet for exams , exams are hard though, curve class at the end of the semester so most students pass, holds time after class for people with questions on homework/ lecture material.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2025-05-23T19:31:37.720314Z"
+    },
+    {
+      "professor": "Andris Skuja",
+      "course": "PHYS270",
+      "review": "you learn nothing and pass because the curve is so heavy, going to class is completely useless but nobody else learns anything so you somehow end up fine.\r\n\r\nIf you want to actually learn, avoid\r\nIf you don't care and just need to pass, TAKE HIM",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2025-05-23T23:19:45.284055Z"
+    },
+    {
+      "professor": "Drew Baden",
+      "course": "PHYS270",
+      "review": "Baden is a good professor - he\u2019s funny, and his lectures are way more interesting than other physics classes I\u2019ve been in. He goes into some of the practical applications of the topics we learn, as well as some of the history. The downside to that is that it\u2019s less exam-focused, which makes studying harder. Although his exams are generally difficult, they\u2019re multiple choice and taken straight from ExpertTA, so you know exactly what will be on them. Generally an enjoyable class!",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2025-05-24T01:43:18.581951Z"
+    },
+    {
+      "professor": "Drew Baden",
+      "course": "PHYS270",
+      "review": "He is a good professor and wants you to do really well. Sometimes the lectures seem to go into a physics rabbit hole, so if you look at the textbook and go to TA office hours it really helps. Take note of the ExpertTA problems, since they are the main makeup of the exams, and the final was a mix of previous exam problems. His OH are also really helpful, and he can really help clear up a topic. Only thing that was a bit annoying is the grading, since you don't know what you grade is until the very end bc of curves etc, but that might be a department thing. Besides that, he did a fantastic job with the class.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2025-05-25T04:12:16.384725Z"
+    },
+    {
+      "professor": "Drew Baden",
+      "course": "PHYS270",
+      "review": "Pretty easy professor and class I just didn't really study. My final grade was an 81% and ended with a C+ because of the weird grading that he does which was annoying. But the tests were multiple choice and you get a cheat sheet - 5 for the final which was insane. Lecture kind of sucked I only stuck it out the first half of the semester, but the online textbook helped a lot to understand the harder concepts but really all you need is to understand the homeworks. \r\n\r\nThe first test was very easy - 85% average. The second test was insane around 50% average you need to actually understand everything fully. The third test was fine with around a 75% average, the final was also easy pulling directly from the midtems almost completely with another high % average. \r\n\r\nRecommend him over Skuja for sure there are no quizzes with Baden unlike Skuja and the tests are much easier.",
+      "rating": 4,
+      "expected_grade": "C+",
+      "created": "2025-05-28T00:24:37.122522Z"
+    },
+    {
+      "professor": "Drew Baden",
+      "course": "PHYS270",
+      "review": "I honestly have no idea why his score was so high. I feel like the way he structured the class was fairly disorganized at best and completely messy at worst. \r\n\r\na) The homework felt \"too easy\" in a sense, to the point that I felt like I wasn't adequately prepared for the exams when going in. Not only that, but the exams were COMPLETELY multiple choice, which completely threw me off as someone who is used to having free-response physics exam for the bulk of my academic career. He gave no practice exams, nor did he indicate what the exams were going to be like. \r\n\r\nb) His lecture style can be very boring at times, and I sometimes felt like he was just giving us fun facts rather than actually teaching the course material. He shows that he is passionate about physics and what he teaches, but it doesn't translate well into what I actually needed to understand for his class.\r\n\r\nc) He has a very strange grading system where he normalizes the average grade, which basically means that he can curve you down! For me and a lot of my peers, he dropped us from two whole sign grades (those expecting a B got a C+, and those expecting a B- got a C), and it felt quite unexpected.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2025-05-28T18:06:27.718609Z"
+    },
+    {
+      "professor": "Drew Baden",
+      "course": "PHYS270",
+      "review": "Baden was a great professor. His lectures were engaging and he really cared about us learning and understanding the physics and being able to apply it. He almost always threw in some physics history or a practical application into lectures which I felt made lectures much more interesting. His lectures often started with the first 10-15 minutes being a review of the previous class which personally I enjoyed because it felt like I was really cementing my knowledge, but many of my friends would say that was why the lectures were boring like many of these reviews say. The homework was pretty straightforward and all the questions from the homework became the midterm questions which became the final questions. One midterm is dropped and the class is fully curved so the only way to know what your grade looks like is to look at how well you did compared to the average. The class is set up for you to do well in and is pretty manageable.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-28T19:31:42.231222Z"
+    },
+    {
+      "professor": "Drew Baden",
+      "course": "PHYS270",
+      "review": "Great professor. He seems to genuinely care about his students and their learning. He is obviously very passionate about physics which makes his lectures somewhat interesting. Exams were all multiple choice, and the final was just repeated problems from the 3 midterms. Grade scheme is a bit weird and nothing gets put on canvas until the end of the semester, but if you do okay on midterms you will be fine.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-06-12T15:08:11.839355Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS270",
+      "review": "Buehrle was a good lecturer and made the content interesting. While he used generic slides, he usually used it for discussion and did his own practice problems. The class was pretty doable and didn\u2019t feel rushed even though it was summer session. Exams were okay but it was hard to get a feeling of expectations. Quizzes were the worst part because they were mostly obscure theory that wasn\u2019t covered in class. Pretty decent curve on exams. Despite some reviews, he\u2019s a pretty good instructor but won\u2019t do any miracles.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2025-07-14T18:30:50.629139Z"
+    },
+    {
+      "professor": "Bei Lok Hu",
+      "course": "PHYS270",
+      "review": "Professor Hu is a genuinely nice person who seems to have a good heart. His teaching style, however, was not for me. Barely any of the class would show up for lecture, and NO ONE would ever take notes, because with the way he lectures, you just don\u2019t even know what to write down. He somehow manages to be FIVE lectures ahead of the syllabus and moves at a very fast pace. He had to redo the syllabus a month before the semester ends, and on the first day, he was already two lectures ahead of his new schedule. he did give some cool demonstrations in class that only helped and made sense a month later when I actaully learned the topic on my own. If you learn everything on your own with some YouTube videos and attend discussion, I would say the exams are very reasonable. If you like learning independently, I\u2019d recommend taking him, especially since this class only has two exams. But he does not teach you anything, so if you are here to learn, I wouldn\u2019t take him.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2025-11-26T19:28:57.010549Z"
+    },
+    {
+      "professor": "Drew Baden",
+      "course": "PHYS270",
+      "review": "Baden's 270 is honestly the best version of the class and there's no competition. He posts all of his notes and the midterms are just pages of expertTA problems. Basically read his notes and practice the homework and they'll be fine. He also drops the lowest midterm. His lectures are very interesting but not very useful for the class. They're usually derivations and demos of the concepts he teaches. I eventually ended up learning everything outside of class from his notes and practiced the hw the night before the tests and did well on all of the midterms. On top of all of that he literally made our final just the three previous midterms stapled together, same numbers, bar for bar. Only minor complaint would be that he does grade on a bell curve and makes the average grade in the class a B. But he gives you everything you need to do well. Class would be difficult if you barely study but can't really blame him for that!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-02T05:52:04.027540Z"
+    },
+    {
+      "professor": "Anson Hook",
+      "course": "PHYS270",
+      "review": "He's a great guy and very happy to go through and thoroughly explain any questions students have, but I feel like the biggest source of questions comes from the fact that his lectures seem to go off topic. He will give us the main concepts we need to know, but will drift into side topics that aren't strictly necessary for the exams or class. He tries to be fair with his exams, and while sometimes he misses he will provides curves to help correct any exams he made too difficult. Solid professor if he's available, just will be a little confused in his lectures.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2025-12-06T18:43:14.092695Z"
+    },
+    {
+      "professor": "Christopher Zapata",
+      "course": "PHYS270",
+      "review": "Chris not only cares about the material, but takes time out of his weeks and days to tutor students and hold review sessions. He is the most down to earth TA I have ever met, he is quite much different in a good way compared to other PHYS TA's. Please keep doing this Chris, please keep being passionate about physics, please keep teaching. You will succeed in life you are such a goat!",
+      "rating": 5,
+      "expected_grade": "C",
+      "created": "2025-12-12T02:35:37.497966Z"
+    },
+    {
+      "professor": "Anson Hook",
+      "course": "PHYS270",
+      "review": "He's a very enthusiastic professor and seems to genuinely care about the students, but sometimes he gets very esoteric with his examples and how he discusses principles, especially towards the end of 270 which is quantum. It makes it somewhat difficult to understand the already confusing material, and t make matters worse, he doesn't post notes at all. If you miss one class and you don't know anyone in the class, you're out of luck. Also TA was kind of useless and grades took a long time to be returned.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2025-12-17T05:34:07.841364Z"
+    },
+    {
+      "professor": "Anson Hook",
+      "course": "PHYS270",
+      "review": "Stopped going to lectures and didn\u2019t attend discussions mainly due to course material being easily learned via textbook, lectures are a little bit harder to understand as professors like Hook focus on the theory side of teaching it to students.\r\n\r\nAlbeit, it\u2019s their job to but as a student learning from the textbook is easier. Do his practice tests for sure make sure you go to TA reviews for the final exam even if it\u2019s the other class. The tip is they will tell you what\u2019s on the exam without fully saying exactly what\u2019s on it in this case. I got a B on the final because of this both TA\u2019s for the class this semester did very similar questions on their reviews to the final allowing me to do well. So please go to them even if the TA isn\u2019t helpful. \r\n\r\nOverall he\u2019s a great guy lectures are kinda chopped. Do his practice exams and go to the reviews, then do their review problems multiple times for the exams and you should be fine.",
+      "rating": 4,
+      "expected_grade": "B-",
+      "created": "2025-12-28T03:12:31.062387Z"
+    },
+    {
+      "professor": "Drew Baden",
+      "course": "PHYS270",
+      "review": "Sp25 He is an amazing professor in many aspects. The exams were super easy and basically just a bunch of homework problems and the final was literally just midterm questions from earlier that semester with a few more homework problems. His lectures were great and he even has his own website to help with the conceptual understanding of the topics. Never really understood standing waves but his class and explanation made them and how they come up and their properties super clear. Would absolutely take him for a class.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2026-02-22T01:31:39.572321Z"
+    }
+  ],
+  "department": "PHYS",
+  "course_number": "270",
+  "name": "PHYS270",
+  "title": "General Physics: Electrodynamics, Light, Relativity and Modern Physics",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> PHYS261, MATH241, and PHYS260.\n<b>Corequisite:</b> PHYS271.\nThird semester of a three-semester calculus-based general physics course. Electrodynamics, Maxwell's equations and electromagnetic waves, geometrical optics, interference, diffraction, special theory of relativity, and modern physics. PHYS270 and PHYS271 (lab) must be taken in the same semester.\n<i>If purchasing used books additional software may be required.</i>",
+  "is_recent": true,
+  "geneds": null
+}

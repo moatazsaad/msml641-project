@@ -1,0 +1,455 @@
+{
+  "average_gpa": 3.2708203530633435,
+  "professors": [
+    "Benjamin Kedem",
+    "Xia Li",
+    "Susan Mazzullo",
+    "Timothy Pilachowski",
+    "Tingni Sun",
+    "Alexey Stepanov",
+    "Christine Nickel",
+    "David Shaw",
+    "Susan Chimiak",
+    "Chiao-Wen Hsiao",
+    "Corry Bedwell",
+    "Bradford Sanders",
+    "Emily Francis",
+    "Natalia Tchetcherina",
+    "Hatice Sahinoglu",
+    "Nicholas Paskal",
+    "Ayushi Saxena",
+    "Gustavo Varela Alvarenga",
+    "Christine Nickel",
+    "Timothy Pilachowski",
+    "Andrew Lauziere",
+    "Hatice Sahinoglu",
+    "Christine Nickel",
+    "Hatice Sahinoglu",
+    "Susan Mazzullo",
+    "Timothy Pilachowski",
+    "Christine Nickel",
+    "Hatice Sahinoglu",
+    "Timothy Pilachowski",
+    "Susan Mazzullo",
+    "Timothy Pilachowski",
+    "Tong Qi",
+    "Susan Mazzullo",
+    "Christine Nickel",
+    "Hatice Sahinoglu",
+    "Timothy Pilachowski",
+    "Tong Qi",
+    "Christine Nickel",
+    "Hatice Sahinoglu",
+    "Timothy Pilachowski",
+    "Christine Nickel",
+    "Hatice Sahinoglu",
+    "Timothy Pilachowski",
+    "Tong Qi",
+    "Christine Nickel",
+    "Haeyun Seo",
+    "Hatice Sahinoglu",
+    "Timothy Pilachowski",
+    "Timothy Pilachowski",
+    "Christine Nickel",
+    "Natalia Tchetcherina",
+    "Timothy Pilachowski",
+    "Christine Nickel",
+    "Dmitrii Gudin",
+    "Hatice Sahinoglu",
+    "Timothy Pilachowski"
+  ],
+  "reviews": [
+    {
+      "professor": "Benjamin Kedem",
+      "course": "STAT430",
+      "review": "Prof. Kedem made it extremely unclear what was expected from this course. The syllabus was barely a page, with much of it stating why the course was \"so important.\" The professor was extremely uncommunicative outside of class, never alerting us about upcoming assignments through email or Canvas. He was very loose with deadlines, which was helpful if you missed class and didn't know when something was assigned, but it added to the lack of structure in the course. His advice for preparing for the first midterm was \"look at the notes,\" which is tough for a course that is some part mathematical statistics and some part statistical programming in SAS and coding language, and the exams are unknown what part of each will comprise them (plus the midterm is worth 35% of the course grade). His instructions for our statistical project was \"look at the syllabus,\" which had a 3-line description of the entire project, including only one line on the write-up portion, which essentially stated \"summarize what you researched.\" I was then docked many points for not being descriptive enough or providing a long enough write-up, when there was minimal description for what I had to do. Thus, Prof. Kedem is a nice guy, and he tries to relate to the students, but his courses is extremely disorganized, and it thus hindered my learning experience.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2016-12-13T23:19:00Z"
+    },
+    {
+      "professor": "Benjamin Kedem",
+      "course": "STAT430",
+      "review": "He is very smart however He does not know how to teach undergraduate classes. He write on the board all these formula and proofs that most of the class no one understands. He usually tells you about what is on the midterm however it is very difficult to review the midterm since a lot of materials are not in the book. The final project is very easy but you need to find a interesting topic. He allows you to hand in late home works. Overall his class is not difficult to get a B in because he is very generous about grading and if you get an A in his final, he gives you an A in the class. ",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2011-12-16T00:49:00Z"
+    },
+    {
+      "professor": "Benjamin Kedem",
+      "course": "STAT430",
+      "review": "I took this class to learn SAS and only feel that I am familiar with it. I don't feel like I know its \"in's and out's.\" However, I do feel this class was an easy A. He gives quizzes and HW that prepare for the exam. Take notes directly on the handouts and always print and bring them to class. Don't BS the project but you don't need to put that much effort. Be creative because he likes that. A lot of people did projects on grades and Heart rates which got boring after a while.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2011-05-24T12:09:00Z"
+    },
+    {
+      "professor": "Benjamin Kedem",
+      "course": "STAT430",
+      "review": "SAS is a very good software to know, but he is a wierd teacher. I don't recommend his class.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2011-05-19T08:57:00Z"
+    },
+    {
+      "professor": "Benjamin Kedem",
+      "course": "STAT430",
+      "review": "You really don't get much about SAS in his class. He is funny guy and you don't feel bored at his class, but actually he doesn't teach you SAS. Instead he takes time of class with many complicated and big formulas that it's not really necessary to know to be a SAS professional. He calls it \"wisdom behind SAS\", but actually he is teaching what he really knows (statistics theory), not SAS! and he gives questions about them at final exam, although he says that he doesn't ask about them. I agree with other people that he really doesn't answer you question about software.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2011-05-18T20:21:00Z"
+    },
+    {
+      "professor": "Benjamin Kedem",
+      "course": "STAT430",
+      "review": "Perhaps it's just been an off semester, but Kedem was neither approachable nor encouraging.  On the first day of class, he handed out the syllabus with his e-mail and phone number, then told us not to call or e-mail.  He also listed a half-hour long scheduled office hour, which he said no one ever goes to.  When questions were asked in class, they were often ignored, misunderstood, or magically hand-waved away.  Many times, the question of \"Can SAS do (such and such)?\" was met with \"I don't know.\" \r\nOn the plus side, Kedem is fairly humorous and entertaining.  He is also very intelligent.  His tangents about his research, though generally unproductive to learning SAS and well beyond the scope of the class, were interesting.  If you want to learn about statistics theory, Kedem is your guy.  Furthermore, (as someone else said) Kedem accepts late homework, which is nice.  (Be warned, however, that if this happens repeatedly by a majority of the class, he will attempt to retract this privilege.)",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2009-12-12T17:49:00Z"
+    },
+    {
+      "professor": "Benjamin Kedem",
+      "course": "STAT430",
+      "review": "Kedem is a really funny guy, and you actually learn a lot of stuff in his class. It also isn't difficult to get an A in the class, as long you put in the work. He can get a little carried away with proofs and his research sometimes, but hey, what math professor doesn't? Take 430 with Kedem.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2009-03-08T20:06:00Z"
+    },
+    {
+      "professor": "Benjamin Kedem",
+      "course": "STAT430",
+      "review": "Teaching: He mixes his lectures with both SAS programming and statistics and overall does a good job teaching the material. He is knowledgeable in the content topics and always encourages students to ask questions. He often go on tangents or talk about his research, but he always relate it to statistics. \n\r\nPersonality: Professor Kedem is pretty funny and approachable.\n\r\nGrading: Grading is not a big deal and accepts late homework/projects(even those that are weeks late). He doesn't treat you like kindergartens. If for example, you got a C on your midterm, and you received an A on your final. He'll give you an A.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2008-06-05T11:14:00Z"
+    },
+    {
+      "professor": "Emily Francis",
+      "course": "STAT430",
+      "review": "Terrible professor. Unorganized slides and consistently retroactively changes assignment questions after they have already been posted. Material is easy but the class is incredibly frustrating.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2019-05-04T19:56:25Z"
+    },
+    {
+      "professor": "Susan Mazzullo",
+      "course": "STAT430",
+      "review": "She is very kind and understanding, classwork is pretty chill for the most part...she now uses Zoom to conduct online lectures on Friday (as a way to practice coding in SAS), and uses Mondays and most Wednesdays (some Wednesdays we also have online lectures) for lectures. Her lectures are pretty dry though and the slides are very long, but she posts them on ELMS, so it has all the info you need.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2019-12-19T00:50:53Z"
+    },
+    {
+      "professor": "Ayushi Saxena",
+      "course": "STAT430",
+      "review": "Ayushi was an awesome TA. She is so smart and helpful with questions. I really like learning statistics from her so I would recommend taking her class.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2020-10-16T22:58:49Z"
+    },
+    {
+      "professor": "Christine Nickel",
+      "course": "STAT430",
+      "review": "Worst teacher I have ever met in my college life. Arrogant and selfish. Please take Susan\u2019s 430 if possible.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2021-04-01T23:19:56Z"
+    },
+    {
+      "professor": "Christine Nickel",
+      "course": "STAT430",
+      "review": "Great course and an easy A if you have any type of programming experience. Still shouldn't be hard if you don't have any coding knowledge either. She gives weekly homework and in-class assignments, both are easy variations of the examples in her slides. Fair exams too! Overall, a super kind prof that cares about her students.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2021-04-06T21:05:12Z"
+    },
+    {
+      "professor": "Susan Mazzullo",
+      "course": "STAT430",
+      "review": "I mean, I'm not even sure that anyone needs to review her anymore; absolutely phenomenal teacher and person. You almost have to try to get less than a B in her class. Not only is she a great grader but you'll actually learn a lot from her and she's a sweetheart.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2021-07-13T20:18:30Z"
+    },
+    {
+      "professor": "Susan Mazzullo",
+      "course": "STAT430",
+      "review": "I loved Susan's STAT430 class. Super nice, accommodating, and really easy, with extra credit. I learned a lot too! Absolutely take her if you can.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-07-16T19:00:03Z"
+    },
+    {
+      "professor": "Christine Nickel",
+      "course": "STAT430",
+      "review": "One of the best professors in the department. She makes her expectations for her class very clear and the lecture materials are thorough. Homework assignments and exams are very fair, and the final project is quite enjoyable. If you put in the work, you shouldn't get less than an A. Highly recommend for this class.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2021-12-17T21:55:11Z"
+    },
+    {
+      "professor": "Christine Nickel",
+      "course": "STAT430",
+      "review": "Very clear expectations for the class. Homeworks and exams are a reasonable difficulty. Everything you need to know is posted in slides.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-12-21T18:24:14Z"
+    },
+    {
+      "professor": "Benjamin Kedem",
+      "course": "STAT430",
+      "review": "I took this class in Fall 2021\r\n\r\nPros:\r\n+ Genuinely nice guy, really wants you to do your best. For example, on the final he will tell you exactly what each question will be on\r\n+ Gives extra credit for participation\r\n+ You can pretty easily convince him to push back some deadlines\r\n\r\nCons:\r\n- Speeds through SAS examples in class, you essentially need to learn SAS on your own. All in all focuses way more on statistical theory rather than SAS code, and the class is worse off for it. The class becomes much harder than it needs to be\r\n- The class has no sense of organization. Kedem may go over a concept for the whole class period and then go \"oh don't worry about that I'll never ask about that\" at the end. It's unclear how important each concept is\r\n- There is no online presence for the class. No ELMS page, no gradescope, nothing. This means the only way to know what is on each HW assignment is to ask Kedem, but if you forget, good luck. Additionally, HW assignments had to be handed in MANUALLY, ON PAPER. This was EXTREMELY annoying to most of us who did not have a consistent printing situation\r\n- There is no consistency as to when HW assignments are due. Some are due in 2 weeks, others in 2 days, you never really know\r\n- He is not the best lecturer, a lot of the time it's very unclear what he's going over",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2021-12-23T19:27:10Z"
+    },
+    {
+      "professor": "Christine Nickel",
+      "course": "STAT430",
+      "review": "STAT430 provides students with a background of statistics and coding in SAS. Nickel does a great job in class explaining the concepts and providing coding examples in class. The coding examples and very similar to the ones performed during the homework. The in-class assignments are mandatory and provide more examples and lets you also practice your coding skills. Make sure to review the concepts thoroughly for the exams as they test on a lot of material discussed in class. For the final project it is time consuming but not too difficult if you have payed attention in class.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2022-05-20T03:02:22Z"
+    },
+    {
+      "professor": "Hatice Sahinoglu",
+      "course": "STAT430",
+      "review": "Absolutely horrendous professor. STAT430 is supposed to be an easy A and straightforward, but her lectures are convoluted, homework assignments are poorly written and vague. If you try to clarify questions, she will simply say just read the question. Had her because the original professor got replaced by her. Avoid her at all costs.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2022-10-14T18:07:22.410901Z"
+    },
+    {
+      "professor": "Timothy Pilachowski",
+      "course": "STAT430",
+      "review": "This is for the Spring 2022 Semester despite the review date posted. \r\n\r\nPros: Online Exams, Posts all slides, He doesn't believe in +/-, so it's A from 90-100, B, C, etc. , \r\nCons: Online assignments due every week and homework, Gives a sample review guide for exams but no answer key (also will not go over the guide unless you ask him for the answer) \r\n\r\nWhen you ask a question about the content or don't know, he's the type of professor to respond with, \"What do you think the answer is?\" so if that makes you anxious, avoid him. \r\nHe's a bit condescending when clarifying concepts as well.  If you ask for clarifications for online assignments/projects, he responds with \"read the directions.\" and that's it.  The class itself isn't hard so I was able to get an A but I did not like the style of the professor.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2022-12-13T16:32:00.678586Z"
+    },
+    {
+      "professor": "Hatice Sahinoglu",
+      "course": "STAT430",
+      "review": "She is nice but is not the best professor in terms of teaching. Her lectures are boring. You will probably have to learn the material on your own. Her exams are sometimes on SAS and sometimes completely on paper. She releases homework on Friday morning and makes it due Saturday night. She does not give hw extension. The class itself is easy but due to the disorganized lectures, you might find yourself confused. Make friends and work on the projects together. Technically, the hw should not take more than 2 hours. But if you don't put some effort into learning on your own you might find yourself struggling a bit in the beginning. She only helps with hw during the class or in office hours. She does not respond to hw questions via email. There is also a group project at the end where you have to prepare a powerpoint and present to the class. \r\n\r\nThe one pro about her is that she is a generous grader.",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2023-01-10T21:25:28.104963Z"
+    },
+    {
+      "professor": "Timothy Pilachowski",
+      "course": "STAT430",
+      "review": "Took him for STAT430. While this professor does understand the material very well, lectures were very boring. There were a lot of assignments, especially online assessments which were assigned and were expected to be completed the same day, which is unreasonable. Many assignment instructions are hard to understand and decipher, making assignments harder than they needed to be. He doesn\u2019t really answer any questions and can be quite condescending.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2023-01-11T04:25:01.545387Z"
+    },
+    {
+      "professor": "Timothy Pilachowski",
+      "course": "STAT430",
+      "review": "The class is easy, so you can do well, but he is not a good professor. Nothing was graded the first 7-8 weeks of the semester. Then there was a mistake on the Canvas exam where 2 of the questions he misspelled the correct answer, and instead of just changing the correct answer, he made each person go individually to office hours and would change just their score then.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2023-05-08T16:52:59.672398Z"
+    },
+    {
+      "professor": "Tong Qi",
+      "course": "STAT430",
+      "review": "Great professor! She's very resourceful and makes the class easy while also learning stuff. Would take again.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-18T21:00:04.658135Z"
+    },
+    {
+      "professor": "Susan Mazzullo",
+      "course": "STAT430",
+      "review": "Makes this class super easy, all the answers are on her class notes and homework. The classwork and homework that you do just builds muscle memory for you to instantly do well on a midterm or final. Free a",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-07-03T23:20:28.318986Z"
+    },
+    {
+      "professor": "Susan Mazzullo",
+      "course": "STAT430",
+      "review": "Take this class if you want an A that is easier then breathing. All you have to do is come to class and the work that she gives out is so repetitive the process of everything will stick to your head like muscle memory. Every assignment is so easy, so if you put in the work, it literally translates to the quizzes and tests. There is only 1 midterm and a final and they are so easy. I straight up got a question wrong on my midterm and she said did you understand what you got wrong and gave me 6/10 points back. This professor clearly cares about teaching students rather then grading. One of the top stat professors in UMD for sure.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-07-09T05:40:40.842494Z"
+    },
+    {
+      "professor": "Hatice Sahinoglu",
+      "course": "STAT430",
+      "review": "I don't think she's terrible, but there are definitely some improvements that she can make. I'll start off with the positives. she's a very nice person and wants the students in her class to get an A. She will do homework problems in class and her grading is not so harsh. In terms of negatives, I think she can be disorganized and does not always post solutions to homework or the written notes. Her explanations for concepts are nothing crazy, but they get the job done i guess. However, I do think her homeworks are great review for tests, since the tests are just like the hw. Overall, if u put some effort into the class, you will be fine.",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2023-12-17T19:48:56.069664Z"
+    },
+    {
+      "professor": "Tong Qi",
+      "course": "STAT430",
+      "review": "Easy A",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-12-20T03:58:49.023331Z"
+    },
+    {
+      "professor": "Christine Nickel",
+      "course": "STAT430",
+      "review": "She is very good at teaching and her slides do a pretty good job of covering the materials. I felt the homework was a bit tedious, but more so because it's tedious to show your work from graphs, etc. from SAS. If I recall correctly, the two lowest homework and the two lowest classwork got dropped. There were extra credit opportunities for attending class and submitting work early. The expectations were clear.\r\n\r\nIf I were to nit-pick at anything, I felt that the exams were weighted a lot more than they should have (2 exams, 30% for each). This meant if you messed up on one of them, it could be difficult to recover. That being said, she had review sessions that more or less hinted at what was going to be on the exam. Also, if you pay attention in class, you'll do fine. Moreover, the other aspects of the class (Classwork, Homework, Final Project) are pretty much free points if you do the work.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-21T19:30:01.830959Z"
+    },
+    {
+      "professor": "Christine Nickel",
+      "course": "STAT430",
+      "review": "This class isn't hard, but she makes it so the grade mainly relies on exams. There are two midterm exams that are worth 30% each. This makes it so if you mess up one exam, you are pretty much playing catch up all semester. I would prefer if there is slightly more weightage towards homework and final project. There is no final exam, just a project.",
+      "rating": 4,
+      "expected_grade": "B-",
+      "created": "2024-05-16T02:17:57.971810Z"
+    },
+    {
+      "professor": "Susan Mazzullo",
+      "course": "STAT430",
+      "review": "A phenomenal professor. She is great at teaching us SAS, the assignments are clear, and the tests are fair. Take this course with her if you can.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-10-19T18:55:50.128043Z"
+    },
+    {
+      "professor": "Christine Nickel",
+      "course": "STAT430",
+      "review": "Honestly, this professor is extremely overrated. Her classes are late, and she's very rigid when answering questions. Her slides are very unorganized in my opinion, and she downplays grading concerns by saying that an unfairly graded homework assignment won't change your grade or whatnot. Her exams are heavily weighted and are not the easiest, and memorization plays a big part. The instructions on the homework are also very poor, and she doesn't hold office hours. She answers questions very late through email, so it's hard to get in contact with her outside of class. I don't recommend this professor at all for this class. The only upside is she sometimes lets you out of class early.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2024-12-09T14:33:25.889969Z"
+    },
+    {
+      "professor": "Christine Nickel",
+      "course": "STAT430",
+      "review": "Nice professor who makes a good effort to be accessible. Cares a lot about attendance and paying attention in class, so she made attendance part of the grade, and also heavily weighted the midterm and final (30% of the grade for each). Exams tend to have a few questions that are designed to trip you up, and often also drill you on specifics which can be a bit unfair. Overall, this class becomes tougher than it really should be.",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2024-12-17T03:46:39.537627Z"
+    },
+    {
+      "professor": "Tong Qi",
+      "course": "STAT430",
+      "review": "Does what a professor should do in a class, is easy and you learn what is necessary. Assignments are online.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-29T04:09:00.148161Z"
+    },
+    {
+      "professor": "Hatice Sahinoglu",
+      "course": "STAT430",
+      "review": "I'll preface by saying that Stat430 is a easy class in itself, but she just makes this class so much more confusing than it needs to be. She constantly messes up in lectures and asks her students what her error is or how to fix the code, she is always all over the place. On top of this, she posts the homeworks SO late, like sometimes on Wednesday when they're due on Saturday (she doesn't give a normal week to do it). She is also extremely rude and condescending, as I've went up to her many times to ask questions about content/homework and she doesn't support/do anything to help. She seems like just a very below average teacher. She is extremely smart, but does a horrible job teaching/lecturing.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2025-03-12T03:58:38.502120Z"
+    },
+    {
+      "professor": "Hatice Sahinoglu",
+      "course": "STAT430",
+      "review": "STAT430 is really a light class content wise. Its just a review of STAT401 + learning to do automate statistical tests using SAS. However, she makes it way harder than it needs to be. She is incredibly disorganized and sometimes doesnt release the weekly homeworks until late in the week. The first exam is incredibly simple (just basic SAS procedures), but the 2nd exam is incredibly disorganized and is way too long to cover in a 50 minute class. She also gives no partial credit for the SAS portion. She is not communicative at all and her lectures are particularly useless. She's not a bad person, but she isn't particularly understanding at all and can come across as very condescending when asking questions. Overall, this class is very doable. But she makes it way more painful than necessary. I'd say to avoid her if you can, but you'll live as long as you're prepared for the disorganization and will especially be fine if you have programming experience.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2025-05-16T18:56:58.318857Z"
+    },
+    {
+      "professor": "Hatice Sahinoglu",
+      "course": "STAT430",
+      "review": "Her sample exams are not a good representation of how actual exams are. Her exam 2 was very disorganised. It was no way a 50 minute exam. Her grading is also extremely harsh. The slides, HW and some exam questions are confusing and hard to understand. This is supposed to be an easy A class but she made it much harder. I have never gotten anything below a B in my entire college experience, yet I am close to failing this class.",
+      "rating": 1,
+      "expected_grade": "C-",
+      "created": "2025-05-23T17:17:46.957650Z"
+    },
+    {
+      "professor": "Hatice Sahinoglu",
+      "course": "STAT430",
+      "review": "I\u2019m not one to write reviews, but I have to say \u2014 I\u2019ve never taken a worse class than this one.\r\nPros: The professor genuinely cares about her students and is a very kind person. She often brings in cake and cookies to class and gives off a very sweet mom-like vibe. \r\nCons: Unfortunately, the way the class is structured made the experience incredibly stressful and frustrating. STAT430 is typically considered an easy course, but she made it unnecessarily difficult. The exam averages were a 34.5 out of 70 on Exam 2 and a 23 out of 60 on the final.\r\nWhat made things worse is that after grading Exam 2, the professor expressed disappointment in the class\u2019s performance. Honestly, if everyone is doing badly, it says more about the instruction than the students.\r\nCoding assignments are submitted through Canvas quizzes, where even a tiny error results in zero points. There is no partial credit, which feels unfair when your code is mostly correct.\r\nAdditionally, written exams often fail to accurately reflect the practice material, and lectures are frequently rushed, making it challenging to learn the material effectively. \r\nOverall, despite her being the sweetest and kindest professor I've ever met, she makes this class harder than it needs to be.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-05-24T06:21:01.943284Z"
+    },
+    {
+      "professor": "Christine Nickel",
+      "course": "STAT430",
+      "review": "Yeah I really can\u2019t say I\u2019m a fan of this professor. With her class times being so late it\u2019s hard to pay attention to what she\u2019s saying and reviewing the material is impossible cuz her slides don\u2019t cover everything, her exams are way too heavily weighted and they test you on stupid vocab that you haven\u2019t heard, she also doesn\u2019t give you any practice material for exams, and won\u2019t give you your exam back to see what you did wrong, I\u2019m sure she doesn\u2019t change them every year. Overall very disappointed with this class.",
+      "rating": 1,
+      "expected_grade": "D",
+      "created": "2025-05-24T11:15:14.018688Z"
+    },
+    {
+      "professor": "Christine Nickel",
+      "course": "STAT430",
+      "review": "Honestly she\u2019s fine; not the greatest not the worst. Pros: really cares about her students, is invested in your success, approachable and accommodating. Homework, in-class work, attendance, and the project were basically free points. Easy to get 100s. Extra credit opportunities that can make a difference.\r\n\r\nCons: exams are little more than rote memorization, the first exam was riddled with obscure questions buried on the slides. Way too heavily weighted at 30% for each exam. The slides themselves are a disorganized mess and need updating. The homework assignment instructions are even worse in this regard. The professor is clearly wayyyy too comfortable with the format she\u2019s set up and kind of goes through the motions in terms of teaching.\r\n\r\nEasy enough A or B for a 400 level UMD mathematics, but the class could use some retooling in general.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2025-05-24T13:35:24.130811Z"
+    },
+    {
+      "professor": "Hatice Sahinoglu",
+      "course": "STAT430",
+      "review": "horrible professor. her exams have almost nothing to do with lecture material and are unnecessarily hard and she is also very harsh on grading. Exam 2 and the final exam were extremely disorganized and everything about this class was just confusing and made way harder than it needed to be. For being a SAS programming class, I feel like I did not learn anything about SAS. There was also poor communication throughout the semester, we had no idea what our grades would be because of the poor averages on midterms and the final. This class was by far the worst class I have taken in my 4 years here.",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2025-05-24T14:05:43.652491Z"
+    },
+    {
+      "professor": "Hatice Sahinoglu",
+      "course": "STAT430",
+      "review": "Unfortunately, Dr. Sahinoglu made this class very confusing and stressful for no reason. The main issue is the exams. The professor would take the majority of points off for even the slightest mistake: the average for the midterm was 49%, and 39% for the final. We had practice exams, but she refused to provide the answer key for them and then proceeded to blame students for poor performance, saying it would be a \u201clesson\u201d to us. To get any feedback on sample exams, we had to email her our work. To her credit, she did give feedback, but it was inconsistent.\r\n\r\nThe coding part of the exams was ELMS quizzes, where you would get 0 points for the whole question if you rounded or provided more decimal places; no code was considered at all. Luckily, she provided the explicit instructions for the final.\r\n\r\nThe slides were of poor quality with confusing information and inconsistent formatting. At times, the lectures were confusing and lacked coherence. Unless Dr. Sahinoglu changes the class structure/grading, I would not recommend taking this class with her.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2025-05-29T21:08:14.717714Z"
+    },
+    {
+      "professor": "Christine Nickel",
+      "course": "STAT430",
+      "review": "She will treat you like a high school student and make the exams overly stupid and poorly graded. She will also keep you in class for no reason just so that you can see your exam and then proceed to spend the entire class yapping about nonsense and then not showing the actual exam. The class is also worthless in general as it teaches you how to use a language that no one has touched since the 2010 because everyone has migrated (expect for some legacy applications that are in the process of being phased out)! Would avoid this professor at all costs as well as this class.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2025-11-04T22:53:55.631129Z"
+    },
+    {
+      "professor": "Natalia Tchetcherina",
+      "course": "STAT430",
+      "review": "This class is pretty easy. Very low workload with only 4 homeworks and 7 labs. There are two midterms which also aren't hard and a final project that is a free A. Overall she's an OK teacher and will work with you if you have issue.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2026-01-30T21:54:59.069357Z"
+    },
+    {
+      "professor": "Timothy Pilachowski",
+      "course": "STAT430",
+      "review": "I'm not sure if things changed since the last time he taught this class, but I took him for stat430 this past fall and it was very easy. He gives you the option to watch his lecture videos instead of going to class, and all assignments, including exams, are done completely online. While he isn't the most enthusiastic lecturer, he does a fine job explaining both statistical concepts and SAS programming. On top of all this, it's only a 90 for an A (no +/-). The only downside is that there were a decent number of assignments, but none of them were particularly challenging, and neither were the exams. I'd absolutely recommend him over other professors teaching this class.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2026-02-04T06:34:23.150785Z"
+    },
+    {
+      "professor": "Christine Nickel",
+      "course": "STAT430",
+      "review": "- cares a lot about attendance \r\n- lectures usually end early\r\n- slides are all posted, but they're really long\r\n- weekly homework; it's not difficult, but annoying to do\r\n- not big fan of the exams",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2026-03-20T19:12:09.491253Z"
+    },
+    {
+      "professor": "Timothy Pilachowski",
+      "course": "STAT430",
+      "review": "Worst professor I've had here, very stubborn and moody individual. He is using twice times outdated SAS code, he is too old and stubborn to learn the modern code, so he teaches the obsolete stuff. He is vague on exams and rude when asked questions. Horrible communicator needs to acquire some patience or pick a new career. Very boring and redundant lectures. I HIGHLY recommend another professor if that is an option. HIGHLY.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2026-04-17T18:12:28.480902Z"
+    }
+  ],
+  "department": "STAT",
+  "course_number": "430",
+  "name": "STAT430",
+  "title": "Introduction to Statistical Computing with SAS",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> 1 course with a minimum grade of C- from (STAT400, STAT410).\nDescriptive and inferential statistics. SAS software: numerical and graphical data summaries; merging, sorting and splitting data sets. Least squares, regression, graphics and informal diagnostics, interpreting results.  Categorical data, lifetime data, time series. Applications to engineering, life science, business and social science.",
+  "is_recent": true,
+  "geneds": null
+}

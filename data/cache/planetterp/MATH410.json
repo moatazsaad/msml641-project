@@ -1,0 +1,1124 @@
+{
+  "average_gpa": 2.4935786802030457,
+  "professors": [
+    "Justin Wyss-Gallifent",
+    "Leonid Koralov",
+    "Denny Gulick",
+    "McBlaine Boyle",
+    "David Hamilton",
+    "Matei Machedon",
+    "Giovanni Forni",
+    "Swarnava Mukhopadhyay",
+    "Sandra Cerrai",
+    "Kasso Okoudjou",
+    "Charles Levermore",
+    "Michele Coti Zelati",
+    "Michael Laskowski",
+    "Benjamin Manning",
+    "Roohollah Ebrahimian",
+    "Hilaf Hasson",
+    "Christian Rosendal",
+    "Steven Chadwick",
+    "Jacob Bedrossian",
+    "Manoussos Grillakis",
+    "Kendall Williams",
+    "Elizabeth Wilson",
+    "Abner Salgado Gonzalez",
+    "Casey Cremins",
+    "Peter Nandori",
+    "Fei Wang",
+    "Richard Wentworth",
+    "Tobias von Petersdorff",
+    "Patrick Fitzpatrick",
+    "Samuel Bloom",
+    "Changguang Dong",
+    "Nathan Manning",
+    "Stefan Doboszczak",
+    "Terence Long",
+    "Xiumin Du",
+    "Archana Khurana",
+    "Xuemiao Chen",
+    "Antoine Mellet",
+    "Doron Levy",
+    "Eoin Mackall",
+    "Lei Chen",
+    "Huy Nguyen",
+    "Denny Gulick",
+    "Stefan Doboszczak",
+    "Denny Gulick",
+    "James Conway",
+    "Lei Chen",
+    "Manoussos Grillakis",
+    "Roohollah Ebrahimian",
+    "Sandra Cerrai",
+    "Shiferaw Berhanu",
+    "Stefan Doboszczak",
+    "Terence Long",
+    "Boyu Zhang",
+    "Denny Gulick",
+    "Manoussos Grillakis",
+    "Stefan Doboszczak",
+    "Tristan Buckmaster",
+    "Roohollah Ebrahimian",
+    "Roohollah Ebrahimian",
+    "David Hamilton",
+    "Fushuai Jiang",
+    "Hussain Ibdah",
+    "Manoussos Grillakis",
+    "Anna Szczekutowicz",
+    "Haizhao Yang",
+    "Anna Szczekutowicz",
+    "Hussain Ibdah",
+    "Rodrigo Trevino",
+    "Anna Szczekutowicz",
+    "David Hamilton",
+    "Huy Nguyen",
+    "Manoussos Grillakis",
+    "Arka Adhikari",
+    "Clarke Safsten",
+    "Jaime Paradela",
+    "Anna Szczekutowicz",
+    "Arka Adhikari",
+    "Clarke Safsten",
+    "Jenna Zomback",
+    "Kendall Williams",
+    "Manoussos Grillakis",
+    "Anna Szczekutowicz",
+    "Dong Quan Nguyen",
+    "James Conway",
+    "Kendall Williams",
+    "Panagiotis Dimakis",
+    "Andrew Senger",
+    "Aristomenis Papadopoulos",
+    "Arka Adhikari",
+    "Bogdan Zavyalov",
+    "Jaime Paradela",
+    "Kendall Williams"
+  ],
+  "reviews": [
+    {
+      "professor": "Denny Gulick",
+      "course": "MATH410",
+      "review": "Gulick teaches the concepts well. He emphasizes physical intuition, but he also is a stickler about definitions and proofs, which was annoying at first, but made me realize that I didn't understand the material as well as I had thought. \n\r\nHe also cares a lot about the students. He'll take the time to print out solutions to particularly challenging homeworks, and he'll have at least two review sessions for each midterm so everyone can make them. And this is on top of him working 80 hours a week.\n\r\nThe reason I'm giving him four stars might be a personal preference. He taught us like we were children. Some of the students liked it, but I didn't. It somehow made me take the class less seriously than I should have in the beginning and middle of the semester, so I had to work really hard for the final.\n\r\nHe also gives homework every class, which was both good and bad. The homeworks would each take 30-90 minutes to complete, so they weren't a time-suck. On the other hand, it was a bit annoying to do the homework so often.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2012-12-21T20:14:00Z"
+    },
+    {
+      "professor": "Denny Gulick",
+      "course": "MATH410",
+      "review": "I don't know why everyone loves Denny, but I know I do. Yes, he can be very entertaining, but it's also the fact that he is compassionate, in-tune with student concerns, and knows his stuff! I would not necessarily call him the best professor ever or possibly not even in the math department BUT he is certainly a great professor. I was literally jealous of 410 classmates who were able to be in 411 with him the following Fall because I had to take it over the summer. Luckily, I got to have him for 452, and for the most part, it was great as well.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2012-04-13T05:49:00Z"
+    },
+    {
+      "professor": "Denny Gulick",
+      "course": "MATH410",
+      "review": "410 is a great course to take as you will really start to understand what math is all about from it. Gulick is a good professor for this class. He definitely cares about students and tries to help you learn to the best of his ability. He gives a small   homework due each class, which gets pretty annoying, but it's good that it keeps you up to date with the material all the time. His exams can be tough, but they are pretty fair. The quizzes that he gives to enforce attendance are stupid, but they're not really a big deal in terms of your grade.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2011-11-21T23:20:00Z"
+    },
+    {
+      "professor": "David Hamilton",
+      "course": "MATH410",
+      "review": "I had Hamilton for 410, so this review probably won't be relevant for 100-level or 200-level lectures because of the differing class sizes/content/structure of the course. He was not terrible, nor was he terrific; he was satisfactory and nothing else.\n\r\nLectures: His lectures weren't particularly valuable. I always went since the course wasn't to be taken lightly, but the only time I ever found myself consulting what I had written down in lecture was when he solved one of the homework problems in class. Otherwise, I'd teach myself the material by reading the book/the notes he sent to us via e-mail(which he would do if he found the book to be too convoluted, but I often found his notes more confusing than the book).\n\r\nHomework: His homeworks were fair, just problems out of the book. I found that they took several hours in the beginning of the semester (like 4-5), but by the end of the semester, once I had gotten used to the course, they took about two hours. Just get a group of three/four together to work on them once a week and you should be fine. Do as many as possible yourself before that, though, or else you won't benefit from the homework, which was the only work outside of the tests.\n\r\nTests: The tests were designed so you could pass, especially the final. Basically, 30% of the test was true/false, two medium difficulty questions (20 % each), and one tough question (30 %, might be a choice between two problems). He also added 10 percent to the two midterms, just cause. The only way you didn't pass the class is if you REALLY didn't know your shit, so you should get through it the first time even if you struggle.\n\r\nAs far as his character goes: yeah, he's pretty arrogant, but the description two posts below is an unfair exaggeration. I found his personality tolerable. I heard rumors that he's a misogynist, but I never noticed him treating women any different than men. He's not the most personable person, but he's fair and lenient.\n\r\nAll in all, he's a solid professor, and if you can handle the course material, you'll get through it just fine.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2013-05-31T02:58:00Z"
+    },
+    {
+      "professor": "David Hamilton",
+      "course": "MATH410",
+      "review": "Professor Hamilton is a genius and knows analysis like nobody's business, but he has a difficult time communicating this knowledge to his students. In class, he works proofs very quickly in an extremely convoluted fashion that is generally impossible to follow. He makes plenty of assumptions and skips many steps in his proofs that make his lectures so incoherent that you almost wish you didn't go. \n\r\nAlthough he doesn't understand that the average MATH410 student isn't a bonafine genius, he is still very nice and pretty approachable to answer questions.\n\r\nFor Fall '09, the class was MWF at 2pm and was basically structured like this: Monday and Wednesday he would teach new material (i.e. go through proofs of basic theorums) and Friday he would go through any problems on the newest problem set that we had questions about (he would actually just do the problem for you, which was great), and that problem set would likely be due the following Monday. He does not answer many homework questions outside of class because he wants you to ask it during lecture so that everyone has a chance to hear it.\n\r\nThe class has 2 midterms, a cumulative final, 9 homeworks (highest one counts double), and two bonus homeworks if you choose to do them. You grade is the maximum of your homeworks&midterms grade, or your final exam grade.\n\r\nExams are VERY easy and test your basic understanding of the material. Homework is very challenging and you will likely need to seek help to complete it.\n\r\nOverall medium professor, but good enough for this class.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2012-09-23T00:10:00Z"
+    },
+    {
+      "professor": "David Hamilton",
+      "course": "MATH410",
+      "review": "Everything Musick Video has posted is a great summary of prof Hamilton and his 410.\r\nEven though his lectures were difficult to follow and he often went off on tangents his exams were so easy. The Friday review sessions were great and when prof Hamilton graded the hw he just glances and gives 10s. His grading system was also grade because you just need to secure an A before the final and only need a 50% on the final. It's very easy to get the A with the midterms and HW's and 2 bonuses. The final was a lot more difficult than the midterms, so don't plan on just getting an A on the final.\r\nGreat Prof for 410",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2010-01-04T16:46:00Z"
+    },
+    {
+      "professor": "Michael Jakobson",
+      "course": "MATH410",
+      "review": "Jakobson was truly disappointing to learn from. He came to lecture and scribbled down some notes while mumbling in broken english. He did not want any input from the class, nor to talk to any of his students. He clearly had better things to be doing, and it seemed like this class was at the bottom of his priority list. His proof methods are sloppy, and I have a feeling that if he were the grader the grades would have been fine, but that was not the case. Some grad student the class never met did 100% of the grading, and was ultra meticulous. He is a fine guy, but I would avoid his class at all costs. I ended up with my first D ever, completely to my surprise. I am however, looking forward to redeeming myself with a better professor. Just don't take it with him, flat out.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2011-07-25T15:55:00Z"
+    },
+    {
+      "professor": "Michael Jakobson",
+      "course": "MATH410",
+      "review": "Jakobson was completely useless in lecture. It's hard to understand him and he never was helpful when it came to the homework. HOWEVER, he is pretty generous when it came to grades. He drops 4 homeworks, gives some extra credit, and will round up your final grade.\n\r\nMay not be the best teacher, but you are more likely to get a better grade with him than some of the other professors. Teach yourself and do the hw with a friend and you will be fine.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2010-12-18T20:40:00Z"
+    },
+    {
+      "professor": "Leonid Koralov",
+      "course": "MATH410",
+      "review": "Great professor, he was very thorough. People complaining about him are simply angry that they didn't get a good grade, despite not understanding the material.\n\r\nExams were fair.\n\r\nDo your homework thoroughly, it's 410 that's what the class is about.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2016-10-03T21:56:00Z"
+    },
+    {
+      "professor": "Leonid Koralov",
+      "course": "MATH410",
+      "review": "Foreword: reviews complaining about \"spending way too much time on proofs\" are obviously from people who have no business taking a 400-level course in the math department; upper-level math /is/ proofs.\n\r\nSo, Leonid Koralov: Super-nice professor, always smiling, lots of office-hours, will always stay after to help you through a problem.  Reasonable homework assignments, though they edge on the lengthy side.  Very flexible re: late homework if you miss a lecture, which is refreshing.\n\r\nVery good lecturer.  None of the material in the course was at all difficult to understand if you showed up and paid attention in lecture.  All proofs done in satisfactory detail and explained lucidly.  He occasionally goes on tangents, but they generally cover material you'll see in subsequent courses and I've found that many of them were quite helpful.\n\r\nHe does assume a level of student competence with formal proof-based math in his lectures; if you are not yet comfortable with lectures consisting of definition -> claim -> proof -> repeat and little else, avoid.  If you are, you will find that he's one of the better lecturers out there.\n\r\nYes, he is a tough grader, but fair with partial credit.  Be sure to write your proofs cleanly.  Yes, his exams are fairly difficult (median grade was below 50% on both midterms, but most of this was due to many people in the class who simply were not ready to take a rigorous theory course).  Little-to-no curve, but he will bump your grade up if you put in a fair effort and show a good grasp of the material.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2013-10-04T00:07:00Z"
+    },
+    {
+      "professor": "Leonid Koralov",
+      "course": "MATH410",
+      "review": "He is definitely a nice guy, and has office hours three times a week (more than any other professor I've ever had).\r\nHowever, he does not curve at all, he barely gives partial credit, his exams are very difficult, and there were MANY people in the class who did not pass.  Furthermore, his specialty is statistics, so having him teach MATH410 was a strange decision on the part of the math department.  \n\r\nI don't recommend taking this particular class with him if proofs don't come easily to you.  He tries to help, but he is only partially effective at doing so.  ",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2011-02-25T20:07:00Z"
+    },
+    {
+      "professor": "Leonid Koralov",
+      "course": "MATH410",
+      "review": "Nice guy, but pretty much just writes the book on the board.  Although he usually makes some insightful comments which I usually found made it worth it to go to class.  I dunno if he was just out of his element teaching MATH410 since he had only taught STAT classes before.  He is a really smart guy, but a hard grader and no curve.  Everyone failed the first test, and a lot of people failed the second one.  \n\r\nHe does want to help though, he tries very hard to help, but he just can't.",
+      "rating": 2,
+      "expected_grade": "C",
+      "created": "2010-12-18T10:08:00Z"
+    },
+    {
+      "professor": "Melissa Macasieb",
+      "course": "MATH410",
+      "review": "What everyone said is mostly true. She makes tons of errors on the board, and at least for 410, she basically wrote the book on the board with little extra explanation. Sometimes she is helpful in office hours and other times she isn't depending on her mood. Just sit on her till she gives you a good enough hint. \n\r\nOverall, she was okay. Test questions came out of no where sometimes and you don't even see a glimpse of the difficulty of the test problems till the class before where she gives a practice exam, and those are never indicative to how the test will be. The first one was hard and the test was okay. The second one was easier and the test was impossible (average dropped 10 points), and the final practice test was ridiculous but the final was very easy. Go figure.\n\r\nIt's just a very mixed up class. ",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2010-05-16T16:55:00Z"
+    },
+    {
+      "professor": "Matei Machedon",
+      "course": "MATH410",
+      "review": "Dr. Machedon is a great professor! He is really nice and always approachable. It is clear he cares a lot about teaching, and enjoys congratulating students for getting certain problems correct. He teaches very well, and often presents material in a better way than the book. His tests tend to require true understanding of the material instead of memorization, though many questions are \"tricky\". The test averages for 410 were very low, but he understands this and curves the class fairly in the end. I would highly recommend him as a teacher. You will end up understanding the class material extremely well at the end of it all.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2012-12-19T21:07:00Z"
+    },
+    {
+      "professor": "McBlaine Boyle",
+      "course": "MATH410",
+      "review": "Boyle is a great teacher, the only problem I find is his exams.  I would say they are not truly fair.  He doesn't focus on the stuff that is most important or he asks stuff in a very strange way.  He is teaching 411 next semester and I was going to take it with him, but I know if I take it with someone else there will at least be a chance that I will get a B, maybe even an A.  I feel like with Boyle my grade would be a C.",
+      "rating": 4,
+      "expected_grade": "C",
+      "created": "2012-12-13T18:25:00Z"
+    },
+    {
+      "professor": "Charles Levermore",
+      "course": "MATH410",
+      "review": "He knows the topic really well. Lectures follow the class notes very closely, and homeworks are helpful for learning the material. One piece of advice for taking this class: the tests are similar from year to year. He has old tests posted on his website, so you should definitely use those to study.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2017-12-16T16:59:02Z"
+    },
+    {
+      "professor": "Manoussos Grillakis",
+      "course": "MATH410",
+      "review": "Grillakis uses the textbook so everything you need to learn in 410 is in the book. His class is droll but informative and he is very understanding about sickness and family matters. ",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2018-03-29T01:12:08Z"
+    },
+    {
+      "professor": "Sandra Cerrai",
+      "course": "MATH410",
+      "review": "I thought I\u2019d comment on prof Cerrai since I feel the reviews on this site are not accurate, except for kvsiddarth\u2019s review (there are some reviews on reddit which do a better job). I was weary of taking her this semester precisely because of the Ourumd reviews but her section fit my schedule perfectly so I decided to take her anyways. \r\n\r\nAnd she did an amazing job. You can tell that she knows her stuff, knows how to convey it to the class, and makes an effort to make sure that we understand and will repeat herself again if we do not. This is exactly what a prof is supposed to do. And not many upper level math profs do so unfortunately...\r\n\r\nSometimes she relates a concept to some other concept in mathematics helping you see the big picture. For those of us math majors this is incredibly useful and interesting. \r\n\r\nHer exams are not exactly a walk in the park but are not bad either. There are usually 2-3 questions that are extremely fair since they were covered in lecture and another 1-2 that are just random (getting these well depends on how well you know the material or just how lucky you are lol). But fair exams overall. She also curves. \r\n\r\nHomework is straight from the book. And there are solutions for all problems in the book everywhere so no reason why you shouldn\u2019t get 100 on them. \r\n\r\nSo if you\u2019re a math major serious about math I would definitely recommend her. And if you\u2019re a math major serious about math, and in particular, probability, even more so, since after all, its her field and she is very knowledgeable. So probs the best option for STAT410.\r\n\r\nI would def take another class with her if I could. ",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2018-05-18T00:30:46Z"
+    },
+    {
+      "professor": "Kasso Okoudjou",
+      "course": "MATH410",
+      "review": "Okoudjou is a fantastic instructor. He is very passionate and energetic during his lectures, which keeps students engaged. He is also very understanding of the difficulty of the course - while he did not make the course easy, he took time for group work in class to make sure everyone was really on the same page with the material. Would recommend.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2018-09-29T18:07:40Z"
+    },
+    {
+      "professor": "Manoussos Grillakis",
+      "course": "MATH410",
+      "review": "Not a great lecturer; talks really quietly into the board as he writes in his (truly impeccable) handwriting. He also is not good at communicating information effectively to the class. Probably the only good thing about his teaching is that he is somewhat helpful in office hours. Even so, he merely tells you the answer. He seems pretty uninterested in actually helping students get a deep understanding of the material. His exams are hard, not completely reflective of homeworks, and he is stingy with partial credit. He also maintained almost no contact with his grader, who sucked - didn't finish grading the last 2 homeworks before the last midterm or the final.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2018-12-16T04:39:11Z"
+    },
+    {
+      "professor": "Denny Gulick",
+      "course": "MATH410",
+      "review": "I just took Gulick's 410 class. Solid professor -- quite an old guy, you can tell he's been teaching the material for quite a long time and definitely knows his stuff inside out. \r\n\r\nPros:\r\n-- Lively/Quirky, easy to stay engaged in class, fairly clear lecturer\r\n\r\n-- Exams and grading seem to be considerably easier and more straightforward than other profs who teach 410 (just from talking to other students and looking at content of final exams). This is the biggest pro. \r\n\r\n-- Gives a lot of material to prep for exams. He gives out practice exams, reviews problems, as well as \"concept understanding\" problems for each chapter. Also, all his past final exams are on math test bank. \r\n\r\n-- Drops lowest two quizzes, and takes 50% of your lowest midterm\r\n\r\nCons:\r\n\r\n-- Goes through the proofs too fast for my taste.  Luckily, the the textbook he uses (Fitzpatrick) is well written and there to help.\r\n\r\n-- The biggest con: Assigns homework due every class period (MWF), that usually takes 30-90 minutes. I had a hefty schedule this semester so this was extremely annoying. I advise that you take Gulick's 410 with other low-workload classes\r\n\r\nSummary: All in all, a solid professor to take 410 with, and (from my observation) the easiest version of MATH410 to get an A or A- with if you reguarly attend class and put in the work.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2018-12-20T00:36:13Z"
+    },
+    {
+      "professor": "Charles Levermore",
+      "course": "MATH410",
+      "review": "LECTURES: Very organized, engaging, and useful lectures. He often goes into the history of math during the class, but does so in a beneficial way such that it completely integrated with the course content. He often expects class participation from people (not explicitly graded, but \"factored into the final grade\"), but is really good about getting students to \"think like a mathematician.\" The class often proved many of the largest theorems in calculus together, which helped with learning the material.\r\n\r\nI'd give a subscore of 5/5. Truly the best lecturer I had the semester I took the course.\r\n\r\nASSIGNMENTS: Levermore makes his assignments incredibly difficult in general. I normally spent ~8-12 hours each week on homework for this class (partially since I didn't know how to prove non-trivial problems before this course), but in general, they were very useful at building confidence before an exam. Levermore is very much a \"give hard homeworks, make the test easier\" kind of professor, but at the same time, some assignments were just so much harder than any of the tests we took that it was demoralizing at times. Thankfully, the assignments are not worth a large part of the grade overall, so it's alway spossible to half-ass an assignment and have it not do massive damage to your grade. (The 4 lowest homeworks get dropped at the end of the semester)\r\n\r\nI give a subscore of 4/5 -- Assignments were sometimes just too hard to be useful, and often took too long.\r\n\r\nEXAMS: Levermore gives 3 exams for his 410 class--two midterms and a final. The exams are largely easy since he recycles most of the questions on the exams from previous homework problems and previous exams in different years. This means that just with proper studying/memorizing, it's possible to get ~80% without understanding the material just by copying answers from previous exams. However, the logistics of exams is frustrating. Our first exam was returned in 3 weeks, which was a bit slow, but our second exam was a different story. We took that exam halfway through the semester, and got the grades back the night before the final, nearly 1.5 months after the test. While the logistics of regular homework assignments was well done (usually given back within a week), the exams were graded directly by Prof. Levermore, which caused significant problems.\r\n\r\nSubsection score: 3/5 -- For really bad logistical errors made with grading\r\n\r\nOVERALL THOUGHTS: Definitely one of the hardest, yet most rewarding math classes I've taken here. I'd recommend taking MATH410 with him if you're interested in a challenge, and willing to put large amounts of time understanding the material.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2018-12-24T04:29:19Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "MATH410",
+      "review": "I've had Justin for MATH241, MATH401, and MATH410. He's been incredible for all three. He is such a nice guy and simply knows how to each. He also runs his classes in a professional, organized fashion. His expectations are always very clear and his willingness to help students is unparalleled by any other professor I've had at this university. He seems to always know exactly what students are thinking. Because I've had him for three classes, I've seen how he adapts his style to best suit different types of classes. Especially for MATH410, where the material gives students a lot of trouble, Justin is so good at explaining things clearly and patiently.\r\n\r\nI cannot even fathom the notion that there could be a better professor on this campus than Justin.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2019-04-14T23:24:54Z"
+    },
+    {
+      "professor": "Nathan Manning",
+      "course": "MATH410",
+      "review": "Cool guy, very prepared for lectures, follows the book. I really wanted to like the class but toward the end I was just worrying about grades instead of actually enjoying the contents, so that wasn't great... (the final mark was horrible indeed). the content is not hard but I felt like I didn't grow in the right direction. The homework problems didn't provide too much intuition of what we should be doing -- even though most of the times I did all the exercises without much difficulty I still couldn't get the big picture.",
+      "rating": 4,
+      "expected_grade": "C+",
+      "created": "2019-09-01T15:29:28Z"
+    },
+    {
+      "professor": "Nathan Manning",
+      "course": "MATH410",
+      "review": "Great dude and great lecturer. Exams are pretty fair, a lot of homework. He tried not to show his disappointment for our class, but you could tell that he thought we were all idiots.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2019-10-18T15:42:47Z"
+    },
+    {
+      "professor": "Leonid Koralov",
+      "course": "MATH410",
+      "review": "He is a very nice professor. He is good at explaining things and he is pretty much always available as scheduled to entertain questions. He is very smart (he solved a question I was pondering for a week in around 30 seconds). \r\n\r\nAdmittedly, he does \"teach out of the book\", in the literal sense: his lecture preparation consists of opening the book where we last left off and then lecturing some more. His exams are fairly difficult, but his grading for them is lenient if you demonstrate understanding of how to solve the problem. I also think his discussion on the beginning of the book (field axioms and natural numbers) was way too slow. \r\n\r\nOverall I would recommend him. For students who struggle more with the material I might not recommend him. For students who want their 410 experience to be extra spicy I would recommend Levermore instead.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2019-12-10T01:55:51Z"
+    },
+    {
+      "professor": "Changguang Dong",
+      "course": "MATH410",
+      "review": "Nice enough guy, but a poor lecturer. Lenient homeworker grader, but harder on exams. Lots of homework problems each week. Exams are extremely difficult. Teaches directly from Levermore's notes.",
+      "rating": 2,
+      "expected_grade": "C",
+      "created": "2019-12-12T02:07:10Z"
+    },
+    {
+      "professor": "Jacob Bedrossian",
+      "course": "MATH410",
+      "review": "Professor Bedrossian is an amazing teacher. He wants students to succeed, and provides many opportunities to do so, from posting exam review guides, pointing out which type of questions and concepts will be on exams, and posting where students can get assistance from other faculty or students if they cannot make his office hours. He made a hard class seem, if not easy, then at least doable. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2019-12-23T21:12:29Z"
+    },
+    {
+      "professor": "Jacob Bedrossian",
+      "course": "MATH410",
+      "review": "Great lecturer, but exams are hard.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2019-12-25T17:18:21Z"
+    },
+    {
+      "professor": "Leonid Koralov",
+      "course": "MATH410",
+      "review": "He strictly follow the book in his lectures. Lectures are helpful, but is the same as reading the book yourself. \r\n\r\nHis exams are difficult with little curve, it's usually the case that you can't complete the exams on time. The grade cutoffs are rather low, but not cover up the difficulty of the exams. If you know the material well but don't have time to finish exams, midterms are extremely horrible while final is fine.\r\n\r\nHe is extremely nice and knowledgeable, and he is very careful and serious as a mathematician(I guess).\r\n\r\nHints: some midterm problems are similar to past final exams, don't wait till the end of semester to study them. I saw many problems about Mean Value Theorem, seems like he like it very much. I saw a problem on exam about Darboux Theorem (you can solve it with MVT, but very hard), you can try that. ",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2020-01-28T17:04:05Z"
+    },
+    {
+      "professor": "Leonid Koralov",
+      "course": "MATH410",
+      "review": "He is a good professor. Usually he is available as scheduled so that you can ask him questions. Usually, his exams are somewhat on the difficult side, but he is a fairly forgiving grader.\r\n\r\nIt might be that he doesn't prepare the class with the problem solving skills to do the problems in the exam (as in our section over half the students ended up dropping the course). So his course is somewhat sink or swim. However, for 410 his cutoffs are very generous (85+ for at least an A-).\r\n\r\nOverall I would recommend him to others looking to take this course.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2020-02-03T22:23:53Z"
+    },
+    {
+      "professor": "Xiumin Du",
+      "course": "MATH410",
+      "review": "She is the most prepared lecturer I've ever had in a math class. Super smart and can always answer questions in office hours. totally fair grader.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2020-05-15T19:04:26Z"
+    },
+    {
+      "professor": "Xiumin Du",
+      "course": "MATH410",
+      "review": "Super clear explanations and great resources. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2020-05-16T00:01:44Z"
+    },
+    {
+      "professor": "Xiumin Du",
+      "course": "MATH410",
+      "review": "Professor Du is a great professor. She comes to class with very organized and structured notes, which she then posts after each class so if you miss a day you won't be behind. However attending class is still beneficial because she doesn't just mindlessly write the notes on the board, she explains them as well, especially the more complicated proofs.\r\n\r\nHer lecture is very structured as well. She presents a definition, then a theorem, and then a proof, in that order. So if you like an organized prof you'll like her. \r\n\r\nThe homework is hard but prepares you for the final and you have one homework a week (but it takes about 2-4 hours generally so it's best to not do it last minute). I got a 100% on the first midterm and a 66% on the final, so it's definitely a tough final (average on it was 55%) but she curves the class accordingly (86% for the class got me an A).\r\n\r\nMath 410 is a very hard class and likely the first tough proof based math class you'll take at UMD. And I think taking professor Du is very beneficial if you plan to take more rigorous proof classes. \r\n\r\nAlso she has a very easy to understand accent so don't worry about that either.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2020-06-04T17:34:19Z"
+    },
+    {
+      "professor": "Leonid Koralov",
+      "course": "MATH410",
+      "review": "Above average. Besides reading from the book, he only gives slightly different proofs. He gives a lot of homework. His exams are difficult, especially the midterms, because of a shortage of time. The final is easier, with double time and 1.5 times as many questions as midterms. \r\nA difficult question in midterm 1 is similar to a homework problem. Another difficult question in midterm 2 is related to the Darboux theorem (which is not included in the textbook).",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2020-07-29T01:03:26Z"
+    },
+    {
+      "professor": "Denny Gulick",
+      "course": "MATH410",
+      "review": "I highly recommend taking a course with Gulick if you can. He's a super nice professor and loves to teach his class, and as others have said he has a very quirky personality, which I think is a huge benefit to keeping the class interesting. Additionally, I've always had no problem reaching out to him for help as he's quite welcoming and never once was condescending towards any questions I had, regardless of how silly they may have been (something that unfortunately can't be said about many of my previous math profs). I agree that the way he runs through proofs in class can be a bit too fast sometimes, but going to office hours has helped with that along with going through the textbook while doing HW. While the homework definitely becomes a pain in the a** as the semester goes on its definitely a helpful way to keep you on track and in my opinion is better than having a few major assignments as it gives you a little bit more leeway in the event you forget to do an assignment or submit it late.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2020-09-16T14:58:10Z"
+    },
+    {
+      "professor": "Jacob Bedrossian",
+      "course": "MATH410",
+      "review": "A very knowledgeable guy and a great lecturer",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2020-09-23T15:37:44Z"
+    },
+    {
+      "professor": "TBA",
+      "course": "MATH410",
+      "review": "This professor appears to be teaching half the courses/sections at UMD, but then magically disappears and gets replaced by some terrible professor! But on very rare occasion, when the stars align and Testudo rises, the legend Justin will replace Dr.TBA.\r\n\r\nOverall, any class that Dr.TBA is teaching will be replaced by someone else, so unless you think it'll be Justin, it's probably better to opt to taking a different professor.",
+      "rating": 1,
+      "expected_grade": "W",
+      "created": "2020-12-13T01:44:29Z"
+    },
+    {
+      "professor": "Patrick Fitzpatrick",
+      "course": "MATH410",
+      "review": "He made some errors but not as bad as some other reviewers claim. He's also a very generous grader. I felt like his office hours were much more helpful than going to class, but some of his lectures were quite helpful for the denser material. I would recommend reading the material a day or two in advance that way you know what to expect. Also if you email him ahead of time he with questions he'll give a bit of extra time towards it in class. If not for technical limitations I would take another course taught by professor Fitzpatrick.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2020-12-23T23:57:21Z"
+    },
+    {
+      "professor": "Charles Levermore",
+      "course": "MATH410",
+      "review": "Very knowledgeable in the field. He breaks up his very math heavy lecture with interesting historical anecdote that puts into perspective the depth of the work well. His homeworks are quite difficult and tedious, but he lectures well and is very available for help.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2021-01-26T19:31:56Z"
+    },
+    {
+      "professor": "Charles Levermore",
+      "course": "MATH410",
+      "review": "Great professor. I\u2019d definitely recommend taking 410 with him, it really improved my ability to do proofs. Levermore knows a lot about math and its history which makes lectures interesting. He also provides super detailed notes. He is very helpful in office hours.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2021-02-01T16:03:14Z"
+    },
+    {
+      "professor": "Steven Chadwick",
+      "course": "MATH410",
+      "review": "Highly recommend any math class with Chadwick. As everyone knows, 410 is one of the hardest math classes at UMD but its really manageable with Chadwick. He explains concepts well and his exams, homeworks, and quizzes are really straightforward. He's also really flexible about extending due dates if you need more time on a homework",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2021-04-29T18:31:15Z"
+    },
+    {
+      "professor": "Stefan Doboszczak",
+      "course": "MATH410",
+      "review": "The best math professor I've ever had, even better than Justin. I was prepared to take what all my friends have called the worst math class for a math major and understood everything he went over. He always answered the questions that students had in lecture and also had very generous curves. Take him for anything you can.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-06-22T22:00:09Z"
+    },
+    {
+      "professor": "Lei Chen",
+      "course": "MATH410",
+      "review": "A little disorganized in lectures, so there is maybe a 30% chance you will not know what she is talking about in class. She always answers questions, so if you are confused ask her a question. Her office hours are much more helpful than the average professors office hours. The homework's are pretty difficult, but as long as you can do her exam reviews, the tests will not be hard at all. She genuinely does not want anyone to fail the course. Her whole motto is that MATH410 is for learning, not failing so as long as you can show that you have learned material, you will pass. The 10% curve at the end was also helpful. Not the best, but far from the worst. ",
+      "rating": 3,
+      "expected_grade": "B-",
+      "created": "2021-12-20T18:06:46Z"
+    },
+    {
+      "professor": "Stefan Doboszczak",
+      "course": "MATH410",
+      "review": "Fair exams and good lecturer. Highly recommend him!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-12-21T04:45:00Z"
+    },
+    {
+      "professor": "Denny Gulick",
+      "course": "MATH410",
+      "review": "MATH410 is regarded as one the four toughest math classes at UMD. However, Denny does a fantastic job at teaching the course and makes the material much more straightforward compared to MATH310. There are 3 homeworks each week and a pop quiz. While this is a pain it keeps you on track for the course as there is a lot of definitions, theorems and arithmetic to learn. The quizzes are usually very easy and ask to state a theorem/definition (the ones he stars in class), a 2 sentence proof or basic arithmetic. The exams are 5 questions each with 2 parts and can be a time crunch but are manageable as well. He will ask you to state theorems/definitions (again the one he stars), arithmetic and more in-depth proofs. In general he takes half of your lowest midterm, drops 1-2 quizzes and does a curve at the end of the semester, midterm averages are in the 70's. In order to succeed in this course memorize the theorems/definitions as well as how the proofs work and you can get at least a B. This class can seem very daunting to math majors but Denny does a great job at teaching it.",
+      "rating": 5,
+      "expected_grade": "C",
+      "created": "2021-12-30T09:16:12Z"
+    },
+    {
+      "professor": "Denny Gulick",
+      "course": "MATH410",
+      "review": "I loved Denny and his attitude. He makes the class fun. Weekly pop quizzes (usually on Fridays) and homework due every class. Sometimes the homework can be hard, so find a study group! Mine got me through some tough homework problems. Memorize and understand the major theorems he teaches-- he calls them one, two, and three star theorems, ranging in importance. Quizzes usually ask for these theorems, or a definition, or a T/F question, or an easy computation problem. Memorize these theorems, please. I didn't do well on some quizzes due to sheer laziness in not studying except for exams. Totally my fault here-- he really makes these quizzes easy, honestly. He gives old exams to study with a few days before an exam, but if you ask him to share them earlier, he will. His exams are very similar to old ones-- usually the same ideas are tested, and there's usually one or two problems that are the same as the old exam, just the numbers or function is changed. He also hosts review sessions before each exam, which is nice. Do go to these, he will answer all your questions and do as many proofs as you ask of him.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2022-01-01T22:41:50Z"
+    },
+    {
+      "professor": "David Hamilton",
+      "course": "MATH410",
+      "review": "He is overall a good professor. He doesn't really know how to break the material down for others to understand and only explains the way he knows best. If you go in for office hours that is where you'll be able to understand everything because he breaks down the proofs even more (showing more steps).\r\nI remember there being about 3 questions on the midterms and they are kinda like hit or miss. If you get 2 questions completely right then you pass the exam. His exam reviews are helpful in a sense because it is set up just like the exams. All in all, if you pass 2 exams you basically pass the class. There is also a huge curve but I'm sure that is only if he sees that you are really trying to understand the material. ",
+      "rating": 5,
+      "expected_grade": "C",
+      "created": "2022-01-06T17:07:59Z"
+    },
+    {
+      "professor": "Manoussos Grillakis",
+      "course": "MATH410",
+      "review": "Certainly not the greatest professor I have had but I found him to be better than what most of these other reviewers described. First of all he is very generous with his curve with 85% being an A-, 70% being a B- and 55% being a C- on top of dropping 1/8 HW\u2019s and 1/3 exams. The exams were not crazy difficult with a lot of problems being very similar to either the hw or the (ungraded quizzes he gives out). The final was extremely easy too in comparison to the exams. His lectures are definitely the worst part however. His handwriting is good and his accent is pretty mild in my opinion but he tends to go on tangents and can be pretty confusing. For the homework I felt I had to teach myself from the book and learn from online resources often as I had not learned from class. It\u2019s definitely a doable class though and if you put in a reasonable amount of time then you should be able to get a decent grade with the aforementioned curving.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2022-05-17T07:44:48Z"
+    },
+    {
+      "professor": "Stefan Doboszczak",
+      "course": "MATH410",
+      "review": "My favorite professor at UMD. you can tell he's very smart and really loves math, and is always great at explaining material. he's also super approachable and loves answering questions. homeworks are fairly challenging but if you just pay attention in class and takes notes you'll be fine (he grades most of the hard problems for completion anyways). exams were fair and individually curved as needed. 100% take him if you have a chance for any class",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-05-19T01:41:29Z"
+    },
+    {
+      "professor": "Denny Gulick",
+      "course": "MATH410",
+      "review": "Although MATH410 is believed as a tough course for Math majors, I had really good time in the class. Prof. Gulick is very sweet and friendly. He makes all the things straightforward and tries his best to make everyone to understand. Reply to email super quick and always be willing to help. The old exams are useful, my suggestion is to do all the old ones before your exam. And remember all the important ideas in his notes. The notes are fantastic!\r\n\r\nI really appreciate his work. After his class, I gained my confidence back and enjoyed the beauty of Math.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-05-20T18:16:03Z"
+    },
+    {
+      "professor": "David Hamilton",
+      "course": "MATH410",
+      "review": "He isn\u2019t bad at all. He just speaks to the class as if we all know exactly what he\u2019s talking about. He is helpful and will help pass you if you put in the work by going to office hours. During office hours he breaks everything down for you. You have a 70% chance of passing his class if you show up, attend office hours, and try your best.",
+      "rating": 4,
+      "expected_grade": "C+",
+      "created": "2022-10-13T18:35:24.268328Z"
+    },
+    {
+      "professor": "Denny Gulick",
+      "course": "MATH410",
+      "review": "Professor Gulick is amazing! He is a clear, funny, organized lecturer. He is very knowledgeable and passionate, which always helps. I had always heard of 410 as a nightmare course for math majors, but it was honestly not bad at all for me with Professor Gulick. I obviously still had to work hard, but his homework and exams were very fair and doable from reading the textbook and attending lecture. He always holds review sessions for the exams and takes any questions that students may have. He is very sweet and accommodating and it is clear how much he cares for his students.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-11-02T15:30:13.548730Z"
+    },
+    {
+      "professor": "Lei Chen",
+      "course": "MATH410",
+      "review": "Goated in the sauce, for different reasons than being a good prof. As the other reviews may say, she is disorganized and doesn't really seem to plan a lecture, so some lectures are not very easy to follow. She also likes to offhandedly mention a lot of comments on the proof instead of doing them, which are pretty confusing unless you have selective hearing. However, she's nice and gives some genuine help in OH, where if you have a particular question on homework or about a comment in the textbook, she is pretty smooth about answering it. The TA graded homework somewhat roughly but that's to be expected given the upper level nature of the course.\r\nThe real thing she provides is that her reviews are almost essentially the exam itself. If you can do confidently finish the reviews for each exam, they will more than prepare you for the exam. Additionally, she's very lenient about the nature of proofs, where as long as you can explain reason even without being rigorous, you can get a lot of the partial credit for each problem. This is enhanced even more by the fact that she has 10 extra points for midterms, giving even more Leiway. The means on the first midterms for our quarter are at least 80%, so this made 410 a much more bearable experience for me.\r\nTL;DR Lei Chen for 410 is a very solid option and it wouldn't be bad to try taking her for this course.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-12-09T00:21:07.281893Z"
+    },
+    {
+      "professor": "Lei Chen",
+      "course": "MATH410",
+      "review": "I will try to keep this review short, as the other reviewers can sum it up. Her lectures could be better and could do some work. Reading the respective section of Fitzpatrick beforehand was necessary to gauge her lectures well, as they often seem unplanned, and the proofs sometimes seem hand-waved. I wouldn't say she's a bad lecturer, just that the proofs done in class are not always done with full rigor, and the additional commentary can [sometimes] make the lecture hard to follow, which is why I stopped showing up to the lecture after a while. \r\n\r\nHomework can be quite difficult. However, she's extremely helpful and super approachable during office hours and will answer any question with full rigor and critique proofs quite well. I found her to be quite a nice person in general as well, apart from just the subject matter being discussed. She does an excellent job of easing students into theoretical mathematics and is quite lenient with grading exams - full rigor is only sometimes expected, even for full credit. There are a lot of extra credit opportunities and a curve, which makes it easy for the final grade to be indicative of your actual understanding of the course content at the end of the course, and she drops quizzes and the lowest exam. As another reviewer here mentioned, the exam reviews are close to the exams themselves, and even the extra credit questions are not of unreasonable difficulty, warranting relatively high-class averages. If you can understand all the homework problems and do the reviews, it is quite fathomable to score a minimum of a B in the class and an A with some extra studying.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-12-12T23:50:15.289917Z"
+    },
+    {
+      "professor": "Stefan Doboszczak",
+      "course": "MATH410",
+      "review": "Had the opposite experience as others. This class is statistically known to be the HARDEST class for math majors by far. From my experience, he would always leave proofs half written and have students figure it out on their own, and sometimes he would look at his own proofs and find small errors. Before exam day, students requested he go over the whole practice exam for review since it would be great knowing the difficulty of the material, but he simply refused.",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2022-12-16T19:30:30.863850Z"
+    },
+    {
+      "professor": "Roohollah Ebrahimian",
+      "course": "MATH410",
+      "review": "challenging, but a great professor. had him for 341 last semester, but didn't get around to reviewing until now. \r\nhis weekly quizzes are mostly reiterations of the homework, and so are free points. \r\nbut you're going to need those points, as exams are quite hard (but fair), along with homeworks and study guides. if you do well on the homework and study guide, the exams are just like those. you'll walk out of the class really understanding the material he teaches you. if you just wanted an easy a...find someone else. \r\nalso, his class is very well-organized. notes are posted online, and his \"drop one exam for the final\" is merciful, since the final has an extra credit question.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-12-18T05:51:48.523101Z"
+    },
+    {
+      "professor": "Roohollah Ebrahimian",
+      "course": "MATH410",
+      "review": "One of the best math professor. He has weekly quiz, even sometimes stressful, but do force you to learn. He totally understand the fact that not every math major really like math and good at math (doing new problem during exam) so he give study guide for every exam and the exam questions are basically come from the study guide.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2022-12-21T20:46:02.923916Z"
+    },
+    {
+      "professor": "Shiferaw Berhanu",
+      "course": "MATH410",
+      "review": "You will pass his course if you are able to master the topics and write solutions exactly how he says. This means working harder than you think you should. The only way you can pass is to study every single day, and practice problems everyday. I mean it - do not ever skip studying. He does not give partial credit. He is not a generous grader. So if you write a solution that is technically correct but somehow missing a minor point or two, he will give you a zero. He will accept only a perfect solution. He has a hard time connecting with students. He does not care about anything you tell him. He will only care about your perfect solutions on a test. If you are a genius and you enjoy a challenge, this is the right professor for you. He is very knowledgeable and enthusiastic about the topics in this class. But if you are not a genius and have to work hard for it, turn away. You will have a hard time in this class because he has no problem in giving out zeros. The exams are fair sometimes, and sometimes harder. Like I said, if you are naturally a gifted mathematician, you will do just fine. This professor is not for all types of students.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2022-12-22T15:57:23.496903Z"
+    },
+    {
+      "professor": "Roohollah Ebrahimian",
+      "course": "MATH410",
+      "review": "This course was legit one of the most challenging math classes I\u2019ve ever taken in my life. However, having Ebrahimian teach it made it significantly more understandable. I would say Ebrahimian went above and beyond in terms of listening to his students\u2019 requests and working his hardest to make sure we had what we needed to succeed. An incredibly knowledgeable lecturer, as well as a fast grader, Ebrahimian graded all of our assignments in a prompt, timely manner and even went as far as grading our second midterm within a day to give us time to decide whether or not we wanted to withdraw before the withdraw deadline. Never have I seen a man be asked a question and simply go to town on the blackboard and answer it concisely and understandably within a few minutes. He even dropped an extra quiz and homework for us at the end of the semester! 10/10 would recommend.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-12-23T18:42:13.516850Z"
+    },
+    {
+      "professor": "Roohollah Ebrahimian",
+      "course": "MATH410",
+      "review": "Dr. Ebrahimian is a very good professor. He explains the concepts so well; even though his course is very challenging, he made it manageable. He gives us study guides before exams, and his exam problems are similar to  (almost the same as) the study guide. He has hw and quizzes every week which helps us learn a lot. He tries his best to help us understand the material. Highly recommend him!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-12-23T19:57:21.748995Z"
+    },
+    {
+      "professor": "Shiferaw Berhanu",
+      "course": "MATH410",
+      "review": "Tough, difficult, many students dropped",
+      "rating": 1,
+      "expected_grade": "F",
+      "created": "2023-01-19T20:10:26.637190Z"
+    },
+    {
+      "professor": "Shiferaw Berhanu",
+      "course": "MATH410",
+      "review": "Too hard, bad grader. Take anyone else but him\u2026",
+      "rating": 1,
+      "expected_grade": "F",
+      "created": "2023-02-09T19:18:46.941140Z"
+    },
+    {
+      "professor": "Shiferaw Berhanu",
+      "course": "MATH410",
+      "review": "A difficult professor. He deducts points for everything. For each question, you receive a score of 0 or 100%. He does\u00a0not give\u00a0partial credit for your good attempts. He is a very self-centered individual who simply wants you to know that he is knowledgeable about the subject. His teaching is so boring that he does not allow you to ask questions. He gets mad at students who ask a question and stops them while they are asking question. He will make you feel your question is silly. I highly recommend you to register for any professor other than him.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2023-02-09T19:23:01.750806Z"
+    },
+    {
+      "professor": "Denny Gulick",
+      "course": "MATH410",
+      "review": "One of the most organized and thorough professors I've had. Genuinely one of the best math courses I've taken thanks to Denny! Even at his age, he is still very sharp and knows what he's talking about. It was hard to follow him in lecture sometimes but his note sheets were amazing and picked up for any gaps in knowledge due to his teaching. His exams were fair, homework was well picked, and quizzes were fair. He was also very approachable during office hours and a very sweet old man. It's sad that he is no longer teaching after this semester, but it's been an honor to have been one of his last students.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-17T04:30:04.143962Z"
+    },
+    {
+      "professor": "Manoussos Grillakis",
+      "course": "MATH410",
+      "review": "Like another reviewer mentioned, grading is done so 85% is an A-, 70% is a B- etc. His exams are hit or miss, some of the questions are similar to the hw but others are kinda wonky. Grading is also hit or miss too, he seems to take the same amount of points of if you make a large or a little mistake. Lecture's are subpar, didn't really learn much from them, which made the hw tedious. If you can teach yourself the material for 410, I guess you'll be okay, but if there's a better option go for that...",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2023-05-18T03:45:49.088611Z"
+    },
+    {
+      "professor": "Boyu Zhang",
+      "course": "MATH410",
+      "review": "I took this class in the fall of 2023 - Boyu's first time teaching MATH410. The class initially started off with high hopes, but as more time passed by, it was understood that this class would basically be impossible. The grade split was 20% homework (essentially completion/how much you tried), 25% for each midterm (there were 2), and 30% on the final. Homework was weekly (even on the week of tests). \r\n\r\nBoyu's teaching was very fast-paced, however, he was good at answering questions and clarifying concepts when needed. However, there would be no review of past sections/theorems every class. Once the topic introduction had passed, you were expected to be an expert in it and recall the definition and be well versed in it. This class covers a lot of dense material in a very short time, and other is no forgiveness for the student who falls behind even the slightest amount.\r\n\r\nExams (in theory) were nicely formatted - 75% (3/4 questions) of exams would be directly from the textbook. This sounds nice until you look at the textbook. It is almost unreadable at times, unreasonably dense at times, and often steps are skipped. Furthermore, no solutions were ever given to homework or textbook problems. To get solutions to a specific problem you would have to go to his office hours or send him an email - something that isn't feasible for 300+ textbook problems. Often, we had to resort to trying to find half solutions online and working off of those (we didn't understand them well at all). Giving a practice exam with similar types of problems to the exam coming up would be much better. The lack of clear solutions and explanations to practice problems makes this almost impossible to do. When asked about this at the start of the course, Boyu responded \"Well its a proof. You will know if your proof is correct or not\". This doesn't make sense and just isn't true.\r\n\r\nThe averages of the exams went 64%, 49% and the average of the final was 47%. Apparently, these averages were \"good\" according to Boyu. The saving grace in this class was the curve. 75-95 A, 65-75 A-, 63-65 B+, 58-63 B-, 53-55 C+, 49-53 C, 40-49 C-, <40 D/F. Boyu is one of the instructors that believes that the curve is necessary, and would rather curve the class at the end rather than give easier/better exams. Essentially, to see how you're doing in the class, just see how you are doing compared to the average.\r\n\r\nOverall, I would not recommend taking this class with Boyu unless it really is your only option or you are already a genuis at real analysis (then this class review shouldn't matter to you). It is not a simple or straightforward class, and the only way to do well is to spend 10-15 hours outside of class every single week understand the concepts by yourself and trying to solve textbook exercises. How will you find the answers to those problems? Good luck. Try emailing him or finding a math genuis/tutor that can do all of them.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2023-06-01T18:26:19.318517Z"
+    },
+    {
+      "professor": "Anna Szczekutowicz",
+      "course": "MATH410",
+      "review": "Very sweet person and great lecturer. The exams, so far, have been in this pattern: Q1 gives you three names (theorems/mathematical objects) and asks you to write their definitions. Q2 asks for a counterexample to some claim. Q3, Q4, and Q5 are free-response proof questions, at least one of which closely models a problem in the notes. And Q6 asks you to prove one of the (shorter) theorems we already had proved in class, so understanding and remembering the proof sketches is key here.\r\n\r\nI'm not gonna lie, I came out of the first two exams feeling like they kicked my ass. Almost nobody finished them on time. But I somehow got an A on both. She and the grader were very lenient and gave lots of partial credit. So even if you don't fully know some answer, write something anyway.\r\n\r\nThe homework has not been difficult at all, especially after coming from MATH340/341.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2023-11-01T19:35:36.267559Z"
+    },
+    {
+      "professor": "Anna Szczekutowicz",
+      "course": "MATH410",
+      "review": "Great prof, other 410 reviewer basically summed everything. Only downside is I don't like how tests are memorizing content rather than utilizing them, other than that fair tests. Very nice in person as well. One of the best/better 410 prof's out there, highly recommend.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2023-11-08T00:32:55.097797Z"
+    },
+    {
+      "professor": "Stefan Doboszczak",
+      "course": "MATH410",
+      "review": "Awesome professor who is funny in lecture and understood that while MATH410 is a very important class it is also typically the first rigorous math class a student takes. There were weekly homeworks that were difficult but doable and the three midterms and final were quick but fair. Also there was a 24h no penalty grace period with HWs which was super helpful. Not so much related to Stefan but the textbook for the course is worth every dollar and probably one of the best I have ever bought. All in all Stefan is the GOAT.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-11-08T05:38:47.987879Z"
+    },
+    {
+      "professor": "Anna Szczekutowicz",
+      "course": "MATH410",
+      "review": "Pretty good prof. Posts all the lecture notes online so attendance is honestly pretty optional. Exams are definitely very fair, but sometimes seem like they weren't planned out very well in advance, but this is offset by the fact that she's very lenient with partial credit. Overall probably the best 410 prof.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2023-11-17T18:03:18.514573Z"
+    },
+    {
+      "professor": "Anna Szczekutowicz",
+      "course": "MATH410",
+      "review": "She is SO enthusiastic about teaching to the point where her lectures are so freaking engaging lol. IMO she explains the material very and all her proofs are very understandable because she explains the motivation behind each step in a proof. You shooould definitely consider taking ANNA for MATH410 if you ever want to take this course and she is an option. :D",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-11-29T18:27:34.646643Z"
+    },
+    {
+      "professor": "Manoussos Grillakis",
+      "course": "MATH410",
+      "review": "Speaking for MATH410 he is typically ranked as the best or second-best option on this website for a given semester. He is incredibly nice, answers all questions, and exams are very similar to previous exams. Also, this semester the final and the one midterm both had one or two problems from the sample exams on the actual exams. Go to class, do the homework correctly, study, and with the low letter-grade cutoffs it is not that difficult to do well. Highly recommend him for MATH410.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2023-12-14T21:44:56.882127Z"
+    },
+    {
+      "professor": "Haizhao Yang",
+      "course": "MATH410",
+      "review": "HE'S THE GOAT. THE ABSOLUTE GOAT. IF HE TEACHES THIS CLASS AGAIN YOU HAVE TO TAKE AS SOON AS POSSIBLE. I have never been more excited to review a professor because he makes the class super interesting and intuitive. Office hours are super useful. Just take any class with this guy tbh.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-16T06:20:39.427837Z"
+    },
+    {
+      "professor": "Manoussos Grillakis",
+      "course": "MATH410",
+      "review": "Grillakis's classes are completely useless to this course. I attended every day and took notes, yet did not learn a single thing. Most of his classes consist of him looking at his notes, which he posts on canvas, and writing them onto the chalk board word for word. We had one midterm and the material on the exam was not relevant to the class at all. The homework are extremally difficult though he will help you at office hours. That being said a 55% passes the class so if you need to take the class he isnt a terrible choice, just dont expect to learn anything.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2023-12-18T16:17:52.125507Z"
+    },
+    {
+      "professor": "Haizhao Yang",
+      "course": "MATH410",
+      "review": "Really chill, very nice. cancelled the 2nd and 3rd midterm. lectures were boring though, but treated us as extra elementary which was nice.",
+      "rating": 4,
+      "expected_grade": "B-",
+      "created": "2023-12-20T00:50:47.722940Z"
+    },
+    {
+      "professor": "Hussain Ibdah",
+      "course": "MATH410",
+      "review": "Will start off by saying that the class was small making communication much easier. I also think it was his first time teaching analysis so things were a bit less organized than normal. Lectures were usually him going over some important theorems. The weekly homework took me forever at first, like 12-15 hours, but it eased up over the semester. They were also graded not too harshly but they still have to be somewhat rigorous. I think his notes were a pretty good reference if you can read the handwriting. The exams had averages in the 60s but he gave opportunities to make up points. I'm not sure how this compares to other professors but in general MATH410 is very challenging but doable and that's how it went.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2023-12-22T18:25:24.854572Z"
+    },
+    {
+      "professor": "Christian Rosendal",
+      "course": "MATH410",
+      "review": "Great professor who you can tell really knows and enjoys the content he's teaching and wants you to understand it too. Follows the textbook very closely - but unlike some other professors, manages to present the material in a way that adds onto the textbook and truly makes class worth attending. He's also generally really nice, exams are fair, and homework load is manageable. I'd highly recommend him.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-01-17T14:28:21.964972Z"
+    },
+    {
+      "professor": "Terence Long",
+      "course": "MATH410",
+      "review": "Professor Long is one of the best math professors at UMD. He's charismatic, funny, and explains content really well. All of his lectures are from the book so you know exactly what he's talking about & his homework are fair with fair grading. The only flaw he has is planning -- or really lack of planning. The second exam was made two weeks before finals & homeworks are randomly assigned (although always with 1 full week to complete). If you're okay with not being totally certain what your upcoming week is going to look like, take him for 410. Imo it's a worth while trade off for his teaching.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-04-27T15:46:06.328388Z"
+    },
+    {
+      "professor": "Hussain Ibdah",
+      "course": "MATH410",
+      "review": "Probably the worst professor I have ever had. Completely fails to engage students during lectures. He is disorganized, constantly had to delay an exam and couldnt get through all the material by the end of the course. His first exam had typos that changed the questions and one question said, and I quote, \"make sense of the function\". This is in a proof based math course. His handwriting is completely illedgible which means you cannot catch up on lectures if you miss something and cannot use his notes at all. Why this man is allowed to teach the most notoriously challenging math class at UMD is beyond me.",
+      "rating": 1,
+      "expected_grade": "C-",
+      "created": "2024-05-11T01:10:42.633252Z"
+    },
+    {
+      "professor": "Hussain Ibdah",
+      "course": "MATH410",
+      "review": "MATH410 with Dr. Ibdah was a solid experience; while we had occasaionally difficult homeworks (though he always provided solutions after the due date, which I really appreciated) and the exams had averages and medians in the 60s-70s, he gave a generous curve. Grades aside, I liked the way he taught and his notes were comprehensive. He is very kind and genuinely cares about the success of his students (e.g. always made himself available for office hours).",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-14T17:47:55.382957Z"
+    },
+    {
+      "professor": "Terence Long",
+      "course": "MATH410",
+      "review": "Boring lectures. Course contents are exactly the same as the textbook. But the midterm means are not bad.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2024-05-23T14:38:51.968965Z"
+    },
+    {
+      "professor": "Anna Szczekutowicz",
+      "course": "MATH410",
+      "review": "Anna is a decent option for 410, I excelled throughout most of the semester but sadly didn't do well on just the final. I didn't learn much from her lecturing alone, I think this is her weakest spot. That being said, her exams are fair, and her homeworks are good. I'd probably prefer harder homeworks compared to the exam difficulty, but either way the class is fair. Despite my grade, I learned a lot from the class, and I'd lightly recommend taking Anna.",
+      "rating": 3,
+      "expected_grade": "C",
+      "created": "2024-05-28T02:19:28.215048Z"
+    },
+    {
+      "professor": "Roy Joshua",
+      "course": "MATH410",
+      "review": "Run. I withdrew without a \"w\" and got into another section but in my entire life, he was the worst professor/teacher I've ever had. He speed-runs topics and examples with little to no explanation. His hand writing is a mix of sloppy cursive and print which he switches constantly between in the same sentence. 16 people dropped this class on the second day while every other section has remained full. A C- is a 45% though if that's all you want, but to get an A it's still a 93.",
+      "rating": 1,
+      "expected_grade": "W",
+      "created": "2024-09-09T15:21:42.624817Z"
+    },
+    {
+      "professor": "Roy Joshua",
+      "course": "MATH410",
+      "review": "Roy Joshua just transferred to UMD from Ohio state, and so when he got put into the system and listed as the professor for MATH410, people read his reviews from ohio state, most of which were from covid virtual learning, and 12 people dropped the class before the first day. As for his lecture style, he is very by the book but very consistent. He goes through explanations as well as plenty of examples, and pretty much follows the textbook exactly. He writes on his ipad and projects the notes onto the board, and while he does have messy handwriting he also always says the exact words he writes down as he is writing them. He does have a somewhat thick accent, so while I usually have no trouble with understanding people who speak english as their second language I can understand that some people may want to choose a different lecturer if they struggle in that area. He assigns straightforward homeworks that are only 5 questions (all taken from the textbook), and so the class is relatively low workload. He is also a quite understanding professor, making sure people have enough time to do and submit the homework and also making sure people understand what he is saying in lecture before he moves on. This class is far more interactive than many other professors I have had in the math department. He is somewhat poor with technology though, as he didn't even realize the ELMS wasn't posted on the first day of classes, but he has the understanding of the content and can clearly explain it and that's what counts at the end of the day.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2024-09-22T21:37:47.404814Z"
+    },
+    {
+      "professor": "Stefan Doboszczak",
+      "course": "MATH410",
+      "review": "He is the absolute GOAT for MATH410. No matter who you take MATH410 with, it isn't going to be easy by the nature of the class - but Stefan is one of the best you can take it with.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-10-29T19:21:12.468593Z"
+    },
+    {
+      "professor": "Arka Adhikari",
+      "course": "MATH410",
+      "review": "Professor Adhikari is a very nice and organized professor. We have weekly homeworks that are often pretty straight-forward and prepare you for the exams. The exams were pretty straight-forward as well, however the fourth question was always a bit of a harder question. He has made MATH410 feel like a pretty \"easy\" class (as easy as 410 can be). As someone who was scared to take 410, that feeling has gone away since being in this class. I highly recommend professor Adhikari for any math class.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2024-11-20T22:37:02.752254Z"
+    },
+    {
+      "professor": "Jaime Paradela",
+      "course": "MATH410",
+      "review": "Regardless of who you take 410 with, it's gonna be really hard, but I think Jaime did a great job teaching it for the first time. Although he lectures straight out of the textbook, his lectures are easy to follow and fast-paced. He is very approachable and will explain things really well during office hours. He has great handwriting and his accent is very understandable. He gives out suggested practice problems that will help develop your understanding of concepts. There were two midterms and one final, all weighed together as 85% of the grade. The first midterm was pretty fair but the second midterm was very unexpected. There were 3 quizzes and 3 homeworks that were all weighed very little. He wants his students to do well as he will curve the assessments based on the average. Additionally, he will curve at the end of the semester as well. Overall, a wonderful person and decent professor.",
+      "rating": 5,
+      "expected_grade": "C+",
+      "created": "2024-12-09T06:36:26.648824Z"
+    },
+    {
+      "professor": "Terence Long",
+      "course": "MATH410",
+      "review": "It is a difficult course, but considering the class is Math410, it isn't unreasonable. Homeworks are reasonable, relevant, and only graded for completion and effort. Exams are challenging, but again, it's Math410, so they are supposed to be hard, and given this, they are reasonable. Also, they weren't time-sensitive, so you could take your time which was nice. He's a nice guy and a solid professor. Answers all questions. I think my section also got bailed out because we had a really easy grader for midterms, but Terence graded the final and he didn't grade it unfairly. Also, there was a nice curve at the end of the class that bumped me up a letter grade. Would recommend it.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2024-12-11T16:49:50.111530Z"
+    },
+    {
+      "professor": "Huy Nguyen",
+      "course": "MATH410",
+      "review": "Love this guy. Funny and good explainer. Gave some interesting homework problems and made exams relatively low-stress. I highly recommend Huy!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-12T02:04:40.755451Z"
+    },
+    {
+      "professor": "Huy Nguyen",
+      "course": "MATH410",
+      "review": "Huy is by far the best math professor I\u2019ve ever had. Real Analysis was a tough class for me, but his teaching style made it so much more manageable. I skipped MATH310 and I struggled very much early on (less than 50% on midterm 1 and 2) but I really turned things around with a high A on both midterm 3 and the final, which ended up curving to an A for the course. \r\n\r\nHe\u2019s super helpful during office hours, and instead of just giving you the answer, he gives little hints to guide you in the right direction. He really makes sure you understand the material, which is something I truly appreciated.\r\n\r\nHe does move pretty fast in lecture, but he answers all questions and thoroughly explains the concepts. Plus, he posts solutions to everything after they are due.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-13T04:16:01.192716Z"
+    },
+    {
+      "professor": "Huy Nguyen",
+      "course": "MATH410",
+      "review": "Great at teaching, great person & very understanding. Homeworks are very relevant and not at all unfair, if at times difficult. I enjoyed this class a lot, and you can't go wrong with him if you really want to learn the material rigorously. Taking this class with Prof. Nguyen has reinvigorated my love for math and made me want to further pursue pure math, which is great because I had gotten bored with it a while ago. I wish I hadn't waited until my last year to take this class, so that I could have had more time to take 411 & the 600-levels with him. \r\n\r\nMy one personal gripe is that the exams got too easy, and I was not even a particularly dedicated math student. Maybe he was trying to make the final grade distribution better this time, I don't know. There were 3 midterms and a final. The first midterm was the hardest exam, but it was not terrible. I guess he tried to compensate for the low-ish average by literally telling us before each of the next 3 exams that they would mostly just be homework questions. It seems a lot of students didn't heed this advice. Somehow, the score distributions did not improve, except for the 3rd midterm. He ended up adjusting the grade cutoffs a lot, too.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-14T01:41:25.420143Z"
+    },
+    {
+      "professor": "Huy Nguyen",
+      "course": "MATH410",
+      "review": "Second the previous review. He's very willing to help you out at office hours and it's clear he wants you to succeed. Would absolutely recommend.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-16T16:39:22.520818Z"
+    },
+    {
+      "professor": "Clarke Safsten",
+      "course": "MATH410",
+      "review": "Actually teaches the class, and has a pretty generous grading scale. My grade is just a reflection of the fact that I was not locked in.",
+      "rating": 5,
+      "expected_grade": "C",
+      "created": "2024-12-16T19:16:32.275967Z"
+    },
+    {
+      "professor": "Clarke Safsten",
+      "course": "MATH410",
+      "review": "Great lecturer, very structured lectures and organization of class. We had weekly quizzes, homework, and 2 midterms plus the final. \r\n\r\nFelt like my class was pretty smart overall so even though I worked very hard I ended up with a B. Not the professor\u2019s blame though, I feel like I\u2019ve learned a lot in this course and like I thoroughly understood every concept, which is great.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2024-12-17T14:36:03.193474Z"
+    },
+    {
+      "professor": "Jaime Paradela",
+      "course": "MATH410",
+      "review": "I know there are a lot of negative reviews for his Calc 2 class, but for 410 he was really great. He teaches straight out of the textbook for the lectures, but I honestly like that. He is super nice and helpful during office hours. I'm really not getting the \"makes you feel like an idiot for asking questions\" comments because this man would go through the same problems multiple times with me until I got it. You can tell he wants you to understand the material. The course was structured with 3 quizzes and homeworks, 2 midterms, and the final. He dropped the lowest scores from the homework and quizzes and he curved the midterms by 2-3 points at the end of the semester. One thing I really liked is he had a lot of extra credit on the exams, the final had 110 points worth of questions but was only graded out of 100, so you could get 10 points off and still get a perfect score. He is very generous with partial credit on exams as well. Highly recommend.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-19T03:17:55.454904Z"
+    },
+    {
+      "professor": "Arka Adhikari",
+      "course": "MATH410",
+      "review": "Very organized, especially for a first-time tenure-track professor. The lecture presentation was clear with strong emphasis on building intuition and guiding students through proofs. I think it works especially well for the many students in 410 who are new to proofs and have this as their first proof-based math class. The homeworks are quite constructive as well and not just busywork.\r\n\r\nThe main crux of his class structure is that the exams (2 midterms + final) make up 80% of your grade. The exams are structured so that they are around 4 questions (we only had 5 questions on the final), but with 1-2 questions being very challenging. Exam averages were around the 70% mark for this reason. However, the grading on the exams is quite forgiving, and more importantly, the class is heavily curved from the start. An 85% is an A, an 80% is an A-, a 60-69 is C range, a 70-79 is B range, etc. If you put good effort in to learning how to engineer proofs, you will at worst get a credit-applicable passing grade and at best get a phenomenal grade. For that reason, I find his class quite rewarding. \r\n\r\nI think Arka has a bright future as an educator at UMD and would love to take a class with him in the future!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-19T18:10:07.838673Z"
+    },
+    {
+      "professor": "Arka Adhikari",
+      "course": "MATH410",
+      "review": "Great professor. Answers questions and is good at teaching and presenting materials. However, the homeworks are easy but the exams are extremely hard. I felt like the homeworks did not prepare us for the exams.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2024-12-28T03:47:00.091079Z"
+    },
+    {
+      "professor": "Huy Nguyen",
+      "course": "MATH410",
+      "review": "Second everything said in previous reviews. Dr. Nguyen is the best math professor I have had at UMD and one of the best professors I've had at UMD period. He clearly communicated expectations and lecture material and also had a subtle sense of humor I really liked. Like others mentioned, the homeworks were tough but fair and his office hours were extremely helpful. Would take another one of his classes in a heartbeat.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-01-29T16:53:41.016277Z"
+    },
+    {
+      "professor": "Clarke Safsten",
+      "course": "MATH410",
+      "review": "Good teacher, I'm just dumb as fuck. His handwriting is very legible and goes at a reasonable pass (I still couldn't understand since I'm dumb though). The class seemed very engaged, asking questions and stuff which was nice. I would definitely take. He doesn't have much of a curve though and covered more content than 410 with Huy Nguyen. I know because I had a friend in the class. Huy curves significantly, a 83 -> A-.",
+      "rating": 4,
+      "expected_grade": "C",
+      "created": "2025-03-05T04:46:20.063258Z"
+    },
+    {
+      "professor": "Anna Szczekutowicz",
+      "course": "MATH410",
+      "review": "Absolutely an incredible teacher. She will sit with you and help you understand the complicated concepts in this class. Incredibly patient and it is clear from her organization during the semester that she has taught this class before. The only risk you run with her is that she will raise your expectations for other teachers in the math department. But that's a worthwhile risk!!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-04-12T13:20:29.323606Z"
+    },
+    {
+      "professor": "Stefan Doboszczak",
+      "course": "MATH410",
+      "review": "410 is definitely a hard class, but taking it with Stefan makes your life so much easier. Exams are similar to past exams and homework, and he even does group work days where so we can practice before the tests. His teaching is amazing and you can tell that he is really passionate about math and the subject.  Homework can be a little tricky, but definitely not impossible. I highly recommend taking this class with Stefan if he teaches it in the future!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-04-13T21:29:40.144921Z"
+    },
+    {
+      "professor": "Anna Szczekutowicz",
+      "course": "MATH410",
+      "review": "A wonderful lecturer and professor. She knows what she is talking about and is able to communicate it in what I believe is the most helpful way possible. 410 is a rough course for many people, but even then I feel like I am doing much better with her than I would have otherwise. I wish there were more practice problems, as I think that would help digest the course content better, but her weekly quizzes help with it somewhat. The quizzes are 5 minutes long and usually one or two questions where you have to supply a definition and maybe do a true/false or multiple choice question about a definition. They help encourage studying, as well as help cement your understanding.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2025-05-03T16:54:02.404888Z"
+    },
+    {
+      "professor": "Jenna Zomback",
+      "course": "MATH410",
+      "review": "Not bad for a first time!\r\n\r\nThis class consisted of 3 exams and homework, weighted 60% and 40% respectively. Homework was graded mostly for completion (the grader usually graded only one question, and averages were around 95% for each). Exams were pretty difficult, though she adjusted for this as the class went on, as she didn't expect the first test to have a low average (62% iirc). She expects extremely well-written proofs, so especially if you came from a more lenient background, it can be quite jarring to lose points in places you don't expect. There is a small-ish curve at the end of the class (1.5% if I had to guess), and she also held two re-exams for the class, one to replace the first test grade, the second on a new topic to increase by the average of the lowest exam and retake (it was weird).\r\n\r\nZomback is a pretty great lecturer, and she's always quite clear and willing to answer questions. Most of the concepts are technically rehashes of Calc 1 in a proof-based setting, so it's not usually that new, but she helps make things easier to parse through. She's also extremely helpful in office hours, and has always been able to answer the questions I had regarding Homework and Tests!\r\n\r\nThe only two main gripes I would have with this class are the difficulty in really understanding how to write proofs perfectly and the re-exams in general. Because the homework is graded leniently, ironically enough, it makes the exams a bit harder (in my opinion), as you can't tell how to write proofs. Some people can probably write proofs well the first time, but it was quite difficult to freestyle, even if that's kind of part of the class. Also, I personally didn't like the re-exams (compared to a curve). This is mostly preference, but I could not do well on any re-exams for the life of me :/. They did increase the average, though, leading to medians of both exams being mid-80s.\r\n\r\nOverall, though, Professor Zomback is a great teacher!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-21T20:18:14.360806Z"
+    },
+    {
+      "professor": "Jenna Zomback",
+      "course": "MATH410",
+      "review": "Loved this class, but I\u2019ll try to give a more objective breakdown:\r\n\r\nThis class with Jenna has a pretty simple grading scale. 20% each for two midterms, as well as the final. 40% for homework. The only gripe I really have with the class is the homework. It\u2019s mostly graded for completion, with 1-2 problems actually graded for accuracy every week, but I felt like even though that benefited my grade in the class, it somewhat negatively impacted my learning and performance on the exams. \r\n\r\nSpeaking of the exams, I would say they were mostly fair. With a proofs class, you\u2019re naturally going to get new proofs on the exams, and I felt we got good practice in class for each of the exams. I also appreciate that she gave us a retest, as well as a bonus exam to improve a midterm grade. She was definitely focused on teaching content more so than maintaining a curve, and so I believe a lot of people passed. \r\n\r\nHer lectures were very informative and broke down a lot of what we were expected to do, and I really appreciated her clarity in making a class with content as difficult as MATH410 somewhat manageable. I would 100% take any math class with her in the future. Great professor.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-05-22T03:12:43.965982Z"
+    },
+    {
+      "professor": "Clarke Safsten",
+      "course": "MATH410",
+      "review": "Safsten is a very caring professor, he wants all of his students to succeed. He's extremely patient when it comes to people asking questions in class and during office hours he will sit with you to help you figure out any confusions you have with proving a certain question or understanding a concept from lecture. With that being said, DON'T SLEEP ON THOSE QUIZZES. The first half of the quizzes I pretty much bombed but then realized that all of the quizzes combined was equivalent to an exam. Also don't expect a curve in this class, the averages in his class are honestly pretty high for some reason.\r\n\r\nOverall, I feel like I learned a lot more than I would have in another class. Goat professor!",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-05-25T21:59:51.426574Z"
+    },
+    {
+      "professor": "Jenna Zomback",
+      "course": "MATH410",
+      "review": "Pros:\r\n- Very very friendly. First professor I've ever had who learned every student's name. Wow\r\n- Very open to questions\r\n- HW is worth 40%; 9 out of every 10 problems are graded for completion\r\n- HW's are fair; 10 textbook problems each\r\n- Did a retake for first midterm because average grade was so low (69%)\r\n- Very friendly; honestly the first professor I've had where I'm not scared to go to OH\r\nCons:\r\n- Mildly strict grader; she tells you at the beginning of the semester that she's picky about proofs\r\n- Lectures were a bit slow and boring and were mostly just a rehash of the textbook (this is just my opinion though, hopefully other people disagree, also part of this is just because I found the content to be quite uninteresting)\r\n\r\nOverall very good professor, highly recommend!",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2025-05-27T18:31:36.665043Z"
+    },
+    {
+      "professor": "Clarke Safsten",
+      "course": "MATH410",
+      "review": "Great professor that comes well prepared to teach the material, especially for as rigorous a course as MATH410. He provides good intuition for concepts, answers any questions you may have, and lectures are pretty engaging with the occasional quip being thrown. \r\nHe doesn't just provide a proof of something, but rather actively wants his students to help to intuit them. \r\nHe's pretty fair with the homeworks, quizzes, and exams. He drops your 2 lowest homeworks and quizzes.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-05-30T20:24:13.705200Z"
+    },
+    {
+      "professor": "Clarke Safsten",
+      "course": "MATH410",
+      "review": "Amazing professor, he's great at walking the class through complex proofs and explaining them intuitively. The exams are pretty reflective of what we covered in class, and the quizzes and homework sets are mostly grade boosters. It's still definitely a hard class, as to be expected from Math410, but Dr. Safsten's enthusiasm for the content made the class very exciting. It's obvious that he's very knowledgeable on the content, and was able to answer whatever question students threw at him, no matter how obscure.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-06-20T01:43:17.685080Z"
+    },
+    {
+      "professor": "Arka Adhikari",
+      "course": "MATH410",
+      "review": "TL;DR: Solid at explaining things, exams were doable if you're willing to grind.\r\n\r\nPros:\r\n - Solid at explaining things. Wouldn't rush through anything, and would explain concepts from a basic level; assumes you know nothing / very little about the subject material.\r\n - Homeworks AND EXAM QUESTIONS were straight from the textbook. Like all of them. LITERALLY ALL OF THEM. So if you're willing to grind and do every problem in the textbook for a given chapter (Maybe 15-20 proofs per chapter, 3-4 chapters per exam), then you would do good on the exams. Otherwise, the exams feel super difficult\r\n - Pretty much lectures 1:1 from the textbook, so even if u missed anything, you could just use the textbook to review\r\n\r\nCons:\r\n - VERY VERY MONOTONE. i was falling asleep literally every lecture",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-08-27T00:29:24.322446Z"
+    },
+    {
+      "professor": "Panagiotis Dimakis",
+      "course": "MATH410",
+      "review": "Panos is one of the best math professors I have had at UMD. He obviously cared so much more about us understanding the concepts of the class and enjoying the proofs than \"testing\" us. All of our exams were take home and we were able to work on homework in groups. I couldn't recommend him more for this class.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-09T18:58:13.710985Z"
+    },
+    {
+      "professor": "Dong Quan Nguyen",
+      "course": "MATH410",
+      "review": "He's the best! And he graded our exams in a day one time so we could decide to add/drop that weekend. Goat.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2025-12-09T21:31:15.215674Z"
+    },
+    {
+      "professor": "Panagiotis Dimakis",
+      "course": "MATH410",
+      "review": "He is super understanding and probably one of the most relaxed and laid-back professors I have ever had. There is hardly any graded work for the class, but everything is super confusing, and he expects you to do a lot of self-exploration if you really care about the subject. I wish I could take him again if I have the chance.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-11T19:57:25.372968Z"
+    },
+    {
+      "professor": "Panagiotis Dimakis",
+      "course": "MATH410",
+      "review": "The BEST math professor I've encountered. Panos is extremely knowledgable and interacts with everyone so well each lecture. I love how he never reads straight from the textbook, but instead tries to derive every proof himself, which really helped me understand how to problem solve and think about things. He also made each exam take-home including the final, making this class not very stressful unlike other professors. Highly recommend.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-11T20:15:01.389482Z"
+    },
+    {
+      "professor": "Panagiotis Dimakis",
+      "course": "MATH410",
+      "review": "One of the best math professors I've ever had. The course is based on the first 7 chapters of Baby Rudin, and the content is often dense and difficult, but Panos' teaching is excellent. He goes through all the proofs step-by-step and asks questions in a way that is engaging and makes it interactive so we learn the content better. His responses to students' questions are also very helpful.\r\n\r\nThe course grade is 10% homework, 30% for each of the two midterms, and 30% for the final. The problems for most of the homework assignments and exams were exercises from the textbook, which were often very difficult (with exams taking 3-6 hours). However, this was balanced by the fact that the they were all take-home, and we had 24 hours for each of them. Homework was graded on completion.\r\n\r\nAfter talking to friends who took 410 with another professor, I feel that I took away much more from this class by taking it with Panos. As a postdoc, he truly cares about his students and wants them to learn and appreciate math instead of having to worry about grades or assignments. He is clearly passionate about the subject and often connects the proofs we write in class to how mathematicians work, giving us a glimpse of what doing real math looks like. I came away from the course with a solid understanding of basic topology, sequences and series, differentiation, etc.\r\n\r\nThe only reason I am taking off one star is that I feel the homework and exams would benefit from having more easy-medium and fewer hard problems. I think that this would help me with practicing my understanding of the course concepts and gauging my understanding of where I'm at with the material.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2025-12-11T22:46:03.194699Z"
+    },
+    {
+      "professor": "Sean Gruber",
+      "course": "MATH410",
+      "review": "Dr. G cares about every student's learning and believes in their ability to succeed. He took all critiques about the course seriously and was always open to feedback. Overall a really great guy who understands math concepts well and aims to share his understanding with all. One thing is that although the content was taught well, I still found proofs difficult to navigate as that wasn't touched on as much.",
+      "rating": 5,
+      "expected_grade": "C-",
+      "created": "2025-12-14T01:14:55.660100Z"
+    },
+    {
+      "professor": "James Conway",
+      "course": "MATH410",
+      "review": "Goes at a great pace, great at explaining, super positive attitude, and a pretty lenient grader I would say. Deserves 6 stars for being the first math professor Ive seen to not use a chalkboard and instead use a tablet and upload the lecture notes.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-20T21:19:49.235130Z"
+    },
+    {
+      "professor": "Dong Quan Nguyen",
+      "course": "MATH410",
+      "review": "Class was very enjoyable, Nguyen was passionate about the content and would even go on tangents about the history of some theorems.  The workload was light, we would have 1 medium difficulty hw about once a week, sometimes every like 1.5 weeks.  There were two midterms and a final.  He makes it very clear whats on the exams and he reviews relevant problems the class before.  The average for the first midterm was a 78 which was surprising bc i thought it was very fair.  To compensate, he made the next midterm much easier and the median score skyrocketed to a 98.  The average for the final went back down to a 72.  Overall, Ngyuen was a very good teacher who wanted everyone to succeed in his class. He would take time to answer everyones questions and made sure we understood topics before moving on.  He would also respond to emails if he couldn't fully answer a question during class time. Highly recommend him for 410.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-21T19:51:11.556888Z"
+    },
+    {
+      "professor": "James Conway",
+      "course": "MATH410",
+      "review": "This is my second class with Dr. Conway, and he just doesn't miss. He's a great lecturer, posts lecture notes on ELMS, is extremely pleasant to talk to both over email and during office hours, and ultimately made this class a blast to get through. I don't have any critiques.\r\n\r\nThe content is pretty much what you'd expect from MATH410, and we're recommended to use the same Fitzpatrick book used by most other sections (it turned out to never be explicitly required, but it was useful as a reference). The homework could get challenging at times, but it wasn't ever soul crushing, and it was only a few problems due every so often. The exams, particularly exam 2, were tricky, but I don't think anything was ever unfair, and I think mine were graded pretty leniently. They pushed our abilities to apply our knowledge of definitions and theorems rather than simply having us recall proofs from class. At the end of the day, I didn't think this class was terribly difficult, but I'm definitely biased due to having taken more difficult math classes last semester.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-23T00:22:51.679150Z"
+    },
+    {
+      "professor": "Sean Gruber",
+      "course": "MATH410",
+      "review": "Dr. G is quite literally the goat. He is very approachable, uploads all of his notes, and genuinely cares about his students. He consistently makes an effort to help everyone succeed and is easily one of the best professors I have had at UMD.\r\n\r\nMATH410 is infamously known at UMD as a difficult class, and Dr. G fully acknowledges that students have historically struggled with the material. Because of this, he makes every effort to make the course more manageable. He walks through proofs very slowly to ensure everyone has a solid understanding and goes through many practice problems during lecture.\r\n\r\nHis quizzes and exams are also very fair. He clearly outlines exactly how to prepare for them, so expectations are always very transparet. He also records all lectures and uploads his notes, and is always happy to go over questions during office hours or after class.\r\n\r\nOverall, this course was taught wonderfully.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-23T19:41:20.683649Z"
+    },
+    {
+      "professor": "Sean Gruber",
+      "course": "MATH410",
+      "review": "Very good.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-27T03:21:55.973859Z"
+    },
+    {
+      "professor": "James Conway",
+      "course": "MATH410",
+      "review": "hes great\r\npros:\r\ngreat lecturer\r\nnice guy, very approachable\r\nnotes posted online\r\ncurves a lot and is very in touch with averages\r\n\r\ncons:\r\nnot recorded? this is nitpicky\r\nclass is hard, but you should have known that\r\n\r\noverall, he is as clear as you can be with real analysis and made the class fairly digestible",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-12-30T22:59:55.256878Z"
+    },
+    {
+      "professor": "Sean Gruber",
+      "course": "MATH410",
+      "review": "Goated.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2026-01-13T00:03:32.024185Z"
+    },
+    {
+      "professor": "Dong Quan Nguyen",
+      "course": "MATH410",
+      "review": "I have to say I do think he's very overrated. I don't want to harp on the accent - I've had plenty of profs with one and have never had an issue before - but for the first time I think it really impeded my efforts to consistently understand what he was saying. Professor Nguyen is obviously very smart, and overall he is a fair grader. It's just that I only really managed to learn by reading the textbook, as I don't think his lecturing is beneficial at all. He might be better for other courses but MATH410 is tough and having a good lecturer for this course is extremely important for success.",
+      "rating": 3,
+      "expected_grade": "B-",
+      "created": "2026-01-23T19:38:14.747020Z"
+    },
+    {
+      "professor": "Panagiotis Dimakis",
+      "course": "MATH410",
+      "review": "Goated professor. Everything he covers in class is made very easy to understand, to such a degree that your intuition for the correct answer to questions he asks is usually correct. The textbook he uses is a higher level text so if I could go back I would've supplemented my studying with an easier to digest text. He doesn't really give assignments, which as a student sounds like a good thing but if you don't practice on your own you may have a hard time if you continue to 411. All the textbook questions have answers available online if you are struggling.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2026-02-05T15:35:54.466937Z"
+    },
+    {
+      "professor": "Jaime Paradela",
+      "course": "MATH410",
+      "review": "nice guy, just disagree with the 5* ratings for 410\r\n\r\npros:\r\n- first exam was very straightforward, and will be scored /100 despite it having 110 points (also gave us general expected questions as prep)\r\n- he really is a chill guy - doesn't mind answering stupid questions in class, weights homeworks/quizzes super low to our benefit. was also like 'yea sure' when someone asked to push the first exam back a couple days lol\r\n- pretty stringent with teaching out of the textbook, which is rly appreciated as it means I have a reference to back to if I get lost in lecture\r\n- chalkboard lectures \r\n- after finishing a proof, takes the time to emphasize main ideas/motivate the approach and various steps taken, which is esp helpful now as most of the proofs go completely over my head the first time through \ud83d\ude06\r\n\r\ncons:\r\n- we're over halfway through the semester, and have nothing graded or returned to us yet (though we've been told this is due to a TA grader going AWOL) \r\n- there's no solutions available for the recommended practice problems in the text\r\n\r\nTL;DR as others have said this class is hard regardless of who you take it with, but I think taking it w/ Dr. Paradela Diaz is a pretty solid option (esp for his second time teaching M410)",
+      "rating": 4,
+      "expected_grade": "C",
+      "created": "2026-03-18T18:57:54.990103Z"
+    },
+    {
+      "professor": "Arka Adhikari",
+      "course": "MATH410",
+      "review": "Explains the material really well and transitions from one thing to another to help you see connections in the content. Definitely ask questions during class whenever you have them. I'm convinced this man has a photographic memory because he can explain things on the spot so well. Exams are pretty tough and require a lot of memorization and preparation but he usually adjusts the grade cutoffs and the class is really rewarding.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2026-04-11T20:55:38.622640Z"
+    }
+  ],
+  "department": "MATH",
+  "course_number": "410",
+  "name": "MATH410",
+  "title": "Advanced Calculus I",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> 1 course with a minimum grade of C- from (MATH240, MATH461, MATH341); and 1 course with a minimum grade of C- from (MATH340, MATH241); and minimum grade of C- in MATH310. Or students who have taken courses with comparable content may contact the department.\nFirst semester of a year course. Subjects covered during the year are: sequences and series of numbers, continuity and differentiability of real valued functions of one variable, the Riemann integral, sequences of functions and power series. Functions of several variables including partial derivatives, multiple integrals, line and surface integrals. The implicit function theorem.",
+  "is_recent": true,
+  "geneds": null
+}

@@ -1,0 +1,486 @@
+{
+  "average_gpa": 2.3802108289410637,
+  "professors": [
+    "Ashok Agrawala",
+    "Samrat Bhattacharjee",
+    "Neil Spring",
+    "Colin Dixon",
+    "Michael Marsh",
+    "Ibrahim Korpeoglu",
+    "Nirupam Roy",
+    "Samrat Bhattacharjee",
+    "Nirupam Roy",
+    "Samrat Bhattacharjee",
+    "Nirupam Roy",
+    "Samrat Bhattacharjee",
+    "Nirupam Roy",
+    "Ting Jiang",
+    "Nirupam Roy"
+  ],
+  "reviews": [
+    {
+      "professor": "Ashok Agrawala",
+      "course": "CMSC417",
+      "review": "I straight up thought this class was an embarrassment to UMD (a top 10 CS school) and Agrawala and his TA Andrew were 100% to blame for it. I strongly advise to wait a semester or two and take this with a different professor.\n\r\nI'm not writing this post as sour grapes either I performed pretty well in the class, I just started the semester really excited about learning about networks and in the end it all got sucked out of me.\n\r\nThe worst part of the class, the professor, and the TAs is that they create an environment where it feels like they genuinely want you to fail. If you ask about what content will be on exams (you will have no idea what will be covered) the only answer you will get is \"read the chapter and do the problems.\" FYI chapters are 1-200 pages of thick, technical textbook with 40+ questions each and exams cover 2-3 chapters. \n\r\nI get that college is a lot about being able to teach yourself material, but you shouldn't have to teach yourself an entire class, especially a class as complex as Networks. \n\r\nProjects:\r\n- the first two projects were completely useless busy work that consisted of making simple client-server model. At no point in the class do they help you or show you how you would create such a connection (they just go over it on a high level, much different to actual C function calls), you literally just have to figure it out yourself. Not to mention, you have to use CORE, which is a nightmare within itself that even after the class I still have no idea how to use it. The second project is more about \"can you parse in C\" than it is about networks... Idk about you, but I didn't take 417 so I could waste my time tediously using strtok()\r\n- The final project is actually pretty cool - you implement some real deal stuff and you will learn a lot as a result. I wish they had you do practical things in Ruby all along as opposed to just at the end. Also a bonus that you get to work with a partner\n\r\nAll in all, you WILL learn a lot if you take this class, only because you literally have to memorize a textbook to pass. I did not come to college and pay tuition money to memorize a textbook, however. Professors should make it easier, not harder, to understand material and they should genuinely care about your success - Agrawala is neither.\n\r\nAgain, I did well in this class and I am not writing this because I am sour - i genuinely want you to either not take this class with Agrawala for your own good. If you do, I just hope he has magically improved and changed since.  All things considered, there is no doubt Agrawala is brilliant, he's just not approachable and not a good teacher. Twice I went to office hours with course content questions and for advice and twice I got the answer \"read the textbook\"... not very helpful. \n\r\nCraziest thing is, if Agrawala changed a few things the course wouldn't be so miserable for everyone.\n\r\n1. Provide some kind of study guides for the tests so we know of the hundreds of protocols what to focus on\r\n2. Provide suggested book questions for each chapter so we don't waste our time doing 40+ problems. There is no reason why he can't give 10 questions per chapter or something like that. \"if it's not on the slides don't worry about it\" doesn't help at all\r\n3. Hold some kind of seminar at the beginning of the semester outside of class that introduces students to CORE and how to get set up properly\r\n4. Stretch the last project to be semester long and have students complete it in useful increments (maybe even add a bit to it)\r\n5. Act genuinely interested in the success and well being of the students as opposed to creating an environment where we feel like Agrawala wants us to fail",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2016-12-18T13:11:00Z"
+    },
+    {
+      "professor": "Ashok Agrawala",
+      "course": "CMSC417",
+      "review": "I think the professor was actually a good teacher. He asked questions to get us to think and to understand why things were the way they are. I will say that the lectures were sort of dry, especially if you read the book. But the point was to get us to learn the basic concepts, and then we would study the details ourselves.\n\r\nI'll admit that the projects weren't entirely connected with the material in the lecture. But to say they were entirely irrelevant is false. I think the previous poster didn't really understand the point of the projects (considering they stated how it was just locate the standard library function and do it in this way, because that wasn't the point). It was to help us to understand how protocols work, and in that sense, it was connected to the material in lecture. But the final project was the most important. It really showed how hard network programming is, because you have to account for so many things, so it's much harder than say, Operating Systems. The final project was meant to help us understand that every decision in networking has some sort of reason behind it. And it does have real world use. So that gives me the sense of accomplishment. It was meant to simulate a real-life project as well, as it took a lot of coding and testing, and you had to work with your group members. I had a group member who only wrote ~200 lines of code or so, but the reason I didn't say anything was because the fact is that we do have other classes, despite this being like a real-life job.\n\r\nI will agree that the lack of study material or review for exams was disappointing, but there is a reason for that. It's hard to make questions that students can solve in a reasonable amount of time that adequately test student knowledge, thus questions are reused. I'd just recommend studying the questions at the back of the book. It is a vast amount of information to cover, but that's how a lot of courses are.\n\r\nOne thing I do agree is that it would've been better to add a reading schedule. It would have helped a lot.\n\r\nOverall, I would say I learned a lot from this course. I learned that understanding networking means understanding communication in general. I learned that there is a reason for every decision in a RFC. The professor also taught us that what we needed to learn is how to learn, because this information will soon be obsolete, and that's something important for CS majors in general.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2016-01-05T19:42:00Z"
+    },
+    {
+      "professor": "Ashok Agrawala",
+      "course": "CMSC417",
+      "review": "Agrawala was a horrible professor, and 417 was a horrible class.\n\r\nThis was possibly the worst computer science course I've taken yet at this university.\n\r\nUnlike most other 400-level CS classes, that teach relevant and useful technology, this course seems to be mostly based on obsolete material. The projects don't convey any meaningful skills, and while in other classes I typically can look back on the projects and feel a sense of accomplishment, in this class, I felt like I jumped through hoops. (I got 100% or 90% on all the projects, so this isn't sour grapes -- the projects were just bad.\n\r\nFurther, the projects and lectures seemed entirely disconnected. I felt as if I was taking two different classes where two entirely different things were being taught. Lectures didn't prepare us for projects in any sense. As such, the projects weren't challenging, because they had to be easy enough for us to teach ourselves how to do. This meant that the projects consisted entirely of \"locate the standard library function to do this thing, and invoke it in the right way.\"\n\r\nThe lectures were almost entirely taken from the textbook. If any reading had been assigned, this would mean that people who did the reading would get nothing out of lectures. The lectures were presented in an extremely dry and boring way. The lecturer would occasionally ask either extremely simple factual questions or incredibly complicated questions. Nobody was willing to venture an answer, because there was obviously a right answer (which the students didn't want to get wrong in front of the class), and in the simple case it seemed like the instructor was asking a trick question, while in the complicated case the students weren't sure of themselves. The instructor would, after doing this, chide the class for not participating. Further, the instructor would never revisit old or important material.\n\r\nThe exams were entirely disjoint from the lecture or projects. The two midterms focused almost entirely on concepts that appeared on one or two days of lecture. Further, the instructors refused to give students any information about what would be on the exam. This forced students to study huge amounts of information, including large parts of the textbook (which was tested on the exam, even though no readings had actually been assigned and there was no reading schedule for the course). Most students probably gave up; those that didn't were equally unprepared, because the exams were, rather than general, incredibly specific. The only way to get a good grade on the exam would have been to study in huge detail every aspect of the course. Typically, courses that require this have clear focus and direction, but this course had neither. It was like taking a survey of 1990's networking concepts and technology.\n\r\nOverall, taking this class was a vastly unpleasant experience. I had hoped that something as basic and vital to a computer scientists skillset as *networking* would be treated better at a major university. ",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2012-05-11T19:26:00Z"
+    },
+    {
+      "professor": "Ashok Agrawala",
+      "course": "CMSC417",
+      "review": "Good professor. Difficult to understand at times because of the accent. He asks a lot of rhetorical questions and goes on and on during lectures; therefore, they seem boring. Also, he just lectures from the slides and he posts his lecture videos and slides online, discouraging many from attending class. By the third week only a handful of people still went (I definitely did not attend), but this could be partly attributed to the class starting at 8am. His exams are almost entirely based on questions from the end of the chapters, and the remaining few questions are based on general terminology/ definitions of bolded words throughout the chapter. The projects in this class were very fair and interesting in comparison to previous year projects. The class is a lot of work because it feels like a programming class in addition to a theory of networking class (it is known as the 2nd hardest CMSC class). If you can keep yourself motivated and attend most lectures this is a very manageable class. Agrawala is a decent professor, but I feel he could be more interactive and give more examples/ real life problems. I would recommend him as a professor",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2011-04-28T17:40:00Z"
+    },
+    {
+      "professor": "Samrat Bhattacharjee",
+      "course": "CMSC417",
+      "review": "Bobby is a very good professor. He is also one of the smartest people at UMD. He's very intimidating at first but if you get to know him you'll realize he's a really nice guy. I think he did a good job teaching this class; needless to say, this was a very challenging course (more so than 412 in my opinion). \n\r\nThis class is conceptually simple, but the devil truly is in the details. Understanding how packets are routed through the internet is not a trivial matter. This requires understanding link-layer switching, and network-layer routing. I think Bobby did a rather crappy job explaining the link-layer. In particular, he failed to articulate the difference between forwarding and routing (which is HUGE). This certainly led to a lot of confusion.\n\r\nEither way, take this course with either Bobby or Neil Spring. Enough said.\n",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2013-05-12T03:56:00Z"
+    },
+    {
+      "professor": "Samrat Bhattacharjee",
+      "course": "CMSC417",
+      "review": "The review from 2013 is really not telling at all. I had to drop this class because the median of the first test was like a 50. I have a pretty decent GPA (3.6), but this teacher's workload is IMPOSSIBLE to manage unless you purposely make your other courses really light.\r\n\r\nI had to drop and take the W for the sake of my other classes. Don't believe me? There are currently 15/40 spots open in the class after people dropping, and his average is about a 2.6 based off past years. Basically only take this class if you consider yourself extremely smart, and every other class has been easy for you.",
+      "rating": 1,
+      "expected_grade": "W",
+      "created": "2017-12-13T21:34:53Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC417",
+      "review": "His lectures are mediocre, but the real problem is how he tests code.  He puts our arbitrary project specs without public/release tests and then tests them in a very specific way, causing many students to get zeros for things such as putting a space in the wrong place in the output. He said he would fix this, but I still have no idea what grade I have in this class.",
+      "rating": 2,
+      "expected_grade": "W",
+      "created": "2018-03-30T13:16:40Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC417",
+      "review": "Honestly, one of the most unorganized classes I've ever taken. Avoid this professor at all costs.\r\n\r\nThe first project took nearly 2 months to get back to us, and over half of the students got zeroes due to shoddy testing code. Every assignment we've had so far has had to be regraded.\r\n\r\nThis morning, the day AFTER the drop deadline, he announces the next midterm and final exam will be in class rather than take-home. Completely unprofessional. ",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2018-04-12T16:32:43Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC417",
+      "review": "Such a terrible teacher for 417. Exams and projects are so vaguely worded. You need to make several assumptions on exam questions, but if your implementation doesn't match his you get a 0. When we asked for clarifications, he would sometimes give us misleading answers. He never gave us sample input/output even though we asked before every project and exam. Half way through the semester he just gave up on doing slides. Grading felt like it was arbitrary, but he told us not to worry about it because he promised a substantial curve. He ended up setting 39 as the cutoff for a C-, but an 85 was still a B, so he might as well have not curved. He also gives out minuses but not pluses.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2018-10-14T19:07:42Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC417",
+      "review": "Marsh for 417 was great. He took a systems approach to the whole class which I really liked. If you didn't like 216 then you'll have a rough time, but projects are easy as long as you can read manpages and use Wireshark. It's impossible to fail his class if you submit even a half-assed attempt on all the projects. All exams including the final were take-home. If you don't get an A in the class it's on you",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2019-03-16T15:56:07Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC417",
+      "review": "Overall Professor Marsh was a much better professor than I think most of these reviews suggest. He has made changes based on what I hear on here. He no longer does take home exams which seemed to have been a major issue in past semesters based on past reviews and reddit threads. He is well prepared for lectures, and genuinely seems to care about students' success. He offers a survey active all semester for students to voice their opinions of the course, and he even sent individual messages to the students who did really well on each exam congratulating them on their success which was a nice way to show he actually cares about students doing well, which is really rare among professors here in my opinion. His grading scripts can be frustrating and his lack of public tests is something that I think could be improved, but overall he is not a bad professor. Class is pretty hard, but you learn a lot about how the internet works which is pretty cool.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2019-05-16T14:31:59Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC417",
+      "review": "Based on past reviews, I was extremely weary to take Marsh for this class, but after going through it I\u2019m glad I did. He has improved a ton and takes constructive criticism in stride to actually improve the class (the only cs prof I\u2019ve seen do this). Many complain his test scripts are still broken, but these were due to tests that are more in depth than other courses, which I believe is a great thing. You can also tell he loves the subject. His lectures can be a little tough to follow at times as his examples aren\u2019t always the clearest, but he is willing to reexplain anything that may have been ambiguous. Overall, the most useful class I\u2019ve taken at UMD and no regrets on Marsh. ",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2019-06-03T00:01:26Z"
+    },
+    {
+      "professor": "Samrat Bhattacharjee",
+      "course": "CMSC417",
+      "review": "Really knows the course material, and much more. Course was unnaturally hard compared to other CMSC courses I've taken. Really tough.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2019-12-22T21:27:54Z"
+    },
+    {
+      "professor": "Nirupam Roy",
+      "course": "CMSC417",
+      "review": "Alright prof, but heavy Indian accent and mumbles sometimes so lectures aren't the easiest to listen to and moves through slides too fast without posting them, but not the worst.",
+      "rating": 2,
+      "expected_grade": "P",
+      "created": "2020-04-10T20:17:20Z"
+    },
+    {
+      "professor": "Nirupam Roy",
+      "course": "CMSC417",
+      "review": "I tried sitting in the back and boy I could not understand a word he said. Don't get me wrong he definitely tries to help but his accent gets in the way. Ended up having to withdraw (the only class I ever withdrew from in 4 years here) as the programming assignments were impossible to complete and were basically irrelevant to the stuff learned in class. The exams required you to memorize pretty much every single calculation and definition and write them out. It was also unclear what exactly you were supposed to know before an exam. Am I supposed to read and learn from the textbook, or from the slides, etc? \r\n\r\nIdk if it was just Roy or if this class would still be so poorly structured even with a different teacher. But for the sake of your GPA just forget about 417 and choose a different class. You'll thank me later.",
+      "rating": 1,
+      "expected_grade": "W",
+      "created": "2021-02-09T22:45:36Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC417",
+      "review": "I don't know why there are some reviews commending Marsh for how he handled this course. I took this course with three friends and all of our experiences were pretty terrible. I would keep in mind that we took this during an online/Covid semester so in person may be different.\r\n\r\nThe work load for this course is MUCH greater than 3 credits. I spent more time for this course than for most of the core 4 credit CS classes. A typical week would include about an hour of pre-recorded lectures, 2 quizzes on that content, 2 normal lecture hours, then either a MASSIVE project due over the weekend or several homework assignments. There were also 5 exams throughout the semester. Marsh said at the beginning that this courses bad wrap is due to it being \"one of the hardest the department offers\". I don't think the difficulty is the content, its entirely with how the course is organized. The lectures do not coincide with the projects, so for more than half the projects you'll be looking at text books learning the material to execute the projects. Marsh will release public test scripts to test your projects but they typically don't work, causing everyone stress by having to submit their project blindly. His testing scripts would also typically screw up on the projects causing many students to request regrades, which they wouldn't receive back for months later. In 2 instances, information in the project description was either wrong or misleading, which caused due dates to get pushed back. This would be fine except Marsh did not compensate the rest of the schedule. This caused the biggest project of the semester to be given a week less to complete. On the last day of classes, we had an exam, a homework and the big project due. The only reason I did not give this 1 star is that I believe some of the projects are pretty cool once theyre in a complete state. I would not recommend this course unless you genuinely think putting on your resume that you took a formal networking course will help you. If you're just interested in networks, you're better off just looking at networking textbooks and resources online in your freetime.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2021-05-24T21:37:55Z"
+    },
+    {
+      "professor": "Samrat Bhattacharjee",
+      "course": "CMSC417",
+      "review": "Please do yourself a favor and take any other professor for this course if you can. Don't get me wrong, he's an incredibly smart professor, but he is just incredibly mean and his courseload is suffocating.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2021-11-09T22:59:42Z"
+    },
+    {
+      "professor": "Samrat Bhattacharjee",
+      "course": "CMSC417",
+      "review": "If I could rate 0 stars, I would.\r\n\r\nHe's definitely an entertaining and exceptionally intelligent professor, he'd be cool to have lunch with, TA for or do research under - but all that aside, he is a TERRIBLE instructor and should be avoided at all costs.\r\n\r\nThroughout the semester he has been very passive aggressive & sometimes just flat out mean with his responses to other students in class, on Piazza, and answering student questions on zoom, claiming that his goal is for us to \"learn\", and yet he refuses to straight up give an answer to a homework/exam question a student asks without making the student look like an idiot for not knowing first. \r\n\r\nAn example of his unpleasant demeanor: on the first day of class he literally said \"I do not expect you to come to class\" yet time and time again he expresses passive aggressive frustration with those who do not attend class or office hours.\r\n\r\nTo make matters worse, for some reason he REFUSES to upload recordings of lectures, nor any coherent powerpoint slides (instead he uploads drawings and scribbles he does during lecture that only someone who went to lecture would really understand) - either forcing students to join the Zoom call live or show up to class to stay on top of the material. This is the first course I have taken at UMD that does not provide at least some form of slides or an outline on the material covered in class. The problem with this practice is that his exams, while open note, are 100% based on content he covers in class so if you miss class and office hours & do not take detailed notes in class you're basically screwed.\r\n\r\nWhile all my other professors have been uploading recordings of their lectures, Bobby refuses. He will likely claim that because people joining on Zoom do not give their express consent to be recorded he won't do it or something to that effect, but if he actually cared he would use Panopto or some other solution.\r\n\r\nComing back to in person after 3 semesters of remote learning is tough, and since I am still used to asynchronous learning it has been a particular struggle for me to stay on top of projects and study for exams in this course.\r\n\r\nTLDR: Bobby's attitude and expectations for the course leave a lot to be desired, and his teaching skills are not that of a professor who should be making a $200,000/year+ salary (which is likely due to his research and tenure at the university but still). He should stick to research or graduate level courses but for the good of future CS undergraduate students, he should NOT BE TEACHING UNDERGRADUATE LEVEL COURSES.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2021-11-11T23:40:01Z"
+    },
+    {
+      "professor": "Samrat Bhattacharjee",
+      "course": "CMSC417",
+      "review": "Taking 417 with Bobby is the Dark Souls of CMSC\r\n\r\nYou know what you're getting into if you take this course\r\n\r\nBobby is a great lecturer, the only thing I think he could improve on is recording his lectures so that you can go back to watch them later.\r\n\r\nThe programming projects are intense and will consume all your time. I agree with Bobby's methodologies for choosing C over other languages for the projects. I wish that we had fewer projects and more time to work on them, as they would often be a matter of \"write until time is over\" instead of \"write until your project is working/complete\". I think I would have learned more if I had the time to actually focus on getting some of the implementations working instead of having to move onto the next project.",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2021-12-18T20:09:57Z"
+    },
+    {
+      "professor": "Samrat Bhattacharjee",
+      "course": "CMSC417",
+      "review": "Was my favorite class at UMD, really learned a lot about not just Networks, but about low level programming in general. \r\n\r\nThat said, other reviews about Bobby is fair. He's been in the field so long (he once told us in class that he's seen networks composed of single copper wire that people poke in needles to connect to, which is at least before 1985) that he kind of lost touch with what students already know/not know. \r\n\r\nI enjoyed the lectures (he's a pretty funny person). I learned a lot from projects too, despite it being very time consuming and often very underspecified. (There are no public tests to test the output formats against)\r\n\r\nI do really recommend this class with Bobby, but only if you you have some previous knowledge in computer networking and/or have strong C/C++ programming skills. ",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2021-12-20T21:23:12Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC417",
+      "review": "I took this course Spring 2021.\r\nCMSC417 is definitely not trivial and the projects take time, but I also enjoyed it and learned a huge amount. Marsh uses flipped classroom but the lecture videos he posts are broken into short sections and are very clear. The projects and homeworks help you learn the material well and the tests were open-note on Gradescope.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2021-12-27T17:16:48Z"
+    },
+    {
+      "professor": "Samrat Bhattacharjee",
+      "course": "CMSC417",
+      "review": "Although I have a W, I have decided to audit this class and do the projects at my own pace. I was struggling with finding a job and made the mistake of taking another extremely programming-heavy course and I wasn't confident enough in C to finish the projects without error. I hope whoever reads these reviews knows that the 5-star reviews are not given by \"normal\" people. They're either really good at C, very passionate about networking, or just don't care about red flags. These are people who are not bothered by Bobby's demeanor or attitude and fail to realize that although they had a good experience, there are many people in the class who don't. \r\n\r\nI want to give a rather detailed review. I think Bobby's teaching philosophy can be somewhat debatable, so I'll mention what can be done better: [-]: negative or can be improved upon. [?] Depends on your perspective. [+] Undisputable good quality\r\n\r\n[-] Not recording lectures or office hours: I think the whole idea behind this is that when people know a lecture is being recorded, they stop attending class. Although this is true, we have to see if this is a good thing or a bad thing for the students. It might be demoralizing for the professor since he might not be able to interact with a class and you could argue this is bad for the students since some students are lazy and fall behind schedule because \"everything is recorded\". So let's analyze this in detail: [+] Bobby provides OH \"relectures\" for people who missed the class. [-] Bobby does not record OH even if people have other classes during the time of OH and sometimes refuses to discuss what was mentioned in detail because he \"discussed it many times in OH\". [-] Some students like me usually will rewatch lectures to fill in missing gaps in our knowledge, not having lectures recorded means we have to go on Piazza but given the next bullet points this isn't so \"smooth\". Overall, I think if Bobby wants people to attend lectures, he should find a way to take attendance and leverage it in part with the participation grade. \r\n\r\n[-] Being demeaning to the students: This is an area Bobby needs to work on for sure. You can't go out there and call people stupid or get annoyed when people can't grasp concepts easily. I've seen instances where he literally said \"this is a stupid question\" even when the question was somewhat relevant. Maybe this might be why he doesn't record.......\r\n\r\n[?] Not giving previous exam solutions:  This is probably a blessing in disguise. You are forced to learn where and how to find the information you need instead of having them given to you and just learning through pattern matching. I think this is a good thing but you can easily argue this is a bad thing.\r\n\r\n[?] Projects take up too much time: The tradeoff is that the projects are cool and useful on your CV. If you take this class, you should be informed that it is hard and a lot of work. Don't make the mistake of taking this with other hard classes.\r\n\r\n[+] Great Lecturer: Bobby can explain concepts well and you get engaged rather easily\r\n\r\nOverall, Bobby is your stereotypical grandiose narcissist who has a valid reason to be narcissistic. I rate him 3 stars because I feel like Bobby is an amazing lecturer but the 2 [-] are what makes him rather unpleasant. I have a feeling that even if he is given similar feedback from other students, he might not listen to them and continue with his current ways.",
+      "rating": 3,
+      "expected_grade": "W",
+      "created": "2022-11-19T21:09:59.646751Z"
+    },
+    {
+      "professor": "Samrat Bhattacharjee",
+      "course": "CMSC417",
+      "review": "Best CS course I've taken in terms of knowledge learned.\r\n\r\nIt's true this class is hard, and it will probably hurt your GPA. But once you overcome the class you become a much better programmer. \r\nI also enjoyed learning about how networking works, and this class has peeked my interest in learning of networking algorithms and protocols. It makes you think like a computer scientist.\r\n\r\nBobby is sometimes hard, but it seems like he brightened up compared to previous semesters, and he does want his students to learn.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2022-12-14T04:37:59.020722Z"
+    },
+    {
+      "professor": "Samrat Bhattacharjee",
+      "course": "CMSC417",
+      "review": "Lectures in person, not recorded, and no pictures allowed. Projects are in C/C++ except possibly final group project.\r\nIncredibly knowledgeable down-to-earth dude, with a lot of passion for teaching. He will call you out if you're not really paying attention, which you should be doing anyway.\r\nIf you like computer networks, you will get a lot out of this class if you put the effort in learning.\r\n\r\nThe projects are killer, please please start them early...\r\nEvery project based CS class says this, but actually start them early this class. He doesn't teach any code and just asks you to implement something from scratch.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2022-12-20T00:22:48.981151Z"
+    },
+    {
+      "professor": "Samrat Bhattacharjee",
+      "course": "CMSC417",
+      "review": "The review left on 11/19/2022 sums up Bobby perfectly. \"Bobby is your stereotypical grandiose narcissist who has a valid reason to be narcissistic\" is a very good way to put it. His lectures can be very engaging since he is highly knowledgeable, funny, and interacts with his class often, but whether it be on piazza or in lecture, he will berate you infront of everyone; although; will help you nonetheless. Bobby is a cool dude and does have a soft side, It just sucks because there are more instances where he is hella rude than decent. There was one instance during a zoom OH where he openly stated a question was stupid and forced another student to answer it instead. Although I did say he can be rude to everyone, I have noticed that he is kinder to smarter students that don't irritate him. \r\n\r\nWith regards to the actual course: this class is essentially two classes at once: the lecture side will cover things on the exam, but the projects are completely self taught. Bobby will not teach you how to code sockets, instead he will provide sources and then you have to figure it out. Do not take this class if you are not confident in your coding ability YET. MAN pages will be your bible. There are no recordings, and the class notes are the scribble scrabble he does during lecture. \r\n\r\nAll-in-all: I do think you should take this class. I know my grade and review says otherwise, but you WILL learn a lot if you take this class, and it definitely forces you to become a better programmer. If you are going to take this class, make sure you have the time to give it your all. Most importantly - become a competent programmer before taking the class if you're not already. The final project is a group project that is still based on individuality, so if you end up with super smart people in your group and end up getting hard carried - that's two letter grades gone.\r\n\r\nTLDR: the class is a semester long suckfest, but is worth it in the end.",
+      "rating": 2,
+      "expected_grade": "D",
+      "created": "2023-01-11T07:22:38.742458Z"
+    },
+    {
+      "professor": "Samrat Bhattacharjee",
+      "course": "CMSC417",
+      "review": "Bobby is a nice and good professor, but the projects in this class are the worst. I've been fine in all other CS courses I've taken but every project in this class seemed like it was taking up my entire week. You don't learn anything related to projects in class and if you don't start super early you're screwed. I took a W even though I had fine project grades and did decent on the well exam because I didn't feel like it was worth the stress of ruining my weeks for the projects. I've gotten A's in all other cs classes and have never even considered dropping a class until this class. I should've listened to the other reviews when they talked about projects bc I didn't believe them at first :(",
+      "rating": 2,
+      "expected_grade": "W",
+      "created": "2023-01-18T23:26:51.410755Z"
+    },
+    {
+      "professor": "Nirupam Roy",
+      "course": "CMSC417",
+      "review": "Lectures are useful, prof is understanding, exams are fair (requires extra studying outside of class but that's expected from a 4xx), projects take ton of time so start early.\r\nTextbook is really helpful. Roy knows networks content incredibly well so make use of if you want. Attendance isn't mandatory or frankly even required, you can learn everything from textbook, but lectures are a good resource to just sit and listen. 417 sucks up time and effort, especially towards the end of the semester. The actual course content isn't difficult (in my opinion I thought 351 content was more conceptually difficult), it's the projects that can easily take 10+ hours if you're not familiar with C or basic network programming, but you pick it up throughout the course. Overall, Roy is good prof and lectures well",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2023-05-29T17:31:49.781500Z"
+    },
+    {
+      "professor": "Nirupam Roy",
+      "course": "CMSC417",
+      "review": "Easy exams and very flexible with deadlines.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2023-06-14T17:55:10.225932Z"
+    },
+    {
+      "professor": "Samrat Bhattacharjee",
+      "course": "CMSC417",
+      "review": "One of the worst professors at UMD. Avoid at any cost. Will not record lectures nor let anyone record them, will not provide lecture notes or anything that will help students. Will expect students to know everything. \r\nThe projects will ask you write your own starter code which will take hours before you can even begin with the actual project. For my other 400 level CS classes, the projects took me an average of 2-4 days, but this class projects took me at least a week. Bobby also never taught anything related to the projects. No tests were given to students where we could check our code is working as per requirements or not. So basically the projects were open ended and if you don't start early, you're screwed.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2023-09-25T03:18:50.663064Z"
+    },
+    {
+      "professor": "Samrat Bhattacharjee",
+      "course": "CMSC417",
+      "review": "You are expected to put in an exceptional amount of effort. DO NOT take with any other hard classes",
+      "rating": 3,
+      "expected_grade": "B-",
+      "created": "2023-11-02T18:37:58.345521Z"
+    },
+    {
+      "professor": "Samrat Bhattacharjee",
+      "course": "CMSC417",
+      "review": "Bobby is a textbook example of the entitled narcissist professors you see in college movies.\r\n\r\nHis lectures are okay, except for the fact that he will openly berate students he doesn't deem intelligent by interrupting their questions before they have a chance to ask them in full, with the excuse that it's \"To keep the class on track\" while allowing his obviously favorite students to fully ask questions he afterwards deems just as incorrect.\r\n\r\nThe projects are a complete nightmare. Only Chord and BitTorrent had a lecture dedicated to them, and those lectures were essentially useless to implementing the projects. He gives you 2 weeks to complete the project, and I can attest that you will need every minute of those 2 weeks. Project scores required 15-20 hours to get a 50% in my experience. There are no public or release tests given, and the rubric in the assignment does not match the grades i.e. the first project said you'd get an A if your server could handle multiple clients. Mine could and I got a 55% because of some corner cases I didn't test with my client, NOT my server.\r\n\r\nThe only saving grace in this class are the exams. With a cheat sheet or open note they're actually doable. I usually was 10-15% above the class average on the exams, which if there is a curve should help me pass this class.\r\n\r\nOnly take this class if you are <=14 credits including it (as I was at 17 and this class is easily a 4 or 5 credit in terms of project load), you are not taking any other hard classes like ENEE440, and if you really like networking, though you can definitely learn this better in your own free time with a couple of Github repos and articles.\r\n\r\nI would give this class 2 stars, but simply because of how rude and arrogant of a person Bobby is, I have to give it the 1 star. I hope and pray that Bobby can grow as a person and treat all of his students with respect, and ultimately improve the assignments so that they are reasonable in comparison to the rest of UMD's 400 level classes",
+      "rating": 1,
+      "expected_grade": "C-",
+      "created": "2023-12-15T22:54:40.785647Z"
+    },
+    {
+      "professor": "Samrat Bhattacharjee",
+      "course": "CMSC417",
+      "review": "The projects are a massive pain and will stress you out. Bobby himself can also be kind of abrasive as a professor. That said, he is probably one of the best lecturers I've ever had, and the content is consistently interesting. Exams are generally fair content-wise, but are graded harshly. Definitely learned a lot, but I would be very careful taking this class alongside other difficult courses.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2023-12-25T01:06:39.803160Z"
+    },
+    {
+      "professor": "Samrat Bhattacharjee",
+      "course": "CMSC417",
+      "review": "He will literally not move on to the next topic until all questions are answered. Friendly, funny, and knowledgeable professor. Quite merciful with grading. I got a C- even though I flunked most projects and all exams. He's also quite fascinating to converse with on Piazza.\r\n\r\nUnfortunately, he unknowingly assumes you know certain concepts about networking. He also goes too fast in class. If you take the time read the notes posted on Reddit, you'll be fine. They reflect his content better than his own notes.\r\n\r\nAnother complain I have is that I could not connect the concepts he was talking about. I only learned a bunch of seperate protocols.\r\n\r\nBut overall, great professor. Definitely take him.",
+      "rating": 5,
+      "expected_grade": "C-",
+      "created": "2024-01-16T16:33:50.144815Z"
+    },
+    {
+      "professor": "Samrat Bhattacharjee",
+      "course": "CMSC417",
+      "review": "The review from 09/25/2023 sums it up perfectly. It's a difficult class, but with that difficulty comes growth. This is THE class I think I learned the most from ever. I agree with the other student's advice, start early! The projects have very clear requirements and I was never surprised with my grade.\r\n\r\nI felt that both the project aspect of the course and the theoretical aspect of the course were beneficial, and I am now a stronger programmer, with a much stronger understanding of how pretty much everything works.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-01-17T20:28:22.000621Z"
+    },
+    {
+      "professor": "Nirupam Roy",
+      "course": "CMSC417",
+      "review": "Incredible professor - very kind and I really enjoyed his class. Exams have plenty of extra credit, and the professor himself is very understanding.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-01-20T00:25:19.180056Z"
+    },
+    {
+      "professor": "Nirupam Roy",
+      "course": "CMSC417",
+      "review": "Very heavy accent and mumbles had to drop the class because of it",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2024-04-08T02:29:28.221106Z"
+    },
+    {
+      "professor": "Nirupam Roy",
+      "course": "CMSC417",
+      "review": "Review for Spring 2024 semester. Very kind professor but not the best lecturer. Exams are not too difficult but there was no extra credit that the previous review suggested. Projects (especially a2 onwards) can take a very long time (10-30 hours). I found the course to be a bit disorganized at times and a4's schedule was very rushed (many groups did poorly). Do not take this class with other difficult classes.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-04-30T15:55:58.265282Z"
+    },
+    {
+      "professor": "Nirupam Roy",
+      "course": "CMSC417",
+      "review": "Roy is a nice guy. His lectures are alright and the exams are fair. Course materials are ok and the lecture slides are all posted beforehand.\r\n417 is a class with a very important curriculum, immediately applicable in the workplace. \r\nHOWEVER. \r\nat least for this semester of 417, it seems that TAs had a lot more to say about course policies and scheduling, because this was one of the most poorly scheduled classes i've ever taken. there is a total of 6 projects in this class. the first two are basic introductions, and everything else is a massive undertaking. the last 2 projects were SO POORLY SCHEDULED that THE SECOND MIDTERM and the FINAL EXAM both COINCIDED WITH THE DUE DATES FOR THE PROJECTS. now mind you, we had about 2 weeks for every project, but effectively only ONE WEEK for the BIGGEST PROJECTS IN THE CLASS because of the EXAM!\r\n\r\noh, and get this: you just spent the previous week doing the project, and now you study for the exam. is anything about the project on the exam? NO!!!! FUCK YOU! \r\nwell, a few of the projects got extended deadlines, but the extensions were done with cliff-penalties, which means instead of 20% penalty per day, if its been extended one day and youre late by a day, your penalty is actually 40%. \r\n\r\nthe project specs for the last few projects were also extremely vague and frankly depended on your ability to learn and do things that were not covered in class. its just straight up unfair man.\r\n\r\n\r\nso, 1 star to Roy for being nice, and 1 star for lecturing nice. every other aspect of this course was poorly thought out and cynically planned with little to no sympathy.",
+      "rating": 2,
+      "expected_grade": "D+",
+      "created": "2024-05-16T16:43:18.669306Z"
+    },
+    {
+      "professor": "Samrat Bhattacharjee",
+      "course": "CMSC417",
+      "review": "Every single review I've read of this professor I believe are a fully accurate experience someone has had with him. This will be a large review with a lot of good and a lot of bad so TLDR at the bottom:\r\n\r\nStarting off with the lectures: Bobby is an incredibly knowledgeable, engaging professor. He cares about student understanding and will not move on as long as there are still questions being asked about what he is covering. There were no lecture recordings, no notes, and generally no materials from the course itself to go back and review over. That being said I was able to get my hands on a review google doc that is incredibly maintained which I believe you can find on reddit??? (not sure where exactly it was sent to me by a friend. Regardless DEFINITELY put effort into finding it, because it is a lifesaver come exam time). Bobby is a pretty funny guy, but he is equally rude. He cuts students off while they are asking questions, because he believes he knows what the full question will be. He is only ever right in guessing what your question is 75% of the time, which leads to people repeating their question, and sometimes he cuts that off and the cycle repeats. He is also a fan of berating students, so if you ever return his rude energy or question why he treated you a certain way, beware because he will just respond in kind with being more intensely rude to you. To be completely honest I do not think he consciously understands that what he does makes people sometimes not want to participate in class, and I'm sure his intention is not to be rude; I believe his intention is to be funny and he does have some pretty solid comedic moments. If you can push past it and not take it personally, he is pretty nice under the surface and will likely grow to like you if you choose to keep participating, but it is understandable if you don't want to deal with it.\r\n\r\nProjects: This is where most of people's bad experience with the class comes from. The projects will suck up all of your time. If you want an A on any of the projects, especially past the first two, you will need to start early, and work an unreasonable amount of time. If you value a social life or hobbies, you will most likely have to decide to cut back on them to handle the insane amount of work that some of these projects require. Project A4 quite literally required 40+ hours of work, while we were given only 2 weeks (after an extension) to complete it with one of those weeks being an exam week for this class. That is an entire part time job's worth of work for a single project if you started early, and that does not even take into account the insane studying you need to do for the exam. It is fully unreasonable to expect a student who likely has a full time class schedule to do for just a single class. \r\n\r\nExams: The exams are hard, but fair. You need to make sure you know your stuff. He lets you have a couple cheat sheet pages, but even with that the exam will still take a lot out of you, and you need to move quick to avoid running out of time. For this semester he repeated a question people did poorly on Exam I in Exam II to incentivize solidifying learning, which I appreciated. He also provides you with every single exam he has ever given for the class, which is a LOT, but there are no answer keys, so you have to go to office hours or piazza if you are unsure about the solution to a problem. DEFINITELY practice the coding implementation question, as that is worth the most points and also the most difficult and harshly graded.\r\n\r\nOverall: Pressure makes diamonds. I have learned more from this class than any other class I have taken so far in my 7 semesters as a college student. I am actually pretty proud of some of the projects I have made for this class, and would be shocked if a future employer wasn't impressed by A4 or the final project. I honed the art of locking in to a single project to try to finish before the deadline, and the topics were really interesting. A lot of the internet can seem like magic, but the first motto of the class is \"there is no magic\", and I believe I have a very solid grasp on computer networking as a whole from a very low level perspective. I don't agree with a lot of the intensity choices when it comes to how difficult the projects were, I think unless you're a genius you WILL have to sacrifice part of your social life or hobbies (provided you have any in the first place), and if you have a job, while also being a full time student. Best of luck. \r\n\r\nTLDR notes:\r\n- Bobby is knowledgeable, engaging, funny, but rude and belittling\r\n- No class resources: show up to class and take good notes or get cooked\r\n- Projects require an insane amount of time and effort, see above on me repeatedly saying you will have to sacrifice social life or hobbies. \r\n- For the love of everything heed the warnings and START THE PROJECTS EARLY\r\n- Exams are tough but fair, tons of practice exams, but no answer keys. You do get multiple cheat sheets.\r\n- Pressure makes diamonds: You will learn a LOT if you move with the strong current that is CMSC417, and I believe you'll enjoy it. (Kind of a stockholm thing going on here)\r\n\r\nlost two stars because I don't believe any 3-credit class should require 20+ hours of work on any given week, and Bobby being rude to people sometimes steps over boundaries.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2024-12-05T19:52:10.014886Z"
+    },
+    {
+      "professor": "Samrat Bhattacharjee",
+      "course": "CMSC417",
+      "review": "I've never seen a professor where the reviews capture the experience so accurately, but this one really does. Every review is really good at explaining what taking CMSC417 with Bobby is like. I'll add my two cents, but the review from 12/05/2024 is ridiculously spot on!\r\n\r\nThe most important thing to know about this class, imo, is that it is HARD. The hardest CS class I've ever taken by far, and I took 351 with Kruskal; Kruskal's 351 is a cake walk compared to this class. However the difference is that you learn SO MUCH and just about EVERYTHING is useful and applicable to the real world. I went into this class knowing next to nothing about networks, but now I can tell you just about everything that happens to get information from one device to another. All the big fun networks words and acronyms like IP, TCP, UDP, HTTP, Wi-Fi, Ethernet, DNS, etc... you learn it all and you learn it WELL. Want to know how an email is actually sent or how the Dark Web works? Take this class. You will learn more in this class than like, three semesters full of other classes. It's ridiculous and awesome. His policy is \"there is no magic\", and his goal is to teach you to understand all of the \"magic\" that happens to make the Internet exist. And I feel like he accomplished that. \r\n\r\nBobby really is an abrasive professor and can be quite rude to students, but I genuinely think he means no harm, he's just trying to make people laugh. And man, he really is funny. One of the funnier professors I've had. In the same vein, the dude is super charismatic and class is just generally enjoyable with him once you realize that his \"rudeness\" is really mostly good natured. He also responds to Piazza posts in mere minutes, and genuinely seems like he wants you to succeed. \r\n\r\nBut also, the projects were really, really hard. I especially didn't like that we were just expected to learn socket programming from scratch and just do it for the first couple projects, before learning what sockets even were. We eventually did learn the protocols and such that make sockets work about a third of the way into the class, but the projects expected that well before then. And they only got harder, and I got some grades on the projects in the 10-30% range even after a whole lot of work. You do have to sacrifice a LOT of time to these projects, and it is really hard to do so. This is why the class is so hard. Some of them are extremely cool though once they work.\r\n\r\nAnd yeah, the exams were hard, but fair, but long. Time crunch for sure. \r\n\r\nI would seriously recommend taking this class but taking ZERO other hard classes alongside it, because you need an egregious amount of time to do well in this class. I don't even know if I'm going to pass but it was seriously worth it anyway because of how much cool, useful, and important stuff I learned about how things in the real world work.",
+      "rating": 4,
+      "expected_grade": "C",
+      "created": "2024-12-07T02:39:48.689477Z"
+    },
+    {
+      "professor": "Samrat Bhattacharjee",
+      "course": "CMSC417",
+      "review": "Hands down the best professor/class I've ever taken. If you want an easy class, steer VERY FAR AWAY. But if you're up for the challenge, and want to learn a LOT, then take this class. As stated before, projects are no joke. There are only 5 of them but they are extremely long and hard. The final project is also very hard. The tests are also very hard. Averages on tests were 60 and 70, and the projects average around 65. However, there is obviously a very hefty curve as not everyone just fails. Bobby is strict, but he is very passionate and extremely interesting. I'm excited to be registered for his grad course, CMSC 711 next semester!",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2024-12-18T13:05:27.202414Z"
+    },
+    {
+      "professor": "Samrat Bhattacharjee",
+      "course": "CMSC417",
+      "review": "This class was unreal.\r\n\r\nI had read the reviews for this course and was a bit concerned, but I was interesting in learning about networks, and I was willing to put in the work, so I signed up for this class. But this class was way more insane than I thought it was.\r\n\r\nFirst off, the lectures. Bobby goes way too fast in lectures for me to really keep up. Additionally, lectures are not recorded, and no notes are posted. This was incredibly difficult for me, as I tend to understand the material much better when I study it on my own after lecture. But it's sometimes hard to take good notes when you're completely lost in class. Thankfully, there's an online CMSC417 review document you can find on Reddit that contains notes for all of the topics covered in the entire class. This was my only saving grace.\r\n\r\nThe exams were incredibly difficult. He gave practice exams, which was good, but they had no answer key. Without an answer key, it's really hard to know if you're on the right track or not. Additionally, the coding questions on the exams were awful - there was always a catch to the problem, and if you didn't take it into account, you'd lose the vast majority of points. However, Bobby did curve each of the exams by 8%, which I really appreciated (exam averages were in the 60s, and they got curved to the 70s).\r\n\r\nOnto the projects. I felt like most of the projects were really interesting, and despite being an incredible amount of work, I gained a lot out of it. However, it is very difficult to fully complete the projects in time. The projects are also graded super harshly, as they expect that your implementation is 100% complete. Each individual test case is worth so many points that if you missed just a couple of edge cases, your project grade may only be around 75% at most. For most of the projects, the class average was in the 60s.\r\n\r\nAlso, it's worth mentioning that doing these projects may come at the expense of your performance in other classes. At one point in the semester, I had to spend so much time on my 417 projects that I fell behind by an entire 2 weeks worth of content in another class.\r\n\r\nAt the end of the semester, Bobby gave a massive curve. I ended up with around a 70%, and it got curved to a B (for reference, the class average was around a 74%). I wish I had at least known beforehand that there would be some sort of curve, as it would have saved me so much unnecessary stress. I have been so, so worried the past couple weeks that I wouldn't pass this class. But nonetheless, I'm so grateful for the curve.\r\n\r\nOverall, I would not recommend taking this course. Yes, I did gain useful knowledge, but I don't think it was worth the mental strain and torture I had to go through. It was less of a learning experience and more of just fighting for my life to survive. \r\n\r\nIf you do decide to take this course, just try your best in the class. Do not worry about the grade - you may get some of the most awful project grades that you wouldn't have expected in your wildest dreams, but just know that it will be okay in the end. Try your best, and you will be fine. But just know it won't be a pretty experience.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2024-12-18T20:31:14.141543Z"
+    },
+    {
+      "professor": "Samrat Bhattacharjee",
+      "course": "CMSC417",
+      "review": "This is the hardest CS course at this university. I thought I could handle it, but by the end of the semester, I was broken as a student. I sacrificed so much. I stopped having hobbies. I stopped exercising. I stopped hanging out with friends. I stopped attending all my classes except for CMSC417. I experienced a depressive episode after spending 40+ hours on Project 4 just to get 25/100. CMSC417 was the only thing that mattered.\r\n\r\nThat being said\u2014I do recommend this course. CMSC417 is extremely useful, and the knowledge/skills you gain are worth gold. You will understand exactly how the Internet is structured. You will understand everyday protocols. You will understand exactly how wireless works, and so much more. I wish I could take it again just to truly master the content. This course is an experience.\r\n\r\nADVICE:\r\n\r\n- Learn to take notes quickly. Bobby's lectures are hard to follow and fast paced, and (good) external resources are scarce.\r\n- Ask questions during lecture. Bobby will insult and humiliate you if he thinks the question is dumb, but it doesn't matter. You must understand the content.\r\n- Review and organize your notes after class. You only have enough time in lecture to loosely scribble down concepts and details.\r\n- Ask questions on Piazza. Bobby will literally stay up til 4:00am answering them.\r\n- Use office hours. Bobby is very happy to spontaneously hold OH at unscheduled hours, and he tends to be more generous with past exam answers to those who show up. I didn't attend the TA office hours, so I can't comment on those.\r\n- Start projects the day they are released. (You won't take this advice seriously, and you will suffer.)\r\n- Pick your group members wisely. You cannot succeed without them. This course will make you truly understand what it means to work together on a single codebase.\r\n\r\nGood luck.\r\nFall 2024",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2025-01-29T00:13:00.118535Z"
+    },
+    {
+      "professor": "Samrat Bhattacharjee",
+      "course": "CMSC417",
+      "review": "take this course if you are willing to give up your sanity and all your free time.  Bobby is scary.  You have been warned.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2025-05-13T22:02:05.385864Z"
+    },
+    {
+      "professor": "Nirupam Roy",
+      "course": "CMSC417",
+      "review": "Professor Roy is really knowledgeable about networks and conveys the concepts well. Super interesting class, taught extremely well, and the lecture material is organized.\r\n\r\nOn the other hand, I had a real issue with the projects. First off, the TAs are extremely unsympathetic to the workload you have while taking this class. It took an army to get hints on the test cases for each project. C programming and networking concepts related to programming are not taught in class at all, and you're forced to fend for yourself. At one point, the professor and TAs literally tell you to read a research article and implement it. The projects are designed well but need a serious overhaul in how test cases are run and how material is taught in class. If the professor didn\u2019t feel like teaching the material for the projects, that\u2019s fine\u2014as long as there are decent guidelines and some starter code. This class had neither.\r\n\r\nThe final project is very hard, but doable. It\u2019s actually really cool to learn about, and you're given three other groupmates to complete it.\r\n\r\nExams are fair. Lecturing is great. Projects are ass. (10\u201312 hours for the easy ones, and way more for the hard ones.) Two midterms, one final, five projects, and a final group project. I\u2019m a senior now, and I don\u2019t regret taking the class\u2014but it was definitely the hardest class I've taken here. Godspeed.",
+      "rating": 3,
+      "expected_grade": "B-",
+      "created": "2025-05-20T01:49:35.908568Z"
+    },
+    {
+      "professor": "Nirupam Roy",
+      "course": "CMSC417",
+      "review": "Easy tests and hard projects. I feel like most 400 classes don't let you get your hands dirty with the projects and hold your hand with many of the assignments. This class basically rips off that bandage and expects you to learn C/C++ and make you write all the code yourself. You get to write many practical and useful projects compared to the other 400 classes I've taken so far. Projects (a2 onward) are stressful, but I have only myself to blame as I would start 2-4 days before the due date. As long as you start early and am confident in your coding skills, you will most likely do fine in this class. I enjoyed the content and teachings of Roy albeit sometimes a little boring.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-27T05:48:49.063963Z"
+    },
+    {
+      "professor": "Nirupam Roy",
+      "course": "CMSC417",
+      "review": "The lectures were sufficient and you would do great on the exams if you supplemented with the Top-Down Book (NOT the Systems Book; it is really strange that the professor recommends the Systems book instead of the Top-Down Book even though the ROI for reading the former is small compared to the latter). \r\n\r\nHowever, the way the projects were designed is comically laughable. \r\n\r\nFor the first project, they provided an outline and plenty of guidance, and even went to the trouble of having a \"Socket Programming Workshop\" in order to get people prepared. One would naturally assume that they are committed to proving guidance and resources to students that don't have much experience in network programming. \r\nThen suddenly, for the rest of the projects, there was no such guidance given. This is such a morally insensitive move as you cannot assume students are deficient in their preparations to the point where they need a Workshop and then suddenly they no longer need any guidance for implementing the Chord P2P protocol and a BitTorrent-client. \r\n\r\nAnd of course the TA and the instructor have an incredible ego. Discouraging when you ask for help.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-05-30T14:34:04.596759Z"
+    },
+    {
+      "professor": "Ting Jiang",
+      "course": "CMSC417",
+      "review": "Do not take this course with this professor. Lectures are slide reading; they are worse than simply reading the slides themselves. I beg of you, just read the RFCs (no, not the AI summaries).",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2025-11-18T04:24:44.877928Z"
+    },
+    {
+      "professor": "Ting Jiang",
+      "course": "CMSC417",
+      "review": "The worst professor I've had in this entire school. The course is immensely poorly run: she claims she gives us two weeks for every project but that is not completely truthful. Project 0 wasn't set up right so student's didn't have access to the gitlab for over a week (unexcusable for a professor with multiple tas), project 1's grader was set up a week after the project was released, project 2 was released with the answer key so it was cancelled, project 3 was almost undoable for a few days because the server wasn't set up against spam, and once it was finally fixed we had one week over thanksgiving break to do the project. TAs are completely useless and only post on Piazza to say that their office hours are cancelled yet again.\r\n\r\nIf you ask her for a clarification during an exam she will simply walk away from you if she doesn't want to answer it. Her lectures are borderline incomprehensible and she insists on having a participation grade because \"the other professors do it\" even though she doesn't know how to do a participation grade (tried using a clicker, attendance sheet, and then landed on cold calling) This is her first time teaching the course, but it was done extremely poorly and I would strongly discourage anyone from taking this class with her.",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2025-12-01T16:34:14.591211Z"
+    },
+    {
+      "professor": "Ting Jiang",
+      "course": "CMSC417",
+      "review": "She is so sweet and i think she really wants everyone to do well, but girl cannot lecture. I took her for 351 as well, so i knew what to expect. She basically reads off slides, but is willing to go further into detail if you have questions or need her to clarify. \r\n\r\nThe organization of the class was really bad. It took us about a month (maybe and a half) to get the first project out. I think she didn't have much choice in picking her TAs (she only had 3 for a 120 person class), so I'll cut her some slack, but they all seemed like they didn't care. One TA released the answer key to Project 2 accidentally so the project was cancelled, and because we were so behind, Project 4 had to be cut as well. Also, the last project was due a week after the \"final\" project... love her, but side eye. On the bright side, the exams were definitely easier than other Roy's or Bobby's. The projects were literally Roy's from previous years and weren't too bad.\r\n\r\nI still do think I learned a lot, I was just pretty bored while I was doing it. I also think my grade would've suffered had I taken the class with another professor, so overall, I don't think it was the worst outcome. Just know what you're getting into if you take the class with her.",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2025-12-10T03:48:47.382539Z"
+    },
+    {
+      "professor": "Ting Jiang",
+      "course": "CMSC417",
+      "review": "dont do it. i dont even care about numerous logistic issues the course faced, but this prof is just not good at teaching this course. maybe she will improve in later semesters, but I think there are still some fundamental problems.\r\n\r\nthe main problem is that her english reading/speaking is genuinely bad. like she'll read from the slide or presenter notes and completely mispronounce things to the point that I, someone who has been around Chinese accents my entire life, cannot tell what shes referring to on the slide until like over a minute later. this is especially bad in this course due to 1. the huge number of acronyms, some of which are similar to each other (she sometimes mixes up letters when saying them), and 2. she didn't make the slides herself, so there are words she isn't familiar with. also she often reads/speaks with unusual intonation, which makes understanding *way* harder (I didn't realize the importance of intonation in speaking until taking this class.). \r\n\r\nher exams also suck, where you kinda have to memorize bullet points from slides exactly, instead of just knowing the concept. like if a question asks about the pros/cons of something, you NEED to recite the exact ones on the slide. also for some reason one exam had a question about a topic that came a week later ?????????????????????????\r\n\r\nfinally, these problems wouldn't be as bad if the slides were good, but they aren't good. the slide decks are like an amalgamation of some other professor's 417 slides, which were already weird. if you try to review using the slides, you'll see DOZENS of duplicated slides (probably hundreds over the course of the semester), and sometimes they're not even exact duplicates. Another thing is that a lot of the time, the slides are NOT self explanatory at all and don't have speaker notes. The class doesn't follow the textbook at all, and if you didn't make out what she said and meant when presenting the slide, you have to just search it up and hope you find the relevant details of the topic",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2025-12-16T01:32:08.913271Z"
+    },
+    {
+      "professor": "Ting Jiang",
+      "course": "CMSC417",
+      "review": "First semester teaching, course was poorly organized. She and TAs were not responsive. She's not great of a lecturer, she just reads off from the slides and doesn't make material digestible. She also did not give good practice for the exams, although she might use this semester's exams for future semesters.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2025-12-20T22:12:29.302344Z"
+    },
+    {
+      "professor": "Ting Jiang",
+      "course": "CMSC417",
+      "review": "Literally the CS departments worst teacher. \r\nIf you want someone who\u2026\r\nDoesn\u2019t answer any questions on piazza\r\nBlames the TAs for the courses issues\r\nUploads project solutions instead of starter code\r\nIs horrific at lecturing\r\nGives stellar exam advice like \u201cread the slides\u201d\r\nGives impossible exams \r\nDoesn\u2019t curve the class\r\nThen you should take ting. Giving her two stars bc she clutched up in the end and the last individual project and the final project were graded super easily, but this was a scaring experience taking this class. I imagine she will teach it better the next time she does if she is given the opportunity to.",
+      "rating": 2,
+      "expected_grade": "C-",
+      "created": "2025-12-23T22:19:00.184234Z"
+    },
+    {
+      "professor": "Ting Jiang",
+      "course": "CMSC417",
+      "review": "She is using content from previous semesters afaik, she did clean up the slide decks as the previous semesters had tons of duplicate material added in confusing fashion, and she was able to reduce the number of decks significantly. I wouldn't say she was just reading slides as most of the slide decks she inherited had lots of slides with diagrams and no notes. She had her own notes to go over for the lectures and I would say she was able to cover the material even though this was her first semester teaching the course. There were other issues but this course needs modernized is some of the problem, I don't think she had the authorization or resourses from the dept to do that on her own. Also keep in mind this has been one of the most demanding courses historically.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2026-01-03T06:57:01.341455Z"
+    },
+    {
+      "professor": "Ting Jiang",
+      "course": "CMSC417",
+      "review": "PROS:\r\n- One of the TAs accidentally uploaded the solution to Project 2, instead of the blank student copy. The project was shortly thereafter cancelled.\r\n- Gave slightly more time on projects than professors in past semesters.\r\n- Nerfed Project 4.\r\n- Allowed a one-page cheatsheet on the final exam.\r\nCONS:\r\n- No recorded lectures.\r\n- Always reads off the slides. Sometimes gives crucial information that isn\u2019t on the slides, only stating it in the middle of lecture. So you'd better take quick notes.\r\n- Took 3 weeks for the first project to be released. This semester was the first time she and her three TAs had ever touched GitLab. Took another week to create another GitLab after the first one was mistakenly given full-edit permissions.\r\n- Directly stated a fact that, when applied to the first midterm, was marked wrong. Took two weeks for regrade requests to be resolved.\r\n- Does not freely give points back on midterms like some 351 reviews say; she will actually deduct points if you make a regrade request that isn\u2019t a grading error.\r\n- TAs are not knowledgeable about the course material. You will likely have to teach them the concepts covered in class if you want to receive any help.\r\n- Ting and the TAs will answer questions on Piazza at a frequency of about once per week. You\u2019re better off emailing them privately or asking a fellow classmate.\r\n- Employed multiple-answer, multiple-choice exam questions where choosing an incorrect answer, irrespective of how many correct answers chosen, would garner you 0 credit. The reason why these were not short-response questions is beyond many students, including me.\r\n- Will cold-call in the middle of lecture by writing names on the board in front of everyone. Be prepared to answer her question; otherwise, you instantly lose 1% of your final grade.\r\n- When not taking attendance this way, she may opt to pass a paper around the lecture hall instead for people to write their names down. Many students had to stay in after class that day.\r\n- Review sessions during class would mostly consist of Ting saying, \u201cjust memorize everything\u201d before dismissing us from lecture.\r\n- Closed-resource exams demand you to recall entire transcripts of slides, sometimes word-for-word. Failure to recall one bullet point among 200+ slides for a given exam will net you a loss of about 4 points, though sometimes 2 if the information is \u201cniche enough.\u201d Ting defends this by saying all 400-level classes expect this of you.\r\n- After posting Project 3 in Week 12 of the semester, several students managed to DDoS a necessary component required to complete the project. Ting and the TAs did nothing to address this, despite many Piazza posts being made, until one week later (leaving just one week to work on the project).\r\n- Many students asked for a one-week extension on said project due to the project\u2019s \u201cfix\u201d not working for many Mac users. Eventually, Ting complied and gave us an extension of... one day.\r\n- Grading criteria for Project 3 were inconsistent with the observed behavior of programs that students were meant to replicate. Inconsistencies were not documented whatsoever, and were only discovered 3 hours before the project was due. This meant that students could replicate the program perfectly and still have points deducted for seemingly no reason, as the autograders provide no feedback whatsoever.\r\n- Project 4 was assigned with 2 weeks left of class, with the due date being the Monday of finals week. Many students requested that the assignment be dropped, but unfortunately, no change was made.\r\n- Grading was inconsistent on Project 4, meaning you could submit the same code multiple times and receive different autograded results, but no feedback on specific tests was given.\r\n- TA grading was inconsistent on the Final Project. Groups could implement extra credit features on top of a perfectly functioning project and still receive a grade of less than 100. Other groups could do the same and receive grades above 100. Upon questioning TAs about this issue, none of them would respond (All requests were ghosted on Piazza).\r\n- Did not state Final Exam topics until less than 48 hours before the exam.\r\n- Stated, on Canvas, that the final exam would last 2 hours, from 4 PM to 6 PM. On the date and time of the exam, the timer at the front of the room lasted 1 hour and 45 minutes. The exam ended at 5:45 PM, not 6 PM.\r\nFor reference, here was the project schedule for the last few weeks of class:\r\n- November 17, 2025 \u2013 Project 3 released.\r\n- (November 26 - 30, 2025 \u2013 Thanksgiving Recess.)\r\n- December 1, 2025 \u2013 Project 4 released.\r\n- December 3, 2025 \u2013 Project 3 due.\r\n- December 6, 2025 \u2013 Final Project due.\r\n- December 15, 2025 \u2013 Project 4 due.\r\n- December 18, 2025 \u2013 Final Exam.",
+      "rating": 2,
+      "expected_grade": "A+",
+      "created": "2026-01-13T21:31:39.116379Z"
+    },
+    {
+      "professor": "Nirupam Roy",
+      "course": "CMSC417",
+      "review": "Terrible course. Lectures are boring and the slides are a mess. The lectures have nothing to do with the projects and the projects have nothing to do with the exams. The whole structure of the course is completely backwards, making us implement protocols weeks or even months before we learn about them in class. The lectures teach you nothing about the C programming required to complete the projects and the projects don't progress in a way to help you learn it. The projects aren't fun, there's no good way to prepare for the exams, and the overall lecture and course structure are sloppy",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2026-04-05T14:13:36.973443Z"
+    },
+    {
+      "professor": "Nirupam Roy",
+      "course": "CMSC417",
+      "review": "The lectures and the coursework are on completely different things, and the requirements of the projects are honestly kind of absurd asks. This would be a fun and doable class if I didn't have three others that demanded my attention and time as well, but I do, so it's an exercise in busywork.",
+      "rating": 2,
+      "expected_grade": "D+",
+      "created": "2026-04-13T16:23:11.681429Z"
+    }
+  ],
+  "department": "CMSC",
+  "course_number": "417",
+  "name": "CMSC417",
+  "title": "Computer Networks",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> Minimum grade of C- in CMSC351 and CMSC330; and permission of CMNS-Computer Science department. Or must be in the (Computer Science (Doctoral), Computer Science (Master's)) program.\nComputer networks and architectures. The OSI model including discussion and examples of various network layers. A general introduction to existing network protocols. Communication protocol specification, analysis, and testing.",
+  "is_recent": true,
+  "geneds": null
+}

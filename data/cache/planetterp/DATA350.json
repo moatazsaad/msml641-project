@@ -1,0 +1,79 @@
+{
+  "average_gpa": 3.647872340425532,
+  "professors": [
+    "Vincent Lyzinski",
+    "Vincent Lyzinski",
+    "Fushuai Jiang",
+    "Vincent Lyzinski",
+    "Fushuai Jiang",
+    "Raluca Rosca",
+    "Karl Pierce",
+    "Mestiyage Gunatilleka"
+  ],
+  "reviews": [
+    {
+      "professor": "Vincent Lyzinski",
+      "course": "DATA350",
+      "review": "Wonderful professor. He is a great lecturer and you will learn a lot in this class. He is also very helpful in office hours if you need help with R. Assignments can be tough but they are doable and the grading is pretty easy.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-12-17T18:33:49.925919Z"
+    },
+    {
+      "professor": "Fushuai Jiang",
+      "course": "DATA350",
+      "review": "Imo super boring class, but a pretty easy A.  No exams and all project and homework-based.  There is a final project/presentation for the midterm & final which build off of each other, and it's really just a standard data science exploration project.  Sometimes the assignments can be confusing or mistyped, but they're not that difficult if you dont slack off.  I stopped going to lecture a quarter into the semester, but I managed to stay on top of the work because of the resources he provides (websites & books).  Literally everything you'll be doing will be in R(Studio) and with ggplot2 for data visualization instead of Jupyter notebook/Google colab (pandas).  \r\n\r\nProfessor is a really chill guy, but I guarantee you'll find this as more busy work than anything else.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2024-12-07T05:33:25.640009Z"
+    },
+    {
+      "professor": "Fushuai Jiang",
+      "course": "DATA350",
+      "review": "This isn't too bad of a class, and the homework is pretty easy to do. I will say he grades the midterm/final project a little bit harshly, so make sure to put some effort into it. He wants you to go more in-depth regarding statistics beyond visualization. It's helpful if you know concepts from STAT401/STAT430 (hypothesis testing, correlation analysis, etc.) Attendance is not required but for extra credit. There's also a midterm presentation that you can do for extra credit as well. He's a pretty chill professor overall.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2024-12-13T23:18:51.107992Z"
+    },
+    {
+      "professor": "Fushuai Jiang",
+      "course": "DATA350",
+      "review": "Professor is a nice guy who is understanding but definitely grades harsher than you'd think and wants you to put in more effort for this class than you'd probably like to. He does offer extra credit for in class presentation and even more for attending other people's presentations. Overall he's a little better than mid. The class to me is honestly extremely boring. I absolutely dreaded each assignment, stopped going to class, and in general was not interested in R (only took the class to keep a scholarship). Fairly easy A as long as you put in the work, but don't expect too much from this class. I will say, going to class makes the content much easier to understand, and prof is great at walking through the process step by step in class.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-12-21T23:19:04.293099Z"
+    },
+    {
+      "professor": "Vince Lyzinski",
+      "course": "DATA350",
+      "review": "Good professor and nice guy. Took him for a data visualization class Fall 23 and he is knowledgable on the subject. Lectures were somewhat boring at times as it is just flipping through slides but the content is interesting. At the end of the semester we did more hands on work which was fun. His office hours are very helpful.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-16T02:56:09.267922Z"
+    },
+    {
+      "professor": "Vincent Lyzinski",
+      "course": "DATA350",
+      "review": "very good prof for 350; very passionate and knowledgeable about data visualization and data in general",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-06-01T21:39:24.869051Z"
+    },
+    {
+      "professor": "Fushuai Jiang",
+      "course": "DATA350",
+      "review": "the class syllabus has changed a lot based on other reviews. atm it's 3 quizzes worth 16% each, projects were supposed to be worth like 18% instead and proiject critiques were basically free 10%, homeworks optional\r\n\r\nthere are some struggles with class organization: he shoved two projects into 1 by the end of the semester and there were times during lecture where he was visibly confused at the slides. but besides that well-taught class imho, not very hard if you know what's up",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2025-12-20T18:04:23.394211Z"
+    }
+  ],
+  "department": "DATA",
+  "course_number": "350",
+  "name": "DATA350",
+  "title": "Data Visualization and Presentation",
+  "credits": 3,
+  "description": "Introduction to effective and intuitive visual representations of data, including customizing, graphics, plotting arrays, statistical graphics, and representing time series.",
+  "is_recent": true,
+  "geneds": null
+}

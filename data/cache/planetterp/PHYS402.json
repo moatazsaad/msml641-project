@@ -1,0 +1,140 @@
+{
+  "average_gpa": 2.7968430826369546,
+  "professors": [
+    "Victor Yakovenko",
+    "Paulo Bedaque",
+    "Ian Appelbaum",
+    "Victor Galitskiy",
+    "Steven Anlage",
+    "Alberto Belloni",
+    "Theodore Jacobson",
+    "Christopher Lobb",
+    "Steven Anlage",
+    "Christopher Lobb",
+    "Andrey Gromov",
+    "Theodore Jacobson",
+    "Victor Galitski",
+    "Theodore Jacobson",
+    "Victor Galitski",
+    "Manuel Franco Sevilla",
+    "Victor Galitski",
+    "Aaron Sternbach",
+    "Victor Galitski",
+    "Manuel Franco Sevilla",
+    "Nathaniel Smith"
+  ],
+  "reviews": [
+    {
+      "professor": "Steven Anlage",
+      "course": "PHYS402",
+      "review": "I'd heard a lot of really bad things about Anlage before taking the class, and was really nervous.  However, he's actually a great physics professor.  His weekly homeworks force you to learn the material, and learn it well, and his tests were a good level of challenge without being incomprehensible.  He offered extra office hours to those who needed them, which I heard were very helpful.  He can go fast and sometimes explanations aren't the best, but the text fills in any blanks quite nicely.  ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2008-05-27T22:30:00Z"
+    },
+    {
+      "professor": "Ian Appelbaum",
+      "course": "PHYS402",
+      "review": "One of the best physics lecturers I had: 1)extremely thorough and clear presentation of QM, with lecture notes posted; 2)put effort into designing the course, supplementing Griffiths' textbook with his own derivations which are often more insightful; 3)challenging but well-written homework problems focusing on physics concepts. \r\nThat being said, he held (perhaps righteously) high standards for his students therefore gave difficult exams. But, even when the problem seemed really hard, you could manage to solve it if you followed and understood all his lecture notes (which I should have done but didn't). I definitely learned a lot in his class and did not regret taking him. It's not an easy ride, but neither is QM. ",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2014-11-20T12:27:00Z"
+    },
+    {
+      "professor": "Ian Appelbaum",
+      "course": "PHYS402",
+      "review": "Probably the worst professor I've ever had. He had unrealistic expectations of the students, a monotonous classroom experience, and did not provide nearly enough support to his students. His exams were purposeful attempts to fool students, a fact of his teaching strategy that he shared with us.\r\nMoreover, he made me really dislike QM, something I would have thought impossible.\n\r\nAvoid at all costs.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2014-11-20T00:29:00Z"
+    },
+    {
+      "professor": "Victor Yakovenko",
+      "course": "PHYS402",
+      "review": "Yakovenko is one of the better professors in the physics department, probably the second best physics prof. I have had after Hall. He lectures directly from the book, but I think his lectures are informative and helpful even though many people decided to skip them. \n\r\nHis grading scheme is also very unique: 50% homework and 50% tests, and there are two tests, each counting 25%. He does assign a lot of homework though, and it is difficult, although the problems are not his own but are from the book. He sometimes makes up additional parts to questions which are pretty straightforward. Tests were impossible, however. I think the averages were below 50%. The curve at the end of the semester was something like above 70% weighted homework and tests was an A.\n\r\nI would recommend taking a class with Yakovenko, because he is one of the better lecturers in the department and the grading scheme really rewards those who work hard on their homework. You end up learning a lot in the class.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2010-05-30T08:52:00Z"
+    },
+    {
+      "professor": "Victor Yakovenko",
+      "course": "PHYS402",
+      "review": "Yakovenko is a instantly likeable professor. He's funny, smart, and he's definitely effective at communicating the material. He has a habit of dropping constants in equations, which is okay, but you will need to include them in the homework or lose points. Of course, the first couple of times he does it, he re-introduces them at the end, so you kind of learn to do it yourself. He adapted the course structure to the students' incoming knowledge very well, he answered any questions directly (though he sometimes missed the point of a question), and he rapidly responded to any questions you might email him.\n\r\nI personally had an incident where I was sick and emailed him asking if I could scan my homework and email to him. He said I could and said he would give it to the TA. The next week, it turned out that the TA never got my homework, and Yakovenko said that he was not a conduit to the TA and that he hadn't agreed to give the TA my homework, that I would have to go directly to the TA. I double checked the email, and I wasn't making up our conversation, so I was a little peeved. I gave the homework to the TA and it didn't get marked down for lateness though, so from a practical standpoint there wasn't really a problem.\n\r\nIn the end, I am looking forward to having Yakovenko as a professor again in PHYS404, which I guess says more than the rest of this review.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2010-04-29T12:57:00Z"
+    },
+    {
+      "professor": "Steven Rolston",
+      "course": "PHYS402",
+      "review": "Definitely the best undergrad physics teacher I have had yet. Tests were hard, yes, but they were either open book or take home. hes also the director of the JQI (joint quantum institute), meaning he really knows his stuff.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2010-12-27T15:04:00Z"
+    },
+    {
+      "professor": "Theodore Jacobson",
+      "course": "PHYS402",
+      "review": "Professor Jacobson has a very good approach to PHYS402. In my personal experience, the course was well taught at a perfect level of difficulty. The material we were taught was very relevant to modern research. The only thing that I was not a fan of was he skipped certain important topics like Bloch's theorem and scattering theory.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-02-22T16:44:27.944855Z"
+    },
+    {
+      "professor": "Victor Galitski",
+      "course": "PHYS402",
+      "review": "Professor Galitski is a okay professor, but I don\u2019t think I could recommend him.\r\n\r\nThe course structure as a whole was very well laid out. There were three lectures a week as well as a discussion section. Quizzes were given out during discussions every other week, and the alternating weeks had a worksheet that the TA would go over. The course also had two TAs. There was a healthy balance between grade weighting for exams, homework, and quizzes. The final was also made optional. This allowed for me to do quite well in the class despite struggling with understanding a few topics. \r\n\r\nThe main problem with the course was lectures themselves. The professor would go through countless derivations in class without really getting into the reasoning for doing so. These derivations were also free-handed so we often had to make corrections to our notes when he made mistakes. His lectures would have immensely benefited from him reading from his notes more often instead of trying to do everything off the top of his head. This made understanding some topics or their relevance difficult. \r\n\r\nDespite lecture difficulties, the professor did do his best to make the class manageable outside of it. We didn\u2019t have too many homeworks, and they all were manageable. Additionally, for quizzes and exams, a list of the relevant topics was provided. \r\n\r\nI personally had difficulties with the professor in terms of scheduling a make-up midterm where contact over email was a struggle, but I\u2019m not sure if that was just a onetime event.\r\n\r\nStudents with a good grasp of quantum topics will do well in his class given its structure. People who struggle more with quantum may want to invest in tutoring or visiting office hours to ensure the content taught in lecture is explained in more detail.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2024-05-19T21:51:52.651751Z"
+    },
+    {
+      "professor": "Victor Galitski",
+      "course": "PHYS402",
+      "review": "Interesting and considerate guy, seems to enjoy teaching. Responds to questions in a kind of odd way, maybe a cultural thing. Very good about making sure students are prepared for the exams (doing review sessions and whatnot).",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-05-22T23:05:01.877565Z"
+    },
+    {
+      "professor": "Victor Galitski",
+      "course": "PHYS402",
+      "review": "Galitski really knows his subject. The only complaint lectures are a bit too slow and a lot of important material was left uncovered.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-11-25T03:49:56.989617Z"
+    },
+    {
+      "professor": "Victor Galitski",
+      "course": "PHYS402",
+      "review": "Pros:\r\n-Quizzes and exams are fair. I thought the difficulty and format were reasonable, and a list of topics would be shared before each one. They're also open note and open book (no internet), which is nice.\r\n-I like Griffiths as a textbook\r\n-He will review anything the class seems to be missing knowledge-wise and wants his students to learn\r\n-The homeworks were overall useful to our understanding\r\n\r\nCons:\r\n-Maybe spent a bit too long doing derivations given we had reduced lecture time this semester, I wish we had covered more content\r\n-The homeworks occasionally had some really tough questions that too very long to solve\r\n-Lectures are done by hand, leading to occasional mistakes in stuff written on the board that students need to correct\r\n\r\nI liked Dr. Galitski and would recommend him for PHYS402 in the future.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-12-04T05:18:19.981497Z"
+    },
+    {
+      "professor": "Victor Galitski",
+      "course": "PHYS402",
+      "review": "I would not recommend Dr. Galitski's PHYS402 course. My main problem with this class was that expectations for quizzes and exams were far too unclear. There were only four homeworks during the semester, so there were many topics that we didn't get any practice with but were still expected to know for the quizzes and exams. I often found myself struggling to study because I had no idea WHAT to study. I was also disappointed that we barely covered any material outside of perturbation theory. \r\n\r\nAnother problem with this class is that Dr. Galitski was under the impression we had learned several topics in 401 that we simply hadn't covered. He did his best to catch us up to speed which I appreciate, but it still led to confusion and points lost on homework and tests. I got through this class but I'm sad because I love quantum and yet didn't get much out of this class.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2025-01-02T22:54:01.230165Z"
+    },
+    {
+      "professor": "Victor Galitski",
+      "course": "PHYS402",
+      "review": "Professor Galitski is a great lecturer and does an impressive job of explaining concepts clearly. This is important for a class as conceptually difficult as PHYS402. I found his exams and quizzes to be reasonable. Phys402 will not be an easy A, but Galitski is a fair professor and does not assign any super crazy homeworks or tests. He also made the final exam optional at the end of the semester.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-05-15T19:05:24.723914Z"
+    }
+  ],
+  "department": "PHYS",
+  "course_number": "402",
+  "name": "PHYS402",
+  "title": "Quantum Physics II",
+  "credits": 4,
+  "description": "<b>Prerequisite:</b> PHYS401.\nQuantum states as vectors; spin and spectroscopy, multiparticle systems, the periodic table, perturbation theory, band structure, etc.",
+  "is_recent": true,
+  "geneds": null
+}

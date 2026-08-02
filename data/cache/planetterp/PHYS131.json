@@ -1,0 +1,575 @@
+{
+  "average_gpa": 3.4120411891712332,
+  "professors": [
+    "Edward Redish",
+    "Wolfgang Losert",
+    "Arpita Upadhyaya",
+    "Alan Peel",
+    "Benjamin Dreyfus",
+    "Marco Colombini",
+    "David Buehrle",
+    "Mark Eichenlaub",
+    "Matthew Harrington",
+    "Matt Severson",
+    "David Buehrle",
+    "David Buehrle",
+    "Matt Severson",
+    "David Buehrle",
+    "David Buehrle",
+    "David Buehrle",
+    "David Buehrle",
+    "Matt Severson",
+    "David Buehrle",
+    "David Buehrle",
+    "David Buehrle",
+    "David Buehrle",
+    "David Buehrle",
+    "David Buehrle"
+  ],
+  "reviews": [
+    {
+      "professor": "Wolfgang Losert",
+      "course": "PHYS131",
+      "review": "Dr. Losert has really awesome intentions, but he just cannot teach.\n\r\nAlso, the new physics course for biology majors is really not working out. They made this course so that bio majors can \"think\" about a problem in a bio-related way.\n\r\nAlthough the intentions are great, it is poorly managed and so far, none of my friends like it. ",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2014-10-20T18:52:00Z"
+    },
+    {
+      "professor": "Edward Redish",
+      "course": "PHYS131",
+      "review": "This class is indeed challenging and causes you to look at physics in a much different way, meaning its not simply plug and chug physics. He makes you think critically and wants you to understand what is really happening. Overall this class seriously takes a lot of effort and work, but all in all it is highly possible to get an A. Professor Redish is one of the few professors I've had thus far that wants you to succeed and really wants all his students to pass. If you go to office hours in the course center for homework help you will be golden. Also if you have the pleasure of having Kim as your TA then you are extremely set. This class is a lot different than what you may be use to, but it really is possible to pass. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2014-01-06T04:09:00Z"
+    },
+    {
+      "professor": "Edward Redish",
+      "course": "PHYS131",
+      "review": "His class is difficult in that you SHOULD/WILL put 6-10 hours per week on weekly assignments. Thats how you learn in this class, from your mistakes. But this course has been the best I have taken yet; his style of teaching concepts in lecture really allows you to expand from the usual \"way\" of approaching science education. That's what I loved about this class, designed to make (or teach) you how to think critically, approach detailed problems using the strong foundation he instills about physics and biology. For a serious pre-med student, I strongly recommend him and this course specifically. ",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2012-07-26T01:57:00Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "This class was super chill. The class focused more on theory than doing math (great for me because I suck at math!). The homework and weekly quizzes can be difficult but he repeats very similar questions on his exams. His online lectures were reused from spring and summer sessions. This made me feel disconnected from the class which was hard for me mentally and made it difficult to stay engaged. Online lab was fine because there is no work outside of the lab. You work with your assigned group over zoom through out the semester and everything is done on the computer. You can put in some effort and do fine. ",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2020-12-27T04:04:55Z"
+    },
+    {
+      "professor": "Matt Severson",
+      "course": "PHYS131",
+      "review": "He was an easy going professor but I don't think I learned anything in his class. He seemed like he really understood physics but because he was trying to teach using another professor's course material he often seemed really unprepared for class. He was not very approachable when asking questions and usually was a little mean to the person asking. I got an A in the course but I literally do not know any more physics than I did going to into the course. ",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2020-12-27T04:12:58Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "The grading scale is heavily tilted so its almost impossible to fail the class. But, don't expect to get much out of the class because its a disorganized nightmare",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2021-05-15T16:49:45Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "If you need to get physics out of the way because it is just some random requirement, then this class is for you. He puts a huge curve on the grades, so even though I knew literally maybe 20% of the content I still got an A in the class (my exam scores were 88.5%, 68%, and 135/200 on the final). His lectures are absolutely useless, because he never teaches you how to actually think through and solve a physics problem. Most of the quizzes and homeworks could be found on old UMD PowerPoints and quizlets. With all this in mind, I have never known less for a class and came out of it with an A, despite the fact that I literally don't know anything about physics. This sucks for me because I am a pre-med student, so now I have to self study physics for the MCAT since he did not teach me anything. So if you actually want to learn, I would give this class a 2/5, but if you are looking for an A with minimum effort to simply get a physics requirement out of the way I would give this class a 4/5.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2021-05-23T17:35:29Z"
+    },
+    {
+      "professor": "Matt Severson",
+      "course": "PHYS131",
+      "review": "Dr.Severson was a great professor. I will admit that there were instances where I completely did not understand what he was teaching and sometimes he even confused himself. He uses another professor's material to teach which explains why it confused him at times, but did a decent job at explaining it. His grade cutoffs are fair and his exams are pretty difficult. I had a very hard time studying for the exams but managed to do well on other assignments like quizzes and homework. The lab is very annoying and the TA's are unhelpful, Dr.Severson has even admitted this. He responds to emails quickly and listens to all concerns that any of his students may have.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2021-05-24T13:31:03Z"
+    },
+    {
+      "professor": "Matt Severson",
+      "course": "PHYS131",
+      "review": "Honestly, if you want to learn physics, take any other professor. For credibility - I am a pre-med student with a near 4.0 gpa. Dr. Severson has failed to teach his students effectively at all. He is incredibly unorganized, continually moving homework, exam and quiz due dates. I am under the impression he does not write his own material. It is impossible to prepare for the course. I took AP Physics in high school and was capable of understanding all of it and succeeding. This class has been a fraction of what I can remember from high school but I somehow unable to learn any of it with his horrible teaching. He has no power over the class. People constantly talk over him. This is due to the fact he has shown his students no respect and therefore shouldn't expect to get it back.... I am not cold hearted, nor have I ever written a review on PlanetTerp before... this class is just so awful. Every recitation students stare blankly at the screen as we haven't been taught how to do anything. The homeworks are far beyond anything learned in class. Can't recommend not taking this guy enough. I am halfway through this course and don't have much hope - nor do I have any idea what my grade could be at the moment as he doesn't input any grades. I hope he does better in the following weeks. ",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2021-10-28T22:49:53Z"
+    },
+    {
+      "professor": "Matt Severson",
+      "course": "PHYS131",
+      "review": "Do not recommend this professor for anyone taking physics for the first time. Some of the material is intuitive, but he doesn't teach it like it is. Many times he takes the more complicated route to explain it than is necessary. Also, he is terribly disorganized and likes to push back dates of exams. The homework assigned is astronomically difficult because it does not always line up with what is being taught in class, so you just have to figure it out on your own, since he releases textbook chapters sequentially depending on how much you get through in class. I took one physics class in high school and it has helped a little, but this class isn't worth the time you put in. ",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2021-11-08T03:51:50Z"
+    },
+    {
+      "professor": "Matt Severson",
+      "course": "PHYS131",
+      "review": "I agree with the person below (10/28/2021) and I'm coming from similar credibility, but I honestly give him a pass this semester due to family issues. He's a nice guy and I actually think he's a decent lecturer, people just need to stfu during class. That being said, the class is still disorganized (quiz and HW due dates not predictable) and is based on another professor's material.\r\n\r\nHomework sucks. It is often only loosely related to material from class, and requires unnecessary digging around and reading between the lines to sometimes understand what to do. It usually isn't super long though.\r\nRecitation currently sucks because there seems to be a disconnect between him and the TAs; the recitation content is often one or two weeks ahead of lecture, so you have no idea what's going on and the TAs don't seem to know that. They don't know where we are in lecture or even when our exams are. It's possible this will change though.\r\nLab sucks but what's new. The experiments themselves are actually interesting but analyses and lab reports are a pain.\r\n\r\nIt's true it's hard to prepare for exams or homework. It's not a straightforward physics class, there is a lot of time spent explaining concepts in-depth. Basically, they know we're premeds who don't actually care about in-depth physics so they build the class around trying to get us to learn how to think about physics instead of learning 50 million equations.\r\n\r\nClass isn't great, could obviously be better (will hopefully be better in the future), but if you take him you're not 100% doomed, just takes extra time.",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2021-11-09T07:45:20Z"
+    },
+    {
+      "professor": "Matt Severson",
+      "course": "PHYS131",
+      "review": "Nice guy but my god is this class awful. If you can take another physics. Genuinely have no clue what my grade will be in this class and the exams have made me reconsider pre-med. Survived orgo and all the other bs weed out classes just to get to physics and feel completely lost. The class is like 80% intuition and is overly complicated so it just really screws you over. I thought I would be fine because I loved physics in high school but I was wrong. We're almost done with the semester and I am genuinely panicking. ",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2021-11-14T13:49:27Z"
+    },
+    {
+      "professor": "Matt Severson",
+      "course": "PHYS131",
+      "review": "Honestly I don't even know where to begin. The structure of this lecture, discussion, and lab is something that I have never seen before in my 5 semesters at UMD. To begin, there is no syllabus for the course. There were supposed 10 homeworks, 10 quizzes, 2 exams, 4 labs and a final. Half of our quizzes were never even posted, the homeworks are incredibly difficult and never align with what we are \"learning\" in class. As other people have said, the due dates were constantly changing throughout the semester. The TAs hardly know what is going on during lecture which makes discussion and lab 10x more difficult (as they assume we know more than we do). The labs have no real rubric or structure, however you will receive poor grades on them if you do not follow exactly what they want (even though you don't know what that is until after your grade is posted). I can confidently say that I didn't learn a single concept in this course, somehow something as simple as gravitational force was made almost impossible to comprehend. Nothing in this class is straightforward and I really don't recommend it at all. If you can avoid PHYS131, do it. ",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2021-12-21T04:45:48Z"
+    },
+    {
+      "professor": "Matt Severson",
+      "course": "PHYS131",
+      "review": "He\u2019s a great and funny lecturer but honest to god the material is horribly presented at times. If this will provide some hope, I got a D average on all his exams (including the final) but came out with an A. Honestly was shocked when I checked my grade, but it\u2019s a Christmas miracle. Just try to aim a bit above or around the exam average and you\u2019ll be fine. When you flunk an exam during this class, it will be a shitty blow to your grade temporarily but once everything else comes in at the end of the semester that bitch will go up. He also curves. Focus on doing well on the HW, work hard in lab, and keep up with TopHat. Your other efforts can balance out your horrible exam grades lol. Came out learning some physics so that\u2019s a plus too.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2021-12-25T15:23:19Z"
+    },
+    {
+      "professor": "Matt Severson",
+      "course": "PHYS131",
+      "review": "Physics is hard for a lot of people. It is even harder for a teacher to teach it in a way students can understand. My experience with Severson was positive. While the lectures can be a bit dull at moments, it is not that hard to succeed in this class. I've heard stories of my friends in this class bombing exams repeatedly and still ending up with an A. Do the work, practice problems, and go to discussion and you will get an A. Overall, not too hard of a class and good teacher!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-01-13T18:29:37Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "The homeworks and the labs are very tedious. But the exams are easy as long as you review the practice exams. Plus the (required) textbook is well written and helps to understand lecture. He's a very engaging lecturer by the way. And he's willing to answer any questions you have about the material. Yeah physics might be required but at least you got Dave C Buehrle to help you out.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2022-05-19T01:04:09Z"
+    },
+    {
+      "professor": "Matt Severson",
+      "course": "PHYS131",
+      "review": "Class structure:\r\nIncredibly disorganized. Due dates constantly changing. One assignment is due, then the date is shifted, then it is no longer due. You already did it? Too bad. Am I in a physics class or a Kafkaesque fever dream?\r\n\r\nTeaching style:\r\nGoes through pre-written PowerPoint slides that make no sense even when he tries to explain things. He is not a good communicator so he dislikes teaching, which makes class a giant waste of time.\r\n\r\nFeedback style:\r\nShockingly nasty. Says things like \"it's not my job to teach you xyz...\" \"I guess you weren't paying attention during class...\" \"Any lack of success is your own doing.\"\r\n\r\nOffice hours:\r\nOne of my classmates said he showed up to office hours and Severson said he was busy \"come again next week\". Excuse me? Office hours is when you make yourself available to your students. \r\n\r\nLab:\r\n3 hours of blind confusion where you learn nothing about physics. It is just about decoding the instructions and then messing around on excel. They aren't even his labs but he doesn't care enough to change them. \r\n\r\nDifficulty:\r\nIt was an easy class if you ignore him and just learn from online resources.\r\n\r\nOverall: \r\nHe is an unfortunate reminder that not all teachers care about their students. He would just prefer to rant, ramble, and blame his students rather than take responsibility for the quality of his own course. ",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2022-07-07T17:37:18Z"
+    },
+    {
+      "professor": "Matt Severson",
+      "course": "PHYS131",
+      "review": "I took him last year for 131 and 132 and honestly he's not bad. The class itself will make you cry and throw up if you care not feeling lost. However, you're good if you're fine with being lost most of the time. The material honestly just sucks bio+physics is a horrible combo. BUT you will do well in the course. Failed all the exams but did well on hw, reading and labs and did well overall. The curve is a blessing honestly. Severson is a chill dude and honestly I found him very funny. The echo in the lecture room and lighting sucks though and makes you want to sleep so I would recommend just listening to the recordings or reading the slides and self-teaching.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2022-09-02T02:38:20.043582Z"
+    },
+    {
+      "professor": "Matt Severson",
+      "course": "PHYS131",
+      "review": "Dry, disorganized, low exam averages, fat curve, but I wish was organized to teach effectively.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2022-11-11T06:08:49.054271Z"
+    },
+    {
+      "professor": "Matt Severson",
+      "course": "PHYS131",
+      "review": "If you want to learn physics, do not take this class but if you want to pass easily without much effort then absolutely take physics131 with Severson. Dry but kinda funny guy, difficult exams, but a decent curve. Labs and lectures are absolutely useless but youtube videos are helpful for the content. Don't stress to much over this class.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2022-12-23T21:00:14.683406Z"
+    },
+    {
+      "professor": "Matt Severson",
+      "course": "PHYS131",
+      "review": "First off, I hope you don't have Ninad as a TA. Second, the professor was very dry and I couldn't tell if he actually cared about teaching. Everyone said the lectures are useles so I stopped coming to class. The key to get at least a B is to do good on the homework and lab reports. Tophat is used the entire course and the curve is amazing. I heavily bombed every exam (including the final) and still got out with a B. Also, didn't learn a single thing.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2022-12-29T02:34:53.427546Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "Such an amazing teacher. Attend lectures. Ask questions during office hours. He really is there to help you understand and apply physics to everyday life. He truly wants his students to succeed. Take him!!!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-12-29T04:57:15.775405Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "Really good professor. He answers emails really quick, he cares about students understanding the content, and he is very considerate with grades. It's not a hard class if you take some time to study. Homework can be challenging so make sure you take some time to complete them. There are a lot of easy points for the class, and I recommend going to lecture. Exams are tricky, but he gives you a bunch of material to practice with... USE IT! I definitely recommend taking Buehrle.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2023-01-13T18:39:13.732867Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "Decent professor, funny guy, but average at teaching. Didn't learn anything from this class. Curve was an 82 for an A- and 88 for an A. For how low the exam scores were, the curve should've been stronger. Still, labs were so tedious and annoying, but there was no pre-lab or post-lab so lab wasn't much work outside of the actual lab timing. We got out like an hour early usually which was nice.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2023-05-27T01:52:14.682376Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "Heres the thing about this professor: hes a nice guy but does not know how to teach. I am a straight A student (getting As in orgo 1 and 2) and still couldn\u2019t manage to get an A in this course though the odds were much greater. The practice exams are the only thing you can look at to prepare and even then I got 50s and 60s on the exams. During class he talks about the theories and the concepts but rarely ever includes actual problems that involve calculating anything which is an issue because half of the exam includes calculating something. You are allowed to bring an equation sheet to the exams but they arent much help when you don\u2019t know what equations to put on it and which situations you need to use them for. As long as you get near the exam averages and do all the assignments you will get and A-, but to get an A its pure luck",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2023-05-29T17:57:28.015190Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "He's a very engaging professor but the exams and grading is hardddd. Thankfully theres a nice curve and a bunch of additional assignments to help you cushion your grade. Just study the hw problems and practice exam to prep for the exams. Make use of tophat too.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2023-11-01T01:21:49.245085Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "This class is horrid, the prof doesn't teach you anything during lecture and the exams are graded without any sort of feedback to help you understand what you did wrong. The homeworks are insanely long and the labs are also pointless. Everything about this class is a joke, at least each exam is curved by 20%.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2023-11-12T20:50:44.690399Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "Can't learn anything in this class. Teaches kinda abstract but then tests are long, only 50min, and very hard. Luckily he drops a test and 60% of points is from lab/HW/participation. Huuuuuuge curve is only reason why I'll get a B+ (maybe a B if I fail this final). I'm pre-med bio major so I was required to take it. Get your credits and move on.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2023-11-28T15:55:56.918515Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "Ok so I personally hate physics which is already a bit of a bias against Buehrle, but he really doesn't teach anything. The whole \"flipped class\" model is useless and you can't learn anything from it. Lectures are so abstract and conceptual that you can't do the math that's expected for the exams. The only reason that I have been doing well on exams is because I took AP Physics in high school but I was forced to take 131 because I'm a bio major. If you have little to no physics background you will do poorly on his exams, and that's why the averages are consistently 50% that have to be curved to 80%. I don't think it is hard to get a passing or even a good grade in thsi class but you will not learn enough physics for the MCAT from this class (I don't think this is specific to just Buehrle) so be ready to self-study physics if you're pre-med. Homework is mind-numbingly long, labs are hardly related to course material, and the worksheets you do for the first hour of lab don't even have answer keys for you to know if you're doing them right. \r\nBasically all I have to say is: you will not learn anything in this class but getting a good grade won't be that hard.",
+      "rating": 2,
+      "expected_grade": "A+",
+      "created": "2023-12-06T02:08:40.128678Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "Spends too much class time teaching the very basic fundamentals, and then leaves us with relatively difficult homeworks and exams. Coming from someone who has taken previous physics courses, if I didn't have that background intuition to begin with, I would've struggled a lot more in this class. Buehrle is a pretty decent and jolly class lecturer but for some reason, he seemed standoffish and intimidating when interacting with him one on one. Overall, class exams are severely curved. I would go to course center office hours to get help with homeworks, and you should be fine in this class.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2023-12-22T17:59:48.284220Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "This is not an easy A like everyone says, the year I took this class he stopped completely giving out A's. You need to get at least B+ avg on all the exams and absolutely crush lab and hw which are not as easy as they look. Maybe the worst teacher I have ever had lecture is pointless.",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2023-12-24T00:14:23.440901Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "I definitely think Dr. Buehrle has the capabilities of being a good professor, but this course itself is just not well done in my opinion. The entire lecture is pretty much theoretical, with little to no emphasis on equations, when to use them, and the math needed to complete them. Therefore, when the exams come around that require this math, many cannot do it, and the average grades are in the 50s. Our final exam was so difficult and not reminiscent of content learned in class, that he didn't even release raw scores or conduct an exam viewing, leading me to believe the average was insanely low. Additionally, homeworks and labs have limited connection with what's covered in lectures, with labs not even providing solid instructions on how to complete the report. When I showed my pre-med friend (not a bio major) who is in PHYS121 what I was doing, he looked at me with confusion and said, \"why are you guys even doing that?\" The pros of this course are that there are a lot of free points offered, and the exams are curved heavily, therefore you should do pretty well overall when it comes to the final grade. However, if I did not have to take this course as part of being a biology major, I would have much rather taken PHYS121, and likely would have gotten more out of it.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2023-12-27T23:25:30.242943Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "Dr. Buehrle is a nice guy, and while he's talking for over an hour you would think he is saying something relevant. WRONG. He just doesn't do practice problems similar to the ones we get on exams. In class, he will explain theory and do a few clicker questions, but none of those actually correlate with the free response portion of the exam. That being said, he drops the lowest exam and curves well.",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2024-05-20T12:30:07.005071Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "This class is a pain, and the structure makes absolutely no sense. So it is technically a flipped classroom, where he expects you to learn material through TopHat readings. The readings are convoluted and you may only need to actually know or use 3% of the material. It's the slides he presents in class that are more helpful to understand the topics you may need to know, however all of class is devoted to teaching us theoretical concepts and VERY little is devoted to actual problem solving. He doesn't teach us how to approach problems and how concepts we learn may be given in a problem, and this wouldn't be an issue if the test wasn't mostly problem solving questions. Your best study material is the ExpertTA HW he gives you, and it's important you look at the answer keys afterward. Thankfully, there is a VERY gracious curve, I never felt good after I got an exam, yet I still ended up with an A.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2024-05-29T16:21:39.316493Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "He makes lectures not too boring but he does not really explain things out. It makes HW and exams hard because he never shows you how to do problems just easier examples in class.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-11-14T20:34:06.759806Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "genuinely cannot describe how much i dislike him as a professor and actually hate this agonizing class. i would rather take the orgo's all over again and more then ever have to do this again. he makes topics seem so simple in lecture, making you feel actually feel good about yourself, and once it comes to the exam or HW its like you might as well have not even gone to lecture because there's no way you can actually decipher what he is saying. somehow, a few people do really well in his class, i believe this demographic are those who excelled in calculus and physics in highschool as well as the 140/141 ciriculum here at umd. he is the only one who really teaches this class so there isnt really any other option, just be prepared. he does curve crazy though, basically impossible to fail his class unless you actually do nothing. ta's grade fair, will get like 1/4 credit even if you put an equation on an exam question. overall, i hate this class, he seems like a nice guy, but makes this actually impossible.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2024-11-21T03:00:11.458224Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "Dr. Buehrle is a pretty nice person and is very forgiving with the lowest midterm out of 3 dropped and a generous curve, but I feel like this class is very poorly run. He expects you to learn the material ahead of time (flipped classroom) and his lectures are often difficult to pay attention to because much of the content seems repetitive. And then the homework and exams are much more difficult than anything he covers in lecture and he does not prepare us well for those or give us exam-style practice problems in class. \r\n\r\nAlso, the lab is terribly mismanaged. My TA was incompetent, often did not know what he was doing, and just was not helpful. The \u201cscientific community\u201d lab assignments were unreasonably difficult for an instructional lab environment, boring, and were dragged out over multiple weeks. Overall, I think this course is a project and needs lots of improvement.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2024-12-06T01:37:55.912460Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "I did not like this class. It is boring and he doesn't teach well.",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2024-12-10T02:40:30.518550Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "He is a great guy. He curves a LOT and he knows everyone is just taking physics for the requirement and that none of us are interested in. He knows a lot more about physics than you need for this class which can be helpful BUT he doesn't teach what will be graded. He teaches convoluted and theoretical physics and then everyone bombs the exams. He then curves each individual exam by a lot so everyone ends up with decent grades. He is funny and a good lecturer but the curriculum is just terrible and lab is the worst part of the class.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-12-12T19:41:42.224497Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "Just talks but doesn\u2019t actually teach much",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2024-12-13T15:41:24.362838Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "This was by far my worst class of the semester, and while I can\u2019t blame it entirely on Buehrle, the course structure is a disaster. The homework and lab materials are outdated (literally the same sheets for over a decade), and lectures, while not boring, are practically useless for exams. Buehrle teaches \u201cfundamental ideas and concepts,\u201d but the exams are 10x harder and entirely problem-solving-based\u2014things he never prepares us for.\r\n\r\nHere\u2019s the kicker: exam averages, aside from the first one, were in the 50s. Instead of addressing this issue, he just curves everyone up two letter grades. This completely defeats the purpose of learning and reflects a consistent pattern over the years. If almost no one understands the material, what\u2019s the point?\r\n\r\nTo the Physics Department: This course needs change. If it\u2019s going to be a requirement for Bio majors, at least make it worth the time and effort by aligning the lectures, materials, and exams. Right now, it feels like its only purpose is to pick up your credits and move on. \r\nIn other words, a complete waste.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2024-12-13T16:12:36.515214Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "This course itself is honestly too much at once. I think Professor Buehrle tries really hard to drill in the fundamentals of each concept we learn, but it completely feels like disconnect from the content that shows up on an exam. (I might be a little biased because physics is not my strong suit ahah) Even still, if you rewatch all the lectures (everything is on panapto) and do everything on TopHat you should still have a good shot at getting a good grade in this class. If I hadn't let the TopHat assignments go I definitely could have gotten an A- if not an A. The homework's are ridiculous though, painstakingly long and tedious and more complex than anything in class, but similar questions end up on the exam, so looking at the keys always help with that. What helped me is reworking every example we did in class after the class on my own to make sure I could do it myself. It's a rough class but definitely manageable.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2024-12-13T16:25:44.442917Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "His lectures are simple tophat questions, but the exams and homework are much more complex. Since he does not actually teach how to solve these types of problems, it is difficult to learn the material, which results in low exam averages.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2024-12-19T04:33:15.802999Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "Dr. Buehrle is a pretty chill professor for the most part and tries to make physics less intimidating for his students. There are clickers which are easy points just like ask ppl near you what they're putting. Pls go to lecture and if you can't then you can always email him your clicker answers and he'll give you credit. The in-class problems he does during lecture usually show up on the exams so pay attention to problems that he works through in class. \r\n \r\n- He drops an exam which is pretty nice since I blanked on the first one but was able to get a 97/100 and 87/100 on the next two, which put my overall course grade at like a 94% because I did really well on the homeworks (my lowest was like a 28/30 i think). Try to do well on the HWs, work with people, and ask TAs because even if you do well on the exams, a low HW grade will be your hell and you'll be fighting for points at the end of the semester. I ended up kinda tanking the final so I ended the class with an A- :(((. Def could have studied more but tbh the final is not THAT bad haha I just didn't re-do enough problems. \r\n\r\nTips for midterms: Re-do past exams, in-class questions, homeworks, tophat. \r\n\r\nTips for the final exam: re-do ALL the HWs, especially the estimation problems because he ALWAYS pulls an estimation problem from the HWs. re-do the semester midterms and the samples he gives. go through all the tophat questions. TRUST ME just re-doing everything and taking note of the patterns will help. Like re-do these things multiple times so you memorize each step and how to approach the question. For my final this year, all the questions were exactly or some variation of the HWs and the midterms we had. I wish I had practiced/memorized those more.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2024-12-20T05:29:06.351560Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "This class is a mess. \r\n\r\nLecture/exams:\r\nThe lectures do not adequately prepare you for exams, because he teaches only the most basic version of the material and then tests you on much harder questions on the exam, with no prep for that kind of question. The exams are also disastrous in other ways - most of the class got many points off the first exam for not justifying their answers (which it says to do only on the cover page among many other instructions) and there was an error on one of the exam answer keys that was used to grade the exams. The entire class does very poorly on all the exams but they are curved very generously so you basically can\u2019t fail. I wish he\u2019d actually teach so we can succeed instead of curving everyone that much but I am grateful for my grade at least. The workload is semi-high but I think reasonable. Lectures are recorded so you can watch later, but there are clicker questions for participation points. \r\n\r\nLab:\r\nThe lab is probably the worst part. You work in the same group of 4 for the entire semester (so choose carefully on the first day!) You start with an hour of recitation, which is just completing a worksheet that my TA never checked or went over. You then move on to the lab, all of which are not good. If you get to choose, do the coffee filter lab instead of the marble lab, because it takes half the time. It\u2019s completely absurd to give half the class a much more lengthy lab than the other half the class, but you\u2019ll get used to that absurdity when you take this class. The lab reports are unpleasant and you can\u2019t count on your TA to be super competent. Good luck.\r\n\r\nProfessor:\r\nOne of my least favorite professors. He\u2019s a decently good lecturer, and sounds passionate and friendly while lecturing, but when you actually talk to him he is rude and condescending. Can be a good lesson in standing up for yourself.\r\n\r\nSummary: you probably have to take this class for your major, and I\u2019m sorry for that. It probably won\u2019t be fun, but hey, you very likely will get at least an A-. Just look at the grade data and thank the curve.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2024-12-27T20:01:07.577656Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "Absolutely awful course. This course is basically built for pre-meds to pad their GPA while learning as little physics as possible. I remember reading a review saying \"You can pass this class without knowing any physics\" and that is absolutely true. He goes around in circles during lecture, explaining extremely simple concepts that don't expose you actual practice problems. The only good thing is how easy it is to get an A while doing the bare minimum. The lowest midterm is dropped and he curves every exam like crazy. I think my second midterm was curved more than 30%. There are homework assignments that vaguely link back to whatever he's talking about during his class. Besides exams and lab grades, that HW grade is the most important thing that will decide your grade. Also, check back on those homework answer keys. Those will probably teach you more physics than Buehrle ever will. Also, he'll recycle problems from the HW into midterms and exams. \r\n\r\nThe guy himeself is pretty chill. He'll make some self-deprecating jokes and lectures with a jolly attitude. He'll explain that you need to estimate the coeffiecient of a friction of a problem by just poofing a number into existence with a smile on his face. \r\n\r\nThe lab is also awful. The first part of lab is an hour of doing practice worksheets with your lab group. You're barely given any direction in the worksheets and since these aren't graded, no one does them. Instead, you just get a free hour of doing whatever you want. After the first hour, my TA would just go through the answers quickly and move onto the actual lab. The actual lab is also a mess since no one knows what to do. You're given a lab pdf, sometimes a microscope, and a computer program and told to figure it out. The most valuable thing I learned from this lab was to use Excel. The rubric you're given is vague and sometimes makes completely no sense. Your best hope is to just keep on asking your TA questions until your lab report looks somewhat decent.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2025-01-03T20:21:01.017428Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "Hated this class. When I talked to Dr. Buehrle, he was rude and condescending. Most TAs were also super unhelpful, sometimes telling me to \u201cGoogle it\u201d. I recommend going to all office hours until you find the TA that explains the content the best. Go to them to do your HW and you should be able to get 28\u2019s and higher on HW assignments (out of 30). And if you have any issues (submitting assignments, ExpertTA not working, etc), go straight to Dr. Buehrle rather than TAs. Good news is that the class requires barely any work to do well. I usually watched a youtube video explaining the different concepts before the exams and got a 95% (with curve) on all of them. The exams are curved individually with one midterm dropped which is why everyone does well in the class. I didn\u2019t study at all before the final (had my orgo exam the day before and I was burnt out), but everyone else was in the same boat that the curve pushed us all up. Overall, this class sucks but it\u2019s (hopefully) an easy A where you won\u2019t learn anything.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2025-01-11T14:22:26.797937Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "As someone who did not take AP Physics in high school, I found this course to be extremely difficult, but like other reviews say, not difficult to pass. The prelecture reading, lecture content, and homeworks have limited overlap. Lectures were confusing, explaining simple concepts and then applying a basic formula to a grand topic on midterms. He does drop the lowest midterm out of 3. Homework is a big part of the grade, and doing well on them is important for doing well in the course. My lab section was pretty chill because of my TA, but the lab as a whole was unorganized, with TAs receiving limited information from Buehrle on how to handle issues that arise in a lab. The recitation part of the lab wasn't very helpful, but at least it didn't count for a grade. One good thing about this class is that he allows us to make a cheat sheet for all of the exams. If you're not a life sciences major or pre-health, do yourself a favor and don't take this class.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2025-01-28T00:11:12.767500Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "I think Buehrle is a very nice guy, most people have complaints about him because it\u2019s hard to learn physics in the class, though its very easy to pass the class. Obviously this doesn\u2019t help in the long term, but he\u2019s also one of the only professors teaching 131 so you don\u2019t have much choice. He\u2019s very nice in office hours if you\u2019re nice to him and show that you actually care about the content. \r\n\r\nThe class is structured with 3 midterm exams, 1 final, labs, top hat participation and accuracy points, and the XTA homework. The homework was worth more than the exams, so try not to procrastinate on those since it\u2019ll keep your grades up. The exams can get super difficult, and its hard to prepare for them because its so unlike what he teaches, so if you prioritize the class over other classes (which I couldn\u2019t always) you can actually learn from the content. However, he curves massively, 20-30% each exam and the final, and the lowest midterm exam is dropped so it\u2019s basically made for students to pass the class. The labs are annoying, specifically with grading because if you have a strict TA your lab grades will drop, but he normalizes the grades in the end so don\u2019t stress too hard about it. \r\n\r\nTo study, I\u2019d recommend doing his practice exams and the Nexus Physics problems if you have time, because those are the types of questions he\u2019ll assign on the exams. For the final, focus on homework problems and past exams. Some of the students in my class wrote the homework problems verbatim on their cheat sheet (he allows you to write anything-formulas, words of encouragement, etc.) but that won\u2019t really help you unless you understand why the answer is the right answer because obviously he won\u2019t copy and paste homework problems on the exam. It\u2019s very easy to get an A in his class because of the massive curves, so you can get away with not studying as much for the class, but it\u2019ll definitely help to understand the content and at-least get around the average for the exams.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2025-03-03T16:19:40.622441Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "For a physics class he's not too bad of a professor. He loves to talk though, like will repeat the same thing in three different ways before moving on. He also by the end of the semester just stops fully going through example problems and like just talks through his thought process. Can be beneficial if you learn that way, but personally not my fav. His homeworks are helpful and he genuinely wants you to learn, that's evident, and if you study enough by working through problems and solving them either on the homeworks or in the textbooks you'll be alright. Be prepared to do a lot of conceptual work, he likes to ask you estimation problems. He does a ton of clicker questions which are sometimes helpful, but paying attention in class really does help you get to know the info. Overall, pretty good professor, clear with his expectations and how to prepare for things.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2025-05-14T01:07:51.253930Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "This class is so boring but it's not hard to do good in it, even with minimal effort. You don't need to put that much work into studying or taking notes during lecture. Exams are curved which is nice and Buehrle seems like a nice guy.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2025-05-15T18:44:13.946349Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "Skill level: Physics is the most difficult subject for me and I will never understand it. I genuinely did orgo practice problems as a break from studying for this class. The only reason why I probably didn\u2019t get a 0 on the midterms was because my dried teardrops on the exams made the guy feel bad.\r\n\r\nAs for Buehrle himself, he seemed like a pretty chill and nice guy, trying to engage the class as much as he could.\r\n\r\nThe ExpertTA and TopHat homeworks do take a bit of time, so I wouldn\u2019t wait until the very last minute to do them. I did learn a lot more from them than the lectures, which often made no sense to me. I would try to put in as much effort into getting a good grade on those homeworks as you can because they really boosted my grade.\r\n\r\nThe midterms were awful for me and I often did below average, even with the (generous) curve he gives. Even after the first two exams I felt lost on how to study for this class. However, for the final, I would highly recommend doing all the homework problems as similar, if not the exact same, questions appeared on the exam. I would also practice a lot of estimation problems as every exam had them.\r\n\r\nIn terms of the lab, having a good group can really impact how long you\u2019re in the lab and the amount of work everyone has to put in. Most of the labs took 2-4 weeks, so I would recommend staying in the lab to finish as much of the report as you can the first week and doing the rest outside of class, so the next few weeks you only have to attend for like a minute to sign the attendance sheet (depending on how chill your TA is). My TA didn't require us to stay in lab to do the practice problems, so no one ever really did them, which meant we could start on lab and leave early. They also didn\u2019t grade the reports harsh, but Buehrle does adjust if any of the TAs do.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2025-05-16T23:04:10.646586Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "this class is 100% done on prior knowledge, tbh i never stepped foot in the lecture hall and i have a high A before the final. every exam is curved sm that u dont need to study. plus the cheat sheet is clutch.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-05-19T03:17:55.371767Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "Buerhle is an enthusiastic professor who you can tell has an obvious love for physics from the first day of class. His teaching style is pretty straightforward, but he explains concepts in such an oddly simplified way that seems almost rehearsed. Then again, he constantly reminds us that he's an astrophysicist trying to connect with all these bio and pre-med folk so I guess you can cut him some slack? \r\n\r\nPersonally, everything was a bit much for me, from TopHat readings (long but for completion), ExpertTA (supposedly for completion...you have to get the right answers to complete assignments but you don't always have to show your work depending on the question), answering graded \"starred\" questions during lectures (basically Clickers where you answer the question based on accuracy - ultimately forcing you to have to go to each lecture since you can't see the question from your own device and can't anticipate when he'll put up a starred question), to getting through each lecture fully understanding what was going on. The class is a flipped classroom (learn outside of class, apply during lecture) which I never like, regardless of the class I'm taking. \r\ntl;dr Structured lecture and teaching, but engagement is a give or take\r\n\r\nLab was NOT structured. It was mostly \"look at the supplementary docs on ELMS and do it\". You'll be using ImageJ for every single lab and let me tell you that thing is so outdated. Lab reports were long, long, long and painful, especially if you didn't know what was going on. Barely related to what we did during lecture. \r\n\r\nSo yes, be thankful for the exam curves, your lowest dropped exam, \"curved\" lab scores (which for us was thrown into one overall lab grade last minute as \"normalized lab scores\"), and your front-and-back cheat sheet but keep in mind that the final determines your absolute final grade. No curving after all that. Anyway, try to stay focused because that'll probably be the biggest challenge, but passing is definitely doable.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2025-05-22T12:37:16.731957Z"
+    },
+    {
+      "professor": "Matt Severson",
+      "course": "PHYS131",
+      "review": "I know a lot of people have said this is a chill class and most people can easily get an A, but if you hate physics like me, don't relax and take this class too lightly. Even though exam averages were pretty high (70-75), I felt this class was the bane of my academic career simply because I felt like the practice problems weren't enough to grasp the boring material. I couldn't ever appreciate what I was learning, but nobody cares about that anyway. You could tell Severson couldn't care less if you even understood what he was rambling about. Labs and hw were outright pointless with some problems even dating back to 2002, believe it or not. And even though exams were much, much better than they were in 131, I had to really study and lock in to get close to the average and then do well on the final. I honestly learned more from Khan Academy than anything in this class, so if you want digestible problems and actually understand the material, this would be my most significant study help. Overall, if your mind manages to fathom physics, you'll be fine. But if it's more like a chore, as it was for me, just take a breath, pick up your credits, and move on.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2025-05-22T20:14:04.430311Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "when I say LOST IN THE SAUCE for this class, I mean it beyond. not one single lecture did I come out understanding what was going on. this man was all over the place like spitting things left and right that just either didnt connect or were so confusing without any background knowledge. yes this man is so passionate and he loves this topic but let me tell you how annoying this class was. \r\nthe tophat reading is so long and I highly doubt anyone ever read it but its supposed to help you understand whats going on in class so then when he teaches it in lecture you already have a foundation but like the readings are so long and also kinda confusing so by like the second week nobody actually reads them I feel like. \r\nthe lab is the biggest joke of all time legit not clue what was flying the entire time and the lab reports are graded based on vibes it felt like, just hope you get a chill TA that doesn't make you do the dumb work sheet in the beginning of the class and you can just send that hour working on the lab instead. \r\nnow let me tell you guys about the final the fact of the matter is that it kind of determines your entire grade, had a high A the entire semester and then did not do so well on the final and BOOM A- in the class overall even tho that doesn't actually represent how I truly did in the class. \r\nyea his curves are great but like sometimes not as much as they should be. Overall this guy is passionate but I came out knowing not one thing abt physics and with an annoying grade that doesn't represent how I did in the class.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2025-05-23T04:37:26.281312Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "Dr. Buehrle is a very smart and enthusiastic professor, but he seriously lacks in his teaching skills. If you're the type to download powerpoint slides and take notes on them, I found it really annoying when the slides weren't in order or when some were missing. He goes over practice problems during lecture which I appreciate, but I found them to be unrelated to the homeworks and the exams. The labs are dependent on your TA and the people in your lab. Even though my TA was smart, there was a time where we had to work with more complicated microscopes and he didn't know how to use them. Before exams, Dr. Buehrle would ask us what topics we wanted to go over which I appreciate. You get to have an equation sheet (one side of printer paper) for the exams and the final, but I found that despite how much information I put on them, there were questions that I wasn't sure how to solve. The weekly homeworks on ExpertTA were a little helpful, but the reading questions on TopHat were of no use at all. I found it annoying to have to pay for two applications for this course.\r\n\r\nSome advice:\r\n- Try to do well on the homeworks and TopHat questions. The homeworks will definitely help boost your grade up if you do well on them.\r\n- For exams, study the homeworks!!! There are questions on the exams that are similar to the homework questions, so write down the concepts on your equation sheet and the steps to work through them.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2025-05-24T15:27:19.954941Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "the man can not teach for the life of him. at one point i stopped attending the lectures and just did the top hat questions during the class time to get participation. he would constantly belittle himself if got something wrong, telling himself that he is stupid and this is why he drinks OUT LOUD. overall he just scared me. but when it came to exams, the curves were amazing, usually around 30 points added to your raw score. the final was god awful though and he was not even there when we were taking it, literally just a TA watching over us. the homeworks were time consuming, but the most helpful material for studying for exams. he gave practices exams, but they were from another professor and most of the time had other material on it that we have not learned. he's all that is there this upcoming semester so just hope the curve is good and good luck!",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2025-06-10T20:11:41.116041Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "material covered in class was not representative of the level of mastry needed for material on exams, not useful in office hours only covered study techniques rather than the actual material, provided well curves but the whole class was always failing in the first place",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2025-10-02T19:14:41.234824Z"
+    },
+    {
+      "professor": "Harkeerat Singh",
+      "course": "PHYS131",
+      "review": "Great TA who cares about his students in his lab.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-10-27T05:15:14.806736Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "He yaps so much. He says so much useless information that simply does not matter. He oversimplifies everything like we are 1st graders, but we are not, so it makes things even more confusing. What you learn in class is not representative of the exam at all. Wouldn't go to the lecture if there weren't the top hat questions. Class is a complete waste of time. The only reason I am doing good is because I took physics in high school. This physics class is so dumb, and on the tests, they take off points for the dumbest reasons. Don't even get me started on the lab. His teaching sucks, but you don't need to understand anything because he curves the averages to an 80. You can tell that he is clearly passionate about the subject but he sucks at teaching and just talks way too much.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2025-10-28T22:01:39.973279Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "While I did well, this class is horribly organized and should really be revamped. I did not do well because of Dr. Buehrle by any means\u2014that was all my own prior knowledge and work. Dr. Buehrle simply cannot teach effectively: he spends lots of time on irrelevant information to try and build conceptual understanding but ultimately fails to make a conclusion in what he is teaching. There is little structure, and he jumps around clicker questions and long tangents about the ideas behind what we're learning. The textbook and required reading questions are so useless (except for the simulations) and is written very confusingly. I am good at physics, and have taken a more advanced class in physics than this before, so it's not just me; the textbook overcomplicates simple ideas. He seems to do this as well. The homework Expert TA questions were good for practicing, and were a much better source of practice than his lectures.\r\n\r\nIf this class was a core part of the degree for life science majors in the same way that a class like organic chemistry is, the course would have been redesigned by now. No one complains about it because he curves the scores high enough each semester, but the class is treated like a joke, with ineffective teaching and no actual learning going on. Just read the other reviews: people barely felt like they learned anything from him, but he just curves them enough to pass anyway so nothing happens. Despite calculus being a prerequisite for the class, he acts like it's unnecessary during class, avoiding using it at all in practice problems and making a big deal out of the word \"integral\" during lectures. We are in college, and we can handle words like derivative or integral. He could have made the entire kinematics unit so much simpler by explaining it in that way, and the information was even on the slides, but he'd avoid doing that. The first week would have been better with a review of the basic ideas to understand the course as well, but he instead spent multiple lectures going over what a measurement meant and how to do an estimation. By this point, most students have taken difficult classes in chemistry dealing with this\u2014and not once did we require multiple lectures on measurements and estimation. He treats us like we are incapable of understanding physics. Deleting those lectures entirely and dedicating a few lectures to going through actual practice problems would have been so much more useful. \r\n\r\nAs for the grading: the way the curve works is absolutely no reason he deserves a good rating. Sure, he curves by a lot, but that is because he literally cannot teach and uses the curve to make up for it. No matter how low you score, he will curve people up to around a B average. He also grades on a bell curve, meaning you can get rounded down if you perform better than the average; this is also true for lab reports. \r\n\r\nThe labs are also a joke and it seemed like they were just there to fulfill a requirement. The work we do is tedious and not helpful to understanding content in the slightest. The only good thing I can say about that is that the lab usually ends early if you have a better TA who can help out. If your TA doesn't know what they're doing, good luck, because the only other guidance for the labs is a file he puts on ELMS with unclear instructions.\r\n\r\nIf you're someone who's between PHYS131 and PHYS161, and the professors are good for 161 and you're decent at physics and calculus, just take PHYS161. This class feels like a waste of time.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2025-12-18T00:10:42.072237Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "genuinely so hard to succeed in this class. i feel like I learned nothing. his course resources are terrible, his exams are nothing like what he teaches in class, he is terrible at explaining concepts and then asks super niche conceptual questions on the exams. i felt like i went over all of the material that i could for the final and left feeling SO defeated. haven't gotten it graded yet but after holding an A all semester, i left worried about being able to get a B-. i found biochem and anatomy to be my easier classes this semester compared to PHYSICS 1!!!!",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-12-18T22:31:07.500674Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "If there comes a time where God blesses you with a different professor option for this class take this heavenly miracle and run with it. But in the meantime, this guy gets too much hate. Yes he's a bad lecturer (he's boring to a point where the 75 minutes feel like 3 hours), and yes the exam questions make no sense at all and are nothing like class problems, and yes this man doesn't know how to teach, but overall he does curve pretty nicely. Before each exam you'll walk in thinking \"it's so over\" and you'll leave the exam feeling like you just got cooked but then you'll somehow get an 85+ because he doesn't teach so everyone fails together. If you actually are able to listen to this guy in class you should end up with at least a B+ and then get to forget all about it. \r\nMy advice: the only thing to do to somewhat study in this class is just a cracked cheat sheet with every equation and its manipulation, as long as you put an equation and some number under a question you'll do better than 75% of the class so don't let this class tank your other classes during the semester.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2025-12-22T16:21:45.732551Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "I think Buehrle tries his best, but physics is just not intuitive for most people. I walked out of this class nor understanding a single damn thing, but I still finished with an 92%. He doesn't change grade cutoffs, but he curves every exam to where the median is around 80%, and he curves lab grades to a median of 100%, so it's not hard to do well. I've never gone to office hours, so I don't know how helpful he is for asking questions, but he is always very kind when people ask questions during lectures, and he simplifies his explanations pretty well. He also rescheduled one of our exams because students asked him to, so at the very least, he definitely cares and listens to feedback. The lab for this class was the bane of my existence personally. Instructions were unclear, no one really knew what was going on ever, and the TopHat activities were such a waste of time. Your lab grade entirely depends on how strict you TA wants to be, and how much your lab group cares. If you end up with a bad lab group, you're basically cooked for the semester. I swear most people walk out understanding nothing, but still end with a pretty high grade.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2025-12-28T18:53:45.791008Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "Bro should not be teaching. His exams are really strange and stray from his lectures quite a bit. Estimation problems are really dumb and make zero sense (wdym i have to calculate the speed of a head moving when sneezing???). My lab TA sucked and was an extremely harsh grader which pulled my overall grade down quite a bit, which was annoying since I did well in the class.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2026-03-06T00:23:06.650619Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS131",
+      "review": "i love this guy. he is hilarious. the lectures can get a little boring but thats coming from someone who already took AP physics 1 and 2 in high school and remembers all of the content, so finds it easy and repetitive. he is a super chill guy. dont let the 3 star review fool you. the class is damn easy. youre allowed to bring in your own handwritten formula sheet for exams... the one thing i find annoying is the weekly homeworks and readings, but only because i'm a procrastinator and forget to do them all the time. (and unfortunately, you actually are not even able to turn in TopHat assignments late. the assignment just closes and then you cant get points for the reading anymore.)\r\n\r\nalso, this class has a lab part, and the lab part of this class is pretty god awful. i would rather retake chem132 and 272 lab than this class' lab portion, and if you have experience with either those classes,  (you probably do if youre someone taking phys131 for life sciences)) you know that they are BAD. the lab is basically guaranteed to run the full 3 hour section. you will have to use ImageJ. you will spend hours filming a video of a marble falling through soap. you will waste a lot of time on something as otherwise easy and simple as kinematics. but this is unavoidable. and also probably not even up to David Buehrle.  \r\n\r\nsecret: there are tophat reading and in-lab questions where you have to answer with a written response, or type a number. i don't think the TA's actually grade those at all. they are effectively completion. i put \"0\" for every answer prompt and got full credit on reading questions. so, there is that.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2026-03-09T23:14:34.843573Z"
+    }
+  ],
+  "department": "PHYS",
+  "course_number": "131",
+  "name": "PHYS131",
+  "title": "Fundamentals of Physics for Life Sciences I",
+  "credits": 4,
+  "description": "<b>Prerequisite:</b> CHEM131; and (MATH136 or MATH140); and (BSCI160 and BSCI161; or BSCI106); and (BSCI170 and BSCI171; or BSCI105).\n<b>Credit only granted for:</b> PHYS121, PHYS131, or PHYS331.\nThe first part of a two-semester course in general physics specifically oriented towards applications relevant for students in biology and pre-medical programs. The course covers basic mechanics including forces and energy, properties of matter, and thermodynamics done in authentic biological contexts.\n<i>Students must pay a $50.00 lab materials fee.</i>",
+  "is_recent": true,
+  "geneds": null
+}

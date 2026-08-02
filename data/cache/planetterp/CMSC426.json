@@ -1,0 +1,521 @@
+{
+  "average_gpa": 3.280736940298507,
+  "professors": [
+    "David Jacobs",
+    "John Aloimonos",
+    "Larry Davis",
+    "Carlos Castillo",
+    "Cornelia Fermuller",
+    "Mohammad Nayeem Teli",
+    "Christopher Metzler",
+    "John Aloimonos",
+    "Christopher Metzler",
+    "Jia-bin Huang",
+    "John Aloimonos",
+    "Jia-bin Huang",
+    "Mohammad Nayeem Teli",
+    "John Aloimonos",
+    "Jia-bin Huang",
+    "Troi Williams",
+    "John Aloimonos",
+    "Jia-bin Huang"
+  ],
+  "reviews": [
+    {
+      "professor": "John Aloimonos",
+      "course": "CMSC426",
+      "review": "Very interesting, entertaining person, which is why I didn't realize sooner that the class was not going to go anywhere.\r\nWe went over the basics of all topics, but so little that you never really learned more than \"huh, that's interesting\". Projects had no deadlines, and weren't too difficult, except that we had no basis to go off of, and it's just stabs in the dark to try to get something working (still haven't figured it out, even though he tried to help me once that wasn't enough and I'm still completely lost). Take home midterm was a rehash from the grad level class 10 years ago, plus 3 more pages, and way beyond the scope of what we'd learned in class.\r\nI wish I had noticed sooner that this class was worth dropping, because I learned nothing worthy of my tuition money and am very disappointed as I was looking forward to this class.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2010-11-06T12:57:00Z"
+    },
+    {
+      "professor": "David Jacobs",
+      "course": "CMSC426",
+      "review": "Good professor, good class. It's not so much about image processing as it is about computer vision, which turns out to be much more interesting. Dr. Jacobs is very familiar with the material and makes it easy to understand.  The coursework is not very hard, but Matlab can be frustrating sometimes. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2012-12-12T04:42:00Z"
+    },
+    {
+      "professor": "Mohammad Nayeem Teli",
+      "course": "CMSC426",
+      "review": "His class is in Python, the projects are substantial, try to work in groups. Teli's explanations are pretty match-heavy, and it's easy to drown in the math. But he still gives his best effort to explain concepts.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2019-12-19T00:46:36Z"
+    },
+    {
+      "professor": "Mohammad Nayeem Teli",
+      "course": "CMSC426",
+      "review": "I took Teli for 351 and really enjoyed his class, but 426 left a lot to be desired. Lectures were hard to follow, and didn't relate much to the content that homeworks and exams required you to understand. The workload was also crazy high - there were 3 homeworks and 4 projects, all of which were very involved from an implementation standpoint. Although grading was fairly lax, getting something that felt like it worked was also very difficult, and it was hard to get an idea of whether your code was working as expected, which I understand is somewhat due to the nature of Computer Vision. On multiple assignments many students spent more than 30 hours trying to complete them. When students brought up these concerns they were largely ignored, and were told to 'work harder'. ",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2021-05-16T20:40:57Z"
+    },
+    {
+      "professor": "Christopher Metzler",
+      "course": "CMSC426",
+      "review": "I had Metzler for 426 and thought the class was fine. The lectures were boring and could be confusing at times. Since there are no exams, the grades are fully dependent on the homeworks and projects. I would only recommend this class if you are pretty good with linear algebra and are willing to commit a decent amount of time for projects. ",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2021-05-26T03:36:42Z"
+    },
+    {
+      "professor": "Christopher Metzler",
+      "course": "CMSC426",
+      "review": "Lectures were pretty dry--though that was to be expected. Content was very linear algebra heavy (a personal weak point), but we were warned of this ahead of time and given a small primer prior to class. Class was totally project-based and professor Metzler and the TAs were quick to assist on piazza. Ample extra credit was given as well. The class could certainly better--most classes could--but I thought professor Metzler handled it pretty well, particularly for his first semester at UMD. This content seemed particularly difficult to relay in an online environment, so I often found myself skipping lectures to watch the recordings later in order to pause and take notes. ",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2021-06-23T03:52:21Z"
+    },
+    {
+      "professor": "Christopher Metzler",
+      "course": "CMSC426",
+      "review": "Awesome professor. Professor was very helpful throughout the course on piazza, and the lecture slides were clear and concise. Facilitated smooth learning. Additional learning links were provided for reference. Projects had clear expectations with them, fixed rubric. Easy A class. ",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2021-07-13T18:50:55Z"
+    },
+    {
+      "professor": "John Aloimonos",
+      "course": "CMSC426",
+      "review": "He does not cover anything that the course requires. He is arguably one of the worst professors I have ever had. ",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2021-11-07T17:36:28Z"
+    },
+    {
+      "professor": "Mohammad Nayeem Teli",
+      "course": "CMSC426",
+      "review": "To be honest, I've had alot of different teachers and taking this class is just not it. Expect to learn everything by yourself.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2022-04-14T18:12:49Z"
+    },
+    {
+      "professor": "Mohammad Nayeem Teli",
+      "course": "CMSC426",
+      "review": "The class is quite interesting, but if you've taken CMSC422 there is a lot of repeated information, which led to a lot of boredom for me. Not his fault though, I just barely recommend this class if you've taken CMSC422. He also does derivations sometimes for some reason even though they never show up in the homework or exams.\r\n\r\nThe biggest gripe I have is he only released rubrics for homework past the halfway point in the semester. You need those rubrics.",
+      "rating": 3,
+      "expected_grade": "B-",
+      "created": "2022-05-04T16:56:43Z"
+    },
+    {
+      "professor": "John Aloimonos",
+      "course": "CMSC426",
+      "review": "Great professor if you are there to actually learn real concepts and not just trying to memorize some text book. Like one of the best educational experiences I've had in all my years at UMD. He is the reason I persued a Combined BS/MS degree and was a great guy to work with.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-07-12T04:51:24Z"
+    },
+    {
+      "professor": "John Aloimonos",
+      "course": "CMSC426",
+      "review": "Lectures are great for learning concepts, clearly has a ton of knowledge and is passionate and kind. For the projects most of the learning has come from TA led overviews/course notes for projects also written by TAs. Projects done in groups of 3-4 and are challenging but I personally feel they are rewarding. Midterm was fairly tough but according to the TAs it will be curved fairly well. Would recommend for anyone with a passion for learning or interest in these topics, would recommend starting projects early with your group.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2022-11-07T04:10:43.579386Z"
+    },
+    {
+      "professor": "John Aloimonos",
+      "course": "CMSC426",
+      "review": "Reeks of tenure. TAs did literally everything for this course. Lectures had nothing noteworthy in them, and we were not able to practice these concepts. Projects had very odd grading schemes and had no input from the instructor. Midterm exam (conceptual and explanatory) was extremely different from the one given as practice (computational and short). The only reason students did well was because he did not give installation instructions for a MATLAB package for M1 Macbooks, so after 2 weeks of no information we've been told our final project (20% of the final grade) has been made optional. Very uninteresting course and experience.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2022-12-24T00:06:46.931974Z"
+    },
+    {
+      "professor": "John Aloimonos",
+      "course": "CMSC426",
+      "review": "ive been to a total of 2 lectures: the first day and the midterm lol. the class itself is super chill, 4 projects that mainly dictate what your grade is and only 1 exam that's worth 15%. projects can be done in groups, but make sure u guys stay on top of things. yes u are given 8 late days u can use to push back a deadline for a project, but dont rely on it too much as the projects can take an extremely long time and need a lot of assistance in OH. as for john himself as a professor, i found them very unrelated to the projects, thus y i never went. he seems like a funny guy and is nice but his thick accent was also another reason why i decided to not come. overall, not a bad class as long as u have a solid group",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2022-12-26T18:00:18.094684Z"
+    },
+    {
+      "professor": "John Aloimonos",
+      "course": "CMSC426",
+      "review": "I do not even know where to start with this class.\r\n\r\nThe lectures were just the professor rambling about some random bullshit. He would draw some functions and diagrams on the board and then show some math but it was all pointless. It went to the point where out of 80 students only like 20 would come to class. I came once to class just to see wtf was happening and I found half the kids watching the world cup match.\r\n\r\nThere was 1 Midterm in the class and it was worth like 10% of the grade, I studied and reviewed the slides and projects about 3/4 days before and I got a 75 on it. The class average was a 60% on it. \r\n\r\nThere was no final so there really was no point coming to class after this.\r\n\r\nThere were 4 projects in the class, all seemed pretty interesting at first glance until you actually did them. \r\nEach project was done in groups of 3-4 people, and it was all in MATLAB. You were pretty much left in the dark, the concepts from class did not help at all and your only salvation was to hope there was something online to help you. The TA's did not even look at the code, this was pretty evident because for some reason the class avg on these projects was a 90-95%. They primarily graded based off of the reports.\r\n\r\nTo add to the glory of this weird class, for the fourth project the TA's never updated installation instructions and after a week of complaints they just decided to give everyone a 100% and anyone who managed to get something working extra credit. And thus every group got between 100-220% on this project worth 20% of the grade.\r\n\r\nI cant say I really learned anything from this class tbh. It seems cool and the topics seem cool but I really didnt learn or gain anything besides maybe losing sanity. Though i will say minimal effort is required for this 3 credit 400 level cs course",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2022-12-30T05:17:03.960009Z"
+    },
+    {
+      "professor": "Christopher Metzler",
+      "course": "CMSC426",
+      "review": "Truth be told i went to this class once in person. Despite that, he\u2019s an amazing prof w great slides & so quick to respond on Piazza. Projects are clear and take like a few days, he provides lots of resources & the material is genuinely so interesting. Great class for your seniors especially, low stress and fun learning",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-04-09T05:13:32.562562Z"
+    },
+    {
+      "professor": "Christopher Metzler",
+      "course": "CMSC426",
+      "review": "Not a huge fan of the lecturing style at all and I attended almost every class. Lectures are dull. Prof just reads off the slides and doesn't seem prepared for questions. He is a lot better at answering questions on Piazza than answering them during lecture. There's a lot of conceptual material but often he refers to variables/equations/concepts as \"this\" or \"that\" while lecturing\u2014delivery could be clearer. Grading is slow. BUT, I honestly think you could get by decently in this class without attending any lectures at all. Slides are detailed and always posted to Canvas. Grades are all based on a few homework assignments and projects with very clear grading criteria and instructions. Grading is lenient with a lot of opportunities for extra credit.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2023-05-10T01:32:44.612200Z"
+    },
+    {
+      "professor": "Christopher Metzler",
+      "course": "CMSC426",
+      "review": "This class was a lot of different other classes packed into one. I walked in without 320, 422, and MATH401 but all of the lectures seemed to build off of these classes and combine their knowledge. Metzler teaches quite a lot of difficult math concepts (Fourier transform for filtering, back-propagation with matrix decomposition, homography matrices).\r\nHowever, this ended up not mattering much, since the only time that we really needed to use the difficult concepts were on the midterms. Overall, the lectures weren't really required since the projects we could use libraries that already implement the complicated functions. In the case of projects, sometimes the instructions are a bit difficult to grasp but they are quite easily searchable. This class ends up being very manageable if you start projects early, and it's overall a chill class because the reports are graded quite leniently. I think for future classes some material can be left out of the lectures as those are confusing and not always relevant/helpful but as it stands it is a well managed and pretty laid back class.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-20T15:33:44.798961Z"
+    },
+    {
+      "professor": "Christopher Metzler",
+      "course": "CMSC426",
+      "review": "Pretty great overall. The projects are very interesting and straightforward, and there are a lot of opportunities for extra credit. He's not the most engaging lecturer as he's mostly going off of slides, but he's very helpful during office hours.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-21T12:53:26.447171Z"
+    },
+    {
+      "professor": "Christopher Metzler",
+      "course": "CMSC426",
+      "review": "He's really good at explaining things that are hard to explain in words. He records lectures which is helpful. The written homeworks are pretty tough but he's pretty fair about the amount of time given and is reasonable about extensions in some situations. The only things I wish were different about this class is I wish the recording audio was more clear, and I wish he recorded some of the math he does on the board. Some professors use a hand cam when they need to show examples on paper. It would have been really helpful if he did that, because basically if you failed to understand it during lecture time you never got another chance to hear an explanation. I also wish he used a screenrecorder to record slides as he lectures. The recordings just had terrible quality. Another problem I had was that piazza responses were pretty slow, even though the class size wasn't all that big. Usually took 1-2 days for a reply. Another problem I had with this class is that one part of the class involved some vector calc stuff (Calc 3) even though its not a prereq for this course. Maybe putting a calc 3 prereq would make class sizes too small, I don't know. But I had great difficulty wrapping my head around those parts of the course (Neural networks). That's not anyones fault but its just something to keep in mind if you want to take this class. You'll have a really good time in this class if you've taken data science, intro to ml, intro to lin alg, and calc 3. I only took intro to lin alg so I really struggled, but they don't grade too harshly. \r\nDespite the minor problems I listed, prof Metzler is such a good professor that it just outshines the issues. Lecturing a computer vision class, understanding all the concepts so well that you can break it down to students is seriously difficult so I was just grateful we got someone so capable of teaching it. The neural network project and the visual odometry project are very interesting and really shocked me that you can get a computer to do that. Very good class.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2023-05-25T12:13:24.292564Z"
+    },
+    {
+      "professor": "Christopher Metzler",
+      "course": "CMSC426",
+      "review": "I totally fell the other on the lecturers it is was it is, they are recorded and posted in the elms files folder so just show initiative and review them. The professor is just busy as he is still a bit new but more importantly he is working the PhD students on research work which takes a big chunk of his time.  He might take some time but he is responsive to piazza and emails alike. In terms of Assignments, the homework are really bad (very ambiguous in the writing) and have the potential to effect your grade during the semester (homework used to be weighed less in previous semesters). What's changed is there a midterm now (take home) worth 10% and you can get a B+ pretty easily on it if your careful and work hard as you will have plenty of time to do it.  Biggest thing to take note of is the projects as well as the final project, you gotta do really well in it's completion like the graders are thankfully really lenient and instructed to be so but you just gotta go the extra mile to complete it.  \r\n\r\nThere is a pretty decent curve as well (not sure of the calculation) that you will be satisfied with (I personally am SUPER Happy with). Overall I really appreciate the logistics of final grading and have a lot of respect for Prof Metzler for trusting us and treating us like adults like Prof JMCT would. I would recommend Prof Metzler overall any other 426 professor without a shadow of a doubt regardless of anything he is the new generation and the class is in good hands and likewise I am truly grateful \ud83d\ude4f.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-05-30T17:57:33.978676Z"
+    },
+    {
+      "professor": "John Aloimonos",
+      "course": "CMSC426",
+      "review": "The professor simply does not cover content that is pertinent to the exams or to the projects. The course lecture slides are not ordered and you are expected to just know which ones are which? We also had to pressure him for an exam guide because he said \"the lectures are your review\" (not really sure how that works?). When we got the exam guide they (teaching staff) refused to put out an answer key and we were expected to dig through the unorganized notes to find the answers (again, why?). He banned a ton of the functions that previous semesters were allowed to use and it truly made the projects excessively difficult to do--seriously, look them up. Make sure you know your linear algebra skills because any misrememberance will be met with \"you should've internalized this information\" in a truly incomprehensible accent.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2023-10-26T02:47:48.941564Z"
+    },
+    {
+      "professor": "John Aloimonos",
+      "course": "CMSC426",
+      "review": "He seems like an interesting guy, but the course is completely unorganized and extremely difficult. Lectures are barely relevant to the projects, forcing students to teach themselves how to complete them.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2023-11-04T20:39:32.789628Z"
+    },
+    {
+      "professor": "John Aloimonos",
+      "course": "CMSC426",
+      "review": "Terrible course which is unfortunate since it could be an amazing course offered by UMD. TAs aren't helpful, lecture material is irrelevant for projects, projects take about 40-60 hours to somewhat complete. Professor thinks repeatedly showing formulas on a board for 15 seconds with 8 variables, 4 matrices, 3 coordinate systems, and a picture of a pinhole camera is how students learn. This class has been the biggest regret of my UMD CS track and I am an above average student (not that it really matters much).",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2023-11-06T23:20:43.716046Z"
+    },
+    {
+      "professor": "John Aloimonos",
+      "course": "CMSC426",
+      "review": "This man cannot teach. His lectures honestly put me to sleep and had nothing to do with the projects or exams. I went to class for a few weeks before realizing that his lectures are not helpful in any way. He does not record lectures by the way. The exams are multiple choice but are nothing like the \"practice\". I say \"practice\" because they were just a few questions thrown together by the TAs. The TAs do all the work from handling the exams to answering questions on Piazza. I'm pretty sure the professor isn't even on the Piazza. And don't bother emailing the professor about something, just email the TAs. I have never seen a class more run by the TAs. Also, I hope you or someone in your group knows something about image processing before taking this class or are really good at googling, or else you are not completing those projects.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2023-11-09T01:44:22.336193Z"
+    },
+    {
+      "professor": "John Aloimonos",
+      "course": "CMSC426",
+      "review": "The professor seems to ramble about material related to the field but unrelated to the exams and projects, which sounds cool until you realize there are also hundreds of slides to look through for projects. On top of that, the administration was horrible, with grades for most assignments and projects released right before finals. In previous semesters, students would be allowed to use libraries like OpenCV on their projects. Still, this professor decided to have us implement those algorithms by hand, increasing the difficulty of this class significantly. Overall, I would avoid this professor at all costs as this was my least favorite course during my entire undergrad.",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2023-12-22T05:03:38.039669Z"
+    },
+    {
+      "professor": "John Aloimonos",
+      "course": "CMSC426",
+      "review": "In short, Professor Aloimonos gave us a decent idea of some of the fundamental theory involved in computer vision, but when it came to coursework and projects he was pretty much uninvolved and we were on our own. If you want information about the course syllabus, you can just search up \"cmsc426 prg\" and you should see the Perception and Robotics Group which has links to all of the syllabi from when this course was taught.\r\n\r\nPros:\r\n- The lectures were helpful for doing well on the midterm, and marginally helpful for the projects. I went to most of the lectures, and I would say they were better for getting a conceptual idea about certain topics. He also writes stuff on the board (equations, diagrams, derivations) that are not in the slides so I would suggest going because just reading the slides alone is pretty confusing. They did help me in some of the projects, and going to them likely boosted my score on the midterm. The professor also did some review before the midterm which was pretty helpful. The lectures also became very close-knit after a few weeks since most people didn't bother coming to them, so if you had questions it was pretty easy to ask.\r\n- The projects were at least about interesting topics in computer vision. The last project even involved using a machine learning model for a practical application, so I think they were probably the most interesting and helpful part of the course. Also, we had 8 late days total to use for the first 3 projects, so that we could get full credit even if we used a few late days.\r\n- Grading was lenient in my opinion (The professor says he \"doesn't believe in grades\"). The median grades for all projects besides the last one were all 100%, producing some output and writing a good report was good enough to get a good score. The midterm exam was a little difficult (median 80%). Also, we had a \"participation\" grade where all you had to do was say something in the Piazza at least 15 or so times, which literally everyone got full credit for. The final project had a median of 75%, that was definitely one that they graded more harshly, since your grade depended on the performance of your model. I heard the final exam was tough, but I can't speak to it since I decided to do the project instead. The overall average course grade was an A- according to the TAs. This semester, 90% was an A, 76% was a B, and 66% was a C+.\r\n- The professor is pretty nice and friendly. He is also very involved in computer vision and robotics research at UMD if that's something you are interested in.\r\n\r\nCons:\r\n- I said the lectures were helpful, but they definitely could have been much better. The professor had a habit of skipping over some details and that could sometimes make things hard to understand. You also better remember your linear algebra or else you won't be able to follow this class. The lectures also barely covered anything about the projects, he NEVER went over any actual code, so you had to figure out how to implement the things he's saying in Python on your own.\r\n- The TAs completely ran as far as projects, exams, and grading go. We had a piazza that the professor probably was not even a part of, the TAs were responsible for responding to questions there. Sometimes they only provided clarification for projects ON THE DAY THEY WERE DUE, which was very stressful. Sometimes they would even provide conflicting information. I would highly suggest starting these projects early especially if you don't know what you are doing. Otherwise, you will struggle.\r\n- We did not have great preparation for the midterm besides the lectures and all of their slides. At the very least, the slides, our notes, and the projects were decent material to study. The TAs provided a practice midterm, which would have been helpful had they also given us the answer key. They couldn't properly answer the questions in office hours either, rendering that practice midterm basically useless. There was no practice final, however the professor covered some questions in class that he indicated would be on the final.\r\n- Grading took an extremely long time and was not organized at all. We were split onto groups in ELMS, and somehow the TAs were always confused on who was in it what group. Project 1 was due in late September but I'm pretty sure we only got our grades in early December for that one. I'm pretty sure some people didn't even get project 3 grades by the time they submitted grades to Testudo. The midterm exam was multiple choice, because according to the TAs it would be \"faster to grade.\" It still took several weeks to grade and when we got that back, there were numerous grading errors and confusions. I'm almost positive the TAs didn't have an answer key when grading that test. After all of the regrading, my score went up by 17%.\r\n- This course barely scratches the surface of computer vision. He introduces some research in computer vision, but we are barely given any understanding of it as it is very brief in the lecture. \r\n\r\nOverall, this Professor was decent for this subject but the way he ran this class had several flaws. If you choose to take him, my suggestion is to go to lectures, take some notes, get a decent project group, and start early.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2023-12-24T18:16:39.357094Z"
+    },
+    {
+      "professor": "John Aloimonos",
+      "course": "CMSC426",
+      "review": "Interesting subject but not a very organized class. Not much material to prep for the midterm and near the end of the semester, they changed the syllabus from having a final exam and final project for extra credit to a choice between a final exam and final project.\r\nIf you are one of those students that skips lectures, I wouldn't recommend it for this class, at least before the midterm, because they aren't recorded.\r\nThe projects were very difficult and time consuming, although they were all in Python instead of MATLAB like previous semesters and we were given 8 free late days across the first 3 projects.\r\nThe grading criteria was unclear, especially for the final project, but if you do your best to complete the projects and write good reports, it should be fine. There was a pretty big curve at the end.\r\nIf you are interested in computer vision and are willing to put in the work for projects, I would overall still recommend the class.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2023-12-27T00:07:33.702736Z"
+    },
+    {
+      "professor": "John Aloimonos",
+      "course": "CMSC426",
+      "review": "This is the worst professor I have ever had, and this is the worst class I have ever taken. Here are a few things that went terrible this semester:\r\n- Projects are 20+ hours each (per person, assuming a team of 4)\r\n- Most of the time on the project is spent figuring out what you're even supposed to do for it-- the professor's desired output is never provided\r\n- Projects often have missing, incomplete, or incorrect directions, which are only corrected after we plead on Piazza\r\n- There were multiple occasions where the TAs made key clarifications halfway through that completely changed our understanding of how we needed to approach the project, which forced us to redo major parts. This made me incessantly check Piazza for the next \"gotcha\" post from the TAs. \r\n- 50% of Piazza questions were never answered, a lot of those that were \"answered\" had some nothing answer that misunderstood the question, and only a small portion of questions were actually answered (and these answers came hours or even days after the question was asked)\r\n- The professor did not answer a single question on Piazza. I don't think he even opened the Piazza once.\r\n- TAs just say that we could \"probably figure it out ourselves\" if we look up how to do the project (which isn't true since the roadblock was usually figuring out what the professor wanted us to do)\r\n- Professor says \"figure it out\" if you ask him for help on projects\r\n- Need to write report on our code's output given test data, and the test data is not provided until 2 days before the deadline. So, you can't finish the project until 2 days before the deadline.\r\n- Last 2 days of Project 1 coincided with Yom Kippur (one of our classmates could not work on the project for religious reasons)\r\n- Final project (machine learning) was graded on a downward curve based on your output (i.e. even if your code worked, you would get marked off if your machine learning model didn't learn as well as everyone else's)\r\n- Final project required a 3 page LaTeX report and 10 minute video presentation for no reason\r\n- Lectures have little or no relation to the projects\r\n- Professor often rambles for 15+ minutes about random topics during lecture\r\n- Lecture slides not posted\r\n- The professor jumps straight into material without explaining why it matters or how it relates to computer vision \r\n- No concept is ever explained in detail-- the best we get is a long formula that we neither derive, get an explanation for, or inspect longer than a few seconds\r\n- Professor jumps randomly between topics during lectures-- half the time, you're playing catch up trying to figure out why in the world the professor is writing what he is on the board.\r\n- Material covered in lecture barely relates to computer vision\r\n- Professor (accidentally?) did repeat lectures where he went over the same exact slides and content again\r\n- Professor did review session where he discussed 4 questions that would 100% be on the midterm exam--only 1 of the 4 questions were actually on the exam\r\n- Other 5/6 questions on midterm exam were either never discussed in lecture or discussed in passing for 1-2 minutes in one lecture. \r\n- Students did not get grades back until exam week-- we had no idea what our grade was in the class until it was too late to do anything about it\r\n\r\nI have had nightmares about this class. I pray for anyone who has the misfortune of happening upon this class. If you value your sanity, never take this class and absolutely DO NOT take it with Aloimonos.",
+      "rating": 1,
+      "expected_grade": "A+",
+      "created": "2023-12-28T05:19:24.178086Z"
+    },
+    {
+      "professor": "John Aloimonos",
+      "course": "CMSC426",
+      "review": "Horrid teaching. One of the worst I've ever experienced. Heavy accent makes him virtually uninterpretable, and he spends the first 10m to hour talking about his anecdotes or life experiences which, to be frank, I'm not interested in.  I remember the one of many instances that I would actually try to understand his stories, he would talk about how WWII and would somehow segue that into Computer Vision. I did not learn anything in the lectures, and I'm sure majority of the class didn't either given the <20% class turnout to his lectures. \r\nMoreover, his lectures had very little to no correlation to what we were tested on in projects. I've never had been left more in the dark with a CS project in my entire life. Thankfully and fortunately, you are assigned group members and they seemed to carry me. If you are to take this class, and groups are allowed, choose your group members carefully as there are complex concepts applied to the projects. Also note that he presumed that we knew Python and the projects were in Python (I'd say most CS students are familiar with this language but just to disclaim). \r\nAlthough I am expecting an A-, I did not understand most concepts and relied heavily on my group members (which again I am thankful for); the lectures and scope of this class are horrid and the only reason of such a decent grade distribution was because of projects that could be worked with a group and piazza participation. Yes, as of F2023, there was a 10% final grade piazza participation. The only part of this class I enjoyed was the overtly enthusiastic yet sarcastic follow up \"discussions\" that people would post just to get this 10% credit. \r\nThis is the first time I've ever wrote a review about a professor so hopefully you could understand the emphatic and negative feedback I have given.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2024-01-15T23:04:01.483659Z"
+    },
+    {
+      "professor": "Jia-bin Huang",
+      "course": "CMSC426",
+      "review": "Lectures are huge information dumps that can get overwhelming. We don't learn the \"why\" behind most topics and there is a huge disconnect between lecture information and implementing the code on homeworks. There is zero guidance on how to start the homework and rules and guidelines will randomly pop up on piazza but only after someone asks a question about it. Attendance was made mandatory almost halfway through the semester because no one was showing up, but the reason people weren't showing up was that no one found lecture useful. Just a poorly run course in general.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2024-02-28T04:35:39.074094Z"
+    },
+    {
+      "professor": "Jia-bin Huang",
+      "course": "CMSC426",
+      "review": "He seems really smart but also doesn't give a crap about the class and just yaps and yaps and yaps without explaining anything. Basically the lectures are very high level concepts and he doesn't explain how to actually do any of the things he talks about beyond putting a huge, abstract algorithm/summation up on the board (without explaining) for 5 seconds. It's kind of the common L of professors who are really smart but don't know how to teach and only care about their research. The problem is that his lectures are so much of an information overload that its not really worth trying to figure out what he's talking about, because even if you do, the high level concepts aren't all that useful for projects.\r\n\r\nSpeaking of projects, some of the worst designed I've seen in my time here. Little to no directions ever, and despite the TAs being smart and helpful, they usually can't debug with you because everybody does things in exceptionally different ways and it is impossible to unit test when everything is tracking hundreds of points across tons of iterations across tons of images. Most things in this class rely on packages, but often times some things just don't work in the way you need them to and its not really possible (feasible) to figure out why in a 2 week project (ie don't use numpy.gradient for gradients, it gives garbage) . After the first project dropped lecture attendance went down like 80% because everybody realized how useless they were with respect to what the projects ask of us. \r\n\r\nHe then made class required (which is fine I don't mind) and added a midterm mid-semester (fine) but he never announces these things beyond piazza posts and doesn't update the syllabus. He makes large scale course changes and then weeks later talks about these things like they've been known (this isn't a huge issue, cause yeah, we can check piazza and whatnot, but still just a poorly managed course if he has to update the grade breakdown many times mid-semester).",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2024-03-14T20:23:37.213829Z"
+    },
+    {
+      "professor": "Jia-bin Huang",
+      "course": "CMSC426",
+      "review": "just dont even take this course. professor is cracked at comp vision but the lectures/slides just does not help with projects. students often just end up lost and have to ask piazza how to even begin.\r\ngoogle has been my best friend so far...",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2024-03-28T07:47:13.259300Z"
+    },
+    {
+      "professor": "Mohammad Nayeem Teli",
+      "course": "CMSC426",
+      "review": "He speeds through content, only cares to explain the technicals and math and not general concepts that would make the math easier to absorb, and lecture structure is confusing and often logically backwards, likely because he splices slide decks together from other classes he's taught. It makes easy content difficult to grasp, and it makes difficult content impossible to even get started with. And there's no book accompanying this course, so you're stuck with his scattered, lightning fast lectures, whatever you can find on Youtube, and absolutely no practice (I mean it -- none) with the content on exams. \r\n\r\nHis high score is absolutely undeserved (and baffling to me). I feel like I know less now than I did walking into the class.",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2024-04-02T15:59:06.616984Z"
+    },
+    {
+      "professor": "Jia-bin Huang",
+      "course": "CMSC426",
+      "review": "I have never written a review before but I felt like I need to write one because the other reviews aren't giving the full picture. In college this is honestly my favorite class I've ever taken and favorite professor (second only to Justin). Huang's explanations are always very articulate and clear. This course also has the most relevant material I have ever learned in a class. Some of the coolest projects are stitching panoramas with almost the same algorithm the iPhone uses and tracking key points in an image and using them to reconstruct a 3D point cloud and the camera motion. Huang is extremely smart and gladly answers any questions that come up during class.\r\n\r\nI do warn you, this is a very math heavy course. I have a strong background in math and came in with MVC and two lingalg courses. I admit in the second half of the semester some of the math went over my head. That being said, it didn't really take away from the class at all as the theory behind the algorithms still made sense. Anyone who is good at math will definitely enjoy this course and do fine. I would recommend taking MATH 401 though to get more out of this course. If this is your first 400 level CS class (it was for me), it might be a little rough at the start but if this isn't then this course shouldn't be a problem.\r\n\r\nAlso adding on to the point that understanding 100% of the math isn't crucial is that the midterm was fully conceptual, no code, no math.\r\n\r\nAnother thing that he does well is he spends the first 10 minutes of every lecture reviewing the material from last class in a slightly different format with slightly different slides and this always helps everything click. Every now and then he'll do an even bigger review of the last couple classes or even from the start of the semester to show how everything ties together.\r\n\r\nTLDR; Hard class but very fun and well taught, you'll do well if you're good at math",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-04-18T16:53:19.240279Z"
+    },
+    {
+      "professor": "Jia-bin Huang",
+      "course": "CMSC426",
+      "review": "The lectures are really information-heavy with complex concepts BUT he never explains the practical application. The lectures are not helpful for the projects whatsoever. The projects are poorly designed with little to no guidance. Expect to spend significant time figuring out project goals and approaches on your own. He also makes course changes and does not update the syllabus promptly. Important announcements are made on Piazza, but not necessarily mentioned in class. Save yourself the headache and don't take this class with him.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2024-04-23T15:40:43.945455Z"
+    },
+    {
+      "professor": "Jia-bin Huang",
+      "course": "CMSC426",
+      "review": "Very knowledgeable professor. Hard class with a lot of math but worth it.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-04-25T17:12:02.969291Z"
+    },
+    {
+      "professor": "Jia-bin Huang",
+      "course": "CMSC426",
+      "review": "TLDR: DO YOUR RESEARCH ABOUT COMPUTER VISION BEFORE TAKING THIS, LOOK AT PPTX FROM OTHER UNIVERSITIES THAT HAVE THIS COURSE. TAs AND GOOGLE WILL BE YOUR BEST FRIENDS\r\n\r\nI'm working on the last project right now (not the final project) and looking back at it, this class is very manageable. I barely got a 50 on the midterm, but I was able to complete all of the previous projects successfully. If you START EARLY and GO TO OFFICE HOURS, you will also be able to complete the projects on time (I started most of them a few days before the due date and submitted them late but I cranked each of them for around 2-4 days straight with help of TAs and finished them).\r\n\r\nI would only suggest taking this class if you are genuinely interested in the computer vision world. Look up textbooks and documents from previous years and from other schools. Jia-Bin goes into detail about concepts and lectures are mandatory, so if you don't want to fall asleep, do NOT take this course.",
+      "rating": 3,
+      "expected_grade": "C+",
+      "created": "2024-04-27T06:51:24.263823Z"
+    },
+    {
+      "professor": "Jia-bin Huang",
+      "course": "CMSC426",
+      "review": "yk how some smart people should just not be teachers? well this is one of those. smart guy but horrendous teacher. lectures are entirely useless for projects and homework and his class is very disorganized. don't take.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2024-05-02T00:45:47.941381Z"
+    },
+    {
+      "professor": "Jia-bin Huang",
+      "course": "CMSC426",
+      "review": "DONT TAKE THIS CLASS!!! you may be thinking \"but you expect to get an A\", yes but I can wholeheartedly tell you I dont know anything more about computer vision then i did when i entered. We learn ZERO code in class and this is NOT an exaggeration, the topic is simply too dense and to be learned in 1 semester. You sit in lecture to him talking to you as if you already know everything about the subject as he reads off slides that contains nothing but words and pictures of how images change from the algorithm used, while he \"explains\" the steps of the algorithm thats all he does. You spend at least 4 hrs just googling what functions must be used for the various steps, another 4 hrs trying to understanding how to use and connect the return values and then the last 58(a bit of an exaggeration)hrs trying to connect everything and debug. There were frequent and endless questions on piazza as people struggled with these projects to the point the professor stopped responding to posts and put it all on his TAs. The TAs were the only redeeming part of this class, they were awesome. Ive heard that SOME positive feedback from other professors, but if you care about your mental sanity do not take this guy.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2024-05-11T04:07:31.308006Z"
+    },
+    {
+      "professor": "Jia-bin Huang",
+      "course": "CMSC426",
+      "review": "All of the reviews so far (both positive and negative) are fairly accurate. Dr. Huang is extremely knowledgeable and proficient in Computer Vision, and seemed quite approachable and friendly. He would regularly connect the material with real-world, modern applications which made the class seem more practical. However, this class is EXTREMELY math-heavy. If you are a person who enjoys math and is interested in Computer Vision, I'm positive you will do well in the course. The highest math class I took at UMD was MATH240...2 years ago. I suffered heavily from my lack of practice and couldn't keep up during lectures. Since the material is so practical and hands-on, however, all of the projects were doable (with a lot of googling). \r\nWe were allowed a cheat sheet on the midterm and plenty of extra credit opportunities were given. We also got seven days' worth of late passes. TAs were responsive on piazza and would do their best to help you.\r\nTLDR: interesting class, super math-heavy, nice professor, below average lecturing, thoroughly assess your own abilities before taking!",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2024-05-17T17:47:31.055829Z"
+    },
+    {
+      "professor": "Jia-bin Huang",
+      "course": "CMSC426",
+      "review": "All his lectures were watered down versions of other lectures from the internet. His ability to present new information is mid at best. He often felt disheveled and unprepared. His TAs also rarely provide adequate support. If you already like computer vision, the class will be fine. If it's a new topic that you are hoping to be guided into, this class might not be for you.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2024-05-19T19:12:26.965950Z"
+    },
+    {
+      "professor": "Jia-bin Huang",
+      "course": "CMSC426",
+      "review": "This guy sucks, its been a week and a half since class is ended and we still have no grades in elms, how is this even allowed",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2024-05-24T12:30:39.511302Z"
+    },
+    {
+      "professor": "Mohammad Nayeem Teli",
+      "course": "CMSC426",
+      "review": "I don't know about his other classes, but he's not a great instructor for computer vision.\r\n\r\nHis presentation style in lectures is at times impossible to follow. He spends half the class diving into deep mathematical derivations, but barely takes any time to build the bridge between the math and the broader concepts.\r\n\r\nIf you value your grade, definitely don't take him. He makes mistakes on the solutions to his own assignments all the time (happened multiple times this semester) but expects you to be impeccable somehow. He doesn't seem interested in rising to the standards he has for the people he's teaching.\r\n\r\nAnd communication is very much not a priority for him. His guidelines and expectations change throughout the semester, making it hard to pin down how you're doing in the class. Multiple people have to make multiple posts on Piazza before he even considers responding, and even then his responses have an undertone of condescension.\r\n\r\nThe only reason I'll give him two stars is because you can tell that he knows his stuff. Just isn't great at teaching it to others, in my opinion.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2024-05-25T14:52:58.292571Z"
+    },
+    {
+      "professor": "Mohammad Nayeem Teli",
+      "course": "CMSC426",
+      "review": "Knows his stuff, but terrible at gauging how to effectively communicate it.\r\n\r\nPlus some of the worst administrative manners I've ever seen. Barely shows any interest in communicating with students outside of classes, and when you do manage to get a conversation started, he's eager to trivialize/dismiss your concerns and get rid of you as quickly as possible.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2024-06-29T02:37:49.891338Z"
+    },
+    {
+      "professor": "John Aloimonos",
+      "course": "CMSC426",
+      "review": "Imagine for instance a professor who speaks like Dracula with the gravity of voice of an eldritch horror & Ms. Frizzle who out of sheer boredom has become an interdimensional salesman and a mad scientist while barely managing to hide his identity from his students in a twisted version of the magic school bus.\r\nNot sure how computers vision, but he hit us with some revelations like:\r\n\"Zyou are blind!!\"\r\n\"Animals don't have gps!\"\r\n\"What you see is an illusion! We think it is a imitation of reality! We have to! Bc seeing is believing.\"\r\n\"Invact! All animals have a home!\"\r\n\"Look at the Amazing jumping spider with 8 eyes!!\"\r\n\"Have you ever seen a 4 dimensional space? No! It is impossible! But there are techniques to understanding...\"\r\n\"I am a self driving car. VRRRRR!\"\r\n\"All of a zudden there iz an elevant invfront of me. Zelf driving car doezn't know shit avout elevants!!\"\r\n\"The zeitgheist!! The spirit of the times! The zeitgheist always effects the way you think!!\"\r\n\"What does it feel like to be a bat?!?!\"\r\n\"But a bat! I have to concept of what these ultrasounds are like! So we can not know what it is like to be a bat!\"\r\n\"[Beez] are doing a number 8. THey do a dance like this (Proceeds to dance in a figure 8 for about a minute in utter silence). The NUmber is on a plain!! Never kill a bee, even it bites you!\"\r\n\"You must have seen this before. (Image of train tracks) ... She doesn't love me anymore. So you find this and you say that you stay here and wait.\"\r\n\"What is this? A feris wheel you say? Have you ever been in one? It's very scary! You should be careful going on them. They are very dangerous! They are not well regulated. You could die ... so easily.\"\r\n\"If light was going around and doing all sorts weird things would make computer vision very hard.\"\r\n\r\n\r\nAnd he says these things in an almost threatening way (not actual threats), but when he says \"What does it feel like to be a bat?!?!\" it is not a question but rather a challenge that after he's done with you, you will either be unable to comprehend what it is like to be a bat or you will deeply regret your mortal folly after he makes you comprehend what it's like to be a bat. I hope that made sense, this class is more like a TV show than an actual lecture would recommend for funsies.",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2024-09-03T17:43:23.170464Z"
+    },
+    {
+      "professor": "John Aloimonos",
+      "course": "CMSC426",
+      "review": "Horrible class organization. The slides and piazza are very poorly setup up and lack any sense of order. The entire class is fueled by projects which are so open ended and near impossible to complete or even find direction without office hours. No useful preparation material given for midterm. Cool content but not well taught.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2024-11-06T18:12:14.517057Z"
+    },
+    {
+      "professor": "John Aloimonos",
+      "course": "CMSC426",
+      "review": "Probably one of the worst classes I've taken so far. Lectures are very high level so they give you limited guidance on how to do the projects, making the class almost entirely self guided. And the professor often goes on random tangents about unrelated topics. Would not reccomend...",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2024-11-25T22:10:27.990174Z"
+    },
+    {
+      "professor": "Jia-bin Huang",
+      "course": "CMSC426",
+      "review": "My friends told me that this professor knows he got a bad rating on this course and is planning to adjust the course material to make it easy for the next semester. He seems to plan to make everyone happy.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-12-06T01:20:19.459491Z"
+    },
+    {
+      "professor": "John Aloimonos",
+      "course": "CMSC426",
+      "review": "I usually believe that when people review teachers, they're a bit too pessimistic when they give so many professors a 1 star. I've had fabled terrifying professors such as Yoon for 216, and while I wouldn't say such experiences were pleasant, I usually find stuff of value that the class and teacher bring to the table. \r\n\r\nBefore I had Professor Aloimonos, I doubted I would ever skip a class, because even though it's tempting, there's still stuff of value to it.\r\n\r\nSo with the preamble out of the way, time to rant about this class.\r\n\r\nThere has never been a more disorganized class in my life. Frankly, it's a stretch to even call this class a \"class\", because Alomoinos is so out of the loop for everything, and the class is basically just run by TAs. Slides are quite terrible and poorly written and organized, and project directives are EXTREMELY vague and you won't know what you're doing most of the time. Piazza is fairly unresponsive and solely answered by TAs. All projects are group but insanely long and will definitely take 10+ hours even if you're a strong programmer. Each lab comes with a report you have to write about what you did. \r\n\r\nThe lectures provided by Aloimonos are nigh uninterpretable, as his accent and monologues go far off any actual content that's useful to the labs you'll eventually have to do. There was one midterm for the class, and since so few people went to class at this point/people didn't understand what was going on, an MC test where you didn't even have to answer every question, had a terrible average. Even worse, some questions had incorrect answers in the answer key, and students had to argue to deal with how inaccurate/vaguely worded the questions were.\r\n\r\nMost people will probably look at this class and think to themself, \"But, anon, the average is so high. Why wouldn't I take this class?\"\r\n\r\nAnd, sure, labs are mostly graded as 100s and despite the midterm, extra credit + no final + 10% piazza participation leads to a high average. But why would you want to subject yourself to so much stress, and so much effort, for a class you'll struggle to learn in?\r\n\r\nAlso a side note: although a lot of the TAs aren't that responsive, the head TA, Naitri, is definitely the highlight of this class as she genuinely posts guides to the labs, has useful office hours, and actually runs this class fairly well. \r\n\r\nHowever, this does not excuse how poorly managed the class is as a whole, as well as how much Professor Alomoinos's non-teaching makes this class difficult.\r\n\r\nAnyways, in short, please do not take this class.",
+      "rating": 1,
+      "expected_grade": "A+",
+      "created": "2024-12-11T19:33:42.065884Z"
+    },
+    {
+      "professor": "John Aloimonos",
+      "course": "CMSC426",
+      "review": "I enjoyed this class a lot. His lectures are super disorganized, yes, and perhaps not at all relevant to projects/the midterm, but he's such an interesting person to listen to. I did learn a lot about computer vision from him (I did end up attending every lecture) and it has definitely pushed me into vision research. His midterm is quite something, though, and there was very little review for this, which can make it challenging to study for. However, the TAs are amazing and are super helpful when it comes to studying for the midterm and working through the projects. He's a cool guy, definitely give him a chance if you see that he's teaching this class, but be prepared to do a lot of studying on your own to catch up for the exam and projects.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-12-12T23:43:44.734586Z"
+    },
+    {
+      "professor": "John Aloimonos",
+      "course": "CMSC426",
+      "review": "what bro said below me is right. just don't take this, terrible structure, terrible organization, and just bad",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2024-12-19T01:27:16.139993Z"
+    },
+    {
+      "professor": "Jia-bin Huang",
+      "course": "CMSC426",
+      "review": "Absolutely terrible. Taking his class right now and he just keeps rambling in class. Every time I show up, the attendance is somehow even lesser than before even though he makes you sign a sheet which makes up for 5% of your grade (which is a pain because it's a waste of 2.5 hours a week). He seems to be very knowledgeable about computer vision but is unable to teach anything. Goes very fast in class and barely explains what's happening. I have to rely on multiple youtube videos before realizing what he's trying to talk about. Do yourself a favor and do not take his class. Lectures don't help at all with homeworks, the class is managed terribly as well.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-03-20T05:19:51.981432Z"
+    },
+    {
+      "professor": "Jia-bin Huang",
+      "course": "CMSC426",
+      "review": "Solid. Projects are doable with a healthy amount of late days. Exams are mostly conceptual and cheetsheets are allowed, so if you go to lecture and take notes  regularly you should be able to make an absolute abomination of a cheetsheet that could get you through anything. Just don't ever fall behind. I made that mistake and the week before my midterm was pure suffering. Keep in mind, there are no reliable materials to study off of, there are no condensed notes to use, there are no reliable textbook chapters, and you cannot trust the practice exam they give you. There is only you, 20 hours of straight lectures, and the void. Do not miss a lecture.\r\n\r\nTLDR: Lenient grading, responsible students will do exceptionally,",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-04-08T18:33:50.404942Z"
+    },
+    {
+      "professor": "Jia-bin Huang",
+      "course": "CMSC426",
+      "review": "It is easy to get an A in this class. \r\n\r\nProjects are free if you understand the material somewhat and lowkey cheat a little with ChatGPT. \r\n\r\nExam is 15% of grade and you get a cheatsheet and it is similar to the practice exam. \r\n\r\nThere are five projects (some with extra credit which is free) and one final project. \r\n\r\nThe lectures are hella confusing most of the time and the professor expects a decent amount of prerequisite knowledge. Lectures are also all recorded but there is an attendence grade where you sign a sheet. He def knows what he is talking about but this course should honestly be taught over 2 semesters. The math is lowkey aids too if you only took the first level of lin alg. It's easy to get a good grade tho imo.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2025-04-16T02:28:11.422446Z"
+    },
+    {
+      "professor": "John Aloimonos",
+      "course": "CMSC426",
+      "review": "Possibly the worst class in the computer science department. The course is horribly organized and the lectures provide absolutely no valuable information. The projects and homeworks feel very disjointed compare to the course content. The TAs are not very helpful when it comes to elucidating anything about the class; possibly the most annoying thing is the constant shifting of the goalposts and grading criteria. In previous semesters the grading was very forgiving, probably to account for the chaos. Over halfway through the semester, we are still left mostly in the dark. Absolutely do NOT take this class. You can learn everything you need about computer vision on your own.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-11-04T04:41:43.320880Z"
+    },
+    {
+      "professor": "John Aloimonos",
+      "course": "CMSC426",
+      "review": "Interesting professor, but this class was so disorganized and course experience was miserable. Entire class is ran by the TAs and the class is pretty much self taught due to the disconnection between lectures and assignments.",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2025-12-16T23:19:04.293760Z"
+    },
+    {
+      "professor": "John Aloimonos",
+      "course": "CMSC426",
+      "review": "My god this class is ultra disorganized, the lectures are so horribly taught so it is near impossible to retain the information. In addition whats taught in class has very little to do with the projects and the homeworks. Little materials is provided for the midterm and the final and you are just expected to self taught through the internet. awful and miserable class experience overall.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-12-16T23:32:38.091550Z"
+    },
+    {
+      "professor": "John Aloimonos",
+      "course": "CMSC426",
+      "review": "Like okay. This is a poorly run class but its not impossible or the worst thing ever, heres pretty much everything you need to know:\r\n1. Grading distribution:\r\n- Homework 1 : 5%\r\n- Project 1: 10%\r\n- Project 2: 14%\r\n- Homework 2: 5%\r\n- Project 3: 14%\r\n- Project 4: 12%\r\n- Homework 3: 5%\r\n- In-Class Midterm Exam: 15%\r\n- In-Class Final Exam: 20%\r\n2. Attendence not mandatory\r\n3. They do not teach you python (the language used in the class), they teach you broad concepts that you need to be comfortable enough with python to implement in projects\r\n4. The professor is very old and not really in touch with the course content. He lectures as though there are no assignments linked to what he is talking about or urgency of you learning something for a specific application\r\n5. One TA high key runs this entire class so props to her but there are definetly some flaws because of this\r\n6. Virtual communication is pretty bad so go to class right before your exams\r\n7. MOST IMPORTANT NOTE: Literally no reason to go to lecture, watch this guy: https://www.youtube.com/@firstprinciplesofcomputerv3258 The class will link you to him multiple times throughout the semester. TAKE THE HINT. Everything tested on is based off of that guy's lectures.\r\n8. You get 8 Late days per semester, meaning that you can spend those days between your homeworks and projects. \r\n9. Every project is a group project, so get a good group\r\n10. Homeworks are easy and but are random in what they cover and don't feel like good tests of knowledge imo\r\n11. This class feels fake and disjointed. If you think you're just smart enough to get through it, the class will give you forgiving grading, easy exams, not a lot of assignments, content which is entirely self-studyable, and you will get a decent general understanding of computer vision. If you want to have an in depth understanding of computer vision, want a well planned-out class that doesn't make you laugh at how poorly its run, a professor you can love, and you learn primarily through lectures, probably not for you.\r\n\r\nWeirdest CS class I have taken 5/10 for effort",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2025-12-26T05:41:01.910496Z"
+    },
+    {
+      "professor": "John Aloimonos",
+      "course": "CMSC426",
+      "review": "This class is genuinely interesting, and I learned a lot from it. I\u2019d recommend CMSC426 if you\u2019re interested in computer vision fundamentals, especially given how important CV is in computer science today.\r\n\r\nThat said, the course is not very well organized and is largely run through the TAs. I barely attended lectures, and while the reviews are accurate about the structure, this ended up being a mostly self-taught class. Personally, I didn\u2019t mind that, but it\u2019s something to keep in mind if you take it with Aloimonos.\r\n\r\nThe projects are confusing and time-consuming, even though they\u2019re group-based, so starting early is very important. The good part is that you\u2019re given a set number of late days for homework and projects, which helps. The homeworks themselves are doable and (including projects) do a good job preparing you for exams, though the course doesn\u2019t provide many direct exam study resources.\r\n\r\nExam prep mostly comes down to reviewing lecture material, past work, and external resources like YouTube. The exams aren\u2019t extremely difficult, but they do require solid studying. Good thing is that the amount of effort required really helped the material stick even after the course ended. And keep in mind that this class focuses on CV theory and core concepts, not applied ML or AI (which are only briefly touched on). If you\u2019re willing to put in the time, getting a B or A is very doable, but expect a heavy workload.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2026-01-15T19:34:26.308930Z"
+    },
+    {
+      "professor": "Jia-bin Huang",
+      "course": "CMSC426",
+      "review": "This course is both somehow way too much information, but not enough. It is a very high level course, but Huang glances over topics without ever explaining them in detail. He spends an hour and fifteen minutes in class speed-running through complex topics without giving any sense of depth. If you want any chance of understanding the homework, be prepared to re-watch and Google a lot of the topics he introduces in lecture.\r\n\r\nIf you want a comparison, imagine taking CMSC351 or CMSC420, but every single lecture, the instructor gives five high-level oral overviews of data structures without going into any of the math behind it. Then, the instructor gives you a project/exam that requires you to understand and perform the math in detail behind the data structures on paper.\r\n\r\nThere are no practice exams, solutions to the exams for this class are not released, and the projects are extremely arbitrary in grading. Although you can still get a 80 on exams and still hypothetically get an A, if you actually want to retain any information about Computer Vision, please take it with a different instructor.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2026-03-31T01:40:58.938735Z"
+    }
+  ],
+  "department": "CMSC",
+  "course_number": "426",
+  "name": "CMSC426",
+  "title": "Computer Vision",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> Minimum grade of C- in CMSC330 and CMSC351; or must be in the (Computer Science (Doctoral), Computer Science (Master's)) program.\n<b>Restriction:</b> Permission of CMNS-Computer Science department.\nAn introduction to basic concepts and techniques in computervision. This includes low-level operations such as image filtering and edge detection, 3D reconstruction of scenes using stereo and structure from motion, and object detection, recognition and classification.",
+  "is_recent": true,
+  "geneds": null
+}

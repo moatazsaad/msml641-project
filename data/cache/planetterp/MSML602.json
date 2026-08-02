@@ -1,0 +1,48 @@
+{
+  "average_gpa": null,
+  "professors": [
+    "Prem Saggar",
+    "Arefeh Nasri",
+    "Mohammad Hajiaghayi",
+    "Arefeh Nasri",
+    "Mohammad Hajiaghayi",
+    "Charles Forgy",
+    "Fardina Alam",
+    "Heng Huang",
+    "Maksym Morawski",
+    "Mohammad Nayeem Teli",
+    "Tammy Perrin",
+    "Marco Macias Sevde",
+    "Fardina Alam",
+    "Mohammad Nayeem Teli",
+    "Tammy Perrin",
+    "Anna Evtushenko",
+    "Tammy Perrin"
+  ],
+  "reviews": [
+    {
+      "professor": "Mohammad Nayeem Teli",
+      "course": "MSML602",
+      "review": "He was okay in my opinion. One thing I hated is that there was a quiz in every class for the entire semester. Each quiz added to the final grade so missing class was never an option. \r\n\r\nAlmost forgot to mention this. On the first day of classes, he informed us that we would have a semester-long final project instead of a final exam and we rejoiced (obviously) but the celebrations were short-lived because this dude had been trying to oversmart us all along: he conducted the midterm 2 weeks before the finals week, which meant we had to study almost the entire syllabus for the \"midterm\". I did not mind studying everything for this midte- scratch that, final exam but I did scoff at the way the class had been trojan-horsed.\r\n\r\nThat aside, prof is a cool guy. He will always try to clear your doubts. Always records his lectures and provides any and every material that he uses to teach (THANK YOU). Quizzes mostly had whatever he covered in class.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2025-01-24T22:30:09.258439Z"
+    },
+    {
+      "professor": "Tammy Perrin",
+      "course": "MSML602",
+      "review": "Interactive classes. Great problem solver and good assignments.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2025-12-22T06:37:21.250319Z"
+    }
+  ],
+  "department": "MSML",
+  "course_number": "602",
+  "name": "MSML602",
+  "title": "Principles of Data Science",
+  "credits": 3,
+  "description": "<b>Restriction:</b> Must be in one of the following programs: (Data Science Post-Baccalaureate Certificate, Master of Professional Studies in Data Science and Analytics, or Master of Professional Studies in Machine Learning).\n<b>Cross-listed with:</b> DATA602.\n<b>Credit only granted for:</b> DATA602, MSML602 or CMSC641.\n<b>Formerly:</b> CMSC641.\nAn introduction to the data science pipeline, i.e., the end-to-end process of going from unstructured, messy data to knowledge and actionable insights. Provides a broad overview of what data science means and systems and tools commonly used for data science, and illustrates the principles of data science through several case studies.",
+  "is_recent": true,
+  "geneds": null
+}

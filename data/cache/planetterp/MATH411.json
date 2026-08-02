@@ -1,0 +1,526 @@
+{
+  "average_gpa": 2.5218088986141503,
+  "professors": [
+    "McBlaine Boyle",
+    "Wojciech Czaja",
+    "Manoussos Grillakis",
+    "Matei Machedon",
+    "Justin Wyss-Gallifent",
+    "Swarnava Mukhopadhyay",
+    "James Schafer",
+    "Benjamin Manning",
+    "Roohollah Ebrahimian",
+    "Patrick Brosnan",
+    "Michele Coti Zelati",
+    "Patrick Fitzpatrick",
+    "Leonid Koralov",
+    "David Hamilton",
+    "Matthias Goerner",
+    "Kendall Williams",
+    "Richard Wentworth",
+    "Giovanni Forni",
+    "Huy Nguyen",
+    "Ricardo Nochetto",
+    "Antoine Mellet",
+    "Kendall Williams",
+    "Leonid Koralov",
+    "Kendall Williams",
+    "Matei Machedon",
+    "Kendall Williams",
+    "Matei Machedon",
+    "Lei Chen",
+    "Matei Machedon",
+    "Ricardo Nochetto",
+    "Leonid Koralov",
+    "Shiferaw Berhanu",
+    "Antoine Mellet",
+    "Clarke Safsten",
+    "Matei Machedon",
+    "Ricardo Nochetto",
+    "Shiferaw Berhanu",
+    "Antoine Mellet",
+    "Huy Nguyen"
+  ],
+  "reviews": [
+    {
+      "professor": "Wojciech Czaja",
+      "course": "MATH411",
+      "review": "Dr. Czaja is great professor. He makes a lot of jokes in class and is willing to answer questions in class, but don't expect much help on homework problems in his office hours. The homework problems were assigned out of the book. The exams he wrote were pretty difficult, but then again, so was the material. Some of the questions were problems from the homework, but asked in a way to make you think about the problem in another way.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2014-05-30T12:36:00Z"
+    },
+    {
+      "professor": "Manoussos Grillakis",
+      "course": "MATH411",
+      "review": "Grillakis is a well-dressed man who knows this class in and out. Lectures are spent proving theorems, often differently from how the book does it, which can be helpful.\n\r\nGrades are the average of your homework grade (lowest of 7 dropped), your midterm average (lowest of 3 dropped), and your final exam score.\n\r\nHomework is often either plug-n-chug application or intense proof that you may need to go to office hours for help on. However, there is at least a week and a half between due dates, so you always have enough time to complete the assignments. \n\r\nExams are basically a practical application of the material you learn. He does not put dense proofs on exams, but rather he tests your basic and superficial understanding of the techniques you learn in class. Exams can be tricky, but they are very doable and very much test your understanding of the material.\n\r\nJust as was said in the review below, this class is essentially a multi-dimensional extension of 410. Some of the concepts are very arcane and difficult to grasp (example, proving Stokes Theorum and boundary proofs with Jordan Contents), but Grillakis is great at explaining these concepts.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2012-09-23T00:09:00Z"
+    },
+    {
+      "professor": "Manoussos Grillakis",
+      "course": "MATH411",
+      "review": "He seemed like he knew what he was doing, the tests and homeworks were pretty standard, but he was really boring. He talks kind of softly into the board, and pretty much writes everything he says down (which is also all in the book). There was nothing particularly terrible about his class, but it was hard to pay attention for the whole 50 minutes, especially when the proofs were complicated. ",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2010-05-27T00:44:00Z"
+    },
+    {
+      "professor": "Manoussos Grillakis",
+      "course": "MATH411",
+      "review": "Grillakis is an effective professor (not great, but definitely a competent teacher). He will answer your questions directly when asked, and his proofs are generally easy to follow, though there are exceptions (not that this is his fault, as some of material is simply a bit complex to get in one go during lecture). His tests were well written - they were definitely short enough to be completed in an hour, but the questions were thorough in covering the content being tested. Also, the questions ranged in difficulty, so the exams weren't devilishly hard or too easy (though the exams certainly *seemed* easy when I was taking them, because I wasn't paying enough attention to some of the subtleties of some questions).\n\r\nAlso, importantly, Grillakis was very responsive to student concerns about the shifting homework schedule after the week of snow, and the work load was never impossibly heavy.\n\r\nMATH411 isn't too bad, basically an extension of 410 into multiple dimensions. You can pretty much expect to do as well in 411 as you did in 410.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2010-04-29T12:41:00Z"
+    },
+    {
+      "professor": "Manoussos Grillakis",
+      "course": "MATH411",
+      "review": "I went into this class a little worried because of its reputation as one of the hardest at UMD. But Dr. Grillakis made this class both fun and simple. \n\r\nThere is homework every week and 3 tests. The homework can be challenging sometimes but Dr. Grillakis is very helpful and alot of students go to him weekly for help. He also was very clear for what we had to know for tests.\n\r\nOverall if you found 410 easy, 411 with Grillakis is just a little bit harder but it is definitely not hard to get an A. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2007-12-05T01:39:00Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "MATH411",
+      "review": "He really cares about his students. He explains concepts extremely clearly and encourages you to think about what's going on in class. I never had to use the textbook because his notes are so clear. Tests are difficult enough to let you see if you actually are understanding the material, but not so difficult that you feel like crap after taking them.\n\r\nI also took the MATLAB course. The tutorial was really helpful and clear. I spent maybe 10 hours total the entire semester on this class, and that includes learning MATLAB from scratch and doing the projects. Take this class as early as possible; it's easy, not a lot of work, and a decent introduction to MATLAB.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2013-05-13T18:48:00Z"
+    },
+    {
+      "professor": "McBlaine Boyle",
+      "course": "MATH411",
+      "review": "He is really good at teaching, and thoroughly enjoys it. Even in an upper level class, no question was too basic, and the lectures were given at a reasonable pace with full explanation. In other words, all assumptions and previous assertions or connections to previous parts of the problem were made clear at each step. Homework was also very reasonable but helpful, and he strikes a nice balance between proofs and applications (i.e. USING the concepts). Lectures were very helpful, and focused on a lot of examples of methods used to prove and solve things. He is also very helpful (and always present) at office hours.\n\r\nI might say that the class is a little less rigorous than I remember 410  and being and than other 411 classes I've heard about, but he does a healthy amount of relating the material to topo and linear. I would definitely say that even a very introductory view of set theory/topo is extremely useful the first unit in his class. ",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2011-11-02T17:58:00Z"
+    },
+    {
+      "professor": "Leonid Koralov",
+      "course": "MATH411",
+      "review": "The best professor. \r\nSmiles always and tells funny stories about his children.\r\nExam grades sometimes rough (uniform distribution between 0 and 100) but fair.\r\n",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2017-12-15T04:50:34Z"
+    },
+    {
+      "professor": "David Hamilton",
+      "course": "MATH411",
+      "review": "Pretty good for 411, just makes it hard when his lectures are so different from the book material, and he covers a lot. I didn't learn a ton in lecture, but they were interesting (best to learn the material beforehand which I didn't usually do). He's an engaging guy. Usually nice enough. Exams were pleasantly fair. Nice grading system.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2017-12-21T01:01:40Z"
+    },
+    {
+      "professor": "Leonid Koralov",
+      "course": "MATH411",
+      "review": "I took this course 2 semesters ago with this professor and received a B. He was not helpful whatsoever. Wrote word for word from the book with very few examples (no examples outside of the book). I essentially read each section and taught myself the material. Exams were difficult with absolutely no partial credit given. I would never take a course with this professor again. ",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2018-03-27T21:20:34Z"
+    },
+    {
+      "professor": "Leonid Koralov",
+      "course": "MATH411",
+      "review": "Unreasonably difficult exams with no curve",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2018-05-20T21:46:22Z"
+    },
+    {
+      "professor": "Matei Machedon",
+      "course": "MATH411",
+      "review": "He explained the concepts pretty well and his exams were similar to practice problems and previous exams. He was helpful during office hours as well.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2019-01-09T00:07:18Z"
+    },
+    {
+      "professor": "Kendall Williams",
+      "course": "MATH411",
+      "review": "His lectures are so confusion.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2019-11-26T23:15:57Z"
+    },
+    {
+      "professor": "Giovanni Forni",
+      "course": "MATH411",
+      "review": "Prof. Forni is a nice and approachable guy. That being said, his lecture was kind of unorganized and through out the semester I had no idea what was going on. But he always appears so understanding and innocent that I just couldn't want to blame him for anything... Do not expect his class to engage you (in this class he assigns problems out of a boring book. I liked the problems he wrote but it only happened for the very first hw :/ ). Take his class if you are especially motivated/determined or you may slip off the way I did... \r\nExams were hard, mostly because they were ~10% similar to the problems from the book... He did generously curve the average of the class final grade to a B (the raw average was failing).",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2019-12-17T22:51:19Z"
+    },
+    {
+      "professor": "Giovanni Forni",
+      "course": "MATH411",
+      "review": "He's a funny guy, really smart too. His lectures are ok, but you doesn't follow the textbook very strictly, so oftentimes I had no clue what was going on. His midterms are ridiculously hard, while the final is somewhat more reasonable. That said, he curves to a B average, which is pretty generous. His style of teaching is different from others, but the way his exams destroy your self-confidence gives you great perspective on how little you really know.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2019-12-19T06:50:58Z"
+    },
+    {
+      "professor": "Giovanni Forni",
+      "course": "MATH411",
+      "review": "DO NOT TAKE THIS PROFESSOR\r\n\r\nHe is the worst professor I have had during my undergrad studies and he should not be teaching classes. His exams were totally unfair and unrelated to the material he was supposedly teaching and his teaching was totally incoherent. I made the mistake of taking this professor but I hope others avoid making this mistake. ",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2020-01-23T21:12:43Z"
+    },
+    {
+      "professor": "Kendall Williams",
+      "course": "MATH411",
+      "review": "Williams is not a good professor. Please do everything to not have him ever. ",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2020-03-02T17:17:59Z"
+    },
+    {
+      "professor": "Leonid Koralov",
+      "course": "MATH411",
+      "review": "Koralov is nice and is always available to answer questions. He'll try to go deeper into the material and make sure you really understand the course. His exams are fair, and although he grades them a bit tough, he will curve the class to make up for it.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2020-05-27T21:51:22Z"
+    },
+    {
+      "professor": "Kendall Williams",
+      "course": "MATH411",
+      "review": "The only bad instructor I had in the math department.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2020-06-04T03:29:54Z"
+    },
+    {
+      "professor": "Kendall Williams",
+      "course": "MATH411",
+      "review": "Just don't take him for MATH 411.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2020-06-14T15:44:44Z"
+    },
+    {
+      "professor": "Kendall Williams",
+      "course": "MATH411",
+      "review": "He is one of the best professors in math department. One reason is he follows every step, and make clear explanation to it. Another reason is he sticks to the purview of the textbook, so you will not meet anything unexpected in the assignment or exam. However the exam could be a little challenging and the amount of work is not light at all",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2020-09-04T18:20:28Z"
+    },
+    {
+      "professor": "Matei Machedon",
+      "course": "MATH411",
+      "review": "Knowledgeable professor. He almost never makes mistakes. Took the class during a pandemic, exams are slightly easier than usual. Exams are similar to practice problems. If an exam question is not on the practice, it is usually either an application of the proved theorems or a modification of some proving process.\r\nHowever, he does expect you to read the textbook on your own, otherwise, his classes are too fast to follow.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2021-02-03T03:13:03Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "MATH411",
+      "review": "He lives up to the hype!\r\nLectures were interesting and he was super understanding about due dates & exams given that everything was online.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2021-05-21T16:25:09Z"
+    },
+    {
+      "professor": "Matei Machedon",
+      "course": "MATH411",
+      "review": "I've taken this guy for several courses including an entirely  in person class (math241). For 411 it was entirely online, but since I know this professor in person I'll base my review on that as well. First off he's a good dude for real. He genuinely cares abouts his students, you can tell in the way he interacts with students. He's also the nicest professor I've had my entire time at umd. The only real con with this guy is that he sometimes explains things poorly during lecture. If you read the book and do suggested problems/ homework problems you should be okay. Also he gives a generous curve every semester,  and I've had him 3 semesters and it's been the same every semester, though he grades much less harshly in person. I knew one of the TlAs before quarantine and he told me that professor machedon always said not to grade too harshly. I guess if I had to summarize I'd say take this guy. He doesn't like to fail people unnecessary, and isn't too bad,  for lower or upper level classes or math 411. Also he doesn't have much of an accent. Maybe if you ate a native English speaker you'd have trouble understanding him but otherwise his accent is mild at most.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2021-05-30T05:16:52Z"
+    },
+    {
+      "professor": "Matei Machedon",
+      "course": "MATH411",
+      "review": "First of all, he is a great professor. He definitely treats students with respect and wants the best for them. For the most part, his lectures are clear and easy to understand after going through the notes (understandable for a proof based course where it might be difficult to digest everything during lecture). He follows the textbook for the most part, and says when he differs from the textbook. If he does differ, it is usually for a good reason. Exams are quite fair: not too hard and not too easy. If people do worse than expected, he is willing to curve a good amount. Homework is easy (maybe too easy and short, but not a major complaint). Also, in reply to others, his accent is barely noticeable. ",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2021-12-14T01:14:34Z"
+    },
+    {
+      "professor": "Matei Machedon",
+      "course": "MATH411",
+      "review": "Professor Machedon is one of the best professors I have encountered at UMD. He makes a difficult class like Math411 digestible and he is also just a really nice and kind person all around. I really enjoyed going to his lectures. Also like the previous poster said, his exams are more than fair and his curve is a fair as well. I would highly recommend him for 411!!",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2021-12-19T13:28:25Z"
+    },
+    {
+      "professor": "Huy Nguyen",
+      "course": "MATH411",
+      "review": "solid lecturer, knows his stuff, very good at explaining things and is great with office hours. however, he has Actual expectations so be prepared to learn, and moves pretty fast (I had tuesday thursday section with him). homeworks felt like they came by really fast. ",
+      "rating": 5,
+      "expected_grade": "B-",
+      "created": "2022-05-15T12:54:02Z"
+    },
+    {
+      "professor": "Huy Nguyen",
+      "course": "MATH411",
+      "review": "He is probably one of the best professor for Analysis sequence. Exams are fair and lecture notes are easy to understand. I am getting B because I spent so much time on useless AMSC460\r\nclass. Unlike other math professors, he posts HW solutions. Also, his office hour is very helpful. Definitely, I recommend him ",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2022-05-20T14:04:22Z"
+    },
+    {
+      "professor": "Huy Nguyen",
+      "course": "MATH411",
+      "review": "He is probably one of the best professor for Analysis sequence. Exams are fair and lecture notes are easy to understand. I am getting B because I spent so much time on useless AMSC460\r\nclass. Unlike other math professors, he posts HW solutions. Also, his office hour is very helpful. Definitely, I recommend him ",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2022-05-20T14:04:23Z"
+    },
+    {
+      "professor": "Huy Nguyen",
+      "course": "MATH411",
+      "review": "He is the best math 411 professor.  He posts hw solutions and his office hours are very helpful. He cares students more than anyone in the dept. I\u2019m getting B because I took 3 math classes including AMSC460 with no programming skills. Definitely, take him!!",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2022-05-20T14:08:41Z"
+    },
+    {
+      "professor": "Huy Nguyen",
+      "course": "MATH411",
+      "review": "Dr. Nguyen is a great professor! I had him for both MATH410 and 411, which are important classes for going into higher level math, and his lectures are organized, and he involves the class as well. There's also enough humor to make it somewhat fun while still keeping it as professional as it needs to be. The homework assignments are difficult but reasonable, and he is great at helping if you're having any problems with the hw in office hours. The exams are also reasonable. I would 100% recommend taking 410/411 with him",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-08-15T20:56:23Z"
+    },
+    {
+      "professor": "Huy Nguyen",
+      "course": "MATH411",
+      "review": "Huy is an amazing professor! 411 is difficult (it was a lot more difficult for me than 410) and requires a lot of hard work, but he makes it very manageable. His lectures are organized and clear. He is always happy to pause and answer student questions and it's clear that he cares a lot about helping students. He gives one homework assignment a week with about 8 questions which summarize the lectures of the previous week, and office hours are very helpful for the homework and also for general understanding. Exams are fair and reflect homework assignments and practice exams.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-11-02T15:26:25.654682Z"
+    },
+    {
+      "professor": "Kendall Williams",
+      "course": "MATH411",
+      "review": "Does not even lecture, just has students learn everything on their own. Has other students answering questions from other students instead of himself. Forced people into groups, and did not respect students (I was only female in his class and treated me like shit). What is the point of lectures when there is no \"lecture,\" just group work that is not beneficial.",
+      "rating": 1,
+      "expected_grade": "W",
+      "created": "2023-03-24T19:30:26.425419Z"
+    },
+    {
+      "professor": "Matei Machedon",
+      "course": "MATH411",
+      "review": "Great professor. knowledgable and very solid lectures. Dr Machedon is one of the best. His class is absolutely intended for students to actually learn things. Assignments are generally helpful and he is very willing to help in his office hours. Very patient and would like to explain things. last but not least, he curved the grade marks so that despite this is a hard class, can certainly expect a decent final grade if did sufficiently fine in assgnment and exams.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2023-11-15T17:38:45.103025Z"
+    },
+    {
+      "professor": "Matei Machedon",
+      "course": "MATH411",
+      "review": "Prof. Machedon is reasonable and clearly cares a great deal for the material of MATH411, being an analyst himself and (I believe) the chair of the course given how often he teaches it. The pacing on lectures could be better, but they weren't bad. He is willing to go over material for review, which was great for the lectures before each exam (one midterm & a final). A few lectures were devoted to topics like integration on manifolds that were marked not to be tested. Homeworks were mostly very easy, almost mechanical, with one harder problem each week or so where you genuinely had to produce a proof. They weren't fully adequate for exam prep, but his many past exams and his reviews covered the gap. The curve ended up being 85/70/55 (A-/B-/C-/F).",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2024-01-04T02:46:07.526194Z"
+    },
+    {
+      "professor": "Lei Chen",
+      "course": "MATH411",
+      "review": "This class is VERY HARD. I spend roughly 20 hours a week on this class, but it was well paid-off. Unfortunately, while Dr. Chen is very sweet and nice, she is an extremely disorganized lecturer. Oftentimes it feels like she does no prep work before lecture and is figuring things out on the fly. She has weekly homework, which the average ends up being around 100% on. She does very hand-wavy proofs, but she's okay with you doing hand-wavy proofs too. I quit showing up to class and just learned from the Fitzpatrick book instead. The class is very fast paced, so be prepared to spend a lot of hours doing practice problems. The exams are fairly difficult, both ended up having an average of around 70%. She makes you prove theorems from the book on test, so you have to make sure you know how to prove the book's theorems as well, or at least have the general outline.",
+      "rating": 2,
+      "expected_grade": "A+",
+      "created": "2024-04-30T18:57:08.186438Z"
+    },
+    {
+      "professor": "Lei Chen",
+      "course": "MATH411",
+      "review": "Chen is a really good professor. Her lectures are hard to follow because some of her proofs are not formally written or completely elaborated, but she knows what she is saying and will provide digestible proofs for important problems that you will need to learn how to emulate on the exam. The exams are very similar to the practice exams, but she will also take problems from the textbook. She has 10 extra credit points per exam, but the averages were in the low 70s for the semester. It's also really important to do the reviews the exams contain a lot of those questions. For an exam when she asks for you to \"compute\" it means to \"prove\", so keep that in mind. She's helpful during office hours, provides feedback on your proofs, and answers all your questions. She also held extra office hours before each exam to clarify questions. Take Lei Chen for any class she teaches, as you'll likely get a good grade.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-12T01:16:13.217674Z"
+    },
+    {
+      "professor": "Lei Chen",
+      "course": "MATH411",
+      "review": "Really nice professor.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-13T13:37:56.831275Z"
+    },
+    {
+      "professor": "Lei Chen",
+      "course": "MATH411",
+      "review": "She's quite unorganized when it comes to lectures. She often writes down theorems and her proof is not completely fleshed out. However, she does provide more concise proofs compared to the book which especially are useful if it could show up on an exam. The homework is textbook problems which aren't very hard, and she is very helpful in reviewing them and your proofs during her Zoom office hours. She also didn't know how to use ELMS at the beginning and wanted us to hand in our homework in class but after some pushback, she allowed online submissions. Her exams are very similar to her exam reviews, so make sure to meticulously go over every single problem. Also, go over problems from the textbook as those can show up as well. She also held extra office hours for each exam as well. However, unlike previous reviews, she didn't seem to curve.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-16T15:40:17.139792Z"
+    },
+    {
+      "professor": "Richard Wentworth",
+      "course": "MATH411",
+      "review": "Great professor, insanely tough class. The tests had around 60% average, but the cutoffs seemed low. My senioritis got the best of me, but overall the grading was fair. My only complaint was that we had a midterm on may 2nd and a final the week after.",
+      "rating": 4,
+      "expected_grade": "C-",
+      "created": "2024-05-18T05:50:31.003525Z"
+    },
+    {
+      "professor": "Richard Wentworth",
+      "course": "MATH411",
+      "review": "Boring professor, but very smart. Homeworks were ok, some are long and some are short. Exams are terribly hard for no reason which reflects from the scores which were around 65%, final avg was around 60% which the avg grade is about 69.5%. Curve was huge, it added almost 30% to my final grade. It doesn't seem like he wants people to fail but makes hard exams.",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2024-05-20T21:06:57.763553Z"
+    },
+    {
+      "professor": "Lei Chen",
+      "course": "MATH411",
+      "review": "Pros: \r\n- Very willing to help you out in office hours, not as much over email. She might just say come to office hours. \r\n- Makes exam reviews and usually posts a video going over it.\r\n- SOME exams were like her exam reviews. The ones that were, were comprised of review sheet problems and/or homework problems and basically identical.\r\nCons:\r\n- 1st midterm was NOT similar to the review!\r\n- Didn't post review video for the final exam review sheet even though multiple people asked and she only went over it on the very last class (which was 2 days before our final exam).\r\n- Lectures can be rough and disorganized. She will often ask US if something is correct. I often got lost in a proof of a big theorem because she didn't usually tell us where we were going and how we would get there. She is usually 3 minutes late. So reading the textbook was a MUST for me.\r\n- Her notation is not exactly the same as the Fitzpatrick textbook.\r\n- She was out of town probably for at least 4 or 5 classes, but she did post a video lecture.\r\n- At the beginning of the semester some homework assignments were posted late so we didn't have the full week to do it like we usually do. She also wanted us to turn in our homeworks in paper at first, but then she finally set up Canvas.\r\n- Didn't disclose grade cutoffs at the beginning of the semester and the cutoff for A+ ended up being 99!\r\n- Assumes some things are trivial in lecture so doesn't go over the whole proof, but often times it wasn't exactly trivial for me.\r\nOther info:\r\n- Weekly homework assignments come straight from the textbook, usually 6 problems/week.\r\n- When you study for her exams, prioritize the review sheet she makes and know the homework problems, but ALSO make sure you know all the other Theorem statements and definitions, etc.\r\n- Use Mean Value Theorem when in doubt lol! (Seriously.)",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-05-24T14:51:29.363480Z"
+    },
+    {
+      "professor": "Ricardo Nochetto",
+      "course": "MATH411",
+      "review": "Professor Nochetto is not great, in fact I would generally recommend avoiding him, if possible, only since there are usually better teachers for the same courses. He is actually a bit nicer than he leads on: there were a few instances where he extended homework deadlines or gave extra points on exams due to a mistake of his own doing. However, a lot of his teaching is pretty bland, since it tends to come straight from the textbook (hence many students in my lecture didn't attend usually) and he may even leave you more confused than if you just scan through the book. Moreover, the homework problems are used DIRECTLY from the textbook, so yeah you'll need to purchase it for this class, with Nochetto. Overall, he wasn't great, considering I've had other, much better professors but he wasn't nearly as bad as many other ratings will have you believe. \r\nHis exams, I thought, were generally pretty fair, other than the final which I found extremely difficult, and his homework didn't take too long usually\u2014around 6-8 problems. Though I am saying this before final grades are published, it is likely he changes grade boundaries.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-12-16T03:49:41.841231Z"
+    },
+    {
+      "professor": "Matei Machedon",
+      "course": "MATH411",
+      "review": "Teaching style is fine. Let his 2 favorite students go to the bathroom together during his final exam for about 10 minutes, so you'll probably have an A+ if he likes you.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2024-12-18T16:54:01.444631Z"
+    },
+    {
+      "professor": "Matei Machedon",
+      "course": "MATH411",
+      "review": "Maybe the lectures are a little slow, but he is very knowledgeable and clearly cares so much about teaching the course well. Is also always trying to get people to engage and ask/answer questions. Pretty easy exams, and homework is mostly easy problems from Fitzpatrick. Highly recommend if you want to really learn this stuff. Really great professor!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-21T13:04:04.093302Z"
+    },
+    {
+      "professor": "Leonid Koralov",
+      "course": "MATH411",
+      "review": "Don't take with this professor. He grades very harshly for exams which make up 20% of the course grade each with a uniform distribution of scores around 50%, and he does not spend the time going over what he should expect for writing proofs.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-03-10T21:00:25.615858Z"
+    },
+    {
+      "professor": "Shiferaw Berhanu",
+      "course": "MATH411",
+      "review": "Solid professor, he's definitely not the professor described in the MATH410 review from a few years ago. He engages with the class frequently and likes it when people are on time to class. His exams are also very fair (he sends out practice problems and sometimes has review sessions for them), and he even added an optional third midterm in case you wanted to improve your grade. He did make the final worth 45% of the overall grade, but if the difficulty is similar to the midterms, I think it will be fine. If you are the type of person that goes to class, I would recommend Professor Berhanu for analysis courses.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2025-05-06T21:05:50.239429Z"
+    },
+    {
+      "professor": "Shiferaw Berhanu",
+      "course": "MATH411",
+      "review": "The reviews for MATH410 from a few years ago did worry me at first, but professor Berhanu has been solid this semester. He is engaginng and makes it extremely clear what he wants from the class. The midterms and homeworks are extremely fair, and he provides a lot of practice problems for them. Additionally, he added a third optional midterm incase you wanted to get a higher grade. Overall, my viewpoint on professor Berhanu has changed and I would recommend him for any course.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2025-05-17T05:09:02.064471Z"
+    },
+    {
+      "professor": "Leonid Koralov",
+      "course": "MATH411",
+      "review": "Homework\u2019s were overall very fair. They were also graded fairly thanks the grader. I will complain that many of his homework\u2019s were computational heavy instead of proof-central which was a surprise for a proof math class. His lectures were ok. His lecture style was open the book, argue about the notation it used, and then write his version of definitions and theorem on the board. This was alright, but his lecturing was generally unorganized, with definitions and annotations squeezed into tiny corners of the board, and no real linear pattern to his style. It was imperative to read the textbook by yourself. Unfortunately, his lack of announcing topics and skipping around of chapters created a lot a lot guesswork.\r\n\r\nDue to lack of preparation for each class, the end of the semester and before each midterm was very rushed. Some lectures were dedicated to long examples of solving ODEs, Lagrange multipliers, easy matrix operations, or confusing equivalent definitions of integrability. This led to more important topics being compressed and rushed through. What he spent a lot of time on in class seemed to have no correlation to what was important to study for the exams. In fact, if he left a proof as an exercise seemingly skimming over it, it seemed like this showed up on the exam in some form.\r\n\r\nThe exams were horrible. I\u2019m not saying that they were impossible to do well on, because people did, but the averages were bad. The uniform grade distribution mentioned earlier is not a joke. The first exam average was about 12/20 and the second exam average was 15\\20. Also Exam 2 had about 10 points of matrix operations, which was trivial since all of us had taken some form of elementary linear algebra. That doesn\u2019t seem too bad right? Well, it is. Every point on the exam in his syllabus was listed as 1% of your overall grade. So the average student by the end of Exam 2 was already sitting at a total loss of 13%. Seven people dropped after Exam 1\u2013this accounts for the higher average for Exam 2\u2013and then one more after Exam 2. So really the score of new material was about 50%. Out of 35 students, a 20% drop rate for a class that is taken by relatively mathematically mature students is abominable.\r\n\r\nThe actual exams were not well put together. For the first exam, he walked into the room late, opened his laptop, turned around, and proceeded to slowly write the questions on the blackboard. Each question was weighted equally, so a definition or simple calculation that was briefly discussed from the first day of class and seemingly brushed off as unimportant was weighted the same as logic-based true/false and a proof. The second exam, only had 5 points worth of true/false justification and the rest of the 15 points were calculation. At least he gave us paper copies of the exam. This wouldn\u2019t seem too bad but he graded them extremely harshly. He was hesitant to give partial credit. Comparing Exam 1 and 2, I believe he did not grade consistently. This is easily the class I have studied the most for. The amount of effort out towards this class is not a reflection of the grade I will receive. \r\n\r\nAfter both exams, he encouraged people to drop the class, using phrases such as \u201cyou\u2019re just torturing yourself if you stay,\u201d or \u201cI rarely see students rally for the final.\u201d The final was very bad. He did mention that he might consider reweighing the homework, and potentially adding bonus points to the final, but did not do the latter. With what appeared to be a grading scale of <70-No credit/70-C/80-B/90-A as listed on his syllabus, it feels nearly impossible to do well in this class.\r\n\r\nSo, -1 star poorly designed exams, -1 star for inconsistent and harsh grading, -1 star poor preparation (constant lateness to class and poor time management of the content), and -1 star for his disinterest in supporting his students\u2019 success.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-05-17T14:07:36.251930Z"
+    },
+    {
+      "professor": "Leonid Koralov",
+      "course": "MATH411",
+      "review": "Everything the review on 05/17/2025 said.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-05-18T06:16:09.186292Z"
+    },
+    {
+      "professor": "Leonid Koralov",
+      "course": "MATH411",
+      "review": "Everything from 5/17/2025 with some additions. 1) the important content was not covered (no hwk on Lagrange multipliers, the very last lecture covered surface integrals, green\u2019s + stokes\u2019 theorems and that too by the TA), no questions on the final about mean value theorem or actual understanding of differentials \u2014 we would get taught some sections in class but have no assigned hwk 2) hwk was entirely computational and barely proof based 3) a lot of the theorems were actually taught wrong in class or glossed over \u2014 only reading the book made more sense 4) >75% of the class got <55% on the final 5) he hasn\u2019t announced grades yet but kept saying he would increase the weighting of future midterms/exams after m1 (avg was 12/20, avg was 15/20 for m2) rather than curve 6) I knew most of the material very well prior from other classes and still struggled because of his unfair exams/grading 7) no partial credit on certain final questions, and even graded different students\u2019 exams differently 8) I used to love analysis and now I am just genuinely repulsed by it. A professor really DOES make all the difference.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-05-19T19:40:18.143053Z"
+    },
+    {
+      "professor": "Leonid Koralov",
+      "course": "MATH411",
+      "review": "Everything these reviews say. Awful unfair exams, unfair grading. \r\n\r\nI love math but this professor made this the type of class that makes people hate math and hate the way mathematical knowledge is tested/evaluated.",
+      "rating": 1,
+      "expected_grade": "C-",
+      "created": "2025-05-21T01:55:52.823702Z"
+    },
+    {
+      "professor": "Shiferaw Berhanu",
+      "course": "MATH411",
+      "review": "GOATed prof. He is very strict about students arriving to class on time and paying attention. He heavily emphasizes intuition in his lectures. He asks the class questions during class. For anyone interested, out of the optional topics for 411 he covered the entire 411 part of the textbook except metric spaces. He held review sessions before each exam and provided many practice problems. Exams were fair and focused on a fundamental understanding of each concept. Getting a high exam grade was easily doable if you put effort into the homework. All exams were graded within 24 hours.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2025-05-23T00:26:07.302176Z"
+    },
+    {
+      "professor": "Shiferaw Berhanu",
+      "course": "MATH411",
+      "review": "Berhanu is an incredible lecturer with a ton of experience and knowledge in a variety of analytical fields, which made this class feel more than bearable. I loved his teaching style, which focused very heavily on building the intuition behind understanding the problems instead of solely giving you a formula or procedure on how to solve them. A complaint I could see someone having is that he writes very fast during lecture and it can be hard to keep up, in which case I agree, but I would refer back to the previous comment I made about building the intuition and not copying everything he writes down word for word. He is not the most rigorous when it comes to proofs, as he is self-admittedly lazy when it comes to the formal elements of math, but I thought that this made everything about the class easier to understand as I wasn't always so stressed about trying to match a certain style. At the end of the day, if you can understand what the problem is saying and convey that you know how to resolve that problem, you will do great in the class. Just be aware that even if your formal writing is strong/rigorous, you will get no points on problems if your intuition is off.\r\n\r\nThe exams were fair since they were completely based off of either the homework problems or the practice sets he would give 1-2 weeks before the exam. The homeworks were also fair and helpful with every problem assigned from the book so you had a clear idea of how you should solve the problem in relation to the section. My grader was clearly not that good with the material, as I had to visit them multiple times to teach the content (which is ridiculous). I got my points back on every problem I taught him about except for one, in which case Berhanu stepped in, resolved the issue, and fairly gave points back to me and other students who also suffered through the grader. This showed me that not only was he attentive to what was happening in the class, but that he also cared about the issues of his students.\r\n\r\nSome advice I have:\r\n1. Show up to lecture: I feel like this should be a given, otherwise what else are you doing with your time? The lectures were interesting and Berhanu would frequently engage with the class and give opportunities for questions or clarification.\r\n1.5 Don't be late: This is a point that he makes at the start of the semester which I didn't like. I interpreted it as \"Don't barge in on me trying to teach and become a distraction\". There is a difference between being a minute late from walking from another class and coming in 20 minutes after the lecture starts, a point which I thought was fair. Not sure what happened to students who came in late, but I would hope he was lenient to students walking from other classes.\r\n2. Do every practice problem: They are relevant and will show up somewhere.\r\n3. UNDERSTAND THE BALL: This concept is taught relatively early on, but if you understand the concept of the open ball, the rest of the class will come so easily.\r\n\r\nMy thoughts on negative reviews:\r\n1. \"He will accept only a perfect solution.\" - Couldn't be further from the truth. I know some professors who would throw a fit if they graded some proofs that Berhanu marked as full credit. The difference is in what is valued. Berhanu values understanding, and he can tell if you do or don't. If you get points off, it is purely because it is clear your intuition wasn't there. Yes, it's harder than just memorizing, but then why are you a math major?\r\n2. \"Tough, difficult, many students dropped\" - ??? Many students dropped my section and I wasn't sure why, but the exam averages were well above 80% and he will give an extra, optional exam if students do poorly that replaces your lowest exam grade.\r\n3. \"would talk poorly about students to other students in the same class\" - He never did this and I don't know what he gains by gossiping with undergrads???\r\n4. \"He deducts points for everything.\" - I disagree with everything about that post, but thought I'd include this example considering that I was deducted full points for an exam problem, which was totally fair considering my solution gave a calculation and conclusion that was straight up wrong, but he gave me half points back since I always went to lecture and was engaged with the material.\r\n5. \"He is self-centered\" - Tbh I would be too if I had 40 years of teaching experience and had to deal with some of the ridiculous stunts some students would pull DURING LECTURE. A student in my class would consistently ask irrelevant or unrelated questions during the lecture and I thought Berhanu was more than justified in not giving a thorough explanation. With these types of reviews, I urge people to think about the variety of students a class can have, which will more times than not include someone who wants to be \"main character\" of the class. \r\n\r\nThis class was so bearable. While I didn't see my graded final exam, I am pretty sure I got a B+ in the class because I didn't take the time to learn the integration section and also I just hate solving integrals. An A is very achievable if you go to lecture and do the problems he assigns.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2025-05-23T04:55:30.920563Z"
+    },
+    {
+      "professor": "Shiferaw Berhanu",
+      "course": "MATH411",
+      "review": "He's amazing. I avoided 411 last semester because he was the only option available for me, and the bad 410 reviews/grade data scared me. However, if there was an issue back then, that must have been a one-off occurrence. He's a phenomenal lecturer that really gives you a good intuition behind everything he describes, and he'll often depart from the way the book proves things because he doesn't like it. Lectures are very well-structured, and the examples he chooses to go through are helpful in understanding the concepts better. Homeworks are usually 5-7 problems from Fitzpatrick each week, and I found the questions in this section of the book are much easier than the ones for 410. He drops the two lowest homework grades. Exams are also very easy if you review because the questions are often just slightly modified homework/textbook problems or a proof we went over in class; he said he doesn't believe in giving hard exams. Overall, you'll be completely fine in this class, and the intuition you'll get from his explanations will be very useful for future classes.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-17T17:47:22.125567Z"
+    },
+    {
+      "professor": "Shiferaw Berhanu",
+      "course": "MATH411",
+      "review": "Highly recommend taking a class with Berhanu. His lectures kept me engaged and actually explained the definitions and concepts rather than just stating the definition. He actually cares about student's learning the material and takes time to make sure students are prepared for the exams. The exams are very fair, as long as you understand the definitions and basic proofs around them, you'll fine.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-12-22T19:21:26.058835Z"
+    },
+    {
+      "professor": "Shiferaw Berhanu",
+      "course": "MATH411",
+      "review": "Prof. Berhanu is tremendous lecturer. He dilutes concepts into a very understandable format which is extremely helpful for a rigorous course such as 411. He emphasizes building intuition early on about concepts that end up being the foundation for later theorems within the course. He is very strict about being on time to class and absolutely no phone usage throughout the lecture. I learned this the hard way but he has your best interest in heart.\r\n\r\nHe fully covers the second half of the advanced calculus textbook and I found it very useful to learn material in depth through the use of the textbook. His exams are very fair in that, if you have a good intuitive understanding of the content you can expect to see no tricks and all familiar concepts being tested. His practice problems that he gives out relevant to each exam tend to be very relevant in the breadth of concepts being tested, so make sure to do these. Overall great course!",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-12-23T16:03:05.688610Z"
+    },
+    {
+      "professor": "Shiferaw Berhanu",
+      "course": "MATH411",
+      "review": "Pro: He has very good explanations. For most of the content he would make sure to also explain the intuition behind the idea which is very important for real understanding. He places a very large emphasis on the idea of understanding the real idea, not just rearranging symbols/applying formulas until you get what you want. As part of this he doesn't just pick the hardest questions for exams. Generally homeworks were harder than exams, and the exams were very similar to the practice questions (he gives practice questions before each exam). The homeworks were often very enlightening and interesting questions as well. I felt like I really understood the material once I had finished the homework. He also offered a third exam because the class did not do great on the second exam. Personally, I know that I did badly on the second exam because I didn't sleep enough before, but I don't know why the rest of the class did badly. The exams were all extremely fair, easier than what most math professors would pick. \r\n\r\nCons: Goes extremely fast through lectures and never pauses. It's very hard to take notes because he stands in front of the board. Often I would get behind and struggle to keep up because I couldn't see what he wrote on the board and there wasn't enough time to process the words he was saying. I ended up usually needing to rely on the book because class was hard to follow. It was also a bit intimidating to ask questions in class. Once you got behind in class, you couldn't ask a question because he would assume you just weren't paying attention. I think he wanted us to be asking more questions, but if he didn't like your question he would kind of treat you like you were dumb. To be fair, there were a lot of bad questions, but if you aren't patient with the bad questions it discourages the real questions. \r\n\r\nAdvice: Great professor if you are prepared to be independent. He will not hold your hand (as he shouldn't, this is college not high school), but he will not make things needlessly difficult. I appreciated his pure efficiency (even though it was hard to keep up with at times). Will not waste your time if you don't waste his.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-24T17:26:54.328775Z"
+    },
+    {
+      "professor": "Shiferaw Berhanu",
+      "course": "MATH411",
+      "review": "I think the reviews for the past few semesters are fair. His exams are easy, even gave an extra 3rd midterm and took the best 2 out of 3 exams. Grading is weird. He's generous for solutions that follow what he has in mind, but I once received a 2/5 for a correct unintended solution, under the justification that it \"didn't demonstrate understanding\". (it was eventually raised to 3/5).\r\n\r\nPretty sure he bumped 1.5 percents to give me an A because of my attendance record.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2026-01-01T05:12:43.983985Z"
+    }
+  ],
+  "department": "MATH",
+  "course_number": "411",
+  "name": "MATH411",
+  "title": "Advanced Calculus II",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> Minimum grade of C- in MATH410; and permission of CMNS-Mathematics department.\n<b>Credit only granted for:</b> MATH411 or MATH412.\nContinuation of MATH410.",
+  "is_recent": true,
+  "geneds": null
+}

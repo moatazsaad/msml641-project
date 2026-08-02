@@ -1,0 +1,405 @@
+{
+  "average_gpa": 3.358920434630214,
+  "professors": [
+    "Evan Golub",
+    "Jon Froehlich",
+    "James Gilkeson",
+    "Vibha Sazawal",
+    "Celeste Paul",
+    "Huaishu Peng",
+    "Scott Gilkeson",
+    "Evan Golub",
+    "Evan Golub",
+    "Evan Golub",
+    "Huaishu Peng",
+    "Pablo Paredes",
+    "Evan Golub",
+    "Evan Golub",
+    "Huaishu Peng",
+    "Evan Golub",
+    "Evan Golub",
+    "Huaishu Peng",
+    "Jun Nishida",
+    "Evan Golub",
+    "Evan Golub",
+    "Jun Nishida"
+  ],
+  "reviews": [
+    {
+      "professor": "Ben Shneiderman",
+      "course": "CMSC434",
+      "review": "Great professor who really knows the material and does a great job of teaching it to students. Very fair on exams and projects, and really treats his students with courtesy and respect. One of the best professors in the University, and a leader in the field of HCI.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2011-12-26T23:48:00Z"
+    },
+    {
+      "professor": "Evan Golub",
+      "course": "CMSC434",
+      "review": "Golub is, well, Golub. This class is fun, but he can really make things serious about the designs and implementations. Design mocks required hours of effort (in a team), but were kinda satisfying in the end. It's a pretty chill class, but I don't recommend skipping too many classes - he seems to love random pop quizzes. Tests were pretty much right off the slides, and the homeworks were just 1-2 page question and answer things. If you take this course, be prepared to spend some time out of class for the project. Designing something in Android can take hours to make look pretty. ",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2018-01-24T06:56:13Z"
+    },
+    {
+      "professor": "Evan Golub",
+      "course": "CMSC434",
+      "review": "Had him for 131 and 434 and I learned that he is good in teaching non coding classes. I hated him so much for 131 but really liked him for 434. He was so organized in 434. Lectures were still boring but they were informative. Project descriptions were extremely well organized. In 434 there is a big group project. If you follow all of his directions, you should get a good grade in class. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2018-05-22T05:34:12Z"
+    },
+    {
+      "professor": "Vibha Sazawal",
+      "course": "CMSC434",
+      "review": "Can't really complain too much about Dr. Sawazhal. Her class is easy as can be. The in class activities are an easy handful of points, her exams are open note, her semester long project isn't too daunting with groups. \r\n\r\nNice woman, very laid back but can be a little picky with her grading especially on the miscellaneous homework assignments. \r\n\r\nIf you want an Easy A/B, take her for 434 not Golub",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2019-05-09T17:18:45Z"
+    },
+    {
+      "professor": "Evan Golub",
+      "course": "CMSC434",
+      "review": "Lectures are a complete waste of time, except for the participation points. The material he plans to cover in class, on paper, looks to be interesting, but he completely butchers every topic with long anecdotes, and extreme bias.",
+      "rating": 1,
+      "expected_grade": "P",
+      "created": "2020-05-07T16:16:56Z"
+    },
+    {
+      "professor": "Evan Golub",
+      "course": "CMSC434",
+      "review": "The professor is nice, but the lectures are kinda boring. You don't really need to go to class, especially when they are zoom meetings. The grading of the exams seems strict to me. The average of the exams is also lower than I expected. The group project really takes some amount of time, if you have bad teammates then good luck on dealing with them. ",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2020-11-19T18:18:31Z"
+    },
+    {
+      "professor": "Evan Golub",
+      "course": "CMSC434",
+      "review": "Avoid taking this course with Golub at all costs. Grading is based purely on his opinion, which is impossible to predict. Project descriptions are absolutely useless. You put in a lot of work and are not rewarded.",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2020-12-16T20:06:41Z"
+    },
+    {
+      "professor": "Evan Golub",
+      "course": "CMSC434",
+      "review": "The course is fairly interesting, simple, and mostly theory/definition based. Golub is very engaged in the course and answers questions quickly but his assignment descriptions are vague and because of that, he grades harshly if he feels like a group/student did not follow what he wants (even though it wasn't really specified in the description.) If you go over the Panopto lectures (which are divided into small video sections) and work well as a team, you should be fine. Ask Golub questions if you are doubting anything because of his description vagueness.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2020-12-28T20:09:34Z"
+    },
+    {
+      "professor": "Evan Golub",
+      "course": "CMSC434",
+      "review": "I had Professor Golub for CMSC434. The biggest weakness from the course is the lack of directions and the grading. A lot of the assignments that are given have very vague instructions, so it can be frustrating to see the feedback when you never knew that you were suppose to include something. However, the class is not really that difficult. The most important thing is making sure that you have a good group because a majority of your grade will rely on the assignments that you complete as a team. I would recommend to take this class in the same section as a few of your friends so that you will at least know who you are working with and that they will contribute equally.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2021-01-12T05:19:08Z"
+    },
+    {
+      "professor": "Evan Golub",
+      "course": "CMSC434",
+      "review": "Super nitpicky/strange grading, can be frustrating as it feels like he's desperate to lower the class average. Would honestly prefer a down curve instead.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2021-02-23T20:28:31Z"
+    },
+    {
+      "professor": "Scott Gilkeson",
+      "course": "CMSC434",
+      "review": "This was an insightful and relatively easy class, and the professor was very nice and receptive to feedback. His lectures were interesting and included a lot of interaction with the audience, so they were never too boring.\r\n\r\nThe group project is the bulk of the work in the class, and the deadlines were generally fairly set to space out the stages of design work you need to do. I don't remember the feedback from the professor or TA being insanely helpful, but they were always available during class work sessions to answer any specific questions you had.\r\n\r\nWhen I took the class, there was one midterm exam, but it was open book and pretty easy since most of the questions came directly from the textbook. There were reading homeworks that included a few simple questions to answer about the readings, so if you did them, you would recognize on the exam which sections to look for, and even if you didn't remember the readings, it was simple to search the textbook and find the answers you needed. The readings were never too hard and talked a lot about the details of the human-centered design process, and the lectures were good at reinforcing the reading material and introducing real world applications/examples.\r\n\r\nAlso the professor goes by Scott Gilkeson, so you will probably find more information about him by searching that name.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2021-03-10T02:02:43Z"
+    },
+    {
+      "professor": "Evan Golub",
+      "course": "CMSC434",
+      "review": "Was thinking this would be a fun course to take during my last semester as the thought of working on 1 single large project sounded fun, I was wrong. Lectures are very clear, everything else isn't really much so. \r\nThe course has very vague descriptions of what was to be expected of the student and when grades are released, there is generally no explanation as to why points were removed. You end up not being to fight for points back since there no rubric. You essentially either did what he wanted or didn't, but he didn't tell you, so hopefully you guessed right. The assignments are graded based off personal bias and any attempts to put a creative twist leads to point reduction. I don't understand how a interface design class could be so close minded. Concepts can be applied in different ways. Considering all the concepts taught from lecture, he really need to redesign the course project and assignment descriptions and grading system as I'd rate them as a level 4 on severity because their catastrophic problems. I don't dislike Golub as a person, I however do dislike him as a professor. ",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2021-05-04T21:36:28Z"
+    },
+    {
+      "professor": "Evan Golub",
+      "course": "CMSC434",
+      "review": "The class is basically one big group project. One of my group members dropped the class, but I don't think he took that into account. Some of the others said it best. His assignment descriptions can be wordy and vague making it hard to figure out what EXACTLY needs to be included for a good grade. The class just felt frustrating overall",
+      "rating": 2,
+      "expected_grade": "C+",
+      "created": "2021-12-20T01:21:52Z"
+    },
+    {
+      "professor": "Evan Golub",
+      "course": "CMSC434",
+      "review": "Lectures are pointless, avoid this class if you wanted an easy CMSC course, the professor turns what should have been an easy class into a very frustrating experiance.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2022-03-03T20:33:39Z"
+    },
+    {
+      "professor": "Evan Golub",
+      "course": "CMSC434",
+      "review": "Very great professor. In my top 5 for sure. I find his lectures engaging and entertaining. Just make sure you get a good group for the semester-long project. If you get a group that will actually do their work, this is a very easy class.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2022-05-04T16:58:18Z"
+    },
+    {
+      "professor": "Evan Golub",
+      "course": "CMSC434",
+      "review": "He is horrible Professor, his grading is based on his opinion. He is a complete d*** and doesn't listen to reason. He has no business teaching and has destroyed my GPA.\r\n\r\nSTAY FAR AWAY!!!!!",
+      "rating": 1,
+      "expected_grade": "C+",
+      "created": "2022-05-17T20:30:28Z"
+    },
+    {
+      "professor": "Evan Golub",
+      "course": "CMSC434",
+      "review": "I took this course in Spring 2021\r\n\r\nPros:\r\n+ The inclusion of three midterms and a final in this course means that, even if your group is not doing well, you still have chances to increase your individual grade\r\n+ For each exam, Golub provides a list of relevant topics along with practice questions to help prepare\r\n+ Golub himself is very knowledgable about HCI, and is more than happy to answer any question regarding it\r\n\r\nCons:\r\n- The inclusion of three midterms and a final in this course means that this course is probably significantly more work than you are anticipating\r\n- The course is largely based off of a group project, so if you don't like your randomly assigned group, good luck lol\r\n- Lectures are largely pointless, technical concepts are not important until exam time\r\n- For the group project of designing an app, the help provided by Golub and the TAs is largely design based. If your team is having technical roadblocks, they are, frankly, of little help. \r\n- Especially if you're having technical issues, the timeframe to create the actual technical application can very much feel like not enough time",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2022-05-21T23:44:28Z"
+    },
+    {
+      "professor": "Evan Golub",
+      "course": "CMSC434",
+      "review": "Reviews saying he grades on his opinion are pretty spot on. Gets decently rude in comments on the term project, but grades light(ish). Exams are very easy, and course is overall light except craming the coding portion of the project in mid semester. Can be frustrating though.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2022-12-12T02:29:22.560579Z"
+    },
+    {
+      "professor": "Evan Golub",
+      "course": "CMSC434",
+      "review": "This is a really good class and professor.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-01-21T22:37:06.643664Z"
+    },
+    {
+      "professor": "Evan Golub",
+      "course": "CMSC434",
+      "review": "The \"postive\" reviews are all tainted, Golub has no life he is a text book example of a hoarder with absolutely no life.  He goes above an beyond to make sure that the class remains at a C average.  This monster will destroy your GPA and then some. Either don't take 434 or find a professor like HuaIshu Peng to take it who is a young cool dude who actually trusts his students and has a chill class where you actually learn something and can take exams AT HOME ON ELMS (NOT LOCKDOWN BROWSER). Golub has no business teaching, he his the Judas of academia!",
+      "rating": 1,
+      "expected_grade": "C+",
+      "created": "2023-02-22T17:41:42.609128Z"
+    },
+    {
+      "professor": "Evan Golub",
+      "course": "CMSC434",
+      "review": "Entirely grades on his opinion and is super biased. TERRIBLE experience taking this class still have no idea how he has a job.",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2023-05-05T17:06:33.092355Z"
+    },
+    {
+      "professor": "Evan Golub",
+      "course": "CMSC434",
+      "review": "Professor Golub thinks his project descriptions are like poetry or something, but he's not a poet and he just ends up making such a sloppy mess out of them that it feels like reading them is an assignment all on its own. The environment of the class completely revolved around his dislikeable centric personality. My group felt particularly terrorized in the sense that he seemed to be creating a climate of fear and instability all for the sake of flexing his perceived authority of the course topics. To expand on that, it's scary that he feels obliged to give some teams an F, and when he gives us the most abstract, ambiguous project guidelines I've ever seen in my entire life, with no examples of how we're supposed to follow them, it makes the grading feel completely unstable and up to chance. He seems oblivious to the possibility that there may be students in his class who have no experience in web development, or students with ADHD who can't sift through all his totally unstructured rules and instructions randomly spread across ELMS, lecture notes, and his personal website. Does he just think they're born to never succeed in his class and there's nothing anyone can do about it? Plus, his lectures are littered with irrelevant trivia about himself and his interests, which leaves behind an unsatisfying taste. He did express that he genuinely wants the best for his students, and I think there is some truth in that, but he clearly is too disconnected from the needs and desires of an average student to follow through on that. In a nutshell, professor Golub does way too much for an intro to UI class and he clearly can't comfortably handle everything he puts on his plate, which creates a vicious cycle where he lashes out by adapting an aggressive, unrealistic grading method to make himself feel comfortable again, and then his restored ego makes him inclined to put in even more effort. The feel of the class is sloppy and disconnected and is without a doubt the most unpleasant experience I've had in any class at UMD.\r\n\r\nI feel like all the problems with the course are reflections of outstanding issues in professor Golub's character. We have already observed how fundamentally attached he is to his problematic methods, so I don't see any direct ways to improve the course besides either re-educating his teaching strategy or terminating him. Would give 0 stars if possible.",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2023-05-08T19:04:22.499966Z"
+    },
+    {
+      "professor": "Evan Golub",
+      "course": "CMSC434",
+      "review": "His 434 assignments are impossible to do correctly. All of his assignments are just one long page full of text and the most important parts of the assignment are scattered throughout the page so you have to read through the whole page just to figure out what to do. \r\n\r\nHe doesn't have a Canvas grading page so you're basically guessing how much each assignment is worth and you don't even know what your current grade is in the class until the end. The grading page he does have doesn't have the weights inputted so it's basically useless. \r\n\r\nHis grading is completely subjective and arbitrary. There is no rubric, examples, or even criteria that you can follow. Two people could submit the exact same work and get completely different grades for completely different reasons. (This actually happened!) Also, since he has no rubric he can take off as many points as he needs to, to make sure his class average stays a C.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2023-05-22T20:57:11.036495Z"
+    },
+    {
+      "professor": "Evan Golub",
+      "course": "CMSC434",
+      "review": "His assignments are the worst thing you will see at UMD. It's just one long piece of text where the things you need to do are scattered completely everywhere throughout the page. There's also no rubric, no examples, or any criteria you're supposed to follow. It's completely arbitrary the number of points he takes off or what he considers important. You could literally have the assignment page next to you and complete all the steps one by one and he would still find something wrong. The man has no time management skills. HE WAS STILL TEACHING NEW MATERIAL TWO DAYS BEFORE THE FINAL, and that material was going to be on the final. Also, class regularly went over by 5-7 minutes minimum. \r\n\r\nNo structure, no time management, and arbitrary grading. GL",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2023-05-22T21:17:57.624640Z"
+    },
+    {
+      "professor": "Evan Golub",
+      "course": "CMSC434",
+      "review": "I have never taken a class so disorganized during my time at UMD. There were so many problems with his class that it\u2019s amazing he\u2019s still teaching. \r\n\r\nMy biggest complaint is his project/assignment descriptions. It\u2019s literally a giant blob of text with instructions scattered throughout the page. This almost guarantees that you will miss something and he will take off an unreasonable amount of points off. Then because there\u2019s is no rubric, there\u2019s no way to fight for any points back because there\u2019s nothing you can say. It\u2019s either you did it how he wanted or you didn\u2019t. And best believe he\u2019s not consistent with his grading. \r\n\r\nAnother thing is he is doing too much. He uses slack, his own website and the UMD grade sever to distribute the assignments, grade them and give feedback. But he does this ALL ON DIFFERENT PLATFORMS. He could easily solve this by using just canvas, which he has set up but refuses to use all of it\u2019s features. The result is you will have to juggle between 4 different websites just to do one assignment. Overall, if it was possible I would give him 0 stars.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2023-06-04T08:59:15.229556Z"
+    },
+    {
+      "professor": "Evan Golub",
+      "course": "CMSC434",
+      "review": "One of the worst professors I've ever taken. To start off, his project descriptions are just one full page of text that's impossible to get any important information out of. Furthermore, the project guidelines are the most ambiguous and abstract guidelines I've ever seen. There are no examples to follow so it feels like you're always in fear of losing a ton of points. It's more than likely that you will do the assignment correctly but because of the confusing nature of the project descriptions, you will miss a few things that you needed to do. The purpose of organizing the project descriptions this way isn't to make it easy to do the assignment but instead, so Golub can have a valid excuse he takes enormous points off your assignment when you inevitably miss something. (I am talking about 25%+ for minor mistakes). \r\n\r\nThe second grip with this the professor, is his complete hatred of rubrics. If he had a rubric for his projects there it would be significantly more clear what he is looking for but since there is no rubric, no criteria to follow, and no examples of what he wants, you're basically going in blind and trying to follow the project descriptions as closely as possible. This would be fine if his grading wasn't so specific. There are things that he is specifically looking for but they won't be mentioned anywhere except for a passing sentence in the slides and are mentioned so quickly in the giant text of the project description. You'll have no idea what he wants until you get back your grades. \r\n\r\nThirdly, this might seem subjective but I am being completely honest when I say he is inconsistent with his grading. It's clear he picking and choosing points to take off and to keep on without reason. Two individuals could submit the same work and would get two entirely different results. Golub will take off different amounts of points for two individuals for entirely different reasons. It could be the same reason he will take off different amounts of points too. It's not even clear if he's doing this out of favoritism. And don't even bother trying to argue with him, since there's no rubric, there's nothing you can fight him on to get the points back. He'll come up with every excuse imaginable and sometimes even contradict himself in the process.\r\n\r\nFourthly, his classes are boring and irrelevant to the projects. He will spend hours on side tangents that have nothing to do with Human-Computer Interaction and won't even relate it back to the main topic. It's like he just wants to talk about it to show he is knowledgeable in that area. There are also attendance points discussed as participation points. They are given out at random so you basically have to come every day. His classes regularly go over the end of class and you always have to sit 5-7 minutes after when you're supposed to leave so he can wrap up class. You won't learn anything attending his classes and if you spend the entire class time on your phone, you wouldn't miss anything. \r\n\r\nNext, he is using way too many platforms. His slides and assignment on elms, we have to check our grades on the CS grade sever, he has his own website and to discuss our assignment with him on a separate Slack sever with 20 different channels. It's way too confusing and convoluted and he needs to condense the platforms he's using.\r\n\r\nFinally, towards the end of the course when other professors were wrapping up their courses to prepare for the final, Golub was still teaching new information. We had 3 midterms and 1 final exam and he was still teaching crucial new material that was going to be on the exam, one day before the final exam. He has no time management skills and even worst explanation skills. Overall, the class wasn't that hard, but the professor and his project descriptions were definitely the worst parts.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2023-07-10T18:00:31.565200Z"
+    },
+    {
+      "professor": "Evan Golub",
+      "course": "CMSC434",
+      "review": "for someone whose class is about making things easy for users to deal with, his class materials and resources are extremely convoluted and counterintuitive. projects are super long and important details are hidden in walls of text. his slides are super antiquated, long, and messy. however, if you try on the projects the exams come easy and you should get a good grade.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2023-12-13T22:31:39.589850Z"
+    },
+    {
+      "professor": "Evan Golub",
+      "course": "CMSC434",
+      "review": "One of the best CS professors I ever had! He is very enthusiastic about the class and is engaged with our work, inside and outside of class. He provides quick feedback and tries to give as many examples as he can in class. Exams reflect the review guides he provides, so they are very easy!",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2024-01-05T01:13:20.072428Z"
+    },
+    {
+      "professor": "Evan Golub",
+      "course": "CMSC434",
+      "review": "If I can save just one person\u2014just one person from enduring this professor\u2014then I have at least achieved something during my time in this class. I'm literally in class right now writing this review, and I'm telling you, if you want an A in this class, it's going to cost you either your sanity, morals, and most importantly, your time. The biggest portion of the class involves working on a group project, but be prepared to spend all your time on it, enduring the professor's critiques and constant demands for revisions. I built an aesthetic project, and that wasn't enough for him. When I asked him about the project rubric, he told me not to focus on making a good project. After I presented iteration after iteration, this professor proceeded to tell me why everything I did was wrong. I spent almost 40 hours on the project, and nothing I did was good enough. As for the exams, I studied extensively, yet I didn't perform well. The questions are straightforward, but your descriptions must be highly accurate to earn a decent grade. I'm taking CMSC430, and my grade in that class is almost 15% higher than in this one. This has truly been a terrible experience, and there are few people in my life I would wish this dreadful experience upon. Please avoid this professor. THIS IS NOT AN EASY A.",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2024-04-11T13:59:23.160196Z"
+    },
+    {
+      "professor": "Evan Golub",
+      "course": "CMSC434",
+      "review": "this is an EASY class. \r\n\r\nthat being said, the topics are very important to know and the material is... alright.\r\nminus two huge stars because this is a group project class with some of the worst, poorly designed assignments. class material is extremely disorganized as a loose circle of long ass google docs.\r\nat least he releases a bunch of review questions before every exam which makes studying for them trivial. exams are kinda easy. YOU CANT BULLSHIT THEM, JUST GO OVER THE REVIEW QUESTIONS AND YOURE FINE. \r\n\r\noverall? good curriculum, decent lecturer, easy exams, and god awful yoon-tier project structure. the projects themselves are easy but figuring out what the fuck the project is is a harder task than the project itself",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2024-04-30T14:36:14.394191Z"
+    },
+    {
+      "professor": "Evan Golub",
+      "course": "CMSC434",
+      "review": "He has four exams (including the final) that all contain lots of writing. The material is easy you just have to memorize terms before the exam. I rarely went to class because he lectures about random things. He does do some in class assignments so you will have to go to some classes. There is one big project throughout the semester that has lots of parts. His description for the project is so long and confusing and when you ask him questions he answers in a even more confusing way. He does answer quickly though. He gets three stars because there is lots of work for the class and the project descriptions are so long and hard to understand",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-04-30T20:37:13.566865Z"
+    },
+    {
+      "professor": "Evan Golub",
+      "course": "CMSC434",
+      "review": "Horrible professor that doesn't know how to teach.  Just tells stories all class that have nothing to do with the exam.  Grading on projects is harsh and subjective and descriptions are very vague.  It's an easy class but it's an overall headache.",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2024-05-12T20:40:52.767828Z"
+    },
+    {
+      "professor": "Evan Golub",
+      "course": "CMSC434",
+      "review": "I took CMSC434 with Golub this semester, which is probably a lot better to take with him than most classes (especially 351 or 250, that would've sucked). He wasn't by any means an outstanding professor, but he wasn't the worst that I have had either. He teaches reasonably, uses slides and posts the slide decks to ELMS. He made us participate by discussing with groups throughout the lecture, but participation wasn't worth a whole lot. As a grader, he came off as a bit nit-picky at times, but seemed reasonably understanding about giving extensions here and there. He can be heavy on semantics which can be a bit annoying at times.\r\n\r\nAs for the class itself, 434 is a really interesting course that is rather unorthodox compared to most CS courses, and I enjoyed it more than I expected to. The class persists around things that seem to be common sense, but goes into plenty of detail. If you try to keep an open mind and think in depth about how the course knowledge would apply to some kind of software, you should be able to understand the course content easily. However, the structure of the class is also unorthodox, in that it surrounds a semester-long group project. This project is not consistently just coding, and is spaced out well that you should be fine as long as you and your group are dedicated. At times, Golub's grading can hurt you in this project if you aren't careful, so be diligent and read through all of the project requirements in depth. \r\n\r\nThe class project is 46% of your grade, and the tests are 44%. There are four tests (including the final, however the final is not really a final and is worth the same percentage as the other three exams). The tests are where my biggest complaints are. They are entirely open ended, often 5 questions with an average of 2-4 subparts, totaling in around 15 or so paragraphs on average that you have to write. BY HAND! I had less hand cramps during the English section of the SAT, it really sucked. However, I was able to do generally well on the tests because the questions themselves were not hard as long as you studied. There were a couple exams where I ran out of time without being able to complete all of the questions. \r\n\r\nIn summary: nice dude, can be a bit annoying with grading, project is extensive and sometimes hard, tests suck but not that hard.\r\nOverall: interesting class with a decent professor and okay execution.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2024-05-15T00:56:09.326933Z"
+    },
+    {
+      "professor": "Evan Golub",
+      "course": "CMSC434",
+      "review": "I dont know why people give him terrible reviews. For 434, he was pretty good. I barely attended his lectures, but this class seemed quite interesting. Has a pretty cool psychological aspect and relates to the real world in a way we don't usually realize. The class is structured about 40% exams, 40% semester long group project, and 10% attendance. Roughly. The exams are all very very easy. I studied the day before only by just going through his practice questions he posted and I got A's on all of them. The semester long project is not that bad if you have a good group. I luckily had a group that knew what they were doing and could code in kotlin so they carried me. The reason I got a C is because I didn't do much on the project so when your groupmates decide after each project phase how much each person did, I got a bad review. Golub is a pretty chill professor.",
+      "rating": 5,
+      "expected_grade": "C",
+      "created": "2024-05-16T02:13:10.766714Z"
+    },
+    {
+      "professor": "Evan Golub",
+      "course": "CMSC434",
+      "review": "I took this class Fall 2023. I'm personally really interested in HCI, so I attended every lecture and participated frequently. Maybe it was because I was so interested in the material, but I genuinely thought Golub was a good lecturer. He did his best to make things interesting and regularly engaged with students. He's a bit old-fashioned and some of his material looks outdated so I'm not sure if I truly learned about HCI as well as I could've, but to me it was an easy A and a chill class. The group project does take some effort depending on the platform you choose and your group members, and there was one part of it that was graded somewhat harshly. But everything else was straightforward and the exams were easy, so if you do well on these you should do grade-wise. Out of all the 400-level CS classes I've taken, this was by far the easiest.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-05-17T18:34:54.206657Z"
+    },
+    {
+      "professor": "Evan Golub",
+      "course": "CMSC434",
+      "review": "Super nice guy. Very inclusive and understanding. However, his lectures are insanely boring. Like mind numbing. He kind of just talks. There are in-class activities he grades for participation but he announces them in advance which is good. But, the semester-long project is hands down the most annoying project I have ever worked on in CS. It is not hard. But god is it annoying. He delivers is it \"Phases\", each one worth a percentage of the 48% that the entire project is worth. In one phase my group ended up submitting a 22 page, single-spaced word document. The descriptions for each phase are filled with so much verbiage and he refuses to use bulleted list so it takes at least 2 days just to decipher what is due actually due. Some of the documents describing each phase are upwards of 18 pages long. Once you think you know what is expected of you, you have to do it, and the work is easy but so tedious and overkill it is ridiculous. If you know people taking the class it is a pretty stress-free course for CS but be prepared to spend a lot of time on the main project, and make sure you have a good group.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2024-12-04T21:50:20.706285Z"
+    },
+    {
+      "professor": "Evan Golub",
+      "course": "CMSC434",
+      "review": "He's boring, but easy. Pick a good group for the semester long group project, and you'll be fine. Read the project descriptions carefully and thoroughly and be sure to meet with the TA to get a review of the major coding section (phase 2 on the project). Exams take less than a day worth of studying, just answer the practice questions and you'll be fine. The final is non-cumulative and just as easy as the other exams.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-12-17T18:44:52.732450Z"
+    },
+    {
+      "professor": "Evan Golub",
+      "course": "CMSC434",
+      "review": "Worst class I've taken. Everything in the exams is left up to his or his ta interpretation and you often lose a few points over something that they didn't consider. He grades the project relatively hard and despite having long instruction documents they are vague (which evidently lets the grade rely on his interpretation and understanding). Exam are very fast paced too so even if you know everything, unless you don't stop writing your going to finish with maybe a minute left. Grading is horrendously slow as well. Very easy overall to get a B or B+ but unless you write your exams like he would and do the project like he would it's hard to get an A. Projects are also very reliant on how good your group is so make sure to have one.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2025-05-09T00:45:12.779799Z"
+    },
+    {
+      "professor": "Evan Golub",
+      "course": "CMSC434",
+      "review": "His grading is biased and hes extremely rude. Treats students like theyre in middle school and not adults in college. He's definitely a stickler for the rules and his late penalty is very absurd even if it's his fault. You can wait for his reply (because even though he says he replies fast thats not always the case) past the deadline and lose out on your grade completely because he didn't look in time (even after days of waiting). Whats even worse is you can go to his office hours for feedback and then hours before the project is due he will just give random feedback which requires you to redo everything, and if you don't finish in time its a 0. His exams are fine, but again how you answer is very opinion heavy for him which will ding your grade a good amount (mid 70s low 80s at times). He also just provides like 50 random examples he makes up without much thought so even if you do it theyre not reflective of his actual exams. \r\n\r\nTake anyone else for this class. You'll learn more, theyre probably nicer and not as rude, the grading will be fair, and you will actually know what to study for exams.",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2025-05-18T04:15:36.667083Z"
+    },
+    {
+      "professor": "Evan Golub",
+      "course": "CMSC434",
+      "review": "As said numerous times before, lectures are pretty boring. I genuinely liked learning about HCI, so I found the class to be fairly interesting despite him being a boring teacher. He does make this class 10x more tedious than it has to be, project descriptions tend to be lengthy (I'm talking 7+ page descriptions) and convoluted, and it feels like you're hitting a \"moving target\" when figuring out what you need to do. I would highly recommend taking another professor if possible, but if you end up stuck with him, PRAY your group is a good one because that'll really shape your experience for the semester. Exams are pretty easy, but he is super nitpicky about your answers.\r\n\r\nOverall: easy exams, very tedious semester-long group project, boring lectures. Yes, it's an \"easy A\" but sometimes it would be better to take a \"harder class\" with better structure and avoid the headache this class brings.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2025-05-31T12:48:12.663578Z"
+    },
+    {
+      "professor": "Evan Golub",
+      "course": "CMSC434",
+      "review": "Weird topic.  Not your usual CS.  Class is kept more interesting to me than others think with real examples and by having us talk.  The class discussions days are 20 minutes of sharing and fun free points.  His rules aren't bad but they are the rules so don't expect otherwise.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-11-13T14:27:48.152403Z"
+    },
+    {
+      "professor": "Evan Golub",
+      "course": "CMSC434",
+      "review": "boring, and irritating. most tedious class of all time. but definitely easy!",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-11-20T02:38:19.000459Z"
+    },
+    {
+      "professor": "Evan Golub",
+      "course": "CMSC434",
+      "review": "I read the reviews and was so worried.  I don't get it.  He cares about HCI and students learning and doing well.  If he didn't he wouldn't have posted all that practice and given us project hints.  One of the most enthusiastic profs I've had.  Doing Q&A and telling topical stories told about him and people he worked with or taught plus those discussions around the table helped 75 minutes of sitting not be boring.  \r\n\r\nJust found out I got the A so came here.  Was waiting for the grade in case he had some evil twist hiding that made others short the stars.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-22T04:10:09.072953Z"
+    },
+    {
+      "professor": "Evan Golub",
+      "course": "CMSC434",
+      "review": "I really enjoyed this course as the topics were very interesting (for me atleast). There is a semester-long group project that is broken down into multiple phases. The project portion of the class is 46%, exams 48%, and 6% is dedicated to class activities and Canvas quizzes. As long as you can find a good group, you can do well in the project. I have to note that phase descriptions for the project can be very lengthy and confusing to decipher what he expects. I thought the exams were fair as they did not have any surprises and were well written. He does give sample questions which partly help with the exam. The final exam is non- cumulative. It is not hard to get an A- and above in this class. I wasn't able to do so since I did pretty badly on the final and skipped a lot of lectures where there were activities. Pro- tip, just attend all the lectures as you won't know which lecture there will be an activity.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2025-12-22T23:57:32.677331Z"
+    },
+    {
+      "professor": "Evan Golub",
+      "course": "CMSC434",
+      "review": "He gets to much flake here for no reason. Bro is chill and isnt that hard of a grader just make sure you read the docs thoroughly and implement what he wants. Lectures were pretty interesting some I felt like were just being nit picky about interfaces but others I felt like devs just don't listen to their users or care for them. Overall decent experience at umd chill class to",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2026-01-21T04:55:47.786904Z"
+    },
+    {
+      "professor": "Jun Nishida",
+      "course": "CMSC434",
+      "review": "I took this Spring 2025 but didn't leave a review until now. It's very chill as long as you don't mind group work. Most of the class is conceptual; the only technical thing was a tiny unit on Arduino. Assignments pretty much all came from a semester-long group project: a proposal presentation, some write ups, a final presentation, and a 1-page final report. The exams weren't difficult, though they were a bit hard to predict since the class is so high-level. The midterm was open note and the final was take home. I think the only thing I didn't like about this class was that presentation days went overtime, but Jun was very open to feedback so he might've changed things since then.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2026-01-29T08:18:18.382363Z"
+    }
+  ],
+  "department": "CMSC",
+  "course_number": "434",
+  "name": "CMSC434",
+  "title": "Introduction to Human-Computer Interaction",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> Minimum grade of C- in CMSC330 and CMSC351; and permission of CMNS-Computer Science department. Or must be in the (Computer Science (Doctoral), Computer Science (Master's)) program.\nAssess usability by quantitative and qualitative methods. Conduct task analyses, usability tests, expert reviews, and continuing assessments of working products by interviews, surveys, and logging. Apply design processes and guidelines to develop professional quality user interfaces. Build low-fidelity paper mockups, and a high-fidelity prototype using contemporary tools such as graphic editors and a graphical programming environment (eg: Visual Basic, Java).",
+  "is_recent": true,
+  "geneds": null
+}

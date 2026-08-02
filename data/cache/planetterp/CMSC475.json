@@ -1,0 +1,102 @@
+{
+  "average_gpa": null,
+  "professors": [
+    "Jeffrey Adams",
+    "Elizabeth Wilson",
+    "Wiseley Wong",
+    "Roohollah Ebrahimian",
+    "Samuel Braunfeld",
+    "Anthony Ostuni",
+    "Wiseley Wong",
+    "Wiseley Wong",
+    "Wiseley Wong",
+    "Wiseley Wong",
+    "Wiseley Wong",
+    "Wiseley Wong",
+    "Terence Long",
+    "Wiseley Wong",
+    "Wiseley Wong"
+  ],
+  "reviews": [
+    {
+      "professor": "Wiseley Wong",
+      "course": "CMSC475",
+      "review": "(online fall 2020)\r\n\r\nWas excellent lecturing and responsive to questions while giving proofs and examples for course content. Pace was fine and he was generous with regards to exam scheduling.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2021-01-12T02:14:34Z"
+    },
+    {
+      "professor": "Wiseley Wong",
+      "course": "CMSC475",
+      "review": "Couse was interesting, Wiseley taught it well and recorded lectures. Homework and exams followed the lectures to a T and were easy enough. Average exam grades were around 90 without a curve, but that might've been because they were open for 48 hours due to online classes so you could rewatch lectures.\r\n\r\nOnly nitpick is I thought it was kind of boring sometimes but that might've just been the fact that the class was online. ",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2021-01-15T04:17:18Z"
+    },
+    {
+      "professor": "Wiseley Wong",
+      "course": "CMSC475",
+      "review": "Wiseley is a great professor. Lectures were interesting. The exams and grading are very fair.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-05-17T17:54:07.875528Z"
+    },
+    {
+      "professor": "Todd Rowland",
+      "course": "CMSC475",
+      "review": "I loved the class. he's a very caring professor, asked us how the class could be better frequently and actually took the suggestions. He asked us how the midterm 1 went and we said it was too long so he made the second one shorter. He just genuinely wants us to learn the material and was really helpful in office hours and doubts in class. I talked to him about philosophical questions and my career and academic plans. he helped a lot.\r\n\r\n\r\nthe clas itself was quite interesting. Take the class IMO. it's fun (if u like math a little) , great textbook, and useful.\r\nI would recommend you to take the class!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-09-06T15:29:33.691137Z"
+    },
+    {
+      "professor": "Wiseley Wong",
+      "course": "CMSC475",
+      "review": "This is my second time taking a course with Wiseley, and again, it is a very straightforward course. Teaches from the book, homeworks are simple but useful and relevant. Does a review in class before every exam and is good at answering questions. The exams are not hard to finish and usually have straightforward problems, but there are always one or two problems that are difficult which makes the exames not easy. Wisely cares about his students and is an overall good dude. Would recommend.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2024-12-11T17:05:48.666686Z"
+    },
+    {
+      "professor": "Wiseley Wong",
+      "course": "CMSC475",
+      "review": "Wiseley goes at a very reasonable pace and the course is very structured. I honestly should have gotten an A in this class, it was just me being dumb on the exams. The exams can be a bit stressful since combinatorics questions tend to be \"you either get it or you don't\" type questions. And on the exams, I honestly just brain fogged. Despite having gotten Cs on two exams, I still got a B+. He gives lots of partial credit even for just attempting a problem if you have the main idea, even if you don't see the solution. If I could do the class over again, I would tell myself to COME TO CLASS EVERY DAY. I only skipped 3 or 4 times during the semester, but he doesn't just teach from one book, so it's very difficult to find what he did in class if you miss. Other than that, great guy and great class.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2024-12-18T13:10:11.352411Z"
+    },
+    {
+      "professor": "Wiseley Wong",
+      "course": "CMSC475",
+      "review": "I'm a junior and this will very likely be the first class I get less than an A in, but I can't complain--it's a super interesting course, and Wiseley is great.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2025-04-22T21:08:10.621874Z"
+    },
+    {
+      "professor": "Terence Long",
+      "course": "CMSC475",
+      "review": "Took him summer 2025. He's okay. Read directly off the textbook and provided additional explanations from the text.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-08-29T17:15:25.544165Z"
+    },
+    {
+      "professor": "Wiseley Wong",
+      "course": "CMSC475",
+      "review": "This class is really more of a Math than CS class, but it\u2019s still very interesting. There were 4 exams (including final), each worth 22.5% so make sure you lock in early. That being said, I really enjoyed this class. Wong is a great teacher and gives you partial credit even if you got some of the right ideas. He also gives exam review sessions before each exam so you know the types of problem that are gonna be on it. The class content itself was also cool, especially the latter half where we focused on graphs. If you\u2019re looking for a theoretical CS / math class that\u2019s taught well and has some cool topics, I would take this course. He also curved my 89.6 to an A- :)",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-12-22T17:57:23.794646Z"
+    }
+  ],
+  "department": "CMSC",
+  "course_number": "475",
+  "name": "CMSC475",
+  "title": "Combinatorics and Graph Theory",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> 1 course with a minimum grade of C- from (MATH240, MATH341, MATH461); and 1 course with a minimum grade of C- from (MATH241, MATH340). And permission of CMNS-Computer Science department; or permission of CMNS-Mathematics department.  Cross-listed with MATH475 .\nGeneral enumeration methods, difference equations, generating functions. Elements of graph theory, matrix representations of graphs, applications of graph theory to transport networks, matching theory and graphical algorithms.",
+  "is_recent": true,
+  "geneds": null
+}

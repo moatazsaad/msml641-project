@@ -1,0 +1,77 @@
+{
+  "average_gpa": 3.206130268199234,
+  "professors": [
+    "Zhicheng Liu",
+    "Zhicheng Liu",
+    "Zhicheng Liu",
+    "Fumeng Yang",
+    "Zhicheng Liu",
+    "Fumeng Yang"
+  ],
+  "reviews": [
+    {
+      "professor": "Fumeng Yang",
+      "course": "CMSC471",
+      "review": "She\u2019s the GOAT. Not only does she teach coding exceptionally well, but this class should honestly be studied as a model for how professors should teach programming. The in-class labs are thoughtfully designed to guide you step by step through creating visualizations, making the learning process approachable and hands-on. One of the most valuable aspects is her transparency. She often mentions that certain code snippets can be found online and then shows us how to adapt and integrate them into our work. This mirrors what happens in the real world and teaches a practical skill that many professors overlook. The course includes three main assignments. Two are coding-focused, and the final is a coding project and presentation. Beyond coding, the class covers aesthetics, data journalism, user experience, and even tools like Tableau and R.\r\n\r\nWhat sets this class apart is its focus on understanding, not rote memorization. It is designed to teach you how to think like a developer, not just test you on random technical details.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-05-01T16:58:04.829280Z"
+    },
+    {
+      "professor": "Fumeng Yang",
+      "course": "CMSC471",
+      "review": "Fumeng is a new professor in the CMSC department at the time of writing, and she did not disappoint. She was clearly very excited to be teaching 471 (it was her first time teaching it) and she had a lot of the course materials put together and published MONTHS before it started. She has a bit of an accent but it's pretty easy to understand her most of the time. \r\n\r\nShe puts a lot of effort into her lectures and clearly has rehearsed them beforehand, appropriately stopping for questions whenever possible. She's also young and like was a college student just 4 years ago so she knows firsthand what college is like from a student's perspective and incorporates that well into how she structures the class as a professor. The information she taught about data visualization was pretty interesting, and I think I learned a good amount.\r\n\r\nThe class was on Mondays and Wednesdays, and it was structured as lectures on Mondays and labs on Wednesdays. Labs were self-guided exercises in creating a variety of different visualizations, and were graded by being in class and asking her or a TA to look it over, and they were basically automatic 100s. Besides the labs, there were three assignments and a final project, all focused on either critiquing or creating visualizations based on what was taught in class. Two of the assignments and the final project required working in groups, which I honestly didn't love, but admittedly I think it's good to encourage teamwork and it was definitely appropriate for the class. Take it with friends if you can and you'll be fine.\r\n\r\nThere was definitely a lot of practical skill learned with this class and I like how it was entirely project-based. There were NO exams, which was excellent. I do think that Fumeng was expecting a lot from us and expecting us to put a lot of effort into our visualizations, and since she is someone who has seen a LOT of visualizations, including some really cool but really complex ones, it seemed to be hard to impress her. At times, she could be kind of strict with grading or passive aggressive if you didn't put a lot of effort into your visualizations, but honestly she's kind of the goat for that because it encourages you to work harder to make something really cool. She was very constructive and I felt encouraged and motivated to put more effort than the bare minimum. She gives a lot of room for creativity which I also appreciated. \r\n\r\nIf you're looking for an easy Area 2 or Area 3 class, I'd suggest this class with her as long as you're okay with taking some time to put at least a little real effort into the assignments and final project, but it's definitely not a class that you can just do the bare minimum for and expect to do well. But I did learn a lot of practical skills for data visualization and she did a really great job as a new professor teaching the class for the first time.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-05-21T03:33:28.982087Z"
+    },
+    {
+      "professor": "Fumeng Yang",
+      "course": "CMSC471",
+      "review": "Fumeng is the GOAT. You can tell she puts a lot of effort into designing her class and cares a lot about her students. The assignments were fair and the lab sessions helped you learn the course content. I'd recommend Fumeng to anyone that is interested in learning more about data visualization.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-21T22:18:10.730201Z"
+    },
+    {
+      "professor": "Fumeng Yang",
+      "course": "CMSC471",
+      "review": "100% everyone should take this class. Fumeng is very passionate about data visualization and this class is crucial if you want to get more experience from front-end languages and development. The labs are very useful and as long as you complete them you should be good in the class. Honestly, learning to code and create data visualizations rather than relying on standard tools like Tableau really opened my eyes. She respects her students and anyone taking this class should do the same.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-24T18:42:11.231940Z"
+    },
+    {
+      "professor": "Fumeng Yang",
+      "course": "CMSC471",
+      "review": "Fumeng is very passionate about what she teaches. She really cares about her students and is extremely nice. The class is very organised and the TAs are also helpful. you will get to learn a lot from this course. It's also reallly easy to get an A if you attend all the lab sessions and submit group assignments on time. Grading was very lenient as well. And there are no exams! the final was just a group project and the mean was around 95%. Very easy course :)",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-25T14:11:47.413604Z"
+    },
+    {
+      "professor": "Zhicheng Liu",
+      "course": "CMSC471",
+      "review": "Very well taught course, will definitely recommend this course and professor.  He is very knowledgeable.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2026-02-08T19:32:06.436758Z"
+    },
+    {
+      "professor": "Zhicheng Liu",
+      "course": "CMSC471",
+      "review": "I learned a lot in zhicheng's class. He is very knowledgeable and course is interesting overall",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2026-02-11T00:35:50.912863Z"
+    }
+  ],
+  "department": "CMSC",
+  "course_number": "471",
+  "name": "CMSC471",
+  "title": "Introduction to Data Visualization",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> Minimum grade of C- in CMSC330 and CMSC351; and permission of CMNS-Computer Science Department.\n<b>Restriction:</b> Permission of the CMNS-Computer Science Department.\n<b>Credit only granted for:</b> CMSC471 or CMSC498O.\n<b>Formerly:</b> CMSC498O.\nDatasets are becoming increasingly large and complex, requiring intuitive ways to explore and interpret them quickly and efficiently. In this case, a picture is worth a thousand words: visualizations enable us to transform data into images that are easier to understand and reason about, compared to raw numbers and raw text. Visualizations are critical tools in externalizing and organizing our knowledge and insights, whether to explore collected datasets to improve our understanding of the physical world, to assess and debug analysis/experimental workflows, or to present new and interesting results to diverse audiences. In this course we will study techniques and algorithms for creating effective visualizations based on principles from graphic design, perceptual psychology, and cognitive science. Students will learn how to design and build interactive visualizations for the web, using the D3.js (Data-Driven Documents) framework.",
+  "is_recent": true,
+  "geneds": null
+}

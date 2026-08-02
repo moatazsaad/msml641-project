@@ -1,0 +1,125 @@
+{
+  "average_gpa": 3.540026939050398,
+  "professors": [
+    "Wendell Hill",
+    "Sungwoo Hong",
+    "Frederick Wellstood",
+    "Matthew Severson",
+    "George Goldenbaum",
+    "James Anderson",
+    "David Buehrle",
+    "Matt Severson",
+    "Haoran Ni",
+    "Hao Wu",
+    "Reza Hadadi",
+    "Hadi Vafaei",
+    "Prateek Bhargava",
+    "Matt Severson",
+    "Matt Severson",
+    "Matt Severson",
+    "David Buehrle",
+    "David Buehrle",
+    "Andris Skuja",
+    "Andris Skuja",
+    "Matt Severson",
+    "Andris Skuja",
+    "Andris Skuja",
+    "Kara Hoffman",
+    "Matt Severson",
+    "David Buehrle",
+    "Andris Skuja",
+    "Matt Severson",
+    "Kara Hoffman",
+    "Matt Severson"
+  ],
+  "reviews": [
+    {
+      "professor": "Min Ouyang",
+      "course": "PHYS271",
+      "review": "It takes a while to get used to his accent, but once you do he's a pretty good teachers.  Lectures can be boring; i often did homework during lecture.  However, he uses detailed powerpoints and will post them online so you can look over them.  There are random lecture quizzes, but just for completing them you get a 9/15 so they help boost your grade a little.  Also the weekly problems you get for hw are often taken right from the book, so take a look in the book to see if there is anything in there that might help you solve the problem.  Also Min makes sure that students know he cares about their grade and wants to help them succeed, and this was good to have from a professor.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2011-08-25T22:31:00Z"
+    },
+    {
+      "professor": "Min Ouyang",
+      "course": "PHYS271",
+      "review": "This class was very tedious and time consuming but I had an awesome TA who made it bearable.  The culminating labs were not bad since we all worked together.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2009-01-19T03:41:00Z"
+    },
+    {
+      "professor": "Min Ouyang",
+      "course": "PHYS271",
+      "review": "For a what can be a tough class, a pretty good professor.  He's really helpful whenever you ask him questions, and his exams are of middling difficulty.",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2008-12-22T06:09:00Z"
+    },
+    {
+      "professor": "Wendell Hill",
+      "course": "PHYS271",
+      "review": "Avoid if at all possible.\r\nHe's suuuper lazy. I think he's fine with the *idea* of helping students, but on those rare occasions (lol) when it actually requires any effort to do so, he doesn't bother.\n\r\nDisorganized lecturer, pretty bad at explaining concepts. He likes transcribing long derivations from his notes, but without really explaining them very well or discussing practical applications. So hard to follow.\r\nUsed MasteringPhysics for homework, despite student protests, and never really bothered to give students help or slack when they would frequently have trouble with it. He always talked like he was going to \"look into it\" or do \"something\" about it, but he never did.\r\nHe isn't (in my experience) *explicitly* dismissive of student questions or concerns, but he just doesn't really try.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2014-12-09T13:02:00Z"
+    },
+    {
+      "professor": "Wendell Hill",
+      "course": "PHYS271",
+      "review": "Only reason he got 1 star was because 0 isn't an option. If you have any passion or interest in physics do not take his class because he will ruin all of it. Horrible teacher so take literally anyone else possible. Tests are impossible and he is unreasonable. Stay away",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2014-05-02T16:46:00Z"
+    },
+    {
+      "professor": "Matthew Severson",
+      "course": "PHYS271",
+      "review": "Straightforward and you can get an A if you just look over the material a little bit before the exams. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2018-12-22T21:31:55Z"
+    },
+    {
+      "professor": "Matthew Severson",
+      "course": "PHYS271",
+      "review": "This lab class seems to act as a companion for both physics 2 and 3 in terms of content covered. The experiments are not very difficult (on the contrary, they are largely self-explanatory), but equipment malfunctions and the like can cause you to lose points at random on every assignment. After repeatedly voicing my complaints to the TA, I was told, \u201cdon\u2019t worry about it,\u201d since the class is curved. I maintain my belief that this part of the course should be properly fixed rather than relying on the curve to fix random grading errors. (Note that, as with PHYS261, Severson was never there in-person, only the TAs.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2020-08-15T00:44:33Z"
+    },
+    {
+      "professor": "Matt Severson",
+      "course": "PHYS271",
+      "review": "PHYS271 is a continuation of PHYS261. Your grade is comprised of pre-labs, labs, and a final exam. The course overall is an easy A as long as you do the pre-labs and read the lab manual before each lab. Be aware though that the labs for PHYS271 are longer than the labs for PHYS261 and more in depth. The final exam review was extremely helpful and problems from it appear on the final exam.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-01-05T23:31:27Z"
+    },
+    {
+      "professor": "Matt Severson",
+      "course": "PHYS271",
+      "review": "You barely really interact with Dr. Severson at all. He handles the logistics of the online pre-labs and the final exam. If you email him with a question that is already addressed in the syllabus or a previous announcement, he might call you lame.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2021-06-26T14:37:41Z"
+    },
+    {
+      "professor": "Matt Severson",
+      "course": "PHYS271",
+      "review": "ABSOLUTELY HATE THIS CLASS. USELESS AND A WASTE OF TIME. NOTHING TAUGHT IN THE LAB WILL BE RELEVANT IN THE REAL WORLD. I DON'T CARE IF IT IS AN EASY A. I STILL HAD TO PAY A TRUCKLOAD OF MONEY FOR A STUPID XPERT TA ASSIGNMENT WHICH WAS SETUP WITH MINIMAL EFFORT. JUST A MONEY GRABBING SCHEME!",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2024-02-18T01:31:44.062872Z"
+    }
+  ],
+  "department": "PHYS",
+  "course_number": "271",
+  "name": "PHYS271",
+  "title": "General Physics: Electrodynamics, Light, Relativity and Modern Physics (Laboratory)",
+  "credits": 1,
+  "description": "<b>Prerequisite:</b> PHYS261.\n<b>Corequisite:</b> PHYS270.\nLab includes experiments on ac circuits, magnetism, light and modern physics. PHYS270 and PHYS271 (lab) must be taken in the same semester.\n<i>Students must pay a $50.00 lab materials fee.</i>",
+  "is_recent": true,
+  "geneds": null
+}

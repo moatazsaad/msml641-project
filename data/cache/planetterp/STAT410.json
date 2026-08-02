@@ -1,0 +1,1043 @@
+{
+  "average_gpa": 2.7562409498986393,
+  "professors": [
+    "Leonid Koralov",
+    "Dmitry Dolgopyat",
+    "Jian Lun Xu",
+    "Christian Zickert",
+    "Abram Kagan",
+    "Michael Laskowski",
+    "Melissa Macasieb",
+    "Steven Chadwick",
+    "Mark Freidlin",
+    "Qiaoling Wei",
+    "Doron Levy",
+    "Swarnava Mukhopadhyay",
+    "Peter Nandori",
+    "Maria Cameron",
+    "Jonathan Rosenberg",
+    "Grace Yang",
+    "Archana Khurana",
+    "Vadim Kaloshin",
+    "Casey Cremins",
+    "Alex Blumenthal",
+    "Brian Smithling",
+    "Eric Slud",
+    "Scott Preston",
+    "Jonathan Fernandes",
+    "Jacob Bedrossian",
+    "Hatice Sahinoglu",
+    "Natalia Tchetcherina",
+    "Mestiyage Gunatilleka",
+    "Joan Ren",
+    "Christian Rosendal",
+    "Lutian Zhao",
+    "Jonathan Fernandes",
+    "Mestiyage Gunatilleka",
+    "Bassam Fayad",
+    "Hatice Sahinoglu",
+    "Jonathan Fernandes",
+    "Jose Cifuentes",
+    "Leonid Koralov",
+    "Mestiyage Gunatilleka",
+    "Sandra Cerrai",
+    "Scott Preston",
+    "Terence Long",
+    "Leonid Koralov",
+    "Mestiyage Gunatilleka",
+    "Shalin Parekh",
+    "Terence Long",
+    "Jonathan Fernandes",
+    "Jose Rigoberto Enrique Zelada Cifuentes",
+    "Jonathan Fernandes",
+    "Dmitry Dolgopyat",
+    "Mestiyage Gunatilleka",
+    "Sandra Cerrai",
+    "Terence Long",
+    "Shalin Parekh",
+    "Dong Quan Nguyen",
+    "Lutian Zhao",
+    "Mestiyage Gunatilleka",
+    "Shalin Parekh",
+    "Takumi Saegusa",
+    "Anna Szczekutowicz",
+    "Christian Zickert",
+    "Hatice Sahinoglu",
+    "Jonathan Fernandes",
+    "Sana Jahedi",
+    "Sandra Cerrai",
+    "Anna Szczekutowicz",
+    "Arka Adhikari",
+    "Hatice Sahinoglu",
+    "Jonathan Fernandes",
+    "Kendall Williams",
+    "Kyeongwon Lee",
+    "Jonathan Fernandes",
+    "Anna Szczekutowicz",
+    "Archana Khurana",
+    "Kendall Williams",
+    "Kyeongwon Lee",
+    "Lizhen Lin",
+    "Mestiyage Gunatilleka",
+    "Archana Khurana",
+    "Arka Adhikari",
+    "Joan Ren",
+    "Jonathan Fernandes",
+    "Kendall Williams",
+    "Leonid Koralov"
+  ],
+  "reviews": [
+    {
+      "professor": "Dmitry Dolgopyat",
+      "course": "STAT410",
+      "review": "Though Prof. Dolgopyat is not the best lecturer (he tends to speak very fast or very low) he does make up for it by providing a wide array of problems, and goes over each one thoroughly. Most people in the class earned an A with a couple almost failing because they were a little too cocky (ppl who scored A's on exams) and decided not to do the HW (worth 25% of grade). He did give them a pass but I don't know if he will do that in the future. All in all three exams and HW is not much to stress a person out but be warned, if you can't follow what the prof is writing on the board without listening to them explain it then you will not fair well in his class. As I've said before he doesn't speak clearly.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2011-12-16T18:18:00Z"
+    },
+    {
+      "professor": "Jian Lun Xu",
+      "course": "STAT410",
+      "review": "To start out, the person bellow is incorrect about attendance not being required. It is very important that you go to his lectures and take good notes on everything he writes down. He explains the concepts quite well, but his accent can really make it hard to understand sometimes. If it weren't for that, I'd probably give him a 5.\n\r\nDr. Xu is certainly worth it over Cerrai or some other professors that usually teach it. He goes more in depth and teaches the class in a very structured manner, which I appreciate. The exams should theoretically be easy if you consider he gives 2-3 problems from homework or class, and often the other 2 are problems from the book that he did not assign (look in the high end). If you pay attention to what he says will be on the test, and look at his review sheets, you should be able to do very well on the tests. In the end, you will probably learn considerably more than the other professors who teach this class.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2013-03-02T23:07:00Z"
+    },
+    {
+      "professor": "Jian Lun Xu",
+      "course": "STAT410",
+      "review": "The worst thing about Prof. Xu's teaching is that he spends most of the lectures simply going over examples from the textbook, which I found completely unhelpful. \r\nBy the same token, the best thing about this course is that attendance is not required.\n\r\nIf attendance had been required, I might have dropped this course simply due to boredom. Professor Xu is a competent teacher however, though the lectures aren't imaginative or exciting, nor do they provide any kind of deeper perspective on Statistics as a discipline. I did appreciate his anecdotes, though he does try to set a moralistic tone (in his characteristically Chinese way) which may be (perhaps intentionally) intimidating to some students. He does care though, which is very much appreciated. ",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2012-11-29T19:39:00Z"
+    },
+    {
+      "professor": "Mark Freidlin",
+      "course": "STAT410",
+      "review": "He is not the best teacher. He just write on the board. He does not follow the book. He gives quizzes however when he realizes that everyone did poorly on the first one, he made the quizzes into take home quizzes. His reviews for midterm and final are not helpful at all. However He is not unreasonable. He is very helpful and also He is not a harsh grader. He didn't not fail anyone on the midterm. He allows a formula sheet on the final so it is not that bad. His final and midterm are very much like his take home quizzes and homework. If you know how to do the take home quizzes and homework, you should be fine in the exam and final. ",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2011-12-16T00:41:00Z"
+    },
+    {
+      "professor": "Leonid Koralov",
+      "course": "STAT410",
+      "review": "He's alright. Doesn't put a lot of preparation into the course, but he's good at explaining stuff so that somewhat makes up for it.",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2018-05-11T00:33:29Z"
+    },
+    {
+      "professor": "Dmitry Dolgopyat",
+      "course": "STAT410",
+      "review": "His lectures are useless. You'll basically be learning the material entirely on your own. Also, the average on our final was a 56% and he STILL didn't curve. I urge anyone to take STAT410 with someone else or STAT400.",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2018-05-17T18:04:44Z"
+    },
+    {
+      "professor": "Sandra Cerrai",
+      "course": "STAT410",
+      "review": "Don't take STAT410 with her. Exams are hard and it's very difficult to gage what she expects of her students in terms of what needs to be memorized. For example, many students didn't memorize the formula for the PDF for the normal distribution (because we never had to on homeworks) and then it was worth 20 points on one of the exams. She's a smart person but she isn't friendly. She's very intimidating and hard to approach in office hours, and she gets visibly frustrated when the class doesn't know the answer to something that she wants us to know the answer to. I also feel like she thinks Calc 1 and Calc 2 are much more extensive than they are, given she expected us to have obscure gaussian integrals memorized without teaching them to us.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2018-05-29T04:13:54Z"
+    },
+    {
+      "professor": "Abram Kagan",
+      "course": "STAT410",
+      "review": "Kagan, despite what many others have said about his teaching style, is not actually that bad of a professor. (Perhaps he was dry and less good when teaching an (imo) uninspired class like STAT400.)\r\n\r\nThe beginning of the class was rather fast paced, with the first day touching upon content of 3 chapters and what is called the Borel-Cantelli Lemma, which definitely scared some people into dropping that day. However, he slowed down and more comprehensively covered the content in those chapters. I feel that he covers the class at a very reasonable pace.\r\n\r\nDespite his stern, scary expression he is a very kind man, even if you are perpetually delinquent. If you take 410, he will probably like you by virtue of you showing up every class on time. He is very understanding (as I have seen) of unfortunate situations and wants his students to succeed.\r\n\r\nExams are straightforward compared to the content which was taught. If he is in a good mood, he tells you what each question is about!\r\n\r\nIf all the so called \"great\" professors sections are all filled, he usually has slots remaining. Taking his section is not the worst choice in the world.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2018-11-30T03:52:21Z"
+    },
+    {
+      "professor": "Abram Kagan",
+      "course": "STAT410",
+      "review": "He seems scary, but he is actually a sweet old man. He is very kind and genuinely cares whether his students learn or not. However, he does tend to go a bit quickly in class. Quizzes and midterms were straightforward. The final was tougher than the midterms, but still very fair.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2018-12-16T04:40:54Z"
+    },
+    {
+      "professor": "Abram Kagan",
+      "course": "STAT410",
+      "review": "His lecture can be boring and hard to understand (due to his accent and handwriting) sometimes, but his exams are easy. If you don't care about learning and all you want is an easy and good grade, definitely go to him.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2018-12-17T23:34:46Z"
+    },
+    {
+      "professor": "Jian Lun Xu",
+      "course": "STAT410",
+      "review": "Excellent lectures, very good at explaining concepts (much more than the garbage book that the math department decides to use for STAT410), and gives a strong, theoretical foundation for probability theory, despite his dry lectures. His homework in general was not incredibly difficult, and often pulls test questions from previous homework assignments and examples done in class, so it is not hard to excel if one studies properly. \r\n\r\nI would say that the class he taught was incredibly dead since it was held from 5-6:15 p.m TuTh, which made it dreadful to go to, which was only made worse with dry lectures. Ideally, he would be perfect at an earlier time, but since he is an Adjunct professor, this is unlikely. Another problem is that he can't hold office house besides ~30 minutes before/after class, but he is excellent about responding to email. \r\n\r\nI would recommend him to anyone taking STAT410, but to be wary of the options. I think I got more out of this class by taking it with him than people like Friedlin, Dolgopyat, and Kagan, but I feel like better options might exist elsewhere.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2018-12-24T04:49:16Z"
+    },
+    {
+      "professor": "Dmitry Dolgopyat",
+      "course": "STAT410",
+      "review": "Can't understand his teachings at all",
+      "rating": 1,
+      "expected_grade": "A+",
+      "created": "2019-01-04T07:38:21Z"
+    },
+    {
+      "professor": "Casey Cremins",
+      "course": "STAT410",
+      "review": "Prof Cremins is the best. He is super nice, funny, and cares about his students a lot! The key to getting a good grade is doing the homework and going to office hours if you have questions! His exams are always SOOO straight forward and from the homework. He is literally the BEST guy!!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2019-03-29T17:35:05Z"
+    },
+    {
+      "professor": "Jian Lun Xu",
+      "course": "STAT410",
+      "review": "Excellent lecturer and fair exams; they are similar to the ones from previous years. Dr. Xu only works at UMD part-time. He works at NIH as a researcher. He has a lot of interesting stories to tell as well. He does not have a strong accent.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2019-06-20T02:03:31Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "STAT410",
+      "review": "Very standard professor. She's very nice and considerate, but also isn't amazing. She lectured from notes and sometimes it felt like she wasn't as fluent in the theory as the applications.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2019-12-24T16:34:10Z"
+    },
+    {
+      "professor": "Mark Freidlin",
+      "course": "STAT410",
+      "review": "Avoid this professor if possible. He does not use electronic devices, all his material is handwritten, make terrible mistakes all the time, etc, etc. He teaches a concept closely related to Markov Chain before introducing what random variable is. He also has very, very high expectations for students (though he put little effort on helping students meet his standards), so the problems he gives are not solvable if you only look at the textbook and his notes (we have a student pursuing her Ph.D., even she needs to google when doing the hw problems). He could not explain the concepts clearly as well. Everyone is struggling, All in all, don't. ",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2020-05-23T23:22:01Z"
+    },
+    {
+      "professor": "Vadim Kaloshin",
+      "course": "STAT410",
+      "review": "He mainly reads from the book but gives slightly more in-depth examples. He is extremely disorganized and his primary focus is research. He is a fair grader, however and gave a generous curve at the end. ",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2020-05-24T13:24:12Z"
+    },
+    {
+      "professor": "Scott Preston",
+      "course": "STAT410",
+      "review": "Really nice guy who's passionate about statistics. Very fair homework's and exams. Super helpful in office hours.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2020-09-23T01:52:39Z"
+    },
+    {
+      "professor": "TBA",
+      "course": "STAT410",
+      "review": "Dr. TBA was very knowledgable and responsive and I learned a lot about probability theory in their class. My only issue was that I felt that some lecture material was covered too fast and difficult to follow.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2020-12-10T16:30:04Z"
+    },
+    {
+      "professor": "Scott Preston",
+      "course": "STAT410",
+      "review": "I will preface this with that my mental health was not great during the semester, but that improved as the semester hit the end.\r\n\r\nDr. Preston is an extremely nice professor and wants to make sure you learn the material. He is a bit of a \"tough dad\" type, but in the end you can tell he does care. His exams are a bit long (and I'm usually a fast test taker), but he curves accordingly. My #1 advice would be go to his office hours and take an interest in learning the material, you won't regret it. \r\n\r\nDon't cheat though, he will definitely turn your world upside down if he finds out. ",
+      "rating": 4,
+      "expected_grade": "C+",
+      "created": "2020-12-20T00:14:50Z"
+    },
+    {
+      "professor": "Mark Freidlin",
+      "course": "STAT410",
+      "review": "Incredibly difficult class and was definitely treated more as a graduate course than something usually taught in undergrand. Things were constantly wrong in the notes and were never fixed, leaving students vulnerable to many mistakes on the exams which had averages in the 40's. I ended up with a B- in the end and I really don't know how, course was near impossible. No electronic presence at all for the course, spelling errors on our official syllabus. Very very disorganized and not to mention the fact that he most times doesn't explain the necessary precursors to the content he's going into. Jumped straight into random walks and brownian motion before even touching distributions like the exponential and poisson. Don't take his courses, they're a living nightmare.",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2021-01-12T04:46:35Z"
+    },
+    {
+      "professor": "Scott Preston",
+      "course": "STAT410",
+      "review": "I felt like Preston was an awesome teacher. He clearly cared a lot about teaching students as best he could, and provided a lot of resources to help us do so. Classes were flipped, so the normal lecture time was office hours for those with questions, which was helpful when I had them. The tests and homeworks were fair, albeit a little challenging, but grading was always quick, fair, and transparent. Your worst of the three exams counted for less than the other two and you could drop a homework, which was appreciated, and cutoffs have a 91 count as an A and not an A-, which is helpful too. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-05-16T20:45:27Z"
+    },
+    {
+      "professor": "Jonathan Fernandes",
+      "course": "STAT410",
+      "review": "I had Fernandes this past summer for STAT410 and it was his first time teaching the course. Usually students take STAT400 first before STAT410 but this was not the case for me. Fernandes did an amazing job explaining the course material I would say he's just as good as Justin when it comes to teaching. Also if you ever had questions about the homework, course material, or R projects you could do to office hours and he would walk you through it. He turned STAT410 from a difficult to easy course and was extremely approachable definitely easy to get at least a B and with a little bit of extra studying you can get an A.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2021-07-12T01:59:46Z"
+    },
+    {
+      "professor": "Scott Preston",
+      "course": "STAT410",
+      "review": "He is a nice guy, but his lectures were very hard to follow and were often very unorganized. He never went over definitions, and just did random examples without specifying what he was covering. Homework assignments were long and typically about material not covered in class at all, so it was necessary to self teach from the textbook which lacks examples as is. Lastly, sometimes he was condescending when people asked questions.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2021-11-14T01:17:12Z"
+    },
+    {
+      "professor": "Scott Preston",
+      "course": "STAT410",
+      "review": "I truly do not know why Dr. Preston has a decent rating. Nice person, but should NOT be teaching any remotely difficult math courses. Starts writing on the board while rambling without any real explanation, leaving students in the dark during lectures. The only piece of advice I have for someone taking his classes are to stop showing up to lecture and read the textbook instead. It will be a much better use of your time. In addition, the homework problems were unnecessarily difficult and often used tricks not at all taught in class.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2021-12-01T06:21:29Z"
+    },
+    {
+      "professor": "Scott Preston",
+      "course": "STAT410",
+      "review": "This guy does not deserve his current 3.08 rating. The man does not give any definitions in lecture and just goes over examples without context. His notes on the white board are readable but his handwritten notes are so hard to read. Don't take this man's class if you want to have your sanity by the end of the semester.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2021-12-15T22:13:12Z"
+    },
+    {
+      "professor": "Jonathan Fernandes",
+      "course": "STAT410",
+      "review": "material is pretty challenging but Jonathan does a really good job explaining it. there's a weekly online quiz that's pretty easy if you just go to class and pay attention, and there are about 8 homeworks the whole semester. the hw's are fairly hard and take a bit of time, but the grading is extremely lenient. exams are also very similar to practice exams that he gives out. hard material but easy to get a good grade if you simply do the work he assigns",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2021-12-20T16:20:14Z"
+    },
+    {
+      "professor": "Scott Preston",
+      "course": "STAT410",
+      "review": "Nice person who seems to care. In class examples at times were hard to connect to homework questions. Reasonable exams and grading.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2021-12-21T18:19:55Z"
+    },
+    {
+      "professor": "Jonathan Fernandes",
+      "course": "STAT410",
+      "review": "He was extremely nice and understanding this semester. Lectures could be a bit disorganized but he also has online recordings that cover all the material. Homeworks were tedious, but exams were quite easy and class average was very high.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2022-01-23T02:40:57Z"
+    },
+    {
+      "professor": "Mestiyage Gunatilleka",
+      "course": "STAT410",
+      "review": "I thought Danul was a fine professor. The lectures can tend to drag on a bit, but he does a good job with making sure people understand the material well. He is good about responding to emails, and he takes pauses in class to ask for questions. One thing I will say is that the homeworks are pretty tough, but the exams do not reflect the difficulty of the homeworks. Not a bad choice for STAt410. Just be prepared to spend about 3 hrs/week on this class. ",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2022-05-05T02:50:27Z"
+    },
+    {
+      "professor": "Mestiyage Gunatilleka",
+      "course": "STAT410",
+      "review": "Genuinely, I would give Prof. Gunatilleka 4 stars but I want to raise his reviews a little bit. He is generous and nice, the sample exams are always helpful. Besides, the exams have average around 80~90, which is decent. The HW is tough but you can always get full scores. I would recommend you guys to take his class.\r\nDisadvantages: Not well-organized, you neither know where his examples are from nor which page he is talking about. ",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-05-25T01:52:05Z"
+    },
+    {
+      "professor": "Mestiyage Gunatilleka",
+      "course": "STAT410",
+      "review": "He has an amazing grasp of the content and his lectures were great in my opinion. He is usually very good at answering questions as his understanding and teaching ability are up there with the best I have had here at UMD. Homework is meant to challenge you, but the grading is very generous if you give a good attempt. Exams are much easier and are more closely alike to the more simple examples gone over in class.\r\nLooking at the other reviews, definitely expect to spend some time on homework as you usually need a deep understanding to get to the solution, but he often helps. He gives extensions if you ask or enough people ask. Another review said he does not tell you where you are in the book, that may have been true in the past, but this semester he always told us where we were, and if you just ask what example it is he tells you. I assume he doesn't write it on the board every time because chances are most people wouldn't need to know it.\r\nAlso, I want to give credit to him for being mature about distractions in our class as it was often interrupted.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-12-16T16:28:44.097213Z"
+    },
+    {
+      "professor": "Terence Long",
+      "course": "STAT410",
+      "review": "i liked long's teaching and he explained everything pretty well, but the class wasn't well organized. there were no notes online, and i missed a week due to covid so it was a bit hard to catch up. also, he never answers emails and would constantly post homework later than he said he would. however, his tests were reasonable. \r\ntl;dr pretty good teacher, horrible organizer.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2022-12-18T05:29:44.670891Z"
+    },
+    {
+      "professor": "Terence Long",
+      "course": "STAT410",
+      "review": "Very cool guy and standard lectures. Follows the textbook to a tea which is great if you fall behind in lectures or want more examples. Generous cutoffs with A being a 90%+ as well but I often found the lack of practice material before exams not great. Sure there was the textbook but there were plenty of examples that were too convoluted or too simple to show up on an exam. Other than that, Terence was great.\r\n\r\nIf you have the option, take Terence.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-12-20T21:53:17.190178Z"
+    },
+    {
+      "professor": "Mestiyage Gunatilleka",
+      "course": "STAT410",
+      "review": "The tests were crazy the averages were 90+ and this class was very bearable with him, would recommend.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-12-22T19:03:21.354978Z"
+    },
+    {
+      "professor": "Sandra Cerrai",
+      "course": "STAT410",
+      "review": "I really liked the ordering of how prof Cerrai structured the content of STAT 410. I also thought her homework\u2019s and exams were very reasonable. Although the averages of her exams were *low*, she offered quite the reasonable curve and even gave us an extra assignment to boost our grade after the second midterm. Her lectures are quite fast paced, but she interjects quite a bit saying that we can stop her at anytime and ask questions.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-12-23T18:52:47.390122Z"
+    },
+    {
+      "professor": "Mestiyage Gunatilleka",
+      "course": "STAT410",
+      "review": "I was honestly really scared to take STAT410 because of how hard I heard it was compared to STAT400, but Danul (his first name) truly made this an enjoyable experience. First of all, the man actually cares and tries his best while lecturing and you can clearly see that. He really does try to put an emphasis on teaching people to understand the broad underlying themes and concepts of statistics rather than being pedantic on the small technical details which I really appreciate. This is the first time I've taken a statistics course and not felt like it was just another chug and plug math course- I felt myself able to apply the concepts I learnt. The HWs are a little tough, but this is no problem because you can go to his OH and he will help you through it all (I was able to get 100% for most of the HWs this way). Some HW questions are graded only for completion which really helps. Quizzes are pretty simple just review each weeks notes and you'll be fine. The exams are extremely fair and are VERY similar to the practice exams he gives. \r\n\r\nTo top it off, he is very accommodating in general. Whenever the class had a major doubt about one of the HW questions he addressed the problem directly and just gave us an extension. He dropped the number of HWs near finals weeks cuz he knew we were already very busy. Overall, this class does take effort, but it is certainly doable when you take it with this GOAT",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-12-23T20:24:47.153646Z"
+    },
+    {
+      "professor": "Terence Long",
+      "course": "STAT410",
+      "review": "not organized at all, no online notes or recordings, but exams were very fair. the averages were all pretty high. there were like only 5 or 6 homeworks and they were all from the textbook. and then the grade cutoffs were pretty generous too. 90 was an A.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-12-24T16:26:14.120297Z"
+    },
+    {
+      "professor": "Sandra Cerrai",
+      "course": "STAT410",
+      "review": "I would recommend STAT410 with Cerrai, just make sure you're alright with a class that isn't as easy as STAT400. She teaches very well and I personally liked the style of lecturing - it's taught a bit more like the upper level math courses due to the focus on theory, as the course's name would imply. It might be a bit more difficult for those who aren't into math as she can use some notation and concepts that not everyone will necessarily be familiar with at first. However, she's more than happy to clarify this and did so as-needed when people asked and in the end I found it helped connect it better to other topics and made it better to understand. She follows the textbook pretty well, so if you do miss anything the textbook will be adequate at explaining it. Her exams are pretty fair in my experience, although not always the easiest. On the second midterm, the class generally did rather poorly and she just made up for it entirely by giving a take-home exam. During the exam she's also still receptive to questions, so if you're confused - just ask. There's also a rather large curve at the end. All in all, I'd highly recommend her if you aren't just looking for an easy class to fulfill a STAT4XX requirement.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-12-25T07:59:02.002795Z"
+    },
+    {
+      "professor": "Terence Long",
+      "course": "STAT410",
+      "review": "Super chill and very approachable. His exams were as fair as they could be. Lectures directly followed the textbook. He may seem 'unorganized' but I don't think there would be a reason to be thrown off as long as you are able to keep up with the lecture content. He seemed to really care about the content that he taught. Overall a great learning experience. Easily made this into one of my favorite math/stat courses.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-01-03T00:46:37.047249Z"
+    },
+    {
+      "professor": "Terence Long",
+      "course": "STAT410",
+      "review": "Lectures were straight from the textbook, and exams were fair. There were around 6 homeworks other than 2 midterms. He may seem unorganized, but I didn't see an issue as long as you were able to keep up with the lecture content (which was all again, straight up from the textbook). Very approachable, flexible and interactive. One of the most easy going experiences with a math/stat class.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-01-03T04:31:49.663460Z"
+    },
+    {
+      "professor": "Mestiyage Gunatilleka",
+      "course": "STAT410",
+      "review": "Pretty fair professor for stat",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2023-01-03T14:32:34.844464Z"
+    },
+    {
+      "professor": "Mestiyage Gunatilleka",
+      "course": "STAT410",
+      "review": "Pretty good professor, the grade I got in the end was my fault, but if you do the work you will get the grade you want",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2023-01-03T14:33:38.634336Z"
+    },
+    {
+      "professor": "Mestiyage Gunatilleka",
+      "course": "STAT410",
+      "review": "Danul is a very nice guy. He really cares about the success of his students. The lectures are fine. He is a generous grader on homeworks, quizzes, and exams. His exams are very similar to the practice problems. He will let you make up missed quizzes and gives homework extension if you ask him. He will also release solutions to practice exam problems (which are very similar to the actual exams)- just ask him! The exam average is very high. If you put the required effort, you can really get an A+ in his class. I had a really busy semester, so I could not put more time in this class and still ended up with a B. \r\nTake his section for Stat410 if you really want a good grade. Unlike other sections, there are no R projects in his class :)",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2023-01-10T21:10:00.089503Z"
+    },
+    {
+      "professor": "Mestiyage Gunatilleka",
+      "course": "STAT410",
+      "review": "Like all the other reviews said, professor is very fair, exams are easy, homework is not too bad, R projects are the only pain tho",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-01-24T14:12:36.914558Z"
+    },
+    {
+      "professor": "Shalin Parekh",
+      "course": "STAT410",
+      "review": "You can tell Dr. Parekh is passionate about what he's teaching and makes sure his students understand the material. His lectures are also very clear, and he is more than happy to answer any questions you have in class. As long as you ATTEND CLASS (which is highly encouraged because the examples he does in class mirror the questions on his exams), you should do completely fine. His homeworks are a bit time-consuming, but they are graded very leniently with flexible due dates (thanks Ying!) Also, he also told us the cutoff for an A was around 200 out of 250 on the exam. Would recommend taking.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-04-12T20:12:48.114706Z"
+    },
+    {
+      "professor": "Leonid Koralov",
+      "course": "STAT410",
+      "review": "Pros: Amazing lecturer who is engaging, answers questions during lecture, and exams/homework are fair.\r\n\r\nCons: Management of course material is lacking which includes the following: having a schedule where we know which topic will be covered each day, homework's on a regular basis, and a proper proof-based textbook or some form of lecture notes.\r\n\r\nOverall I would recommend him for learning the course material; but, if you want a more structured class you should probably look elsewhere.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2023-05-17T01:45:38.959999Z"
+    },
+    {
+      "professor": "Mestiyage Gunatilleka",
+      "course": "STAT410",
+      "review": "Great professor overall. Lecture's are very informative and very helpful in office hours. Practice exams are similar to the real exams, grading is pretty lenient too. Highly recommend!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-18T03:42:57.628212Z"
+    },
+    {
+      "professor": "Shalin Parekh",
+      "course": "STAT410",
+      "review": "nice pace, fair exams, lenient grading, cares about students best math prof i've had",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-19T13:33:16.043275Z"
+    },
+    {
+      "professor": "Shalin Parekh",
+      "course": "STAT410",
+      "review": "cares about students, always engages with the class, posts lecture notes, grades EXTREMELY fast (finished midterms over weekend, finals on the day we took it), goes through content at a good pace, very knowledgeable (can ask about stat things beyond the scope of the class, he will have an answer), also exams are very fair (just review lecture examples), only problem is that some homework problems were really hard towards the end of the semester but you can go to office hours or search up the problem online to get insight",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-19T20:07:48.101873Z"
+    },
+    {
+      "professor": "Leonid Koralov",
+      "course": "STAT410",
+      "review": "The course is interesting as the professor does a great job at going in-depth on each topic and answers questions during lecture which include homework problems. The issues are that the textbook is not suited for a proof-based class and the class did not feel organized (no lecture notes, no schedule, and we covered the Central Limit Theorem in the last 15 minutes before the semester ended). \r\n\r\nOverall, if you want to have a more organized type of class structure I cannot recommend this professor, otherwise if you don't mind this and want a professor who will go in-depth on the material; then, I would heavily recommend him to take especially related to Statistics.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2023-05-25T09:14:46.795261Z"
+    },
+    {
+      "professor": "Terence Long",
+      "course": "STAT410",
+      "review": "Terence's lectures are straight to the point and directly from the textbook. He goes through the textbook in order and does not deviate from it. He has 5-6 homework assignments throughout the semester which don't take too much time. Midterms are a little bit more challenging; his first midterm in my opinion was more challenging than his practice and was somewhat of a time crunch, but overall exams were fair and grading was lenient. I would take him again if I had the chance.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2023-05-27T22:42:52.713235Z"
+    },
+    {
+      "professor": "Mestiyage Gunatilleka",
+      "course": "STAT410",
+      "review": "Danul is a great professor. He lectures well, and if you don't understand the concept, I would either ask him right away in class as he gives detailed explanations and will restate things without hesitation, or I would go to his office hours where he is also very helpful. I went into this class only after taking AP Stats in high school, and if you're like me I forgot pretty much everything after walking out of the exam room. I would say that if you're very new to stats, the course will prove to be a little difficult and first and you might not understand what's happening, but keep on solving problems, asking questions, and eventually you'll get an intuitive grasp. \r\nThe homeworks are pretty difficult, and if worst comes to worst there are answers online that you can use as reference. For answers that are already written in the back of the textbook, I'm pretty sure Danul is okay with you looking at them, because one day I walked into office hours to ask a question and he said \"did you refer to the answer key before coming?\" which was kind of funny. He's also a really chill guy and makes occasional jokes that keep the lectures interesting. I remember one time during the finals review lecture, he said \"and I'll be grading harshly for the final,\" and the class fell dead silent. He broke the silence soon saying that exams must have had us pretty stressed out, because obviously that was a joke. So it goes without saying that him and his grader grades homeworks, quizzes, and exams very leniently, and as long as you somewhat get the concept and the calculation, he'll give many many partial credits. There was also a decent curve at the end of the semester. \r\nHis practice exam \"study guides\" are very similar to the actual exam, and the final also contains problems of the same caliber. If you can do the homework confidently, undoubtedly you will ace the exams. Even if you find them a little difficult, a bit of studying goes a really long way.\r\nThe last thing I'm gonna say, is make sure to attend lectures. I don't know about STAT400, but he doesn't record any, and does most of his stuff on the chalkboard. He's a good lecturer, so it's worthwhile going to.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2023-07-22T21:59:44.526002Z"
+    },
+    {
+      "professor": "Terence Long",
+      "course": "STAT410",
+      "review": "Super chill guy. He wants you to succeed and will do everything he can to help you. Also very entertaining lectures!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-11-15T14:39:47.129366Z"
+    },
+    {
+      "professor": "Terence Long",
+      "course": "STAT410",
+      "review": "I'll start with the positives: Prof. Long gives good lectures and is a generally nice and chill guy. He's good at explaining things and is very approachable. He lectures by the book and the homework is from the book. Exams are reasonable. The negatives are that grading is EXTREMELY slow. We had a take home quiz in late September and another in early November. Neither have been given back to us or graded yet, and our final is tomorrow. We also have not had our second exam given back to us, and we were promised the grades would be posted two days ago. We are also missing one homework and are waiting on info about exam corrections he let us do. However, he told us that if we wanted to get our grades back, we could go to his office hours the day before the exam. But he cancelled them at the time they were supposed to start. Basically we are waiting to know about 60% of our grade currently and it is the day before our final. Absolutely ridiculous and it is not helpful for learning as we have received basically 0 feedback on our work since October.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2023-12-13T19:16:09.940927Z"
+    },
+    {
+      "professor": "Sandra Cerrai",
+      "course": "STAT410",
+      "review": "Not as bad as I was expecting from the previous reviews. Her exams are difficult but fair if you study previous exams (and there are a LOT of them). I won't lie, I just studied off the textbook, which is a little grief for STAT410, but her lectures were pretty solid as long as you ask a ton of questions. There's also a huge curve in the end if you're worried about your grade.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-16T06:23:34.216535Z"
+    },
+    {
+      "professor": "Wiseley Wong",
+      "course": "STAT410",
+      "review": "Wong is a good professor, but his lecture is quite fast. He seems to cover content a little more in-depth than other professors, but it is at the cost of needing to study a lot more outside of class, unless you have seen the concepts before. This semester there weren't any practice exams (which was quite annoying), but that may have be due to Wong never having taught this class before.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2023-12-20T05:14:04.406586Z"
+    },
+    {
+      "professor": "Wiseley Wong",
+      "course": "STAT410",
+      "review": "Zooms through lectures on a chalkboard and didn't really help me understand anything. Exams were totally way too hard and unfair. STAT410 historically is supposed to be a way easier class than it was this semester.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2023-12-20T19:54:25.064243Z"
+    },
+    {
+      "professor": "Terence Long",
+      "course": "STAT410",
+      "review": "Long is a great professor and has great lectures (the material is straight from the textbook, but I felt I gained a lot by attending lectures because he explained tricky concepts well). Homework assignments aren't too difficult and are problems from the textbook. Exams can be a bit tricky but the practice exams prepare you well and there's a lot of partial credit + opportunities to correct for points back.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-21T08:53:39.563325Z"
+    },
+    {
+      "professor": "Terence Long",
+      "course": "STAT410",
+      "review": "Terence is a decent professor with great lectures, lenient grading, and infrequent assignments. His lecturing is great, he's well-spoken and explains everything clearly. The grading is not bad, when you make a mistake only a couple of points are typically taken off. However, he only gave out 4 homework assignments the whole semester. I would've preferred more, and I fell behind at a couple of points due to this. I needed to cram to catch up, but learned all of the material in the end. I'd recommend Terence if you're self-motivated and do well without much structure. \r\nHe's also a great guy overall, charismatic and personable.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2023-12-22T22:26:54.336163Z"
+    },
+    {
+      "professor": "Lutian Zhao",
+      "course": "STAT410",
+      "review": "He's so so good, highly recommend!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-03-31T16:35:53.501955Z"
+    },
+    {
+      "professor": "Dong Quan Nguyen",
+      "course": "STAT410",
+      "review": "Best math professor I've had at UMD. Hands down.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-08T02:36:41.907223Z"
+    },
+    {
+      "professor": "Dong Quan Nguyen",
+      "course": "STAT410",
+      "review": "Taking Dong's section of STAT410 was fantastic -- the workload was light but thorough, and he always gave us ample material to review before every exam. He graded generously and overall seemed very passionate about teaching math as a subject. Highly recommend.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-08T18:44:10.662135Z"
+    },
+    {
+      "professor": "Dong Quan Nguyen",
+      "course": "STAT410",
+      "review": "The goat... he makes stat410 a very easy and approachable class. he is also a funny guy. for grading there were 5 hws and 1 midterm and a final.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-09T00:48:57.876415Z"
+    },
+    {
+      "professor": "Dong Quan Nguyen",
+      "course": "STAT410",
+      "review": "He is amazing so nice to everyone.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-05-10T21:44:44.261257Z"
+    },
+    {
+      "professor": "Lutian Zhao",
+      "course": "STAT410",
+      "review": "Goat-tian Zhao is amazing. He made me like stat after hating it. He also went way beyond the scope of the course at the end but none of that content was on an exam (since there's no final) so if you're interested in getting a head start on STAT 420 content or just other statistics things, then you can do that. Or you can just come to class and vibe, or not come at all. Very flexible, no mandatory attendance, homeworks did not take that long but reinforced concepts well. Exams, all the problems are given ahead of time with only numbers changed so it's easy to do well but again you still learn the content when you practice the problems.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-13T20:41:48.372729Z"
+    },
+    {
+      "professor": "Yu Gu",
+      "course": "STAT410",
+      "review": "Course is hard but rewarding. \r\nEnjoyed taking it with him.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2024-05-19T05:03:08.417875Z"
+    },
+    {
+      "professor": "Takumi Saegusa",
+      "course": "STAT410",
+      "review": "Not a good professor at all. Lectures were incredibly dull with him just reading verbatim off of the lecture slides, which were riddled with errors, including errors in formulas which I only noticed after slamming my head against a wall on a homework problem only to realize the formula HE GAVE was wrong, so maybe double-check the things he tells you to be safe. He paced the entire class incorrectly, as well, so we spent the entire first half of the semester doing the basic foundational work of STAT410, but we never made it to moments, characteristic functions, or limit theorems, all of which I would have liked to learn as a Math major interested in studying statistics. The exams were easy however and you can bring a formula sheet. Not particularly hard professor, but a genuinely awful teacher.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2024-05-25T17:44:57.180158Z"
+    },
+    {
+      "professor": "Lutian Zhao",
+      "course": "STAT410",
+      "review": "The GOAT of the Math department. Highly recommend. He\u2019s the best.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-08-26T17:43:20.509563Z"
+    },
+    {
+      "professor": "Yu Gu",
+      "course": "STAT410",
+      "review": "Hard class but the subject is fun. Midterms were brutal. They were worth 20% of your grade, and out of 20 points. So each point you lose is one point off your final grade. Final was 40%. Substantial curve at the end so it was okay.\r\nHe covers stuff most STAT410 Professors don't: multivariate normal and random vectors, some stuff on Monte Carlo Simulation, and has a very theoretical focus (or so he says). He uses random walks for most of his examples. \r\nExams are designed to test your understanding and are not plug and chug. No cheat sheet. \r\nOverall if you think you're smart, take him. He'll give you a better class than most people teaching STAT410.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2024-10-04T20:28:00.557654Z"
+    },
+    {
+      "professor": "Sandra Cerrai",
+      "course": "STAT410",
+      "review": "I think she is OK for the most part in teaching the material, and I think it's generally interesting, but I have a few gripes about the administration of the class. \r\n\r\nFor one, she gets really frustrated when students don't appear to understand the material. The simple reason is that it's difficult to understand the material while taking notes and listening to her--a lot of us understand it after going back to our notes or to the textbook--but apparently she doesn't realize this.\r\n\r\nOn the first midterm, there was one problem that had unclear wording. Several students went up to her to clarify it, but her clarification did not help, and I actually ended up erasing the correct way of doing it. Another part of the same problem used the expected value for a geometric random variable, which she forgot to derive in class and only realized after the exam.",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2024-10-21T03:42:57.814479Z"
+    },
+    {
+      "professor": "Sana Jahedi",
+      "course": "STAT410",
+      "review": "She thinks the class is for like grad students or something and gives impossible questions that she\u2019s never gone over. She gives quizzes that take all class then wonders why we\u2019re behind schedule. She changes her mind every day and is very disorganized. She changed our exam date like 3-4 times without telling us.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2024-11-21T22:48:15.851221Z"
+    },
+    {
+      "professor": "Sana Jahedi",
+      "course": "STAT410",
+      "review": "Exam is impossible. I don't know what she expects of students. I came in with a full understanding of the material and the exam was impossible.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2024-11-25T04:36:46.188649Z"
+    },
+    {
+      "professor": "Sana Jahedi",
+      "course": "STAT410",
+      "review": "She is mostly very sweet and will give extensions if you ask. However, she is convinced our homework and exams are easy when they are very much not. For example, our second midterm was deemed \u201ceasy,\u201d but the mean was a 48%. She blamed the grades on us not coming to class. I come to every class and still did very bad. Her fix is applying our extra credit that we got for completing a homework that she realized afterwards was way too hard. I would not recommend if you prefer organized teaching either.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2024-11-27T00:04:21.588412Z"
+    },
+    {
+      "professor": "Sana Jahedi",
+      "course": "STAT410",
+      "review": "I was expecting her to be a good professor; there was only one review when I signed up for class which was 5 stars. She is a kind person, she is flexible with I expected her to be a good professor; there was only one review when I signed up for the class, and it was 5 stars. She is a kind person and flexible with assignments, often extending deadlines for the entire class or reducing the number of questions on homework and other tasks. However, this flexibility is necessary because her assignments are extremely difficult. For example, we had a quiz designed to be completed in 20 minutes in groups, but it took longer than the entire 1 hour and 15-minute class period. Homework assignments are time-consuming, quizzes are hit or miss, and exams take an excessive amount of time. Although she doesn\u2019t impose a time limit on exams, I know people who spent over two hours on them, essentially taking the equivalent of three finals in this class.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2024-12-02T02:01:18.843163Z"
+    },
+    {
+      "professor": "Sana Jahedi",
+      "course": "STAT410",
+      "review": "I write this review to set the record straight with this professor and this class. I am no genius by any means, however the reviews below me are being unfair and taking things out of context. \r\n\r\n1. Organization\r\nIt is true that this semester Sana has been a bit disorganized and I don't think she is proud of it either. She is incredibly busy herself and has had a ton of personal (career-related) matter to tend to. But in absolutely no way has this disorganization negatively impacted anyone's grade. I mean yeah I was a little stressed at times, but she always ends up compensating for it by extending deadlines or pushing topics to the next exam instead of an upcoming one. \r\n\r\n2. That One Homework Problem Set\r\nThis is a more theoretical STAT400 and everyone taking this class knew it going into it. You can't complain about getting assigned difficult homework as a result. They're not long homeworks but the problems themselves can be quite difficult sometimes I will admit. And the homework set that was deemed 'too difficult' by Sana, ended up being bonus points for every question you correctly answered.\r\n\r\n3. Second Midterm\r\nIf you went to class and did very poorly you must not be telling the entire truth. Sana mentioned in class that we would have a question for solving variance with covariance while we were doing that exact kind of question on the board. The day before the midterm, she did another practice problem solving variance with covariance. So on the day of exam, we have two of those questions, one generalized with variables and one with numbers. Those should have been free questions, as Sana intended. You simply regurgitate exactly what had been written in our class notes on that topic which are posted. We had 5 questions. One was very easy, truly. The two covariance problems we had seen exact one to one copies of those questions beforehand. And two questions were 'new'. Had you gotten the first three I mentioned, you would have baseline 50%. And most people should have been able to get some partial on the last two, bringing your grade to around an 80% if not better. It should be doable in class time but she allowed us to have up to almost 3 hours I believe. That is more of a luxury in my opinion, though some people may see it differently.\r\n\r\nSana is not at all unreasonable. She's an incredibly sweet person and does not want anyone to fail. She wants us students to succeed but she also wants us to put in effort to study as well. In my opinion, if you want to take a more theoretical statistics class, then you should be prepared to spend some extra time on difficult problems. There is just no way around that as much as I dislike it as well sometimes.\r\n\r\nAnd no, these are not grad level questions lol. I think she takes some of the *more reasonable* questions from Harvard and/or MIT's first course in probability.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-05T19:54:56.310194Z"
+    },
+    {
+      "professor": "Dong Quan Nguyen",
+      "course": "STAT410",
+      "review": "I had dong last year and he was the best.  Slight language barrier so I had to do a little bit of self-teaching. You can tell he really loves math, and would talk about different mathematician drama and make a lot of jokes, keeping the lectures engaging.  I personally found the homeworks to be long and difficult but I am slow.  Anyways I still got a 100 on all the homeworks and in the class because Dong cares the most about the success of his students and is willing to help in any way without hesitation.  I care the most about my gpa so five stars for dong",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-06T00:47:11.833312Z"
+    },
+    {
+      "professor": "Sandra Cerrai",
+      "course": "STAT410",
+      "review": "Great professor, teaches the material using proofs and examples, which gives a very holistic understanding of a given concept. I think her midterm exams might have been more difficult than other professors, but her final was straightforward. Her midterms also compensated for difficulty with extra credit. I've heard that the curve on the final grade was extremely generous. Highly reccomend taking Cerrai if you want a good understanding of concepts, and not just for the grade.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-16T00:39:36.993221Z"
+    },
+    {
+      "professor": "Sandra Cerrai",
+      "course": "STAT410",
+      "review": "Cerrai is a fairly alright teacher! \r\n\r\nShe's definitely not the easiest teacher you could take for STAT410 (but STAT410 definitely isnt the easiest class anyways), but you definitely learn a lot from this class. As previous reviews said, it really goes far into probability and the abstract applications past it: before this point I thought it was just counting and fractions but you go way past that into honestly interesting concepts. \r\n\r\nHer teaching style is alright, though it could be improved. Especially at the start of the semester, it felt way too fast and lost in notation, though it definitely got better as time went on. I understand what the previous review said about her getting annoyed when students get confused on concepts, but I also think she got better about this as time went on. \r\n\r\nI will definitely say a gripe I had throughout the class, though, was the lack of example problems for some of the concepts in class. This isn't all the concepts, but some really lacked enough focused problems to drill down on how to apply stuff. This is more a personal thing, but I really suck at doing problems without practice and just the theoretical knowledge, so it definitely led to me spending time relooking at what I learned.\r\n\r\nThe homework also helped me learn how to apply concepts; there was 7 homeworks, and each was quite difficult, taking 5+ hours usually for me. However, it is definitely really helpful to do the homeworks to learn how to solve problems, so it's definitely worth the effort. One homework was also made partially extra credit, mostly due to everyone not learning the material in class.\r\n\r\nSpeaking of extra credit, all but the last test had some bonus questions worth about 6-10 points. Although I get what the previous review mentioned about her not clarifying questions well, I will still say she got better, especially for the final, as she directly clarified to the class the intent behind the first question. Each test themself was scarily consistent in difficulty (literally for both midterms and the final, median mid 70s, lower quartile high 50s, upper quartile low 90s). Testbank was personally the best way I studied for her tests.\r\n\r\nThere was also a fairly large curve at the end: not sure personally how much because it hasn't been announced, but from what I can tell, at minimum 3-4% to the final grade. Overall, I'd say that despite some problems, Cerrai was a fairly nice experience, and I would say she's definitely better than what I expected from her old reviews.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-12-16T03:45:33.403017Z"
+    },
+    {
+      "professor": "Terence Long",
+      "course": "STAT410",
+      "review": "Terence is awesome! I found his lectures pretty engaging and easy to follow; although his handwriting can be quite difficult to decipher at times, he goes pretty slow so it's easy to keep up anyhow. His exams were very fair, especially considering that he uploads practice exams that tend to be very similar to the actual exam questions. He didn't give much homework throughout the semester; it would usually be one every two weeks or so. \r\nThe Final Exam had two parts, one of which was a take-home portion (5 questions) and an actual exam that had around 7 questions, but still rather short for the 2-hour testing period. \r\nOverall he's a cool, kinda nerdy guy but he makes the class pretty chill.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-16T03:56:24.564680Z"
+    },
+    {
+      "professor": "Sana Jahedi",
+      "course": "STAT410",
+      "review": "She is a very nice person and thinks from the perspective of students. But to be honest, she DOESN'T CARE much about stat410 students. For example, she often cancels office hours or forgets to give us practice questions for the exam. Moreover, we are just a small class of 30 or so people. Before the first midterm exam, she promised to give us an exercise on distribution, but she didn't upload it in the end.\r\n\r\nThe first two quizzes were very simple, almost like lecture notes, but the difficulty of the quizzes in the following few times was very high. Some students in stat410 had participated in stat400, so the pressure was relatively small, but many people were also exposed to advanced statistics for the first time. The questions she gave were completely irrelevant to what she taught in class. And the quizzes account for 30% of your total score. If you mess up once, good luck.\r\n\r\nThe homework is not particularly difficult, but sometimes she will provide us with some questions that she thinks are \"interesting\". I know that some questions are from Harvard University. However, because of the performance of most students in the second exam, she should give a good curve, and the final exam is similar to the practice exam. She also said that she doesn't want to put too much pressure on students.\r\n\r\nIn general I don't think she is a bad teacher, but she really should change the content of the exams and quizzes. The questions you give should be closer to the lectures you give, instead of adding some so-called interesting questions.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-12-18T22:16:15.588297Z"
+    },
+    {
+      "professor": "Hatice Sahinoglu",
+      "course": "STAT410",
+      "review": "Amazing teacher, I am honestly surprised that she has such a low rating. She knows her stuff and she articulates it in a way that makes intuitive and conceptual sense. The accent is really a non-issue. She is very fair with the midterms and final, they were a lot easier than the homeworks. In fact, the first midterm was take home! Ignore the negative reviews, if you have an opportunity to take her, take her! You will not regret it one bit.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-19T20:49:40.700351Z"
+    },
+    {
+      "professor": "Jonathan Fernandes",
+      "course": "STAT410",
+      "review": "[Taken Fall 2024]\r\n\r\nThis class is very time-consuming and requires a solid understanding of Calculus II, Calculus III, and some Linear Algebra. Make sure you are comfortable with these subjects before taking. \r\n\r\nHis office hours is great for clearing any confusion with any concepts covered in lecture. He posted all his notes online on Scribble and uploaded recordings of lectures. Homework assignments were assigned weekly and graded leniently, though they were very time-consuming and often contained typos. Quizzes were also weekly and proved challenging, often requiring memorization of formulas introduced in that week's notes. The exams were very manageable if you actively reviewed the notes and diligently worked through the homework problems. I just wished he would release answers to the homework problems. It's difficult to fully understand what you've done wrong from just a grader's note and having access to the correct answers after the homework has been graded would be beneficial. I also wished for some practice exams or study guides to help focus our preparation on specific topics. Even a study guide that altered homework or quiz problems slightly would have been beneficial. Not having any study guides is what made the course harder than it should have been. The course also did not have any R projects, which was nice.\r\n\r\nFernandes, I know you're reading this, so here's a cat for your due diligence in reading these reviews:\r\n   /\\_/\\\r\n  ( o.o )\r\n  > ^ <",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2024-12-20T23:42:58.649265Z"
+    },
+    {
+      "professor": "Terence Long",
+      "course": "STAT410",
+      "review": "Fantastic professor. Stat410 was definitely a challenging course but my favorite class I have taken so far, and it is thanks to Professor Long. If you have the chance, take him if he teaches Stat410 again and as long as you attend class, study his practice materials, and properly do the HWs, you'll be chillin. Even if you happen to miss a few classes (def recommend going to most thought in order to guarantee a good grade), he follows closely to textbook. Goated teacher who ignited my love for math and statistics!",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2024-12-21T18:22:03.480946Z"
+    },
+    {
+      "professor": "Jonathan Fernandes",
+      "course": "STAT410",
+      "review": "Fernandes is a nice guy, but I am obligated to inform people that this course was somewhat of a nightmare. I know he reads these reviews, so I hope he can at least hear out the complaints.\r\n\r\nThe Bad:\r\nThe organization of this class was abysmal. Near every homework and exam had a question that was outright wrong/impossible to solve on it. Even a quiz was printed wrong and became impossible. It was hard to even submit homeworks because he would not open submissions on gradescope until oftentimes after the assignment due date. It was unrealistic to reach him via email. He would at best take 4+ days to respond from time of email and at worst not respond at all. On that same topic, NOTHING was graded on time. Every homework, quiz, and test took close to 2 months to be returned to us. It was difficult to gauge how well you were doing in the class at any given time for this reason.\r\n\r\nSome homeworks were extremely tedious and did not enhance learning. Many had problems that were exactly identical except for one tiny parameter change. Others involved tasks as tedious as enumerating 64-event sample spaces. A lot of them involved incredibly difficult integrals and other problem-solving techniques that were not addressed during lecture.\r\n\r\nThere was a random quiz difficulty spike with no warning. The first 3-4 quizzes were easy and required no studying until a certain point where every quiz essentially required memorizing the previous week's class notes in full detail. This transition point caught many off guard and resulted in quite a few low quiz grades. \r\n\r\nYou are given absolutely nothing to study for exams with and barely any information about what the exams will look like (except for the final where we got a list of topics around 24 hours before the final itself). Also, it is worth noting that the final had a median grade of 63% for probably related reasons.\r\n\r\nHe moved slowly through topics in lecture to the point where I could not stay on his wavelength unless I watched the lectures in 2x speed. However, this is probably more of a personal complaint.\r\n\r\nThe Good:\r\nHe posts the lecture notes online after every lecture and records every lecture via zoom. These are godsends. His office hours are very helpful too, and he is approachable. \r\n\r\nDespite the terrible organization, he often did end up correcting his mistakes, like correcting the quizzes and homeworks with erroneous questions. There was a curve where if you got 93% average on the homeworks and 90% average on the quizzes, you got 100% in each category. This somewhat made up for the rough transition. I also found the midterms and finals to be manageable if you were thorough about going through all the homework problems and in-class notes.\r\n\r\nTo summarize, this class was way more of a headache than it needed to be, which is a shame because he does a lot of things very well in this course.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2024-12-22T00:39:26.662332Z"
+    },
+    {
+      "professor": "Hatice Sahinoglu",
+      "course": "STAT410",
+      "review": "At first I felt like the course was disorganized, but she definitely improved by the later part of the semester. This is understandable because it was her first time teaching the course.\r\nStatistics is her area of expertise, and she was very good at explaining the concepts and occasionally giving advice about real statistics work. \r\nThe proofs (like Central Limit Theorem) were a bit weak and didn\u2019t feel satisfactory as a math major. That being said, we weren\u2019t expected to replicate any of them.\r\nOur grade was 20% homework, 20% take home exam, 25% midterm, 35% final. Be careful with the take home exam, as she expected work and explanations to be in depth. The regular exams were fair. We even were allowed to bring a formula sheet.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-25T13:42:19.156804Z"
+    },
+    {
+      "professor": "Hatice Sahinoglu",
+      "course": "STAT410",
+      "review": "Amazing teacher, very generous with office hours, she encourages participation in class and exams are very similar to homework. it is a tough class but she does everything to make it approachable. Don't hesitate to go talk to her if you feel like you're lost. She posts her lecture notes and follows the book quite closely.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-03-27T03:11:56.236132Z"
+    },
+    {
+      "professor": "Anna Szczekutowicz",
+      "course": "STAT410",
+      "review": "Professor Szczekutowicz is a very good lecturer. After floundering through Stat400, I managed to actually learn the topics from her. She's a very skilled lecturer and her homeworks and exams are fair.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-04-08T03:11:27.582861Z"
+    },
+    {
+      "professor": "Jonathan Fernandes",
+      "course": "STAT410",
+      "review": "I took him for both stat410 and stat401 in fall 2024. Bottom line: if you're looking for a significantly better chance at an A than you would have with any other professor, take him (just look at his grade distribution). If you're looking to get the best possible understanding of statistics and probability that you can get, maybe look elsewhere. He's honestly pretty lazy, doesn't do the best job of explaining the content, often makes mistakes during lecture, assigns fairly difficult/time-consuming/tedious homeworks, and his quizzes vary between being really easy and really hard. The reason I took his class and gave him 4 stars in spite of all this is that he gives the most generous curve I've ever seen in a stem class.  As long as you do all the homeworks and study for quizzes/exams like you would for any other class, you have a very good chance at an A, something that cannot be said for anyone else teaching this class most semesters.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-04-13T00:48:51.407409Z"
+    },
+    {
+      "professor": "Kendall Williams",
+      "course": "STAT410",
+      "review": "Pros:\r\n1) Very personable and clearly cares about the subject and his students \r\n2) Will gladly answer questions both in class and during office hours \r\n3) Held 3 office hours throughout the week\r\n4) Exams were extremely fair, questions directly ripped from his study guide \r\n\r\nCons:\r\n1) Does not respond to email, essentially MIA outside of office hours and class (main reason he lost a star) \r\n2) This was his first time teaching STAT410 so his notation was inconsistent at times and made the class slightly more confusing \r\n3) Does not have the best intuitive explanation for some of the definitions and concepts, however this could both be just my limited exposure to statistics and the fact that he had taught this class for the first time \r\n4) Homework was assigned on a chapter basis, not a weekly basis. Frequently assigned large homework sets that were due a week after being assigned.\r\n5) Office hours were split with Math141 students\r\n\r\nOverall solid professor, but there are a few aspects of his teaching style I am not 100% comfortable with.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2025-05-02T00:24:12.786929Z"
+    },
+    {
+      "professor": "Sana Jahedi",
+      "course": "STAT410",
+      "review": "Overall, I was doing well on the course, maintaining an A. I had a sense of security that I was grasping the concepts being taught in the class. That was until the second exam, which was completely unfair. Just a couple of incredibly difficult \"trick\" questions have tanked my grade. I did 30% worse on the second exam compared to the first one.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2025-05-05T19:32:19.093810Z"
+    },
+    {
+      "professor": "Yun Yang",
+      "course": "STAT410",
+      "review": "I don't understand all these one-star reviews. This has been one of the easiest courses I've taken. The lowest midterm score was 82%, and the highest was 110%. Homeworks are only every other week and are very manageable. His lectures are a little monotone, but it's really not a problem. He also gives a 5-minute break every class. Overall, great course.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2025-05-13T21:28:08.400619Z"
+    },
+    {
+      "professor": "Yun Yang",
+      "course": "STAT410",
+      "review": "Lectures are valuable and full of proofs and examples. Yang always asks for questions and gives a 5min break during lectures. He explains both the math and concepts very well. Even though the slides are posted, attendance is necessary to grasp the concepts unless you do well with self-teaching from the textbook. The class is structured well around the textbook, and if additional help is required, you can always go to the TA. Homework is 10 10pt questions biweekly and is worth 40% of your grade. The midterm and final are 5 20pt questions worth 25% and 35%, respectively. Extremely straightforward class, so don't get lost in the lengthy derivations or rants that sometimes accompany his lectures.\r\n\r\nThis is my first stat class ever as a math major, and I felt comfortable with the topics (after preparing for the very worst). The prereqs don't exactly make sense; a strong math background is all you really need.\r\n\r\nThe class is paced just a little fast and looks scary, but it is very doable.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2025-05-13T22:04:36.839009Z"
+    },
+    {
+      "professor": "Kendall Williams",
+      "course": "STAT410",
+      "review": "come into this class already knowing everything from smth like stat400 and you'll be fine, but if you don't you'll basically be playing catchup from day one or end up relying on outside sources (other textbooks/youtube lecture videos) bc the textbook isn't a first course at ALL and the professor primarily relies on the textbook which has convoluted examples. brush up on calc 2, combinatorics, calc 3.",
+      "rating": 2,
+      "expected_grade": "C",
+      "created": "2025-05-14T21:55:50.856792Z"
+    },
+    {
+      "professor": "Yun Yang",
+      "course": "STAT410",
+      "review": "Great lecturer. He goes through every detail and doesn't assume you know it just because you're in a high-level math class. 5-min break in class. This course, at least taught by Dr. Yang, is not a hard course. It's still mostly calculation with some proofs sprinkled in. Everything is fair and you even get a homework drop. Homeworks are from the textbook so answers can be checked online. \r\nHe hopefully fixes this but the first three weeks were set theory. Then it's a bunch of CMSC250 (Combinatorics) review. I only got to real new content when we hit random variables, and even then it went at such a nice pace that this was my easiest class the entire semester. \r\nVery straightforward, answers all questions, explains things clearly, nice proofs. He actually makes slideshows! Instead of just stating theorems and definitions. \r\nYou have 2 weeks each to do 7 homework assignments. Each one is 10 questions and I get them done in a few hours. I am a CS major and wouldn't say I'm a math genius. It's still mostly calculation and have basic logical thinking for the proofs. I didn't ever have to think hard about the theoretical homework questions because it tended to just be some algebra or something straight from my notes from class. \r\n\r\nWould highly recommend for a nice relaxing valuable course.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-15T00:31:40.002594Z"
+    },
+    {
+      "professor": "Kendall Williams",
+      "course": "STAT410",
+      "review": "I am here revising my review posted on 05/02/2025. While most of the body of the review stays the same, the fact that he does not respond to email has become increasingly problematic. We skimmed over a few significant portions of the curriculum (properties of expectation and the central limit theorem among other things) and while that is not necessarily an issue, there are small details that make our practice problems much more difficult BECAUSE we can't consistently ask him questions over email. Additionally I emailed him about an urgent matter regarding a homework set (I had accidentally used the wrong book, realized as such, and realized I needed to go back and redo 8/16 of the assigned problems) and he did not respond until half a week after the homework set was due. While I can understand that it is his first time teaching the class, not answering emails exacerbates all of the issues mentioned before, alongside the issue that sometimes he leaves details out of problems which would simplify/provide context.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2025-05-18T21:57:37.464528Z"
+    },
+    {
+      "professor": "Jonathan Fernandes",
+      "course": "STAT410",
+      "review": "Note that the grade distribution is rather high. The class is an extremely theoretical version of STAT 400 and expects you to have a good knowledge of Calc 3 and Linear Algebra as they are pre reqs. His workbook he thought through made him zip through material making it hard to keep pace and the homework problems are rather hard but work with friends and go to Office Hours. \r\n\r\nHis organization  of the class is horrible, posting homework very late and only releasing the practice exam one day before. They are roughly 60-70% to the actual exam. He decided to use a different textbook than the one that is used for the course. Races through concepts which makes it hard to keep up in lecture, but he posts his notes and records. Handwriting can be hard to decipher at times. \r\n\r\nTaking this class with the heavy CS Workload make it hard but is definitely manageable had I put more time towards the class to get an A after the curve. Class needs tons of work. \r\n\r\nWould not take with him and suggest Anna or Mestiyage as I have heard there classes focus in a more practical approach.",
+      "rating": 2,
+      "expected_grade": "B-",
+      "created": "2025-05-22T15:45:06.437090Z"
+    },
+    {
+      "professor": "Jonathan Fernandes",
+      "course": "STAT410",
+      "review": "Good guy, he genuinely wants you to learn stuff in class that's why his course content is a bit harder than the other STAT 410 professors but the class is well structured with lecture notes, zoom recording, and workbook that you can count on even if you don't go to the lectures. He is genuinely passionate about teaching unlike many other professors and who just lecture in and leave. It is going to be an A if you're willing to put in the effort and if not you can surely pass through his class even if you don't go the lectures because of all the content he uploads.",
+      "rating": 5,
+      "expected_grade": "C+",
+      "created": "2025-05-22T17:12:00.233816Z"
+    },
+    {
+      "professor": "Jonathan Fernandes",
+      "course": "STAT410",
+      "review": "Good guy, he genuinely wants you to learn stuff in class that's why his course content is a bit harder than the other STAT 410 professors but the class is well structured with lecture notes, zoom recording, and workbook that you can count on even if you don't go to the lectures. He is genuinely passionate about teaching unlike many other professors and who just lecture in and leave. It is going to be an A if you're willing to put in the effort and if not you can surely pass through his class even if you don't go the lectures because of all the content he uploads.",
+      "rating": 5,
+      "expected_grade": "C+",
+      "created": "2025-05-22T17:12:00.276957Z"
+    },
+    {
+      "professor": "Kyeongwon Lee",
+      "course": "STAT410",
+      "review": "If I could go into the negative stars, I would. He is a generous and funny guy but boy is he a horrible teacher. He will talk and messily write on his iPad quickly the whole lecture with the addition of ranting about stuff outside the scope of the class and writing on the chalkboard, then writing OVER what he already wrote on the chalkboard. He never answers questions directly, and I literally would be more confused after asking a question and getting an \u201canswer\u201dthan before I asked it. 7 homework\u2019s weighed 49% together, 1 midterm weighed 25%, and the final was 26%. The homeworks were medium difficulty the whole semester with some really hard problems included in the later homeworks. The midterm was basically the relevant homeworks but problems people never looked at (for each homework, 8 problems total, 4 required, and you can choose 2 from the remaining 4).  THE FINAL. it was literally the worst college exam i have ever taken as a STEM major. For context, I studied for 3 weeks and I was speechless looking at every single one of the 8 problems. ONE PROBLEM HAD 8 PARTS! The average was a 23.81% with a low of 6% and a high of 65%. talk about a distribution. do not take this man. the curve was generous but the journey to get to the end was not it.",
+      "rating": 1,
+      "expected_grade": "A+",
+      "created": "2025-05-23T22:07:53.756485Z"
+    },
+    {
+      "professor": "Hatice Sahinoglu",
+      "course": "STAT410",
+      "review": "Took two classes with her, MATH240 and STAT410.\r\n\r\nI personally don't understand why her reviews are so low. She's not a 5/5 professor in my opinion, but I feel she deserves higher than 2.67 (current average rating at time of writing).\r\nShe teaches very by the book, which I found to be a plus since it allows me to take better notes, but some people will find that to be a negative. I personally found that I came away from these classes with solid foundations in the material, so she can't be a bad professor in my book.\r\n\r\nDefinitely better in STAT410 versus MATH240, but it's to be expected that the experience is better with a smaller class. She made every effort to prepare us for midterms and finals.\r\n\r\nIn summary: I feel these reviews criminally underrate her. Work hard and you'll do fine.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-05-24T13:24:37.867869Z"
+    },
+    {
+      "professor": "Jonathan Fernandes",
+      "course": "STAT410",
+      "review": "The class was taught at a pretty high level, he went through a ton of content ... if he were to do this again, perhaps he could skip the first couple weeks, and use that time to tie in concepts at the end ... the content on estimators was interesting, but there was not much time. Maybe a week lost in snow days might have affect his course plan. \r\n\r\nAnyway, good class. Also, don't trust his grade distribution for Stat410 here ... it is definitely not an easy A.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-31T00:01:49.307498Z"
+    },
+    {
+      "professor": "Kendall Williams",
+      "course": "STAT410",
+      "review": "dont let this guy get tenure omg, he omitted so much integral material, no supports, no sigma algebras, straight into an oddly intuitive form of probability and had zero set theoretical background before delving into it.",
+      "rating": 1,
+      "expected_grade": "D",
+      "created": "2025-06-05T15:48:31.924457Z"
+    },
+    {
+      "professor": "Kyeongwon Lee",
+      "course": "STAT410",
+      "review": "READ FOR DETAILS\r\nI was debating writing this review or not, but I decided that it was worth writing. Overall, he is an alright professor. He is not the best lecturer, and his lecture notes are impossible to read, but he goes rather slowly and you can very easily keep up by following the course online with YouTube lectures. He gave one midterm, then cancelled the second one and moved all its weight to homework. This naturally caused grades to spike in the class. To make up for this, he gave a really awfully hard final that we were not prepared for at all (no practice, just told to review the homework. Spoiler alert, it was nothing like the homework.) I literally opened that final and couldnt answer a single question. The average was a 23, with a high of 65, so every single person failed that final.\r\n\r\nHowever, I will contest the current one star rating. I do not think he is deserving of this at all. I am rating him 5 stars not because he is a 5 star teacher, but because 1 star is just unfair. If I would rate him, I would give him a 3.5/5 for the following reasons:\r\n\r\nPros:\r\n- Very kind and reasonable guy who is willing to try to explain anything and can accommodate almost anything\r\n- Tries to make the class manageable\r\n- Homeworks are pretty easy\r\n- Grades very generously\r\n\r\nCons:\r\n- Lectures are hard to follow because of his thick accent, and his handwriting is impossible to read which makes his notes useless\r\n- Gave a curveball final that everyone failed, which was not a good call but honestly I get why since the average grade in this class was >95% before the final...\r\n\r\nOverall, if you take him, I expect him to change up his teaching style massively next time he teaches. This was his first semester here I believe. I found the following YouTube series very helpful for this course, and would highly recommend regardless of what professor you end up taking:\r\n\r\n- Probability Theory (Bright side of Mathematics) (Good overview of general theory)\r\n- Intelligent Systems Lab probability playlist (good visuals)\r\n- jbstatistics (Goes over pretty much everything in an approachable manner, really demystifies a lot of the stuff)\r\n- 3blue1brown (Amazing visuals and good for selected topics to develop intuition)",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-06-12T22:16:52.762962Z"
+    },
+    {
+      "professor": "Kendall Williams",
+      "course": "STAT410",
+      "review": "STAT410 with Dr. Williams isn't the worst, but if you have a choice I'd recommend you take another professor. He's new to teaching the course, so his pacing was pretty off, and we ended up rushing the last 2 units in the span of a few days, resulting in us missing out on some of the most important content in the class. He's not a terrible teacher, but a lot of the proofs were kind of hard to follow, which is unfortunate for a proofs based class. His tests are a near exact replica of the review sheets, so make sure you search up how to do everything on the sheets beforehand, and work on your speed as the tests are decently long. The class is run kind of sloppily, with the last midterm being graded 2 weeks after the semester ended, the review sheets often being rife with numerous errors, and finally Dr. Williams stumbling through the proofs and being corrected by students multiple times.\r\n\r\nTaking the course with Dr. Williams isn't the end of the world, but I'd say avoid it if you can.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2025-06-20T00:33:23.140839Z"
+    },
+    {
+      "professor": "Jonathan Fernandes",
+      "course": "STAT410",
+      "review": "Such a nice and understanding professor ever!!",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2025-09-01T05:59:52.374049Z"
+    },
+    {
+      "professor": "Jonathan Yin",
+      "course": "STAT410",
+      "review": "Great TA. Very lenient. Very through in grading. Talked to him once, very humorous guy.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-11-25T16:35:56.470999Z"
+    },
+    {
+      "professor": "Kyeongwon Lee",
+      "course": "STAT410",
+      "review": "I want to start off this review by saying that the professor is a very nice guy. He genuinely has no malintent. However, there are certain shortcomings that took place during the course, which is rather unfortunate. I'll start with the most recent and move backwards in time.\r\n- The last two weeks have been conducted and have not been focused on our imminent final exam, rather, using R and its applications for statistics (material we are not assessed on). This honestly sucks, given the fact that it is unclear what exactly will be covered on the final. Again, the final we have in a few days.\r\n- Before these last two weeks, there was a total of three weeks where the professor was not present, and we had an alternate instructor. These instructors covered the most difficult material in the course, and since they do not directly oversee the exams, it was hard to understand what exactly was and wasn't exam-relevant. Now, he did provide legitimate reasoning as to why he was not able to attend our class, just not great, given out of the 15 weeks in the semester, we have not had substantive lectures for 5 of them.\r\n\r\nThe biggest concern for me is what to study for the final. He gave us six files for practice problems, however, there are some content differences generally between this and the other final exams on the testbank. Would be nice to get some closure on what exactly I should be focusing on.\r\n\r\nPros of the course: quizzes and exams are fair, if not helpful given they have been based off of practice exercises and we have been allowed to use a cheat sheet on the midterms and upcoming final. He is approachable and can be helpful.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2025-12-11T21:33:18.492362Z"
+    },
+    {
+      "professor": "Kyeongwon Lee",
+      "course": "STAT410",
+      "review": "I feel bad doing this because the professor is genuinely a kind person, but he is truly a horrible professor. What he teaches in class and what shows up on midterms and quizzes could not be less similar. When he starts teaching a new topic, his explanation is purely mathematical notation and proofs. Not a minute of the lecture is spent explaining why this content makes sense conceptually (I mean it's introduction to probability, talk about drawing cards from a deck or something please I'm begging you). Even the most simple topics at the beginning of the class (I'm talking how many ways can you rearrange the letters ABCD) are explained abstractly. When I go to class I learn nothing.\r\nThe reason he's not a one star is because I believe there is a way to do well in his class, and it can be summarized very easily: problem sets and ChatGPT. Here's what kind of worked for me: plug his 50-slide-long notes into ChatGPT and tell it to generate a page long summary for each chapter (about 3 chapter per unit), ask Chat abt anything you don't understand. Then, do the problem set based off of those notes. Luckily, almost every question on quizzes and exams are drawn directly, NEARLY WORD FOR WORD, from these problem sets (I basically just memorized every single problem set). Finally, pray you beat the average and get curved up.\r\nI'm sitting at a 90 right now, taking the final in a few days, and am genuinely beyond stressed about it because if the final isn't like the problem sets I am beyond screwed (so maybe an expected grade of an A- is optimistic).",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2025-12-13T23:34:59.175164Z"
+    },
+    {
+      "professor": "Yu Gu",
+      "course": "STAT410",
+      "review": "Brutal midterms and final, but from what I've heard all 410 classes are difficult. Struggled to pick between 2 or 3 stars but ultimately decided on 2. He is actually a pretty good lecturer but it's external factors that make the class worse. Lack of online notes: he loosely follows notes from a different university (and I mean loosely, sometiems he'll just ignore stuff or teach something else) and doesn't post anything else. If you're like me, online notes, namely readable slides, are almost always the most useful material for any class. He does not have them, period. Additionally, the grading is very unhelpful. I suppose the expectation is to check with him if you want specifications but I expect more than literal nothing other than being marked off on my test sheet for how much we have to pay to go here. I was probably also the wrong audience for this class, however. I took it because it fit into my schedule and I needed a stat 400+ class. Don't take this class with half-hearted expectations and you'll probably have a better time than me, but I can't say I didn't have a bad experience.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2025-12-16T03:36:00.946286Z"
+    },
+    {
+      "professor": "Jonathan Yin",
+      "course": "STAT410",
+      "review": "Not great TA. Very not lenient. Very not thorough in grading. Talked to him many times, very not humorous guy.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-12-17T23:19:58.739250Z"
+    },
+    {
+      "professor": "Kyeongwon Lee",
+      "course": "STAT410",
+      "review": "I'm giving a 5 because I think an accurate rating should lie within 3.5-4.0.\r\n\r\nTeaching:\r\nOverall, he's really sweet and playful. I personally found his lectures enjoyable to listen to because of his fun personality. His accent is not bad at all, even if u have trouble deciphering it, following his lecture slides while listening will make it a ton easier.\r\n\r\nGrading:\r\nFor quizzes, we had them approx once every two weeks (although some of them got cancelled) and the problems were pulled straight from his practice problem sets. The difficulty was quite easy, nothing else to be said really.\r\nHis first midterm had a median of 73 but I genuinely think that's just because most students didn't even come to lecture and only cared to pass this class for major requirements. \r\nThe problems were reasonable and there was a bonus problem too.\r\nStudents seemed to do much better for the second midterm, the median was a 98.5 lol.\r\nFor the final, he was super generous. Most of the problems were from previous quizzes and the ones that weren't were from his practice problems. He even gave a ton of hints/clarifications for how to do them during the final. \r\nJust go to lectures and understand the material and for an easy A.\r\n\r\nWorkload:\r\nNo homework because he said there's no point now that AI can do all of it for u. Lectures were optional to attend.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-21T06:12:00.371573Z"
+    },
+    {
+      "professor": "Anna Szczekutowicz",
+      "course": "STAT410",
+      "review": "Almost nothing bad to say at all. Dr. S is very organized and invested in her teaching, it is honestly impressive. She had pretyped lecture notes, which were incredibly clear. Very friendly at office hours and cares that everyone understands the material. Homeworks were very helpful for exams. Not the easiest class, I felt like getting an A required consistent effort, but was definitely not impossible. She didn't have practice exams which I felt made exams more challenging than they needed to be. Definitely worth taking any class with her if you can.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-24T14:27:17.367228Z"
+    },
+    {
+      "professor": "Kendall Williams",
+      "course": "STAT410",
+      "review": "I'm not gonna say I was a good student or that he's a bad teacher but the exam averages are so low that you really shouldn't take your chances.\r\n\r\nOur section had exam averages 70, 75, 60, 85. Factoring in the weights this became 75% exams average. Exams were weighted highly enough such that the overall class average could not have been over 80.\r\n\r\nThere was absolutely NO curve or bump or anything whatsoever at all. Unless you're confident that you can perform significantly better than the average (of people who already self selected to take this instead of Stat400) than you're just cooking yourself for no reason.",
+      "rating": 2,
+      "expected_grade": "D",
+      "created": "2025-12-24T18:28:20.601058Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "STAT410",
+      "review": "Archana is one of the nicest professors out there! However, \r\n- I didnt really feel like this was any step above stat400 in terms of rigor or anything, so I didn't find it particularly interesting, just felt like memorizing a bunch of stuff\r\n- I did not feel like the homeworks or the weekly quizzes prepared me for the exams.\r\n- A formula sheet is allowed on the exams, but they are only allowed to be one-sided and handwritten for some reason, which kind of just tests you on if you can guess what is going to be on the exam\r\n\r\nIn the end I should have done better than I did in this class, and it was my own fault, but I feel like the class structure could still be better. I would still recommend her since she is super understanding and you should get a good grade if you work for it.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2025-12-28T02:07:38.222580Z"
+    },
+    {
+      "professor": "Jonathan Yin",
+      "course": "STAT410",
+      "review": "Normal TA. Very kind of lenient. Very ok thorough in grading. Talked to him kind of many times, kind of humorous guy.",
+      "rating": 3,
+      "expected_grade": "C",
+      "created": "2026-03-06T19:38:57.527244Z"
+    },
+    {
+      "professor": "Jonathan Fernandes",
+      "course": "STAT410",
+      "review": "Let me start off by saying that Professor Fernandes is a very nice guy. He treats students with respect, and he's always willing to answer any questions that students have during the lectures.\r\n\r\nBut I would also say that if you value your sanity, or you have a super duper packed schedule as is, do not take Professor Fernandes. You are better of taking the same class with a different professor.\r\n\r\nFor starters, during the lectures, a lot of what he teaches is the theoretical stuff, with regards to how to derive different formulas that are already in the notes packets that he gives. Some of them are not in the notes packets, though, and you will only learn it if you actually attend his lecture and take notes. So you never want to miss any of his classes if you do end up taking his class.\r\n\r\nThat's fine and all. My biggest gripe with this course is with regards to how he organizes them. He gives quizzes every week, but really no material to help you practice for those quizzes ahead of time. He kind of just expects you to understand what he teaches in the lectures and use just that to prepare for the quizzes. The problem is that his lectures are theoretical, and his quizzes are very application based. Without any practice problems to prepare for the quizzes ahead of time, it becomes very easy for the quizzes to throw you off. \r\n\r\nOne time, these two students asked him if he can give some practice problems before the quiz to help them better prepare for it. He then went on a tangent about how you should be taking notes, and if you don't understand something, ask your fellow classmate. He claimed that he is teaching for the \"average student,\" but the truth is that the average student would appreciate better organization and more practice. He asked those two students if it would really be worth their time to do 15 questions before the quiz, as if that would be a bad thing. But the truth is, yes, spending extra time on practice problems for this course would be so worth it. \r\n\r\nAnd trust me, using ChatGPT to prepare for the quizzes won't help. No LLM will cover the nuances of the questions that Professor Fernandes likes to ask. Hell, even if he doesn't give practice problems, you would hope that he gives you homework problems before the quizzes to work through.\r\n\r\nNope. Most of the time, he gives the homeworks only after the quizzes.\r\n\r\nThe homeworks are definitely useful to prepare for the exams, though. His exams are very, very fair. I have no gripes about that. Just be careful with some nuances of the problems, and you'll be destined for success on the exams.\r\n\r\nOne thing that I want to note is that for homeworks, make sure that there are no mistakes before you submit them. Partial credit is sometimes not a concept when your homework is being graded. Because of that, you could make a small mistakes and you will lose full points for the question. Same thing goes for quizzes. These are graded by TAs, not Professor Fernandes. \r\n\r\nThe exams are graded by Professor Fernandes, and he grades them very fairly. \r\n\r\nOverall, I think Professor Fernandes is a nice guy, but I really do think that he is failing to understand his students and what exactly would help them succeed better in his class. He also doesn't do a super great job of mitigating any uncertainty in the class, and that can be quite stressful when you already have quite a packed and difficult schedule. Because of this, I would say that it's better worth your time to take this class with a different professor, because they give you more resources and teach more of the application stuff, which is what is necessary for exams and quizzes in the first place.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2026-03-31T11:13:06.220172Z"
+    },
+    {
+      "professor": "Jonathan Fernandes",
+      "course": "STAT410",
+      "review": "subpar teacher. can not teach and is quite disorganized.\r\n\r\nstat410 was a way harder class than math410 fyi. please do not trust the grade distribution it is not accurate.",
+      "rating": 2,
+      "expected_grade": "B-",
+      "created": "2026-04-18T20:00:00.807243Z"
+    }
+  ],
+  "department": "STAT",
+  "course_number": "410",
+  "name": "STAT410",
+  "title": "Introduction to Probability Theory",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> 1 course with a minimum grade of C- from (MATH240, MATH461, MATH341); and 1 course with a minimum grade of C- from (MATH340, MATH241).  Cross-listed with SURV410.  Credit only granted  for: STAT410 or SURV410.\nProbability and its properties. Random variables and distribution functions in one and several dimensions. Moments. Characteristic functions. Limit theorems.",
+  "is_recent": true,
+  "geneds": null
+}

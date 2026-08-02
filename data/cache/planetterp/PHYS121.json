@@ -1,0 +1,651 @@
+{
+  "average_gpa": 2.8800135501355015,
+  "professors": [
+    "Adil Hassam",
+    "Peter Shawhan",
+    "Sergio Picozzi",
+    "David Buehrle",
+    "Hailu Gebremariam",
+    "Giridhar Nandikotkur",
+    "Satindar Bhagat",
+    "George Sherwood",
+    "Arthur La Porta",
+    "Barbara Marchetti",
+    "Kishan Yerubandi",
+    "Tian Li",
+    "Shabnam Jabeen",
+    "Matthew Severson",
+    "Negar Heidarian Boroujeni",
+    "Matt Severson",
+    "Wendell Hill",
+    "Ki-Yong Kim",
+    "Negar Heidarian Boroujeni",
+    "Negar Heidarian Boroujeni",
+    "Negar Heidarian Boroujeni",
+    "Matt Severson",
+    "Zackaria Chacko",
+    "Matt Severson",
+    "Negar Heidarian Boroujeni",
+    "Zackaria Chacko",
+    "Aria Heidarian",
+    "David Buehrle",
+    "David Buehrle",
+    "Ki-Yong Kim",
+    "Zackaria Chacko",
+    "Matt Severson",
+    "Aria Heidarian",
+    "Peter Shawhan",
+    "David Buehrle",
+    "Ki-Yong Kim"
+  ],
+  "reviews": [
+    {
+      "professor": "Douglas Hamilton",
+      "course": "PHYS121",
+      "review": "Dr. Hamilton was a clear, fair professor for Physics 1.  He was very understandable in lecture and did many demonstrations and example problems in class.  Mastering physics hw was due each week.  ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2009-03-08T00:24:00Z"
+    },
+    {
+      "professor": "Douglas Hamilton",
+      "course": "PHYS121",
+      "review": "Nice guy. Exams were fair. goes through a lot of demonstrations and example problems in class. class is curved. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2008-12-28T01:20:00Z"
+    },
+    {
+      "professor": "Peter Shawhan",
+      "course": "PHYS121",
+      "review": "Beware, his homework is impossible. I would always go to the physics help classroom and spend 3 hours there with other students from this class. However his tests are not bad and he's a nice guy so if you know what he lectures on you will do fine on the tests. ",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2015-01-29T15:06:00Z"
+    },
+    {
+      "professor": "Peter Shawhan",
+      "course": "PHYS121",
+      "review": "Professor Shawhan is a great teacher.  He doesn't do that many problems in class and the homework is difficult but in the end, that's how you learn.  I really came out of this course with a solid understanding of the basic concepts, which is key to doing well on the MCAT.  Take Shawhan!  An A is definitely doable as long as you can follow the textbook, which is pretty good.  He posts all of his notes online after class which is a really big plus.  ",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2013-03-02T08:22:00Z"
+    },
+    {
+      "professor": "Peter Shawhan",
+      "course": "PHYS121",
+      "review": "Shawhan is one of the few professors I've had (in the three years I've been at UMD) that genuinely cares about his students; I would definitely take another class with him.\n\r\nI feel that most of the poor reviews he's gotten are from younger students who are just looking to get an easy A, and fulfill a physics requirement. \n\r\nWhile most of the material is complicated for someone with no exposure to physics, he realizes that 121 is for non-majors, and does everything in his power to make it as painless as possible:\n\r\nHe has a tablet computer which he uses to annotate his lecture slides before posting online, clicker questions are not graded for correctness (despite the fact that they are a large portion of the grade), and he allows for note sheets during exams. \n\r\nHis homeworks can be challenging, but that's the point of the homework; there is an abundance of resources to help with it; the homeworks are very straight forward. \n\r\nAnyone who thinks that Shawhan is not an excellent professor is in for an unpleasant surprise when they take any course beyond freshman level. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2012-05-16T19:45:00Z"
+    },
+    {
+      "professor": "Peter Shawhan",
+      "course": "PHYS121",
+      "review": "I wish Dr. Shawhan was teaching 122 because I would take a class taught by him again in a heartbeat! He's a great professor who really does care about his students. While he focuses more on theory, he does go over actual equations in his lectures (as opposed to some professors). His homework is hard, but if you try it and then go to office hours, the TAs will help you. I don't think I ever got more than a point off on homework if I went to the TAs for help. Tests were definitely tricky, but very doable. His final was harder than the semester tests, or maybe just trickier. I got tripped up, and our class exam average was way below other test averages from the semester. He doesn't waste a lot of time on experiments, but when he pulls them out they're a nice way to break up the lecture. He gives clicker questions in lecture, but will give you exceptions if your clicker is broken for that day. He also carries extra clicker batteries with him to class.\n\r\nLabs can be graded a bit harshly. I felt that there wasn't a lot of guidance as to what they really wanted in a lab report. They felt like a waste of time, as did the discussions, which are actually \"tutorials\". ",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2012-02-11T16:37:00Z"
+    },
+    {
+      "professor": "Peter Shawhan",
+      "course": "PHYS121",
+      "review": "Dr. Shawhan utilizes technology really well and is always open to questions or review.  He assigns a lot of homework, but it keeps you on top of the material.  If you go to office hours, Dr. Shawhan or the TAs help a lot on homework or in general.  I never had physics before this class, but I put in the effort and learned a lot.  Overall, I really enjoyed his class. Tutorial and lab were pointless though.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2011-12-11T19:57:00Z"
+    },
+    {
+      "professor": "Peter Shawhan",
+      "course": "PHYS121",
+      "review": "This class was one of the most stressful classes I've ever taken (that includes orgos I & II). Dr. Shawhan gives a lot of homework every week. While he says it should only take about 1.5hrs/assignment, my study group found that it took us about 4-5 on average. Be prepared to spend a lot of time on this course, and look to do practice problems outside of what he assigns. The test questions are not always things you've seen before. His lectures are heavy on theory, but all the test questions are application questions. In short, this class is a lot of work, and Dr. Shawhan doesn't necessarily make physics easy to learn. If it weren't for my fiance having a masters in aerospace engineering, I would be sunk in this course. ",
+      "rating": 3,
+      "expected_grade": "CB",
+      "created": "2011-11-10T11:45:00Z"
+    },
+    {
+      "professor": "Peter Shawhan",
+      "course": "PHYS121",
+      "review": "Professor Shawhan is a rare example of a professor who truly cares about his students. He is incredibly passionate about physics and provides you with all of the resources you need to do well. There is a lot of homework and sometimes the lab and tutorial can be pretty pointless, but all in all it is pretty helpful in learning the material. ",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2011-10-26T18:45:00Z"
+    },
+    {
+      "professor": "Peter Shawhan",
+      "course": "PHYS121",
+      "review": "It really pains me to have to give this man a bad review. He's honestly a really nice man. I just don't think he understands that this is an INTRO to physics course. This means that a lot of people hadn't seen this material before. He gave weekly homeworks that required at least 3-5 hours of work. And yes you would think that would help you on the exams. However, all of his exams were at least 3 times harder than the homework he gave out. People did so terribly on the exams that he allowed people to redo 2 problems (~8-10% points) so that his curve wasn't so that people who received less than 50% got a C. Each test was worth 10%, homework was worth 20% and clicker questions were worth 10%. That is the ONLY reason why people got B's in this class. Other things besides your exam grade factored in. If you have to take Shawhan, if you get A's on the labs and homeworks and go to every class (for the clicker) and get C's on the exams, you'll get a B for your final grade.\n\r\nLike I said, he's a really nice man. You could tell he was really passionate about physics because he got so excited up there. However, it's in a HUGE lecture hall and he insisted on taking up half of the class time doing experiments that NOONE except the first few rows could see. They often didn't work. \n\r\nIf you have the chance to take someone else, DO IT!",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2010-12-21T13:51:00Z"
+    },
+    {
+      "professor": "Peter Shawhan",
+      "course": "PHYS121",
+      "review": "Sad to say, I agree with the other reviews. People who are just generally good at physics did well in the class. I hadn't seen physics in years so its safe to say it was new to me. He spends lectures going over proofs for the formulas, teaching concepts, and doing demonstrations. But when it came to exam time, it was all calculations of problems. The tests were so hard. He tried really hard to teach us and you can tell that he truly cares that you learn the material. He gave tons of practice problems to do before the exams but they didn't seem to help me at all. \r\nHe gives an A LOT of homework. BY FAR, the most work I have ever done for a class. The reason he's not a good lecturer is because he tries to say too much in such a short period of time. It's way too much to keep up with. It's almost impossible to take notes when he's talking so fast. \r\nIn my opinion, if you have to take Professor Shawhan, just make sure you have the ability to teach yourself from the book. And unless you are just inherently a genius, you shouldn't expect more than a B in this class. ",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2010-12-20T16:18:00Z"
+    },
+    {
+      "professor": "Peter Shawhan",
+      "course": "PHYS121",
+      "review": "Dr. Shawhan is honestly one of the most engaging, enthusiastic, and passionate professors I have had at Maryland, as a junior, I have had a fair share of rotten ones.  He does awesome demonstrations, and explains concepts but also does examples (which always tend to show up on the exams).  The exams are short, 50 points, and he gives you the chance to \"re-do\" problems for more credit, this is his idea of the curve.  It's really not that bad, just find a group of friends to do homework with every week (since it's work like a quarter of your grade and is easy points).  Take good notes, don't bother using the textbook, the online homework and classnotes are perfect for studying.  Relax, and remember he wants to CHALLENGE you to THINK.  Unlike the other rotten Phys professors who ask you to memorize.  Yeah it may suck, but if you plan on succeeding in life, taking the MCAT, or any other test, you're gonna need to know HOW to do physics, not just to memorize an equation, and he teaches you that!  HIGHLY recommended.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2010-12-18T15:10:00Z"
+    },
+    {
+      "professor": "Peter Shawhan",
+      "course": "PHYS121",
+      "review": "Professor Shawhan is probably one of the worst teachers I have had at UMD. He is a very nice person, but he cannot teach very well at all. He will teach a lot of concept based information in class, and give completely calculation based exams, without going over examples thoroughly. His tests are very difficult, and although he does curve, it does not help everyone out. If you have a background in physics, and are good at it, then he might be the one for you, but if you are new to the subject, I would avoid him, unless you are very good at teaching yourself out of the book (which still probably won't help you).\n",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2010-12-07T00:08:00Z"
+    },
+    {
+      "professor": "Peter Shawhan",
+      "course": "PHYS121",
+      "review": "I would definitely avoid taking Shawhan.  He is very nice guy but is one of the worst professors I've ever had.  I read the textbook, did the homeworks, attended a weekly GSS session, went to every lecture, studied extremely hard for every exam and never got above a C on any exam.  This is because the test questions are 100% unrelated to anything he ever gives you before the exam.  He spends too much class time going over demonstrations but not enough time explaining what the demo should be teaching us so that we can then apply it to physics problems.  His tests do not accurately display your knowledge of the material presented to you.  He does curve every exam but not enough to get you the grade you would like.  ",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2010-11-30T00:31:00Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS121",
+      "review": "Buehrle is a top notch professor. His lectures were very interesting and he is a really nice guy. His tests got progressively more difficult but he is a fairly easy grader. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2014-08-20T03:13:00Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS121",
+      "review": "Explains things really well. Easy to talk to and willing to help.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2013-08-19T00:46:00Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS121",
+      "review": "I also disagree with the first review of the professor. He is one of the kindest individuals I've ever met and explains the concepts very well. His tests are not too difficult. Physics is one of those subjects you either get or don't. I would say I'm usually one of those students who wouldn't get it...but I truly excelled in this course. If you have taken physics in high school...then you will do absolutely fine. Usually 800+ out of 100 points is an A.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2013-01-14T15:04:00Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS121",
+      "review": "Buehrle is the king. \n\r\nPros: EXTREMELY nice, presents the material in an understandable, friendly way. Tries to make sure all of his students get a concept before he moves on. He also curves a BOATLOAD apparently. He says an 80 is rounded to a 90, and looking at his stats in our umd he is really generous. Also, his homework is graded on completion and not correctness.\n\r\nCons: Dude teaches you AP Physics. Straightup. He uses old AP physics questions for his own exams, and his final. You can google the questions from his key and ap exams from like eight years ago show up. This is a royal pain when you're studying class notes and from the book and he asks you something that you've never come across before, which none of the other current phys professors do. However, there's usually only one or two of those on each test, and other than that they're OK.\n\r\nIMPORTANT note: Make sure you have the old exams when taking this class. He reuses a lot of his questions, and this is pretty convenient. What I found was the best way to study was to study old exams, notes, old AP physics problems, homeworks. That's listed in order of importance.\n\r\nI walked away with a decent understanding of basic physics and an excellent grade (I got about 910 points looking at my total grades)\n\r\nMake sure you do the force and motion survey at the beginning, it's worth like 1.5%",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2012-12-22T07:55:00Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS121",
+      "review": "I completely disagree with the above review about this professor.  He explained concepts very thoroughly and made lecture both fun and enjoyable (which is difficult especially for a 2 hour lecture).  He is very responsive to students who do not understand the material, and knows how to teach it better than some of the other professors because he used to teach high school (so he isn't mainly a researcher).  His tests and quizzes were difficult, but fair.  If you did the practice problems he gave you then you would do fine.  Clearly he is not too difficult a grader because his grade distribution is all A's and B's.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2011-10-13T12:09:00Z"
+    },
+    {
+      "professor": "Edward Redish",
+      "course": "PHYS121",
+      "review": "He has 3 exams, including the final. His test questions come from quiz questions that had poor average scores and from the homework. You will spend about 3-7 hours every week on homework. Labs depend on your TA. I had the fortune of having the best TA I have had at UMD. \n\r\nRedish's lectures are interesting and worth attending, but you will have to spend a lot of time outside of class learning the material because he doesn't really teach the content so much as teach you how to think about physics. If you want an A get help on the homework. Make sure you understand the answers to all the homework problems and the tests should go well. \n\r\nOverall a fantastic teacher, a cool person, and you will learn a lot if you put in the effort. If you want to learn physics for the MCATs you should definately take him. What I learned from Dr. Redish also helped me a lot in biomechanics. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2011-03-31T20:15:00Z"
+    },
+    {
+      "professor": "Edward Redish",
+      "course": "PHYS121",
+      "review": "A LOT OF WORK. Syllabus says it takes 4-6 hours of the week to do lecture hw due on Friday, but I was working on a little bit everyday and I had a pretty high average on the hw. Almost every homework had an annoying problem that required arguing with classmates and consulting with several TAs. You learn in this class from experience, such as by getting quiz and hw questions wrong to learn the concepts for the exams.\n\r\nBut helpful that he teaches conceptually so you feel like you don't have to memorize. Really puts in the effort to learn everyone's names. So it's a tradeoff between feeling like you really learn with a nice professor and having a class take up most of your time during a semester and whether you can afford to take it with your other science classes.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2010-12-24T00:30:00Z"
+    },
+    {
+      "professor": "Edward Redish",
+      "course": "PHYS121",
+      "review": "Dr. Redish has a very... unorthodox way of teaching, for his PHYS 121 class at least. He doesn't do any example problems in class, and skims over conceptual material in a hurry. There's a substantial amount of work to be put in for this class, even for a 4 credit class--weekly tutorial homeworks, lecture homeworks, labs, and quizzes. The lecture homework took at least 5 hours a week, and can be very frustrating and time-consuming. The tutorials are a joke. He's an OK professor to talk to be can be kind of condescending if you don't understand the material the first time round.\n\r\nHis grading scheme is also kind of wacky; the quizzes and exams are not curved (with >75% and A), but the labs and homework are, dependent upon the harshness of your TA's grading.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2009-12-27T04:41:00Z"
+    },
+    {
+      "professor": "Edward Redish",
+      "course": "PHYS121",
+      "review": "Dr. Redish is a education research professor. He will learn your name, interact with you, and he really does care whether or not you LEARN the material. You might get a slightly lower grade because his tests and homework require you to think really hard, however I highly recommend him. You will get something out of his class.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2009-01-16T22:40:00Z"
+    },
+    {
+      "professor": "Edward Redish",
+      "course": "PHYS121",
+      "review": "Very good lectures. The homeworks took up most of my free time during the week, you have to get help on them or work with others. Tests are difficult but there is a generous curve. The lab and discussion are a waste of time.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2008-12-08T17:37:00Z"
+    },
+    {
+      "professor": "Edward Redish",
+      "course": "PHYS121",
+      "review": "A bit confusing and not clear.\n\r\nBUT, he tries his best.\n\r\nDo ALL the homework and classes, then you'll be fine.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2008-11-18T16:38:00Z"
+    },
+    {
+      "professor": "Edward Redish",
+      "course": "PHYS121",
+      "review": "He's not the best teacher I've ever had-very confusing, not very clear, and his approach to teaching is very different from other physics courses. BUT, he does try to make the material interesting with interactive lectures. \n\r\nHe requires a lot of independent work; I learned more from doing homeworks and talking to other students, rather than listening to him. ",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2007-12-15T18:47:00Z"
+    },
+    {
+      "professor": "Adil Hassam",
+      "course": "PHYS121",
+      "review": "Dr. Hassam is awesome! He is so friendly and funny \u2013 he tries to make lecture entertaining. The examples he gives in class are not nearly as hard as the ones on the exams, but if you go to discussion and understand MasteringPhysics problems, you will be very well prepared for exams. I had Jack for my TA and he was very helpful. Lab is hard, but I still managed to get an 89% for my total lab grade. There are also occasional quizzes in discussion, which count for 5% of your grade, about a dozen MasteringPhysics homeworks (15%), two midterms (15% each), the final (30%), and lab counts for 20%. Hassam gives a very generous curve. The midterms consists of about 4 multiple choice/ true or false questions and about 4 problems. I did well in lab and on homework, but I failed most of the exams and still received a B in the course. He assigns grades relatively, meaning you are graded according to how everyone else in the class performs. Dr. Hassam doesn\u2019t like to fail anyone if he can help it. If you study hard, do all of the homeworks, and attend every discussion you will do well in this class. ",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2012-05-18T17:49:00Z"
+    },
+    {
+      "professor": "Adil Hassam",
+      "course": "PHYS121",
+      "review": "He's a very nice guy, and a good lecturer. He uses a lot of demonstrations and generally wants everyone to do well. The curve this semester was ~5%. ",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2011-05-24T11:21:00Z"
+    },
+    {
+      "professor": "Adil Hassam",
+      "course": "PHYS121",
+      "review": "Hassam is ALRIGHT. I mean, he makes a lot of mistakes in lecture...and in the end you learn that lecture notes aren't even that helpful. He takes a lot of problems from MasteringPhysics and rewords them for his quizzes/finals. His syllabus is online if you just google \"Hassam Phys 121\"\n\r\nOverall, I thought he was both an enthusiastic lecturer and fair grader. You got to bring in cheat sheets to the exams (full pages). He's very understanding, I definitely recommend him! ",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2011-05-24T03:46:00Z"
+    },
+    {
+      "professor": "Adil Hassam",
+      "course": "PHYS121",
+      "review": "Class is strait forward. Attend lecture and practice problems and you will be fine. Dr. Hassam as a professor is a consummate professional and just an awesome guy in general. From the first day you can tell he is happy to be teaching and really wants you to do well in his class as much as he wants you to learn the material. I can understand everything he is saying and he doesn't speak in monotone. He care about his students and will always keep you in the loop of where the class is going. He sends e-mails to his students every day and is constantly looking for ways to improve your grade that will actually help you learn the material at the same time (he doesnt just throw you curves, he offers opportunities to raise your grade by showing you know the material), but even then he will still curve the class as he really doesn't want you to do poorly. Fair tests, fair homeworks, fair labs, Nice professor, helpful and relaxed TA. Couldn't ask for more...",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2011-05-05T14:32:00Z"
+    },
+    {
+      "professor": "Adil Hassam",
+      "course": "PHYS121",
+      "review": "You can actually understand Hassam, unlike a majority of the physics faculty. If you took physics in high school and actually remember some of the underlying concepts (such as F=ma), then you will have no trouble getting an A. His exams are straightforward, and most of the problems are just derivations of the homework problems. The best part about his exams is that you get to bring a one page cheat sheet (2 pages for the final). ",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2010-11-10T21:08:00Z"
+    },
+    {
+      "professor": "Barbara Marchetti",
+      "course": "PHYS121",
+      "review": "I feel like she has no idea of what's going on ever.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2018-10-11T20:31:48Z"
+    },
+    {
+      "professor": "Negar Heidarian Boroujeni",
+      "course": "PHYS121",
+      "review": "Great Professor, gives tons of extra credit so you're not left pulling your hair out to get an A. ",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2019-05-19T19:01:55Z"
+    },
+    {
+      "professor": "Negar Heidarian Boroujeni",
+      "course": "PHYS121",
+      "review": "weights the final the same as the homeworks, so if you\u2019re not a good test-taker, there is still a lot of opportunities to pass the class",
+      "rating": 4,
+      "expected_grade": "B-",
+      "created": "2019-12-17T22:47:08Z"
+    },
+    {
+      "professor": "Wendell Hill",
+      "course": "PHYS121",
+      "review": "The only reason I got an A in the course is because I paid for a weekly tutor after the first exam. He taught topics that shouldn't be covered in this course. When I would attend office hours and ask for help he would make comments such as \"You should know this\" obviously I didnt because I am hear asking for you to re-explain it. It seems he has a passion for physics and wants to share that but doesn't understand how to teach lower level non-physics major courses",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2020-05-16T22:55:52Z"
+    },
+    {
+      "professor": "Ki-Yong Kim",
+      "course": "PHYS121",
+      "review": "I have never taken physics and I am disappointed with this. He is a sweet guy but the problems on the exams and homework make you infer so much... If you come into his class with no background knowledge in physics you will do poorly. ",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2020-10-29T02:16:39Z"
+    },
+    {
+      "professor": "Ki-Yong Kim",
+      "course": "PHYS121",
+      "review": "I had never taken a Physics class before, and the amount of knowledge he expected you to know ahead of time didnt seem fair. He has a very thick accent, which I feel like isnt that big of a problem, but his way of explaining does not come off as very helpful. In my eyes, he's almost TOO smart to be teaching a basic physics class. ",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2021-01-07T20:37:35Z"
+    },
+    {
+      "professor": "Negar Heidarian Boroujeni",
+      "course": "PHYS121",
+      "review": "Honestly I feel like it is absolutely do-able to pass the class, but this professor/course bothers me a lot. Maybe just not translating well to an online course, I'm not sure. Don't get exam grades back until the week before the next test (almost a month later). You have to rush so much on the exams that it definitely took a toll on my grade, prof blames it on poor time management when we are not able to finish. I am generally an A student with over 4 years of college behind me, I've always been a good test-taker and never have I struggled to complete a test in the allotted time this way. Cutoff for an A is a 95. All of this compounded with the fact that she very specifically outlines how to succeed in the class and get the grade you want, yet I do every single thing she says (plus my own tried and true methods), do just about every single practice problem supplied, and I still have a low B in the class rather than the A that I wanted. Makes me hate physics which is sad bc I was excited for physics and to learn some of the concepts behind calculus, which I enjoyed despite the difficulty (and did well in). Also since the TA's grade the exams, and we pay for the expertta homework which is autograded, I'm not sure what exactly the professor does for our class besides record lecture videos with the textbook powerpoints. I do not feel that this class provides value compared to what I am paying for the course",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2021-04-19T13:05:16Z"
+    },
+    {
+      "professor": "Negar Heidarian Boroujeni",
+      "course": "PHYS121",
+      "review": "I took her 121 last semester and now am working on her 122. She is a great professor even though she just started teaching at UMD since 2018\r\nI got A+ for 121 and it's near the final of Spring2022, I'm also expecting an A+ for 122\r\nThe advantage of her course is that her lecture is clear and you can feel that she really wants you to understand. She gave two extra problems that account for 20 extra points for each exam(and these problems are not difficult, I can say that it's totally the same level as the other free-respond questions). Besides, she has three midterms and she drops the lowest one, you can see that she gives you chances to make mistakes. She sometimes curves the grade if she thinks the average is below her expectation(usually around 80) but there's no guarantee. \r\nYou can ask questions on piazza or just directly email her/send a message on elms, she usually responds very soon. \r\nShe also provides enough materials for you to review before each exam.\r\nThe disadvantage is that they didn't grade exams very fast, usually takes 2 weeks or 3 three weeks. But on this point, I didn't care at all. Nevertheless, she will never curve/change your grade(for example if you are like 0.1 point below and get a B+ not an A-) on a personal basis because she already gives you chances to earn extra points at exams.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-05-09T18:49:37Z"
+    },
+    {
+      "professor": "Negar Heidarian Boroujeni",
+      "course": "PHYS121",
+      "review": "I didn't show up to a single lecture after the first week, except for exams. All exams are curved, lowest exam grade is dropped. All the problems are very reasonable for a class of this magnitude. Can't really speak to her lecturing abilities since I never went, but her slideshows have all the information that you need to do well in the class. Labs often come across as incredibly pointless, but put in the time and you'll get a decent grade on the lab reports. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-05-11T19:37:52Z"
+    },
+    {
+      "professor": "Negar Heidarian Boroujeni",
+      "course": "PHYS121",
+      "review": "she's good. exams are straightforward, just practice problem set questions. she drops the lowest exam score too. take her",
+      "rating": 5,
+      "expected_grade": "B-",
+      "created": "2022-05-15T16:05:23Z"
+    },
+    {
+      "professor": "Negar Heidarian Boroujeni",
+      "course": "PHYS121",
+      "review": "Prof. Boroujeni is nice and helpful, she gives curve so that the average grade is around 80. However, this course is not easy at all. It has too much knowledge for you to learn within one semester. I've learnt all the things in China many years ago and I always solve these questions easily. I still think the midterm exams are so time-limited. ",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-05-25T15:52:11Z"
+    },
+    {
+      "professor": "Negar Heidarian Boroujeni",
+      "course": "PHYS121",
+      "review": "Her exams are very similar to the practice problems. If you are able to do everything on the practice problem sets, you should be fine for exams. You do have to study and put in the work, but it is a very fair class. She is also very generous with extra credit on her exams. She gives at least 10+ points on each exam.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-02-01T17:27:36.687478Z"
+    },
+    {
+      "professor": "Negar Heidarian Boroujeni",
+      "course": "PHYS121",
+      "review": "I had Dr. Heidarian for both physics 1 and 2. She provided a ton of practice problems which were super similar to the exam. If you can do those, you will do really well on her exams. She also provided a lot of extra credit on the exams as well which helped a lot. I ended her class with a 105 from all of the extra credit she gave out. She is super sweet and I highly recommend taking her!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-04-05T17:54:41.054871Z"
+    },
+    {
+      "professor": "Negar Heidarian Boroujeni",
+      "course": "PHYS121",
+      "review": "She is a wonderful professor, I highly recommend going to office hours as she is super helpful and explains everything in a way that is very easy to understand. She provides lots of practice questions which are very similar to exam questions. There are 3 midterms and the lowest grade gets dropped, and she provides extra credit questions on each exam. Highly recommend taking this class with her.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-04-21T16:39:05.431410Z"
+    },
+    {
+      "professor": "Negar Heidarian Boroujeni",
+      "course": "PHYS121",
+      "review": "Heidarian is a great professor. I took her for 121 and 122. Love her engaging lectures, I actually looked forward to class. The labs, which are run by TAs, are relatively easy - just do your best and you'll be fine.\r\n\r\nTip: Make your formula sheets for exams incrementally - as you learn/are introduced to a new formula, add it. It will make exam prep much easier because you can just get right into practice questions instead of spending forever making your formula sheet.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-06-14T21:48:57.444370Z"
+    },
+    {
+      "professor": "Zackaria Chacko",
+      "course": "PHYS121",
+      "review": "class was difficult but chacko made it engaging and was helpful in office hours. Lab definitely was difficult and took help and time from the TA to get excel to work right and lab reports took a while. Exams were medium difficulty but manageable if you study and could do the Expert TA hw questions.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2023-10-26T17:24:12.269008Z"
+    },
+    {
+      "professor": "Zackaria Chacko",
+      "course": "PHYS121",
+      "review": "He curved a gigantic amount for my class (Spring 2023). I had an 88 pre-curve and an A post-curve.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-13T03:17:34.490165Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS121",
+      "review": "Dr. Buehrle is a good professor but the lectures can get boring and luckily he records them so you don't have to go in-person. XTA HW can be quite tricky with some explanations making no sense or us never really learning the concept. 3 Lecture exams, with the lowest being dropped, were quite difficult...but heavily curved. The only bad thing I can say is that the TAs were soooooo slow at grading lab reports and sometimes grading exams (one even grades in pencil...like wtf?). Anyways overall, chill professor and would recommend to anyone.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2023-12-15T17:10:40.724840Z"
+    },
+    {
+      "professor": "Negar Heidarian Boroujeni",
+      "course": "PHYS121",
+      "review": "Dr. Heidarian is a kind and considerate professor, and very helpful during office hours. I would say she goes a bit fast in class, often times it's hard for me to keep up, but perhaps that's a me problem. Her tests are very fair as long as you do the practice problems. She provides a formula sheet for all exams. I highly recommend going over the practice problems she provides and looking at her recorded videos on how to solve them. There are 3 midterms and a cumulative final. She doesn't curve unless the average is below a C.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2023-12-21T00:05:30.677859Z"
+    },
+    {
+      "professor": "Negar Heidarian Boroujeni",
+      "course": "PHYS121",
+      "review": "The only thing I would say that I didn't like about this course was the the grading scale cutoffs. The whole semester I thought an A was a 93% or above (I skimmed through the syllabus and didn't look at that part) but it was a 95%. I understand it's probably because of the extra credits on her exams but even though my midterms averaged at 101 and I got a 90 on the final, I was not able to get an A because of lab assignments. I just feel like she shouldn't have changed the grade cutoffs but she herself is a great professor.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2023-12-22T07:28:08.488788Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS121",
+      "review": "David's just kinda middle of the way. He's nice to talk to and very understanding but his lectures made no sense to me. He spent a lot of time on theory or analogies over mathematical applications. The moment I thought I was finally figuring something out it would move to the next slide and I'd be back at square one. It seems like a lot of others shared this same sentiment as our class averages would consistently be in the 50s before curve.  Speaking of, he does curve pretty generously (once scored a literal 40% on an exam and it turned into a 70%) but I'd rather he just take a different approach to teaching the material than curving everything. The exam questions could get difficult or worded weirdly or focus on certain applications we barely talked about. The thing is, the course content isn't really that difficult, some of the exam questions just get you. It's basically highschool physics so I'd recommend just learning it elsewhere if need be and only show up for exams. \r\n\r\nThe lab portion for my section was horrible. It sounded like there was very little communication between David and the TA's. Once I asked the TA a question regarding the lab report, she told me she would email the prof and get back to me, two weeks pass, and when I asked her again she said he never responded. I ended up just asking him in lecture myself. Lab assignments also took forever to grade and our TA never responded to emails and was MIA for a while. I don't really know how much David is involved with the lab portion and a large part of the experience does just depend on your TA.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2024-04-11T22:20:34.084418Z"
+    },
+    {
+      "professor": "Zackaria Chacko",
+      "course": "PHYS121",
+      "review": "Chacko is super great and his lectures are informative.  He explains things very well.  Lecture and discussions aren't mandatory, but are definitely helpful!  I really don't like physics so I can't say I've been to many lectures or discussions, so you totally can get good grades without going as long as you put in some work outside of class.  The homeworks lowkey suck and expert TA is annoying to use, but if you take the time to learn the material on the homework, you'll be fine on the exams since most of the questions come right from the weekly homeworks.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-07T15:12:59.926452Z"
+    },
+    {
+      "professor": "Zackaria Chacko",
+      "course": "PHYS121",
+      "review": "This class was odd. Chacko does not care in the slightest about this class, but with that he does not care enough to make you fail. His curve was the most insane curve I have ever seen in a class, which makes up for his lack of enthusiasm about teaching. Here is a basic breakdown of his grading policy/class\r\nLabs- Labs are pretty terrible, but he didn\u2019t write the lab manual and I\u2019m pretty sure that\u2019s out of his control. They are worth 20% of your grade, but if you score over a 75% average on the reports that counts as a 100%\r\nHomework- These can be really easy or really suck. He\u2019s uses the platform ExpertTA which is the worst, however about half of the test comes directly from the homework just with different numbers so I recommend doing it. Homework is with 20% of your grade, but if you get over a 66.7% that counts as a 100%\r\nMidterms- There were only two midterms, each worth 15% of your grade, and most of the problems come directly from the homework. The problems that don\u2019t come from the homework you will not be able to solve :')\r\nFinal- The final is literally just an extra midterm but worth 30% of your grade. Same format, noncumulative  \r\nQuizzes- Discussion quizzes are all extra credit and can add on 5% to your grade. There are 12 of them, worth 2 points each, and if you get 20/24 points that counts as the full 5%\r\nSo while this class is painfully confusing the curve makes up for it. By the time the final came around, if I just didn\u2019t take it I would have had a B and I only had a 70% average on the tests. Other people had 50% averages on the exams and still would have passed if they didn\u2019t take the final. Also the grades on canvas aren\u2019t your actual grade which is kinda annoying, by my angel of a TA made us a grading calculator. If you have a bad TA this class may be terrible, I genuinely think my TA is who made my experience bearable. I love you Ina <3",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2024-05-17T13:45:56.509214Z"
+    },
+    {
+      "professor": "Peter Shawhan",
+      "course": "PHYS121",
+      "review": "Nice guy, good at making sure you understand, but a *very* tough grader. The homework will kill you, but because you get used to that it kind of makes the exams easier.",
+      "rating": 4,
+      "expected_grade": "B-",
+      "created": "2024-11-21T18:02:16.063872Z"
+    },
+    {
+      "professor": "Preston Ohanuka",
+      "course": "PHYS121",
+      "review": "The best TA. Can explain any problem you have in your lab in a heartbeat. Pretty generous grader.",
+      "rating": 5,
+      "expected_grade": "B-",
+      "created": "2024-11-21T18:04:16.529400Z"
+    },
+    {
+      "professor": "Aria Heidarian",
+      "course": "PHYS121",
+      "review": "Dr. Heidarian has set this course up for your success. Additionally, she has decent office hours, and is willing to help you if you need it. The lectures don't really follow the slides on Canvas, but then again, I never paid any attention during lecture, so I couldn't really say. You lose out on working through examples by only reading the posted slides, but it will get the content covered so you can do well on the exams. The grading structure is a little harsh, with needing a 95% to get an A, but then again, with how generously the course is graded, that should be quite achievable. The homework is on ExpertTA, which sucks ass but does mean you can get incredible partial credit on it, so that boosts your grade a lot if you overcome the urge to smash your laptop when it tells you for the fourth time that the answer is wrong with no specific feedback (still an 88% on that question if you get it right the fifth time). Anyways. The lab for this class is brutally stupid, and especially doing the reports was sometimes a shot in the dark because of a lack of real instructions and feedback (I didn't get grades + feedback on many of my labs until six weeks after doing them, in which time six other reports were due, so no chance to improve), but they aren't actually hard from a math or conceptual standpoint. We got a 10% curve on our second midterm when the averages were low, so that was nice. Overall this class is easy, so I think the expectations the Professor has are reasonable and quite generous.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-09T02:31:09.931195Z"
+    },
+    {
+      "professor": "Aria Heidarian",
+      "course": "PHYS121",
+      "review": "Dr. Heidarian is a very lenient person and has pushed back assignments when needed and gives plenty of practice problems to work off of, especially for each midterm. I will say that I honestly struggled with the content but as long as you understand the practice problems she provides to you prior to each midterm your bound to do well because those are almost identical to what you see on the exams.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2024-12-11T03:10:56.540810Z"
+    },
+    {
+      "professor": "Peter Shawhan",
+      "course": "PHYS121",
+      "review": "I would lowkey get bored in lectures but he would always pull up the most random experiment related to lecture to lure us all back in. Tests are exactly like the homeworks but with some extra conceptual problems thrown in, but they are graded out of 50 points so 2 questions wrong are you're done. If you have taken MATH120 or MATH140 this will be similar in difficulty but yeah. He seems pretty nice as a professor and he did give us a slight bonus point booster on the first test. If you are not a science major and have to take this for any other major you're probably going to struggle not gonna lie.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2024-12-16T16:31:24.905663Z"
+    },
+    {
+      "professor": "Peter Shawhan",
+      "course": "PHYS121",
+      "review": "Professor Shawhan\u2019s class is complete bogus. Going to class is not helpful at all, as all he does is discuss theory and does demonstrations, which are not helpful in the slightest for the homework, and by extension the exams which are based on the homeworks. The labs are also atrocious, as the TAs get so far behind on grading the reports and are very cryptic in their expectations for them, and in grading them at the end of the semester (likely in a rush) it\u2019s as if they did not read them at all. My TA for this course was the worst TA I\u2019ve had throughout my college career. Overall, if you can teach yourself physics well, you\u2019ll be fine, however this class is a PITA for no reason.",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2024-12-21T18:37:22.585193Z"
+    },
+    {
+      "professor": "Peter Shawhan",
+      "course": "PHYS121",
+      "review": "He not a good, not even decent professor. His lecture slides are mostly useless brining in concepts from engineering level courses that will not even show up on your exam. Eventually wasting your time. There is nothing to prepare you for the exams like old exams or practice questions besides the ones he picks from expert ta which are mostly too difficult for the course level. His curve is almost non existent for a class with exam averages that are F and D. Lecture is useless honestly since he just yaps and reads off formulas. Exam questions are weirdly worded and structured requiring you to have a proficient level of physics understanding. Quizzes are as bad as the exams. Home works take hours to complete even including knowledge we have not learned or relevant to the class. In general by any means avoid this man, even if you have to postpone the class a semester or so. He might be nice but hes not built to teach lower level of physics courses that only require basic algebra and understanding. People giving him 4 stars might be people that have previously taken physics so the class seemed easy but if I could I would give him 0 stars.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-01-27T20:57:17.123689Z"
+    },
+    {
+      "professor": "Aria Heidarian",
+      "course": "PHYS121",
+      "review": "Her lectures are pretty fast paced, but i love that she uploads her notes so quickly. What I've been doing is that i have her for tuesdays and thursdays. on tuesdays when i go to lecture, ill review her notes the next day and google/watch videos to review any concepts i fully cant grasp, i'll also like rewrite my notes with her notes and my notes from lecture. I basically do this twice a week and constantly memorize the formulas whenever I can. Then by the end of the week i compile my notes into a weekly review and it makes her class so light just wanted to share to help any of you. If you ask her questions shes great at answering them too.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-03-07T21:35:02.028660Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS121",
+      "review": "Every review about Beuhrle is kinda right. He's a really nice guy, and his lectures were actually quite interesting. He was always readily available by email, and communicated exactly what was expected of us in class. He always recorded lectures, and posted the slides, so actually going to lecture wasn't necessary. There was a weekly homework assignment that took around 3-4 hours, and was really your best bet for studying for the exams. There were also weekly quizzes that were entirely conceptual, and took about 10 minutes. Apart from that, the lab section of this course was entirely unrelated and just a grade booster (worth 20% of your grade). The exams were HARD, and I mean like everyone failed hard. We consistently had 20-40% curves on the exams, with your lowest score being dropped. Overall, if you already know basis physics you will do well in this course, and he isn't a bad choice!",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2025-04-20T20:38:46.270266Z"
+    },
+    {
+      "professor": "Ki-Yong Kim",
+      "course": "PHYS121",
+      "review": "The sweetest guy. He is so excited about this class, and does his best to make it interesting. He is also very accommodating, as other reviews have mentioned. I joined the class a week late, and he gave me more than enough time to catch up, all you have to do is be transparent and ask for help. I have never taken physics once in my life before this, so it was certainly a struggle. You need to put in plenty of time. He does NOT use a textbook which is frustrating, so buy the suggested book (it is NOT a waste of money). He goes super quick in his lectures, so you definitely need to review by yourself. Also, he provides the formula sheets, you do NOT get to make your own. So make sure you understand the formulas because the formula sheets give very little. You also have to infer on a lot of things, but if you get the hang of the problems you'll see, you'll do fine. DO THE HOMEWORK, there will be some crazy questions from there that will be on the exam. Overall, I would recommend him for someone who just needs PHYS121 for their major.",
+      "rating": 3,
+      "expected_grade": "B-",
+      "created": "2025-05-05T19:56:08.287868Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS121",
+      "review": "It's a chill class. I came in with a little bit of physics knowledge and did not show up to lecture that much ;-;. The curves are insane for this class and he drops your lowest. There are weekly quizzes and hw that require a little bit of your time. He provides practice for exams which are helpful (except exam 2, the practice was not helpful at all). He's a really nice professor, never really spoke to him tho. He replies to emails fast and seem genuinely interested in what he is teaching. The only downside to this class are the labs. They are kind of all over the place. Sometimes the wording on the lab is incorrect or they provide you with the wrong equation. My TA was really nice and basically explained step by step what needed to be done and if we were doing something wrong. \r\n\r\nAlthough David's reviews are kind of on the lower end I do recommend him since he seems to be one of the better professors in the physics department.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-05-15T23:23:03.044849Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS121",
+      "review": "Talks super quietly and monotone. Stopped going to lecture but he doesn't post any notes just the slides. But I guess hes probably the best option.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-06-08T03:22:21.513660Z"
+    },
+    {
+      "professor": "Joshua Ha",
+      "course": "PHYS121",
+      "review": "Josh is a great physics TA; unfortunately this isn't reflected in the grades his section got this semester. He is very good at explaining concepts, going over practice problems, and helping with lab procedures.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-01T18:11:23.725813Z"
+    },
+    {
+      "professor": "Joshua Ha",
+      "course": "PHYS121",
+      "review": "I had Josh as my TA for my PHYS121, and he was great. He held zoom reviews the day before midterms, and they were super helpful. He'll take the time to explain things to you and stay late if your lab runs late. He provides incredibly helpful information on formulas for labs, requirements for lab reports, and feedback on exams, quizzes, and lab reports. Such a nice, chill guy and a great TA!",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2025-12-03T19:23:09.889274Z"
+    },
+    {
+      "professor": "Aria Heidarian",
+      "course": "PHYS121",
+      "review": "She moves a little fast and it's a fairly hard subject but she gives you more than enough resources and chances to succeed so if you put in the effort you should be fine.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-12-07T17:14:56.673159Z"
+    },
+    {
+      "professor": "Aria Heidarian",
+      "course": "PHYS121",
+      "review": "Such a good professor, her lectures are quick, and she starts right on the dot, so don't be late. She posts her notes from every lecture and even curved our second midterm. She dropped the lowest midterm grade, I highly recommend taking midterm 3 as it covers easier chapters. She has HW assignments on Pearson that are easy and offer extra credit questions, which are really helpful. She responds to questions on Piazza quickly with helpful feedback. Your lab portion of the grade relies heavily on your TA, I had a great one, so that's all up to luck. Heidarian explains really well with helpful examples in lecture, and she posts practice problems for every midterm. I highly recommend her for PHYS121!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-09T00:19:02.938555Z"
+    },
+    {
+      "professor": "Peter Shawhan",
+      "course": "PHYS121",
+      "review": "His lectures are rather useless for the quizzes and exams. Everything is based on the homework, which is a much higher level than the readings or base of the class. Everyone I know is struggling since applied math is difficult for those of us who don't have any math knowledge outside of Math140 at the most. He is a fine professor, but his teaching expects too much from students who have no knowledge or experience going into physics.",
+      "rating": 2,
+      "expected_grade": "C",
+      "created": "2025-12-13T18:36:14.306909Z"
+    },
+    {
+      "professor": "Joshua Ha",
+      "course": "PHYS121",
+      "review": "A little quick on review and got a little impatient when students had questions. Ok TA.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-12-17T15:42:40.943920Z"
+    },
+    {
+      "professor": "Aria Heidarian",
+      "course": "PHYS121",
+      "review": "Honestly such a great person and lecturer. She goes pretty fast in class so can be hard to keep up, but she posts all of her notes after class. She drops the lowest midterm and provides an extra credit problem on each of the exams. Her exams are just like the practice problems provided. Discussion is mandatory (quiz each week) but is not difficult. Most labs don't take the full time. There are 11 total homework assignments on Pearson but there are also always extra credit problems for them. Overall such a great professor and wish I had her again.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-12-19T23:37:38.479484Z"
+    },
+    {
+      "professor": "Peter Shawhan",
+      "course": "PHYS121",
+      "review": "He\u2019s definitely one of my favorite professors at UMD. This class is not easy for sure if you are not familiar with the content. He might not be the best to explain materials that you need for exams but he\u2019s really passionate about what he\u2019s teaching and he will answer all your questions during the office hours, which he usually hold more than 4 hours per week. I would definitely recommend to take this class with him you will learn so much from it!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-20T03:20:13.781909Z"
+    },
+    {
+      "professor": "Ki-Yong Kim",
+      "course": "PHYS121",
+      "review": "The nicest guy ever. You can tell he truly knows physics. Does have an accent but I did not find it hard to understand at all. If you just talk to him, he genuinely wants to get to know you and help you excel in the course! His lecture attendance is for extra credit (1-2%) but the slide problems will help you on the exams tremendously.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2026-04-15T22:34:47.693905Z"
+    }
+  ],
+  "department": "PHYS",
+  "course_number": "121",
+  "name": "PHYS121",
+  "title": "Fundamentals of Physics I",
+  "credits": 4,
+  "description": "<b>Prerequisite:</b> MATH112 or MATH115.\n<b>Credit only granted for:</b> PHYS121, PHYS131, or PHYS331.\nThe first part of a two-semester course in general physics treating the fields of mechanics, heat, sound, electricity, magnetism, optics, and modern physics. Together with PHYS122, this generally satisfies the minimum requirement of medical and dental schools.\n<i>Physics Clinic, PHY 1214, MTWHF 12,2. If purchasing used books additional software may be required. Students must pay a $50.00 lab materials fee.</i>",
+  "is_recent": true,
+  "geneds": null
+}
