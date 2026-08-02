@@ -11,9 +11,7 @@ reading the review and deciding by hand. Weak labels are useful and much better 
 nothing, but they can be wrong or miss context a human would catch — that is why the Week 7
 audit found 4 out of 10 checked labels to be "ambiguous" even though none were "corrected."
 A label only becomes human-verified after someone spot-checks it, the way the Week 7 audit
-did on a small sample. Any accuracy or F1 number reported for a model in this project
-measures how well the model matches these weak labels, not a fully human-verified ground
-truth — that distinction should be stated whenever those numbers are shared.
+did on a small sample. 
 
 ## How to label
 
@@ -22,7 +20,6 @@ Each review can have more than one label.
 Use `1` if the review clearly supports the label.  
 Use `0` if the review does not support the label.
 
-If the review is vague, leave a note instead of forcing the label.
 
 ## Workload labels
 
