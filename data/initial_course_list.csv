@@ -1,9 +1,33 @@
 course_id,reason_selected,source
-CMSC216,Mentioned in student interview/common required CS systems course,interview
-CMSC250,Mentioned in student interview/ common required CS discrete math course,interview
-CMSC330,Mentioned in student interview and known workload-heavy CS course,interview
-CMSC351,Mentioned in student interview and known workload-heavy CS algorithms course,interview
-STAT400,Mentioned in student interview as part of risky schedule combination,interview
-MSML604,Mentioned in student interview as part of heavy graduate course combination,interview
-MSML605,Mentioned in student interview as part of heavy graduate course combination,interview
-MSML606,Mentioned in student interview as part of heavy graduate course combination,interview
+CMSC131,Intro CS course with broad student review coverage,course_pool
+CMSC132,Required CS programming course with workload reviews,course_pool
+CMSC216,Required CS systems course from student interviews,interview
+CMSC250,Required CS discrete math course from student interviews,interview
+CMSC320,Data science course with project and homework signals,course_pool
+CMSC330,Known workload-heavy CS course from student interviews,interview
+CMSC335,Software/application course with project workload signals,course_pool
+CMSC351,Algorithms course from student interviews,interview
+CMSC411,Systems architecture course with exam and project signals,course_pool
+CMSC412,Operating systems course with heavy workload signals,course_pool
+CMSC414,Security course with mixed workload reviews,course_pool
+CMSC420,Data structures course with project and exam signals,course_pool
+CMSC421,AI course with project and homework signals,course_pool
+CMSC422,Machine learning course with project and exam signals,course_pool
+CMSC424,Database course with project workload signals,course_pool
+CMSC430,Programming languages course with project workload signals,course_pool
+CMSC433,Programming language technologies course with project workload signals,course_pool
+CMSC451,Algorithms elective with exam-heavy signals,course_pool
+CMSC460,Computational methods course with homework/exam signals,course_pool
+CMSC470,NLP course adjacent to project scope,course_pool
+MATH140,Common STEM math course with exam workload signals,course_pool
+MATH141,Common STEM math course with exam workload signals,course_pool
+MATH240,Linear algebra course with homework/exam signals,course_pool
+STAT400,Student interview course and schedule-risk example,interview
+STAT401,Statistics course adjacent to STAT400,course_pool
+INST326,Python/data course with project workload signals,course_pool
+INST327,Database course with project workload signals,course_pool
+INST414,Data science techniques course with project workload signals,course_pool
+INST447,Data sources course with project workload signals,course_pool
+MSML604,Graduate ML course from team schedule example,interview
+MSML605,Graduate ML course from team schedule example,interview
+MSML606,Graduate algorithms course from team schedule example,interview
