@@ -2,6 +2,7 @@ from pathlib import Path
 
 from simple_report_cli import (
     build_course_inputs,
+    get_low_evidence_courses,
     load_course_signals,
     parse_courses,
 )
@@ -49,6 +50,30 @@ def test_build_course_inputs_flags_unknown_courses():
     assert courses_without_data == ["MATH410"]
 
 
+def test_get_low_evidence_courses_flags_courses_with_low_evidence():
+    courses = [
+        {"course_code": "CMSC330", "low_evidence": False, "review_count": 50},
+        {"course_code": "MSML604", "low_evidence": True, "review_count": 3},
+    ]
+
+    result = get_low_evidence_courses(courses)
+
+    assert result == [("MSML604", 3)]
+
+
+def test_get_low_evidence_courses_ignores_courses_without_the_flag():
+    # Unknown courses (no signals at all) must not crash or be treated as
+    # low evidence - they are handled separately as "no data yet".
+    courses = [
+        {"course_code": "MATH410"},
+        {"course_code": "CMSC330", "low_evidence": False, "review_count": 50},
+    ]
+
+    result = get_low_evidence_courses(courses)
+
+    assert result == []
+
+
 def test_load_course_signals_returns_empty_dict_when_file_missing():
     # A path that should never exist, so this doesn't depend on
     # data/course_workload_signals.json being present or up to date.
@@ -64,6 +89,8 @@ TESTS = [
     test_parse_courses_ignores_empty_entries,
     test_build_course_inputs_uses_known_signals,
     test_build_course_inputs_flags_unknown_courses,
+    test_get_low_evidence_courses_flags_courses_with_low_evidence,
+    test_get_low_evidence_courses_ignores_courses_without_the_flag,
     test_load_course_signals_returns_empty_dict_when_file_missing,
 ]
 

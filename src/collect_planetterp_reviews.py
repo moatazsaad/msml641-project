@@ -16,7 +16,7 @@ import os
 import requests
 
 BASE_URL = "https://planetterp.com/api/v1/course"
-#need cahche so we dont hammer api
+#need cache so we dont hammer api
 COURSE_LIST_PATH = Path("data/initial_course_list.csv")
 CACHE_DIR = Path("data/cache/planetterp")
 OUTPUT_PATH = Path("data/raw_planetterp.csv")

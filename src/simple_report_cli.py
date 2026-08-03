@@ -41,7 +41,18 @@ def build_course_inputs(course_codes, course_signals):
     return courses, courses_without_data
 
 
-def print_report(course_codes, result, courses_without_data):
+def get_low_evidence_courses(courses):
+    """Return (course_code, review_count) for courses with too few reviews
+    to trust their workload signals, instead of presenting thin data as fact."""
+
+    return [
+        (course["course_code"], course.get("review_count", 0))
+        for course in courses
+        if course.get("low_evidence")
+    ]
+
+
+def print_report(course_codes, result, courses_without_data, low_evidence_courses):
     print("\nTerpLoad Prototype Report")
     print("-------------------------")
     print("Selected courses:", ", ".join(course_codes))
@@ -57,6 +68,11 @@ def print_report(course_codes, result, courses_without_data):
 
     if courses_without_data:
         print("\nNo review data yet for:", ", ".join(courses_without_data))
+
+    if low_evidence_courses:
+        print("\nLimited evidence (treat these signals as a rough guess, not a fact):")
+        for course_code, review_count in low_evidence_courses:
+            print(f"- {course_code}: based on only {review_count} review(s)")
 
     print("\nNote:")
     print("Workload signals come from a TF-IDF model trained on a small,")
@@ -82,8 +98,9 @@ def main():
         course_codes, course_signals
     )
     result = estimate_schedule_risk(courses)
+    low_evidence_courses = get_low_evidence_courses(courses)
 
-    print_report(course_codes, result, courses_without_data)
+    print_report(course_codes, result, courses_without_data, low_evidence_courses)
 
 
 if __name__ == "__main__":
