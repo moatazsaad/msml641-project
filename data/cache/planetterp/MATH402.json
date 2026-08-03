@@ -1,0 +1,75 @@
+{
+  "average_gpa": 2.3843683083511777,
+  "professors": [
+    "Frances Gulick",
+    "Joel Cohen",
+    "McBlaine Boyle",
+    "Kendall Williams",
+    "Horst Winkelnkemper",
+    "Steven Chadwick",
+    "Allan Yashinski",
+    "Christian Zickert",
+    "Yordanka Kovacheva",
+    "Todd Rowland",
+    "Steven Chadwick",
+    "Todd Rowland",
+    "Steven Chadwick",
+    "Todd Rowland",
+    "James Conway",
+    "Steven Chadwick",
+    "James Conway",
+    "Zengrui Han",
+    "Guillaume Dumas",
+    "Kendall Williams"
+  ],
+  "reviews": [
+    {
+      "professor": "Denny Gulick",
+      "course": "MATH402",
+      "review": "Best math professor in the dept. He really cares about every student. HW was assigned every class, but was not difficult. A few pop quizzes some of which were just attendance quizzes. 3 exams. He feels definitions and theorems are very important so there will be some on exams. Each exam we were able to do test corrections. Grades were spread usually as below 50 and above 70. If you go to class, pay attention, do the little HW's you're fine.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2010-01-04T16:36:00Z"
+    },
+    {
+      "professor": "Joel Cohen",
+      "course": "MATH402",
+      "review": "I tend to look the other way when I see negative reviews on a prof., but the negative response for Cohen is accurate.  He is a nice guy, cares  for his students, and will help in office hours, but that is where the positive comments stop.  Homeworks are on par with what you expect from 400 level courses, challenging and balanced.  His exams are insane.  We just got back exam one and the average is probably in the 30s (10-15% of the class got above a 60).  He gives you a makeup problems worth another 20-25 points (also really difficult), but this would still leave test averages about 20 points south (best case) of where they should be.  His writing is illegible and he moves too fast.  I write everything he does, but he will go off to a different topic on another part of the board and screw up my notes.  I look back at everything I noted on and it usually makes little to no sense.\n\r\nThe book is your teacher.\n\r\nI won't know how to study for the next test.  Exam 1 was way off of test bank exams for this class (could do those fairly easily).  Take someone else if you can.",
+      "rating": 2,
+      "expected_grade": "C",
+      "created": "2011-10-06T13:36:00Z"
+    },
+    {
+      "professor": "Allan Yashinski",
+      "course": "MATH402",
+      "review": "God tier. Easy to understand; presents theorems followed by examples. Midterms are mostly straightforward with one or two fun, more challenging problems. Interesting material.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2019-05-04T19:59:19Z"
+    },
+    {
+      "professor": "Steven Chadwick",
+      "course": "MATH402",
+      "review": "Dr. Chadwick is great - I found his lectures to be effective, he was happy to answer any questions during lecture, and he was very accommodating. Gives reasonable quizzes and exams.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2021-12-17T01:13:08Z"
+    },
+    {
+      "professor": "Todd Rowland",
+      "course": "MATH402",
+      "review": "Probably the nicest proffessor I've met. Uploaded all his lecture notes. Held review sessions on zoom before every exam including the final. All his exams were fair; the questions were pretty easy as long as you were familiar with the material. There were 3 midterms, the lowest of which was weighted as half the points as the rest. Geniunly cares for his students and tries to learn everyone's names.\r\n\r\nAs for the negatives, there are two. The homeworks were kind of hard. It invloved reading from an online textbook and answering the texbook question. Personally I found the textbook confusing, but that seems to be more an issue with the material. Secondly, lectures felt unprepaired at times. He always had something planned for lecture and would try to go over the previous homework, but sometimes he would work an example until he realized he answer was wrong about 5 minutes in.\r\n\r\n Overall, I would really recommed this proffessor to anyone considering him. His classses are more than fair.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2022-05-17T20:17:36Z"
+    }
+  ],
+  "department": "MATH",
+  "course_number": "402",
+  "name": "MATH402",
+  "title": "Algebraic Structures",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> 1 course with a minimum grade of C- from (MATH240, MATH341, MATH461).\n<b>Restriction:</b> Must not be in any of the following programs (Mathematics (Master's); Mathematics (Doctoral)).\n<b>Credit only granted for:</b> MATH402 or MATH403.\nFor students having only limited experience with rigorous mathematical proofs. Parallels MATH403. Students planning graduate work in mathematics should take MATH403. Groups, rings, integral domains and fields, detailed study of several groups; properties of integers and polynomials. Emphasis is on the origin of the mathematical ideas studied and the logical structure of the subject.",
+  "is_recent": true,
+  "geneds": null
+}

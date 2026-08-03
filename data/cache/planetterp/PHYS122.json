@@ -1,0 +1,197 @@
+{
+  "average_gpa": 3.323449750534569,
+  "professors": [
+    "David Buehrle",
+    "Sergio Picozzi",
+    "Ki-Yong Kim",
+    "Rene Springuel",
+    "Manuel Tiglio",
+    "George Sherwood",
+    "Sharon Roosevelt",
+    "Negar Heidarian Boroujeni",
+    "Hailu Gebremariam",
+    "Shabnam Jabeen",
+    "Matthew Severson",
+    "Negar Heidarian Boroujeni",
+    "Negar Heidarian Boroujeni",
+    "Negar Heidarian Boroujeni",
+    "Hailu Gebremariam",
+    "Hailu Gebremariam",
+    "Negar Heidarian Boroujeni",
+    "Negar Heidarian Boroujeni",
+    "Aria Heidarian",
+    "Aria Heidarian",
+    "Carter Hall",
+    "Peter Shawhan",
+    "Aria Heidarian",
+    "Xiangdong Ji",
+    "Aria Heidarian",
+    "Carter Hall",
+    "Erin Sohr",
+    "Alexander Conte",
+    "Chandra Turpen",
+    "Aria Heidarian"
+  ],
+  "reviews": [
+    {
+      "professor": "Bei Lok Hu",
+      "course": "PHYS122",
+      "review": "I don't recommend taking physics with Dr. Hu. For one thing, it's pretty difficult to understand what he says half the time because of his accent. Also, he never really explained concepts fully. He would derive equations, which sometimes had different symbols from those given in our textbook; PHYS122 is an introductory physics course- we are expected to know concepts and not derivation of equations, especially since this course is not calculus-based. He would go over problems using the derived equations but they were difficult to follow because he never really would explain WHAT the concepts were. Furthermore, his lectures were Powerpoint presentations often containing images and excerpts from our textbook. In a class such as physics where going over problems step by step helps in explaining concepts, powerpoint presentations were completely ineffective and useless. Using the blackboard would have been a much better approach to teaching this course. Dr. Hu also sometimes never completed problems that he started; thus, often my notes were incomplete. \r\nI feel that a majority of the class got by because most of the problems on the exams and quizzes were similar to (or the exact same) suggested review problems that he gave from the textbook as well as our homework problems (which were from the textbook as well). I suppose the predictability of the problems on the exams etc was one good side to Dr. Hu's teaching. This allowed me to get an A+ in the course, despite Dr. Hu's poor teaching skills. \r\nI believe Dr. Hu is very knowledgeable and also friendly and easy to approach; however, he does not seem to be the best professor.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2009-07-08T17:53:00Z"
+    },
+    {
+      "professor": "Bei Lok Hu",
+      "course": "PHYS122",
+      "review": "Dr. Hu was a very difficult professor to follow and I do not recommend him at all.  He used notes and examples from a different textbook, and would jump into topics without explaining basic concepts such as what is a wave, or what is electricity.  Even though our course was a non-calculus based course, he relied heavily on mathematical explanations instead of actually explaining concepts conceptually.  He rarely worked through examples from the course textbook FULLY, from start to finish.  His demonstrations were not effective as many students did not understand the scientific principles behind them.  Very few students attended lecture as the course was not tailored to the abilities, background knowledge, and interests of non-physics major undergraduates.\n\r\nThe only good thing is that the exams were fair (textbook problems - nothing like the weird examples from class) and I liked that we could use notecards for them.  There were also weekly quizzes (no notecards) consisting of a textbook problem and weekly homework sets of ~8 hw problems.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2009-05-03T15:25:00Z"
+    },
+    {
+      "professor": "Ki-Yong Kim",
+      "course": "PHYS122",
+      "review": "Dr. Kim is a great professor! I don't know what these other reviews are talking about. Yes, he has an accent. So what? He does explain well, and he genuinely cares about how well his students do. He makes himself very accessible with multiple office hours and quick responses via email. He does the coolest demos ever! Sometimes I felt more like I was watching a magic show than sitting in physics lecture. I was actually excited to go to class, and I don't even like physics! Just go to class! He even made the class before every exam a review session and told us exactly what to study. If you go to class, pay attention, and do what he says you will do well. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2013-12-23T18:31:00Z"
+    },
+    {
+      "professor": "Ki-Yong Kim",
+      "course": "PHYS122",
+      "review": "He was not very good at conveying information for the course. Boring lectures. Thick accent. I learned from the book. Big curve though.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2013-08-23T15:13:00Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS122",
+      "review": "Ouch this guy is so outta whack. Do your GPA a favor, take someone else. His exams are all over the places. If your physic is semi ok, you'll feel like crap when taking his exams. I don't understand why he doesn't write his own exam that is related to what's teaching in the classroom, but instead he takes some questions from college board website, probably copy and paste and said he wrote them. At the end of the class, I think he curved like 1% or something geez. ",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2013-09-04T00:09:00Z"
+    },
+    {
+      "professor": "Edward Redish",
+      "course": "PHYS122",
+      "review": "DO NOT TAKE REDISH! He intentionality tries to trick students on his exams and is proud of it. He will often say, \"don't just memorize the equation or I will trick you on the exam and you will get it wrong.\" This idea would not be bad if he actually taught the material correctly. Instead of doing any practice problems during class, he will ask a question and then just make it a clicker question. In phys121 I took a different teacher and got an A fairly easily, but this semester I am struggling to make a B. Additionally, on his homework he will include several non-physics questions that are usually very hard to figure out and will bring down your grade. Overall, this class is very weird and is not taught correctly for a student to succeed. ",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2011-03-19T15:25:00Z"
+    },
+    {
+      "professor": "Edward Redish",
+      "course": "PHYS122",
+      "review": "I had him for both 121 and 122 and hes a great professor!! His techniques seem weird at first but once you get the concepts you'll always remember them. I'm studying for MCATS right now and I can tell you that all the concepts I learned in his class are of great help to me and the ones I didnt fully understand are coming back to haunt me ",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2010-07-20T20:46:00Z"
+    },
+    {
+      "professor": "Negar Heidarian Boroujeni",
+      "course": "PHYS122",
+      "review": "Lectures can be really dry but she's super nice and accommodating. Gives 20+ points worth of extra credit questions for each exam.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2020-05-06T17:24:25Z"
+    },
+    {
+      "professor": "Negar Heidarian Boroujeni",
+      "course": "PHYS122",
+      "review": "Heidarian is a great professor. I took her for 121 and 122. Love her engaging lectures, I actually looked forward to class. The labs, which are run by TAs, are relatively easy - just do your best and you'll be fine.\r\n\r\nTip: Make your formula sheets for exams incrementally - as you learn/are introduced to a new formula, add it. It will make exam prep much easier because you can just get right into practice questions instead of spending forever making your formula sheet.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2023-06-14T21:49:32.888808Z"
+    },
+    {
+      "professor": "Negar Heidarian Boroujeni",
+      "course": "PHYS122",
+      "review": "Took PHYS121 with her and currently taking PHYS122. She is a great professor and makes sure you are on track. She provides practice sets for each exam which is similar to the actual exams. Also, she is accommodating to the exam scores and will curve if necessary. Very patient and overall a great professor.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2023-11-20T23:37:45.337857Z"
+    },
+    {
+      "professor": "Negar Heidarian Boroujeni",
+      "course": "PHYS122",
+      "review": "I took PHYS121 with her and now 122, she is a wonderful professor! Really helpful and explains all the topics, even content covered in labs. Her practice sets and solutions are super helpful in studying for exams and I feel that the grading is very fair.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-08T22:36:23.073694Z"
+    },
+    {
+      "professor": "Negar Heidarian Boroujeni",
+      "course": "PHYS122",
+      "review": "Amazing and informative professor! Dr. Heidarian is very kind and approachable with any questions! She does go rather quickly during lectures and does a lot of practice problems. For lecture exams (she drops the lowest), she gives you an extensive practice problem sheet (DO ALL OF THEM) to work on prior to exams (actual exam questions I felt were easier). She does give a curve to some exams if she believes the averages were low, but my class averages were in the 80s. The only \"con\" I would say is the cut-off for an A- and A is 95% which is rather high... Overall, amazing professor and highly recommend any student to take physics with her!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-20T17:27:48.278523Z"
+    },
+    {
+      "professor": "Aria Heidarian",
+      "course": "PHYS122",
+      "review": "Dr. Heidarian is one of the best and most compassionate professors I have ever had at UMD. She truly does want you to succeed and will to whatever she can to ensure you are doing well in her class. The only thing keeping me from giving 5 starts is the lecture style. Dr. Heidarian's lectures can be extremely dry and disorganized. We would sometimes spend 35 minutes in class deriving an equation that we would only use once or twice on an exam question. The notes were often all over the place, and the material was talked about very quickly, so it was difficult to immediately grasp the content. However, the notes were posted onto ELMS, which was extremely helpful for studying. Aside from that, the class is set up for your success. Homework is 20% of the grade and immensely boosts it. One of three midterms are dropped, and labs are easy points so long as you cover all of the concepts. Overall, if you can sit through a dry lecture with an amazing professor and learn some of the information on your own, you can easily get an A in this class.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-12-06T15:33:38.457458Z"
+    },
+    {
+      "professor": "Aria Heidarian",
+      "course": "PHYS122",
+      "review": "Such a good teacher, just follow her notes and review a couple times a week and you are set up for success. Review practice problems like your life depends on it and it will pay off not hard to not get an A, i just didnt put the time into trying.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-05-24T15:13:53.345134Z"
+    },
+    {
+      "professor": "Aria Heidarian",
+      "course": "PHYS122",
+      "review": "Dr. Heidarian is truly the best professor I have ever had at UMD. As a pre-med, she tailors the course to also include topics that will definitely appear on the MCAT. Super helpful to take before you start studying for it. She truly cares for her students and is on your team. She will answer any question and provides you with the material to easily succeed, it's just up to you to study. I could not recommend her enough.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-05-27T16:23:06.984255Z"
+    },
+    {
+      "professor": "Aria Heidarian",
+      "course": "PHYS122",
+      "review": "Wonderful and kindhearted professor. Let me start off by saying I SUCK at Physics, always have. However, Dr. Heidarian's lectures genuinely captivated me and I found her to be very caring when it came to our success. She made me genuinely like the subject and feel like I could do well in her class. I ended with a B+ due to focusing more on Organic Chemistry (curse you orgo!!) but I genuinely mean it when I say an A is more than attainable as long as you spend some time studying and understanding the concepts. Her exams are not difficult and she provides one very fair extra credit question on each one. Additionally, her pp sets are great practice for the exams and genuinely helped me understand things better. If you are going to take a Physics class in any capacity, PLEASE TAKE IT WITH HER!",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2025-12-17T23:15:18.450736Z"
+    },
+    {
+      "professor": "Negar Heidarian Boroujeni",
+      "course": "PHYS122",
+      "review": "Goat, easy tests and a good lecturer. She's literally awesome take her if you have the chance. The only issue with her class is that to get an A and not an A- you need a 95 instead of a 93, which can be annoying, but thats largely because everyone does so well!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-21T17:55:02.476355Z"
+    },
+    {
+      "professor": "Aria Heidarian",
+      "course": "PHYS122",
+      "review": "Best physics prof at umd by a landslide. I had burle for 121 and failed every exam even though I went to every one of his class because his exams didnt reflect what we learned. Aria on the other hand, her lecture notes and practice problems are exactly what you need to know for the exam. She dropped our lowest midterm and I was able to receive an A-.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-12-22T00:22:40.819737Z"
+    },
+    {
+      "professor": "Aria Heidarian",
+      "course": "PHYS122",
+      "review": "She was a great lecturer. She knew what she was talking about, and she was actually teaching rather than just reading from her slides. She is also very kind. She gives a lot of practice problems, and those problems reflect what will be on the exam. I think her exams were very fair.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2026-02-14T12:35:18.258791Z"
+    }
+  ],
+  "department": "PHYS",
+  "course_number": "122",
+  "name": "PHYS122",
+  "title": "Fundamentals of Physics II",
+  "credits": 4,
+  "description": "<b>Prerequisite:</b> PHYS121; or students who have taken courses with comparable content may contact the department.\n<b>Credit only granted for:</b> PHYS122, PHYS132, or PHYS332.\nA continuation of PHYS121, which together with it, generally satisfies the minimum requirement of medical and dental schools.\n<i>Physics Clinic, PHY 1214, MTWHF 11,2. If purchasing used books additional software may be required. Students must pay a $50.00 lab materials fee.</i>",
+  "is_recent": true,
+  "geneds": null
+}

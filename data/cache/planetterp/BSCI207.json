@@ -1,0 +1,1783 @@
+{
+  "average_gpa": 2.8070320699708455,
+  "professors": [
+    "Bretton Kent",
+    "William Higgins",
+    "Eric Haag",
+    "Todd Cooke",
+    "Jeffrey Firestone",
+    "Karen Carleton",
+    "Leo Shapiro",
+    "Jeffrey Jensen",
+    "Jeffrey Shultz",
+    "Marcia Shofner",
+    "Nicholas Fletcher",
+    "Nicholas Fletcher",
+    "Karen Carleton",
+    "Nicholas Fletcher",
+    "Marcia Shofner",
+    "Nicholas Fletcher",
+    "Leo Shapiro",
+    "Karen Carleton",
+    "Nicholas Fletcher",
+    "Karen Carleton",
+    "Marcia Shofner",
+    "Karen Carleton",
+    "Nicholas Fletcher",
+    "Chloe Garfinkel",
+    "David Hawthorne",
+    "Karen Carleton",
+    "Marcia Shofner",
+    "Cornelia Van der Weele",
+    "Karen Carleton",
+    "Nicholas Fletcher",
+    "Chloe Garfinkel",
+    "Karen Carleton"
+  ],
+  "reviews": [
+    {
+      "professor": "William Higgins",
+      "course": "BSCI207",
+      "review": "Amazing teacher. People don't like him because he has a good sense of humor. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2012-07-29T20:26:00Z"
+    },
+    {
+      "professor": "William Higgins",
+      "course": "BSCI207",
+      "review": "He's the man.  His haters need to lighten up.  ",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2012-05-19T03:27:00Z"
+    },
+    {
+      "professor": "William Higgins",
+      "course": "BSCI207",
+      "review": "I thought Professor Higgins was great. I took 207 last spring with him and Professor Kent. I really enjoyed the way he taught the class. He was very engaging during lectures and he would always point out important concepts that would show up on the tests. Tests were multiple-multiple choice and were definitely challenging. If you decide to take Higgins, make sure you always go to lecture! Like others have said, a majority of the test material stems from his own words and NOT the powerpoint slides. I do understand how some people perceive his personality as \"rude\", as he can come off that way sometimes. But, I think it's just his sense of humor and as long as you aren't emotionally-unstable or have incredibly low self-esteem, you should be fine. In all honesty, I feel like I learned a lot from this class and from his teaching. BSCI207 is designed to filter out people, so it's going to be hard regardless of who you take. ",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2012-01-13T23:03:00Z"
+    },
+    {
+      "professor": "William Higgins",
+      "course": "BSCI207",
+      "review": "I found Prof. Higgins to be a very rude person.  On the message board, he would answer students in a very nasty manner that I though was completely unnecessary.  A lot of material is covered in this class, and I think Higgins does a decent job at explaining it all. I didn't think his exams were very fair; there would be multiple questions on topics that weren't covered whatsoever.  I would recommend taking 207 with another teacher if possible.",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2012-01-10T14:22:00Z"
+    },
+    {
+      "professor": "William Higgins",
+      "course": "BSCI207",
+      "review": "Higgins class is hard because its all about concepts.  You can not just memorize the slides and expect to do well in the class, you have to understand it. You also have to go to class because for most lectures the power points are mostly filled with graphs and pictures.  \n\r\nOverall I think Higgins is a good teacher because he does not read from the slides and actually explain stuff really well.   ",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2011-12-22T17:54:00Z"
+    },
+    {
+      "professor": "William Higgins",
+      "course": "BSCI207",
+      "review": "I had this class with HIggins/Haag/Carleton.  I like Higgins, but the class is hard. Haag was the easiest of the three. Higgins is a cool guy but the class is a lot of work.  The tests are really specific based on the lecture, so go to class. Reading the book helps a little bit too.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2011-12-20T15:13:00Z"
+    },
+    {
+      "professor": "William Higgins",
+      "course": "BSCI207",
+      "review": "Let me start by saying that Dr. Higgins is one of my favorite biology professors on campus. \n\r\nI had 207 with him and Dr. Kent. For a 200-lv bio class, it is difficult. Make sure you understand everything on the lectures because that is what you will be tested on. Although he might be intimidating at first, Dr. H really wants you to do well and is very receptive of questions. He is funny and really makes you understand the material. Also, he often drops major hints for exams during lectures so ALWAYS go. I dont even think an A is possible without attending class. A lot of people complain about 207. I actually found it to be very enjoyable. \n\r\nSince I seem to click with his teaching style, I ended up having 440 with Dr. H as well. This was my favorite bio class, hands down. The reason being that the material is very interesting. Class starts with the nervous system, then move on to cardiovascular, respiratory, renal, and ends with digestive. This is the kind of cool stuff that you will learn in med school. Additionally, he really stressed the pharmacology aspect of the course. So expect to understand how different drugs interact across multiple systems. He love up/downs and graphs on exams. Major concepts that he repeats will almost always show up later. This class is not easy but put in the work and you'll be fine.  \n\r\nIf you want to enjoy lectures and really learn bio, go with Dr. Higgins.  ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2011-07-11T02:05:00Z"
+    },
+    {
+      "professor": "William Higgins",
+      "course": "BSCI207",
+      "review": "well this is a lot harder of a class, than i expected. I thought it was going to be a breeze like bsci 106. Make sure yo form a study group or else it will be hard to study well. His exams made you apply knowledge and not just memorize it. Hard class with no study group. ",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2011-05-19T19:21:00Z"
+    },
+    {
+      "professor": "William Higgins",
+      "course": "BSCI207",
+      "review": "Higgins teaches based off of powerpoints. You can expect that the tests will be based mainly off of lecture powerpoints. However, he skips over slides that contain content that will be on the exams. He likes to do class demonstrations (involving guys holding hands) and tries to interact with the class so he does a great job at keeping everyone awake.\n\r\nThere's a lot of content, so DON'T FALL BEHIND. It'll be a hell of a time catching up. Ask a lot of questions, study as you go, and you should be okay\n\r\nHe has a slight curve at the end of the year. I thought I would end up with an 87 or so, but I got an A. You can also get a few bonus points for filling out the same survey both at the beginning AND at the end of the year.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2011-05-19T15:36:00Z"
+    },
+    {
+      "professor": "William Higgins",
+      "course": "BSCI207",
+      "review": "Higgins is easy, but you cant be a retard if you take his class, go to lecture he will tell you everything that will be on the exam. the reason people dont like him is because he forces you to think and apply concepts, 207 was a course designed to make kids do that. i think hes the best teacher at the university (or that i have had so far) would gladly take his class again. he maybe a little pompous but hes also a funny and nice guy. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2011-05-03T01:17:00Z"
+    },
+    {
+      "professor": "William Higgins",
+      "course": "BSCI207",
+      "review": "Depending on your background, Bio III isn't THAT hard. If you've taken Bio II at college, you don't really learn much in this class. It's organized to emphasize on the little details that may have been overlooked in Bio I/II. Interesting, but useless. \n\r\nDr. Higgins is definitely not approachable, but I don't mean that he's a monster. Just bad dad. He'll teach you what you need to know in way that makes you want to hate him. He seems to care about his students, but doesn't like to show it. He hints at test questions and test you on them. So, his test are pretty straightforward. Whatever he repeats in class about, he'll test you on. But you'll have to study somewhat. \n\r\nClass test average: C. ",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2011-04-23T15:42:00Z"
+    },
+    {
+      "professor": "William Higgins",
+      "course": "BSCI207",
+      "review": "Let me start by saying that this is an extremely difficult course! But it can be managed IF and only IF you take the necessary steps to prepare yourself and succeed. The exams for the Higgins/Kent class are mostly multiple choice and True/False with some short answer Q's. As someone who sucks at multiple choice exams, this class was hell...I'm telling you RIGHT NOW, if you must take this class:\n\r\n1. You MUST go to lecture. Don't think you can just rely on the slides posted online. They are often lots of pictures for which you needed to be in class to understand what the significance of them or explanation was. Plus, he often says plainly what will be on the exams and/or what to completely ignore.\n\r\n2. Grab a few classmates and form a study group IMMEDIATELY. This is coming from someone who has historically resisted doing the study group thing. For this class, it's an absolute necessity.\n\r\n3. The textbook IS kind of helpful to solidify concepts, but I wouldn't say the tests are based on the book as much as what is covered in lecture! In other words, they don't follow the textbook, exactly, it's used as more of a reference book.\n\r\n4. Take advantage of one-on-one time with the professors (or when there's only a few students). For example they offered to meet with students in the stamp food court an hour before class to answer questions/go over material. When I went I found it helpful because it was a couple days before an exam, and he gave me some points to focus on. Those things ended up making up a significant amount of points on the exam. They are there to help you. Use them!\n\n\r\nLots of these suggestions seem kind of inconvenient and maybe even annoying to have to do to do well in this class. Trust me. I know. But the fact is, you're gonna be much better off and a lot less stressed. DO YOURSELF A FAVOR and listen to me. I beg you.",
+      "rating": 3,
+      "expected_grade": "B?",
+      "created": "2011-04-18T19:26:00Z"
+    },
+    {
+      "professor": "William Higgins",
+      "course": "BSCI207",
+      "review": "BSCI207 is an extremely hard course and not many science majors are aware of how hard it actually is until they take it. I can honestly say this class is far worse than Orgo I because it was taught by Higgins.\n\r\nHiggins is a great man and is an excellent professor who gives the VERY BEST examples. HOWEVER, his exams are IMPOSSIBLE and he is not very helpful. The only time Higgins will be available to help is via blackboard and the five mins after class because I swear this man does not believe in office hours. I put my life into this class, formed a study group, and went to office hours almost every week. I received a 59% on the final and broke down into tears because I could of sworn I was going to fail. He makes you believe you are failing the whole entire semester and when he curves, you dont know whether to send him a thank u card or curse him.  \n\r\nDr. Jeffrey cotaught this class and while he is boring, he does try to be funny. Honestly, I liked Dr. Jeffrey way better because his material was proportional to what was given on the exams.\n\r\nIf you have to take this class with Higgins and Jeffrey coteaches, make sure you secure an A with Jeffrey's exams and try your very best with Higgins.\n",
+      "rating": 2,
+      "expected_grade": "C",
+      "created": "2011-01-17T01:21:00Z"
+    },
+    {
+      "professor": "William Higgins",
+      "course": "BSCI207",
+      "review": "Professor Higgins is an absolutely horrible teacher and his class was a miserable experience.  I have never been so fed up with and disappointed with a professor's attitude and teaching style.  He does not care about his students and it shows in his lectures and exams.  First of all, his lectures and PowerPoints are a complete joke.  On average they are 60 slides long (as opposed to 12-15 that Prof. Jeffrey used to convey equal information) and are cluttered with useless pictures, duplicate slides, and information that just make learning the material harder.  The lectures are rife with spelling mistakes and contradictions and I even had a lecture that included final exam information for a class he had taught years ago.  It just shows how careless he is in preparing for class and how little he refines his lectures year to year.  What bothered me the most however, was his tendency to jump back and forth from slide to slide during class.  I recorded many of his lectures and used them to study for exams and when he did this, my notes would not match up with his PowerPoints and this was extremely frustrating.\n\r\nAside from his poor lectures, he came off as very crass, brash, and unapproachable.  Some students may enjoy his sense of humor but I thought it got in the way of his teaching and was sick of him within a few classes.  \n\r\nHis exams were noticeably harder than his co-teacher's (Dr. Jeffrey).  They required us to know the material and apply it at a level we never went over  in class.  They were poorly written and averages were very low.  Had it not been for Jeffrey's tests, I doubt I would've gotten an A in this class.\n\r\nI strongly discourage anyone from taking this class with Higgins.  Expect to be confused by his lectures and read a whole lot from the book.  I'm glad I got out of this class with an A and never have to take a class with this man again.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2010-12-21T12:37:00Z"
+    },
+    {
+      "professor": "William Higgins",
+      "course": "BSCI207",
+      "review": "He is a horrible, horrible man! He does not give you any help, his exams are poorly written, he is ignorant and doesn't care about your grade. I went to all of the review sessions, did all of the practice questions,went to all of the classes and sucked the living life out of my T.As with all of my questions and even that . .wasn't enough to earn a decent grade. The basic thing, he wants you to read his mind . .plain and simple.At the end of the day . .he's not available and he does not care a damn about you. ",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2010-12-11T21:13:00Z"
+    },
+    {
+      "professor": "William Higgins",
+      "course": "BSCI207",
+      "review": "Let me start by saying this, this class is a lot of material, and a lot of it comes from all over the place. Higgins does mostly the physiology, and Kent does the Nature/environmental stuff. I personally didn't like the structure of the course too much, and I feel like it shouldn't be a pre-requisite for bio majors(Anantomy would be much more useful).\n\r\n Their grading system was a bit odd, but from what I heard around the class if you had something around an 85, you got an A, if you had above a 76 or 77 you had a B, and then I'm not sure what the C and D marks were.\n\r\nOverall, I thought they both did the best they could with the structure of the 207 course, and provided students with enough material to go over to do well enough on the exams. It wasn't a nightmare but it wasn't a walk in the park either. If you study, you should be ok.\n\n\n",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2010-05-20T20:25:00Z"
+    },
+    {
+      "professor": "William Higgins",
+      "course": "BSCI207",
+      "review": "Higgins is a really great lecturer and he makes class pretty interesting. In the beginning I was enjoying class and thinking that biology was pretty neat...then I took his and Kent's exams...\n\r\nI just wish that there were other grades like assignments and stuff or at least a curve. :( \n\r\nIf you want an A, go to office hours as much as possible, even if you think you understand the stuff, because you might not. I wish I did. ",
+      "rating": 3,
+      "expected_grade": "??",
+      "created": "2010-05-16T22:26:00Z"
+    },
+    {
+      "professor": "William Higgins",
+      "course": "BSCI207",
+      "review": "He's a great lecturer if you participate in class.  However, he makes it a point to make simple topics extremely difficult.  If you take this class, be prepared to put in more time and effort that any Biology class you have before.  This class was ridiculous- and I honestly hated going.  His exams are really tough.  Put effort into the class and you will do fine.  Otherwise plan on struggling the entire time. The class is full-time job.  ",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2010-04-27T22:34:00Z"
+    },
+    {
+      "professor": "William Higgins",
+      "course": "BSCI207",
+      "review": "Alright, so, yes, Higgins is a hard professor.  But he is also one of the best lecturers I have ever had.  I really enjoyed going to lecture and learning (that's another thing- YOU HAVE to GO to lecture, you can't just listen to them or go off of his notes).  The material he teaches is really interesting and he tells you in class what you do and don't need to know on his exams.  He is only intimidating if you make him intimidating.  You can tell he loves teaching-- and he's really good at it.  But he can be pretty arrogant- but that's only because he's insanely smart and has really established  himself as a research biologist.  If you study hard for his exams, you will do well.  If you don't- you will miserably fail.  But, if you're not into studying, my advice is to get out of Bio now while you can.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2010-04-24T15:24:00Z"
+    },
+    {
+      "professor": "William Higgins",
+      "course": "BSCI207",
+      "review": "Very full of himself. However, he seems pretty knowledgable on the subject. BSCI207 kind of sucks no matter what teacher you have. They way they set up the classes is very strange. Not organized at all really. Cant really study from lectures either. In lecture they just keep giving various facts and you are expected to just remember them.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2009-10-14T17:10:00Z"
+    },
+    {
+      "professor": "William Higgins",
+      "course": "BSCI207",
+      "review": "He can be pretty intimidating and elitist since he's been teaching at umd for something like 30 years... however, he really is a great professor and even though this class was incredibly hard, he made the lectures really interesting and was very energetic (even if he does tell stupid jokes) while teaching. Sometimes, he would drop really obvious hints about exam questions.\n\r\nEven though he and Kent posted their lectures online, you MUST go to class. Most of his slides are pictures and equations, so you need to be there to take notes. The book is useful for background, but 80% of the exam is stuff from lecture. \n\r\nLike someone said already, he likes to put calculations and graphs on his exams. There was a lot of multiple choice on the midterms (~50 MC, then like 4 short answers at the end), and the final was 150 MC. \n\r\nBasically, if you have to take this class, do it with Higgins. ",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2009-05-22T02:59:00Z"
+    },
+    {
+      "professor": "William Higgins",
+      "course": "BSCI207",
+      "review": "i actually enjoyed this class very much. dr. higgins is quite enthusiastic and VERY knowledgeable since he is the mamm phys professor as well, so he knows his stuff; and from years of experience he knows how to keep students engaged and the materials memorable. exams are indeed difficult, but that in a way is a strength of his teaching. easy exams don't test you on what you know, it's the difficult ones that you benefit from. people just complain about him cause they don't work hard and expect good grades.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2009-05-19T01:11:00Z"
+    },
+    {
+      "professor": "William Higgins",
+      "course": "BSCI207",
+      "review": "Higgins in a nutshell: Great teacher when it comes to material; a little condescending but usually in good taste and funny; Tests are HARD but doable with adequate studying; MUST attend lecture, there is no substitute even though power points are posted.  If you want a class where you learn a lot and don't mind studying, this is your guy for it.  Expect a B to a C with adequate studying, A if you work.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2009-05-01T08:06:00Z"
+    },
+    {
+      "professor": "William Higgins",
+      "course": "BSCI207",
+      "review": "Higgins is energetic and makes it hard for you to fall asleep in class, which is good; however he also tries to artificially make the class harder than it has to be by having some trick questions and things like that.\n\r\nOn the other hand in some way or another he ends up telling you exactly what will be on each exam (if you go to all the lectures). \n\r\nI recommend him.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2009-04-14T03:46:00Z"
+    },
+    {
+      "professor": "William Higgins",
+      "course": "BSCI207",
+      "review": "He's funny and can be entertaining but don't let that fool you, his tests are extremely and just ridiculous. you'll never be prepared for them.",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2009-04-04T18:12:00Z"
+    },
+    {
+      "professor": "William Higgins",
+      "course": "BSCI207",
+      "review": "He covers A LOT of material at a fast pace, but manages to make you understand it. He knows his subject well and expects you to by the end of class. It takes a lot of work and studying, but you should do fine if you've attended lecture and taken notes (and studied in advance!).\r\nHe's also very funny and a little bit insane ...and as much as I complained during the semester, I feel a void this year without him teaching me.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2008-11-15T01:23:00Z"
+    },
+    {
+      "professor": "William Higgins",
+      "course": "BSCI207",
+      "review": "I got an A, but not without hard work. You can't really study for the tests the night before, you have to start early and really make sure you understand the material. Higgins is a good and entertaining lecturer, but sometimes he can move fast and be unclear. Make sure you ask questions, he will always go back and answer them. Must attend lecture, his lecture outlines are full of pictures, not words, so you must take extra notes. He loves graphs and calculations for his exam questions, and in class he gives heavy hints on what those questions will be, or he flat out tells you.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2008-05-22T14:08:00Z"
+    },
+    {
+      "professor": "William Higgins",
+      "course": "BSCI207",
+      "review": "Very interesting lecturer. He takes lots of quick breaks for jokes or witty comments, and seems to know what sort of teaching style engages college students. Despite his humor, he is a very good teacher. You must attend lecture because there is more to class than what's on the slides. Very receptive to questions, especially if they don't take lecture time.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2008-03-16T12:57:00Z"
+    },
+    {
+      "professor": "William Higgins",
+      "course": "BSCI207",
+      "review": "Exams are difficult. Likes to use graphs and tricky questions. Lectures are engaging but he can be very condescending at times. Must attend lecture: his exams are derived from lecture not textbook.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2008-01-19T00:01:00Z"
+    },
+    {
+      "professor": "William Higgins",
+      "course": "BSCI207",
+      "review": "Dynamic, interesting lecturer. Really cares about he subject and makes it comprehensible. Will keep you awake no matter how early you take his class. \r\nExams are objective, very few short-answers, primarily matching, definitions, etc. ",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2007-10-21T00:03:00Z"
+    },
+    {
+      "professor": "Jeffrey Shultz",
+      "course": "BSCI207",
+      "review": "I would give this guy negative stars if possible. One word describes him: ASSHOLE. He is the worst teacher that I have had at UMD so far. His lecture slides are nothing but scribbles from is touch screen laptop he uses for lectures and it is impossible to learn anything from him. His slides would have little to no valuable information for the tests on them and it was impossible to use them to help you study and do homework. He was very unapproachable and was extremely unhelpful whenever you asked him a question. For one of the exams my test score was mixed up with someone else's and he wasn't going to go back in the grade book and change it. Luckily another nicer professor did it for me. NEVER TAKE THIS GUY",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2014-01-01T13:01:00Z"
+    },
+    {
+      "professor": "Todd Cooke",
+      "course": "BSCI207",
+      "review": "Like others, I'll preface this review by saying that BSCI207 just inherently sucks to begin with. Cooke is a very nice man but he couldn't make that class interesting if he tried (and he 100% does try). That being said, I never understood why some people revere him, because I hated taking this class with him.\n\r\nCons:\n\r\nCooke's approach to teaching is learning \"general concepts\" instead of rote memorization, but to be perfectly honest this approach made learning relatively easy material hell. There's no sense of organization to his lectures, so you have to sort through his PDFs.\n\r\nIf you take notes on your laptop like I do (OneNote, MS Word), you have to put in an insane amount of time making them outside of class. Most disorganized powerpoints you will ever see.\n\r\nHe uploads his lectures as PDFs instead of powerpoints, so you can't see any of the diagrams because they've shrunk by a factor of 10. Useless.\n\r\nExams are 99% short answer writing prompts (the other 1% consists of phylogeny trees, completing picture diagrams, etc.) and the answer key is made so that the TAs look for buzz words. So even if your answer is technically right, you won't get credit because you didn't have the word they were looking for. Like someone else said, I never figured out how to study for them. In terms of difficulty, they're like 4-7 on a scale of 1-10. Don't cram.\n\r\nPros:\n\r\nHe drops 1 exam and 1 homework. Homeworks are easy, and end up saving your grade because he weights them so heavily.\n\r\nThe final was actually pretty easy too. It's 60% new material and 40% cumulative, and he makes the 40% very general so you don't have to study for it too much.\n\r\nStudying old exams helps a little, but not that much, because he doesn't reuse questions often.\n\r\nHe accepts regrade requests, looks it over himself, and will only regrade the specific questions that you requested so it's impossible for you to lose points. Definitely do regrades.\n\r\nHe genuinely tried to engage us with interactive in-class worksheets, which essentially translated to a free class period.\n\r\nHe goes to his own review sessions - they're 2 hours long, TAs lead for 1 hour and Cooke leads for the second hour. He holds 2 of them before every test. Some sessions were helpful, some weren't.\n\r\nFor ILS kids: your 207 TAs will most likely be in ILS as well, and are probably your friends, so you have connections whoop-de-doo good for you.\n\r\nBasically this class gave me the most grief over the semester. Cooke is probably the best teacher you're going to get for this class, even though he's not that great either, so it's all about knowing HOW to take this course instead of who you take it with. So yeah take Cooke but be warned the class is among the most annoying you'll ever take.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2014-06-09T02:12:00Z"
+    },
+    {
+      "professor": "Todd Cooke",
+      "course": "BSCI207",
+      "review": "I honestly liked Cooke, but the class is just way to boring and useless. Cooke loves this 207 class, because I mean, he created the class..\n\r\nThis is probably the worst Bio class you will ever have to take, but it is so doable with Cooke and Jensen. \n\r\nJust study the old exams and memorize the answers. You can also look at the HLSC207 version from your honors friends. They are identical. \n\r\nIn the end, Cooke is much more interesting and interactive than Jensen. This class was bearable with Cooke. Definitely the best 207 professor. ",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2012-05-20T23:52:00Z"
+    },
+    {
+      "professor": "Todd Cooke",
+      "course": "BSCI207",
+      "review": "I would rate his lectures 10/10 on a scale of boring.  The only reason I went to class was so I didn't have to download the slides online.  And even then I spent most of it falling asleep.  Sometime mid-semester I figured out that it helps to stay awake if you count how many times he says \"essentially\" during his lectures.  Once I got to 112 in a 50-min lecture.  Good times.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2011-06-16T13:10:00Z"
+    },
+    {
+      "professor": "Todd Cooke",
+      "course": "BSCI207",
+      "review": "Let me preface this by saying that the class itself, and the material incorporated into it, is AWFUL. Dr. Cooke co-taught this class with Dr. Jeff Jensen, and he was certainly the more engaging of the teachers. His lectures are fairly clear and to the point, and his notes aren't annoying fill-in-the-blank like Dr. Jensen's are.\n\r\nTake these professors if you're willing to do a LOT of phylogeny and a LOT of \"hypothetical application\" of the material that you memorize. Yes, memorize, not learn. It's all evolution, phylogenies, and theories, and on exams, you'll be expected to take all of this and propose several plausible hypotheses as to animals' evolution and ancestors, etc.\n\r\nReally, the entire thing was awful but if I had to choose the better professor of the pair, it would be Dr. Cooke!",
+      "rating": 4,
+      "expected_grade": "C",
+      "created": "2010-05-22T02:48:00Z"
+    },
+    {
+      "professor": "Todd Cooke",
+      "course": "BSCI207",
+      "review": "Dr. Cooke is a great lecturer and a really friendly and approachable guy.  There is a lot of material to learn for 207, but he does a great job teaching it!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2009-12-14T13:49:00Z"
+    },
+    {
+      "professor": "Todd Cooke",
+      "course": "BSCI207",
+      "review": "Cooke co-taught this class with Jensen. It was a difficult class: the average on the exams were around 60%. The second exam had a 15 point curve in order to reach an average of 65% and the third exam had a 6 point curve. In addition to the 3 exams (one of which is dropped), there is a cumulative 150 point final, 3 mathbench quizzes, 75 points for clickers, and a diagnostic exam worth 25 points. This class entails knowing A LOT of information- so much information that I highly recommend studying at least a week in advance for the exams. I thought I would do well in this class because I got an A in bsci105 and bsci106, but I was wrong.  ",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2009-05-22T00:22:00Z"
+    },
+    {
+      "professor": "Todd Cooke",
+      "course": "BSCI207",
+      "review": "Dr. Cooke did a great job helping students understand the \"big picture\" rather than just little, unrelated facts.  He truly cares about students and is very easy to talk to if you have a question or concern.  Jensen's lectures were a little drier and less engaging than Cooke's.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2009-03-08T00:26:00Z"
+    },
+    {
+      "professor": "Bretton Kent",
+      "course": "BSCI207",
+      "review": "While I would say that it's important for you to know how to apply and connect information without memorization, this class is a HEAVY memorization class, and if they tell you otherwise, do not believe them. True/False questions on each exam nearly killed my grade, because they were straightforward answers and I was thinking abstractly. STICK TO THE FACTS.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2013-07-11T15:08:00Z"
+    },
+    {
+      "professor": "Bretton Kent",
+      "course": "BSCI207",
+      "review": "So, while the content and lectures are COMPLETELY relevant to the field... The exams were slightly unfair to those of us ahead of the game in connecting things abstractly. They comprised mostly of multiple T/F questions, which is like a memorization course. Thus, when he says that this is not a memorization course, do not believe him. He's a wonderful professor who knows how to relay the material well, but the exams were horrendously memorization-based.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2013-05-27T11:03:00Z"
+    },
+    {
+      "professor": "Bretton Kent",
+      "course": "BSCI207",
+      "review": "Kent makes it interesting and is extremely knowldgable of the subject. \r\nBut its a very hard class",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2013-05-20T19:15:00Z"
+    },
+    {
+      "professor": "Bretton Kent",
+      "course": "BSCI207",
+      "review": "Great lecturer - really keeps you interested in the material which could otherwise be very, very boring. Very engaging, and always willing to help if you stop by his office. \r\nTests are hard, so study well. And definitely go to class!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2012-07-29T20:28:00Z"
+    },
+    {
+      "professor": "Bretton Kent",
+      "course": "BSCI207",
+      "review": "I took Dr. Kent's BSCI207 course with Dr. Haag this Spring 2012. It was an extremely interesting course, with a large focus on macrobiological concepts like physiology and biochemistry. It is a great introduction to upper level biology courses. When I first signed up, I was a little apprehensive because I heard a lot of bad things about BSCI207, about how it was hard and uninteresting. But in actuality, it is very relevant to anyone who wants to pursue a degree in Biology. The main thing is to GO TO LECTURE. You will not do well on the exams if you don't go to lecture!! The slides contain minimal amounts of information. All the tested material were things that Dr. Kent/Dr. Haag explained in lecture. The exams are fair. They're not easy, you actually have to study a lot for them. Dr. Kent is an outstanding lecturer and takes the time to drive home important points of the topic. Tough, but enjoyable class.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2012-05-28T10:55:00Z"
+    },
+    {
+      "professor": "Bretton Kent",
+      "course": "BSCI207",
+      "review": "I really didn't want to take this class but I had to because it is a requirement for my major. Unfortunately, I was stuck with Dr. Kent and Dr. Haag for Spring 2012. By far one of the WORST bio classes I have taken at this university. All the material is random BS which makes you want to pull your hair out. They test you on the most pointless topics (3 exams, lowest dropped, weekly quizzes -10 total). Final exam is cumulative with a strong emphasis on the most recent material. All the exams are about 30 true false, 10 multiple choice and short answer. \n\r\nAlthough Kent is very passionate about the subject material, he is a very difficult person to deal with. He really wants to fail his students (which he has expressed he doesn't mind doing). Just an old and cranky old man who does nothing but sip his coffee while lecturing you.\n\r\nOverall: boring professor, difficult, passionate about bio.\n\r\nBottomline: Avoid this professor if you can. Otherwise, good luck...",
+      "rating": 2,
+      "expected_grade": "C+",
+      "created": "2012-05-15T16:23:00Z"
+    },
+    {
+      "professor": "Bretton Kent",
+      "course": "BSCI207",
+      "review": "I took him with Higgins last Spring. Kent was pretty good. You can tell he enjoyed the material since he was very enthusiastic during lectures. His enthusiasm made it easier to pay attention. His tests were hard, but that's only because BSCI207 is designed to filter people out. He, like Higgins, pointed out specific concepts that were definitely going to be on exams so the class generally knew what to focus on. Overall, I enjoyed his teaching. If you decide to take him or Higgins, go to lecture! Most of the exam material stemmed from his words and NOT the powerpoint slides.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2012-01-13T23:17:00Z"
+    },
+    {
+      "professor": "Bretton Kent",
+      "course": "BSCI207",
+      "review": "Great lecturer, hard tests.  You literally have to study each and every word in his Powerpoints.  Not as goofy as Higgins, but I liked him.  ",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2011-05-17T01:14:00Z"
+    },
+    {
+      "professor": "Bretton Kent",
+      "course": "BSCI207",
+      "review": "Kent- his lectures are really boring.. his exams are soo hard. He will have short answer questions on the most random things and tiniest details which are worth a lot of points. Therefore, you pretty much need to study EVERYTHING on his slides.. which is crazy.. \r\nHiggins- I learned a lot more from Higgins than Kent. Higgins is a lot more entertaining and his exams are based more on concepts than straight memorization like Kent. \r\nBSCI207 sucks.. pointless class that you have to study so much for. ",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2010-05-15T00:20:00Z"
+    },
+    {
+      "professor": "Bretton Kent",
+      "course": "BSCI207",
+      "review": "I took 207 with Higgins and Kent.  Kent was boring though he is clearly very knowledgeable about the subject matter he teaches (which, unfortunately, is also boring).  I thought his test was also a LOT harder than Higgins' because it was less straight forward.  He wasn't bad, but he wasn't great either. ",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2010-04-24T15:08:00Z"
+    },
+    {
+      "professor": "Bretton Kent",
+      "course": "BSCI207",
+      "review": "I took this course with Higgins and Kent, and found that I got more out of the lectures with Kent. While they both post their lectures online, Kent had more text so it was easier to follow along and take notes. Definitely do what they recommend, and print out the lectures beforehand and take notes directly on them. And go to class, because most of the exams are based on the lectures, not the book. \n\r\nThe class was really hard, and you definitely need to study along with the lectures instead of cramming the night before an exam. That said, it's not impossible to get a good grade in this course; it just takes work, but you really do learn a lot.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2009-05-22T03:04:00Z"
+    },
+    {
+      "professor": "Bretton Kent",
+      "course": "BSCI207",
+      "review": "Great teacher who knows his stuff.  Had BSCI 207 with him and Higgins and Kent, while the less eccentric of the two, still loves participation and likes to have fun with the material.   MUST go to lecture, nothing else including posted slides and the text will due.  Tests based on lectures.  ",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2009-05-01T08:14:00Z"
+    },
+    {
+      "professor": "Bretton Kent",
+      "course": "BSCI207",
+      "review": "I had a class with Kent and Higgins together and Kent is by far the better teacher.  He thoroughly explained concepts where Higgins would just hope that you knew them.  Kent was also nicer and wasn't obnoxious like Higgins.    ",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2009-04-10T23:31:00Z"
+    },
+    {
+      "professor": "Bretton Kent",
+      "course": "BSCI207",
+      "review": "He was a GREAT professor and a really nice guy. He and Higgins had a great relationship too. He explained all the concepts clearly and thoroughly and answered any questions students had. He also moved at a reasonable pace. You just have to take extra notes during lecture and study hard and you'll do well.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2008-11-15T01:31:00Z"
+    },
+    {
+      "professor": "Bretton Kent",
+      "course": "BSCI207",
+      "review": "Kent was a very good lecturer. Between him and Higgins, I liked Kent better. He was a little clearer when explaining the material and wasn't as intimidating. His lecture notes also have more words that Higgins' so they are easier to follow. Must attend class though, the lecture notes don't have everything. I also thought his test questions were very fair.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2008-05-22T14:11:00Z"
+    },
+    {
+      "professor": "Bretton Kent",
+      "course": "BSCI207",
+      "review": "I have a class dual taught by Kent and Higgins. Though Kent is the less dynamic of the two, he is an excellent teacher. He  can move quickly, but still explains everything thoroughly. He is very interested in his subject matter, and very knowledgeable. Must attend lecture because the slides don't contain all the information. Receptive to questions and likes participation.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2008-03-16T13:00:00Z"
+    },
+    {
+      "professor": "Charles Delwiche",
+      "course": "BSCI207",
+      "review": "I took this class in fall 2011 with Delwiche AND Schultz, so I am reviewing both of them together (and cross-posting this to Schultz's page).\n\r\nI have to disagree with most of the other reviews on this page. I think people here are just bitter that the class was difficult and covered a large volume of information. I think it acts as a weed-out course for a lot of prospective bio majors. Grades also tended to be low percentage-wise, which can be discouraging, but letter grades are assigned according to class rank and people in my class only needed about a 76 to get an A. There is also a drop-one policy for midterm exams and quizzes, which can help quite a bit\n\r\nDelwiche and Schultz are both knowledgeable and enthusiastic professors (Schultz especially is a funny dude). Contrary to what they say, however, you DO need to memorize some specific information and diagrams (evolutionary processes of certain body parts and organisms, phylogenetic tree, etc.) in addition to understanding overarching concepts. I highly recommend reading the textbook chapters before each lecture and attending every class, but that's the exact same advice I give for most courses. Make sure to pay attention and write down any diagrams or explanations that aren't on the slides. Also be sure to review BSCI105 and 106 information on their review guide at the beginning of the semester since there is a full-length preliminary exam very early in the semester. It's scaled to be worth only 10 points, but it helps to start the semester with a good grade and a solid foundation in gen bio.\n\r\nBottom line: it is possible to do well in this class if you're willing to put the time and work in.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2012-08-16T17:26:00Z"
+    },
+    {
+      "professor": "Charles Delwiche",
+      "course": "BSCI207",
+      "review": "i don't even know where to begin with this! there were just so many things that bothered me about bsci207 with delwiche and shultz. definitely not the best introduction to college classes, that's for sure. As you will find out, bsci207 is the bane of an intro bio majors existence, especially with delwiche and shultz who teach off of a whim. they essentially tailor their class to whatever they want to teach, so it ends up sbeing a disorganized mess of random, miniscule facts and large concepts. This semester with 207, delwiche and shultz decided to hand out eleven pop quizzes, and while only five points each, proved to be major stressors. Delwiche is big on thinking about a concept and making inferences based on the information given (mixed in with a few completely random facts here and there of course). Shultz is very big on memorize these random details here, some equations there. this made it difficult to figure out what would be on quizzes and exams, which by the way were very stressful. typically i did not work in this class, at all, except for the week before exams. there were only two exams and the final, and thank goodness one midterm is dropped. I would cram a bunch of information in my head the week before a midterm with the full intention of forgetting it right after, because of how useless it was. to do well without cramming would mean paying attention to delwiche and shultz's monotonous voices for an hour and fifteen minutes. i went to lecture for the quizzes but never, ever paid attention, which isn't really their fault as much as my sheer inability to pay attention to people talking about algae and biomechanics for so long. while i'm sure they are cool people to talk to out of class, I just had a bad experience with this class. I think I got an A because of the humongous curve (75 and up was an A). The TA's weren't much help either, although they were very nice. Avoid taking delwiche and shultz if you have trouble paying attention in lecture, or never learned how to think about biology. at least it's a good way to bond with friends, bsci207 has become a running join between my friends and me. ",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2012-01-07T23:19:00Z"
+    },
+    {
+      "professor": "Charles Delwiche",
+      "course": "BSCI207",
+      "review": "This was my first bio class coming into college. I initially thought that bio would be my easiest class, since it was purely memorization. I was so wrong though. BSCI207 with Delwiche and Schultz turned out to be my most difficult class. They emphasized so much in the beginning of the semester that \"memorizing everything will not help you\" and that instead you must \"focus on the broad concepts.\" I took their words too literally, and didn't review much of the material for the first midterm. After taking that exam, I realized they expect you to memorize EVERYTHING they say in LECTURE. Basically, Delwiche and Schultz orient the class on their own interests, with Delwiche lecturing on plants and botany, while Schultz takes over every few weeks lecturing on a totally unrelated topic of biomechanics. To me, these topics ambiguously fell under the class topic of \"organismal biology\" and it was very frustrating that they did very little to show the relationship of the topics we learned (we started with plants, jumped to viruses, then random bio-astronomy, back to plants, then metazoa [took students forever to realize metazoans are organisms--Shultz should have just straight up told us], to plants againnnn, then the biomechanics of an muscle, finishing with numerous other random topics I cannot remember). \n\r\nTo do well in this course, pay attention in lecture. If you can't focus for the full hour 15 minutes, record the lecture and review it with the powerpoints they post on BB. If you don't have lecture recordings to go with it, the powerpoints are rather useless. Also, do all the past exams they post. And most importantly, memorize everything. ",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2012-01-03T18:03:00Z"
+    },
+    {
+      "professor": "Charles Delwiche",
+      "course": "BSCI207",
+      "review": "This class sucked. Its a combo of 105 and 106 but more in depth and viewing information a different way and if you're really not interested in evolution and phylogenies then get ready to be pissed after every exam! Delwiche was an okay lecturer but he kinda acts like a jerk.. and Schultz is a worse lecturer but really nice (at times). The exams are ridiculously hard with MC choices like (2 of the above) and (none of the above) so that sucked. And the pop quizzes... what college course has pop quizzes?! Lol anyway avoid these 2 professors if you can...",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2011-12-26T20:05:00Z"
+    },
+    {
+      "professor": "Charles Delwiche",
+      "course": "BSCI207",
+      "review": "This is more of a review for the entire course of BSCI207 with Delwiche AND Shultz...\n\r\nSo...snidely insulting a student's intelligence after he asked a question during lecture in front of the whole class made me lose a ton of respect for professor Shultz, though he is the more effective lecturer. I admit, it was kinda funny, but totally inappropriate and unprofessional in that setting. It made him seem a lot less approachable, at least to me. Delwiche seems like the more approachable professor for students who have questions or concerns.\n\r\nShultz's lecture slides conveyed the course material better than Delwiche's lecture slides. And at times, I did not entirely understand the main points of Delwiche's lectures because it was not that explicit (though the plant unit slides were fine).\n\r\nThe tests were okay, and showed that one must know a lot more than just rote memorization of facts in order to be successful. You must be able to logically synthesize the information presented to you, and this is indeed an important skill that they emphasized during the course. \n\r\nI honestly didn't open the print textbook that much for this course, though I used the online textbook, and did the chapter outline quizzes, etc but that's just my style. \n\r\nFor the \"pop\" quizzes, you must know the little details covered in the recent lecture. Even if you wrote it down, always review your notes after lecture or right before lecture, because you probably forgot what you wrote down! Happened to me a lot, frustrating.\n\r\nThis was my 1st biology course taken at UMD, so I don't know who/what to compare this to in terms of biology professors/lecturers/courses. They seemed just alright, and the tests seemed fairly difficult I guess. I think an average student (who goes to all the lectures and takes some notes) can pass with a mid to low B.",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2011-12-10T18:10:00Z"
+    },
+    {
+      "professor": "Charles Delwiche",
+      "course": "BSCI207",
+      "review": "I read most of the reviews on here and I just think most of it is really biased. So I will be as unbiased as possible when I am rating Dr.Delwiche and Dr.Shultz. \n\r\nBSCI207 is a really tough class. The entire class is about the evolutionary past, so you can't really apply the knowledge you learned until you get the present organisms (which also explains why it's 3 credits because you can't really have a lab about evolution).\n\r\nDr.Delwiche and Dr.Shultz taught this class. Dr.Delwiche taught plants and microorganisms while Dr.Shultz taught metazoans. They are mediocre instructors. They aren't the greatest, but they aren't bad so you can't really complain that they are bad teachers. \n\r\nThe reason why I think the ratings on this page are biased is because of the difficulty of the class. It doesn't matter what professor you take BSCI207 with because either way it will be very difficult. I don't know how other professors does it but Delwiche and Shultz base your grade on a class ranking system. The top of the class gets A's while the bottom part of the class fails. There are pros and cons behind this. Pros are that students are able to get good grades. The exams are very difficult...so it will almost be impossible to get an A by total percentage wise (assuming 90% is an A). The exams are so difficult that 76%+ = A, 70% - 76% = B, 62-70% = C, etc. The cons are that some students are bound to fail. \n\r\nIf you are good at biology and have a lot of confidence that you can do well in this course, then Delwiche/Shultz is for you because of the class ranking system. If you are not confident, I would recommend taking with a professor that uses the percent-grading system.\n\r\nI really believe that the bad ratings on this page are because of the ranking system. I can see why the ranking system can frustrate a lot of people. However, if this class used the percentage system, no one would get A's. \n\r\nIn conclusion:\r\n-Delwiche and Shultz are decent instructors\r\n-This class is really really hard\r\n-The grade you get is based on your rank # in the class\r\n-The textbook doesn't really help, but you might as well get it because it's $5-$10 online\r\n-DON'T purchase MasteringBiology with the textbook because it's useless (it's a complete waste of money)\r\n-Delwiche and Shultz are good people, personality wise\r\n-Exams are really really difficult, you need to study a lot for it, probably more than any of your other classes\r\n-The exams require you to think and apply everything you learned about biology\r\n-BSCI207 doesn't ask you \"what\" questions, they only ask you \"why\" and \"how\" questions so you REALLY have to know the concepts by heart\r\n-This class is PURE concept, not memorization\r\n-Biology application is this entire course",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2011-11-28T17:19:00Z"
+    },
+    {
+      "professor": "Charles Delwiche",
+      "course": "BSCI207",
+      "review": "Took BSCI207 with Dr. Delwiche in Fall 2010 - it was my second time taking it. I'm a senior with a 3.6 GPA so I'm telling you honestly that this is a difficult course.\n\r\nDon't blame the professors. I took it the first time with Dr. Cooke and Dr. Jensen because I've heard so many good things about Dr. Jensen, but the material was exactly the same and presented in exactly the same way (hell, some of the lecture slides were even identical!). \n\r\nDr. Delwiche is a great guy, always fun to talk to and willing to help you. He's really intelligent, also. One of the more interesting \"plant\" guys that I've met.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2011-09-29T21:13:00Z"
+    },
+    {
+      "professor": "Charles Delwiche",
+      "course": "BSCI207",
+      "review": "Delwiche is the devil. He comes in a pleasant disguise, but don't be fooled by his excitement about algae. He will try to fail you just as well. Delwiche and Schultz co-taught this class and neither one of them knew what they were talking about. Both Delwiche and Schultz are obsessed with their research and they don't know how to explain anything other than that. Schultz introduced himself by talking about spider penises and how they give \"nuptial gifts\" to the females. This was the only lecture that I ever understood from the class. Seriously, if you need to take this class don't EVER try taking it with either Delwiche or Schultz. They ended up using a bell curve, so in order to get a B in the class you needed higher than an 80%. They were not sympathetic at all. They would give no points back on tests, even if you provided a perfect explanation on essay questions. They were the worst!!! ",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2011-01-12T16:26:00Z"
+    },
+    {
+      "professor": "Charles Delwiche",
+      "course": "BSCI207",
+      "review": "ABSOLUTELY RIDICULOUS CLASS! You will learn almost nothing that you will ever use again, while sitting through the most uninteresting lectures of your entire life. Professors are indifferent towards students and are very self absorbed into their research and weird stuff that they are interested in (Shultz was also the teacher for this class). Put random side notes on exams - speaking of their exams they are ridiculous.  You will study for days and still fail.  Don't waste your time, and if this class is required for your major TAKE IT WITH A DIFFERENT PROFESSOR or you will regret it.  ",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2010-12-18T01:52:00Z"
+    },
+    {
+      "professor": "Charles Delwiche",
+      "course": "BSCI207",
+      "review": "Dr. Delwiche is honestly one of the most caring and dedicated people (not just professors) that I have ever met.  Take heed, this is not an easy course, but in terms making himself available to students and doing everything he can to help them, he is unmatched.  If you introduce yourself to him, at all, he WILL remember you, not only by face but by name.  If you ever wander up to his office looking for help, as I did on only a few occasions, he'll set aside whatever he is working on and meet with you, and answer any questions you may have.  He is passionate about his research, and his lectures are engaging.  I can't stress enough, if you are having trouble in the class:\r\n-A) download the lecture slides, and read the corresponding sections of the book as you go through them.  They will provide a much more detailed description than one can reasonably fit on a lecture slide.\r\n-B) If you're having problems in the class, talk to Delwiche.  He is more than reasonable and will do everything in his power to help you.\n\r\nIn conclusion: hard class? yes.\r\nGreat professor? that too",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2010-12-14T15:31:00Z"
+    },
+    {
+      "professor": "Charles Delwiche",
+      "course": "BSCI207",
+      "review": "I just took the second exam for this god forsaking class. Have not studied like this for so long only to get an exam with questions that weren't remotely close to the study guide. Please please please do your self a favor and DO NOT take this class with them!",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2010-11-10T21:11:00Z"
+    },
+    {
+      "professor": "Charles Delwiche",
+      "course": "BSCI207",
+      "review": "I hate 207. It isn't nothing like my advanced plasemint biology at High School or at the community colleges I been too. It seem like you have to take notes and read the book and even that won't mean you will do good on the exam. The lectures are so boring I would fall asleep, but I like talking to the guy next to me who feels the same way and we get through it somehow. The lectures don't entertain me enough; I need lots of sounds, colors, motion and stuff to keep my interest. All these guys do is like stand and talk and talk and show slides of stuff that nobody care about. What's so great about plants and bugs and stuff anyway? What a waste of my time. If you like me, don't take this course!",
+      "rating": 1,
+      "expected_grade": "I",
+      "created": "2010-10-29T17:41:00Z"
+    },
+    {
+      "professor": "Charles Delwiche",
+      "course": "BSCI207",
+      "review": "One of the most ridiculous classes I\u2019ve ever taken. Be prepared to take extremely detailed notes (and that\u2019s not going to be enough- put in A LOT of extra study time). I would suggest probably recording the lectures (I didn\u2019t do this but thinking back, it may have helped). This class was co-taught (partly by Prof. Delwiche and Prof. Jeffrey Shultz). Their teaching styles are different- Prof. Shultz\u2019s lectures come straight out of the book, are monotonous, and boring. You will be tempted to fall asleep (during either one\u2019s lectures). At times, the material we learned didn\u2019t seem to connect (it seemed like we were jumping around). Exams are random, ridiculous, and (most often) unfair. There are 4 undergrad TAs and 1 grad school TA. This time around, they were absolutely no help and tended to contradict each other. They\u2019ve either forgotten the material or just don\u2019t know it. There is no discussion section for this class; the TAs hold review sessions throughout the week. Random topics that were never fully discussed in class ALWAYS come up on the exams and are worth a lot of points. Reading the textbook thoroughly will help but does not guarantee in any way that you will do well on the exams. \n\r\nThis class will be horrible no matter who you take it with, but please, take another professor. Occasionally these two have condescending attitudes when you ask them questions. At times, you wonder whether they really want their students to do well.\n",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2010-07-02T18:04:00Z"
+    },
+    {
+      "professor": "Charles Delwiche",
+      "course": "BSCI207",
+      "review": "Well. You won't expect a good review from me. Dr. Delwiche starts off in the beginning of the semester taking pictures of his class. He is more of a photographer than a professor. His powerpoints are absolutely trash. They are just pictures with little or no text. You literally have to record his lectures because there is no way in hell that you write that fast. His exams are irrelevant. It is like a giant tank water with thousand of balls with words on it, and he has manatees swimming around in it and push the balls into an opening. In that opening, the balls falls in a lottery type machine and the words form a sentence. That's what a typical Delwiche exam question looks like. ",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2010-04-28T02:58:00Z"
+    },
+    {
+      "professor": "Charles Delwiche",
+      "course": "BSCI207",
+      "review": "This class was just crazy. Everything that one would expect to be on the exam, the kind of stuff that you should come away with from a class like this was not there. Instead, look forward to memorizing every random fact that comes up in lecture. As tempted as you may be DO NOT FALL ASLEEP! Whatever little fact you may miss in that 5 minute nap may  very well make a free response worth hefty points on the exam. Also, work on writing a lot in only a few minutes. Most of the exam is free response, and sometimes even what seems like the most comprehensive explanation to you may not get you full points on the question. The only other  graded work beyond the exam was a museum assignment, which was actually graded pretty harshly, so do it well. Take very copious notes during class, or record lectures, since the PowerPoints, tho available, are not ever good enough to study from as they are simply pictures. Wikipedia becomes a good friend to look up stuff like formulas that are not fully explained in class, but that WILL COME UP IN THE EXAM, you can count on it. Nothing against the professors personally, since they both seemed very knowledgeable, but class was pretty boring, and the exam was ridiculous. ",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2010-02-08T19:09:00Z"
+    },
+    {
+      "professor": "Charles Delwiche",
+      "course": "BSCI207",
+      "review": "First off let me say TAKE ANOTHER PROFESSOR!!! Delwiche is very very interesting and he clearly knows his stuff. He is excited about plant biology and he makes it interesting to learn about. However, the tests are impossible, and he picks random nonsense that he's interested in for the essay questions and the fill in the blank (no word bank). You better be prepared to read the book if you really want to fully understand whats going on. As for Schultz (the guy that he tag teams with) he is TERRIBLE. His lectures are the most boring ever and i definitely fell asleep multiple times. His lectures jump around and are NOT sequential at all. You learn random crap about muscles and then half way through the lecture we're learning about water and electrolyte balance. \r\nDO YOURSELF A FAVOR AND TAKE ANOTHER PROFESSOR UNLESS YOU WANT A TON OF READING TO DO IN ORDER TO SCRAPE BY WITH A \"B\". ",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2010-02-03T18:25:00Z"
+    },
+    {
+      "professor": "Charles Delwiche",
+      "course": "BSCI207",
+      "review": "PROF IS THE WORST PROFESSOR AT UMD. avoid him at all costs. honestly, i have never done so badly in a class that i study so much for. his exams are a joke, pulling questions out of the blue, testing you on a senseless amount of material. he is obnoxious and arrogant, and his lectures are pointless. \r\nthis class ruined my GPA.",
+      "rating": 1,
+      "expected_grade": "D",
+      "created": "2010-01-30T11:24:00Z"
+    },
+    {
+      "professor": "Charles Delwiche",
+      "course": "BSCI207",
+      "review": "Dr. Delwiche is an amazing professor. His class is hard, but as long as you pay attention in class and take good notes you should be fine. It also helps to have a vast knowledge of introductory biology. Dr. Delwiche is really friendly and willing to help his students. His expertise of microogranisms is evident during he lectures. I would highly recommend him to anyone. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2009-12-07T14:51:00Z"
+    },
+    {
+      "professor": "Charles Delwiche",
+      "course": "BSCI207",
+      "review": "He is an awful awful professor.  I regret taking his class more than anything I've done all of college.  He is arrogant, his exams are ridiculous and have no focus and it is impossible to study for them.  He doesn't teach, and his slides are just dozens of pictures that have no relevance to the subject matter.  If you have to take him, the only thing I can recommend is to make sure you read the book.  It's not a guarantee for a good grade, mainly because his exams are ridiculous and don't make sense.  But it is the only concrete way to study.  Since the lecture slides have virtually no information on them, taking notes while he speaks is very important, something I didn't realize until it was too late.  However, regardless, it is impossible to write down everything he says because he speaks faster than you can write, and the topics he goes over are so random that it's hard to know what's important and what's not.  \r\nAs an example of how ridiculous the exams are, we had an essay question asking us to describe how a bird's digestive system works in detail, when nothing like that was ever mentioned in the book or in lecture.  We learned about bird RESPIRATORY systems, but not digestive systems.  The first thing that occurred to me when I read that question was that he got mixed up and in his infinite wisdom mixed up digestive and respiratory systems.  I still don't know what the answer to that question was...",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2009-05-27T18:13:00Z"
+    },
+    {
+      "professor": "Charles Delwiche",
+      "course": "BSCI207",
+      "review": "This is a review from someone who had this professor this past semester. I must say, he is a smart, approachable, and kwirky person, but, he is very intense at the same time. What do I mean by that? His lectures are very intense, his tests are even more intense and his powers of observation even more so. Let me tell you something: Be prepared to work hard. There are no freebies in this class; even a museum assignment that would seem simple required a lot of work to be done. He keeps track of who actually comes to lecture and whatnot, so keep that in mind if you want a good grade in this class. Although our test averages were horrifying at times, there was a curve in this class, and he drops one test- take note however, this doesnt mean that you should flunk any one test. Somehow even after dropping a test and curving, MANY people got Cs and even Ds. That might have somethign to do with one of the final questions, which was worth close to 15% of the entire exam: Describe the origin of life, draw the phylogenetic tree and explain how life evolved. Basically, it asked you to summarize the whole course in one question-in 8 minutes. I was happy to get the grade I got. One more thing: Avoid this class if you can, especially if you arent too fond of plants and/or fossils.\r\nAnd, please show up to class.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2009-04-08T10:55:00Z"
+    },
+    {
+      "professor": "Charles Delwiche",
+      "course": "BSCI207",
+      "review": "DO NOT TAKE THIS CLASS WITH DELWICHE.\n\r\nThis was the worst class I have taken in my college career.  He is a very arrogant, obnoxious professor.  His tests are just ridiculous (who else would make you memorize the ENTIRE tree of life and when everything evolved?). Most of all, you never know what is going to be on the tests. If you have to take it with him, attend all lectures (although you learn nothing from them). MEMORIZE EVERYTHING. including chapter and lecture notes.  Not only do the exams have extremely unclear and confusing questions and you have to write paragraphs for each question, the TAs are also strange graders. I still have not figured out what happened in that class. LEARNED NOTHING. RUINED MY GPA. POINTLESS CLASS. WORST TEACHER EVER.",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2009-03-19T00:13:00Z"
+    },
+    {
+      "professor": "Charles Delwiche",
+      "course": "BSCI207",
+      "review": "Good lectures, friendly and easy to talk to.  Exams were the worst i've encountered in the department thus far. The exams were typically unclear, confusing and irrelevant. The final focused a great deal on material that was not stressed during the semester.  Extremely inconsistent assessments, avoid this professor if possible.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2008-12-19T17:33:00Z"
+    },
+    {
+      "professor": "Charles Delwiche",
+      "course": "BSCI207",
+      "review": "Honestly, I've never gotten a C in a biology class before.  This class is pointless.  I really don't feel that this has improved my understanding of biology whatsoever.  I think that he makes the tests impossible and he doesn't talk about enough during his lectures.",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2008-12-17T21:14:00Z"
+    },
+    {
+      "professor": "Charles Delwiche",
+      "course": "BSCI207",
+      "review": "Lectures were interesting but it was difficult to tell what we were supposed to be learning. Exams did not make any sense. He is approachable and I would consider doing research with him. The most I can say about this class was that I've never had such an interesting class that I had no idea what we were learning. ",
+      "rating": 2,
+      "expected_grade": "C",
+      "created": "2008-12-09T20:18:00Z"
+    },
+    {
+      "professor": "Charles Delwiche",
+      "course": "BSCI207",
+      "review": "Helpful hint to doing well in this class: MEMORIZE EVERYTHING. Every chapter assigned and all of the lectures. Make sure you understand it all too, because the tests actually make you think. Lectures were interesting, but don't fall behind because it's all fast-paced. Interacts with students, and really helpful when it comes to questions.",
+      "rating": 4,
+      "expected_grade": "C",
+      "created": "2008-12-08T17:49:00Z"
+    },
+    {
+      "professor": "Charles Delwiche",
+      "course": "BSCI207",
+      "review": "Only care for the students is reminding them to drop before the fail with an F.  His exams are ridiculous.  His lectures need to be reviewed to help the student more than trying to confuse them for the exam.  ",
+      "rating": 1,
+      "expected_grade": "D",
+      "created": "2008-11-10T03:49:00Z"
+    },
+    {
+      "professor": "William Jeffery",
+      "course": "BSCI207",
+      "review": "Jeffery is pretty straight-foward. His teaching style is very like high school; it is all powerpoint and reading off it. He is pretty monotone, but is interested in the subject. \r\nThe class covers much of what AP Bio did in high school but a little more in depth. The thing is, the exams are pretty specific. Examples that he goes through in class shows up on the exam. I put little effort and got a B.\r\nI personally don't think 207 should be pre-req/requirement for the bio major. But if you have a choice, Jeffery is a good choice considering the other professors.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2010-06-08T18:30:00Z"
+    },
+    {
+      "professor": "William Jeffery",
+      "course": "BSCI207",
+      "review": "His lectures aren't the most exciting things in the world but if you enjoy biology then you shouldn't have a problem paying attention. He really knows his stuff! I agree with the person that said to record lectures. I think it would help if you're like me and let your mind wander during lecture. His exams are fair considering other teachers make this course impossibly difficult. I would take him again if I had the opportunity later on in my other classes.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2010-01-04T17:00:00Z"
+    },
+    {
+      "professor": "William Jeffery",
+      "course": "BSCI207",
+      "review": "He is not the most exciting teacher, but he talks in a slow pace which makes the lectures easier to understand. Concepts are explained really well. The lecture slides are organized. He does not give sample exams that are similar to the actual exams, but rather practice questions. Exams are not too difficult though. There are no clicker questions or homework in this class, but everyone is expected to review the power points and read the book to stay on track. It is extremely helpful to buy a recorder and record the lectures and listen to them later along with the power points for review.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2009-12-09T15:39:00Z"
+    },
+    {
+      "professor": "William Jeffery",
+      "course": "BSCI207",
+      "review": "Lectures are boring, but the material is really interesting, and he does know what he is talking about. There is a lot he does not put on the powerpoints that he just talks about, so you have to pay attention anyway. His tests were fair, and drew mostly from the lectures. Reading the book wasn't necessary, but still helpful.",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2009-10-21T19:43:00Z"
+    },
+    {
+      "professor": "William Jeffery",
+      "course": "BSCI207",
+      "review": "Lectures are soooo boring. He will put you to sleep. Uses Power Point and puts slides online after class. Exams aren't too bad if you know his lectures.",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2007-11-03T18:57:00Z"
+    },
+    {
+      "professor": "William Jeffery",
+      "course": "BSCI207",
+      "review": "Snoooozefest. \r\nIncredibly monotonous and relies tremendously on slides. Awfully boring lecturer, but on the plus side has really objective exams that are not insanely difficult. ",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2007-10-21T00:01:00Z"
+    },
+    {
+      "professor": "Eric Haag",
+      "course": "BSCI207",
+      "review": "I am taking this class right now and I love it. There is a lot of material covered, but the exams are very fair. You can drop one exam, but I honestly don't even think I need to. He is a very nice teacher and is very helpful during office hours. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2016-11-19T22:45:00Z"
+    },
+    {
+      "professor": "Eric Haag",
+      "course": "BSCI207",
+      "review": "I feel sort of bad giving Dr. Eric a bad review because he's genuinely a very nice person but just... this class was hell. It was horrible. It was disorganized and totally incomprehensible. The sheer quantity of material that gets covered is insane. I want to be mad at the professors for it but I don't think it's entirely their fault I think it's just a bad course. This information shouldn't be taught all in one class. You learn nothing because you can't organize it, and studying sucks and is inefficient. Two professor's teach this class because they can't get one person who knows everything that's covered. You can ask a question about some of the material to one professor and they won't know the answer because it's the other professor's specialization. Can I give UMD a bad review for making this a class?? \n\r\nI love biology. It's been my favorite since I was 3 years old and I'm 100% solid in my major choice but this class made me hate it for the first time ever. I dreaded learning bio and studying bio. Poor Dr. Eric, guy probably did the best he could with the shit material.\n\r\nThat being said, we did group projects which I hardly found helpful beyond finding people to complain about the class with. I feel like they just need work, they were (like most of the class) badly organized and confusing and the point behind them was never clear until you re-read them 3 times alone while studying. ",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2016-01-02T05:29:00Z"
+    },
+    {
+      "professor": "Eric Haag",
+      "course": "BSCI207",
+      "review": "Nice guy, bad teacher. He wasn't even familiar with half of the information he was teaching us and admitted it to the class during lectures. He's very nice with a great personality but I question why he's teaching a class if he doesn't know the material....",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2014-01-01T13:04:00Z"
+    },
+    {
+      "professor": "Eric Haag",
+      "course": "BSCI207",
+      "review": "I was taught by Dr. Haag in BSCI207. It was his first semester teaching this course and he was as clueless as can be. He was not very familiar with the course material (even admits he teaches himself the material the night before a lecture). He is a very nice guy but not very knowledgeable. But I can't bash him for that because he probably didn't want to teach this awful course. Haag is a developmental biologist who teaches upper level bsci classes. Haag could be funny sometimes and he is a nice guy. I am sure he is a much better professor when teaching an area of his expertise as opposed to bsci207 which he has never taught before. However, if you are debating which bsci207 to take, you won't be stuck with just Haag, the class is usually taught by 2 or 3 professors which could get annoying. Enjoy...",
+      "rating": 2,
+      "expected_grade": "C+",
+      "created": "2012-05-17T12:59:00Z"
+    },
+    {
+      "professor": "Leo Shapiro",
+      "course": "BSCI207",
+      "review": "You need to teach yourself in this class. Going to class seemed like a waste of my time, because Dr. Shapiro would go too fast for me to read (let alone write anything) from the slides. His slides contain all the information for the exams, and he focuses heavily on diagrams for exams. If you study the slides, you will do fine on the tests. There are four exams and a final, but he drops one of the exams. I can tell he cares about his students a lot and wants us to succeed, but I just wish his lectures were more interesting and he organized the topics a little better. ",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2016-04-15T12:20:00Z"
+    },
+    {
+      "professor": "Leo Shapiro",
+      "course": "BSCI207",
+      "review": "He is not the best teacher, he doesn't know how to explain some of the most important topics in the course. He often confused his students even himself. He reads off the slides which I did not like. He often seemed unprepared. Sometimes he wouldn't even know what he meant by his slides. Terrible. ",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2016-01-04T11:01:00Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "I took BSCI207 with Dr. Karen and with Dr. Eric Haag and I already aired my grievances about the class itself over in Dr. Eric's reviews but I just wanted to drop by here and say that Dr. Karen can teach neurons really darn well. I properly understood one unit in this whole class and it was the neurons unit and it was her doing. One review says her slides are long and this is true, I wish she just had more classes to teach her stuff. But she makes the slides so you can understand them when you go back through them, which is nice because that's pretty much the only way to study for this class from the fiery depths. \n\r\nDr. Karen is very nice and I think a good teacher when she's not forced to teach the 207 material.Overall not a bad professor to have a course with. ",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2016-01-02T05:36:00Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "Wayy to much information on her powerpoint slides. Over 50 slides for each of her presentations for a 50 minute class. She's really nice but not a great teacher",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2014-01-01T12:56:00Z"
+    },
+    {
+      "professor": "Nicholas Fletcher",
+      "course": "BSCI207",
+      "review": "Very good professor. His lectures are very interesting and thorough. Exams are based on lecture material and have a reasonable level of difficulty. Also he\u2019s a nice guy!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2020-10-04T21:15:04Z"
+    },
+    {
+      "professor": "Nicholas Fletcher",
+      "course": "BSCI207",
+      "review": "He's a very good professor, and is really helpful during office hours and answers questions. His lectures and lecture notes are thorough and prepare you well for exams. His exams are relatively easy, as long as you keep up with the lectures you'll be fine. ",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2020-12-03T23:03:14Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "Wow, probably the best teacher I've had this semester and that's even though it was mostly asynchronous.\r\nIt's definitely not an easy class, you really have to work for it if you want a good grade. I don't mean that there were a lot of difficult assignments, I mean that the material itself is quite difficult, but I learned so much from it. She has each lecture (approx 50 minutes) broken up into 3-4 different smaller videos which is so awesome. It makes it so much easier do digest and absorb the material because of the smaller bite sized lectures.\r\nDr. Karen is also just very nice. She gets back to emails relatively quickly, and she also is just a very sweet person. I really enjoyed the class and definitely recommend it. I've heard that the BSCI207 teachers are generally very good, but Dr. Karen was just awesome.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2020-12-18T17:33:23Z"
+    },
+    {
+      "professor": "Nicholas Fletcher",
+      "course": "BSCI207",
+      "review": "Super nice, broke lecture videos into parts so they weren't too long, also gave a survey for extra credit",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-01-26T02:19:34Z"
+    },
+    {
+      "professor": "Eric Haag",
+      "course": "BSCI207",
+      "review": "I am currently taking this course with Dr. Haag, and it sucks. He talks really fast and doesn't know how to answer a question in less than 3 sentences, overcomplicating absolutely everything. Classes are 50 minutes and he expects us to go through a 40 slide powerpoint, which we of course never do because he talks so much, so he just speeds up and skips things that turn out to be important. He gives absolutely no feedback on what stuff is going to be on the exam, which makes studying nearly impossible because he gives so much information. Also - if he says 'this is not AP Bio, you're not supposed to memorize information by understand greater concepts' don't listen. He has said that twice now and both times he asks extremely (unnecessary) specific questions that there is literally no greater purpose to memorizing. Half the time, he would tell is that he doesn't know the information because it wasn't his specialty, which 1) is extremely annoying because why should I have to know it but not you, and 2) makes it extremely clear to me this is too much information for 1 class. In the past I have loved my BSCI classes, but this class makes me want to cry and fall asleep at the same time, every single time. ",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2021-10-20T18:54:12Z"
+    },
+    {
+      "professor": "Nicholas Fletcher",
+      "course": "BSCI207",
+      "review": "Genuinely nice guy. Awesome professor. Engaging material. Definitely my favorite class. I was a nervous freshman coming into BSCI207 but feel very confident in my abilities in his class. Definitely inspired me to continue down the biology track. TAKE HIS CLASS!!! All his lectures are recorded, he provides study guides, multiple attempts on concept checks, and you really dont have to read any textbook stuff except for the short GAE readings to pass his class. AND you get a cheat sheet on every exam!!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-10-25T14:27:50Z"
+    },
+    {
+      "professor": "Nicholas Fletcher",
+      "course": "BSCI207",
+      "review": "Such an amazing professor! His lectures were easy to follow and he takes his time explaining the material. He really cares about his students and is easily approachable if you have an issue. He drops the lowest test grade which is a big help. If you go to the lectures and study the material you will do good on the exams.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-10-28T22:11:55Z"
+    },
+    {
+      "professor": "Eric Haag",
+      "course": "BSCI207",
+      "review": "Dr. Haag is a very nice guy, and does his best to be engaging and interesting with material that is not necessarily that cool. Personally, I don't see the value in this class especially since a lot of it is just detailed AP Biology and concepts that most people should already be familiar with, just in a really detailed format. If you want this class as transfer credit, it counts as general bio 2 in most other universities, which emphasizes what I said before. Whenever Dr. Haag does what he calls \"tours of organisms\" the class gets confusing since we don't know what we're supposed to be taking notes on and what we actually have to know, since he just seems to be presenting basically fun facts of each organism. For these tours, I would recommend that you take notes on the key concepts that make them different from other organisms instead of memorizing every single feature of each organism, since test questions won't ask you about random specific information, rather they will ask you about how it is relevant and why it matters.\r\n\r\nAll that being said, however, the class itself is not difficult provided you are willing to put in more than the bare minimum amount of effort to get by, which can be said for all biology classes at any university. The class is intuition-based provided you have memorized the key concepts needed to be able to use intuition. As a study technique, I HIGHLY recommend reviewing for exams through the GSS sessions and going through every lecture and making sure you can understand each slide and put it in your own words. There are no past exams, at least not for our semester, so the GSS leader makes practice exam questions and summarizes each of the lectures, so definitely go to those. He allows you to drop a test at the end of the semester (even though I probably won't need to) which can be hugely impactful for people that failed the first test and needed to get the hang of things and the way the class is taught. There are 4 units and 1 exam per unit, the exams are fair in length and difficulty. He even adjusts the length and difficulty of exams based on performance of his students on previous exams. Personally, I think Dr. Haag is doing a good job at teaching all this material in a way that keeps us interested and engaged. Whenever he geeks out over concepts, it makes the class a lot more interesting and even though we don't always get through the material in lecture, part of the responsibility of reviewing lecture notes afterwards lays on us students. But, I will say that having a class longer than 50 minutes would probably be better so that we can actually fully get through the material and not have to rush through parts of the lecture just to finish on time.\r\n\r\nDr. Haag is very responsive to emails and is very helpful as long as you are willing to take initiative and reach out to him. Overall, pretty good class as long as you put in the effort, good professor, and great person.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-10-29T15:15:00Z"
+    },
+    {
+      "professor": "Eric Haag",
+      "course": "BSCI207",
+      "review": "Dr Haag does the best he can with this terrible course. I would like to give him a poor review, but truly I think the course is the problem and not the professor. I received over a 96% average in both 161 and 171, and I am currently hoping to end with a B- in this class (207). The material covered is literally all over the place, one days information usually has nothing to do with the next. This makes it hard to retain small details and study because the topics contained on one single test can be so vastly different from each other (hard to study fungi and kidneys at the same time..). Personally, I recommend just staying away from this course. It's way too much random information and minuscule details thrown into one course. That being said, If you do need to take it for a major requirement, Haag is not a bad choice. He truly wants his students to do well and he adjusts each exam according to performance on the last exam. The averages of our exams have all been around C-, increasing with each exam. He also recently adjusted the exams so that a \"cheat sheet\" can be used, which is very considerate of him but it only boosted the average exam grade about 5 percent because again, the material is just so all over the place. Just be prepared to have an overwhelming amount of material covered, regardless of the professor. Take advantage of how helpful and caring Dr Haag is by asking questions and asking for help, there's also GSS sessions that are very helpful. ",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2021-11-24T19:21:43Z"
+    },
+    {
+      "professor": "Nicholas Fletcher",
+      "course": "BSCI207",
+      "review": "If I could go past 5 stars, I would. He may be one of the most understanding, kind, and humorous professors I have had. He is extremely organized, his page is easy to follow, and he is so aware of the difficulty of the class. He provides his students with literally everything you will need to succeed. We have homeworks that are graded on effort, GAE quizzes and concept checks that are sometimes directly questions that are put on the exam, and he allows a cheat sheet during exams. You really can't ask for anything more from a professor, let alone a biology/STEM prof. He is amazing and I wish I could take more classes with him!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-12-01T00:27:02Z"
+    },
+    {
+      "professor": "Nicholas Fletcher",
+      "course": "BSCI207",
+      "review": "Best professor for BSCI207. He is the most understanding and flexible professor there is. My friend has the other professor for this class and failed. There\u2019s a lot of assignments to help boost your grade. One exam gets dropped. He has concept checks after every lecture to help ensure you understand the material. He allows cheat sheets for exams with equations etc. He is also kind and funny. He has a cute dog. He makes class fun and there\u2019s a lot of hands on activities. 10/10 recommend. ",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2021-12-08T22:56:25Z"
+    },
+    {
+      "professor": "Nicholas Fletcher",
+      "course": "BSCI207",
+      "review": "I would agree with all the other 5 star reviews, this man deserves nothing less than a 5/5 on any teacher rating platform. He's literally so understanding and tries to make the loads of information as manageable as possible. He's funny and will tell you the crazy things about his life and he is very accessible outside of class. Cannot stress this enough, TAKE HIM IF YOU CAN. I would write more about what his grading is like but I'm too lazy, just look at the review from 12/01/2021 for a breakdown.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2021-12-09T21:28:31Z"
+    },
+    {
+      "professor": "Eric Haag",
+      "course": "BSCI207",
+      "review": "He is a really nice guy, but this course is not it. The material literally does not correlate with anything. One lecture we are talking about the kidney and the next class we are talking about evolutionary trends of bacteria. It made studying really hard because we had to remember every single detail. His tests are also really hard as well - but you eventually become better at taking them. Also, I don't think he curves, so there is that. Also, Dr.Haag is very enthusiastic about his work and all that he goes on tangents that make no sense and it's hard to tell what his tangent is and what the material is. Another thing that annoyed me so much is that the lecture slides for one lecture are about 50 slides. He takes 40 minutes going through 10-15 slides and then rushes the last 35-40 slides. It was really frustrating since we were still held accountable to know all of the material that he just rushed through. \r\n\r\nOverall, nice guy but terrible course - avoid at all costs.",
+      "rating": 2,
+      "expected_grade": "B-",
+      "created": "2021-12-16T23:53:44Z"
+    },
+    {
+      "professor": "Eric Haag",
+      "course": "BSCI207",
+      "review": "I feel that he is a nice guy, but is awful at lecturing. He always plans to get through a 30-40 ppt slide in 50 mins when we only end up actually getting through about 15 of the slides (then he expects us to just know the rest for the test). Sometimes he will see that we have 5 minutes left in class and 20 more slides to get through, so he'll quickly flip through the last slides. Not only that but he is just all over the place, the slides most times are disorganized and he will talk about the least important thing for 10 minutes. His exams are so hard and he purposely tries to make the questions difficult. The averages were 50-60 range constantly, even when he let us use an 8x11 page front and back for the test. Also we had exam 4, 5 days before the final....\r\n\r\nWould NOTTTTTT recommend him to anyone",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2021-12-17T16:45:53Z"
+    },
+    {
+      "professor": "Nicholas Fletcher",
+      "course": "BSCI207",
+      "review": "Dr. Fletcher is seriously the best I love him so much. The material in this course can be very difficult as its a very in depth explanation of many concepts, but Dr. Fletcher gives you all the tools to succeed. For every exam he allowed an entire sheet of paper for cheat sheet notes which was very helpful. He's super understanding and knows exactly what he's talking about and how to explain it. Seriously take him for any class you can, you won't regret it. ",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2021-12-19T21:08:57Z"
+    },
+    {
+      "professor": "Nicholas Fletcher",
+      "course": "BSCI207",
+      "review": "Dr. Fletcher was a real highlight for me during my time at UMD. His class style is clear and engaging, making taking on such large chunks of information very doable. Learning expectations were clear and success in his class is viable given some effort. Outstanding professor and I would recommend him to anyone. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-01-06T19:04:12Z"
+    },
+    {
+      "professor": "Eric Haag",
+      "course": "BSCI207",
+      "review": "Dr.Haag is a super nice guy. He is very understanding and tries to make things as interesting as possible. However, the class SUCKS. BSCI207 is one of the worst classes I've ever taken and I would avoid it at all costs unless you need it for a prerequisite (like I did). The material is super boring, doesn't connect from one lecture to another, and is a jumble of things you will learn in other bio, physics, chem, and plant science classes. Dr.Haag's exams are hard to understand and are always looking for more than just memorization. Because of the type of material, it's super difficult to know what they're looking for. The TAs also aren't much help so you're kind of screwed. ALSO : 4 MIDTERMS AND A FINAL, MIDTERM 4 WAS ON THE MONDAY OF EXAM WEEK AND THE FINAL WAS ON THAT SATURDAY. Avoid at all costs!!!",
+      "rating": 2,
+      "expected_grade": "B-",
+      "created": "2022-01-10T22:42:49Z"
+    },
+    {
+      "professor": "Nicholas Fletcher",
+      "course": "BSCI207",
+      "review": "I loved loved loved Dr. Fletcher! He gave you all the resources you needed to pass and didn't make his class more difficult than it needed to be. Everything connected with each other, there wasn't any busy work. The work load was absolutely fine, and the entire class was graded on (pretty much) completion except for the exams.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2022-01-11T02:06:59Z"
+    },
+    {
+      "professor": "Nicholas Fletcher",
+      "course": "BSCI207",
+      "review": "Fletcher is a great professor who frankly made 207 a very easy class to get a good grade in. Lectures were easy to follow, and he also provided an additional resource that was kind of like an online 207 textbook that could be helpful sometimes. The work load was not heavy at all. Following every lecture would be a quick 2 point concept check which you get 3 attempts on, and every couple weeks there would be a homework assignment that was usually pretty challenging, but they were really just graded for effort, not accuracy. There would also be these in-class group assignments (GAEs) every other week which were probably the most annoying part of the class; we had to watch a lecture video and complete a quiz in preparation for it, and the assignment itself was done on one piece of paper for the whole group of 5 or 6 people, meaning not everyone really got to see what was going on. But again, these were only graded for completion so it wasn't much of an issue.\r\nThere were 3 midterm exams which weren't that tough, considering we could make a one-sided cheat sheet paper to cram all our notes on. Same goes for the final, but the cheat sheet could actually be two-sided. He also dropped our lowest midterm grade, as well as the lowest grade in every assignment category. And there were some small extra credit questions on the exams too, so as long as you made a good cheat sheet, getting an A on them was not much of a challenge.\r\nOverall, Fletcher is a nice guy who is very approachable and passionate, and has a cute dog.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-05-20T15:52:25Z"
+    },
+    {
+      "professor": "Nicholas Fletcher",
+      "course": "BSCI207",
+      "review": "Dr. Fletcher might be the best teacher in all of UMD. I took his class Tuesdays and Thursdays, and since he was used to having MWF lectures the class pace was a little fast, but he is such a fantastic lecturer it didn't make class any more difficult. He posts lectures for review, too! He drops the lowest assignments and test grades. There are three tests and a final, but he makes it SO EASY to review for tests. The work isn't too difficult (and if you don't understand it, there were three TAs, two GSS leaders, and Fletcher himself to help) and the work is super helpful for studying. Textbooks are not necessary, but they are helpful. If you take the class seriously and make sure you understand most of the content, it is very easy to get an A. TAKE THIS PROF!!!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-05-22T21:03:09Z"
+    },
+    {
+      "professor": "Nicholas Fletcher",
+      "course": "BSCI207",
+      "review": "Dr. Fletcher is a great professor. His assignments were pretty easy and you could go to his office hours where he's happy to answer any questions on the homework and basically gives you the answer. All of his assignments were very helpful in understanding the material. I will say there is a lot of material covered in this class and most of the questions on the exam are straight memorization and a few conceptual. I found the exams to be challenging but Dr. Fletcher is such an amazing professor so if you have any questions at all he'll be happy to help and explain things thoroughly. He also drops the lowest assignment and lowest test so if you're happy with your grade you don't need to take the last exam. Overall I would definitely recommend Fletcher for BSCI207 as it is a challenging class but he makes it as easy as possible.   ",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2022-07-13T18:02:45Z"
+    },
+    {
+      "professor": "Nicholas Fletcher",
+      "course": "BSCI207",
+      "review": "Nick is a really fun and interesting lecturer. He encourages students to talk to each other and has weekly group activities. All of his lectures are on panopto with subtitles so if you miss something during class or couldn't hear something he said it isn't a problem. You can also bring a formula sheet to exams and write on it which is pretty great. If you take any other prof 4 207 you are making a mistake.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-10-12T22:27:37.921849Z"
+    },
+    {
+      "professor": "Nicholas Fletcher",
+      "course": "BSCI207",
+      "review": "Dr. Fletcher is a super easy-going and overall kind professor who implements a lot of grading policies that are super beneficial for his students. With three classes per week, generally two of them are lectures and the other is a Group Active Engagement Session (GAE) that allows you to work with classmates on a worksheet, which is graded for completion. It's a great way to make a big class feel smaller. Before the GAEs, you have to do prep work and then take a quiz, which you only get one try on.\r\n\r\nAfter every class, you have a 1 point concept check to take, which is usually 3-5 questions, and you have three tries to get 100%. These are also easy ways to get points since you can go look back at the lecture slides and your notes.\r\n\r\nDr. Fletcher also assigns homework approximately every two weeks that are graded on effort. They're usually not too hard. \r\nIn regards to all of the assignments listed above, some of your worst scores get dropped since there are so many of them. So hypothetically, you could not do some of them and be completely fine since they'd be dropped.\r\nThe exams are not too too hard if you study, but if you don't, I can bet they're difficult. This class builds off a lot of previous bio classes, so having prior knowledge can help you out a lot. Dr. Fletcher allows you to bring an equation sheet that serves as a cheat sheet that you can write on for every exam. Then, he drops your worst exam grade out of three. The only bad thing about this is that I don't think there's a curve at the end of the class since one gets dropped and the class average is a C on most exams. So, you really just need to study and get good exam grades to get an overall good grade in the class because you can't rely on a curve. \r\nThe main reason I give Dr. Fletcher 4 stars instead of 5 is because I think his lectures can get a little boring. Some of the content of this class is interesting, and Dr. Fletcher's passion does make it more interesting, but some lectures are just really hard to sit through when it's just him talking. I think it would be more engaging if some videos or animations were shown so students could see the biological processes in action.\r\nOverall, I highly recommend Fletcher for BSCI207. I don't think you can find a better professor for it.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2022-12-03T19:26:16.437922Z"
+    },
+    {
+      "professor": "Nicholas Fletcher",
+      "course": "BSCI207",
+      "review": "Nick is an engaging lecturer and is great at helping freshmen make the transition to college. He previously taught at MC so I think he has a lot of understanding regarding the difficult transition that freshmen have to make which is important for teaching 100 and 200 levels. I took 207 as a junior due to procrastination and it almost felt \u201ctoo nice\u201d. However, you are expected to stay on top of things in this class. There will usually be either one HW or one GAE (group activity) every week and there will be a concept check after every lecture. Be aware of this and always do your work. You do not want to lose easy points in this class!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-12-06T19:43:03.258710Z"
+    },
+    {
+      "professor": "Nicholas Fletcher",
+      "course": "BSCI207",
+      "review": "Fletcher's a good professor but I personally don't really like his class. He goes really into depth with everything, but a lot of the time its just way too much talking. My lectures were only 50 minutes long but they are packeddd with information and its kind of overwhelming. It's very very useful to have cheat sheets for the exams because it's usually a lot of material. Its easy to do well in this class as long as you are prepared for each exam. The homeworks and GAE's are all graded for completion and you have a lot of opportunities to bring your grade up with the online quizzes. He gives you 3 attempts for the concept quizzes after every lecture, but just one for the GAE quizzes before the GAE to make sure you watched the GAE lecture and  material beforehand. He also drops the lowest exam, quiz, and homework. He's a really nice, engaging, and easy-going lecturer, but this class just wasn't for me. I do recommend him though.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2022-12-11T21:10:40.979010Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "Very nice professor! Lectures are very easy to understand if you pay attention. She records her lectures and posts her slides so that students can look back on whatever we missed, which is really helpful for when we review for exams. She had 3 exams and dropped the lowest one, so she keeps the best 2 exams. For exams, she lets us have a cheat sheet which is really helpful because it forces us to actually review the material. For the first 2 exams, she gave us opportunity to bring the score up by a couple of points. I always went to office hours and she would always be very helpful and breakdown anything I was confused about. She's probably my favorite professor!",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2022-12-16T16:00:26.801919Z"
+    },
+    {
+      "professor": "Nicholas Fletcher",
+      "course": "BSCI207",
+      "review": "Dr. Fletcher is great. I can only say positive things about him. He\u2019s always smiling and you can tell he cares about what he is teaching which makes his lectures that much more interesting. He does everything in his power to make getting a good grade easy. Everything is completion other than the exams, you can drop the lowest midterm, and you can have a cheat sheet on each exam.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-12-18T21:23:25.086850Z"
+    },
+    {
+      "professor": "Nicholas Fletcher",
+      "course": "BSCI207",
+      "review": "Dr. Fletcher is the nicest professor for 207. This course has a lot of content that is straight memorization but he lets you use cheat sheets and gives you plenty of resources to study from. After each lecture there are concept check quizzes which are questions that always end up on the midterms and the final. Attend office hours if you want answers to the exam study guides, or lecture content. He makes the classes entertaining and interactive, which is so different from other professors. He also records lectures so if you miss a few it's not a big deal. As long as you study in advance of the exams this class will be easy.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-12-18T23:07:45.519359Z"
+    },
+    {
+      "professor": "Nicholas Fletcher",
+      "course": "BSCI207",
+      "review": "Fletcher is an amazing professor who genuinely cares about his students and what he's teaching. He's always really clear on what is expected on assignments and exams, and he grades leniently. This course, in general, is super content heavy, so definitely make sure to watch all of the lectures, as each 50 minute lecture has loads of content. He is really great at explaining each concept. The fact that he allows a cheat sheet on his exams definitely helps, and his exams accurately reflect his exam guides, homework, and GAEs. As long as you do all of the work and keep up on lectures, you will be fine. I would highly recommend taking Fletcher.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-12-19T04:19:01.322260Z"
+    },
+    {
+      "professor": "Nicholas Fletcher",
+      "course": "BSCI207",
+      "review": "Dr. Fletcher is a great professor! He records all his lectures, drops the lowest grade in each category, and has very fair exams. The questions are always straight forward and I never felt like there was a question that we never covered. He also sometimes cracks jokes or asks you to discuss with your classmates during lecture which keeps you engaged. One complaint though is that he sometimes talks fast and covers a LOT of information in one lecture. It can be really hard to keep up and can get boring at times if you're not interested in the topics. However, I feel like the fact that he records lectures compensate for this since you can always catch up on information you missed later. Overall, nice guy and I would for sure recommend him for 207.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-12-20T21:03:56.566444Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "Like everyone says, she\u2019s a kind and sincere professor. I just feel the lectures are her reading off the 50 or so slides where we don\u2019t even have time to write much of anything down. Each lecture is pretty loosely related to each other so it doesn\u2019t really matter too much if you skip one because you can watch the recording. I felt she was an alright prof and attribute most of my success to the cheat sheet for exams and just reviewing lecture recordings because I skipped a decent amount of lectures.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2022-12-27T07:25:20.046809Z"
+    },
+    {
+      "professor": "Nicholas Fletcher",
+      "course": "BSCI207",
+      "review": "Fletcher is the nicest guy you'll ever meet; he makes the class environment super welcoming towards new students and won't hesitate to help you. However, I found his exams kinda difficult; they are very detail-oriented, and while it holds true that everything comes off of his slideshows, his slideshows are each about 75 slides long, and there's around 10 slideshows per unit. It's a lot of content to cover. If I could retake the course, I'd start reviewing information earlier before exams because a lot of it is memory based. \r\nI also think his lectures are more on the ramble-y side, but he records them, so you don't have to attend if you don't want to. Overall, great and approachable guy!",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2023-01-08T17:10:13.015052Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "I loved Dr. Karen. She is the sweetest professor I've had so far and she clearly cares about what she's teaching. The only reason I took off a star is because classes are boring and she kinda just reads from the slide. I also had a hard time telling what to study or telling how specific the exams would get about the content. But other than that it was chill. There are concept checks that are ungraded practice DO THEM literally like 30% of the first exam multiple choice I already knew because I did the checks. Could have gotten an A if I studied more and went to class :/",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2023-03-12T03:36:42.660746Z"
+    },
+    {
+      "professor": "Leo Shapiro",
+      "course": "BSCI207",
+      "review": "Great professor! He really cares about all of his students and listens to any concerns we have about exams, homework, due dates, etc. The class is definitely hard, but the work and exams are fair. you should definitely go to lecture, he posts the slides on canvas, but he talks about them and adds a lot more info that isn\u2019t on the power point. He adds in humor which keeps the class engaging and fun.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2023-04-11T19:13:31.626429Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "Dr. Carleton is one of the best teachers I have had. She broke down the content into well-organized lectures. She was very clear with what will be tested and made the memorization-heavy content digestible. She allowed us to make and have a cheat sheet which was a lifesaver. DO THE CONCEPT CHECKS! The concept checks are going to be very helpful. She genuinely is a good teacher and wants you to do well.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-04-25T00:26:25.517027Z"
+    },
+    {
+      "professor": "Leo Shapiro",
+      "course": "BSCI207",
+      "review": "his class was the most boring class i've ever had to take. he would always read straight from the slides in a monotonous tone. that being said, he's accommodating and flexible and his exams are very fair.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2023-05-09T15:22:49.542733Z"
+    },
+    {
+      "professor": "Leo Shapiro",
+      "course": "BSCI207",
+      "review": "Would not recommend him for bsci207. Pls take someone else if u can. He's pretty monotone. His exams and quizzes are unnecessarily hard. Hw are annoying because T.A take a lot of points off. The only good thing is he drops the lowest midterm or down weight the finals.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2023-05-18T04:29:26.620755Z"
+    },
+    {
+      "professor": "Leo Shapiro",
+      "course": "BSCI207",
+      "review": "Really good lecturer and overall an extremely nice person. Lecture slides are posted but I highly recommend attending lectures because anything he emphasizes almost always shows up on tests. If you really just pay attention to what he is saying you can get an A. Exams are extremely fair and similar to the practice questions he posts. The quizzes always have one hard question. I got a 4/5 on almost every quiz. Homeworks are easy and graded lightly. Overall he is extremely nice he was consistently extending quiz and homework deadlines to help people out.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-22T02:41:55.376014Z"
+    },
+    {
+      "professor": "Leo Shapiro",
+      "course": "BSCI207",
+      "review": "Dr. Shapiro is super nice and fun! I don't see why other reviewers called him boring. He really cares about these topics (especially scaling, so be sure to study that). His lectures are super super dense, which can be tiring, but he makes jokes to help you get through them. \r\nHe is very open to criticism. One of my classmates informed him that he lectured too fast, and by the next class it was fixed. He assigned a super hard homework, which received complaints, and he apologized. It did not happen again. You definitely don't see this type of behavior often from professors. When a class average on an exam was too low (I don't know exactly what percent that was) he would scale it up a couple points. Also, an entire exam was dropped, and there were a couple points of extra credit given during the semester.\r\nThere are small multiple choice quizzes given on each topic, and 5 homework assignments. He extended the deadline on a lot of our quizzes, but I would not expect that to occur as often in the future.\r\nThe exams are a bit tough because the material is a bit tough. But, they're fair, especially given that one of the 3 exams was dropped. Overall, I would take a class with Dr. Shapiro again. I have not had many STEM professors that care about their students as much as he does.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2023-05-23T17:57:57.831450Z"
+    },
+    {
+      "professor": "Leo Shapiro",
+      "course": "BSCI207",
+      "review": "Do not take him for bsci207. Exams are way harder than other profs",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2023-05-28T20:52:45.104010Z"
+    },
+    {
+      "professor": "Nicholas Fletcher",
+      "course": "BSCI207",
+      "review": "He's very nice and he's a great lecturer!",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2023-09-19T21:44:18.314376Z"
+    },
+    {
+      "professor": "Nicholas Fletcher",
+      "course": "BSCI207",
+      "review": "Literally the best professor I have ever had. He cares about his students so much, and wants all of us to do well in his class. I hope to have him again for BSCI370 because he makes me enjoy the class, and his teaching style makes everyone enjoy coming to lecture. If you have a chance to take a class with him, do it.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-06T15:59:48.133605Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "Dr. Carleton is very kind and tries to make the class interactive by asking students to answer the questions and there\u2019s an activity once a week where you work with others. Her lectures are recorded and she posts the slides with the content. If I didn\u2019t have her at 9am I would\u2019ve gone to class more often lol, but she\u2019s a good professor. She also allows a cheat sheet for exams",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2023-12-06T20:18:56.056342Z"
+    },
+    {
+      "professor": "Nicholas Fletcher",
+      "course": "BSCI207",
+      "review": "Probably one of the best professors i've had. He actually cares about his students and always comes in with a smile, which does more than you think if you're having a stressful day :). I would love to take him again. My advice is don't try and memorize the powerpoints. I would write almost everything on the powerpoint on my reference sheet and it would barley help. This is because he wants you to have a good understanding of overall concepts, rather than trying to memorize a bunch of facts. Great class, if you do the work, it is easy to succeed with Dr. Fletcher!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-12T03:44:52.213748Z"
+    },
+    {
+      "professor": "Nicholas Fletcher",
+      "course": "BSCI207",
+      "review": "Would recommend taking Fletcher. He tries to make lecture engaging and is very enthusiastic about the material. For assignments there are a few homeworks, which are challenging but not too difficult, concept checks after every lecture, and the group worksheets done usually once a week or once every two weeks. The exams are very fair and he allows a note sheet for each one. In lecture he also explains the topics beyond just what is written on the slides and records his lectures which is very helpful for studying. Great teacher!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-12T21:52:09.922064Z"
+    },
+    {
+      "professor": "Nicholas Fletcher",
+      "course": "BSCI207",
+      "review": "dr. fletcher is so sweet!! he's an amazing professor and really explains so many concepts very well, making them both interesting and informative. lectures are recorded, there are concept checks and outside pre-work usually once a week (GAEs), and homework is graded for completion. while the slides were dense, they're always easy to come back to and relearn if you don't fully understand or miss a concept during class. the work is very manageable and dr. fletcher is the GOAT!! :D",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-12-15T03:09:31.830563Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "She is easily one of the best professors I've had so far and potentially one of the best I will ever have. She is not only very experienced with teaching this class but is also genuinely invested in the content and her students. This was the first biology class I had taken in 2 years (AP bio junior year, freshman at the time of writing this) and she made the daunting amount of information in this class extremely manageable and interesting. I will say her lectures are very content packed and we didn't finish all of it every lecture but I think that's just the nature of the class and is difficult to work around. There's also GAE classes which are in-class group activities that essentially force you to make study friends which I really appreciated as I probably wouldn't have gone out of my way to talk to people there otherwise. Her exams are completely fair and not too difficult if you adequately prepare for them and she lets you make cheat sheets for them. She does not curve the class (I don't think it needs too) but she drops the lowest exam, the lowest homework grade, and the lowest GAE score. That said, the homework are for completion, the GAE activity, and the GAE pre-quizes are open note so you'll basically guaranteed to ace them. Overall, I would HIGHLY recommend taking 207 with her.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-12-15T17:01:27.851071Z"
+    },
+    {
+      "professor": "Nicholas Fletcher",
+      "course": "BSCI207",
+      "review": "Dr. Fletcher is amazing. A good person, fair grades (lowest midterm is dropped!), extra credit, and reasonable workload are all things you get with him. Additionally, he encourages questions, is good at explaining topics, and is very welcoming. For the workload, he assigns a short concept check after every lecture, the classes with the group activity have some prep material involved, and there are usually 2-3 homework assignments per midterm, but that's it. For studying, Dr. Fletcher posts an exam guide before every exam that includes some practice exam questions that might even appear on the actual exam. He also allows you to write notes on your equation sheet to use as a reference on the exams. Thank you so much Dr. Fletcher for allowing the reference sheet because there is just so much content covered in BSCI207, I wouldn't even know where to begin studying for it. The exams themselves aren't that hard and they accurately reflect the lecture and GAE material, but there's just a lot of material you have to remember. He also records his lectures which is extremely convenient for note-taking considering the amount of content in this course. The only real downside I can think of is that the final exam is worth more than 1/3 of the final grade, so you really have to study for it. Even then, having this downside is more than worth everything else Dr. Fletcher has to offer.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-12-16T03:57:16.214410Z"
+    },
+    {
+      "professor": "Nicholas Fletcher",
+      "course": "BSCI207",
+      "review": "All his lectures are recorded and he never tests on anything that he didn't cover. Very good teacher who cares about his students. Definitely would take him again.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-12-18T16:27:28.603664Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "Dr. Karen was an incredibly kind and intelligent woman, and a great teacher. Regardless, BSCI207 is a very difficult class (at least it was for me - I was a freshman who placed out of BSCI160 & 170, so I jumped straight in). There is SO much content that it gets very overwhelming. She drops one of three midterms, which is very nice though! I found it kind of hard to follow her lectures, but I am not sure if that had anything to do with her or if it's just because the class is hard. She also has office hours in person and on zoom! All lectures are recorded and posted on canvas as well.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2023-12-19T04:22:14.355615Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "Dr. Karen is the nicest professor I have had so far at UMD! She was super accommodating when I got a concussion and had to make up an exam weeks later. She was always so encouraging and gave great, in-depth answers during office hours. A lot of the exam questions pull from the homeworks, GAEs, and concept checks so doing/reviewing those is a great way to study. She drops the lowest exam of 3 and also gives some extra credit. Her final was very fair and I was able to guess most of the topics that would appear. Her lectures are very dense material wise so I would definitely look over them afterwards to make sure you know what's happening in each one. Take her!",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2023-12-20T21:30:14.625115Z"
+    },
+    {
+      "professor": "Nicholas Fletcher",
+      "course": "BSCI207",
+      "review": "Dr. Fletcher is a great professor and he makes it very easy to succeed in his class! If you put in just a little bit of time (which I didn't do and still ended up with a B+) you can totally get an A. A decent amount of stuff is graded for completion and one exam is dropped. I always enjoy having him as a professor and he really wants to see all of his students succeed.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2023-12-25T01:34:16.728715Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "Dr. Karen is one of the professors who wants students to actually learn and appreciate the wonders of the content. BSCI207 was a bumpy but enjoyable ride despite the absolute whirlwind of information. However, Dr. Karen accommodates that by providing everything you possibly need to succeed in this course, from providing practice questions, recording lectures, and having office hours online to allowing a cheat sheet for every exam! She even drops the lowest midterm and provides extra credit opportunities twice in the semester. Homework and GAEs are basically exam preps and graded for completion. However, still put the effort in and compare with answer keys to test your understanding. Although lectures were a little hard to follow, Dr. Karen is still one of the best professors at UMD I've had so far. She genuinely cares about what she's teaching and her students.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-01-22T16:51:31.458865Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "Dr. Karen is the sweetest professor, who is extremely passionate about what she teaches and cares about her students a lot. I really enjoyed when she included a bit of outside information that connected to the topics and found it very interesting. The lectures are packed with information, so I would highly recommend rewatching the lectures to ensure understanding of all content. However, all the material needed for the midterms and exams is covered by the GAEs and lectures. The homework and GAEs are basically completion and still the lowest HW and GAE scores are dropped, same with the lowest midterm score. Also, a cheat sheet was allowed for each midterm, which really helped consolidate certain information. Overall, I really enjoyed Dr. Karen as a professor and the class.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-03-27T01:27:12.624623Z"
+    },
+    {
+      "professor": "Marcia Shofner",
+      "course": "BSCI207",
+      "review": "I'll start by saying Dr. Shofner is very nice and cares about her students, but that doesn't make up for how unorganized this class is. My class is online and is supposed to be asynchronous with prerecorded lectures and optional question sessions on Zoom every Monday and Wednesday which also serve as her office hours, but very little effort is put into making this class. For the last 4 slide presentations, she hasn't posted the lecture videos (which she explicitly said she will post for all of the slides). There are just slides on new material. Some have just diagrams, but there is no explanation. I signed up for this class knowing there would be video lectures, but now there aren't. Dr. Shofner also doesn't show up to her two day a week office hours/question sessions sometimes with 0 notice or sometimes she will show up 20 minutes late when they are only 50 minutes long. I know professors deal with stuff in their personal lives too, but for the amount of money I had to work for to pay to take this course it is not fair.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2024-04-03T15:30:46.279510Z"
+    },
+    {
+      "professor": "Nicholas Fletcher",
+      "course": "BSCI207",
+      "review": "Okay so if you're pre-med or any type of pre-health this is going to be the least interesting class you take. Don't get me wrong, Dr. Fletcher is a great professor and you can tell that he really cares about what he's teaching. But oh my god it was so hard for me to care about things like the evolution of fungi. All of his assignments outside of class are easy, take little to no time or can be found on quizlet/coursehero. His exams are fair but theres just so much content to cover. The best advice I can give is to study a little bit after every lecture. If you're able to get access to his past exams you are GOLDEN. Most questions he will use are either exactly the same or some kind of re-work (especially for multiple choice) so you get a really good idea of what information he will want you to get out of it. Overall he's a great guy but if you have poor executive function and need to find things interesting to feel motivated to study them, good luck. I ONLY SAY THIS FOR 207 THOUGH. I also had him for 170, and that class was a delight to take with him.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-04-11T11:18:05.649907Z"
+    },
+    {
+      "professor": "Marcia Shofner",
+      "course": "BSCI207",
+      "review": "I took this online during Spring. It was once a week and even for an online this was incredibly disorganized. Just an overflow of information with not real foundation, just jumping from topic to topic. You are also graded on group work, which due to my class being online made it a little difficult to get organized with your team members. Overall I was lucky that it was online, but just the lack of organization made this class unfun.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-04-24T02:22:51.590714Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "Dr. Karen is honestly the best professor I\u2019ve had my freshman year. BSCI207 has a lot of content and memorization, but Dr. Karen makes it very palatable. The group activities (GAEs) are very helpful for learning the content and she lets us have a one-page cheat sheet on exams. The lowest midterm, homework, and GAE are dropped. This class does require a lot of effort and studying (review the GAEs and homeworks), but I strongly believe Dr. Karen makes it more enjoyable for us.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2024-05-20T16:16:41.234793Z"
+    },
+    {
+      "professor": "Marcia Shofner",
+      "course": "BSCI207",
+      "review": "Dr. Shofner is a sweet woman but oh my god this class was a DISASTER. I took it online and it was incredibly disorganized. Half the time she wouldn't show up to the weekly zooms and when she did she would ramble on about unrelated topics and basically just repeat everything that was in the recorded lecture. The lectures were supposed to be 50 min, 2 per week however they would end up being closer to an 1 hour 15 min and there would be multiple per day. Sometimes she would just not post a lecture though which I assumed meant she was giving us the day off, then later post it right before the test and say the material covered would be on it. The material on the tests was not at all reflective of what was covered in the lecture and the TAs were incredibly strict about giving partial credit. The tests are also poorly written and many of the questions made no sense. And I know this part has nothing to do with her but the class is just so stupid the information is useless and not applicable to most bio majors.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2024-10-07T19:33:21.102508Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "Yes, this is hard class, but Dr. Karen is a great teacher and really cares about her students. She gives you lots of resources that you will find useful for studying: GAEs, concept checks, homework, etc. She is passionate about bio and puts effort into making class fun when she can. She has been my favorite freshman professor.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2024-10-15T13:33:50.782447Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "Took this class as a junior because I was starting a microbio double major and this class was so easy.\r\nFor freshman I imagine this course would be more difficult since it's a lot a lot of content. But the class is structured nicely.\r\nThere are 3 midterms and one is dropped. The final exam is based on the last 10 lectures + the content that was covered in the first 3 exams (she said we should only study to make sure we knew what was on the exams, and she provides all exams + keys afterwards).\r\n\r\nAttendance is not required and all lectures are recorded. The exception is that there are 11 in-class activities that you should attend as 10 count for a grade. They are super easy though as it asks you to discuss questions with classmates. In these in-class activities, there were a lot of real-life examples that made it very engaging. \r\nShe is very nice! During in-class activities she is understanding and if students say the wrong thing in discussion (in front of the whole class) she'll do her best to reword it such that it works or coach the student to achieve the right answer.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-11-27T17:09:34.156069Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "Dr Karen is probably one of the best professors I could've taken as a freshman, I found it hard adapting to her teaching style at the beginning but I still ended up getting an 85% on her first test. I did go to GSS and made sure to study quite a bit, but she also drops the lowest midterm which is nice. I got an 85%, 90%, and 85% on the 3 midterms in order, and with all my hw's and gae's im sitting at a 95% in the class. On midterms you get a whole side of a letter paper to put whatever you want on. Sometimes she even allows both sides! Please take her if you are coming into BSCI 207 as a freshman or any other year, BEST TREACHER EVER!\r\n\r\nThe only things that I would like to mention is that her class isnt the type where you write everything down, she focuses on concepts and main ideas. Throughout her lectures you'll like automatically understand what shes focusing on and its almost guaranteed to be on the exam. He lectures are on average like 60 to 70 slides so it is not worth it to write everything down. Focus on main ideas and her gae's. Also GSS for this class is a MUST, for us our gss leader posted her worksheets and answer keys so it was nice.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-04T15:20:37.209349Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "Very nice, can tell she is very passionate about biology, easy grading, GAEs are helpful enough, fast paced but if you study enough you should be fine, you should take her if available",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-04T23:16:12.473982Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "Dr. Carleton is super passionate about biology. She allows drops of some assignments (I forget how many) and 1 exam. I would say the content is a lot, as any other biology course, but it should be fine to learn if you study and commit time to the class. She records her lectures which was super helpful. It's super helpful to me because I rewrite and complete details into my notes that I might have missed in lecture. She is very kind, generous, and always hoping to make the class fun by making the class interactive. I would recommend her!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-06T02:53:36.509473Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "I would 100% recommend Dr. Carleton (She tells us to call her Dr. Karen instead) especially if you are a freshman. She is extremely kind, she caters to different issues you may have, and is honestly one of the best professors I've had. In terms of the course, we have 3 midterms, 11 HWs which are honestly free points as they are graded on effort, not whether you got the Q right, and 11 GAE quizzes which are online (She drops the lowest one of each). You also get a cheat sheet for all exams including the final. Overall 207 is a very challenging course but she made it passable.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2024-12-09T22:08:12.936520Z"
+    },
+    {
+      "professor": "Nicholas Fletcher",
+      "course": "BSCI207",
+      "review": "Dr. Fletcher is such a good professor! His lectures are always recorded so you can watch them anytime, but I highly recommend attending lectures so you can ask questions. My favorite part of the class is the GAEs because you get points for simply trying, same with the homework. You do have post lecture quizzes but they are very easy and you get 3 tries unlimited time. The pre-GAEs are a bit harder because you have to do the reading to understand and you only get 1 attempt. But he drops your lowest GAE, pre-GAE, homework, post-lecture quiz, and exam (excluding the final). You get cheat sheets on your exam, one page (only the front) of hand written notes. The exams are all 75 points. If you put in the effort and ask questions, you'll be alright. I went to office hours once, and I still did pretty good in the class.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2024-12-10T16:31:44.936387Z"
+    },
+    {
+      "professor": "Nicholas Fletcher",
+      "course": "BSCI207",
+      "review": "Dr. Fletcher is probably the best professor I had this semester. He records his lectures and drops the lowest exam, homework, and GAE. His exams are pretty fair/easy, and I got at least an 80 on both the first 2 exams. On the third, I woke up late and had 20 minutes to take a 50 minute exam, which was unfortunate but again, he drops the lowest exam. He is so nice and truly cares about his students. Definitely recommend him for any Bio class.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2024-12-10T23:23:41.748511Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "Dr. Carleton is a great professor, she really cares about her students and makes an effort to promote true learning and application of concepts instead of memorization throughout a very difficult course. She provided a lot of resources like practice quizzes (concept checks) and her office hours were very helpful.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2024-12-13T17:32:18.058830Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "Such a nice woman, very dedicated to her craft and her students' well being. 207 isn't egregiously hard, but make sure to study all her supplemental stuff on ELMS to get the best possible understanding of the content. She also allows note sheets during exams which was great!",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2024-12-16T04:10:16.233440Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "PLS take her she is one the best BSCI professors out there, she is very caring and teaches the information very well. For such a hard class she makes her exams really fair and so if you studied you will be fine. Most of our assignments were bases on completion except for the exams and GAE quizzes which were online. Overall, this class was really enjoyable and taking it with her is very rewarding",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2024-12-18T14:15:56.975087Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "Dr. Karen was a wonderful professor. The class overall was difficult due to the large amount of information being tested. Additionally, the class was not only included biology, but also included subjects like mathematics, physics, and biochemistry, though it was minimal. It took a very holistic approach to organismal biology, including all angles towards the topic. But Dr. Karen tried to make it as digestible as possible. She included a lot of sample problems through check-in quizzes (that weren't graded). A few of those questions even popped up on the final surprisingly. Additionally, she dropped one of the midterms and quizzes, allowing for some leeway. For the final, she doesn't make you review all the content. Instead, she only tests you on the material that was previously tested on the midterms (at least that is how she did it for our semester). This means you don't need to study everything taught during the whole semester, which is fantastic. She also allowed cheat sheets on each exam, so some of the more hyperspecific material did not need to be memorized. Overall, I would definitely recommend Dr. Karen for this class. She explained all the topics thoroughly - making sure there was no confusion - and she always tried her best to help.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-18T15:15:59.439609Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "Honestly one of the best professors at umd. PLS take her she is so caring and kind. She actually wants to teach biology and make sure that every student understands. she has around 11 hws which are all completion and GAE which are also for completion. Her exams are fair but hard, If you study than you will be fine. Overall i loved her teaching style and she is very approachable for office hours.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-20T15:54:55.045663Z"
+    },
+    {
+      "professor": "Nicholas Fletcher",
+      "course": "BSCI207",
+      "review": "Fletcher is a great professor. He records all his lectures and uploads them to Canvas, so really, the only time you have to attend class is when he hosts Group Activity assignments during class (GAEs). You will get full points on the homework and in-class GAEs for just attempting them. The online concept checks have three attempts and unlimited time, while the online GAE-preps have one attempt with unlimited time. He does ramble a bit during lectures but usually gets through everything he needs to just fine. You do get cheat sheets for all the exams, the front page of the equation sheet for all the midterms, and the front and back of the equation sheet for the final exam. I would have done better if I studied more, so just study a decent amount and write what you can't grasp onto the cheat sheet and you'll be fine. He also rounds up grades, my 86.45% was rounded up to an 87% for a B+.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2024-12-21T21:00:28.714914Z"
+    },
+    {
+      "professor": "Nicholas Fletcher",
+      "course": "BSCI207",
+      "review": "Dr. Fletcher is a great person, very friendly and approachable. This class is a LOT of content, you were expected to know specific lineages of random animals and random facts. This class built on previous bio classes so you needed to have background knowledge because he doesn't explain basics like cellular respiration. I actually had no clue how to study for this class as it is purely memorization although he does let you have a cheat sheet (1-sided). I recommend the GSS worksheets, they were like recaps. The GAE (group activities) and homework were graded on completion so that did help with my grade a bit. The recorded lectures were really helpful because the lectures were packed with content so if you missed something, you can always look back on it. He drops one exam score and one assignment from each category. I thought the 2nd unit was the toughest because it was very very specific, you either know it or you don't. The final wasn't too hard, it was about 50% new content and 50% old content. Overall this is probably the most boring biology class I've taken but Dr. Fletcher made it bearable.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-23T16:47:02.222486Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "Dr. Carleton is one of the best BSCI 207 professors here at UMD. While this class is challenging and requires a LOT of studying outside of class, Dr. Carleton makes the information easy to apply and understand. The GAEs and homework are especially helpful when studying for exams, and the lowest midterm, GAE, and homework grade are all dropped. Overall, this class, while having a ton of information, is very manageable if you are willing to put in the effort (attend office hours, go to GSS, take detailed notes in class, etc.). Dr. Carleton genuinely cares about her students and is dedicated to making sure you take something significant away from the class, and is very knowledgeable about a wide range of biology topics. She is incredibly sweet, and you can tell she enjoys teaching this class.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2024-12-23T16:53:22.219948Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "Would highly recommend taking Dr. Karen. She is super nice, passionate, and caring. Her teaching style is also pretty good and she always records her lectures. Her midterms are always very fair and also have application based questions which is surprising for a biology class. She also drops the lowest scoring midterm. In terms of assignments, its not much work at all with just 11 HWs and 11 short quizzes before GAEs. I know a lot of people who don't even show up to lecture and still do fine. Sometimes I felt that the course content was useless for me, especially Unit 2 which is almost memorization, but Dr. Karen made it manageable. The TAs are also pretty helpful in GAE sometimes. A great professor to take this class if you have to. The class is more based on knowing concepts then memorization, so make sure to get the general gist of things before the midterm.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-23T22:35:07.697606Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "As a freshman, I was pretty nervous about being in STEM classes at UMD since I've heard some profs who do research are a lot less dedicated to teaching. However, Dr. Karen is definitely the best bio prof I could have taken. She is genuinely so kind and truly has a passion for teaching students biology. Her lectures are very organized, and the way she teaches is easy to understand. Her office hours are also really approachable so I felt encouraged to go to them and ask questions. As for work, there's around 11 hwks and GAE which are all graded based on completion. There are 3 midterms and a final, and your lowest midterm grade gets dropped. The exams themselves are difficult but fair. As long as you study and make a comprehensive \"cheat-sheet\" (she allows a single/double page cheat sheet each exam), you'll be fine. To summarize, DEFINITELY TAKE HER IF U CAN!!!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-24T18:15:36.748597Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "Honest she was a very boring professor which made it hard to really focus in her lectures. She record her lectures and post the slides. Her GAE are crucial for exams especially for the FRQ portion. Her midterms were ok but the final was a bit unreasonable. Overall not the greatest experience.",
+      "rating": 3,
+      "expected_grade": "C-",
+      "created": "2024-12-28T01:58:18.065561Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "She is amazing! Dr. Karen is so sweet and an awesome professor. She is funny, empathetic, and passionate about what she teaches. Bio is a challenging subject in general, with a lot of information, but Dr. Karen really sets you up for success. She gives you every resource you need to do well on exams, it just depends on how much time you dedicate to studying. I learned that the best method was quick notes in class, then rewatching the recorded lectures the next day/taking notes to really help the information stick (prevents cramming before exams). I would highly recommend her!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-01-23T18:40:34.700942Z"
+    },
+    {
+      "professor": "Nicholas Fletcher",
+      "course": "BSCI207",
+      "review": "Fletcher is a solid professor and is very friendly and open to questions during office hours. All lectures are recorded and he posts the slides on Canvas. There are 3 exams that cover the first 3 units and the final exam which is cumulative. He splits the exams 50/50 with multiple choice and short answer. Overall, the exams are fair as the questions come in a very similar format to other assignments. These assignments consist of homework, concept checks, and GAEs (group classwork). Homework and GAEs are graded for completion and concepts checks have multiple attempts. I recommend completing all these as they make studying a lot easier and he drops the lowest for each assignment type including the lowest of the 3 exams. He also posts exam guides which contains questions that are on the exam itself. <2 hr work per week outside of class besides studying. Course content is well organized but also very broad. Great professor overall and I would recommend him for 207.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-01-26T22:18:31.790518Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "Dr. Karen is a great professor but the class is useless. Please do NOT take this class if it isn\u2019t a requirement. I don\u2019t know why as a microbiology major I was required to take this class. Don\u2019t even understand the point of learning about all these crazy animals (e.g. stramenopiles) and these ancient periods?? Felt like I was in a history class. This class should be a requirement for an animal science major only. I gave three stars because Dr. Karen is sweet and approachable. Her exams are hard though. I don\u2019t know how she said the class is doing \u201cgood\u201d, when the average was 52/75!!",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2025-01-29T17:29:30.324615Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "Super nice, helpful, explains very in depth in office hours, understanding and overall amazing person!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-03-30T18:21:43.427466Z"
+    },
+    {
+      "professor": "Chloe Garfinkel",
+      "course": "BSCI207",
+      "review": "Dr. G is incredibly kind and a great professor. Her lectures are interesting and exams and assignments in the class are perfectly fair. Be warned that if you take her lecture, you have to socially interact with people about once a week in lecture hall, but it's not so bad. Overall totally recommend for 207. As for the class itself, it's really quite easy. It just contains massive amounts of information that you have to know. There isn't a lot of hard thinking and there are no puzzles or tricks, it's really more like listening to a long story.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-04-08T20:58:04.618595Z"
+    },
+    {
+      "professor": "Samahith Prasanna",
+      "course": "BSCI207",
+      "review": "His review packets are very helpful",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-04-16T02:22:22.988515Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "Carleton is so sweet and genuinely cares about her students. I love her as a professor. With that being said, BSCI207 was pretty heinous. I gave up on learning anything and just fit all the lectures on my cheat sheet for my exams. The class itself was interesting, but it was just information overload. Don't take 207 unless you have to.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-04-18T18:42:47.551043Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "took this class last sem, and carleton is a great prof. her slideshows are very easy to read and get information from. she gives a decent amount of examples, but not too much. tests weren't bad and pretty easy to do good. the cheat sheet was helpful for studying but I barely used it on the actual test. some of the material from 207 is boring and not very applicable to life, but if you can get over that it's a chill and fun class. i'd highly recommend taking her",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-05-09T16:40:51.863690Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "Dr. Carleton is a pretty good professor and is very sweet. Her class isn't too hard but the content isn't very useful to other classes. She allows you to bring a cheat sheet to exams which is very helpful and she sometimes gets bored of the content she's teaching and you can tell, would definitely recommend her though.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-05-20T18:55:38.373999Z"
+    },
+    {
+      "professor": "Chloe Garfinkel",
+      "course": "BSCI207",
+      "review": "Dr. G is so sweet and helpful. The content covered in 207 was definitely not my favorite, but Dr. G honestly made the class bearable. The midterms usually cover 7 lectures and 3 GAE's -- the content is A LOT. I suggest going to office hours because she usually explains topics and it's much more digestible then. She will also not include stupid small things on the midterms, like how does this protist move etc., because she isn't trying to test how well you memorized the content; rather, she is testing how well you understand it. There are 11 homeworks in total, and yes, some are really confusing, but she will literally go through it with you in office hours. The GAEs are very easy too, she doesn't actually want you to submit a worksheet, instead it's a Google form you fill out at the end so she can gauge how well the class understood the content. I highly suggest taking her for 207 because she was a student not too long ago and she knows how we feel as students!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-05-22T04:51:47.034346Z"
+    },
+    {
+      "professor": "Chloe Garfinkel",
+      "course": "BSCI207",
+      "review": "DO NOT TAKE HER. Lectures seem fine until the exam where they are extremely hard. All the GAE\u2019s and HW you do BARELY boosts your grade. This class should not have been as hard as it was and I blame it all on her teaching. The exams are HARDER THAN THEY SHOULD BE and super specific considering in class you play with pipe cleaners\u2026.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-05-23T15:39:43.276990Z"
+    },
+    {
+      "professor": "Chloe Garfinkel",
+      "course": "BSCI207",
+      "review": "She's a good teacher and cares about her students. The class material isn't my favorite, but she makes it more interesting. There are 3 midterms, each covering 10 lectures. She lets us have cheat sheets for each exam because there's A LOT of material. The exams can be challenging, but she doesn't word things weirdly or anything. She provides us with questions at the end of each lecture that, when put together, create a great study guide for her exams. I liked taking her, and would suggest her to other students.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-06-25T02:37:00.965083Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "Dr. Carleton is an amazing professor who explains concepts clearly and really knows the material. However, the class itself is very boring, and a lot of the content\u2014especially in Unit 2\u2014feels pointless. The homework assignments don\u2019t add much value either. This class is only worth taking if it\u2019s a major requirement. That said, it\u2019s fairly easy to do well. Dr. Carleton allows a cheat sheet on the exams, which are fair and closely reflect the lectures, quizzes, and GAE assignments (which are basically the FRQs on the tests). I usually skipped the in-person lectures, watched the recordings on 2x speed, and completed the quizzes while taking notes on key points and any missed questions. Writing out the cheat sheet by hand helped solidify the material and made studying more effective.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-07-02T00:57:14.994116Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "Teacher lowkey yaps a lot and her slides are 50-60 slides every lecture, giving you a minute to jot notes or else you\u2019re screwed and left behind in the dust. Course is super unclear and has way too much content, making every test just confusing and you\u2019ll end up studying everything BUT the stuff on the test. Karlton also just praises her colleagues too much and even puts their ideas on exams despite it not even being published. You\u2019re basically tested on her friends lol. She\u2019s a nice person but not a good teacher. Don\u2019t take her if you can\u2019t focus and lock in well. Most of the learning will be done outside of class.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2025-10-17T18:17:41.473693Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "bsci207 is overall a pointless course, DONT TAKE it if its not required for your major. that being said, carleton makes it pretty manageable by posting her slideshows and recording her lectures, and she is very helpful during office hours. however i honestly think her lectures are not engaging, and she sometimes spends way too much time going over things that are irrelevant and wont be on the exam. overall her lectures are overwhelming and she goes way too fast on some things, but i guess thats bound to happen when all her slideshows are 50+ slides.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-11-03T20:17:37.217175Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "The class itself is inbetween bsci170 and bsci160, so it focuses on organisms and like how they evolved and function. Dr. Carleton is very nice but her lectures are very boring. If you do go to lecture, I would recommend sitting in the front because you will not be able to pay attention in the back (also kind of hard to hear her clearly/focus on whats shes saying). She does record her lectures and I found those super helpful when studying, but I would recommend staying ontop of the lectures and attending class to get a stronger understanding of the topics rather than cram before the exam. The first exam is definitely the hardest, but the second and third one are more fair. She does allow cheat sheets on the exams, which is definitely necessary when it comes to all the content.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-11-19T04:53:03.391536Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "Good, just a lot of content that is covered. Helps if your friends come to class to keep you motivated as well. Carleton keeps her classes moderately engaging",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-11-24T16:22:49.510539Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "This course is really boring and useless. Carleton herself has told us she thinks it's pointless and that it is basically a repeat of 160 and 170. As a lecturer, she has a very documentary kind of voice so it is hard to stay focused. Her slides can also be kind of confusing because they will say so much and yet so little at the same time. She plans these activities called GAEs about once a week that were really unhelpful. They were supposed to help us apply the concepts but they felt stupid and didn't really help me or my friends. I think she is a really nice lady and she definitely cares about her students. I also appreciate that she posts the lecture recordings because it makes it a good class to skip. My only problem with her as a professor was that I disliked the course more than I liked her.",
+      "rating": 3,
+      "expected_grade": "C+",
+      "created": "2025-12-01T16:50:07.293156Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "Carleton is one of the sweetest professors I have had. It is clear she cares about her students and wants to help everyone do well.\r\nIn terms of the class, it is pretty straightforward, there is a lot of stuff to learn but most of it isn't super hard so it wasn't too bad. She gives you a lot of small easy ways to bring your grade up, and makes it clear she cares more about general understanding than getting everything perfect. As long as you keep up and come to class its not bad. Carleton's lectures can be a bit dull but she tries to make them interesting and connect the material to stuff you know.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-01T19:00:01.227287Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "Took BSCI207 as a first semester freshman coming in with AP Bio credit. I think Dr. Carleton started the first lecture with hard math to scare people or something but it got easier after the first week. The course is a mixture of rote memorization and applying basic math. \r\n\r\nGrades are a homework worksheet (completion) every week or so, a few pre-GAE quizzes that are easy if you watched/read the prep, GAE attendance (approx once a week or less), and 3 exams and the final. With the padding, it\u2019s not hard to get an A or B as long as you do okay on exams, which you\u2019re allowed to have a page of handwritten notes for. The questions basically come off of the slides and GAEs, so if you pay attention to lectures and bring a note sheet you\u2019ll be fine. All lectures are recorded and PPTS are posted before the lecture.\r\n\r\n Dr. Carleton is clearly very knowledgeable about the subject and is a really sweet person. She has slides with the basic info you need but always has extra fun facts and book recommendations. She tries to engage with the class but no one wants to answer her questions or ask any so it\u2019s a little bit sad. I like her a lot though and she seems really chill and cares about her students.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-11T19:21:48.767836Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "Sweetest professor ever. The class itself seems pretty boring/useless info but i mean that's not her fault. She does her best to make it interesting and enjoyable. She records lectures if you miss which is really nice, and posts the lectures too. First exam was rough and much more challenging than the other 2. Content itself isnt challenging conceptually, what got me was some of the super specific multiple choice that I sometimes felt was unfair because it wasn't a true reflection of understanding the content, just annoying memorization. Exam 2 is the most annoying just because it was SOOOO much useless info, but make a good cheat sheet and you will b fine. Didnt attend GSS because again, the concepts were bad it was just multiple choice that got me. I have a 92 right now, but Im expecting the final to potentially be rough just because of those useless multiple choice questions. Also the GAE's are a hit or miss, sometimes they help and sometimes its just useless but hey its free points.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2025-12-12T03:00:21.551689Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "Honestly, Carleton is a nice professor. She seems like she cares about her students and is very approachable. But this class is literally just a bunch of random facts and information spit at you. Her lectures are pretty boring and she's very monotone but goes super fast so it's hard to keep up/stay focused. I stopped coming to lectures and started watching the lecture panopto videos, which was helpful. The exams are no where near as detailed as the info in her lectures which makes it hard to study because you can never really tell what will be on the exam. She does let you have cheat sheets but most of the time, unless I put literally every single thing on the cheatsheet, I barely use it. If you can take any other bio class, do that.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2025-12-17T03:19:23.956247Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "I wouldn\u2019t take this class unless you really need to. There\u2019s an intense amount of content, and it\u2019s not just memorization, you have to actually understand it well enough to apply it to new situations on the exams. Also, ignore older reviews saying you can drop an exam, I took the course fall 2025, and that was no longer an option. That said, Dr. Carleton is genuinely very kind and responsive over email. She clearly wants students to succeed and is a great person overall. The lectures are recorded, but they\u2019re very information-heavy, so I personally found it much easier to watch them on my own time and pause to take thorough notes. There are graded in-class activities where you get full credit just for showing up, and the homework is completion-based, which helps balance things out. The real challenge is the exams, there\u2019s no test bank, and the in-class activities don\u2019t really prepare you for the free-response questions. Still, if you put in the time to study, you can definitely do okay.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-19T02:32:49.653921Z"
+    },
+    {
+      "professor": "Nicholas Fletcher",
+      "course": "BSCI207",
+      "review": "He is an amazing teacher! He is a very nice guy and very approachable. All of his exams are very fair and he also provides a lot of homework and extra opportunities to do well in the class. I would suggest doing all of the concept checks and reviewing the GAE's before the exams as a lot of the questions are the same. The only thing negative I have to say about him is that in class he can go through his slides very fast sometimes making it somewhat hard to keep up in class. However, he does record all of his lectures and posts all of his slides so this is really a non issue. Great guy and its very obvious he has a lot of passion. Shoutout Dr. Fletcher!!!",
+      "rating": 5,
+      "expected_grade": "B-",
+      "created": "2025-12-20T02:55:22.898392Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "I would not recommend, her lectures are pretty boring with 60+ slides per lecture, and she has a monotone voice that makes them very hard to follow. The exam questions can be any small thing from the lectures, which each have countless seemingly irrelevant facts, and the homework assignments are always confusing and vague. Thankfully we got cheat sheets for each exam, so going through each lecture and writing notes onto my sheet before each exam gave me an A, but the class overall just frustrated me and I would take a different teacher if possible.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2025-12-20T21:02:26.994916Z"
+    },
+    {
+      "professor": "Nicholas Fletcher",
+      "course": "BSCI207",
+      "review": "Dr Fletcher is an amazing professor! BSCI207 has a lot of content but he always tries to explain it in a way that makes sense. His test are very fair and you get a sheet of notes for each test. He also always had an extra point on his exams (even the final) and it was something really easy. If you have the opportunity to take Dr Fletcher I definitely would!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-20T22:06:52.833767Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "Great professor. She is a bit fast going through slides but she is a wonderful person and great professor. Her final is pretty hard compared to the midterms so keep that in mind.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2025-12-22T18:06:52.069642Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "Dr. Karen was nice and helpful, but I'm not gonna lie this was one of my least favorite classes (and I usually love biology). The lectures were long (usually 60 slides) and the things on the slide were different from what she was saying (so you have to pay attention to both). Halfway through the semester, I stopped attending because she records the lectures and I just started watching those. DO NOT take notes from scratch, it is wayy too much work. Highly recommend using an ipad and importing the slides into a notetaking app like goodnotes for annotations. She doesn't give any practice tests or extra material for the test, but she does allow a cheat sheet. It is a good way to study because you can condense and organize all the material. If you write small and highlight, you can get a lot out of the cheat sheet. The tests were a lot easier than I thought as long as you spend the time studying before. The material tho was very much memorization based and all the units felt very disconnected, which made it harder to study for the final. Overall, a very heavy class but you should be able to manage if you are willing to put a lot of work in.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2025-12-22T21:25:48.483020Z"
+    },
+    {
+      "professor": "Nicholas Fletcher",
+      "course": "BSCI207",
+      "review": "He is so kind and caring. His lectures may seem boring sometimes, but he explains the concepts thoroughly and makes sure that you understand and is open to questions during class. The exams are pretty straightforward despite being just a dense course on mostly facts. Make sure to know the concepts and examples given in class even if you do not know the itty bitty details. If you have questions, there are always office hours where he is open to helping you out. The other grades like the GAEs, concept checks, and homeworks (completion grades) are easy to score good points on if you just pay attention to the material provided, its also not too much work. The class is not curved, but if you just put good effort into the semester, and remember the facts (a lot of memorizing) you should be able to get a good grade overall. No",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-22T22:33:34.277524Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "Genuinely one of the nicest and sweetest people I've seen at UMD, and an alright class overall. There's a lot of information covered in BSCI207, and she doesn't expect you to memorize it all, mostly just the general knowledge and idea. You do get a cheat sheet for each exam, longer units having a double-sided sheet (handwritten). Once again, she really wants you to succeed, and you should pay attention to the GAEs and review them for the free response. Exams aren't exactly easy because of the sheer amount of content, but it's doable if you review.  There's no curve or exam drop like I've seen happen before, but we had three exams, and the final unit was 50% of the final.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-12-22T23:21:42.832467Z"
+    },
+    {
+      "professor": "Nicholas Fletcher",
+      "course": "BSCI207",
+      "review": "I took Dr. Fletcher for both BSCI170 and BSCI207 and he rocks !! Very fair exams that can be studied for easily by reviewing course materials and his practice questions. He\u2019s very responsive and approachable, and is clearly so smart and an engaging lecturer even when teaching subjects that involve tons of info. Also super helpful that all of his lectures are recorded and you\u2019ll always know well ahead of time if there will be a graded in-class group activity",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-23T17:20:30.812625Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "I loved Dr. Carleton. Genuinely just a kind person with a very calming presence and voice. The class itself is a bit of an information dump, there's like a 50+ slideshow every class but she posts them all along with recordings and you get a cheatsheet on every test including the final. The midterms are 20 mcq with 3 frqs, she doesn't post practice exams but I think they reflect what's in class well. The only test I did bad on was exam 1 because the frqs were kind of random and worded confusing imo but that was also my first college exam ever so it may not be her fault. The rest of the exams were very manageable and much better. Overall, I would recommend her I thought she was a great professor.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-23T21:15:01.397987Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "The class and prof are extremely fair. Study and you'll be fine. Go to office hours, she writes down a list of kids she (supposedly..) bumps the grades up for if they're on the edge at the end of the sem. It can be kind of a lot of pointless content but again, she's fair about it; if everyone does bad on a certain question or concept bc it's too obscure she'll curve that one part. Generally though, there's no curve, no tests dropped, but you get a cheat sheet. About the prof though, Dr. Karen is genuinely extremely nice and sweet and I loved her so much, I'll miss her.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-25T19:42:40.854712Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "Carleton is a really nice professor, and I love that she records the lectures. You don't need to go to class as long as you watch lecture recordings. The class absolutely sucks, but if you're a bio major, you have to take it. Tests are based on the content she talks about. Frqs are based on GAEs. There is a small curve at the end, which can round your grade up.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-26T16:25:03.706938Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "Great prof, she's super sweet and fair. Midterms are only worth 65 pts, with the final being worth 125 pts. Homework is basically just based on participation. Lecture is a little slow and boring, but I wouldn't say its the most interesting class anyways (imo). I'd recommend looking over the key concepts at the end of each lecture since she bases her exams on those questions. The concept checks are also pretty helpful. Overall, I'd highly recommend Dr. K",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-12-27T20:39:14.982723Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "As much as the class is difficult, Dr. Carleton is extremely nice. If you are a first semester freshman taking this class as I was, do not underestimate the first exam and be sure to take your time writing good notes during lecture. (I prefer using a google doc/typing, I used an iPad first unit and there was too much material and lecture went to quick to write quality notes) Expect that this class will take a lot of studying, but if you do it you will do well.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-28T19:24:45.742620Z"
+    },
+    {
+      "professor": "Nicholas Fletcher",
+      "course": "BSCI207",
+      "review": "Absolutely love Dr. Fletcher!!! He is such an amazing professor and is truly passionate about what he does. He is also genuinely one of the nicest professors I have ever met at UMD. He makes the content easy to understand and his exams are very fair. Would definitely recommend taking him!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-28T22:13:58.887604Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "I wouldn\u2019t take this class unless you really need to. There\u2019s an intense amount of content, and it\u2019s not just memorization, you have to actually understand it well enough to apply it to new situations on the exams. Also, ignore older reviews saying you can drop an exam, I took the course fall 2025, and that was no longer an option. That said, Dr. Carleton is genuinely very kind and responsive over email. She clearly wants students to succeed and is a great person overall. The lectures are recorded, but they\u2019re very information-heavy, so I personally found it much easier to watch them on my own time and pause to take thorough notes. There are graded in-class activities where you get full credit just for showing up, and the homework is completion-based, which helps balance things out. The real challenge is the exams, there\u2019s no test bank, and the in-class activities don\u2019t really prepare you for the free-response questions. Still, if you put in the time to study, you can definitely do okay.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2026-01-07T14:39:08.908932Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "Dr. Carleton is super sweet and she genuinely cares about her students. I just found these topics to be very boring and I had a hard time paying attention, since there aren't a lot of concepts- its more of \"this plant is different than that plant which is the same as this other plant\" which can be very dull. The cheat sheets are genius, she doesn't drop exams anymore, and homework is basically completion. the lectures can be very fast (60 slides in 50 minutes) and you really don't need all the info she gives. i'd recommend going back through the lectures and writing down the key things. memorize the concept checks, homework, and GAE's and you'll be okay! i thought the first midterm was really hard (but to be fair it was also my first ever exam in college) + the 2nd + 3rd midterms were both doable and pretty easy! bring an energy drink to class!",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2026-01-16T03:26:12.264755Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "Dr. Karen is one of the sweetest and most knowledgeable professors out there. While the content of this class was one of the most inapplicable (especially unit 2) to pre-med content, if you can ignore that it will be fine. \r\n\r\nThe other reviews were not lying when they said this class is like drinking out of a fire hose. But med school is also like drinking out of a fire hose, so this class is a perfect way to learn to use Anki before it matters (for the MCAT or med school). \r\n\r\nDr. Karen genuinely cares about her students. Once I was confused on how to study and she scheduled a one on one meeting with me. She discussed study methods really well. Just look at the key questions and you will be fine.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2026-01-16T18:14:52.369188Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "Dr. Karen is a very sweet professor who is clearly passionate about what she is teaching. I found the first two units to be a bit dull but the last units were very interesting. Her lectures have A LOT of slides with A LOT of information making it challenging to take thorough notes during class. However, going through the concept checks and reading through the slideshows after class and before tests helped me retain the information. The midterms and final were very fair in my opinion and she allows you to have a cheat sheet for each test.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2026-01-23T00:20:04.646389Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "I love Dr. Carleton. Not only is she super sweet, but she's insanely knowledgeable and clearly understands every word on her slides. She is very wordy, though! And her voice is a little soft, but I personally really like her inflections. It's like Blues Clues, or some other kids show... very gentle and guiding. If you're not already a little well-versed in the bio world, it might be a little hard to keep up. Usually she reads a bit of what's on the slides, then talks about it more without reading off the slide. It can be a little fast! However, not everything she says needs to be noted, and she often stops to ask the class questions and is receptive to being asked questions herself. She posts all of her slides, notes, and recordings, regardless of if it was a lecture day or GAE (groupwork) day. I will say, the few lectures I missed felt hard to catch up on, and DONT sleep on exams. She lets you have a cheat-sheet where you can write whatever you want to keep in mind, but don't think one exam will be too easy to fully prepare for. That's what cost me my A! The TAs were very helpful when it came to prep, one of them ran review sessions once a week and posted practice questions for exams. Don't cram, give yourself lots of time to fully absorb all the info. It can really be a lot, but if you talk to her, she'll help lay everything out and show you what you should and shouldn't focus on. You can also email her about anything and she'll always respond within a few days.\r\n\r\nNot entirely related, but she also does a lot of research on cichlids and vision, which is super cool!",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2026-01-27T04:37:17.574226Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "I took this class fall of 2025 and Dr. Carleton is such a sweet and understanding professor. The course is fairly graded and the resources like the concept checks, GAE worksheets, and GSS sheets provided by the TAs are super helpful. There is definitely a lot of content to learn so I would study in advance by a few days and sit in the front if you for attention span\u2019s sake. The key concepts for lectures are super helpful and this class is doable for sure. The workload isn\u2019t too much and the HWs are helpful to make sense of lecture info and as guides for exam written response questions. Would highly recommend Dr. K for this course!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2026-01-29T20:06:59.975241Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "Dr. Karen genuinely cares about her students and their success in this class. While I disagree with the fact that this class is a major requirement for bio she still made it very interesting and worthwhile. She records all of the lectures if you can't make it, although I would recommend going because watching the Panopto's can become tedious when you cram them. Her exams aren't necessarily easy but if you do the things she recommends and take advantage of the extra resources it is very possible to get an A or even an A+. I very much recommend taking Dr. Carleton for this class.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2026-02-07T00:58:30.836185Z"
+    },
+    {
+      "professor": "Karen Carleton",
+      "course": "BSCI207",
+      "review": "Took this course as a freshman which was maybe a bad idea, but the professor was great. She's very sweet and helpful, although one critique I had was that lectures kind of felt all over the place (50-60 slides, sometimes with very little correlation) and she went a little fast for me. Exams were tricky but overall pretty fair, and as long as you go to lectures (or at least actually watch the recordings) you should be ok. I got a little sloppy with my attendance towards the end and it definitely showed, but even then office hours and the TAs were all pretty helpful tools.",
+      "rating": 4,
+      "expected_grade": "B-",
+      "created": "2026-02-11T03:26:12.294638Z"
+    }
+  ],
+  "department": "BSCI",
+  "course_number": "207",
+  "name": "BSCI207",
+  "title": "Principles of Biology III - Organismal Biology",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> BSCI160 and BSCI161; or BSCI106. And BSCI170 and BSCI171; or BSCI105. And must have completed or be concurrently enrolled in CHEM131.\nThe diversity, structure and function of organisms as understood from the perspective of their common physicochemical principles and unique evolutionary histories.\n<i>(Sponsoring Dept.: BSCI).</i>",
+  "is_recent": true,
+  "geneds": null
+}

@@ -1,0 +1,730 @@
+{
+  "average_gpa": 2.151817478731632,
+  "professors": [
+    "Kathryn Truman",
+    "Steve Halperin",
+    "Kelly Yancey",
+    "Richard Rast",
+    "Huanchen Bao",
+    "Kendall Williams",
+    "Steven Chadwick",
+    "Manjit Bhatia",
+    "Sarah Yeakel",
+    "Jeffrey Adams",
+    "Fei Wang",
+    "Stephen Balady",
+    "Renjie Feng",
+    "Justin Wyss-Gallifent",
+    "Wiseley Wong",
+    "Terence Long",
+    "Juan Pablo Borthagaray",
+    "Manoussos Grillakis",
+    "Nathan Manning",
+    "Adam Kanigowski",
+    "Mestiyage Gunatilleka",
+    "Rodrigo Trevino",
+    "Niranjan Ramachandran",
+    "Ruiwen Shu",
+    "Karin Melnick",
+    "Kathryn Truman",
+    "Steve Halperin",
+    "Kathryn Truman",
+    "Steve Halperin",
+    "Yihang Zhu",
+    "James Conway",
+    "Kathryn Truman",
+    "Kendall Williams",
+    "Steve Halperin",
+    "Steven Chadwick",
+    "Gregory Chadwick",
+    "James Conway",
+    "Jose Rigoberto Enrique Zelada Cifuentes",
+    "Kathryn Truman",
+    "Steve Halperin",
+    "Clarke Safsten",
+    "Kathryn Truman",
+    "Sean Gruber",
+    "Steve Halperin",
+    "Kathryn Truman",
+    "Kendall Williams",
+    "Steve Halperin",
+    "Kathryn Truman",
+    "Sean Gruber",
+    "Steve Halperin",
+    "Anna Szczekutowicz",
+    "Sean Gruber",
+    "Kaitlyn Loyd",
+    "Kathryn Truman",
+    "Sean Gruber",
+    "Kathryn Truman",
+    "Salman Safdar",
+    "Stefan Doboszczak",
+    "Zengrui Han"
+  ],
+  "reviews": [
+    {
+      "professor": "Kathryn Truman",
+      "course": "MATH310",
+      "review": "I mostly agree with the other reviews.  Kate is very energetic and knowledgeable.  She is normally very clear with her explanations (written and spoken).  With just those things, she's already better than most of the other math teachers I've had at UMD which were terrible at communicating course material.  What's scary is how much of the two textbooks she has memorized including questions and question numbers.\n\r\nHowever, the class was too much work (for me at least).  If anyone is to blame, it's the math department's (ludicrously?) high standards.  If she didn't jam as much in as possible, then students wouldn't be prepared for Math410.  But, because there was so much material, she could hardly give us a brief explanation and short example for each topic.  So now after finishing the class, I feel like a Jack of all trades but master of none, and spending so little time on each topic means I'll probably forget almost everything (except broad topics) over the summer.  If there was less material, I could have mastered more of it, and it would likely stick longer.  But I guess for a cursory preview/review of a bunch of math topics, Math310 served its purpose.\n\r\nIt's funny how I put more way effort into my math classes (including Math310) than my 4xx level comp sci classes, and I get a B in math and A in comp sci (without even having to take the final in comp sci).  It's hard to say if comp sci is a bit too easy or if math is a bit too hard, but I'm leaning towards math being too hard.  It's great that Kate (and the other math teachers) drop a bunch of assignments and nudge grades so the class averages work out, but I'd rather they curve things around student performance than what percentage of the content they can cram into their brains and regurgitate onto paper in an hour.  For example, comp sci classes might set the B/C cutoff at the median for the class, and have the other grades based on standard deviations from the median. (median - 2(std dev) = D, median - 1(std dev) = C, median = B, median + 1(std dev) = A).  That means you have to do well compared to your classmates which is mostly independent of how well the teacher is at preparing the students for tests.  If the teacher's style doesn't fit with how the students learn (on average), then students can still do well compared to each other.  With the math department's system, if the teacher's style doesn't fit with how the students learn on average, then the students won't know all of the material, so they will do poorly on average.  So for math, a student can put in way more effort than others and get a better grade than most of them and still get a bad grade in the class if the class average was low (or a B when they put in a ton of effort).  Dropping and nudging scores helps, but it can still leave students that put in a ton of effort with a less-than-ideal grade. \n\r\nThis problem wasn't as severe with Kate's Math310, but I wish she did something to curve tests with low averages, or did an overhaul to compare students vs each other instead of vs the textbook.  \n\r\nIn general, I spent nearly all of every Saturday working on Math310 homework and several hours throughout the week on the other assignments.  This felt overwhelming, but it didn't even feel like enough practice for all the content.  \n\r\nSo, if you have to rush and sacrifice quality for quantity to pack material into a class, is there too much material?  Does the math department want its 3xx classes to be more work than other majors' 4xx classes?  (Not to mention Math1xx and 2xx tend to feel like 3xx or 4xx classes).  And the icing on the cake is that taking CMSC250 places you out of Math310, but Math310 is unarguably much more difficult.  \n\r\nThat was a lot of complaining, but at least Kate tried her best and was better than other math teachers.  (Hmm, what a useful metric comparing people against their peers is).",
+      "rating": 4,
+      "expected_grade": "B-",
+      "created": "2016-05-18T12:26:00Z"
+    },
+    {
+      "professor": "Kathryn Truman",
+      "course": "MATH310",
+      "review": "I don't know how you guys are bringing yourselves to give her high ratings. This class is an asinine waste of time and money; the last 30-40 percent of it is basically math410 REALLY poorly explained and rushed at a ridiculous pace. The rest of the class is really easy material and studying various proof techniques, which is actually fairly useful. \n\r\nShe has really lost most of the class at this point with the 410 stuff. She assigns ungodly long homework assignments, and then she uses class time to go over the answers. This is great and all, but it leaves her with little time to explain the material for the subsequent hw assignments. My grades are suffering miserably because of the 410 rush, so I'm planning on getting a C at this point. I would say pick up a book like Daniel Vellman's \"how to prove it\", or the book for the class by Zhang, read over it, learn proof techniques, and avoid this stupid class all-together. I'm trying not to get discouraged from 410 because I really want to know it, but she's doing a very fine job of making me lose my interest in the subject.",
+      "rating": 2,
+      "expected_grade": "C",
+      "created": "2014-05-05T01:06:00Z"
+    },
+    {
+      "professor": "Kathryn Truman",
+      "course": "MATH310",
+      "review": "As has been said, Dr. Truman is great. Very conscious of students' needs. Exams are easy. Homeworks can be a bit daunting at times and only having <1hr office hours once per week doesn't help.\n\r\nHowever, I found the class to be a bit of a waste of time. Roughly 80% of the course is easy. I'd say the other 20% is manageable at worst. The only reason I'm getting a B is because I missed one of the exams. If you're confident with your mathematical skill, I'd say either take 307 during the summer with her or don't take it at all.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2011-12-01T00:25:00Z"
+    },
+    {
+      "professor": "Kathryn Truman",
+      "course": "MATH310",
+      "review": "Dr. Truman is a very energetic and knowledgeable instructor.  She is also an academic adviser, so if you take class with her she will know your strengths and really know what kind of schedule you can handle.  \n\r\nTeaching wise she knows what she is doing and she makes herself available via email if you ever need extra help.  310 was a pretty easy class up until the last section when we started calculus proofs.  \n\r\nShe is definitely one of the best 310 instructors at CP, I am going to try and get her to teach me 406",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2010-04-30T18:23:00Z"
+    },
+    {
+      "professor": "Kathryn Truman",
+      "course": "MATH310",
+      "review": "Kate was one of the best math instructors i have ever had. She went over anything and everything that was on tests. Tests were straight forward and about 90% of test questions were hw's. she gives 15 free points before exams with \"group quizzes.\" If you stay on top of hw's you will completely fine and get an A",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2009-06-03T03:02:00Z"
+    },
+    {
+      "professor": "Richard Rast",
+      "course": "MATH310",
+      "review": "The lectures are great! He knows the material very well and explains them in a pretty clear way! Love him! I would recommend him to anyone with little proof experience.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2016-04-04T19:00:00Z"
+    },
+    {
+      "professor": "Steve Halperin",
+      "course": "MATH310",
+      "review": "In short, he is a great professor. The class is definitely challenging, but he makes it as fair as possible by drawing exam questions only from previous homeworks. He's always willing to answer questions, even if it's the answer to an upcoming homework problem. Definitely go to office hours and have lots of questions. His lectures themselves are not that useful, but really that's because proofs is something I think you just have to learn through practice. ",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2015-12-18T17:52:00Z"
+    },
+    {
+      "professor": "Steve Halperin",
+      "course": "MATH310",
+      "review": "310 is a difficult course to teach since it's different than any other Math course students have taken. He teaches by doing examples, which isn't always a lot of help, but he makes up for it by answering any questions during class or office hours. The test questions are all taken from the homeworks and the tests are graded on a curve which makes them manageable/easy.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2014-11-05T18:38:00Z"
+    },
+    {
+      "professor": "Steve Halperin",
+      "course": "MATH310",
+      "review": "His teaching is not nearly as bad as the other reviews make it seem. I think it's just that the content can be difficult to grasp if you aren't used to writing proofs. If you spend a lot of time and make sure to fully understand what he is saying, the exams are not awful and his grading is very generous.\n\r\nHe teaches through doing rather than by example, which can be very, very frustrating at first when nothing makes sense, but eventually you'll get the hang of it. I learned a lot in his class!",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2013-05-15T14:23:00Z"
+    },
+    {
+      "professor": "Steve Halperin",
+      "course": "MATH310",
+      "review": "His teaching style is horrible.  His method of instructing is by telling the class to try as many problems as possible without actually teaching them how to prove anything.  At one point, all of us failed an assignment and verbatim, he stated that \"[he] deduced that it was entirely [our] fault.\"  At one point he was asked to solve one of our test problems on the blackboard and he was unable to do it.  \n\r\nI used to be a math major, but I dropped it because of this class.\n\r\nNice guy, but avoid him at all costs.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2013-04-24T19:54:00Z"
+    },
+    {
+      "professor": "Steve Halperin",
+      "course": "MATH310",
+      "review": "Halperin made efforts to be friendly to students, but was a horrendous teacher. Never in my career as an undergraduate have I such a terrible learning experience. When presented with problems from the exam, he was unable to solve some of then. Yet, on this same exam, he claimed that it was OUR fault for not learning the material- yet every single person failed this same test. \n\r\nAvoid Steven Halperin at all costs.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2013-01-31T16:28:00Z"
+    },
+    {
+      "professor": "Steve Halperin",
+      "course": "MATH310",
+      "review": "This class was an absolute train-wreck. Steve Halperin is a cool guy, but his ability to teach and prepare you for his tests is more or less like giving students butter knives when there is a gun fight. Absolutely horrible teaching ability + his cryptic book makes 310 an absolute atrocity of a class. And this is not from some one who is bitter... I actually scored really high on all the homeworks and midterms; this was just a high stress class that makes you go insane at times. ",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2012-12-17T12:02:00Z"
+    },
+    {
+      "professor": "Steve Halperin",
+      "course": "MATH310",
+      "review": "Pretty mediocre professor. He doesn't have much respect for his students, the textbook he wrote is convoluted and any issues that come up out of the student's control is the student's fault.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2017-12-14T18:52:28Z"
+    },
+    {
+      "professor": "Nathan Manning",
+      "course": "MATH310",
+      "review": "Really enthusiastic and dedicated to teaching. Fun to talk to.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2018-05-11T00:29:25Z"
+    },
+    {
+      "professor": "Jeffrey Adams",
+      "course": "MATH310",
+      "review": "i would give him more stars but sometimes when he writes proofs he doesn't completely organize the steps that well. otherwise, he is very fair with grading on tests. if you have a general idea of what you're doing on a test problem you'll get at least 50-75% credit for that problem. he's nice and respectful and understands situations where you have to turn in homework late. 3 stars seems low but if you put the effort in this class with him you should do fine. ",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2019-05-14T05:50:22Z"
+    },
+    {
+      "professor": "Kendall Williams",
+      "course": "MATH310",
+      "review": "Definitely, he is not a good professor. His tests are hard and he doesn't curve. ",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2019-10-29T00:15:25Z"
+    },
+    {
+      "professor": "Kathryn Truman",
+      "course": "MATH310",
+      "review": "Professor Truman is energetic and really cares about her class but unfortunately, that means having a lot of work and assignments. I took this class because I am pursuing a math minor and this class was more work than my major requirement courses. \r\nShe does not post homework, exam, group work, or quiz solutions. The only time you can get an idea of what the solution may be is if you go to office hours or email her with an attempt to the question in which she will give you tips on how to get to the solution but never tell you the solution itself.\r\nShe would give a quiz a day after the homework was due meaning we wouldn't get our graded homework back in time to study for the quiz and see what mistakes we were making. Since there were no homework solutions posted, there were many ocassions where people would do poorly on the homework and the quiz because we didn't get feedback on time.\r\nYou can tell she cares about students really learning the concepts because this is an important class for MATH410 but that meant getting a lot of work in and outside of class.  \r\nI personally think this class was too much work for what it is worth and multiple people dropped from our class before our second midterm (some of them dropping the course for a second time). We also did not have enough time to complete our midterms with more than half of the class not fully completing the exams.",
+      "rating": 2,
+      "expected_grade": "C",
+      "created": "2020-05-15T04:12:09Z"
+    },
+    {
+      "professor": "Nathan Manning",
+      "course": "MATH310",
+      "review": "Pros:\r\n- Generally nice guy\r\n- Great Lecturer\r\n- Will drill a very solid understanding of Mathematical Proof into \r\n   your head\r\n\r\nCons:\r\n- At times was very condescending towards some of my \r\n  classmates, didn't really like the environment it set up in some \r\n  of the lectures (hence generally nice)\r\n- VERY heavy courseload (can be both great and negative)\r\n- Tough exams with absolutely no curve.\r\n\r\nOverall:\r\nIf you are not taking a heavy courseload for a semester and you need to take 310, take it with him. You'll have a ton of challenging work during his class, but it will set up a very solid foundation for higher level classes and will pay off in the long run. If you have to take a heavy courseload, and need to take 310 (like I had to) then I can't recommend. His 310 course was way too overwhelming with the courseload I already had. ",
+      "rating": 2,
+      "expected_grade": "C+",
+      "created": "2020-09-16T15:28:44Z"
+    },
+    {
+      "professor": "Nathan Manning",
+      "course": "MATH310",
+      "review": "Nice guy, but good luck understanding the material. He does not curve either. Not very clear and assumes a lot of knowledge among students that many don't understand",
+      "rating": 2,
+      "expected_grade": "W",
+      "created": "2020-10-29T17:16:31Z"
+    },
+    {
+      "professor": "Mestiyage Gunatilleka",
+      "course": "MATH310",
+      "review": "This guy kinda just reads from the textbook, but if you come to him about specific questions he is quite helpful.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2020-11-09T15:45:47Z"
+    },
+    {
+      "professor": "Nathan Manning",
+      "course": "MATH310",
+      "review": "Manning makes the material more difficult that it has to be, he speaks in a condescending ish tone to students, in a way that made me feel uncomfortable going to office hours much and asking for help. I wouldn\u2019t recommend him overall. This was the first class I have barely passed. ",
+      "rating": 1,
+      "expected_grade": "C-",
+      "created": "2021-01-12T14:23:59Z"
+    },
+    {
+      "professor": "Mestiyage Gunatilleka",
+      "course": "MATH310",
+      "review": "He's not as bad as people make it seem. Maybe not the greatest choice for a lower level math class with a rigid curriculum, but if you take him for 310, he's fine. Also, his exams are more than fair and he curves the class.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2021-01-12T20:57:59Z"
+    },
+    {
+      "professor": "Kathryn Truman",
+      "course": "MATH310",
+      "review": "Probably the best instructor for MATH310. She would assign quick 5-10 minute videos containing definitions to watch before class when needed (not that often), otherwise we only had to attend live lecture. Most, if not all, of live lecture time was dedicated to student understanding of concepts and the homework. She would have two or three examples, but would build in time for students to ask questions or allow them to interject their own questions instead of the prepared examples. She was also really responsive and helpful on Piazza - you'd often get a response within 10 minutes, regardless of the time or day. Only reason that this a 4 and not 5 star review is the time allotted for quizzes and especially exams felt unrealistic since we were supposed to stop ~10 minutes earlier to scan and submit.\r\nCLASS TIPS (Regardless of teacher):\r\n1. Start the HW early! She doesn't give you a week to do it because she's nice (which she is), she does it because it takes a week(or at least a weekend) to do it! Seriously. Except for the first HW, I would consider it a godsend to finish a HW in six hours or less.\r\n2. When studying for an exam, I recommend writing all the terms and definitions you learned that unit on two sheets of paper. That way you have everything you need to look at when studying in one place. Also very good when cramming. Also, it's obvious but bears saying, study by doing problems! Specifically, the problems you got wrong or had trouble with on HW and quizzes.\r\n3. Start doing math at least thirty minutes prior to an exam. That way when it starts you're already in \"math mode\".\r\n4. (This one might be more Truman and/or online-specific, but is still useful). Finally, you should be in a blitzkrieg mindset during this exam. You really do not have time for mistakes. If you read a problem and after thirty seconds still don't know how to approach it, SKIP IT.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2021-01-13T21:57:08Z"
+    },
+    {
+      "professor": "Rodrigo Trevino",
+      "course": "MATH310",
+      "review": "Took his MATH310 section in Fall 2020 and honestly, he was a really good professor. He explained the concepts well and made an effort to help us if we didn't understand, as well as being pretty approachable with regards to grades and other items.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-02-09T18:50:43Z"
+    },
+    {
+      "professor": "Ruiwen Shu",
+      "course": "MATH310",
+      "review": "Shu is a great professor. He is so straightforward and teaches with examples which is the way I learn best in math. His homeworks are assigned from the textbook, and his exams are very fair. He is well organized and keeps to the relevant information for the course. For what is supposed to be a tough transition into advanced math, he hasn't had me confused or lost in any of his lectures, he just knows the material so well. Would definitely recommend taking him.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2021-04-30T00:32:10Z"
+    },
+    {
+      "professor": "Ruiwen Shu",
+      "course": "MATH310",
+      "review": "Shu is an extremely organized and overall a great professor. MATH310 is a notoriously difficult class with a high Fail/W rate. However, Shu presented the material in a way that was easily digestible. He would start off by stating theorems or general concepts and providing examples. He would then do proofs and explained the thought process behind writing them very well. I only have 2 complaints for the class. My first complaint is that towards the end of the class he would skip steps during proofs because he felt they were easy and didn't require an explanation. My final complaint is that he would not provide practice exams. However, regardless of these two complaints the notes from class are sufficient for completing the homework, and exam questions were representative of homework problems and problems from the notes. Overall great professor definitely take him for MATH310 if you have the option.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2021-05-13T23:44:46Z"
+    },
+    {
+      "professor": "Kathryn Truman",
+      "course": "MATH310",
+      "review": "I really liked Dr. Truman, She's super nice and approachable. Even if you ask her a \"dumb\" question, she doesn't react like it's dumb, and often jokes like \"oh, we all forget algebra here and there.\" I would recommend her, but her class definitely has a hard workload so plan accordingly. You know how every semester you have that \"one\" class that takes up most of your time? This is that class. I don't think it matters if you have other hard courses, this one will dominate your time. Also, get a copy of \"the Book of Proof\" by Richard Hammack, it's free and WAY better than the crappy textbook this course uses. \r\n\r\nHow to succeed in her class: start homework the day the topics are covered. The homework is long and hard because she wants you to spend time on it. You can't do it in one day, I promise. A good week was an 8 hour long homework, worse was maybe 16 hours, but it did take a bit for me to understand some stuff so I may be on the longer side. \r\n\r\nWhen doing the homework, write all the relevant definitions and theorems down on a notecard and only reference that for homework. You'll memorize it, eventually. Go to office hours and ask every single question you could possibly think of. My exam grades had an upward trend once I started going to every single office hours (D first exam, C- second exam, A+ on 3rd exam and B+ on final). Email her any questions you have, she really doesn't mind. \r\n\r\nExams are almost identical to homework, even in the online environment. The best way to prepare for these are to redo the homework and check with her to make sure you did proofs correctly. Only select homework problems are graded, so if 1, 3, and 9 are graded, you have no idea if you did 2, 4, 5, 6, 7, and 8 right or not. She's not going to put anything harder than the homework on an exam or quiz. Quizzes also have almost identical homework content, but the question is often disguised a bit-- if you really know and understand the homework, you'll realize it's the same question.\r\n\r\nThe hardest weeks in this class are week 2 and week 10. Week 2 is when you're thrown into proof writing with a very long homework and only about 5 days to do it. Week 10 is when you start the advanced calculus (math 410) content. That was pretty hard for me, but eventually it all clicked after spending a lot of time in office hours and watching various YouTube videos. Exam 3 content is nothing worse than the respective homework, in fact I found it to be some of the easiest questions from the homework, but it may vary semester to semester.  \r\n\r\nI think if you do all of the above, you'll do well in her course. Take it with other light courses so you can spend adequate time on the content. I think if you enjoy the content, it's actually a kind of fun class. Proofs are really cool once you get the basic intuition for it :)",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2021-05-23T23:45:19Z"
+    },
+    {
+      "professor": "Kathryn Truman",
+      "course": "MATH310",
+      "review": "I took this course in 2020 Spring. I like Dr. Truman and she is nice. But the course experience is really bad, Midterm 1 was too difficult and the average is 59. The materials are not Math theorems, you just recite the proof and write it down. I don't like it at all. I got 70+ as the final grade.",
+      "rating": 4,
+      "expected_grade": "P",
+      "created": "2022-03-09T05:01:30Z"
+    },
+    {
+      "professor": "Steve Halperin",
+      "course": "MATH310",
+      "review": "Great professor to take for a pretty terrible grade distribution of a class. His tests are LITERALLY the same questions as the homework so there should be no reason why you should not get a 100% if not better on each exam(there is extra credit in each exam). This class is mostly self learning the techniques of proofing so if you want a free A and also a pretty decent understanding of mathematical proofing, this is your guy. ",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-05-16T21:04:04Z"
+    },
+    {
+      "professor": "Kathryn Truman",
+      "course": "MATH310",
+      "review": "I'm only getting a C because I bombed my first midterm. The homework feels like a lot of work because it's due right when you finish learning the material that is covered in the homework and you're not able to solve it easily just yet. But I promise when you look back at the homework questions to study for the final, you'll realize how easy it is to solve them and laugh at yourself for spending so much time than necessary. It took me a lot of self-studying to fully understand how to write proofs, but once you understand everything the material becomes fun. \r\n\r\nDr Truman is a great professor, she'll do anything to help you understand the material, so don't worry too much !",
+      "rating": 5,
+      "expected_grade": "C-",
+      "created": "2022-05-17T06:17:17Z"
+    },
+    {
+      "professor": "Kathryn Truman",
+      "course": "MATH310",
+      "review": "I'm not a fan of Truman. Homework assignments took hours and weren't similar to any of the problems we covered in class. The averages for the exams were all around 50%. I would go for a different professor when taking 310. ",
+      "rating": 2,
+      "expected_grade": "C+",
+      "created": "2022-05-25T12:22:04Z"
+    },
+    {
+      "professor": "Steve Halperin",
+      "course": "MATH310",
+      "review": "Like others have said, exam questions are directly from the homeworks (so you should definitely do them) but his lectures can sometimes be very confusing. He is always available in his office though to go over hw problems and concepts from class.",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2022-12-15T00:59:18.813394Z"
+    },
+    {
+      "professor": "Steve Halperin",
+      "course": "MATH310",
+      "review": "This class is so easy with him, free A. Exams are literally the homework.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-01-03T14:34:29.406723Z"
+    },
+    {
+      "professor": "Steve Halperin",
+      "course": "MATH310",
+      "review": "Homework is the same problems as the exams, IDENTICAL. He even offers extra credit on each exam by dropping a question and making it extra credit.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-01-03T14:34:53.549295Z"
+    },
+    {
+      "professor": "Steve Halperin",
+      "course": "MATH310",
+      "review": "Easy ass professor.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-01-03T14:35:01.231068Z"
+    },
+    {
+      "professor": "Steve Halperin",
+      "course": "MATH310",
+      "review": "Easy professor, take this class with him for no struggling.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-01-03T14:35:11.681207Z"
+    },
+    {
+      "professor": "Steve Halperin",
+      "course": "MATH310",
+      "review": "Took this class with Kate first and I can tell you its night and day, kate's class will make you put in at least 30 hours each week whereas for this class you really only need to put 5 hours a week",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-01-03T14:35:49.239874Z"
+    },
+    {
+      "professor": "Steve Halperin",
+      "course": "MATH310",
+      "review": "Professor Halperin is an extremely nice guy who cares about his students. The class at first is hard to understand but over time it gets better. Every exam is from the textbook which is really nice. In class it is sometimes hard to understand what is going on. Many people skip class and you can but I recommend you go since many times he goes over hw answers.",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2023-01-12T02:50:26.013034Z"
+    },
+    {
+      "professor": "James Conway",
+      "course": "MATH310",
+      "review": "I absolutely loved Conway. He is really good at breaking down proofs and making things easy to understand. He goes at a nice pace in his lectures, fast enough you don't fall asleep but slow enough to understand what he is talking about. He cracks some jokes in class, and creates a very collaborative feeling in his class. He is super responsive and incredibly helpful. His exams were very fair, sometimes taking problems straight from the homework. The homeworks are hell, but if you really work on them and try to get it you barely need to study for the exams. He actually encourages you to get help with the homework by working with classmates or even going on the internet. That said, starting the homeworks early makes all the difference. The homework is graded pretty strictly (may have had more to do with my TA), but the exams aren't so bad. The worst homework and quiz is dropped. He's also just like... a reasonable guy. He once wrote the due date for a homework is midnight on Canvas, but on Gradescope it was actually due at 9:30 am that day. Some professors would say tough luck, but when it was brought up in class he corrected the problem and let everybody turn it in on the later time. I also heard from classmates that he was really good with accommodating different issues students may have. This is a hard class and it involves a lot of work, but he made it very manageable. I highly highly recommend him for 310.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-05T23:04:02.729474Z"
+    },
+    {
+      "professor": "James Conway",
+      "course": "MATH310",
+      "review": "Professor Conway is a great teacher! He makes the homework\u2019s a little bit tougher so that you can do well on the exams, and he does a great job of breaking down hard proofs and concepts into a framework to do similar proofs(like exam questions). There are no trick questions. It\u2019s a lot of work, but definitely a top tier professor",
+      "rating": 5,
+      "expected_grade": "B-",
+      "created": "2023-05-19T15:18:23.614002Z"
+    },
+    {
+      "professor": "Kendall Williams",
+      "course": "MATH310",
+      "review": "Do not take with this professor. Low grade no curve, literally more than half of the students dropped.",
+      "rating": 1,
+      "expected_grade": "D",
+      "created": "2023-05-20T23:54:30.214123Z"
+    },
+    {
+      "professor": "Steven Chadwick",
+      "course": "MATH310",
+      "review": "Professor Chadwick is an incredibly nice teacher who takes time to answer questions, and he goes at a reasonable pace. I had him online, and he regularly stops to take questions from the chat, and is very helpful during office hours, even extending time to let everyone ask questions. Math310 is hard but he makes sure to break everything down and provides us with outside resources, and the regular practice problems really help. The in class practice sets count for the grade but he goes over them at the end of every class so it's an easy way to boost your percentage. The environment was also very relaxed and he lets us joke around and build a nice community of weird math nerds. In general, it's very clear that he loves math and is very kind towards the students. Definitely recommend if you're taking Math310 or any other departmental class!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-08-14T14:25:01.085452Z"
+    },
+    {
+      "professor": "Steven Chadwick",
+      "course": "MATH310",
+      "review": "Professor Chadwick is a awesome. His lectures make sense and if they don't he'll answer any questions in a way that will make sense for you. He's also super helpful during office hours if you have any homework or general questions. In addition, his exams and due dates are very reasonable, you won't find any question on exams that you haven't already covered in class prior to the exam.",
+      "rating": 5,
+      "expected_grade": "C",
+      "created": "2023-08-24T15:03:49.555401Z"
+    },
+    {
+      "professor": "Steve Halperin",
+      "course": "MATH310",
+      "review": "It's not often that a professor is THIS middle-of-the-road. He was *fine*. Not too easy, not too hard, not too fast, not too slow, etc etc. He was acceptable but not exceptional on almost every axis. The main two exceptions were that he was super available in terms of office hours, and the homework grader we got was really bad (hopefully that was just this semester). Plus, all the test questions come from the textbook, which is nice (though maybe not quite as nice as it initially seems). Would recommend, but not strongly.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2023-12-12T18:08:45.885827Z"
+    },
+    {
+      "professor": "Kathryn Truman",
+      "course": "MATH310",
+      "review": "One of my favorite professors of all time. You must go to office hours if you need help because there is no TA, but Prof Truman is so sweet, approachable, and funny. She makes the content as easy as possible, and if you genuinely try she will genuinely help. Definitely start homework well in advance, all of the exam questions come from homework, group work, or lecture/quiz questions, so it exams are pretty fair. If you are not afraid of hard work, the class will go well. As for Professor Truman, she is a really nice person and a caring professor.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-13T06:19:27.176843Z"
+    },
+    {
+      "professor": "Jose Rigoberto Enrique Zelada Cifuentes",
+      "course": "MATH310",
+      "review": "Good professor. Lectures were pretty good for this class, although they did get confusing at times. Homeworks weren't bad at all and often saved the grade. Quizzes were somewhat hard, however, he did provide answers or the quiz questions ahead of time if the topic was particularly difficult. Exams were difficult to say the least. Make sure you study a lot and know your definitions! Overall, nice professor and does try to help the students as much as he can. Would take him for 310. The transition from computational math to 310 is hard, but just keep practicing and eventually things will come into place.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2023-12-15T19:51:47.122729Z"
+    },
+    {
+      "professor": "Steve Halperin",
+      "course": "MATH310",
+      "review": "This class was the easiest course I've ever taken at UMD. Exam questions were taken from the textbook, so as long as you prepared for it, you would get high grades. The grading scheme was generous too. However, his teaching style was hard to follow and understand what he was explaining in the lectures.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2023-12-24T20:01:20.122214Z"
+    },
+    {
+      "professor": "Kathryn Truman",
+      "course": "MATH310",
+      "review": "Highly recommend taking Kate for 310. She's super nice and her lectures are extremely clear. Just start your homeworks as early as possible since they do admittedly take a while and go to office hours/email her as often as possible. The homeworks are only partially graded and 2 out of 10 points of each one are based on completion. It might feel weird to have so many questions and only have some of them graded but trust me when I say it works better that way. If you're anything like me, then unless you're a genius or you already know how to write proofs, you really need the basically forced practice or you'll probably fail or at least not get a very good grade, since I know for sure I wouldn't have done nearly as many problems if they weren't required. Definitely make sure to memorize and understand your definitions or you'll get cooked by the timers. Other than that, quizzes and exams are extremely fair and are more or less just slight variations on homework/quiz/groupwork questions.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-01-15T00:52:34.666572Z"
+    },
+    {
+      "professor": "Jose Rigoberto Enrique Zelada Cifuentes",
+      "course": "MATH310",
+      "review": "Super clear lecturer and provided very helpful notes. Helpful to students and a nice guy as well. Tests were not overly difficult. I just didn't study as hard as I should have for the final so I ended with a B+, but if you put in the work in this class you will be fine with Rigo.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2024-01-18T02:58:03.871683Z"
+    },
+    {
+      "professor": "Steve Halperin",
+      "course": "MATH310",
+      "review": "I agree with the review below, but I would give more stars to Professor Halperin himself -- he's great, and it was truly an honor to have him as a teacher in one of his last semesters at UMD before retirement. His class is well paced and doable if you go to office hours. The perk of taking 310 with him is that it's the only class he is teaching, so his office hours are very accessible. The course material is also accessible through the text that he wrote himself.\r\n\r\nHowever, I think I speak for most students when I say I am not a fan of Laurel, who was the grader for this class. She took off an unnecessary amount of homework points that were unreasonable, because when students and I went to office hours, even Dr. Halperin said himself that our proofs were correct. Thank goodness the professor graded the exams.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2024-01-23T13:04:42.037801Z"
+    },
+    {
+      "professor": "Jose Rigoberto Enrique Zelada Cifuentes",
+      "course": "MATH310",
+      "review": "Rigoberto was a really nice professor who gave very clear and helpful lectures. He is also lenient with homework deadlines and late work and will help out anyone who puts in an effort, and probably those who don't as well.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2024-01-26T19:36:58.647499Z"
+    },
+    {
+      "professor": "Kathryn Truman",
+      "course": "MATH310",
+      "review": "tl;dr: one of my favorite professors and courses, but it's hard AND time consuming for most. prepares you really well though.\r\n\r\nmedian scores:\r\nGroupwork: 95.63% \r\nHomework: 87.96%\r\nQuizzes: 66.26%\r\nExam 1: 80.38%\r\nExam 2: 63.00%\r\nExam 3: 63.50%\r\nFinal: 73.25%\r\n\r\nGrade Median: ~75.52% (aligns with PlanetTerp grade data)\r\n\r\nLectures:\r\nEnergetic professor with really engaging lectures. Pretty necessary unless you're going to office hours to make up for what you missed, since the textbook isn't enough to go straight into the homework.\r\nStructure is introducing the topic, giving you the important definitions, and then walking through as many examples as possible, step by step, until time runs out. The examples are usually proofs that are already in the textbook or going to be on the homework, but sometimes it's a really hard proof (that you'll never have to recreate or remember) that introduces the topic at a high level to you.\r\n\r\nHomework:\r\nA few questions are similar to the ones walked through in class, but it's never as easy as just switching up the numbers in your answer. For the rest, you need the notes and textbook with you. The questions scale up in difficulty and build off each other, so it's not like you have to stare blankly at a question until a full proof pops in your head.\r\n\r\nGrading is mostly off attempting/completing every question, with 3 of them randomly selected to get graded on accuracy.\r\n(you should be going to office hours at least once a week before the deadline to get your homework checked over)\r\n\r\nQuiz and exam questions are modified homework questions, or something close enough that doing the homework would prepare you to solve it within the time limit.\r\nIt won't always be a graded question that's selected for exams, so you really have to complete and understand the entire HW to be prepared for them.\r\n\r\nQuizzes:\r\n10 minutes long and happen the lecture after the homework was due (so 2 days). Structure is one definition and one proof or just one proof.\r\n\r\nExams:\r\nA lot for 50 minutes, but still doable imo. The second you get stuck, you should probably move on to rack up as much partial credit.\r\nAt the start of exam review days, Kate tells you the weight of each question, what section it covers, and its format -- true/false, working with definitions, or a full proof.\r\n\r\nGrading:\r\nPartial credit is big, if you couldn't get the algebra down or connect the dots on one last part, you'd still get like 70-80% of the points on that question.\r\nYou lose a small number of points for not including minor justifications like \"because f is a function\" or \"because f is continuous\". It's necessary you include them/understand why, but a little annoying since those points can add up to like 3-5% on exams when you're stressed and pressed for time.\r\n\r\nOther:\r\n - one homework, one quiz, and one groupwork dropped\r\n - lectures recorded on request\r\n - spent 6-10 hours per week, peaking at the start of proofs (week 2) and again at the MATH410 content (the last third)\r\n - the final is cumulative but really just Exam 3.5\r\n - if you took CMSC250, basic proofs, set theory and relations/functions are the main overlap, but i don't remember if 250 went as deep as this for relations and functions\r\n - hints to groupwork posted after they're due\r\n - there's a day-by-day \"reading calendar\" on canvas that suggests what sections of the textbook to read and what homework questions you should try to have completed\r\n\r\ni think the course being so dense means it sticks with you heavy, cause this was the final I studied for the least",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-02-05T02:26:27.412089Z"
+    },
+    {
+      "professor": "Sean Gruber",
+      "course": "MATH310",
+      "review": "Super! Class is organized and insightful, he explains concepts so well. He posts google doc notes so u can easily catch up even if u miss a class. He cares about each and every student. Just take whatever class he teaches --- this is never wrong!!!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-21T06:54:03.886405Z"
+    },
+    {
+      "professor": "Sean Gruber",
+      "course": "MATH310",
+      "review": "Dr. G is, as his name implies, a G. He actually teaches things, which is nice, and he's a relatively lenient grader.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2024-05-22T00:09:37.678922Z"
+    },
+    {
+      "professor": "Sean Gruber",
+      "course": "MATH310",
+      "review": "Dr. G is the best 310 professor without a doubt. He is an amazing and caring professor who wants everyone to succeed in his class and in future classes. His exams were fair and the quizzes and homework helped a ton. Part of what makes him a great professor is he has a PhD in Math Education, so he understands the concepts very well and understands how to teach students. My only complaint is I cannot take him for every class.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-22T13:26:24.243531Z"
+    },
+    {
+      "professor": "Sean Gruber",
+      "course": "MATH310",
+      "review": "Very good teacher, but more importantly, genuinely cares about his students. Final is only worth 15% of your grade so it won\u2019t screw you over completely. Patient and willing to explain things as many times as needed to make sure you understand. Sent out an email before finals to check up on everyone and remind us that we\u2019re more than a letter grade. Genuinely a good guy and an awesome teacher.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-06-12T13:43:35.377301Z"
+    },
+    {
+      "professor": "Sean Gruber",
+      "course": "MATH310",
+      "review": "Dr. G is one of the best professors I've had so far! He's very kind and cares a lot about his students succeeding in class. All of the exams (including the final) were 15% each so the final wasn't weighted as much! Also, he goes over a couple of homework questions in class in case some students are struggling on the hws. He provides a lot of help during office hours and is very patient with explaining complex concepts. Overall, I would highly recommend taking Dr. G!",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2024-08-15T02:06:54.642581Z"
+    },
+    {
+      "professor": "Sean Gruber",
+      "course": "MATH310",
+      "review": "One of the best professors ever! All his exams were weighted the same which took a lot of pressure off performing super well on the final like for most math classes. He was super flexible with homework and quizzes (ie extending hw due dates and going over the concepts more with us if he felt like we didn't spend enough time on them, and letting the entire class redo a quiz because everyone did bad on it) (also out of the weekly(ish) quizzes, about half were group quizzes\u2014so we got to collaborate on them). He really worked to help us make sure we understood the more complex topics and was always willing to explain it!",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2024-09-24T03:24:45.400119Z"
+    },
+    {
+      "professor": "Sean Gruber",
+      "course": "MATH310",
+      "review": "never took his class but still fucking loved him",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-10-18T05:09:21.587710Z"
+    },
+    {
+      "professor": "Kendall Williams",
+      "course": "MATH310",
+      "review": "He just reads out of the textbook when teaching in class; it would be nice to see some of my tuition dollars at work as opposed to being redirected to a textbook that I downloaded for free. He teaches noticeably different material than other MATH310 teachers and assigns homework assignments that are very long and often due the day of the test. He's a very nice guy, and he answers all your questions. MATH310 is seemingly hard to teach and hard to learn for many, so keep that in mind. For a class this difficult, though, it seems necessary for the students to have a teacher that is a bit more dedicated to this course.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2024-10-21T13:36:38.382925Z"
+    },
+    {
+      "professor": "Sean Gruber",
+      "course": "MATH310",
+      "review": "my favorite professor ever (: cares about you understanding the material and is superrrr flexible with quizzes and exams. lectures are recorded most times and notes always updated. wish he could teach all my future math courses too",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2024-12-11T03:37:29.851822Z"
+    },
+    {
+      "professor": "Kendall Williams",
+      "course": "MATH310",
+      "review": "Here's probably the most objective review I can give of Dr. Williams's class:\r\n\r\nI want to preface this: I cannot speak more on how great of a lecturer and person Dr. Williams is. He's always accommodating, has four different OH times throughout the week, and is willing to go over test questions and proofs with you for clarification. He teaches a bit slowly, but I think slowly enough to understand the content since it's such a hard class.\r\n\r\nAs for the cons, there are quite a few. First of all, the TESTS. Look at Dr. Williams's grade data. It is VERY accurate. Many people drop this class and take a W, but that doesn't even count the part of the class that dropped before that. The tests are extremely hard, and you don't have much time. He will typically give you problems similar to homework or in-class examples on tests, which is nice. However, he is extremely nitpicky when grading proofs and typically takes off quite a few points in partial credit. One of our midterms (or tests, as he refers to them as) had an average and median of 46%. \r\n\r\nThe homework assignments are also extremely long. On multiple occasions, the problems he assigned have ended being 13 or more (front and back) pages, taking several hours to do. Additionally, we don't receive feedback on this homework until after the test, which makes using it to study impossible.\r\n\r\nThe tests will be very hard, and you will probably need to study quite a bit for this class. He's also very textbook-heavy and makes you constantly refer to the textbook for theorems/definitions, so if you are taking this class I would recommend getting a hard copy of the textbook as opposed to a digital copy.\r\n\r\nTL; DR: From a lecture perspective, fantastic, and really improves your knowledge of the material. Test and homework-wise, atrocious. If you really want to learn and don't care about the hit to your GPA, then I'd recommend Dr. Williams. Otherwise, you'll likely do better in another professor's section.",
+      "rating": 2,
+      "expected_grade": "C",
+      "created": "2024-12-11T19:43:08.288624Z"
+    },
+    {
+      "professor": "Kendall Williams",
+      "course": "MATH310",
+      "review": "I would avoid this professor unless you feel really confident in your ability to do well (if you have previous proofs experience, for example). He's a fine enough lecturer, and overall a nice guy. He relies a lot on the textbook, but that mostly just means you can catch up if you miss lecture every once in a while. His homework is long, but is graded pretty generously. He has frequent office hours and is helpful during them. \r\n\r\nThe only issue I have with him is his tests. This issue is so massive, though, that it overshadows pretty much all the positives of his class. The tests are graded absurdly harshly (look at the grade data, it's accurate), and averages usually hovered around the 40-50% range. 1/3 of the class ended up dropping, and very few people got As. I think he would be a fantastic professor if he implemented a curve, or just graded lighter.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2024-12-24T19:53:56.981209Z"
+    },
+    {
+      "professor": "Kathryn Truman",
+      "course": "MATH310",
+      "review": "This class, and especially this class has a brutal reputation with Kate. This is earned for a very good reason: if you do not have proofs experience, you will have a hard time.\r\nThe best way to describe it is that Kate is extremely generous, but she runs the class like it's the Navy. The professor is far more interested in you learning the material than meeting arbitrary standards; which is why I tend to giving her a five over a four. (A 4.5 is most appropriate.) In that regard, she is one of the fairest and most reasonable professors I have taken a class with.\r\nBut the material is brutal, especially Exam 3 & Final. If you aren't able to keep up with the pace, I wouldn't recommend taking this class with Kate. But she is extremely thorough, which is important for an aspiring math major heading into 410 and other rough classes.",
+      "rating": 5,
+      "expected_grade": "B-",
+      "created": "2025-01-07T01:28:11.570950Z"
+    },
+    {
+      "professor": "Kathryn Truman",
+      "course": "MATH310",
+      "review": "She is a very understanding person and if you ever have emergencies or times where you might have to miss or extend assignments, she will do it for you, but don't take advantage of it because I don't think she will do it more than a couple times. Most days are lecture but usually once a week we have a day where we just do a group work the whole class and work with people around you which is refreshing from normal lecture and just taking notes. The groupworks are basically graded on completion and she checks them while you are doing them so you don't get anything wrong. Make sure to start the homeworks IMMEDIATELY because they are so time consuming but are really good practice. Also actually try on the quizzes because they can help your grade and can be kind of challenging. She drops one homework and one quiz so.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2025-05-11T17:49:29.448955Z"
+    },
+    {
+      "professor": "Kathryn Truman",
+      "course": "MATH310",
+      "review": "Kate is a very nice professor who is very passionate during lectures and always has her door open for questions. Unfortunately, her bubbly personality does not make up for the horror that is this course. I would like to say that some saving graces are (1) reading quizzes and a reading calendar that ensure you read the textbook (which is necessary), (2) section outlines with proof outlines and definitions, (3) she will record every single lecture if you just ask, and (4) group works are free points and possibly the only helpful material for exams.\r\n\r\nMy biggest problem with this course was the \"weekly\" homework that easily took me 12 hours a week to complete. The majority of my time this semester went into this one course, and I am just minoring in math. Most of the problems you can get stuck on with few resources on how to complete the proof (if this happens, go see her!). Also, only about 2 questions from the extremely lengthy homework were graded, so if you poured all that time into the homework and maybe didn't do a few questions, you could still end up with a miserably low grade. Although the homework felt like a huge waste of my time, I could always get feedback on my proofs, which helped with exams.\r\n\r\nMoving on, the exams are too dense to complete in the 50min class period, and the weekly quizzes were crammed into the end of lectures. There were no study guides for the exams, and the only study materials were group work and unassigned homework questions. Also, no curves for the exams that average at a high D (could be because most run out of time). Kate does an excellent job of explaining concepts, but proof-wise, the class mostly felt like copying down proofs. The best preparation is seeing her and having her talk through the proofs with you and the group work. \r\n\r\nI endured this course because I want to take MATH410, and apparently, this course is good preparation. I wish this course could be less brutal because understanding the concepts is okay enough, but the proof-writing is HARD. Since there is SO much packed into this course, I hope it is all necessary. I understand why some are rating so high, but personally, the teaching style and pacing ruined my experience.\r\n\r\nBasically, if you are really passionate about proof-writing and want to dedicate a large amount of time to it, go take this class with Kate. But, if you are the type to not go to office hours or start homework late, or you generally have poor time management, try to go for another professor.",
+      "rating": 2,
+      "expected_grade": "C-",
+      "created": "2025-05-13T19:28:17.574387Z"
+    },
+    {
+      "professor": "Kathryn Truman",
+      "course": "MATH310",
+      "review": "Kate is an amazing professor. Yes, she expects you to put in the work, but trust me it is Wirth it. If you plan on doing math, the absolutely take the course with her - she will ensure you truly understand everything. \r\nHer lectures are engaging and energetic and very interactive. Her HWs are long but they help a great deal. Exams can feel somewhat long, but I do think they are fair. If you ensure you know and understand all definitions, and truly internalise all concepts and ideas you will do well. \r\nTake this course with her! \r\nRemember to stay motivated, there is a learning curve and you will eventually do well if you continue putting in the effort. I got a C+ on my first exam but still ended up with an A because I was able to get better.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-14T04:57:59.277146Z"
+    },
+    {
+      "professor": "Sean Gruber",
+      "course": "MATH310",
+      "review": "Dr. Gruber has basically every positive trait you want in a teacher. He's very approachable, has good notes, paces his class well, and grades sensibly (maybe even too leniently lol). Lectures are recorded, notes are posted, good study guides/practice problems are given, and he's just very pleasant to talk to in general. He really does care about all his students and how well they've learned the material. If Gruber is teaching a class you want, his section(s) should be your top choice without a second thought.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-05-22T02:07:50.325085Z"
+    },
+    {
+      "professor": "Sean Gruber",
+      "course": "MATH310",
+      "review": "Dr. G is genuinely, without a doubt, the best math professor I have ever had at UMD. The sheer amount of kindness and care that he has for us is astounding, and I do not have enough kind words to say about him. I have never felt so welcomed in a classroom before, and despite the course being an introduction to higher level math topics, there was not a single topic that I was confused about, because Dr. G's lectures were at an extremely reasonable pace and unbelievably helpful. In addition to his calm and friendly demeanor, he lectures in a clear and concise way, ensuring all students have a firm grasp on topics and he makes sure of this. Overall, if I could choose to take him for every single math class I will ever take in the future, I would.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-06-10T02:41:21.466006Z"
+    },
+    {
+      "professor": "Sean Gruber",
+      "course": "MATH310",
+      "review": "FR THE GOATTT!! I understood proofs so much because of him and his lectures were super interactive which made me grasp the concepts more. He's genuinely the nicest professor I have ever had and cares a lot about his students. Would recommend to everyone if you have the opportunity to take a class with him please please do it you will not regret.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-06-11T21:13:32.862086Z"
+    },
+    {
+      "professor": "Sean Gruber",
+      "course": "MATH310",
+      "review": "The workload was extremely manageable and the resources available were super helpful. It is obvious that Dr. Gruber cares a lot about his students and provides his students with everything they need to succeed. This class was taught wonderfully.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-07-11T00:46:52.184203Z"
+    },
+    {
+      "professor": "Anna Szczekutowicz",
+      "course": "MATH310",
+      "review": "Taken in Summer '25. \r\n\r\nProfessor S had this designed this course very well to correspond with the textbook. Lectures were daily and she even provided a notes sheet that she would fill in. Examples ranged from easy to difficult. There were two homework and two quizzes each week which were open book. Homeworks were time consuming and had some difficult problems but not bad overall. \r\n\r\nFinal exam was not open book and contained a mix of problems. One thing the professor could have done better is given more practice problems as the questions had some overlap but not a whole ton. Had I done better I would have gotten an A. \r\n\r\nA great choice for 310 but requires a decent time commitment so if you're looking for an easier class not great but definitely a great choice to prep for 410 as she does some 410 for the last couple weeks.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-08-25T23:36:31.582166Z"
+    },
+    {
+      "professor": "Sean Gruber",
+      "course": "MATH310",
+      "review": "Great professor. Genuinely cares a lot for his students. Makes every effort possible for his students to succeed by providing notes for each lecture and practice problems with solutions. Highly recommend.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-08-26T22:32:33.798201Z"
+    },
+    {
+      "professor": "Kathryn Truman",
+      "course": "MATH310",
+      "review": "idk she is really sweet and is always available to help, but i just don't think the class has to be this hard or this dense. i go in for help a lot and ask a bunch of clarifying questions--will probably end up with a B+ or A- or maybe even just a B if i bomb exam 3 and the final. i don't really think she curves, so probably a B+ most likely. this class makes it almost impossible to focus on doing other necessary normal things as a college student (like taking other rigorous classes or even just working a part time job). \r\n\r\nthe day you get behind is the day that you end up spiraling in this class. i made this mistake and never fully caught up after a month and a half.\r\n\r\ni will say though, this is the most i've ever learned AND retained thus far--literally in any class i've ever taken up until now. i thought i was a decent student since, before this class, the lowest grade i've ever received in a math class as been a 94%; however, i'm sitting at an 85% in kate's class right now. \r\n\r\ni think if you're more persistent and resilient than me, with actual good time management skills, you'll be fine. if not, this class will probably hurt your gpa a bit--especially if you (like me) are coming in without any prior proof writing experience.\r\n\r\nif you care about your gpa and things like getting into grad school or whatever (this all used to be very important to me), maybe take an easier professor if there is one. however, if you want to really push yourself and expose all/any weaknesses you have as a student, take kate's class.\r\n\r\ni have a very love/hate relationship with this class. it makes me kind of sad, but i love math and am learning a lot. i can't say i fully recommend her, but i can't say i wouldn't either.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2025-11-28T00:39:43.497877Z"
+    },
+    {
+      "professor": "Kathryn Truman",
+      "course": "MATH310",
+      "review": "I definitely enjoyed my time in MATH310 with Kate. This is a hard class, but she is definitely the right professor to take on this class. She is almost always available to answer questions like on the weekends before the exams she is very responsive to questions. The homework assignments will take a really long time. However, they prepare you very well for the exams and quizzes. I spend around 6-8 hours on the homework, so I always can keep the content in mind. While the exams aren't curved, she grades very generously to make up for this fact. The exams are kind of rough though, if you spend too much time thinking then you better not make a mistake if you plan on finishing. She is very energetic in class, and this definitely helps with the lecture content because sometimes it can be a little bit abstract and prevents me from zoning out. I'm predicting an A because I think it is very easy to get a high score, but very hard to get a perfect score. Since this class about proofs is about preciseness she will take off for the littlest of things, but it is not too much of a penalty as its more of a reminder. I started this class with no real experience in proof writing, I knew the basic structure of an epsilon-delta proof and maybe the week 1 content at most, but I feel like this class was a great introduction to mathematical proof. I am now able to prove a lot more things and feel confident enough to tackle further math classes. I think this class's difficulty is hard on the edges. Like the beginning was hard to get used to, the middle was pretty easy, and then the end where we go over basic MATH410 stuff is starting to feel challenging again. However, like I said Kate is an amazing professor and she wants to see you succeed you just have to put in the work. There is reading quizzes to help you keep up with the material, group works so you can discuss the problems with others and receive help from her, the Piazza board so you can ask a question, and she can answer for the whole class, and she is available in her office a lot. I would definitely recommend taking her for 310, just make sure not to take another rigorous class as you might not be able to handle both of them.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-01T21:19:31.294296Z"
+    },
+    {
+      "professor": "Kathryn Truman",
+      "course": "MATH310",
+      "review": "Dr. Truman is awesome. I've honestly had a blast, and that's largely due to how she runs the course. I don't think I'm particularly smart (or math-y), but I've found she makes the content not only accessible, but exciting as well (looking to future semesters). \r\n\r\nIn particular, some of the stuff I find super helpful:\r\n\r\n- focuses on building intuition for what we're doing, and is happy to slow down and/or reexplain as needed. for more challenging chapters, we'd take it even slower than usual (1 week+ per chapter). \r\n\r\n- building off the last point, she really values understanding over semantics/the minutiae. The review below mine is correct that she doesn't curve, but that's because there's a curve built into the class! The majority of the points earned outside of quizzes/exams are completion-based, and even on the quizzes and exams the grading again mostly (~70%) focuses on understanding (rather than punishing algebra mistakes or a skipped minor step). this is something she actually emphasizes throughout the course, eg encouraging people to at least write a solid outline of the given proof and define variables to get partial credit if nothing else/the approach isn't jumping out.\r\n\r\n- the more or less weekly groupworks/quizzes are fantastic. the problems she's written have been great for both consistently challenging my understanding and reminding me of definitions/theorems/techniques I should probably spend more time on (and during the groupwork, she and her TA walk around the class, interacting/helping groups as needed work through the problems)\r\n\r\n- office hours are a great resource. she knows the common points of confusion for both course material and the homeworks, and is always happy to give that little (or big) hint to help you continue to progress through it. furthermore, she also has a pretty active Piazza class which she encourages people to post on as needed for homework hints, quiz/exam review, or just clarification. \r\n\r\n- i said it above but she really is just awesome. she's super personable, willing to negotiate deadlines if you have something pop up, and is just generally excited about the class. i know it's probably the millionth time she's covered the material, and yet she still brings energy and enthusiasm to every single one of her lectures. \r\n\r\nMy advice (for anyone planning to take this class) would be to \r\n1. take it with Dr. Truman (duh)\r\n2. lighten your semester coursework if possible - this class is the foundation for the higher level math classes you'll take, it's worth the investment now to truly learn the material (vs just skating by)\r\n3. start early on the homework - some psets can be long, all will be challenging, and the earlier you start the more time you have to get help in OH\r\n\r\n(and bonus) a number with two as a factor != an odd number (hint hint)",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-03T19:58:50.490618Z"
+    },
+    {
+      "professor": "Kaitlyn Loyd",
+      "course": "MATH310",
+      "review": "I'm pretty sure this was her first semester teaching, and she did pretty well imo. \r\nExams were fair, and actually got easier as the semester went on, but I think that's because of the nature of the class; you get better at writing proofs over time.\r\nWorkload was initially a bit much, homeworks took up a ton of time. But she took feedback from the class and scaled them down. They're still really helpful to study. We had quizzes most weeks which were never too bad. Group works were good for grades and added a nice way to discuss the material with classmates. \r\nLectures got better as the semester went on. Writes clearly on the board, and emphasizes theorems and definitions over just drilling examples. I don't know how she would teach a computational class, but her style fit 310 well. She speaks very quietly though\r\nI'd say I got a lot out of the class- I feel much more comfortable writing proofs than I did going into it, which is the entire point of 310.\r\nI recommend her, she'll give you a fair class",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2025-12-08T19:40:33.271095Z"
+    },
+    {
+      "professor": "Kathryn Truman",
+      "course": "MATH310",
+      "review": "- Incredible email/Piazza response times and office hour availability\r\n- As someone who came into this course with no proof-writing experience, the first month was absolutely brutal. However, as others have stated, it does get better, though learning epsilon proofs is challenging as well. \r\n- Grading: I scored around the median on exam 1 and above the upper quartile on exams 2 and 3, which will probably land me an A-\r\n\r\nAdvice:\r\n- This course forced me to learn to study smarter/harder\r\n- Memorizing definitions through flashcards is really high yield, since many quiz/exam questions test definitions, and you need them for your proofs as well\r\n- Since there are no study guides, study through the quizzes, groupwork, and homework assigned for the unit\r\n- There is no curve as far as I know, and the grade data for this class speaks for itself. It's harder than most classes to get an A,A-, or B+\r\n- That being said, I don't think you should avoid Truman out of fear. If you stick with it, you will end up fine and will take away a lot from this class.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-12-11T21:48:30.378058Z"
+    },
+    {
+      "professor": "Kaitlyn Loyd",
+      "course": "MATH310",
+      "review": "This was her first semester teaching, and she did a great job. Like the other person said, her exams were extremely fair, and the final was fairly easy. Homeworks initially took a while, but she took class feedback, which was great, and made them shorter. \r\n\r\n******Her handwriting is AMAZING and her notes are super clear. Also, she is extremely nice and always ready to listen. It's nice seeing a professor who can also laugh.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2026-02-06T02:12:26.144758Z"
+    },
+    {
+      "professor": "Kaitlyn Loyd",
+      "course": "MATH310",
+      "review": "Kaitlyn was a great professor for 310. Her notes in class are easy to follow and neatly written. The exams were fair, with the third exam being the hardest due to it being the 410 content. However, she is very nice and understanding, especially in office hours. For 310 the class was based on points, so even if you didn't do so well on the exams, the homeworks, groupworks, and quizzes would even your grade out. Weekly quizzes were fair but some were definitely harder than others. Thankfully she drops the lowest quiz, homework, and groupwork. 310 is a hard class by nature, but I felt like it was doable with Kaitlyn, and I definitely feel much more comfortable writing proofs now. I am grateful for this class since it has made my current 410 class much less stressful after learning in depth how to do proofs in 310. Overall recommend this professor and would take another class with her.",
+      "rating": 5,
+      "expected_grade": "B-",
+      "created": "2026-02-26T01:13:08.504488Z"
+    },
+    {
+      "professor": "Kathryn Truman",
+      "course": "MATH310",
+      "review": "Do not listen to the reviews saying that she is nice.\r\n\r\nFirstly, she is not considerate at all. She performs on a systematic level, so to her you are not a person, just a student with a UID. \r\n\r\nUnreasonable amount of homework that does not help with understanding because it is more busy work than challenging problems forcing you to think.\r\n\r\nVery terrible lecturer, she is not very knowledged, as you can expect from someone who is an advisor teaching a math class. She also doesn\u2019t explain stuff, just does examples, assuming that you know the stuff.\r\n\r\noverall, avoid her if you can. it\u2019s for the best. if not, i wish you luck.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2026-04-04T01:38:08.548632Z"
+    },
+    {
+      "professor": "Salman Safdar",
+      "course": "MATH310",
+      "review": "He is very reasonable with deadlines and the amount of classwork/homework for MATH310. Also tries to explain concepts if we get confused about something, and communicates what will be on the exam well. For cons, I would say I don't get *too* much out of going to lecture, but to be fair, MATH310 is very textbook driven. Also a bit of an accent barrier, but there's not much he can do about that and you get used to it. Just keep up with the work and you'll be fine",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2026-04-13T03:29:05.392188Z"
+    }
+  ],
+  "department": "MATH",
+  "course_number": "310",
+  "name": "MATH310",
+  "title": "Introduction to Mathematical Proof",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> Minimum grade of C- in MATH141; and must have completed or be concurrently enrolled in MATH240, MATH341, or MATH461; and must have completed or be concurrently enrolled in MATH241 or MATH340.\n<b>Restriction:</b> Must be in a major within the CMNS-Mathematics department.\n<b>Credit only granted for:</b> MATH307 or MATH310.\n<b>Additional information:</b> Math majors may not use this course to satisfy an upper-level requirement.\nTo develop the students' ability to construct a rigorous proof of a mathematical claim. Students will also be made aware of mathematical results that are of interest to those wishing to analyze a particular mathematical model. Topics will be drawn from logic, set theory, structure of the number line, elementary topology, metric spaces, functions, sequences and continuity.",
+  "is_recent": true,
+  "geneds": null
+}

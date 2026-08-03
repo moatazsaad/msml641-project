@@ -1,0 +1,15 @@
+{
+  "average_gpa": null,
+  "professors": [
+    "Cornelia Van der Weele"
+  ],
+  "reviews": [],
+  "department": "BSCI",
+  "course_number": "332",
+  "name": "BSCI332",
+  "title": "Cell Biology and Physiology Laboratory",
+  "credits": 1,
+  "description": "Laboratory exercises in Cell biology and physiology",
+  "is_recent": true,
+  "geneds": null
+}

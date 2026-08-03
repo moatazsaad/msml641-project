@@ -1,0 +1,39 @@
+{
+  "average_gpa": 3.0122641509433965,
+  "professors": [
+    "Arpita Upadhyaya",
+    "Rabindra Mohapatra",
+    "Sergio Picozzi",
+    "Matthew Severson",
+    "Hailu Gebremariam",
+    "Hailu Gebremariam",
+    "Hailu Gebremariam",
+    "Xiangdong Ji"
+  ],
+  "reviews": [
+    {
+      "professor": "Ki-Yong Kim",
+      "course": "PHYS142",
+      "review": "He's not the best lecturer. He likes to prove theories and doesn't test on them. Doesn't really encourage questions.\r\nIt's amusing to watch him try to figure out how to make the demos work. He's also a really nice person.\r\nBasically, if you study really hard and write good cards (you're allowed one for the first test and additional one for subsequent tests), you'll be fine. He curves a lot.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2010-12-18T21:59:00Z"
+    },
+    {
+      "professor": "Arpita Upadhyaya",
+      "course": "PHYS142",
+      "review": "I didn't pay attention in class, so I'm not going to rate the teacher. She's a nice lady and she goes through her powerpoints in class. \n\r\nHere's the breakdown:\n\r\nHomework- 10%\r\nQuizzes- 10%\r\nFirst Exam- 15%\r\nSecond Exam- 15%\r\nThird Exam- 15%\r\nLab Reports (free points) -10%\r\nFinal Exam- 25%\n\r\nI learned from reading the book doing the homework. The quizzes are straightfoward, and easy if you study. For each exam, you get a notecard, but its pretty much filled with formulas. Exams are variations on homework problems. If you know how to use the formulas, you're set for the most part. ",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2011-12-19T19:46:00Z"
+    }
+  ],
+  "department": "PHYS",
+  "course_number": "142",
+  "name": "PHYS142",
+  "title": "Principles of Physics",
+  "credits": 4,
+  "description": "<b>Prerequisite:</b> PHYS141; or students who have taken courses with comparable content may contact the department.\n<b>Credit only granted for:</b> PHYS142, (PHYS260 and PHYS261), or PHYS272.\nA continuation of PHYS141 covering waves, electricity and magnetism, optics and modern physics.\n<i>The in-person lab associated with this course meets shortly after the online lecture.  Students who do not live on or near campus may use 1412 PHY to attend the online lecture using their own laptops and headphones during the scheduled lecture time.  Students may only use this room to attend the lecture on the days they will attend lab.</i>",
+  "is_recent": true,
+  "geneds": null
+}

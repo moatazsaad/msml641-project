@@ -1,0 +1,1952 @@
+{
+  "average_gpa": 2.9050022331397947,
+  "professors": [
+    "Natalia Tchetcherina",
+    "Samuel Punshon-Smith",
+    "Judith Law",
+    "Lior Hilsenrath",
+    "Robert Maschal",
+    "Adam Lizzi",
+    "Rebecca Black",
+    "Casey Cremins",
+    "Jacky Chong",
+    "Mark Magsino",
+    "Xuan Yao",
+    "Philip Wertheimer",
+    "Joshua Schneider",
+    "Micah Goldblum",
+    "Christoforos Somarakis",
+    "Susan Mazzullo",
+    "Stefan Poikonen",
+    "Alexey Stepanov",
+    "Barry Spieler",
+    "Kimberly Fouche",
+    "Karl Schmitt",
+    "Stefan Sabo",
+    "Daniel Zollers",
+    "Kijoeng Nam",
+    "Lemeng Pan",
+    "Matthew Whiteway",
+    "Ian Johnson",
+    "James Murphy",
+    "Lucas Tcheuko",
+    "Travis Andrews",
+    "Susan Chimiak",
+    "Andreas Roy",
+    "Chen Qian",
+    "Ran Ji",
+    "Alexander Estes",
+    "Domingo Ruiz",
+    "Son Ho",
+    "Christiana Sabett",
+    "Suddhasattwa Das",
+    "Douglas Ulrich",
+    "Chunting Lu",
+    "Kung-Ching Lin",
+    "Pratima Hebbar",
+    "Jonathan Fernandes",
+    "Matthew Griffin",
+    "Thien Ngo",
+    "Darcy Conant",
+    "Matthew Dellatorre",
+    "Muhammad Elgebali",
+    "Shiping Liu",
+    "Yuyin Shi",
+    "Valeriia Cherepanova",
+    "Siddharth Sharma",
+    "Matthew Griffin",
+    "Susan Mazzullo",
+    "Archana Khurana",
+    "Ishfaaq Mohammed Imtiyas",
+    "Matthew Griffin",
+    "Susan Mazzullo",
+    "Archana Khurana",
+    "Matthew Griffin",
+    "Amandeep Chanda",
+    "Ishfaaq Mohammed Imtiyas",
+    "Ran Li",
+    "Archana Khurana",
+    "Matthew Griffin",
+    "Ishfaaq Mohammed Imtiyas",
+    "Matthew Griffin",
+    "Archana Khurana",
+    "Matthew Griffin",
+    "Yue Dong",
+    "Clarke Safsten",
+    "Matthew Griffin",
+    "Amandeep Chanda",
+    "Matthew Griffin",
+    "Ran Li",
+    "Susan Mazzullo",
+    "Archana Khurana",
+    "Matthew Griffin",
+    "Jonathan Fernandes",
+    "Matthew Griffin"
+  ],
+  "reviews": [
+    {
+      "professor": "Casey Cremins",
+      "course": "STAT100",
+      "review": "reads off PPT slides, usually the not-important stuff, you will not learn a single thing in lecture so don't bother going\n\r\nnice guy but terrible prof. be prepared to teach yourself/get a tutor if you take his class",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2016-04-25T14:34:00Z"
+    },
+    {
+      "professor": "Casey Cremins",
+      "course": "STAT100",
+      "review": "Dr. Cremins is not a good teacher. He's a fine person but doesn't convey any material clearly and then doesn't answer questions because he assumes people just aren't listening. \r\nI had to start going to Mezullo's lectures just for anything to make sense. Having a TA who didn't speak English or know how to teach didn't help either. ",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2016-04-21T10:23:00Z"
+    },
+    {
+      "professor": "Susan Mazzullo",
+      "course": "STAT100",
+      "review": "Probably the nicest lady I've ever met. That being said, she can't really lecture properly. We probably started class late everyday because she was gathering her things. Material is easy, just a lot of busy online work. The discussions aren't mandatory, and the TA's honestly don't even know what's going on in class. She drops a lot of stuff, and we probably had 15-20 extra credit opportunities, so that's nice. Take her if you want an easy B, but be warned that you might have to self teach yourself a lot.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2018-05-03T22:36:15Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "he's a very good professor who cares a lot for his students and tries his hardest to remember the names of students and passes out candies in class, although he gives out an assignment every lecture, they are extremely beneficial to do since it helps you understand the concepts better and are similar to the questions on the exam. I highly recommend this teacher for stat100",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2019-01-24T04:11:44Z"
+    },
+    {
+      "professor": "Thien Ngo",
+      "course": "STAT100",
+      "review": "He was fired on week 12 of 15 in my class. That should be a red flag right there. Aside from that, would never give a straight answer when asked to clarify and would just say \"definitions not on exam\"",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2019-05-01T23:49:56Z"
+    },
+    {
+      "professor": "Susan Mazzullo",
+      "course": "STAT100",
+      "review": "She was one of the nicest professors for my first semester at UMD. I have never been talented at math, but she enabled me to get an A+ in Stat100. Her review sheets are basically the same as the exam, so you\u2019re definitely being prepared to do well. She is also lenient with deadlines of homeworks, and gave about 8 points of extra credit during the whole semester. She is very kind, but I notice that some students zone out during lecture, due to her rambling. She can ramble on, but she is just trying to give as much background and explanation as possible for these topics. I definitely recommend her for stat100 :) ",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2019-12-17T21:07:41Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "The best professor ever. I wouldn't recommend that you take any other professor for STAT100. His test averages are always very high. I'm terrible at math but got over 100% as my final grade (because he offers many opportunities for extra credit). He holds study sessions before each test and I recommend attending Catherine Curtis' review sessions because she makes her own study guides based off of the tests. Griffin is much easier than Mazzulo. ",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2019-12-18T20:23:54Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "I had Griffin for STAT 100 online and have to say that he has not been a good instructor. When you're lucky, he responds to you within one week and then basically only tells you to talk to your TA. I understand that he has a lot of students, but he has not made an effort to communicate at all. Plus, all of his online lectures are asychronous, so I have yet to see his face or hear his voice - two months into the semester. The Acrobatiq textbook is extremely hard to understand so the PowerPoints he puts up help in learning the material, but it would be a lot easier if he did actual live zoom lectures. So I have to say that I'm quite dissatisfied with him. If you're better at math than me he might be ok, but for people that are as terrible at math as myself you'll be sorely disappointed at the (lack of) effort he puts in to helping you understand the material.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2020-11-11T20:17:23Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "We are in a global pandemic and this guy think his class is more important. DO NOT TAKE.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2020-11-12T05:07:31Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Im sure this class would have been WAYYY better in person. I do think lecture videos would have been more effective for this class, but he allows multiple attempts on EVERY assignment except exams. There is tons of extra credit. He could have been more lenient on mistakes due to technology failures. This is a class where the answers are either right or wrong, there no room for rounding errors. Overall, is a decent professor. I would recommend it to people that enjoy async classes. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2020-12-03T17:10:51Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "People whined about his class a lot in the GroupMe and complained about his seemingly lackadaisical teaching. This is an asynchronous course with synchronous Zoom classes. He responds to emails fairly quickly if you need him (as long as you put your course name/section number in your subject). He grades nearly EVERYTHING for completion on Acrobatiq (besides the quizzes, which you have THREE attempts on). He explicitly states what he wants and expects out of us on his syllabus, ELMs announcements, and assignments. He offers so much extra credit, he even said in an announcement that doing all the EC work would have boosted your grade <4% overall. You get multiple attempts on everything you take besides tests and weekly problem sets (yet he offered us an optional problem set for extra credit). AMP's host about ~5 study sessions prior to our tests. Compared to what the math department offers as \"professors\", Griffin does an exceptional job at offering resources for you to get a good grade while also learning the material. This has been THE easiest math course I have taken at UMD, yet first-semester freshmen want to complain because they are expected to do work outside of our once a week, one-hour discussion.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2020-12-03T17:11:22Z"
+    },
+    {
+      "professor": "Susan Mazzullo",
+      "course": "STAT100",
+      "review": "The sweetest teacher on earth and really wants her students to succeed. She has PLENTY of review material for each of the tests as well as extra credit so her tests are a breeze if you take notes and come to lecture ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2020-12-15T23:52:14Z"
+    },
+    {
+      "professor": "Susan Mazzullo",
+      "course": "STAT100",
+      "review": "Sue is the best. Super sweet, so nice, and willing to answer any and all questions as much as needed. She's a little cluttered and will blow up your phone with announcements, but on the bright side, you'll never forget you have something due. Somehow she made stat fun, totally recommend. ",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2020-12-21T11:08:06Z"
+    },
+    {
+      "professor": "Susan Mazzullo",
+      "course": "STAT100",
+      "review": "sooo sweet and great with the online format. She's so engaging and interactive. Take STAT100 if you need to get a math requirement! She's very patient with this class since stat is more conceptual rather than difficulty with computation. ",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2021-04-14T23:57:06Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "A lot of people complained about the amount of work he expected from us in GroupMe (similar to another review), but honestly, I think he spoonfeeds us almost. Everything is open note, and his lecture slides go directly along with class activities for the day. He drops the lowest 2/3 grades for each category, so as long as you keep up with everything, there's honestly no reason for anyone to fail. IDK how he is in person, but I think that he's honestly one of the best professors at UMD. The fact that his asynchronous lecture slides helped so much with explaining concepts to someone who had never taken stats before shows that he's really an amazing professor. He also gives a lot of extra credit, so there are ample opportunities to raise your grade, up to a 4% increase. I think he could have been more lenient with technology issues, however, he did his very best to accommodate to the pandemic. ",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2021-05-19T14:40:29Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "To start, Professor Griffin was a very nice guy and the material of the class was fairly easy, but I do NOT reccomend this class at all. The lectures were insanely boring, but this is totally understandable for a math class. However, my TA was super unhelpful and unreliable, and was once 30 minutes late to class with no apologies or explanations. When I had Covid and reached out to both my TA and Professor Griffin, I received no response from either of them and all of my assignments for that week were marked as missing and my grade suffered as a result. This class involves coding, and while it is easy there is absolutely no need for coding to be involved in an introductory class. He never responded to any of my emails throughout the entire semester! Overall, I struggled through this class and was only able to receive support from the student helpers. If you are looking for a communicative and reliable professor, DO NOT take this class. ",
+      "rating": 2,
+      "expected_grade": "B-",
+      "created": "2021-05-25T00:58:03Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "The thing making this class difficult is the professor behind it, treating the introductory stat class as though it were a 300 or 400 level class. All the work feels like busywork, his lectures are just reading off the slides, which in-turn are just whatever the textbook says down to the graph. This would lead you to think that you could just skip lecture then, wrong. Lecture has mandatory attendance check-ins at the beginning and end of class, I assume because he is aware people would just leave if given the chance. Further, he also takes forever to grade and give feedback, which is often needed as later assignments greatly benefit from knowing what you did right or wrong.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2021-10-15T15:41:57Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Professor Griffin is EXTREMELY thorough with pretty much everything he says or writes. This is nice because there is plenty of communication, but it does get quite annoying. He does a good job of giving students every possible way to learn stats, but this course is a lot of work. He teaches R, but it really seems like it was thrown in last minute. It seems more like busy work than anything and the weekly R assignments are very repetitive and annoying. Also, my TA was absolutely useless. But, in the end, I feel like he was a good teacher and I learned a lot. ",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2021-10-15T18:33:18Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "I love Griffin! He is so sweet to me and always accommodates me. I highly recommend going to office hours and getting to know him better since the class is so huge. Highly recommend this class as well, it is very easy but you still learn a lot. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-10-22T14:21:31Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "This class is insanley boring, and Griffin is not a good lecturer. However, the course is very easy and you don\u2019t even need to pay attention that much to do well in his class. Griffin also provides a lot of assistance for studyibg for his tests and he is a very pleasant person when he\u2019s 1 on 1.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2021-12-09T14:38:28Z"
+    },
+    {
+      "professor": "Siddharth Sharma",
+      "course": "STAT100",
+      "review": "Worse Professor I had this semester. STAT100 itself isn't a hard class in terms of content, however, you have to self-teach yourself 95% of the time. It was very difficult to understand what he was saying half of the time. Simple concepts turn into a nightmare. Never replied to emails. Instructions were so vague on assignments.  You only have 2 tests in the semester and they aren't too difficult. He DOES provide a study guide for each test which helps. But never again will I take a class with him...",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2021-12-09T16:31:19Z"
+    },
+    {
+      "professor": "Siddharth Sharma",
+      "course": "STAT100",
+      "review": "While the content of this class wasn't actually too difficult, this professor was unbelievably unorganized and almost impossible to get in touch with. He didn't put out the syllabus until several weeks into the semester. You have to buy an expensive code for this thing called Acrobatiq that literally doesn't teach you anything. You basically have to teach yourself the entire course. I would not recommend this teacher.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2021-12-14T19:37:32Z"
+    },
+    {
+      "professor": "Siddharth Sharma",
+      "course": "STAT100",
+      "review": "Genuine guy, not the best teacher. Made stuff way more complicated than it needed to be. Practice exams were helpful though.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2021-12-16T23:52:18Z"
+    },
+    {
+      "professor": "Siddharth Sharma",
+      "course": "STAT100",
+      "review": "Worst teacher I've ever had. Might as well have not gone to any lectures or discussions and just showed up for the tests. I taught myself EVERYTHING. Assigned the work he forgot to teach a week before the final and also puts grades in weeks later. None of his assignments are his own and the discussion is a completely different curriculum from what you 'learn' in lecture. Don't depend on having taken AP Stats because you will be coding in this class.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2021-12-17T21:55:03Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "I did exceptional in his exams because of the AMP review sessions. He is rude and literally says he doesn't answer stupid emails. So. two of my emails were stupid because he never responded to them.. He calls students out all the time in lecture and lecture is mandatory for his class activities. Classroom is so loud because so many students talk and don't respect him. Maybe if he was nicer students will pay attention and be respectful. So glad this class is over with. My TA also never emailed me back so class was just great. I learned more from acropbatiq and the AMPS. ",
+      "rating": 1,
+      "expected_grade": "A+",
+      "created": "2021-12-17T22:20:43Z"
+    },
+    {
+      "professor": "Siddharth Sharma",
+      "course": "STAT100",
+      "review": "Nice guy, horrible teacher. Unless you've taken statistics before and are confident in your understanding of the content, you can probably get by. However, if you have had no exposure to statistics content do yourself a favor and take it another semester with a different teacher. He doesn't seem to understand how to HELP students that are struggling and instead opts to say \"its really simple guys\" and then moves onto the next topic.  It was incredibly frustrating that he didn't seem to understand that his methodology for teaching the concepts made no sense to the students. He also overcomplicates simple topics to the point where you question what he's even talking about. How to find the mean in a dataset can be summed up in 1 minute, why did we need to discuss it for an entire class period? On the rare occasion he did do examples in the lecture, he just wrote out all the answers without explaining how to get said answer. He has a slight accent but I could still understand him (granted I was sitting right in front of him) and he does talk very quietly. I will say that he did give study guides for the midterm and final exam which were similar to the actual exam but even then, the course is taught so poorly that you will spend a majority of your time relearning topics on your own. \r\n",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2022-01-10T18:07:07Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Professor Griffin is the best! This was my first class and coming from a small high school the idea of a large lecture terrified me. After the first class on August 30th, I went up and introduced myself and from then on he knew my name in the 200+ lecture hall. Something I would recommend would be to sit in the front of the class as well as go to office hours. He is super helpful. Before the exams (about a week before) he gives review guides with lots of problems on them along with a detailed answer key. It is super helpful in preparing for the exams. If you study and understand the material you should do fine on the tests. I was super scared but studied a lot and went through the problems many times as well as went to the AMP study sessions the day before the exams and did fine on the exams. I signed up for stat 100 because it was a required class for my major and I cannot recommend Professor Griffin enough, he truly made a huge impact on me. I am writing this after this class and I received an A+. ",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-01-20T03:41:18Z"
+    },
+    {
+      "professor": "Siddharth Sharma",
+      "course": "STAT100",
+      "review": "While he is a good person, it doesn't make up for how bad he is a teacher.  It's very hard to listen to what he's saying most of the time and his handwriting often look like scribbles. While stat100 is a basic level math class, he uses advanced symbols in his lectures without even explaining what they mean. On concepts that are supposed to be straightforward, he makes seem them more complicated than what they actually are. He also comes to class late frequently-even during exams, and is very very hard to contact. Avoid taking this teacher!",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2022-01-29T09:43:08Z"
+    },
+    {
+      "professor": "Siddharth Sharma",
+      "course": "STAT100",
+      "review": "My G once gave us some tandoori naan after failing us. He was also talking about the new curry on the block, he recommended some gas chicken biryani.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-02-01T19:07:01Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Griffin is a solid choice for stat100. If you can get over his sometimes snark remarks and micromanaging behavior he's fine. All of the work is pretty easy as long as you pay even a little bit of attention in class. He gives a lot of extra credit and there are so many things you are graded on in class. There were coding problem sets but they aren't that hard, he basically gives you the answers on how to do them. Although attendance is graded and mandatory, the class isn't that bad and is a pretty easy A if you actually do your work. If you don't do your work and come to class don't expect to get an A. ",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2022-04-04T17:12:29Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "DO NOT take this guy if you have the choice. Yes the class is easy but lecture is mandatory but he just reads off the slides and doesn't explain things very well. His slides are also entire blocks of text. He can and will spend an entire lecture session in order to explain how to do easy concepts such as mean, median and mode. The website that you do homework on teaches better than him. He will also stop class if he hears a single person talking and call them out. It's like high school but worse. Easy A in terms of material and tests but if you have the choice between him and another professor, take the other professor!",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2022-04-07T17:45:42Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "He is extremely strict about attendance and often gives out graded assignments in the first few minutes of class - make sure you can be on time every day! He posts his lecture slides on ELMS and updates them with examples after class, which is super helpful for homework and studying. It feels like he spends a bit too much time stressing attendance and class procedures - he talks about them for like five minutes every class, which is a lot for a 50 minute lecture. If you complete your work in a timely manner, keep up with the readings (for the most part, I know I didn't stay on top of it all the time), and try to participate in lecture like twice a week, he'll like you and you'll be fine. In a 300 person lecture hall when no one wants to be there, any bit of effort will be appreciated. ",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2022-04-12T16:28:24Z"
+    },
+    {
+      "professor": "Susan Mazzullo",
+      "course": "STAT100",
+      "review": "I'm not a big math person, but Professor Mazzullo was very lenient with rounding, dropping bad grades, and explaining test problems. My TA however was the worst - I caught multiple mistakes she made that saved me from a B or lower. Check everything through Mazzullo, NOT your TA.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2022-04-13T21:04:12Z"
+    },
+    {
+      "professor": "Valeriia Cherepanova",
+      "course": "STAT100",
+      "review": "I took this class as an education major who hates math to fulfill my requirements.  We had coding assignments for some reason (??) that were to be done every week, on top of other homework assignments.  I've never heard of that before so idk if it's just this prof or others too.  Her accent is pretty heavy and hard to understand, as well as the TA's, when I took it a couple semesters ago.  They are nice but I never even tried going to office hours because they were both pretty bad at explaining stuff.  First exam was easy, but all the others were pretty rough for me.  I had the mentality of \"pass and get out\" the entire time I was there and I dreaded going every week.",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2022-04-14T19:35:36Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "This class is actually so easy. Just show up to class on time and if you go to your discussion sections the coding part will NOT be a struggle. tbh I did not look at the acrobatic readings since the first week of class because he does a good job explaining material in class. I love the class and the Griffin and the people who say don't take him are people who don't show up to lectures ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-05-08T00:39:34Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "I think people are too hard on Mr. Griffin.  He can be strict about attendance but he is really pleasant to talk to one on one.  The AMPs in my class were very nice and helpful and I definitely preferred learning through Acrobatiq rather than some old, boring textbook.  The math content is definitely easy and the coding part is basically done for us through the tutorials.  The workload is not heavy and the grading is fair.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-05-11T01:50:02Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Annoying in class, but really sweet in person. AMPs were absolutely atrocious this semester but besides the point, straightforward class honestly learned more on my own than from him but he gives you every resource you need to succeed. ",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2022-05-15T04:40:39Z"
+    },
+    {
+      "professor": "Susan Mazzullo",
+      "course": "STAT100",
+      "review": "Professor Mazzullo was an alright professor. In the beginning, she did a really good job teaching and explaining the material. After the second exam, the material got more complicated and it felt harder to follow along to her lectures. She tends to repeat herself and waste time (especially if she is teaching through zoom). A lot of people in the class complained that she was a bad teacher but personally I felt she was average. She kind of talked to students as if we were still in high school but in some cases, people needed it\u2026 Her practice exams REALLY reflect the real exam which helped a ton. She also gives plenty of opportunities for extra credit to boost your grade. \r\n\r\n",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2022-05-17T01:37:35Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Obviously its important to remember that different people have different experiences, but I belief that some of the bad reveiws professor Griffin recieves are not warrented. First off, it is true that he takes attendence for his 300 person lecture, which can be very annoying. However, that in itself counts for 3.75 throughout the whole semester which is a tiny amount and makes no impact on your final grade. However, any worksheets or class activities that are done in class cannot be made up if you miss class without an excused absense so my main message is --> Go to class!\r\n\r\nI believe that the people who have the worst time with Griffin is the ones who came at the beginning of the semester but then didn't show up at the end. Therefore, they didn't complete some class activities and didn't learn the material well as might not have done so well on the exams. In class, Griffin gives you all the resources you need (his practice exams usually mirror his regular exams), he gives out tons of extra credit, and the class is not too much work.\r\n\r\nYes you will need to code in R language for this class but as a non-stem major, I found this to be very doable. For each problem set that Griffin gives out, he gives you a tutorial for how you can complete it, and if you follow the tutorial exactly, you will be just fine. Through 9 problem sets, I only missed 1 point just by following the tutorials. Also, on class activities, he gives you 3 attempts so getting a 10/10 each time is easy to do and those 10/10 will add up to help your grade.\r\n\r\nHe can be a stickler for attendence and for talking in class, but I do recommend Griffin. He is a nice guy and you will definitely have a pretty easy time learning statistics from him.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-05-20T04:38:37Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "This class is relatively easy, but you MUST attend lecture and do the class activities (graded within the first 5-7 minutes of class) to keep up with the course content. Griffin provides excellent resources for exams and assignments, but lectures are dreadfully boring. Acrobatiq assignments are also quite useless, in my opinion, but since the quizzes are graded, you have to pay some amount of attention when doing them - it sucked that we had to purchase the code though. The problem sets were also not very helpful in terms of learning material because it was just copying the tutorial pages with different numbers. Frankly, I don't even remember much of the coding from R from that class. \r\n\r\nHowever, taking Griffin for STAT100 will adequately prepare you for the final. The class activities can be a pain, but I cannot stress enough on how much they help you success in the class. ",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2022-05-20T23:34:34Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "I don't understand the low star reviews complaining about things that were clearly outlined in the beginning of the semester. Yes lecture is mandatory. Yes you have in class assignments that are graded (but he drops the lowest few scores at the end), Yes he will make remarks about students talking too much and noise level (in a lecture of 200 students, how can he not?). Yes he will harp on students who continuously disregard the directions CLEARLY explained in the beginning of the semester and on the syllabus if they send repeated emails asking when X assignment is due or if their absence is excused because they have a cold. He's a straight forward professor who gives a ton of extra credit and additional opportunities to make up for low scores. If you attend lecture, pay attention in class, and stay on top of the assigned readings, this is a manageable class. Attendance in discussion is not mandatory (and most rarely go because the problem sets are literally done step by step for you in the tutorials) but he does give you extra credit based on how frequently you attended them. Content isn't hard either - again just attend lecture and do the readings. Acrobatiq is your best friend in this course. Practice exams he gives out for the midterms and final look exactly like the actual exams just with different numbers. Stay on top of everything and you will be fine. He's also open and willing to help/clarify with any questions if you go to his office hours. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-05-22T17:08:31Z"
+    },
+    {
+      "professor": "Susan Mazzullo",
+      "course": "STAT100",
+      "review": "Professor Mazzullo was an alright professor. In the beginning, she did a really good job teaching and explaining the material. After the second exam, the material got more complicated and it felt harder to follow along with her lectures. She tends to repeat herself and waste time (especially if she is teaching through zoom). A lot of people in the class complained that she was a bad teacher but personally I felt she was average. She kind of talked to students as if we were still in high school but in some cases, people needed it\u2026 Her practice exams REALLY reflect the real exam which helped a ton. She also gives plenty of opportunities for extra credit to boost your grade. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-05-23T01:06:19Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "One of the worst teachers I have ever had, almost never teaches anything of relevance to the tests in class. He spends nearly 10-20 minutes per class! Monday Wednesday and Friday, going over the course syllabus instead of anything useful or interesting. The class is easy if you do the practice tests but good luck keeping your sanity in the mandatory attendance lectures.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2022-11-30T17:28:16.884491Z"
+    },
+    {
+      "professor": "Ishfaaq Mohammed Imtiyas",
+      "course": "STAT100",
+      "review": "He's a really good professor I really enjoyed his lectures. He's very understanding as well. He is pretty fast-paced though but it's efficient. Just show up to the lectures and listen and you will be fine.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-12-05T01:49:18.696498Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Literally, a free A. Lectures are straightforward and apply to the class activities and are very similar to test questions. People complain and the reviews are low due to mandatory attendance. If you don't like the policy, just don't take the class but have fun with another professor because this is literally a guaranteed A with him.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-12-05T19:07:10.259474Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "I do not understand the issues related with Griffin. If you attend lectures and discussions this class is pretty straightforward and easy. Help with the work can all be found in the lecture slides, and the practice tests are very similar to the actual tests.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-12-06T03:28:02.775071Z"
+    },
+    {
+      "professor": "Rishabh Mikkar",
+      "course": "STAT100",
+      "review": "Absolutely tremendous professor. Makes lectures very easy to understand and keeps students engaged. Would recommend any student to take this course with this professor for a guaranteed A.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-12-07T16:19:11.012487Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "I don\u2019t get all the hate the man gets. It\u2019s just people who dont show up to class that have problems with him. Just show up and you\u2019ll be fine. As far as his lectures, they can get boring at times but he does a good job at explaining the concepts very well. He tends to go over stuff multiple times which can get boring but he just wants everyone to understand. The Acrobatiq assignments were pretty useless IMO but they were graded so oh well. His practice test are almost identical to the real thing. As long as you can complete the practice test and problems, you\u2019ll do fine on the exams.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2022-12-09T00:25:33.824044Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Professor Griffin is a nice guy if you are respectful and go to class. Although lectures are mandatory and attendance is taken, he offers so many extra credit opportunities that will inflate your grade a ton. The practice exams he posts are JUST like the exams. He does sometimes ramble and get frustrated with students, but it's usually for a good reason (talking/not paying attention).",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2022-12-09T16:33:00.664710Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Best professor and he truly cares and wants you to succeed. Yes attendance is taken but show up and put in the work and you will do fine in the class. There are AMP's there to help you and they have office hours so there are multiple opportunities to ask for help outside of class MWF",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-12-10T21:28:37.092985Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Professor Griffin is a good professor and the class is extremely easy. However, attendance is mandatory and taken each class. There are also assigned seats in this class. On the other end though, there are countless assignments to build your grade up.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2022-12-13T02:59:02.475691Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Professor Griffin was a super easy professor. He does grade based on your attendance as it\u2019s mandatory. His lectures can be pretty boring and he tends to get caught off guard by telling students to stop talking, but he does want all of his students to succeed. Before each exam he gives a lot of practice problems AND previous semesters exams. There are also AMPs that help out each class and host study sessions. You also have to complete the online textbook problems which is kinda annoying sometimes but just stay on top of it because it\u2019s literally a grade booster. Prof. Griffin also gives soooooooo many extra credit opportunities like on the daily worksheets, if you raise your hand in class, if you write your answer on the white boards, and etc. If you need to take STAT for your major DEFINITELY take STAT100 with Griffin.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-12-13T23:59:45.003757Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "STAT100",
+      "review": "She has a thick accent and I initially had trouble understanding her, but after the first week it got easier. Overall, her class is organized in a way that the practice exams are very similar to the actual exams, so you don't have any surprises on the actual test. She does a really great job simplifying complicated problems and making them easy to understand. Overall, I would recommend her class .",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2022-12-15T01:16:48.686937Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "I honestly don't know why he doesn't have at least 4.5 stars. This class was so easy and it is because Griffin prepares you SOOO well for exams. We have class activities that helped me a lot in remembering the content because we are literally practicing what is going to be on the exam. In addition, he gives us a lot of practice problems and exams from the previous semesters that are IDENTICAL to the exams he gave out this semester. He also gives out A LOTTT of extra credit opportunities during class which is so nice. The only \"meh\" thing about him is that he is monotone so it's pretty hard to pay attention. I also found reading the acrobatic pages to be extremely useless tbh. I would definitely recommend this professor because he actually cares about his students and wants them to succeed. Also, attendance is required and he takes attendance as a part of your grade so make sure you attend! It's worth it!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-12-15T22:21:09.722197Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "STAT100",
+      "review": "Besides her thick accent which takes getting used to, Archana is easily understandable, very knowledgeable and flexible as an educator.   She is always willing to extend deadlines, take the time to go over what we struggle with, meet during office hours, and models exams off of older examples so it\u2019s easy to know what to expect.",
+      "rating": 3,
+      "expected_grade": "C+",
+      "created": "2022-12-16T18:08:38.159447Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Professor Griffin was a great professor for this course. He gave multiple extra credit opportunities throughout the semester and lecture, although boring at times, was mostly just listening to him teach and then doing a graded class activity. My only knock is that he was really annoying about attendance. We had assigned seats and attendance was taken multiple times in a 50 minute period. Also the practice exams he gives are very similar to the exams, which was very nice!",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2022-12-21T02:56:52.865356Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Giving Mr. Griffin 5 stars bc he deserves it. Great and supportive teacher who is committed to the success of his students.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-12-22T01:20:45.631660Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "All the bad reviews are from people who are upset that they are required to go to lecture, which I don't understand bc you're in college for that very reason. Seriously, it is an easy class, where you don't even have to pay attention to do well. Exams are exactly like the practice. My only issue is that he takes the class way too seriously sometimes when it comes to talking or seating but its really not that bad.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-12-22T01:38:30.097721Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "10/10 Professor, all the bad reviews are just trolls that do not like going to lecture for the grade, if you would rather have your midterm be 40% of the grade rather than have 10% count as free points for coming to lecture, I guess that's for you then. The professor makes this class an easy a, the exams are exactly the same as the practice, and there is tons of extra credit opportunities to boost your grade,",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-12-22T18:57:26.472644Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Easy class, the reviews from the previous people tell it all.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-12-22T18:59:04.911681Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Great professor, truly the definition of a fair and chill statistics professor at uMD.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-12-22T18:59:22.359496Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "FYI: this review also gives tips on how to succeed in the class\r\n\r\nHe does \"read off the slides\" (like some people are complaining) but he very clearly explains the concepts.  He had us do these practice questions in class (on paper), which were very helpful and you get them back with feedback - they are graded but don't worry about that.  Plus, the practice problems and the practice exams he posts on elms/canvas for exams are exactly what is on the exam.  Often he uses the same exact questions and just changes the values of the given numbers.  \r\n\r\nHe is strict about attendance and expectations, but reasonably so and if you show up to class you have nothing to worry about.  There was one time where I had a really bad thing happen earlier in the semester and I wanted an extension for an R assignment.  I talked to him during his office hours and he gave me a reasonable extension despite it going against his policy.  \r\n\r\nI did not get an A in class only because I didn't do the Acrobatiq (the online textbook) quizzes and towards the end I didn't hand in the R assignments - don't make the same mistakes.  You get three attempts for the quizzes (in Acrobatiq and elms/canvas) and the best score is taken.  The code is given to you for the R assignments, all you have to do is change certain details (because the code you are given is an example using different data and varibales) - but you are given instructions that tell you exactly how to do so.  Also with the R assignments, the three with the worst grades are dropped and not are included with your final grade for the class.  (Tip: don't let perfectionism stop you from handing in things, try your best, get the assignment/quiz over with, hand what you have in, move on.)\r\n\r\nThis was my second time taking the class, the first time I took it with Mazzulo and I failed, partially because I was a mess freshman year and because her teaching style did not match with my learning style.  She is nice and flexible but is nowhere are structured/organized as Griffin and he gives you so many more resources and opportunities to learn and review the material.  Also, she barely provided any help for the R assignments (from what I remember).  If you are a neurodivergent student who needs accountability and structure (like me), I recommend Griffin.  From my experience he seems very ND friendly, but make sure you are communicative.  He is a little intimidating at first but if you give him a chance he is an excellent professor and a very cool & nice person.  By far my favorite professor so far.  Feel free to message me on insta if you have any questions or concerns: @_laura_levine_",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2022-12-25T01:44:58.254933Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Griffin is literally everything I want in a professor. I think what I liked most about STAT100 with him is the fact that literally NOTHING will catch you off guard in the class (as long as you attend lecture every day and do the reading somewhat consistently). Everything is familiar and he will address and review things multiple times before evaluating your performance on it in Class Activities. AP Stats was the hardest class I ever took in high school, and Professor Griffin's class was such a breeze. FANTASTIC",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-01-03T20:45:15.482785Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "STAT100",
+      "review": "It does not get better than her when it comes to STAT100. She constantly pushes back assignment due dates, posts slides, and the exams are fair. I could not recommend her enough, she is great!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-01-22T09:33:19.582035Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "In terms of the professor: He's an alright lecturer. What I found most annoying is that he would often stop in the middle of class to tell the students who are talking to stop talking, which is a good thing usually; but when it's done almost every lecture and sometimes for multiple minutes, it takes away from time that we could be using for the actual lecture. He either summarises what's on the lecture slides or reads off of them and usually doesn't expand on them that much since there isn't much to expand on. Almost everything that was on the lecture slides were already learned from the book, so lectures can get really boring since they seem repetitive, but this style somewhat effective since it's basically a review. Aside from that, he does provide a lot of examples about concepts, extra credit opportunities, and practice problems during class.\r\n\r\nIn terms of the course: It's extremely easy if you attend all lectures and do all the readings. The lectures are basically a review of the readings and a chance for practicing the material. There are 2 midterms and a cumulative final. Formula sheets are provided for you, and they're closed-everything (no notes, no books, etc.). The midterms are designed to take up 30 minutes because we usually start a couple minutes into class. There are assignments that are graded from the online interactive textbook. Everything from the book except for the quizzes were graded on completion. There is quite a bit of coding. Almost every discussion is another R coding assignment, which are called \"problem sets\". Most of them could be done in class if you have a background in coding, even the slightest bit. The assignments are provided with tutorials that walk you through the coding. You have to know the concepts from lecture before knowing how to alter the code in order to complete the problem set. Your section's TA use the discussion period to walk you through the tutorial as a class, explain what you need to do in the problem set itself, and then leave the rest of the discussion to work on the problem set and ask for help if you need it. There were two sections assigned for one classroom at the same time for my section; so, it was a bit hard to follow along when both TAs were talking to their own sections and were usually on different parts of the tutorial.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2023-01-24T22:32:47.542306Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "GOAT",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-01-31T00:50:24.034544Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Couldn't ask for a better STAT100 professor. Prof. Griffin is no nonsense and kind of annoying about attendance, but he's doing everything is his power to give you an A. Lectures are clear, pretty much every graded assignment including exams are easy, and tons of EC opportunities. TAs are great, Griffin is great, take the class.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-02-01T22:50:30.236374Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "This man is obsessed with attendance. 60% of lecture is taken up by him complaining about the students who don't come to class, to the students who have come to class. Also, he makes a stink about needing a doctors note if you have covid. Also also, he is not ADA friendly- he will make you come to his office hours to \"explain\" your accommodation (which is illegal).",
+      "rating": 2,
+      "expected_grade": "C+",
+      "created": "2023-02-20T19:25:54.110945Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Overall he's a good teacher in my opinion. He made the course a little easier and you can tell he cares about your grade based on how much extra credit he gives out. The only thing I don't like about him is he can be a little too strict. It might be that he has sensitive ears but I swear he can hear a phone vibrating from 50 feet away. He also doesn't respond to emails that often which is a bit annoying. I would say however, that it is difficult to fail his class.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2023-03-01T20:26:50.118739Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "This class is laughably easy if you attend every lecture like he says to in the syllabus. He does do lecture checks and attendance is mandatory, your grade WILL drop if you skip class often. However, between his lecture style and Acrobatiq, the material was very easy to understand. I got above 96 on both midterms and the final. Use previous exams provided to you on ELMS to study for the exams and you will find the questions are very similar in the way they are structured. Professor Griffin was great, he is strict about attendance and having a quiet class but he also has a lecture hall of 200 people to teach, so it makes sense. He comes to the review sessions the TA's hold in order to answer question and he does take note of those students who are actually asking for help in order to improve. He gives a lot of extra credit opportunities and it does add up significantly to your grade. He provides a lot of resources and does activities that are relevant to bigger assignments and tests. He usually provides a previous fall and spring exam version for each exam, as well as practice problems he put together separately for you to test yourself on, and the TA's are phenomenal as they make themselves available and put out practice problems before exams as well.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-03-01T21:25:24.570928Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "If you like an organized professor that has an agenda saying what hw/tests u need to do, you will like this guy. He is extremely organized, submits in elms the agenda every single week on the sunday before. Only think is he's a nut about attendance, so make sure to attend class. loads of extra credit opportunities, honestly take the class! don't skip class kids",
+      "rating": 4,
+      "expected_grade": "B-",
+      "created": "2023-03-05T22:36:29.689166Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Honestly, class was not super engaging and I did not really feel like I had to pay attention (sorry professor). However, getting a grade was easy and assignments were fine",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2023-03-09T16:57:54.153292Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "His STAT100 class is quite easy if you follow his slides. He also provides lots of extra credit throughout the course, which is easy to get and helpful for your grade. As a teacher, I don't think he is the best. He spends 20/50 mins. of class talking about attendance and how important it is to show up... to the kids who come to class. You must present proof for all absences, even when it is things involving serious matters that aren't doctors (the note can be difficult to acquire). He's sassy to his students, definitely likes some more than others, and to his group of students that are but aren't TAs, he gets annoyed very easily. Those same TA but not TA kids don't know much about what they're doing, making discussions incredibly difficult to follow. Not only that, but attendance is extremely important in this class for discussion too (even on the days when we just do absolutely nothing for the whole class, like a work day). To survive this class, it is recommended you make friends here. If you stay nice to him, he will be nice, but just provide a doctor's note, or else it won't be believed.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2023-04-11T15:07:27.561438Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "STAT100",
+      "review": "Dr. Khurana is an amazing and understanding professor. She listens to her students during lectures and extends due dates for assignments if students are having any difficulty with them or if she hasn't covered any concepts on these assignments. Weekly discussions are great too. The TAs help a lot with R assignments and exam reviews. Both Dr. Khurana and the TAs explain the style of questions you would see on the exams very well and make you feel prepared for them (even when you don't study sometimes). She's very sweet and caring, making her a lot more personable and someone to go to if you have any questions.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2023-04-21T18:26:05.849791Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Review below must be someone who is clearly skipping class and a bad student. This professor does care about attendance, but just go to class... this class is pretty interesting has extra credit and is a FREE A IF YOU LITERALLY PUT IN EFFORT TO PAY ATTENTION. EXAMS ARE IDENTICAL TO PRACTICE.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-04-22T19:16:31.952537Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Don't know why people give this professor a bad review, you get an A or A+ and say 2 stars because of attendance? Common man this class is so easy its just paying attention and the exams are the same as practice",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-04-25T04:05:37.553399Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "STAT100",
+      "review": "this class was a breeze. her lecture slides are quite detailed, so it's easy to follow on your own. her lectures move a little slow, but she always goings over examples to make sure you understand. TAs help a good amount in discussion. There are a lot of assignments to boost your grade that aren't very hard. As long as you put in a reasonable amount of effort, you'll be fine. I would definitely choose her for other math classes she teaches. 10/10",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-03T19:09:48.097707Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Do not feel threatened by this class. It is a lot easier than it looks. Griffin is a great guy if you get on this good side. Don't bother emailing him because he probably won't answer, but I did not find myself needing to email him the whole semester. You do have to attend every class but it is not that bad. You get extra credit for practicing in class. Read the acrobatic readings before class so you can confirm your understanding during class. Do not fall behind in the readings; that is the worst thing. The AMPs are awesome because they are also students, so they're usually chill and helpful. Griffin is a good and throughout teacher, i do not feel like he leaves material untaught, so pay attention.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-05-08T14:37:39.132310Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "I am normally terrible at math but this class was so easy and actually pretty entertaining too. Professor Griffin is really good about explaining information and giving you A LOT of extra credit opportunities, so I feel like you would have to try to get a bad grade. There were 2 midterms which were really easy, and one final. Attendance for his class is mandatory because he gives worksheets and assigns points for attendance, but honestly the lectures go by so quick and the added points are very much worth it. The homework seems lengthy but technically you don't have to do the readings, just the little module quizzes (which you have 3 attempts on) and most of them are graded for completion; in addition to that, you typically have up until he grades them to turn it in, so if you miss a due date it's not that serious. You also will have a weekly problem set for discussion but you use R-studio for it and he provides you with documents that have the exact steps and instructions, so you will probably finish and submit in that discussion session. Overall, if you are debating taking this class TAKE IT and take it with professor Griffin, you will not regret. EASY A!!!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-05-09T15:01:44.287560Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Discussions and class are a total waste of time and unbearably boring, I just stopped going to avoid wasting gas. Easy class though, just know basic statistics.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2023-05-09T23:45:30.100916Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "STAT100",
+      "review": "overall:\r\nprofessor khurana's class is overall really easy as long as you put in the effort. she does have a thick accent which can make hearing her in lectures hard, but she goes very slowly so it's easy to keep up. her practice exams are exactly the same as the test, so if you keep doing them until you get 100%, you'll ace every exam. for me, the downside of the class was the r-assignments that would take so much time for no reason. you would get time to do them in discussions but my TA was honestly incompetent so he was no help. just go to her office hours  if your TA is useless and she'll help you with the r-assignments if you're having trouble. the class is also really easy if you took AP Stat in high school.\r\n\r\nrecommendations/heads up:\r\nshe records like 60% of lectures (and if the class asks her to record she will), discussion didn't attendance for me, if even one person asks for an extension she'll extend assignments for everyone (so almost every assignment got an extension lol)",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2023-05-10T16:24:52.029606Z"
+    },
+    {
+      "professor": "Weimin Jiang",
+      "course": "STAT100",
+      "review": "Weimin was my TA this semester for STAT100. He did a great job of explaining Problem Sets and genuinely seemed to care about his students. He's able to answer questions and I would highly recommend him. Thank you Weimin!",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2023-05-15T18:16:31.652166Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Well organized and easy to communicate with. He is very understanding of late assignments and not showing up to class but you need to let him know in advance and have a valid reason. His teaching style was great and he taught well. If you read the slides, do the work, and pay attention in class you will get the grade you want. Also, he has peer mentors who lead study sessions which I highly suggest.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-21T04:04:17.354803Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "So much of the time he spent teaching was to complain about all the students who didn't regularly attend class. I believe that if students want to skip the class they paid for they should have the freedom to do so, but it is obvious Griffin doesn't share the same sentiment. Most of the grading is arranged so that if you do not regularly show up to lectures and discussions, it would be difficult for you to get an A in the course. He is okay in teaching, mostly he just reads off the slides and gives out quizzes. He also NEVER responds to emails, even when you do the exact format that he requires. Overall, he is annoying but it is an easy A if you are comfortable in attending all/most of the classes and lectures.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2023-05-21T21:55:12.009595Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Go to class, discussions, and at least attempt to do the work. The class was pretty straightforward to me having taken other stat courses, yet it's an elementary stat course so you'll be fine even if you've never seen any of the material before. Attendance is annoying and so is Acrobatic, but I promise if you do well on exams you won't have to worry about those things anyway.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2023-05-21T23:04:00.148279Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "STAT100 was required for me as a humanities major and I was pretty sure I was going to flunk out. However, this was not the case at all because Griffin provides so many resources to make sure that you succeed. He is definitely weird about some things (assigned seats and attendance in his 400 person lecture) and he definitely has favorite students, but his class is easy to pass and you will actually learn something. Go to class (and discussion because the TA will give homework answers), do the assignments, and ask the AMPs for help if you're struggling and you will be sure to pass.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2023-05-24T02:17:53.050327Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Free A boring teacher, was a waste of time going to lectures. I would choose anyone else, maybe someone who doesn't move at an elementary level pace.",
+      "rating": 1,
+      "expected_grade": "A+",
+      "created": "2023-05-26T07:31:57.325144Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "BEST STAT PROF. JUST DO THE WORK AND SHOW UP!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-05-27T00:56:54.804633Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "ended up with a 69.2... didnt want to round up.",
+      "rating": 1,
+      "expected_grade": "D",
+      "created": "2023-05-31T14:03:12.542254Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Went thru health problems this semester and it wasnt a excuse to miss lectures?? one star.",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2023-05-31T14:03:53.374729Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "So easy that if you show up and breathe in this class you\u2019ll get an A. He moves really slowly and pretty much the first half of the semester  is review of basic concepts like mean, median, and mode. He\u2019s kind of annoying about attendance, but he\u2019s a good teacher, so you\u2019ll benefit from going. What\u2019s really nice is that he provides plenty of review materials before tests, and holds a lot of review sessions. Most of the averages for his exams were in the nineties, so he really does do a good job of preparing us. I\u2019d definitely take him again!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-07-21T15:19:56.130737Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Great professor, so many trolls in this page, yes you ended up with a 69.2 when you round it , it goes down to a 69 doofus. Easy A, how do you get less than an A in a stat100 class. Exams are identical to practice, worksheets are literally the same as the slides covered in class.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-07-26T06:12:57.569238Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Truly cares about education. Tests are fair, homework is easy, put in the effort and you will get an A.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-07-26T06:17:39.285902Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Great professor. Tests are identical to practice, homework is easy and on chegg. Anyone who complains about attendance or this class being hard, absolutely smooth brain",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-08-04T04:59:32.808520Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Everyone who complains this class is hard must be a little bit dumb. Free A, if you pay attention and are not an NPC, this is the easiest A you will get in any math course",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-08-18T20:54:36.543156Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Best professor, passionate and truly cares. Practice exams are the SAME AS THE ACTUAL EXAM, SO TAKE THIS COURSE",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-08-18T20:55:02.702223Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Look at his grade distribution for this class. It will tell you everything about this course, it is super easy. The exams are identical to the practice exams, the problem sets are literally changed up questions of the tutorials he gives you under canvas files. The classwork is super easy. People complain about attendance, but it really helps you because you pay attention and learn a lot from this class which makes it easy for you later throughout the class.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-08-22T04:45:29.011160Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Exams are identical to practice. There is a formula sheet too. Classwork + homework super easy. Take this class for an A",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-08-22T04:58:39.382719Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "If you are worried about the bad reviews for this class. Turns out they probably are bad students. I took a gander at most of the good reviews and its pretty much what I was going to write. Just take this course, its quite easy.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-08-22T04:59:27.016571Z"
+    },
+    {
+      "professor": "Ishfaaq Mohammed Imtiyas",
+      "course": "STAT100",
+      "review": "Ishfaaq is a great professor! The course consists of lectures twice a week, discussion sections that were super helpful, readings/homework/quizzes through the Acrobatiq software, problem sets through R and RStudio, midterms, and the cumulative final exam. I really enjoyed his lectures and he's great at explaining concepts and walking through problems. He's also super helpful if you have any questions and will take the time to explain until you understand. He also does a review session before each exam that is super helpful. I would definitely recommend doing the exam review and practice exams that he provides. They were great practice and covered the exceptions that we needed to know, and I found the exams to be super easy after using them. Definitely take his class!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-08-23T10:19:30.295825Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Professor Griffin will come off as strict and mean in the beginning but he does try to learn names and get to know you more personally especially if you come to office hours he is the sweetest person ever and will practically give you the answers and explain them more clearly than in lecture. Attendance is mandatory for everything so go because that helps with your grade and extra credit points are offered in almost every class. Midterm 1 is easy if you attend lectures and study sessions but midterm 2 is a bit more challenging but not impossible. The same thing, attend lectures, discussions, and study sessions and you can guarantee yourself a good grade because the practice exams are the same as the real exam. There are online and paper class activities so attend lectures otherwise you bring your grade down for no reason. Problem sets are almost every week and you learn how to use R. I struggled with this because I am not a STEM major but after a few, you can understand it a bit more as long as you follow along in the discussion. All the TA's and AMPs are really good and super nice and there was a few times I had to leave early from class and they still let me complete the class activities, just tell them in as much advance notice as possible. Professor Griffin is also really flexible if he knows you, so I cannot stress this enough, go to office hours even if it's just to introduce yourself or ask a simple question. If you show you care, he shows he does as well. Overall, I was worried about taking STAT because I am not good at anything math or STEM-related and I am taking this class as a requirement but without a doubt I would take this class with him again if needed",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-11-24T13:08:34.416488Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "LOVE THIS CLASS AND THIS PROF! I took stat my last semester of high school so I had a little bit of background knowledge going into the course. Prof G makes it so so easy to succeed in his class. He has office hours twice a week, guided study sessions twice a week, offers up to 20 points of extra credit, and is just a great professor. I highly recommend going to office hours, even if you don't think you need it, because it allows him to put a face to a name and he's more likely to call on you in class for extra credit. I went to office hours all the time (and I consider myself to be a great math student) and it helped me so much. Attendance is mandatory for lectures, but I didn't mind that part since I go to all my lectures anyway lol. I cannot recommend this class and this professor enough.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-12-01T16:35:27.505552Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Makes the class extremely easy and impossible to fail. All of the exams are exactly like the work in class and on review sheets.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-12-04T18:21:46.721991Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "This class is beyond easy. He gives out extra credit almost every lecture. As long as you show up to lecture (because he counts attendance) you will do absolutely fine. He is very nice and truly just wants his students to learn. I would recommend.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-12-05T02:54:28.560049Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "I took AP Stat senior year of high school, and this class is 10x easier and so easy to do well in. The way Professor Griffin organizes the content makes it extremely easy to understand, even if you aren't typically good at math. He is very strict on attendance and you will lose points if you don't go, but it is worth it because it is, again, so easy to do well. Griffin offers extra credit opportunities practically every lecture session, and allows you to work with those around you on every in class assignment. As the semester goes on, if you are sick or have to miss class for an excused reason he is very accommodating and willing to help. He also makes an effort to get to know as many students and their names as possible, which is impressive with so many students. He does not go very fast with teaching content, making it easy to fully comprehend the information. Also, he gives out real exams from past semesters before every exam as practice and they are practically identical to the actual exam. He wants you to succeed and gives so many resources to do so.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-12-05T03:38:07.355779Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Prof G is the best! He may come off as a bit strict but he really just wants you to do your best. He really emphasizes attendance and you have to go to every lecture and discussion but in lecture you get extra credit points just for raising your hand and answering a question even if someone already said the answer you can say the same thing as them and u get an extra credit point. He gives study objectives, study guides and past tests for tests. Make sure you go to office hours he goes over questions and tells u what to look for on the test and he makes the effort to learn your name and get to know you.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-05T20:27:14.071214Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Wants students to succeed. Gives a lot of extra credit opportunities. Tests are exactly like the practice tests. Only bad thing is attendance. It is mandatory but if you show up you'll be fine.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2023-12-06T03:58:11.698016Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "He\u2019s a pretty great professor but is lowkey leading the Sassy Man Apocalypse. Attendance 4 days/week is mandatory which sucks, HOWEVER, he genuinely designs this class for everyone to succeed. He gives tons of easy opportunities for extra credit and makes the class pretty impossible to fail if you just go to most of the lectures. Exam are easy and identical to practice problems, I would have an A+ if I went to class consistently so if you\u2019re like me and <3 skipping, keep that in mind before taking this class xoxo",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2023-12-06T17:32:10.117996Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "The class math in the class is easy and the Griffin gives lots of extra credit. His lectures can be a bit boring and monotonous, so I would recommend watching the videos in the textbook before the lecture so you know what he will go over.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2023-12-07T03:01:30.854982Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Easy A.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-08T15:27:20.240711Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "This class was made so easy. So so many opportunities for extra credit, you just have to take them. Attendance is really important so try not to miss anything. His formula sheets give you everything you need. All of the practice exams that he gives you are almost identical to the actual exam so make sure you do those before. The GSS were really helpful and lowkey fun to go to. Professor Griffin loves to scream about how important staying off of your phone and focusing. No hoods. Dont come in late. Dont leave early. The person next to you doesnt know what they are talking about. I guarantee that he will most likely spend the first 5-10 minutes saying those things at the beginning of every class. Other than that this was a fine easy class.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2023-12-08T16:25:21.676669Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Class is very light and he makes it near impossible to not get a passing grade with the amount of extra credit assignments. The tests are very easy and match what is done during the class.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-09T22:49:42.511796Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "LOVE HIM HAHAHA",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-12-11T16:31:49.791997Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Professor Griffin is really nice and his class is an easy A. You have to show up to lecture and discussion sections but you will absolutely succeed if you do. Content is straightforward, but there are so many study sessions offered if you need help. Plenty or opportunity for extra credit.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-11T16:32:58.250837Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Professor Griffin is the best STAT professor you could ask for. I haven't used the textbook outside of assignments this semester, because he already does a great job of lecturing and giving you practice problems that mimic the exams. Practice tests are the same format as the midterms and finals and he gives you every opportunity to get extra credit. He comes off as strict about attendance, but it is a very fair policy and he's super understanding if anything happens.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-12-11T16:34:57.020723Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "So many extra credit opportunities and past exams are identical. I got 100s on both midterms simply by doing the past exams a couple of times. Problem sets were a bit annoying but there were tutorials that were pretty much the same which really helped. Lecture and discussion are mandatory which wasn't an issue for me but if you're one to skip a lot don't take him. He also made it very known that attendance is mandatory from day 1 and pretty much every review says the same so I don't really know why so many take him just to end up complaining. Professor Griffin is amazing and truly cares about his students and wants everyone to succeed. He makes sure that there are plenty of resources for us to do well on the exams so if you don't do well on the exam you have no one to blame but yourself.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-12-11T17:28:05.781030Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Makes STAT100 extremely easy to understand. I thought it would be a really hard class, but not at all. So many extra credit opportunities. The only thing is he's really strict about attendance, but it's not a problem if you just go to lectures and discussions. I'm glad I took STAT100 with this professor.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-11T19:16:14.018904Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "This class is super easy. Griffin gives a lot of extra credit, holds a bunch of study sessions for exams, and the practice exams are literally identical to the actual exams. Attendance for lecture and discussion is required but its not as bad as it seems. The TA's are also really helpful. It's pretty hard to fail this class.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-12-11T19:35:33.250080Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Professor Griffin makes this class easy to pass and all his exams are based on the practice questions. He also adds 20 extra credit points which are easy to acquire if you answer questions in class. HOWEVER, not showing up to class will lower your grade even though for the first 10 minutes he goes over the same syllabus slides every class. You will get frowned upon for showing up a minute late. When emailing for missing a class he does not respond and two always need proof of why you are missing class. This was annoying as when you wake up with a fever the last thing you want to do is walk in the cold to the health center just for a note to be excused. Showing up to discussions is also mandatory and all you do in that class is work for an hour and 15 min which you could easily do from home.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2023-12-11T20:04:42.557417Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "STAT100",
+      "review": "I had Prof Khurana in Spring 2023. STAT100 was difficult for me. I met with Prof Khurana often and she was super sweet and helpful. The content in the class was hard but the assignments were doable. However, the exams destroyed me and I ended up failing the class with a D (oh well). I have a problem with the content, not the professor she is sweet.",
+      "rating": 4,
+      "expected_grade": "D",
+      "created": "2023-12-11T21:19:38.617175Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Great Professor! Makes it extremely easy to understand the concepts.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-11T22:09:41.919962Z"
+    },
+    {
+      "professor": "Ishfaaq Mohammed Imtiyas",
+      "course": "STAT100",
+      "review": "Ishfaaq is a good professor and is very knowledgeable about statistics. He is kind and is willing to help answer any questions that students may have. However, he does not do the best job of explaining topics to the class. I felt like I would be better off teaching myself something than following along in class. He explains things in a way that is more complicated than it needs to be. Sometimes, he would get the example question incorrect during class which would make people more",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2023-12-11T23:05:53.048703Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "STAT100",
+      "review": "Goes very slow to make sure that all students understand the concepts and actually helps people when they get confused instead of just telling a TA to go over it with them in discussions. She does have a thick accent which can make things a little difficult to understand at times, but overall a great professor",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-12-12T18:51:12.364841Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Extremely nice if you go to his office hours, always wants you to succeed.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2023-12-13T01:06:26.698404Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "I was nervous about taking a class with this professor since some of the ratings were negative, but honestly his teaching style is great. Yes he does repeat announcements A LOT and have specific rules, but he provides so many opportunities for in class practice and even more for extra help outside of class.  Not to mention he provides extra credit points literally every single class. The practice exams that he posts before every test are formatted exactly like the tests. He basically gives you all of the information you need to pass this course. If you attend lecture and put in the effort, it won't be hard to get an A in this class.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2023-12-14T22:16:15.777256Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Stat 100 is a manageable course; the workload is not bad at all and you know far in advance when the tests and work are due. It is easy to self-study in this course, especially with past midterms and final exams which he posts before exams. I went into this taking AP Stat in HS, and it was mostly the same. Now,  Professor Griffin. This guy has to be one of the sassiest people I know. He spends an average of 10-15 minutes each lecture talking about protocol for attendance, and how to correctly write him an email, and honestly, it is a waste of time. He makes attendance mandatory for lectures, which yes, lecture is important, but sometimes things come up. His lectures are also such a bore: monotone voice and boring slides. Like if he wants us to show up to lecture, maybe make them more engaging. All in all, this is a pretty easy class, especially if you already have some stat knowledge, but maybe don't choose Professor Griffin if you do not like sassy men who care a lot about attendance and how to contact him.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2023-12-15T17:17:57.200588Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "He\u2019s great and helpful",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-12-17T15:52:34.797489Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "He makes a lot of efforts to help our exams.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2023-12-18T06:09:30.810134Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "this professor is amazing. He makes the class extremely easy because he actually prepares you for the midterms and the final. Attendance is required but this forces you to learn and pay attention. He gives a lot of extra credit so definitely take advantage!!!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-12-18T15:29:59.406430Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "He is a great professor. His lectures are right to the point, and he encourages students to follow along with his slides as he presents. He takes on a very direct approach to teaching the class: he takes attendance seriously, follows his presentations to the tee, and offers tons of chances for extra credit. As long as you follow all of his very clear directions, you'll do really well in the class.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-12-19T02:00:08.347523Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "The best STAT professor you can get at UMD. He gives so much extra credit and his practice tests are almost identical to his real ones. Would recommend this professor to get your math requirement out of the way.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-12-19T16:48:04.362517Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "STAT100",
+      "review": "Professor Khurana is one of the best professors here. Though she has an accent, it is not terribly difficult to understand her. She cares about her student's success and gives plenty of opportunities during the lectures to get extra credit. She's so sweet and takes her time to ensure that everyone understands the lesson. If you have the chance to take this class with her, definitely do it!!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-12-19T21:13:52.919125Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Take this class with Professor Griffin. He can be stringent on rules in the classroom and could come off as strict at the beginning but he genuinely cares about your learning and wants you to succeed in this class. The class has attendance points and has basically a daily activity which is graded. The class activity is very easy if you pay attention in the lecture. You will have a weekly problem set to do on R Studio but they are easy and if you go to your discussion section, the TA basically gives you the answers and how to do them. The problem set tutorial which is posted on ELMS also basically tells you how to do every question. The exams are very fair in this class and the problems are basically the same questions from the practice problems and the problems done in class but with different numbers, there are no surprises on the test. He also gives out extra credit like candy, if you go to class you can easily secure extra credit on exams, class activities, and problem sets. Take this class with Professor Griffin!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-21T03:03:06.513679Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "good guy. SO MUCH extra credit all semester. Insanely free A",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-12-21T23:31:14.421294Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Griffin is a really great professor. He does have some nitpicky rules (no hoodies, assigned seating (that you pick btw), attendance for big lecture, etc) but they\u2019re not bad after the first couple weeks. When he teaches he tells you what practice questions are similar to the ones on the exams, and the past exams you get to practice with are actually like the exams!!! Practice those twice and you\u2019re good, they aren\u2019t hard! Two midterms and the final. No quizzes, just online canvas assignments and worksheets. Mathlab homework was very little and you could really complete it whenever. Go to discussion and read the Problem Set Tutorials!!! before starting the actual Problem Sets because it is very close, if not exactly, what they want you to do. He also offers an insane amount of extra credit!!! Take him! He really sets up the class for success",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-12-30T19:01:57.925139Z"
+    },
+    {
+      "professor": "Ishfaaq Mohammed Imtiyas",
+      "course": "STAT100",
+      "review": "This class is very easy if you take a little bit of time to study for each exam and show up to class. His class is extremely boring though. He's kind of all over the place when he lectures and could simplify a lot. The TA does not take attendance at discussions so I wouldn't recommend going.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2024-01-29T06:33:53.836698Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Taking him right now and I have never felt this confident about a midterm coming up next week!!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-02-28T23:58:08.688771Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Prof. Griffin is a character. One of the reviews said he was \"sassy\" and he lowkey is, but it's funny, and he's actually very kind <3. I was scared of him at first because he seemed really strict, but over time, I realized he just cares about making sure everyone understands the topic. I was also worried about taking stats bc I did not do well on the AP Stat exam, but it is WAY easier than AP Stat. He also gives SOOO much extra credit literally for the most random things. Like he'll ask what color the graph is, and if you say the right color, you get extra credit LOL. Additionally, sometimes he brings in donuts and gives them out for extra credit.  #yummy  Every class, you either have to do a worksheet, which is on paper, or an assignment on canvas. It's not too hard, but if you need help, the AMPS will help. The practice exams are almost identical to the real exam, he just changes the numbers.\r\nCons: Attendance is SO strictly enforced. I once missed a class, and my grade dropped about 2%. like chill :(",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-04-06T05:16:18.087936Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Griffin is an OKAY professor. Please, all these positive reviews made me take this man not knowing what actually was to come even though I\u2019m succeeding in his class this man does NOT play with attendance. You\u2019re literally FORCED to attend each lecture section or a zero is your portion. He assigns assignments EACH class, I don\u2019t know what scarred him to be so annoying with attendance, literally. There\u2019s no grace at all. His class is just so annoying from the MyLab assignment and then the coding assignments it\u2019s just such a tedious class for a 100 level. Try a different professor if possible.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2024-04-22T15:05:07.782544Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Class is easy, as long as you come to lecture and receive extra credit, do problem sets that are due each week, and compelete class activities, and do the practice tests before the exams then you should pass the class. The  professor has high expectations so be ready to having to come to every lecture because he assigns class work that you might miss. Also what I did not like is that if you email him questions about assignments, he will not respond to your email but instead throw shade in class about the people who were emailing him and answer the question in class in a condescending way. but overall the class itself is easy to pass.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-05-01T14:29:04.383974Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Professor Griffin is really nice, he can be a bit insane about attendance in lectures but I honestly don't mind it because the way he takes attendance is handing out a really easy assignment that 9 times out of 10 offers extra credit, the midterms are not difficult if you practice a little and there are so many opportunities to study, he shows you past exams, many many practice problems and there are many sections for about 4-5 days before exams that are for strictly tutoring and review. Great Professor and I really like how he teaches a class.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-01T16:06:49.584429Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "I think he's a fantastic teacher who makes the information understandable. He definitely has expectations of how students should behave, but those expectations are just to show up and listen. There are tons of opportunities for extra credit in the class, and he provides past exams to help students study for upcoming tests. There is some coding work through R and RStudio, but he gives tutorials for every assignment that show exactly how to do them. He learns the names of many students in a huge lecture hall, which makes students feel like he truly cares. Genuinely the best. I was nervous coming into the class because I suck at math, but he made it so much better than I could've ever expected. Couldn't recommend his class enough.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-05-02T17:42:44.252267Z"
+    },
+    {
+      "professor": "Jonathan Fernandes",
+      "course": "STAT100",
+      "review": "This class would be fine with a different professor. Content-wise it's not that bad if you study. However, Fernandez was really hard to understand and never wears his microphone so it was impossible to hear him in lecture. Everyone stopped showing up halfway through the semester. Not an easy A, but manageable.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-05-02T18:28:53.742428Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "I got 98% on the first exam and 101% on the midterm. Do all the homework, go to every lecture, and take every extra credit opportunity you can and you will no question end up with an A. Yes, he's a little strict but it's worth the A. Lots of study sessions led my amps and amazingly organized lecture slides. TAKE GRIFFIN FOR A IN STAT100",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-07T15:26:12.054776Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Take STAT 100 with any other professor!!! Griffin records attendance at lecture and discussions, which are not necessary at all. To miss ONE CLASS you need a University Level excuse like a doctors note literally saying you're incapable of getting out of bed. He's not empathetic at all and pretends like his class is the most life changing and important class in the world. He spends at LEAST 25 minutes of lecture (the whole class is 50 mins long) complaining about people not showing up or not doing work or not paying attention to him. He yells at us basically everyday like a high school teacher begging students to put in effort. STAT 100 is super easy and all the requirements for his class are completely unnecessary. Highly DO NOT RECOMMEND.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2024-05-08T16:07:35.238583Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Professor Griffin was by far the best professor I had this year. Despite this class having over 250+ students he tries his best to get to know all of his students, especially during office hours. Math is my worst subject BY FAR, but he made this class very easy and provided many resources for students to succeed in this class. He has many extra credit opportunities and provides identical study guides when it comes to the 3 exams we have in this course. Also, the AMPs are very helpful, and they are a huge reason why I am ending this semester with an A. Finally, it can get annoying when Prof repeats the same message regarding mandatory attendance, headphones off, problem sets, etc... but he genuinely cares about the success of his students.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-09T14:53:23.964411Z"
+    },
+    {
+      "professor": "Jonathan Fernandes",
+      "course": "STAT100",
+      "review": "Let me start this by saying Prof. Fernandes is a great guy, super chill, mildly funny, and jerky like most math professors can come off as. With that being said... based off his teaching style and behavior during content dissemination, it became clear to me that he has never taught a 100 level course before, which makes sense as most of his previous reviews were of his STAT400 level courses. STAT400 and STAT100 are not the same thing, one is a early intro class and another has students that know what their doing, because he has only ever taught in that environment he reflects that in his teaching of STAT100. He's not bad but you'll definitely have to take advantage of your resources.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2024-05-10T14:47:47.581877Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "My goat fr. He IS a little stricter than most professors but I promise its for good reason. SO MUCH EXTRA CREDIT and so many resources when it comes to exams. An A is extremely achievable. Only way you can really fail is if you religiously don't show up to class. Feeling extremely confident for the final. My TA and AMPS were helpful throughout the whole semester.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-10T20:55:46.817016Z"
+    },
+    {
+      "professor": "Jonathan Fernandes",
+      "course": "STAT100",
+      "review": "Makes a simple gen-ed class for mostly non-STEM majors as hard as possible. He curves exams by 5 points, but it is not enough. A LOT of homework, with crazy deadlines (due 2 days after assigning). We had 3-4 homework a week. He also makes you learn a programming language called R, but doesn't let you use R for the exams. \r\n\r\nHe has the curse of knowledge, he lectures like students have the same understanding of statistic as him, a PhD. This class was unnecessarily stressful. He also sends out exam reviews that look nothing like the exams, he loves to throw curveballs.\r\n\r\nYou will have to heavily rely on TAs to understand concepts. He did allow students to do missing assignments on Pearson, so that one nice thing he did.",
+      "rating": 2,
+      "expected_grade": "C-",
+      "created": "2024-05-10T22:20:01.496125Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Super easy A. Griffin's lectures are pretty boring but he takes attendance super seriously so you lowkey gotta go. I'm talking in class quizzes every single class. Griffin gives a lot of extra credit. It would actually be difficult to fail this class.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-05-12T06:51:24.339718Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Professor Griffin is one of a kind. When signing up for this course, I was very worried because math is my worst subject. I have never been good at math, and always struggled in it. But, I am glad I took this class and fulfilled my FSMA credit. Professor Griffin was very great at explaining concepts, and providing resources for students to succeed. He strictly enforces attendance, and has many rules that may seem 'overboard,' but he does it because he wants all of his students to do well. Also, AMPs are so helpful, and you should go to their review sessions before exams. The study guides are IDENTICAL to exams, so take advantage of these resources. One thing I disliked was problem sets, but there are Zoom sessions to join, and AMPs will lead you through it. If you go to office hours, he tries to get to know you more and gives you opportunities to revise class activities. Shoutout to Griff, he was great.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2024-05-18T18:24:11.979412Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Really good guy just took his class this semester. Best advice for anyone taking the class who has him just go to class and turn in the class activity assignments. He also gives out ton of opportunity for extra credit which will bump your grade in then also attend gss sessions and know he really does care about his students and is an interactive math teacher.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2024-05-22T13:53:30.094482Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Griffin is a strict guy but you can tell he genuinely cares about his students. I overslept for one of his exams because I spent so much time studying for it and I thought for sure he wouldn't let me take it, but he let me take a makeup and I got an 83:)!! \r\nThere's a lot of extra credit opportunities throughout the semester that help a lot so definitely take advantage of those, some are really easy questions that a 5th grader could answer. Plus he also brings donuts for his students sometimes which is awesome if you haven't eaten breakfast yet.\r\nYou have weekly assignments that are strictly due on Sundays at 11:59. You do have to learn some coding for them which isn't too hard, you go over the coding in discussion with your TA. If you need help you can just ask your TA or student helpers in discussion. There are also assignments in MyLab but he's super lenient on the due dates for those. \r\nSTAT math is different than normal math so this class was really easy.\r\nYou do need to buy access to MyLab and you need to buy a calculator if you don't have one already.\r\nGriffin is really strict but he does it cause he's caring.",
+      "rating": 5,
+      "expected_grade": "B-",
+      "created": "2024-05-23T23:15:08.711570Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "By far the worst professor I have had in my time at Maryland. He cares more about students not wearing headphones, being on their phone, wearing hoodie or hat, attendance then he does about actually teaching the material. I have never experienced a professor like him. Someone must have hurt this man because I have never seen him smile. He walks around the lecture hall and will press you out to finish an activity assignment and will threaten to give you a 0 while standing over you unless you turn it in. And if you take this class you literally cannot have a family emergency, have cancer, religious holiday, etc because he does not give a ****. He will doc you points for a missed lecture. Long story short this man takes half of his lecture filling out google forms and paper forms to confirm that you attended his lecture. I would recommend this class for people who want to inflict mental pain on themselves. Otherwise I would stay away",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2024-09-16T15:23:37.926244Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "By far the worst prof, I have ever had. All he cares about is attendance, and during the lectures this takes up at least the first 20 minutes. DO YOURSELF A FAVOR AND STAY FAR AWAY FROM THIS GUY!",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2024-09-25T16:14:02.847831Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "This professor is extremely strict about whatever he can think of. He takes attendance for the first and second half of class. For example, if you're 5 minutes late, you're going to be marked absent by an amp (assistant TA) for the first half of class. Attendance is also taken for every discussion (to get you to attend) with some TA's who don't even enjoy teaching or helping with the coding, making it pointless for you to go for help. Every week you are expected to complete multiple MyLab homework assignments, readings, and coding projects which the professor cares about the most. He calls out students who walk into class with headphones on or hoodies up and honestly treats the class as if they are misbehaved middle schoolers. You can try to reach out about being absent, but you need a properly excused note from the doctor or school. It is often suggested that you attend his office hours just to get a response. I highly recommend staying away from this professor because although it might be \"an easy A if you do your work\" it is not worth the mental strain. This course should not be as overwhelming as it has been and is treated as if it should be prioritized over other courses considering the heavy workload and repeated expectations. The professor also emails his expectations every single week! Good luck!!!",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2024-09-29T19:57:23.109335Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "I actually hate this man and this class more than I have EVER hated a class or professor. He treats his students like children and constantly reminds us with his narcissistic comments about how he's \"trying to do everything in his power for students to do well in his class\" but won't hand out the class activity to someone who is even 5 minutes late. There is zero point in going to his lecture because he complains for 3/4 of it, and the other 3 seconds he leaves for students to complete his class worksheet. He then says if it's not handed in that very second students receive a zero. At first I had some empathy for this man, but he offers none to his students so I'm done holding my tongue. This class is NOT an easy A, it is more brain power than I've had to exercise for a course in a long time and I am a junior. I hate this class. SAVE YOURSELVES AND DO NOT TAKE A COURSE WITH THIS MAN.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2024-10-02T16:36:45.493588Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "I wanted to give this professor the benefit of the doubt during the first month of the semester, but I don't know why I bothered because he legitimately sucks. He acts like a high school teacher that has beef with his students. The time he could be spending actually doing his job are spent complaining about students wearing hoods, headphones, and them not paying attention to him during lecture (probably because of how hard it is to take him seriously). \r\nNot to mention attendance, which is something he hammers in so hard that it's overkill. He has assigned seating, daily in-class assignments, and his 12+ TAs pretty much serve as security cameras to find those skipping class or are late. He'd rather talk about attendance for the first 5-10 minutes of class instead of teaching. Not a single other professor I've had has ever cared more about attendance than him, and I doubt it's because he wants to help us be successful. \r\nHe also gives out a ton of assignments such as the RStudio practices (which are only covered in discussion), weekly online homework (which doesn't correlate with the lecture speed a decent amount of the time), and the in-class assignments too. As for why there is so much work, I could not tell you. This is STAT100: it ain't that deep.\r\n\r\nI could go on and on about this professor (like how he can't stick to a consistent lecture pace), but I think you get it. I have no clue why this professor has a high average rating because the issues he has can be traced back to over 2 years ago. Sure, the professor gives plenty of extra credit and the assignments he gives are not too hard, but I couldn't care less about that since he's completely obnoxious. Don't make the same mistake I made when only looking the average rating and the most recent review. The devil is in the details.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2024-10-05T19:40:01.982676Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Honestly it's a really easy class, but the way he handles his class is SO ANNOYING.  He is extremely strict on random things. He loves to call out people who are late and then gives a speech afterwards about how people shouldn't be late to his class. He also takes attendance every lecture and makes a big fuss if someone misses his lectures.  He has assigned seats for a lecture class with over 200+ people, which just seems unreasonable. Not only that, but he takes the first 10-15 minutes of every class going over his rules because he's so paranoid about it. He walks around each lecture to try and call out someone who isn't paying attention. He just gives off high school teacher who wants to be taken seriously. I'm only giving him 2 stars because his class easy and he does give extra credit opportunities.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2024-10-11T15:15:45.821051Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "STAT100",
+      "review": "Khurana explains things well and is really nice! Lectures are well-paced. Homework is well explained and mimics the lecture content. Exams are super similar to practice exams.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-10-21T18:18:32.691421Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "By far the worst person I have met in my life! All I can say is he\u2019s an egotistical little man with no respect for students. The majority of class is just him complaining about attendance and students, but when he does go over the material it is rushed and disorganized.\r\nWhat to expect from this class: \r\n-Strict attendance twice a class\r\n-constant complaints about students \r\n-assigned seats \r\n-use of this stupid coding system \r\n\r\nLuckily the material is not too difficult, however this prof. makes the class way more painful than it needs to be. \r\n\r\nUMD please fire this guy",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2024-11-06T00:41:35.718459Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Seems like a nice enough guy outside of class but man does he suck during lectures. What you'll get out of this class is knowing formulas and test taking technique, you will not understand a lick of statistics or what its really used for past the 2nd week of the semester. His lectures are boring beyond belief, boiling down to him reading off the slides without explaining where formulas come from, and why certain concepts are the way they are. His policies make his class even more insufferable. Attendance is his biggest one, get ready to spend the first 10 minutes of every lecture listening to him whine about how important attendance, and god forbid you are even a single minute late he will call you out and make a big deal out of it for no reason. If I ever expect to be late to his class I just don't even bother showing up to avoid his wrath. Oh yeah he grades attendance as well which is just the real cherry on top, I guess its to force people to show up because if he didn't have mandatory attendance then nobody would show up since you could learn way better and faster by reading the textbook yourself. \r\n\r\nHe treats the class as if we are in middle school, he has assigned seats and will stop lecture completely just to call you out if you've got a hoodie on or earbuds in. And if you talk just a little too loud to your friend he will bring the lecture to a halt and tell everyone to be quiet. It is unbelievable how much time he wastes every lecture, time that we are paying thousands for. We are all grown adults here so I don't understand why he thinks this is high school. When he does actually lecture, it is mind numbingly boring. You know it's bad when you get excited to do a worksheet just so you get to do something other than listen to his monotone voice. The only positive thing I can say about the class is that the assignments are relatively easy, its busywork more than anything so don't expect to learn anything from those either. Frankly speaking, he is seemingly unqualified to be a professor and I expected a much higher quality of education here. The only people I see enjoying this class are masochists.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2024-11-12T22:55:05.426838Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Prof Griffin is one of the most interesting CHARACTERS I have ever met. He takes attendance every lecture, beginning and end, does not give ANY leniency when it comes to being sick/missing lectures and requires a doctors note every single time, and is overall pretty condescending. The content of STAT100 itself is not at all the problem and is pretty easy to understand, its him that is the problem. You cannot even arrive 4 minutes late without being called out in front of the entire class. I'm not sure why he is the way he is, but ive never had a professor like this during my time at UMD. I think he genuinely cares, but the way he goes about his strict policies and takes up half of the class just complaining is beyond annoying. I think he should do himself and everyone a favor and start teaching middle school. He seems like the micromanaging type.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2024-11-14T16:23:19.497921Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "I feel bad for all the hate he gets because he is genuinely such a sweet guy when you speak to him in person (and is also very lenient with most assignments if you actually speak to him and go to office hours) however it really sucks that he operates his course the way he does.  I think he wants his students to succeed but overkill would be an understatement for many of his behaviors.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2024-11-20T17:32:51.831207Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "STAT100",
+      "review": "great teacher, she's so nice and genuinely cares about her students and their grades.. I would reccomend this class for someone who needs to take a math class, but doesn't wanna do any calc/trig/precalc... stats really isn't difficult.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-11-24T17:47:48.787976Z"
+    },
+    {
+      "professor": "Yue Dong",
+      "course": "STAT100",
+      "review": "free A if you do the bare minimum (show up to class, do occasional HW assignment). formula sheet is given for all exams. weekly TA session that gives the answers to the week's RStudio assignments, which already come with instructions. \r\n\r\nGreat class if you want the free grade boost, just keep in mind the lectures are mostly reading off a Pearson slideshow.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2024-11-27T15:59:24.709442Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Total overkill with taking time out of class to complain about people being late/not paying attention, BUT so so so easy. Coming from someone who hates math, if you take decent notes and go to lectures you will get an A+. So many extra credit and extra help opportunities if you are struggling. The weekly problem sets with coding are definitely tedious though, but that\u2019s less Professor Griffin and more just a bad STAT curriculum.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2024-12-02T21:38:15.421050Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "I think the reviews below me from this semester are giving him way too much hate. If you don't plan on attending every single lecture, don't take Griffin. As other reviews have mentioned, he is VERY strict with attendance. He takes attendance every class and does graded in-class activities. You can't miss more than three lectures in order to get a perfect attendance grade. He does tend to complain about attendance often, which is annoying.  He also complains about people wearing hoodies and being off-task. This is a large college lecture, not some high school class. However, I found this class to be VERY, VERY, VERY easy. I'm not a great math student at all but this class was by far the easiest math class I've ever taken, maybe even the easiest class in general. Griffin is a fair professor who gives so many extra credit opportunities to those who show up for lecture. The exams are fair and he provides many resources to help you study for them, such as sample exams, practice problems, and AMP led study sessions. Weekly discussions are for problem sets, which are a set of questions to be coded in R. Some of them can be quite tedious and annoying but he provides tutorials for all of them. As long as you follow all of the steps, you will do well on them. As annoying as Griffin is about class expectations, he is a nice guy that cares about the success of his students. Overall, if you put in the effort, this is a VERY easy class.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2024-12-03T18:14:30.999892Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "The class is so easy, and the material is very simple. The professor is okay, but he is very strict with attendance. Just show up to class and go to discussions. R studio is VERY annoying, but it's not impossible. As for the lectures, Professor Griffin rambles for about 20 min about attendance and how we are too loud during the class. He then goes over the new lesson for about 15 min, and we are given a worksheet to do for the last 10 min. There is a ton of extra credit, though, which is very nice. As long as you go to discussions and lectures, you will do fine. Tests are just like the reviews and super easy!",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2024-12-04T00:27:24.347053Z"
+    },
+    {
+      "professor": "Yue Dong",
+      "course": "STAT100",
+      "review": "Easiest math class!! You are guaranteed an A if you go to the lectures, do the class activities, and go to the discussions. There are 3 exams, but they are exactly like the practice ones she gives out and you get a formula sheet with all the formulas you'd need on it. I highly recommend this class.\r\nAs for Professor Yue Dong, she is extremely nice and is always willing to help! She doesn't really TEACH just reads off the slides but she is always willing to make time to help you if you need it.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-12-04T18:24:54.620450Z"
+    },
+    {
+      "professor": "Yue Dong",
+      "course": "STAT100",
+      "review": "This is a great class to take if you need to take STAT100. Her lectures are extremely boring and you can likely skip them because she just reads off a slideshow, which she posts. The discussion sections are easy too because the TA explains the assignment and practically gives you the answers. The tests are almost identical to the practice tests, so as long as you study and understand how to do those problems, you will get an A. Also, if you were hoping to get professor Griffin for STAT, she bases almost all of the assignments and practice tests on his class.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-12-04T22:09:57.939410Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Great professor that actually teaches material and gives out a lot of extra credit. People dislike that he is too punctual and sometimes will call out students who have headphones or on phones. But besides that he is giving each student a lot of material so they pass the class with an A. Attendance is mandatory but if you can past that he is a solid professor for the class",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-12-06T03:20:48.607118Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "STAT100",
+      "review": "Her class is super easy if you take notes and participate. Her midterms are exactly like the previous exams that she posts online which is nice. Just study those and you'll get an A. The R assignments are difficult if coding is not your specialty, but the TA in my discussion was very helpful! She is a great professor, super sweet, and likes to give out extra credit which is always a bonus!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-06T18:49:31.664003Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "I didn\u2019t mind this class. I think the other reviews were a little harsh. I\u2019m not that good at math but I found this class to be fairly easy. He makes everything super organized and if you just show up to lectures and discussion you\u2019ll be fine.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-12-06T19:52:39.624525Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "As long as you show up to class and complete assignments, you will get a good grade in this class. You do have to show up to almost lecture discussion on time, but Professor Griffin makes all of his expectations clear and gives out so much extra credit. If math is not your strong suit but you have to take a math class, I would definitely recommend his class as his tests are exactly like the worksheets he gives out and the practice problems he provides. The people who complain about this class don't like that he is strict with paying attention, but from a pure grade perspective if you show up and pay attention you will get an A. He is nice and I would recommend this class.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2024-12-06T22:00:22.619140Z"
+    },
+    {
+      "professor": "Yue Dong",
+      "course": "STAT100",
+      "review": "STAT100 with Professor Yue Dong is not bad if you need to take it. However, her lectures are far from enjoyable and are essentially just her reading off of slides. The workload in the class is not bad; every Sunday, a problem set is due using R Studio; however, a tutorial is posted for every problem set that shows you what to do. Despite the tutorials, these still take a long time to complete. The midterms for this class are exactly like the examples provided on elms; they are very manageable to study for. Overall, Yue Dong is very reasonable; even though she's not the best lecturer, I would recommend her.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2024-12-07T22:03:44.638692Z"
+    },
+    {
+      "professor": "Yue Dong",
+      "course": "STAT100",
+      "review": "Attendance isn't mandatory; her lectures consist of reading off the slide. No one shows up to her lectures until midterm/exam day, and her review sheets are exactly like the exam but with different numbers. During the discussion, her TA just gave us the answers bless him and he's not too much of a hard grader.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2024-12-10T14:18:51.759022Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Griffin is not nearly as bad as a guy that the reviews this semester make him seem to be. While he is harsh on attendance and students paying attention, you can tell he really just wants people to succeed in this course.\r\n\r\nThis class has so much support for it. Griffin actually teaches the material in class well and gives a small class activity to go with it. You also have a chance to earn extra credit practically every class which helps boost your grade. He gives his old tests out to study with and they're practically the same as all the exams, so if you do them and attend a study session you should pass the exams. He is also more understanding if you just talk to him after class or at his office hours. My only real critique is the weekly Problem sets that are tedious and require some code, but he posts tutorials for them that are nearly identical and they teach you the R Code language in your discussions so it isn't horrible. \r\n\r\nI definitely recommend this class to beginner Stat students, but if you don't want to go to lectures or put in any effort, it's probably not the class for you.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2024-12-10T22:40:05.108064Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Take this class. Please do yourself the favor. He's annoying. Yes, he rants about people coming in late, telling them to get off their phones, and kind of Karens out during lecture.\r\n\r\nBut when I tell you, as someone who doesn't like math and isn't that good at it. This was one of the easiest classes I have ever taken.\r\n\r\nFirst off, attendance is mandatory. I mean like MANDATORY. In a lecture hall of nearly 250 people, there is assigned seating. He treats us like middle schoolers, it's annoying. There's like three different checks for attendance. One is six minutes in, another one I think middle of lecture, and then at the end to make sure you stay for the full 50 minutes. There is always an assignment to do in class. You have either an a quiz in which you get three attempts to do, due at 11:59 pm on ELMS. You can start it after around 35 minutes into class. If you don't finish it by the time class ends, finish it later at home. However, if you get it done before class ends, tell your AMP (teacher assistant) and you'll get extra credit. Oh that's the other thing. He gives out extra credit like candy. You do need to be in class in order to complete assignments. If the assignment isn't on ELMS but instead a paper assignment, you obviously need to be in lecture to complete it. If it's an online quiz instead of a paper assignment, you CANNOT complete it unless you were present in lecture that day. The assignments in class take less than 10 minutes to complete and goes along with what you're learning. Look at the slides he posted for that day or the lectures prior, they always have examples nearly identical to the one you need to solve.\r\n\r\nApart from quizzes, and in-person assignments, you have problem sets, which require you to code in R. It's extremely easy. You go to discussion once a week and the TA demonstrates a similar example. Also uploaded is a tutorial that describes exactly how to complete the assignment and the exact code to use. You don't need to know how to use R prior to this class. You have mylab assignments (a digital learning database) that has questions for you to complete. Similar to elms quizzes. Lastly the exams. Two midterms. One final exam (2 hours). I got an 100 on the first midterm, a 90 on the second miterm. Pretty sure I got at least an 87 on the final. This is my score without the extra credit being added. He gives extra credit during lecture which can be applied to the midterms AND the final. He uploads like 3-4 practice exams on elms. Study them religiously. The actual exams are literally identical to the practice exams, just obviously different numbers but it's the same type of problem. I never went to the Guided Study Sessions but perhaps it's worth your time to go and get extra help. Also make sure you have a TI calculator, it'll save you a lot of time. \r\n\r\nHe often plays hall monitor and walk around the class to try and catch someone slipping. If I were you, I would sit at the very very very back of the class. I like having the privacy knowing no one is behind me. I could also plug my laptop into the wall. (This was in ESJ). Overall, he's a little annoying but I do truly believe deep down he wants us to succeed or why else would have policies such as lots of extra credit, three time attempts on quizzes, exams nearly identical to practice exams, and only needing a 91.51 to get an A in the class. (You need at least a 91.51 to get an A, since he rounds to the nearest whole number) \r\n\r\nTake this class. It might be frustrating hearing him rant or treat you like a toddler but your GPA will thank you later on :)",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-12-12T08:34:13.937011Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Really well organized structure. Enough help and resources available to make life easier, but just COME to class. Easy A overall.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-12T17:21:18.559794Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "As others have said, the class is very easy overall. Studying for the exams wasn't difficult since his AMPs (academic peer mentors) ran study sessions the two days before the test where they go over past exams that were pretty much the exact same as what we were eventually given. All I had to do before each exam was go to a couple of those study sessions to receive an A.\r\n\r\nAll that said, this class was not one I enjoyed. He is a stickler about attendance, wearing hoods, and having in earbuds. It made me feel like I was still in high school, sometimes even middle school. It is impressive how much he dogged on this huge lecture hall. At times, his snide comments felt a bit unprofessional. If you don't come to class, you are going to suffer for it. Even if you do go to class you are going to want to rip your ears off whenever he complains about the students who don't show up (which doesn't even make sense since they aren't even going to hear it if they aren't coming), especially if you are one of the students that does show up. I found that it was annoying and a waste of time whenever he ranted on about it. \r\n\r\nI will say that in every other regard, he is a nice guy. If you are a good student, you will be able to have a good relationship with him. At the end of the day the work itself is not hard at all and an easy A. I just didn't enjoy going to class to someone that treats his students like they are still in 8th grade. Take Griffin if you actually go to class and you will be just fine.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-12-12T23:09:11.679385Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Griffin makes his expectations EXTREMELY clear. You must show up to lecture ON TIME, bc lots of points come from in-class assignments and quizzes. He gives soo many extra credit opportunities and the practice are IDENTICAL to the real exams. He may seem intimidating, but he is very nice and helpful if you miss a lecture (with an excused absence).",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-14T21:30:30.830624Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Listen.. BE ON TIME, TURN IN WORK ON TIME. Class is treated at if we were in kindergarten. Hand holding WITH EXTREME EXPECTATIONS. If you dont like lec\u2019s and talking about the same rules (since day one) all throughout the semester pls find someone else. I will say he is passionate but A BIT TOO MUCH.",
+      "rating": 3,
+      "expected_grade": "C",
+      "created": "2024-12-17T02:09:27.156883Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "BEST PROFESSOR \r\nHe gives you so many opportunities to do extra credit, extra work assignments that really boosts your grade. I will admit he is very strict on attendance and if you\u2019re not there in class you miss out on extra credit points and assignments. But he makes the class work so easy along with the TA\u2019s and the peer mentors which have been super helpful!!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-18T06:08:11.263579Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "STAT100",
+      "review": "She's very nice and goes over content multiple times to make sure everyone understands the material. The weekly R assignments were annoying but a useful skill for anyone interested in coding. Practice exams are almost identical to the actual exams and if you make a decent effort to study those you are pretty much guaranteed an A. STAT100 is a pretty easy class but taking her made it even easier.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-19T04:09:18.430457Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "STAT100",
+      "review": "She's a very nice woman but in lecture I never really understood what she was saying, and her voice just got a little annoying after a while. After the first exam I pretty much stopped going to lecture and only studied the previous exams she posts since the exams never change. She does offer plenty of extra credit and her class was fairly easy because of how she made it and the resources she provided. As for the R assignments my TA would do the whole thing in discussion and we would just copy it lol but yeah very easy if you just put a little effort but you're better off teaching yourself with her resources.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-12-20T02:53:31.001851Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "STAT100",
+      "review": "BEST AND EASIEST STATS PROFESSOR EVER. GREAT TEACHER AND SUPER EASY CLASS. SO EASY TO GET AN A. SHE GIVES PRACTICE TESTS AND IF YOU DO THEM YOU WILL BE FINE.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-21T19:53:51.730215Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "STAT100",
+      "review": "This class is so easy to pass. She drops your two lowest grades from each section of the class- in-class assignments (which you have 3 chances total to get a 10 out of 10), homework assignments (which you have unlimited tries to get perfect score on), and R coding assignments (which are difficult in the beginning but she puts out a tutorial showing exactly what you need to code and you go over the coding in discussion). Her midterms and final are the same exact structure and order every year and she posts all the old tests, so if you just practice some of the old exams the tests will be super easy. You also don't have to memorize any equations- she gives you a sheet of all the equations you need and when you need to use each one on the tests so basically the whole test is just plugging in numbers and basic algebra (multiplication, addition, etc). A few things to note: she does have a thick accent but you get used to it and the lectures aren't recorded, but all the slides and information is posted so you don't even have to go to class if you don't want to but I recommend going because you have a lot of extra credit opportunities from being in class, she goes over a lot of examples, and you need to attend if it's an in-class activity day. I also recommend making use of the math tutoring (GSS, AMPs, etc) if you need extra assistance. If you aren't good at math (like me) this class will be a breeze.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-24T20:25:05.746986Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "I am three weeks into this class so take it with a grain of salt. \r\n\r\nI am tired of him treating class like discussions. I am tired of him wasting time telling us to take our hoodies off, our headphones out, etc. He will use the entire class time to talk about how he teaches and does not teach us the material. He leaves us with a PDF to self-learn. This isn't a good way to expend tuition money.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-02-17T19:04:38.248253Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "If you are decent at math, this is an easy A+. He literally gives the practice exam that is EXACTLY like the actual exam. He also gives out a lot of extra credit almost every class. With that being said, I gave him a 4 star even though it was an easy A+ because he teaches like this is middle school. No phone, no hoodie, no headphones, repeats the syllabus rules for the beginning of class every class, somehow has attendance in LECTURES with over 100 students, and the best part, legit walks around during lecture to see computer screens if we are off task. If you don\u2019t mind being in boot camp, then this class is an easy A+.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2025-02-22T06:23:28.586461Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Class is a complete joke the content is middle school statistics. The worst part is how he teaches his lectures. Mandatory attendance with penalties of being more than 3 minutes late. Stickers are given out for being a good boy practically. More than half of the lecture time is taken up by the professor complaining and yelling about people not paying attention or following along on lecture slides. No hoodies, beanies, hats, or head-coverings. He might be the most obnoxious professor on campus.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2025-03-05T18:11:57.679656Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "I am taking this class as a pre-requisite to be able to enroll in a data minor, however, I have taken 2 statistics and 1 R  class prior, currently taking 2 other r classes concurrently with this one. \r\n\r\n**If you want to enroll under this professor's pedagogy for the sake of engaging with class content; don't bother.** I have received A+'s in my other stats/R classes, MUCH harder than this one. I am sitting here with a D- because I submitted something without my name on it.  \r\n\r\nIN THE END, YOUR GRADE IN THIS CLASS WILL BE JUDGED BASED ON HOW WELL  YOU CAN SUBMIT TO UNNECESSARY MICROMANAGEMENT. \r\n\r\nFrom the policing environment, counting you as absent to \"lecture\", if you show up 5 minutes late, to him assigning other undergrads to police you to make sure you're following the lecture (one of them snapped their finger at me to point me in the direction of my seat during a test), to him using lecture time to treat every class like syllabus week, and for him pausing to tell students to stop talking, remove hoodies, take out earbuds, etc. etc. this class is pretty insufferable. I have been marked absent because I got up to use the restroom, and had activities marked as \"0\" for days I were there. \r\n\r\nThe professor was mostly kind to me personally, and understanding, and expressed a willingness to work with me, but would not budge on grades. I cannot imagine the experience for students who weren't on this professor's \"good side\". \r\n\r\nYou will do problem sets on R studio, and if you know anything about R studio (in the console, not the environment), you will NOT be able to backspace and redo a command line once you generate. I've had to pick and comb through and redo all of the problem sets, often 3,4,5, times, just because of the absurd amount of extraneous instructions, such as exactly how you should title your graphs, and putting your name in each and every command line. They claim this prevents academic integrity violation, but this makes no sense.\r\n\r\nIn my other R classes, let alone ANY college class, I've never had 30% of my grade docked because I didn't put my name on anything.  I had put my names in the command codes, but because I missed the instruction once or twice, I had most of my grade shaved off. **I would have gotten 100%s otherwise**. \r\n\r\nYou are paying THEM for your education. Enroll in classes with professors who reflect that dynamic. Don't play other people's stupid games to win their stupid prizes.",
+      "rating": 1,
+      "expected_grade": "D-",
+      "created": "2025-03-26T18:43:58.239255Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "playing your cards right will get you really far in this class, and the key thing is that all the cards are already in your hands. every lecture has an extra credit opportunity, the practice exams are identical to the real exams, AMP's regularly have GSS sessions, and the class activities are good tools to prepare you for what'll be on exams. with all that said, this class really feels like i'm back in high school. the seat you sit in is the one assigned to you and you MUST sit there for the rest of the semester. attendance is mandatory and the professor isn't afraid to get on your ass and take off points for being late. it wasn't until like three-quarters into the semester when he finally stopped spending the first 10-20 minutes of class incessantly reviewing the syllabus and class expectations which got really tiring and felt redundant. exams also feel awfully rushed, so if you're not prepared enough then him calling out times at random intervals will have you tweaking the fuck out like it had me. my biggest gripe is the fact that he will absolutely do everything in his power to not cancel class. if he isn't able to show up, he just has his AMP's fill in for him and still has everyone go when it isn't really necessary. even then, i don't professor griffin is as straight up evil as he's made out to be and seems to want the best for his students, but his policies are unlike anything i've encountered in other classes i've taken thus far. honestly as long as you show up, do your work on time, and pay attention in the lectures, you'll do just fine. this class is ultimately really easy, even if it does feel like boot camp.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2025-04-30T17:13:02.426262Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "This is a very easy class. You will do well. \r\n\r\nBut that said, the teaching style is beyond tedious as the teacher treats his students as if they were enrolled in a secondary educational course. Attendance is mandatory so plan to bring something else to do as 99% of content is review.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2025-05-12T16:06:44.173350Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "I honestly didn't have much problems in the class during the semester. However, I will say that the class lectures can be very bland as they do not provide actual information on STAT100 material. The class content is relatively simple, and you can honestly pick it up on your own.  HE IS A PRICKLY GUY ABOUT ATTENDANCE AND LISTENING IN HIS CLASS. It can be very annoying because sometimes he will pause class even if there is little to no noise that would BOTHER NOBODY. Assignments are very manageable as long as you are paying attention to due dates, but the PROBLEM SETS can be a HASTLE. You have to use an app called Rstudio and you essentially have to code for this class. It is cool once you get used to it, but it can become very tedious.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2025-05-12T18:59:57.849389Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "The course is the same material as your high school AP Stats. The problem is with Professor Griffin, he has every problem in the book. Egocentric, self-centered, bossy, rude, and a control freak. He doesn't allow hats in his 300+ person lectures. Attendance is mandatory every day. I watched him yell at students for laughing at how ridiculous he acts. The asshole middle school teacher somehow got a college professor position and doesn't deserve it. A fish could teach the course curriculum. Get any other professor if possible.",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2025-05-13T01:32:35.630040Z"
+    },
+    {
+      "professor": "Clarke Safsten",
+      "course": "STAT100",
+      "review": "Great professor. Most lectures came with a class activity/exit ticket. There were two midterms, one final. As long as you study and practice before the exams, you'll be alright. There were some extra credit opportunities, too.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-05-13T16:23:33.235958Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "This course is simple, you can learn it on your own, but the policies that he hold in his class is extreme. No airpods, hats, hoods, or even banter. He does not hesitate before calling students out in class just to humiliate them. I've watched professor griffin kick people out of class for sitting in with their friend, he is an insane control freak. Working with him was incredibly painful especially because he elongates short classwork and makes them longer and complicates them than they need to be. Do not take this class if you're looking for a simple prerequisite for your major unless you want to show up to class 3 days a week for attendance points. If you miss class, you will be marked absent and lose points.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-05-13T19:20:56.456216Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "This class feels like a high school class. The coursework is straightforward, and he shows students how to solve problems well. I barely studied for the class and got an A in it. He can be a control freak in making people stay quiet and may draw attention in class; he made one person leave because they wouldn't stop talking. So make sure you stay on his good side. During class, he makes you either worksheets or quizzes that will count for attendance and part of your grade, those aren't that mad. In discussions, he gives you problem sets to do, but it's just a simple copy and paste from the tutorial PDF that he gives you. You'll need to change a couple of things here and there. He makes you do homework problems on Pearson. However, he will never tell you when you have to do them. However, he gives you a lot of time to complete them, which are very easy. Overall, this class was one of the easiest classes I have ever taken.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-05-21T02:21:31.889773Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Exams are almost exact same as practice exams except he\u2019ll change around some questions. Class is easy just make sure u attend all classes for attendance and discussion. He kinda annoying sometimes when he rants but its ok since his class easy.  He so cute and his head so shiny. He is the AURA KING",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-05-21T14:51:56.117817Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "This teacher thinks we are in high school apparently. He wastes a criminal amount of time every class going over the rules of the classroom and yelling at students for having there hoods on, if there is ever a good review about him for STAT100 it is him writing it himself. The class is extremely easy and if you show up you will get an A, but is an A worth sacrificing your personal dignity. Choose anyone else, this man is the most disrespectful professor on campus.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2025-05-24T02:42:47.190932Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "While I do agree that he is unnecessarily strict with seating and going over class rules, if you listen to him all he is trying to do is help. Literally all he wants is for you to attend lectures, and get a good grade. He gives so many extra credit opportunities, and his class goes at such an easy pace. Literally all you have to do is attend lectures to get an A. If you attend and pay attention I guarantee you will do well in this class. He gives barely any homework and he is a very nice guy who gives so many outside of class opportunities to help improve your grades. Everyone giving a bad rating must be people who rarely attended and it affected their grades as a result. Professor Griffin doesn't ask for much besides the BARE MINIMUM.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-30T15:36:09.690848Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "I dreaded going to this class, and it was four times a week so that's not great. The material was middle school level math, and maybe that explains why Professor Griffin treated us like middle schoolers. He is incredibly strict about attendance (you can't miss a class or be late even though it's a huge lecture hall), gave us assigned seating, scolded people for wearing hoodies, and forced us to follow along with the slides on our computer the entire time (he walked around the room and stopped class to call out everyone who wasn't doing it). He also wastes a remarkable amount of time going over the syllabus at the beginning of every class, going on tangents about attendance (even though the people who are missing class won't be in the room to hear it??), and just generally complaining. This course could be self-taught, and I basically did that since his lectures were too frustrating to pay attention to. The only reason I gave him 2 stars is because he provided practice problems and practice tests that were just like the real ones, so it was easy to get an A. He's also somehow very nice in office hours. I would recommend taking another professor and getting Professor Griffin's study guides from a friend, unless you want to be ripping your hair out every class.",
+      "rating": 2,
+      "expected_grade": "A+",
+      "created": "2025-06-04T21:42:46.229095Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Took the summer class and Professor Griffin really gives so many opportunities to get a good grade in the class.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-07-10T16:27:08.850569Z"
+    },
+    {
+      "professor": "Clarke Safsten",
+      "course": "STAT100",
+      "review": "HIGHLY recommend to take this professor AND to build some type of relationship with him throughout the semester! He's pretty forgiving and will guarantee you to pass. \r\n\r\nThe curriculum when I took it in Spring 2025 weighted exams very heavily so its mainly the reason why I'm getting a C- (I trolled really hard on one of the exams, DO NOT do what I did).\r\nAlso DO NOT sleep on extra credit assignments later in the semester! They boost your grade a considerable amount which CAN save you. \r\n\r\nThroughout the semester you work in RStudio and there are project assignments for it every week. These aren't horrible and they're pretty easy to get around even if you're lazy. If you have a nice TA they'll practically do a portion or half of the project in class. \r\n\r\nOnly annoying thing I'd say is the homework and class activities. Try to stay on top of these please, these points do add up towards the end of the semester and can brick your grade.\r\n\r\nExams aren't too difficult as well, if you have a decent understanding of basic math and do light studying you can cruise through these exams with no problem. Make sure you're putting in the work as always and you'll pass.",
+      "rating": 5,
+      "expected_grade": "C-",
+      "created": "2025-07-19T14:25:10.492568Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "BEST PROFESSOR!!! Gives so many extra credit opportunities. Though he seems strict because of mandatory attendance, he actually the nicest guy who genuinely cares about his students. Gives so much study material to prepare you for exam, the practice exams are identical to what will be on the exams.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-10-25T20:23:42.869495Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Such an easy A.  Prof. Griffin makes sure you actually know the information. Even if you barely try he makes sure you know the material. He's strict but fair and very clear about his expectations. His tests are copies of the practice tests he provides just with different numbers. Homework is simple and straightforward-an easy way to get your grade up. \r\nThere is extra credit every day. If you answer a question you get a point.\r\nHe does actually care as well and will show it if you ever care to or have to attend office hours.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-10-29T18:25:27.293528Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "STAT100",
+      "review": "If you try in this class, you will absolutely succeed. She posts previous exams and holds long review sessions, and makes sure you're prepared. Very caring too!",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-11-20T22:40:17.493535Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "STAT100",
+      "review": "This is the sweetest woman I have ever encountered ever. She is so genuine and the class is so slight just show up when there is a class activity if you can. Idk how participation is graded for STAT100 because it's such a huge lecture but def answer a question like once or twice and you'll be chillin. Tests are also easy but the TAs take forever to grade them. The R assignments are stupid because it's coding but I don't think she has a choice in assigning those.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2025-12-05T19:28:46.982384Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Easiest class ever, but he spends too much time on the same topic. Lots of resources and extra credit opportunities though, so failing this class should be impossible.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2025-12-08T16:30:44.603748Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Makes the class so easy he gives you all the formulas during the tests, He goes over how to do things during classes multiple times, gives you practice exams to study which are almost exactly like the final exam, only thing is that attendance is mandatory for classwork",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-08T16:33:13.905532Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Griffin treats us like children and is very strict. He walks around the lecture hall to make sure our screens are on the right thing, we don't have airpods in or anything covering our ears, and we don't have hoods. You lose points for being more than 5 minutes late. Also, he spends the first 10 minutes of every class reminding us of his rules and policies, which is a complete waste of time. \r\n\r\nThe class itself is easy to get an A in. There are extra credit opportunities almost every day. The exams are essentially identical to the practice tests he posts.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2025-12-09T20:08:02.749598Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "STAT100",
+      "review": "Absolutely goated teacher. She is super nice and forgiving. She posted the previous semester's exams so you can practice in advance.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-15T02:17:08.978480Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "I'm sorry, but you actually have to be deeply stupid or just deliberately not trying to fail this class. I think the reason why the GPA is so low on Planet Terp is because most people taking this class are Freshmen, and are still adjusting to college. I have been delaying taking this class for a couple years because of schedule conflict, and when I saw the GPA for this class last semester I got nervous. It is honestly, by far, the easiest math class I have taken here. \r\n\r\nAttendance is mandatory, discussion and lecture, and he does get mad at you for being on your phone or wearing hoodies like it's High School and WILL call you out if you do it, but this class is so EASY. There are so many extra credit opportunities (answering questions in class, getting 10/10 on class assignments and showing an AMP, writing your answer on the whiteboards, etc.). The practice exams are exactly like the exams (although this is true for the other stat100 professor too). I read through the chapters in the required book only once at the beginning, and after that realized that the class's material is so simple that I didn't even need to prepare myself before each lecture. I went to a few GSS sessions to brush up on slightly more complicated material, but it was honestly nothing compared to other math classes I have taken here like calc. Data assignments, which are R-Studio coding assignments, were annoying and we did one every week (besides on weeks we had exams), but there are tutorials you can find in ELMs that give you the exact code word for word, but you just need to change the variables according to the ones the data assignment uses. \r\n\r\nI think Professor Griffin truly wants his students to succeed which is why he's so strict, but even so, sometimes when he would give out to students it would take up valuable class time, and decrease the amount of time we had to finish in class assignments. This, on top of the strict attendance was mildly annoying, but it was honestly balanced out by the easiness of the material and the amount of resources given to prepare you for the exams.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2025-12-16T04:11:14.652088Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Don't let the bad reviews sway your decision!! Griffin is definitely strict about attendance to a level that seems unreasonable for a big lecture, but it totally paid off. This was the easiest and most digestible math class I have ever taken - there was an opportunity for extra credit nearly every class, and lots of manageable in-class assignments to pad your grade. The exams were super easy and Griffin and the TAs and AMPs gave so many study materials which were directly relevant to the test. There were no surprises, so as long as you attended lecture and put in effort for 50 minutes a few times a week, you're pretty much guaranteed an A. He's a very nice and caring guy one-on-one, just gets frustrated when people don't show up and expect policy exceptions to be made for them. Discussions were also super easy - the DAs (data assignments) were done in RStudio but my TA was very helpful and there are tutorials posted on Canvas as well. The coding was elementary and another way to earn easy points. The only complaint I have is that we used MyLab on Pearson to complete assignments, but they wouldn't show up in Canvas which caused myself and many other students to miss the due dates or forget they were there. However Griffin extended the due dates for these a lot since they grade automatically and it turned out not to be a problem. 1000% recommend taking stats with Griffin especially if you're not very into STEM - couldn't have imagined a more perfect class structure!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-16T20:23:29.272884Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Professor Griffin makes the class super easy. During lectures, he gives practice questions and worksheet questions that are similar to test questions. Additionally, the tests are exactly like the published exams found in the ELMS modules. To prepare for tests, just go to the published exam review sessions as the GSS leaders will show you how to solve each question step by step. However, he has a strict attendance policy which can make unexpected absences difficult to manage since you have to provide documentation and make up in class activities in office hours. Overall, this was the easiest math class I ever took in my life and even easier than my math classes in High School. Just pay attention, go to GSS, master the Z table, hypothesis testing, and you will get an A!",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2025-12-20T02:03:08.089418Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Solid professor, but cares way too much about his rules and spends a lot of time going over them like he is talking to a bunch of middle-schoolers. Still, he makes the class easy to pass and gives lots of practice problems and extra credit opportunities. Attendance is mandatory, which can be tough for a lecture, but if you pay attention, you do learn.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2025-12-21T16:34:52.384715Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "STAT100",
+      "review": "Khurana is a really great professor. Really helps her students succeed in the class. Class consists of homework assignments, in class activities, two exams and the final, and r coding assignments. Overall very easy. The R Assignments sometimes can be annoying to do, but they are pretty easy, and are also gone over in discussion. Khurana wants the best for her students, and that was evident throughout the class. If you\u2019re going to take STAT100, and she is available, definitely take it with her.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-22T21:06:01.131043Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Very easy class and exams are exactly like old/practice ones. Attendance is mandatory at all lectures and discussions though.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2025-12-25T17:52:06.272465Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Very easy class, many extra credit opportunities, provides practice exams for review as well as practice questions for each exam, provides study sessions for students to go over the practice exams (as the answers aren't posted), overall just a great professor. A little strict on timing and deadlines, as well as phones and whether or not one is paying attention but that's expected as a professor. Besides that, great professor, would recommend.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-28T03:23:26.302269Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "STAT100",
+      "review": "Very nice and sweet. She really wants her students to scared, and was always willing to go over concepts that people did not understand. Class consists of two exams, a final, r coding assignments, and homework assignments. The thing about this class, it is not difficult at all, and Khurana does a good job at teaching it. Just make sure to stay on top of the r assignments as those are not talked about in lecture but rather discussion. Overall very easy class and Khurana is very nice. If she is available for the class, don\u2019t think twice. Exams are also very easy.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-28T05:57:25.802173Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "The class itself is super easy. He literally gives you formula sheets to use during tests, so you just plug the numbers in on the exam. He's just a little insufferable as a professor. Extremely strict attendance, assigned seating, etc etc. If you need a gpa boost, take this class. Just be prepared to roll your eyes at his bs every. single. day.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2026-01-05T15:24:48.641422Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Great professor!!! Take him for stat100 if you can. He is pretty strict about attendance and gives a graded assignment every lecture but the assignments are easy and sometimes these assignments count for extra credit especially near midterms and finals. He is a really good teacher and explains concepts well. The practice exams are EXACTLY like the actual exams and there are plenty of review sessions that the TAs do and every discussion session right before the exam is a designated review session. So as long as you know how to do the practice exam you should be set for the exam. He doesn't give answer keys for the exam but i just uploaded the exam into chatgpt and made it give me an answer key.  The discussions are annoying since our TA didnt let us leave early even if we finished the assignment early but all the assignments are easy. I highly recommend taking the class with him.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2026-01-22T01:51:43.244246Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "One of the best professors Ive ever had. Griffin is a good professor, but is very picky when people don't follow his directions and don't come to class. He makes attendance a big thing during discussions and lectures. Every lecture, you are given a worksheet, and if you complete it early, you get to share your answer with the class and earn extra credit. Discussions werent that bad and were mainly similar to how the example tutorial for the discussions was. Exams were very straightforward. The exams were very similar to the previous 2 semesters, with a few changes in numbers. We also had MyLabs from Pearson, and it was pretty petty, but we didn't really utilize all the resources in there.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2026-01-24T00:50:36.097021Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "I am really happy that I had Professor Griffin for STAT100. He is extremely organized and gives plenty of opportunity for extra credit. There are two tests and a final exam which he provides plenty of resources to be very well prepared for. The class was SO easy and as long as you show up and put in minimal effort you will do great!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2026-01-26T06:21:28.033023Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "The class is the easiest math class probably ever. Look as long as you know how to do basic math and understand really anything then you should get a good grade. The professor while he is very strict, he does it so we actually do good. This is why exam averages were always above 80%, now if you don't like that he rambles about phones and whatever then that is your problem. Look go to GSS study sessions, focus like you're supposed to and you do good. There is no reason you can't do good unless you don't want to.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2026-02-06T00:00:08.204993Z"
+    },
+    {
+      "professor": "Alex Safsten",
+      "course": "STAT100",
+      "review": "Loved this class, would definitely recommend. He posted all slides before class and slides would have good example questions. Midterm and Final were easy and had a lot of similar questions to in-class examples. Would start and end on time. Discussions were a little pointless if you had an okay understanding of R, but overall very easy A.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2026-02-11T15:09:54.382960Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "This class is very easy, but he is not a professor; he is extremely strict on attendance and timing for exams. When the 45-minute timer ended after the first exam, he immediately yelled to the teacher assistants that anyone with a pencil writing would be deducted 10 points. The exam itself was easy, but hard to finish within the time constraint. He cares more about his rules and policies than he does about a student or their success.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2026-03-11T17:34:03.125278Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "STAT100",
+      "review": "I adore Dr. Khurana and how she led this course. Given how large the course it, I was grateful and impressed by the way she tailored the course to the needs of our classroom, and listened to our notes/comments. Dr. Khurana is excellent at explaining the different STATS concepts and is also great at answering questions. Dr. Khurana wants and believes each student can achieve in her classroom. She really sets you up for success!",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2026-03-23T17:15:32.650077Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "Has a stick up his ass but is an excellent teacher. Already easy class material and he makes it much easier for you. Wants you to succeed in spite of how strict he is.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2026-03-25T16:12:26.429627Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "best teacher out there!! He gives so much extra credit, and I got a 76 on the first exam and ended up with an A+.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2026-03-26T18:16:20.578321Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "STAT100",
+      "review": "While he is a good professor, I find his class to just be a drag. Now obviously it is STAT100 so it's pretty hard to make it so that the class isn't super boring, but I dread coming to his lectures purely for the fact that the class is so easy and the attendance is mandatory.\r\nAlso, he has us opening the lecture slides on our laptops to \"follow along\" but I really just end up taking notes on my own and just tuning out whatever he is saying. Speaking of what he says during lecture, he spends a good 5-15 minutes per class taking attendance, passing out worksheets, going over class requirements (which he goes over every single class), and badgering people about taking off their hoods and earbuds. None of this is specifically bad, but it just ends up making the class a drag to attend (which you have to, because attendance is mandatory, why is attendance mandatory in a 300 person class?).\r\nOverall though, he is a good professor, and this class is an easy A since most intro stats classes are just plugging in numbers to formulas. Just his classes will make you want to bash your head into your desk because of the easiness of the material, and his yammering about class expectations.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2026-04-17T14:53:14.904198Z"
+    }
+  ],
+  "department": "STAT",
+  "course_number": "100",
+  "name": "STAT100",
+  "title": "Elementary Statistics and Probability",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> MATH110, MATH112, MATH113, or MATH115; or permission of CMNS-Mathematics department; or must have math eligibility of STAT100 or higher and math eligibility is based on the Math Placement Exam or the successful completion of Math 003 with appropriate eligibility.\n<b>Restriction:</b> Must not have completed MATH111; or must not have completed any MATH or STAT course with a prerequisite of MATH141.\n<b>Credit only granted for:</b> STAT100, MATH107 or MATH111.\nSimplest tests of statistical hypotheses; applications to before-and-after and matched pair studies. Events, probability, combinations, independence. Binomial probabilities, confidence limits. Random variables, expected values, median, variance. Tests based on ranks. Law of large numbers, normal approximation. Estimates of mean and variance.",
+  "is_recent": true,
+  "geneds": null
+}

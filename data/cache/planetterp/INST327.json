@@ -1,0 +1,413 @@
+{
+  "average_gpa": 3.52050507230736,
+  "professors": [
+    "Vedat Diker",
+    "Tammie Nelson",
+    "Donal Heidenblad",
+    "Pamela Duffy",
+    "Timothy Richards",
+    "Melissa Lizmi",
+    "Nima Asadi",
+    "Marcelo Ramagem",
+    "Pamela Duffy",
+    "Vedat Diker",
+    "P Kshetry",
+    "Pamela Duffy",
+    "Vedat Diker",
+    "Pamela Duffy",
+    "Iskander Lou",
+    "Pamela Duffy",
+    "Pamela Duffy",
+    "Devanshi Shah",
+    "Iskander Lou",
+    "Pamela Duffy",
+    "Vedat Diker",
+    "Iskander Lou",
+    "Pamela Duffy",
+    "Vedat Diker",
+    "Iskander Lou",
+    "Pamela Duffy",
+    "Vedat Diker",
+    "Iskander Lou",
+    "Pamela Duffy",
+    "Vedat Diker",
+    "Iskander Lou",
+    "Pamela Duffy",
+    "Iskander Lou",
+    "Pamela Duffy",
+    "Vedat Diker",
+    "Nicholas Dewitt",
+    "Nicholas Dewitt",
+    "Pamela Duffy"
+  ],
+  "reviews": [
+    {
+      "professor": "Vedat Diker",
+      "course": "INST327",
+      "review": "Isn't a great lecturer but is very helpful to students. Also a pretty lenient grader.  ",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2018-12-17T20:05:40Z"
+    },
+    {
+      "professor": "Pamela Duffy",
+      "course": "INST327",
+      "review": "She's  great. Very helpful. Makes sure you understand the material instead of just knowing what to do. Very lab centered class",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2019-12-18T12:28:53Z"
+    },
+    {
+      "professor": "Pamela Duffy",
+      "course": "INST327",
+      "review": "Duffy is a good teacher who cares about her students, and gives very fair (and open book) assessments and assignments. Databases can be a pretty dry subject but Duffy does her best to make the course interesting, and it is one of the most useful courses in the major. ",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2019-12-21T17:55:49Z"
+    },
+    {
+      "professor": "Pamela Duffy",
+      "course": "INST327",
+      "review": "Excellent professor! Highly recommend!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2019-12-23T22:33:00Z"
+    },
+    {
+      "professor": "Pamela Duffy",
+      "course": "INST327",
+      "review": "Great professor",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2020-11-21T22:23:34Z"
+    },
+    {
+      "professor": "Pamela Duffy",
+      "course": "INST327",
+      "review": "Class was easy if programming comes easily to you. The group project was irritating at times, but that was because of flaky group members. Otherwise good course, easy online quizzes, and no exams.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2021-10-11T23:22:20Z"
+    },
+    {
+      "professor": "Pamela Duffy",
+      "course": "INST327",
+      "review": "i literally love her she is so caring and takes her time to help you understand. Definitely take a class you need with her if possible.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2021-12-24T22:15:44Z"
+    },
+    {
+      "professor": "Pamela Duffy",
+      "course": "INST327",
+      "review": "She is the most caring professor I have ever met. Although I admit that her lectures could be somewhat useless because of the large number of knowledge you can get only from the elms pages, the more you interact with her, the more love you will have for her. Most assignments are easy, even if you meet any problem you can quickly solve it during office hours. The only hard part of this course is that sometimes you have to deal with shitty teammates.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-09-09T02:46:56.331043Z"
+    },
+    {
+      "professor": "Vedat Diker",
+      "course": "INST327",
+      "review": "Dr. Diker was a great professor. He was more than willing to help his students and was always available when needed. He is also a fair grader.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2023-04-02T23:51:58.664925Z"
+    },
+    {
+      "professor": "Iskander Lou",
+      "course": "INST327",
+      "review": "Good teachers, watch the videos and actually try and learn sql. Constantly gives extensions on assignments. I would recommend for your group project to pick people good at sql,. Try and master normalization, erd diagrams, and data importing. Starts the big assignments early and  go to office hours for help.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-16T17:29:43.404154Z"
+    },
+    {
+      "professor": "Pamela Duffy",
+      "course": "INST327",
+      "review": "Good teachers and gives extension. I don't like the sjw articles we have to read.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-16T17:30:56.767139Z"
+    },
+    {
+      "professor": "Pamela Duffy",
+      "course": "INST327",
+      "review": "She is a very knowledgeable and considerate professor. I agree with others responses that we have a lot of busy work. However, its there to compensate for the harder assignments/project work. As long as you have a capable group, you'll be fine with the semester long project. The TA's are available and reliable.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-05-23T18:08:23.151786Z"
+    },
+    {
+      "professor": "Iskander Lou",
+      "course": "INST327",
+      "review": "This class was one of the most painful classes that I have taken. Iskandor's lectures are more focused on trying to be your friend since he's a grad student than actually teaching. Most of the lecture is disorganized which makes the assignments more difficult to navigate. Most of the learning I did was with the AMPs and the TAs than his lectures. I would say to skip lectures but next semester, they will require attendance which is very frustrating since it's normally a waste of time. Also, there are so many group projects and they are incredibly painful since peer reviews have never deducted significantly to change behaviors, only if they do NO work, not significantly less. Overall, a painful requirement, but again I got an A so it's not that bad.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2023-05-24T14:05:04.583808Z"
+    },
+    {
+      "professor": "Pamela Duffy",
+      "course": "INST327",
+      "review": "Professor Duffy is so sweet and she makes her class as simple as possible. She provides tons of resources and you can tell she wants her students to do well. She is also very understanding if you are having any issues. I took this class online over the summer and it was very manageable.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-09-05T14:42:04.968006Z"
+    },
+    {
+      "professor": "Iskander Lou",
+      "course": "INST327",
+      "review": "PLEASE DO NOT TAKE THIS PROFESSOR. HE DOES NOT TEACH. HE BARELY KNOWS WHAT IS  GOING ON. PLEASE SAVE YOURSELF THE PAIN.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2023-09-24T18:05:09.586681Z"
+    },
+    {
+      "professor": "Devanshi Shah",
+      "course": "INST327",
+      "review": "Absolutely HORRIBLE Professor. This professor seems to be a grad student that doesn't have much experience in teaching. Which would be fine if she actually put in the effort to make the class enjoyable. She just reads off of Pamela Duffy's script, uses her slides + video quizzes etc. The class is not about learning as none of the TAs care about your grade and neither does the professor. They do everything incorrectly from assigning due dates, quiz questions and labs. They offer no assistance in assignment questions and most of the time don't even know themselves what the assignment is about. Just take the class with Pamela Duffy you'll be 100% better off.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2023-10-06T14:13:38.877809Z"
+    },
+    {
+      "professor": "Devanshi Shah",
+      "course": "INST327",
+      "review": "If you guys ever plan on taking INST327 this semester, I\u2019m begging you for the love of God, DO NOT take this professor if you want your grades to not drop.\r\n\r\nThe professor literally copies Prof. Duffy\u2019s videos and reads off the screen word for word. She never actually meaningfully engages with the content\r\n\r\nAnd the TAs are something else. They don\u2019t respond to emails and hardly help others because they are busy with their own midterms\u2026funny because when I asked for an extension because of an upcoming midterm, a TA said that it wasn\u2019t a good excuse. So you can choose not to respond because of your midterms but our work isn\u2019t an excuse for extensions? Talk about double standards \r\n\r\nAnd they don\u2019t know how to organize a class. The syllabus says one date for an assignment, the ELMS page says another. HOW DO YOU NOT UPDATE A SYLLABUS?! They mess up due dates for assignments, causing undue stress for myself and other students.\r\n\r\nThe labs, quizzes, and discussions are easy As. But the homework assignments are extremely difficult. They are already complex and then the professor and TAs ignore or hardly respond to questions for help on the assignments. Then they have the nerve to grade assignments harshly. They took off 15 points just for using an exact WHERE condition just because it wasn\u2019t an allowed structure? Why take off points for an effective code. And these assignments are 25% of your grade. Besides, they poorly teach and don\u2019t guide students well and then have the nerve to grade harshly when they get something wrong.\r\n\r\nAll in all, poor teaching, lack of guidance, disorganization, and difficult assignments from hell are messing up the class. Don\u2019t take this professor! If she\u2019s the only one available for INST327 this semester, then please take it another semester.",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2023-10-24T18:47:59.336745Z"
+    },
+    {
+      "professor": "Iskander Lou",
+      "course": "INST327",
+      "review": "He's chill, but his lectures are boring. However, he provides a lot of online resources and videos, so you can still ace this class by learning material that way. TAs were helpful, especially for the semester-long group final project.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2023-12-14T15:06:38.929267Z"
+    },
+    {
+      "professor": "Pamela Duffy",
+      "course": "INST327",
+      "review": "The course was co-taught between Duffy and Diker. Duffy did the recorded lectures for our section and Diker did the in-person lectures. Personally I found this course to be quite hard and apparently this is an unpopular opinion but I thought 326 was better than 327. The lecture vids were really hard for me to watch, I would often get bored and couldn't follow along with what was happening. The lecture vids and understanding the material are the hardest part of the course but the in-person labs and discussion board posts are basically easy grade boosters to help balance out the difficulty.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2023-12-20T18:42:18.666479Z"
+    },
+    {
+      "professor": "Iskander Lou",
+      "course": "INST327",
+      "review": "Overall, this was a fair class. Be prepared to teach yourself mySQL to complete the assignments since you won't learn much from lectures. Labs are free points if you attend the discussion. Make sure to start the assignments (especially the parts of the semester-long group project early) so that you can ask for help.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2023-12-24T15:47:10.786327Z"
+    },
+    {
+      "professor": "Pamela Duffy",
+      "course": "INST327",
+      "review": "Professor Duffy is a pleasant lecturer. The class as a whole was a headache. The semester-long group project was very unpleasant.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2023-12-29T02:50:12.911175Z"
+    },
+    {
+      "professor": "Devanshi Shah",
+      "course": "INST327",
+      "review": "I enjoyed the content of the class but you can get that with Professor Duffy. Please do so if you can. I have gone to Prof Duffy in-person class just to understand the material better. I passed the class with an A+ because of Duffy. Mrs. Shah's structure is HORRENDOUS. She doesn't do anything about the students who expect you to do all the work. She sends out emails addressing complaints and says that she will reach out to them but NOTHING CHANGES and they can slack off and still pass. We have mandatory meetings with the TAs and this is where you have a check-in on the status of your project. Her TAs do all the work for her and she reads Duffy's slides word for word. The two good reviews are because they didn't have to deal with bad teammates on top of the unnecessary confusion and stress. You will mostly be teaching yourself or seeking for guidance the whole semester.",
+      "rating": 1,
+      "expected_grade": "A+",
+      "created": "2024-02-06T22:10:45.248520Z"
+    },
+    {
+      "professor": "Srikanth Parvathala",
+      "course": "INST327",
+      "review": "Srikanth was a very good TA for INST327. He was always willing to help students and explain concepts that were difficult to understand. He responded to emails pretty quickly and was overall just a very nice person. I recommend his discussion section for INST327, this semester it was Fridays 3-4pm.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-10T00:55:25.640583Z"
+    },
+    {
+      "professor": "Iskander Lou",
+      "course": "INST327",
+      "review": "Easy class, just make sure your group for the semester long project doesn't procrastinate and you'll be good",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2024-08-23T01:07:20.839881Z"
+    },
+    {
+      "professor": "Vedat Diker",
+      "course": "INST327",
+      "review": "This course is co-taught by Diker and Duffy. I had Diker for the once a week in-person lectures. His lectures were a bit dry but very helpful. He tried to be as simple as possible in his explanations to help his students understand. There was a zoom option for lectures. The mandatory Friday discussion sections were for labs. The labs were easy as the TA would go through them step-by-step. Assignments for this class weren't too difficult and there were plenty of office hours opportunities to ask questions about them. Bi-weekly discussion boards weren't difficult, but a bit tedious. Grading is fair for the most part. The final group project was quite annoying. It is dragged out pretty much the entire semester with several checkpoints and written reports. The final project experience heavily depends on how productive your teammates are. Overall, Diker is a solid professor and this is an interesting class!",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2024-12-03T18:26:58.439824Z"
+    },
+    {
+      "professor": "Iskander Lou",
+      "course": "INST327",
+      "review": "Took it over the summer and could of never passed this class without his very helpful videos. He also grades on time which is very nice as a student.The class like every summer classes moved like a fever dream, but his organized class structures made a clear pathway. \r\nOverall take him",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2024-12-25T19:57:41.876676Z"
+    },
+    {
+      "professor": "Pamela Duffy",
+      "course": "INST327",
+      "review": "Professor Duffy does a great job making the material easy to understand. The assignments are very educational and really reinforce what you learn. This class focuses heavily on SQL and isn\u2019t too difficult if you stay on top of things. To succeed, make sure to watch the lecture videos, complete the quizzes before class, and follow along with the in-class code examples and skeleton files provided. Don\u2019t hesitate to ask for help in ELMS or Piazza. Both the TA's and professors are very supportive. Additionally, shoutout to TA Angela! She is amazing and very knowledgeable, and explains concepts clearly. Each discussion is mandatory, and we start with 15 minutes to try the lab exercises on our own. After that, the TA walks through them step by step, which is super helpful. Additionally, there is a semester-long database design project. Make sure to pick a good group within your class section early on, or you\u2019ll be placed randomly. Some parts of the project require meeting up and working on the same device, so it\u2019s important to have a cooperative group. The project can get challenging if group members don\u2019t pull their weight.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-05-01T17:57:17.940228Z"
+    },
+    {
+      "professor": "Pamela Duffy",
+      "course": "INST327",
+      "review": "I'm not entirely sure as to why Professor Duffy has good reviews. She is such a boring professor. All she does is reads off slides, and speaks in such a monotone manner. Her lectures are not interesting and simply mimic what is spoken in the video quizzes. I preferred Professor Diker over her, but unfortunately, she teaches most of the course. She put more effort into reporting half the class for being in a GroupMe than to ensuring her lessons are engaging. If you are able to, do not take Professor Duffy for this class. She's not worth the mental and academic stress.",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2025-05-02T15:16:53.271210Z"
+    },
+    {
+      "professor": "Pamela Duffy",
+      "course": "INST327",
+      "review": "Horrendous teacher, don't get how she is 4.3 stars. I took her because I got a recommendation from a friend, as well as the good PlanetTerp reviews. She creates a GroupMe for the class, then accuses half the class for cheating because we asked questions in it? I stopped going to lecture but she tries to make jokes mid lecture and all of them are bricks. Although she knows the material and can somewhat teach, she's just miserable to have, just find a better professor (not hard). She needs to wrap it up at this point",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2025-05-09T00:33:06.648921Z"
+    },
+    {
+      "professor": "Pamela Duffy",
+      "course": "INST327",
+      "review": "There\u2019s one required discussion, optional lectures (in my opinion), and a semester-long project. Most of the work is asynchronous, so it\u2019s pretty manageable. I actually liked the assignments, they\u2019re straightforward and teach you exactly what you need to know. You don\u2019t interact with the professors much (there are two), but Professor Duffy stands out as super understanding and clear about expectations. She\u2019s chill, and overall I enjoyed the class.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-13T00:00:04.657302Z"
+    },
+    {
+      "professor": "Pamela Duffy",
+      "course": "INST327",
+      "review": "I feel upset because Professor Duffy is overall a kind person and not a horrible teacher. However, that being said, it felt like she was really unresponsive to elms messages (her preferred communication) and had poor communication with not only her students but her TAs as well. I was thankful to have a wonderful discussion TA to help me during this class. As someone said too, there was a big academic dishonesty case in the class, and I was a part of it simply for being in the group chat. I do not blame her for what had happened, but I do feel a little bitter over the fact I begged for help and had such bad communication to resolve the matter. Other than that, I did enjoy the textbook and think it is an easy read for the class. PLEASE pick people who have good work ethics for the group project, I am very thankful I had such kind and hardworking teammates, it makes the class way more enjoyable.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-05-13T18:46:08.990830Z"
+    },
+    {
+      "professor": "Pamela Duffy",
+      "course": "INST327",
+      "review": "Words cannot describe the annoyance and anger I feel towards her. From her dismissive attitude when it came to answering students questions to her reporting nearly half the cohort simply for being in a GroupMe, Professor Duffy does not live up to the reviews on here. Her teaching is bland, she simply reads off of the slides, and she makes no effort to get her students involved. Her extra video quizzes mimic what she teaches in class, so there's no point in showing up to her lectures. She puts in more effort in reporting students for useless things than into ensuring that her students are engaged and understand how to use SQL. I also never forget how she sent everyone into a frenzy because she decided to add a disallowed term last minute without notifying anyone, then hiding her hands when called out on it. I hope that I never have to cross paths with her again. It's unfortunate that she's practically the only professor that teaches this course, I can't even say not to take her.",
+      "rating": 2,
+      "expected_grade": "C-",
+      "created": "2025-05-16T01:12:17.282006Z"
+    },
+    {
+      "professor": "Pamela Duffy",
+      "course": "INST327",
+      "review": "What a terrible professor. Grading sucks, takes too long to respond to emails, brick jokes, I could go on. I wish I didn't take a chance on her from these reviews. Diker is a better teacher than her, but we didn't see him as much as we saw her. Misplaced priorites with her whole investigation bs she put half the class through. And to the TA Angela, you equally suck because of the audacity to say half the class was cheating when we literally had gotten a warning/reminder so for you to still insist people were cheating, you genuinely suck. Anyways, I wish professor Diker taught the class more than her, he was better at explaining even if he went over class time by a few minutes.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2025-05-19T20:40:15.401078Z"
+    },
+    {
+      "professor": "Pamela Duffy",
+      "course": "INST327",
+      "review": "If i could give her 0 stars, I would. She is by far the worst Professor I have had these past 3 years. The reviews on here are the complete opposite of what she is truly like as a Professor. She reported over 50 students to the code of conduct for a group me that was created by HER TA. She has an awful attitude and an extreme condescending tone when you try to talk to her about anything. I have sent her several ELMS messages (her main form of communication) and she has responded to 0. She will change up the instructions for assignments and add/remove disallowed keywords AFTER the due date of the assignment has passed just because AI uses those keywords EVEN THO, they are taught in the textbook. Everything in the class is very strict and honestly even her class TA's have an attitude, especially Hanna. She claims that this class is \"co-taught\" by her and Professor Diker, however, he was only there for a few lecture lessons and it seems like she was the big boss in charge of everything. Avoid her at all costs for your own sanity. She is in no way fit for teaching.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-05-20T17:10:40.343732Z"
+    },
+    {
+      "professor": "Pamela Duffy",
+      "course": "INST327",
+      "review": "Absolutely terrible experience. Hannah, the TA, was consistently rude and dismissive\u2014interrupting students mid-sentence and making it feel like asking questions was a burden. She clearly shouldn\u2019t be in a teaching role. As for Professor Duffy, she seemed completely checked out. Grading took forever, and she even told us not to reach out to her directly\u2014everything had to go through Hannah first, which only made things worse. The whole setup felt disorganized and honestly disrespectful to students. It seemed like they were more interested in power-tripping than actually helping us learn.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2025-05-21T13:06:04.304546Z"
+    },
+    {
+      "professor": "Pamela Duffy",
+      "course": "INST327",
+      "review": "PLEASE AVOID TAKING HER AT ALL COSTS!!! The class could have been more productive and fun if it hadn't been for the sudden investigation that put most students into a frantic state. I still don't understand why we can't ask questions or get help from elsewhere. Not only would this make the class hard, but it also restricts us from learning more about SQL. Luckily, I was not accused of the scandal, but I did see a couple of my friends crashing and crying their eyes out because of the incident, which I feel pity for them considering how intelligent and open-minded they are compared to me. How can I forget about the last-minute announcement of a change, when most of us have turned in the assignment. The restriction was established due to her paranoia about students using AI. \r\n\r\nLuckily, I made friends with the people in my discussion group, and my discussion TA was helpful and would try to assist at all costs. If the TA had a profile, I would give him a 5-star rating. As for Professor Duffy, if you're taking her next semester or any semester, good luck because you need it!\r\n\r\nP.S.: She also teaches a 400-level class. Do as you wish with this information.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2025-05-23T02:07:27.264585Z"
+    },
+    {
+      "professor": "Vedat Diker",
+      "course": "INST327",
+      "review": "He only lectured a couple times but I thought he was a pretty average lecturer but I did interact with him a bit and I can say that he is a super nice guy and was understanding of the entire groupme/ai cheating thing, at least in my case.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2025-06-05T20:21:03.526036Z"
+    },
+    {
+      "professor": "Pamela Duffy",
+      "course": "INST327",
+      "review": "DO NOT TAKE THIS CLASS!! As others have said assignment instructions were confusing and inconsistent. They would change on a whim with little to no prior notice and send half the class into a frenzy on disallowed terms (which were literally taught in the textbook). And, as everyone else has also mentioned she took the time to report half the class for cheating which severely impacted my mental health last semester. Imagine worry about your academics and then all of a sudden being accused of cheating (which i didn\u2019t do and was eventually cleared of) which puts you into a 2 month long limbo period. That was easily the most stressful point in my life and I\u2019m sure other students who also did nothing felt the same.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2025-07-07T20:41:35.944696Z"
+    },
+    {
+      "professor": "Iskander Lou",
+      "course": "INST327",
+      "review": "Really chill guy and an easy class overall. Just put the time in to understand SQL and you'll breeze through his assignments and labs. They're easy. I stopped going to lecture after a few weeks since I can look at his lecture notes/videos and refer to the textbook. The group project isn't difficult by any means but just hope to have good group members. I highly recommend him.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-05T01:53:14.112741Z"
+    },
+    {
+      "professor": "Iskander Lou",
+      "course": "INST327",
+      "review": "The class is fine. You can't go wrong with taking him, but there's also nothing really crazy to say about him. The TAs are a little too harsh on grading, but that's in part due to his rubric.\r\n\r\nYou don't end up learning much databases; things are easy enough to just not go to lecture and learn off the videos in a few hours. Seems pleasant, though!",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2025-12-05T16:26:37.955323Z"
+    },
+    {
+      "professor": "Iskander Lou",
+      "course": "INST327",
+      "review": "Highly recommend taking him. Fantastic professor with good presentation. Lectures were more organized than before.\r\n\r\nMake sure you have solid group members for your project so you can get stuff done on time. Labs and general absence policies were very laid-back, you can practically take this class from home if you can. TAs can be a little frustrating in general, but other than that this class is generally easy mode. Definitely prepare to teach yourself mySQL for some assignments.\r\n\r\nAlso personal advice: highly recommend putting the project you do for this course on your resume if you're pursuing any internships. It helps a lot.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-19T02:05:10.702030Z"
+    },
+    {
+      "professor": "Iskander Lou",
+      "course": "INST327",
+      "review": "A really easy class, but not an understanding instructor and definitely not passionate about what he teaches. For the final project my group had all parts of the final graded as a 100%, but we did not submit it the way he wanted and he failed our project anyways. Any attempt to discuss our misunderstanding was met with a cold and rude email. Basically told us to stop talking to him and had us email advising instead. Overall really unprofessional and does not care about his students outside of his paycheck.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-12-23T15:22:28.266700Z"
+    },
+    {
+      "professor": "Pamela Duffy",
+      "course": "INST327",
+      "review": "If you want to succeed and actually learn, DO NOT take her class. It's one thing to know what you're doing but its another thing to be able to teach it. She reported an entire class of 50+ people for cheating just because they discussed an assignment in a gc the TA made and she wouldn't even talk about it or answer any emails regarding it. I was accused of it and got a letter grade penalty even though the assignment nor syllabus stated you can't discuss assignments especially since literally every aspect of the class is based on collaboration. She's extremely arrogant and talks very slow. The TA's are also not fit for teaching this class. They are rude, inconsiderate and look down on you for asking questions. Avoid her for your own peace of mind, legit the worst class I've taken.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2026-02-26T18:43:06.854946Z"
+    },
+    {
+      "professor": "Iskander Lou",
+      "course": "INST327",
+      "review": "Easy class, the professor always cared about his students, and he was quick in responding to the questions I had. His classes were pretty good, where we went through different databases learning new content. Some of the databases were chosen by us which made it more engaging.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2026-03-26T20:21:25.128532Z"
+    },
+    {
+      "professor": "Pamela Duffy",
+      "course": "INST327",
+      "review": "easy class. no exams, only projects. there is a group project for the final. never showed up to lecture because u learn from the ta's because u learn from them basically. attendance is only mandatory for discussion. she gives you multiple opportunities for extra credit. i ended the class with a 103%",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2026-04-10T03:47:24.346120Z"
+    }
+  ],
+  "department": "INST",
+  "course_number": "327",
+  "name": "INST327",
+  "title": "Database Design and Modeling",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> Minimum grade of C- in INST126.\n<b>Restriction:</b> Must be in the Information Science program.\n<b>Credit only granted for:</b> INST327 or BMGT402.\nIntroduction to databases, the relational model, entity-relationship diagrams, user-oriented database design and normalization, and Structured Query Language (SQL). Through labs, tests, and a project, students develop both theoretical and practical knowledge of relational database systems.",
+  "is_recent": true,
+  "geneds": null
+}

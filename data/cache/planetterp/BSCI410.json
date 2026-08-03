@@ -1,0 +1,1023 @@
+{
+  "average_gpa": 3.233736634777715,
+  "professors": [
+    "Jian Wang",
+    "Stephen Mount",
+    "Caren Chang",
+    "Leslie Pick",
+    "Zhongchi Liu",
+    "Ryan Marcheschi",
+    "Louisa Wu",
+    "Vera Stupina",
+    "Stephen Mount",
+    "Louisa Wu",
+    "Stephen Mount",
+    "Louisa Wu",
+    "Stephen Mount",
+    "Louisa Wu",
+    "Louisa Wu",
+    "Charles Seller"
+  ],
+  "reviews": [
+    {
+      "professor": "Caren Chang",
+      "course": "BSCI410",
+      "review": "Took BSCI410 with her and professor Mount. Her lectures were a lot more clear and easier to understand than Prof. Mount's. She doesn't make them the most interesting but if you try to follow her you will understand. The exam she was in charge of was significantly easier than Prof. Mount's. I preferred her lecture a lot more. But the class itself was not very good. I did not feel like I learned much and the final was unfair. ",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2010-12-24T16:44:00Z"
+    },
+    {
+      "professor": "Zhongchi Liu",
+      "course": "BSCI410",
+      "review": "When I took this course Spring 2016, it was split between Dr. Liu and Dr. Wu teaching it. Dr. Liu taught the first half of the course, and I by far thought she was the better professor (not quite Dr. Wu\u2019s fault though, it was her first time teaching.) Dr. Liu can be a little bit hard to understand sometimes, but she really does mean well. I went to office hours a few times and she was very helpful. I hear the other molecular genetics profs aren't that great, so Dr. Liu might be your best bet. She was pretty generous in letting us drop one of the two midterms, and she drops a few of the lowest clicker questions. It\u2019s clear she wants her students to do well. I managed to pull off an A- and genetics definitely doesn\u2019t come naturally to me.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2016-06-01T21:00:00Z"
+    },
+    {
+      "professor": "Zhongchi Liu",
+      "course": "BSCI410",
+      "review": "Dr. Liu is super nice! She held homework help sessions and reviews before the exams. The homework questions weren't too bad. The exams were fairly easy but tended to run pretty long. Overall, the material covered in class was interesting, but not unbearably hard. The first half of it was a rehash of BSCI222, while the second half presented newer techniques and discoveries. A lot of it would be something you would hear in a biochemistry class.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2014-05-30T12:40:00Z"
+    },
+    {
+      "professor": "Zhongchi Liu",
+      "course": "BSCI410",
+      "review": "She is very very nice and kind ^_^",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2011-05-22T03:07:00Z"
+    },
+    {
+      "professor": "Zhongchi Liu",
+      "course": "BSCI410",
+      "review": "If you read the book, and pay attention to class, then it would be easy.\n\r\nExams were easy,.. HW can be confusing, but she holds hw session to help students out.\n\r\nShe is very very nice. \n\r\nI highly recommend her!",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2010-11-01T21:48:00Z"
+    },
+    {
+      "professor": "Zhongchi Liu",
+      "course": "BSCI410",
+      "review": "The class itself, at least when Dr. Liu taught, was pretty much a repeat of BSCI222.  We did go a little bit more into modern technologies and recent discoveries though.  Dr. Liu also likes to talk about her research, which is interesting at first but sometimes over our heads.\n\r\nOnly 2 tests and a final, and we got to drop one of the tests (not the final).  Also had a few homework assignments (taking about 2 hours each to complete).",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2007-11-05T17:45:00Z"
+    },
+    {
+      "professor": "Leslie Pick",
+      "course": "BSCI410",
+      "review": "She is really nice. probably one of the best professors I have ever had. I got a B in the class though, because her multiple choice questions were tough. However, she truly care about her student and curves at the end. ",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2015-12-19T20:02:00Z"
+    },
+    {
+      "professor": "Leslie Pick",
+      "course": "BSCI410",
+      "review": "I second the review below; Dr. Pick is a fantastic professor who actually cares about her students understanding the material. This class is definitely a step above BSCI222 and the homeworks can be challenging. Whatever you do, make sure you go to office hours, she is very helpful there. The difficulty of the exams is what you would expect and the exams are fair (not to mention you get to drop your lowest midterm). Also, her tests are heavily problem-based so make sure that you do ALL of the practice problems she assigns. The only real downside is that she goes really fast in lecture (~60-70 slides in 75 minutes) so not only is there a lot of material, but it is also difficult to keep up with it. If you have to choose between Dr. Pick and Dr. Mount, from what I've heard, you have to be foolish to choose Mount. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2015-05-20T13:52:00Z"
+    },
+    {
+      "professor": "Leslie Pick",
+      "course": "BSCI410",
+      "review": "Dr. Pick is an amazing professor. In the upper level bios its pretty hard to find a professor who actually wants their students to learn and doesn't just go through the motions in order to do research. This is pretty difficult genetics but she really tries her best to help you to understand. She gives you 3 homeworks and 2 midterms but only your higher grade midterm counts so the class isn't based purely off of exams. She also really considers peoples answers other than the ones she originally thought of in the answer key. If what you say makes sense she will mark you right. Honestly though her lectures are purely based on her slides so going to class isn't quite as mandatory as others. She's also a really nice person so stopping by for office hours is recommended if you don't understand something because she'll really try to help you to understand. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2011-05-19T13:03:00Z"
+    },
+    {
+      "professor": "Byrn Quimby",
+      "course": "BSCI410",
+      "review": "Good professor, exams were fair, nothing to complain about, she kept me engaged and was able to bring in alot of current information into her lectures.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2010-03-26T19:10:00Z"
+    },
+    {
+      "professor": "Byrn Quimby",
+      "course": "BSCI410",
+      "review": "I thought she was a great lecturer. She had a nice personality and wasn't just boringly standing there talking. I have no complaints about the exams. They are EXACTLY what you would expect from entirely multiple choice exams. I'm very happy that there weren't any short answer questions on them.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2009-12-23T15:20:00Z"
+    },
+    {
+      "professor": "Byrn Quimby",
+      "course": "BSCI410",
+      "review": "Dr. Quimby tries very hard but she is not a good lecturer. The material in class was covered less in depth than in 222. The exam questions were randomly taken from textbooks and did not correlate to the class material. The questions where also very tricky. Take any other professor for this class if you can. It may even be worth it to wait a semester. She knows very little chemistry which makes her a poor MOLECULAR genetics teacher.  ",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2009-12-20T20:28:00Z"
+    },
+    {
+      "professor": "Byrn Quimby",
+      "course": "BSCI410",
+      "review": "Dr. Quimby was a very engaging professor I thought. She gave a decent amount of work if you consider the level of the class. She was very helpful and very approachable. The class generally curves the borderlines. I guess the only students are on here because they are looking for an easy way to get by, which won't help if you plan to take any of the 400 levels and to go on to the Medical school. So work hard now and you will be rewarded for the infinity because you won't get by when you're at the medical schools. \n",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2009-12-17T15:52:00Z"
+    },
+    {
+      "professor": "Byrn Quimby",
+      "course": "BSCI410",
+      "review": "She's not a good lecturer.  She often makes a LOT of mistakes during lecture which really makes it confusing.  Her exams are VERY specific; all of ours were multiple choice because it would have taken \"too long to grade 100 written exams\" as she said.  They were really tricky and a lot of the questions were arguable but her reply was always \"but this one is the BEST answer.\"  I personally don't like answers like that.\n\r\nThe class itself is a lot more work than I had initially thought.  We had online quizzes due every week, in-class mandatory clicker points, and 3 major assignments throughout the course of the semester.  The assignments took me a while but they were graded fairly.  We had 3 exams, and it was spectacular the amount of information we were expected to know for each.  \n\r\nThe class is very interesting.  She is very passionate about the material and tries to be engaging.  She goes in to a lot of detail about molecular genetics and in doing so really expects you to know your stuff from 222. If you take this class, my advice is to read the book.  She takes a lot of exam questions from the book.  Go to class and take notes religiously; one of her little tidbits might end up on the exam.  Go to office hours; generally, she's ready and willing to answer any question you have.  \n\r\nOh yea, and do the extra credit.  I think that's the only reason I got a B.  ",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2009-12-15T13:10:00Z"
+    },
+    {
+      "professor": "Byrn Quimby",
+      "course": "BSCI410",
+      "review": "Unfortunately, Dr. Quimby is really not a good lecturer. She is not engaging (although you can tell she tries to be), and her exams focus more on remembering random insignificant facts than on understanding the concepts of the course. If you have a chance to take Molecular Genetics with any other professor, do so. ",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2009-08-26T14:00:00Z"
+    },
+    {
+      "professor": "Byrn Quimby",
+      "course": "BSCI410",
+      "review": "This is the worst professor i have ever had in my life. She can't teach and all you do is watch animations or videos and she does not explain anything. She also reds off the slide. SHE IS HORRIBLE ",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2008-04-11T01:16:00Z"
+    },
+    {
+      "professor": "Stephen Mount",
+      "course": "BSCI410",
+      "review": "I took it as a blended learning class, and it turned out to be much harder than I anticipated. There is A LOT of online material, and the in-class lectures once a week were not very helpful. Dr. Mount does not really go into the stuff that he expects us to know for the exams. I did bad on the first two exams, but still ended up with a good grade because I did well on the last exam and the final. The good thing is that he normalizes all the exams to a mean of 80 and drops the worst exam. From personal experience, Mount is understanding and nice, but he is not a very effective at explaining the material. Or maybe, this class is not suitable for blended learning since it is so technical.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2013-05-19T21:23:00Z"
+    },
+    {
+      "professor": "Stephen Mount",
+      "course": "BSCI410",
+      "review": "Prof. Mount himself is not the world's most engaging lecturer. I had the blended learning version so I just had class one day a week and was given video lectures to watch for the other day. You can watch the lectures whenever (or never, though it's a good idea to look them over before exams).\n\r\nWeekly quizzes that I'd often forget to do until the day after the due date. Oops. Oh well, they're not too difficult anyway. You get a bunch of attempts so you can just brute force your way to a good grade on them.\n\r\nThe material varies from interesting genetic lab techniques to Mendelian genetics on steroids. The latter is far less interesting and often surprisingly complex. The textbook is extremely helpful here. Advanced Genetic Analysis by Meneely is a lifesaver. The Hartwell Genetics book had its moments but I used far less frequently.\n\r\nLowest of 3 exams is dropped. Each exam is curved pretty generously as well. \n\r\nNot a hard course, but be prepared to study a bit. Look over his old exams he posts on his website because reused questions are common. Fill out the study guides he posts on a Google doc (or print one off that's been completed and learn from that) and you'll probably be okay.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2013-05-19T20:09:00Z"
+    },
+    {
+      "professor": "Stephen Mount",
+      "course": "BSCI410",
+      "review": "If he teaches this as a blended learning class again, don't take it. He's not terribly difficult, but he doesn't teach at all! Lectures are rather useless, and the online lectures are poorly constructed (pauses, ums, even audible yawns). I learned more from my peers in the days before exams than from him in any format of lecture. Study guides frequently had questions that covered material that wasn't addressed in quizzes or lectures! He didn't proofread one of our exams and ended up having to add 16 points onto everyone's exam grade before curving them because the questions were impossible to answer with the given information. I don't really feel as if I learned anything new in this class that I didn't know from 222 already, just glancing information about some new genetic analysis techniques.\n\r\nThere are a few positives: he normalizes everything to an 80%, 88% is the A-/B+ line, and he'll either drop your lowest midterm or make the exam only 20% of your final grade (as opposed to 80%). And then he normalizes again at the end of the class so you get the highest grade out of those normalizations (or so he claims).\n\r\nOverall, not impressed. If you actually want to learn, I hear the other professors are pretty good.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2013-05-13T18:15:00Z"
+    },
+    {
+      "professor": "Stephen Mount",
+      "course": "BSCI410",
+      "review": "do not take this class with mount. i heard this class is much better in the fall with the other 2 professors\r\nmount is a horrible professor but getting a good grade in the class isn't too hard if you do above average and he curves a lot depending on class averages",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2012-06-08T01:27:00Z"
+    },
+    {
+      "professor": "Stephen Mount",
+      "course": "BSCI410",
+      "review": "Fell alseep in his class whenever he lectured. He just didn't make the material very clear and went through the material way too fast. The homeworks are doable but takes a lot of time if you don't follow what he is saying in class.\r\nhis lecturing style is very boring making it hard to pay attention to. and even when i tried i couldn't understand the concepts very well. he teaches with facts instead of trying to help you understand the mechanisms... and his final was very unfair. changed the entired format compared with the previous exams...",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2010-12-23T18:08:00Z"
+    },
+    {
+      "professor": "Stephen Mount",
+      "course": "BSCI410",
+      "review": "Dr. Mount really knows his molecular genetics. The course consists of very up-to-date information, and was fascinating to learn. Grading is very fair and it's possible for lots of people to get A's. \n\r\nHowever, lectures can consist of over a 100 slides, which makes taking in the information like drinking from a fire hose. He also expects a strong background from BSCI222. Old tests are posted online, but he stresses not to go strictly by them. I suggest going to lecture, reading the book (though it is a lot), and going over the past exams. If you don't understand something on the old exams, make sure you study that concept as well as any related concept, since it's usually a slight variation from previous years that end up appearing on the exam. ",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2008-04-30T17:58:00Z"
+    },
+    {
+      "professor": "Stephen Mount",
+      "course": "BSCI410",
+      "review": "The content of the course was disorganized in my opinion. It was really hard to group the second half of the course in a category. He does not follow the order of the chapters in the book.\n\r\nMount as a teacher goes real fast in sometimes will not explain things clearly. Eventually the material gets so complicated you just tune out. \n\r\nPros: He normalize all averages to 80% so one time i actually got a 70 and the average was a 66 and my grade ended up being an 84.8. An A ended up being around 83 so just be a little higher than the average. Drops the lowest exam and hw\n\r\nCons: His homeworks are extremely hard. You always need to send him emails and go to his office hours just to get slightly closer to solving them. He says they are two notches higher than the hw you get from BSCI222 but its impossible. luckily he curves this impossible to 80% also.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2007-12-17T21:48:00Z"
+    },
+    {
+      "professor": "Stephen Mount",
+      "course": "BSCI410",
+      "review": "Not a bad teacher, strong, relevant, up to date genetics information, but he should make tapes for insomniacs - his voice will put you to sleep immediately if you forget your morning coffee. \r\nHe gives you access to slides and internet information before lectures, has a crazy curve and does pretty good study guides before exams. He also posts old exams, which are very similar to current ones.  ",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2007-10-24T20:09:00Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "She curves a lot!",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2019-05-22T06:22:50Z"
+    },
+    {
+      "professor": "Stephen Mount",
+      "course": "BSCI410",
+      "review": "Stephen Mount is a mediocre *at-best* professor. While clearly brilliant with regards to his knowledge of genetics and biology as a whole, his poor public speaking/course design abilities severely damage his ability to teach. Content is disorganized; there is not clear architecture to what students are expected to learn and lectures take frequent roundabout tangents that are seemingly unrelated to course material. Ambiguous about grading --> literally does not communicate how he will assign grades. Gave a vague comment about how he matches exam grades to fit a certain standard deviation, but said he assigns letter grades based off how he \"feels the class did as a whole\". Doesn't have office hours and frequently ignores raised hands. Overall, the class is not too difficult, but teaching seems to be far outside of the abilities Stephen Mount has been given as a scientist.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2019-11-08T17:30:31Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "She was an amazing professor for BSCI410. \r\n\r\nShe was able to easily communicate the topics of the class and go into detail during her lessons. At times she does tend to talk very quickly but if you ask she will always slow down and re explain anything you don't understand. She is very approachable after class and during office hours to go over anything that you didn't understand during class.\r\n\r\nShe also curves a lot and gives back points when she feels that they are deserved and she made a mistake or did not communicate something to the full extent.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2020-01-29T02:42:03Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "This is a very interesting class and Dr. Wu is a great teacher. I went to her office for homework help a few times and she was very helpful and explained my questions well. The course is difficult and there is a lot of material but Dr. Wu presents the information in an interesting way. She really wants all of her students to succeed and was always willing to help when I had questions. I would definitely recommend taking this course with Dr. Wu.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2020-05-11T15:29:52Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Dr. Wu is a really nice professor and very friendly to approach. Lectures can be dense but you can always ask questions if you're confused. She does offer some ec opportunities which really help. Studying and making sure you know the material before the exam is very important even though exams are open book. She offers lenient grade cut offs at the end of the semester curving your grade a bit! Really nice professor!",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2020-05-29T15:19:09Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Dr. Wu is a caring professor who is very approachable. I found office hours to be very helpful. Lectures can be dense and fast sometimes, but they are recorded, so you can always review. And again, Dr. Wu is always there for questions. The tests are open note, but you should study just like any other test. Her tests are heavy on application but are fair. ",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2020-06-10T02:36:09Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Dr. Wu is my absolute favorite professor at UMD. I've never met a professor so kind! She really cares for her students and wants them to do well. She was always accessible outside class and she creates an environment where it's so easy to ask questions! Three exams offered, but one is dropped. Difficulty is on par with other upper-level bios.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2020-11-17T04:13:26Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Dr. Wu is a good professor and actually wants her students to succeed and understand the material. Her lectures are sometimes difficult to understand ( it is a tough topic overall), but she is very helpful during in-office hours. She is really nice, but to get a good grade, you really need to know how to apply the material. Dr. Wu is always reachable and is willing to help you understand the material at hand. She is caring about her students and also really want them to understand the material at hand. It is a hard class so you need to understand the material and be able to apply it to her assignments she gives out (HW and Exams). Overall Dr. Wu is a good professor.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2020-12-27T00:34:44Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Dr. Wu is a phenomenal lecturer but most importantly a kind person. This course can definitely be a challenge, as it was for me, but Dr. Wu made sure I stuck with it and did my very best. She even requested a 1-on-1 with me when I failed the first exam to better help me. There were three exams, lowest score was dropped, and the final was optional!",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2021-01-21T22:11:28Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Dr. Wu is definitely my favorite professor so far- she goes out of her way to make herself super accessible for office hours (which were moved to Zoom) because she really cares about her students. The information is definitely not easy but she doesn't expect you to memorize facts- as long as you get general mechanisms/concepts down you should be good. Her exams are really similar to her homeworks which makes studying a little easier. But there is a good amount of work in this class (clickers (basically participation), mini short answer questions, quizzes, homeworks, and exams) so definitely NOT an easy A. But if you're willing to put in the effort and watch the lectures and go to office hours, you're in good shape to do well.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-01-22T18:15:17Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Dr. Wu is a very nice, friendly lady and a great professor! The material may seem overwhelming at first but she is very accessible outside the classroom. She also does give open note exams sometimes. Do the homework as this will boost your grade. Participating in class gets you on her good side. Class is difficult just because the material is dense but she does a great job teaching it! would take her again ",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2021-03-17T21:31:38Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "I have taken BSCI410 with her, and I cannot tell how bad it was. She has no idea what she is teaching- slides are not organized and you have to read the textbook in order to understand something in her class. Some materials that we have learned from previous courses, she teaches in a way that you get confused, and in the middle of the lecture, every 5 min she says, I believe, I think, I am not sure.....then why do you teach this course? Homeworks are from articles, and much beyond the materials, you learn. The deadlines are crazy- no fixed deadlines for this class- you need to hire someone just to keep track of the deadlines in this class. The worst class in UMD. My GPA is 3.9 and this class makes no sense to me. Good luck! if you care about your grades or you want to learn something! don't take her.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2021-04-12T00:04:40Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "The class was one of the most interesting upper level bio classes I've taken and I enjoyed having Dr. Wu as the professor. It's not an easy class (as one would expect for a 400 level), but she truly wants her students to succeed and offers plenty of chances to boost your grade through clickers, short quizzes, homeworks, extra credit, and even dropping your lowest scores. Dr. Wu is very knowledgeable about the content and super helpful at her office hours, as even a simple 5 minute conversation with her on several instances greatly improved my understanding of the more difficult concepts. Take it from someone who got a better grade in this class than BSCI222 when I say that I honestly think Dr. Wu gives everyone a fair shot to earn an A if you are willing to work for it.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-05-13T21:11:47Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "I absolutely love Dr. Wu! She is by far the sweetest professor I've had so far at UMD and she's very knowledgeable about her field. Genetics is one of my favorite subjects, so I was heavily inclined to take this class and I'm really glad I did! Having said that, I will say though that the material for this class (and generally speaking for BSCI410) can be fairly difficult to understand initially - if genetics isn't one of your strongest areas, I'd recommend reviewing a bit beforehand as a refresher on the content! Personally, I struggled a bit with the material at first since a lot of new concepts/techniques were discussed, but Dr. Wu helped clarify/answer so many of questions at office hours and on piazza - so my advice: TAKE ADVANTAGE OF THOSE OFFICE HOURS and ask as many questions as you need until you understand the concepts. The homeworks and exams are challenging to do, but they really test on your understanding of the material rather than just straight up memorizing facts and numbers. You can drop an exam, a hw, and a few quizzes. She offers a bit of a curve (one of the few professors to do so in a 400 level biology course) and extra credit opportunities, so if your grade isn't in the best spot rn, don't panic :) It's not an easy course, but it's DEFINITELY possible to get a good grade. TLDR: HIGHLY recommend Dr. Wu, but you really need to study and put in the effort if you want an A.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-05-15T01:30:14Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Dr. Wu was a really nice person, but her teaching can be kinda confusing at times. You definitely need to review the course material again after class or read the textbook to fully understand everything. You can get an A in this class, but you will need to work for it. It is not an easy A by any means. She gives a lot of extra credit opportunities and little assignments that can boost your grade. Going to office hours really helped me to clear up some of the confusion I had during lecture and Dr. Wu was always welcoming and willing to help during office hours. I struggled in the beginning of the class, but I really enjoyed it by the end.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2021-05-15T20:25:22Z"
+    },
+    {
+      "professor": "Vera Stupina",
+      "course": "BSCI410",
+      "review": "Knows her stuff but has a very rushed, hard to understand lecture style",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2021-05-18T01:39:49Z"
+    },
+    {
+      "professor": "Zhongchi Liu",
+      "course": "BSCI410",
+      "review": "Dr. Liu was very sweet and overall a really great professor. Her lectures, homeworks, and exams never got too difficult or took up too much time. (Almost too easy...) She could explain concepts fairly well. She made time for her students, holding many office hours. I did not think there was much of a language barrier. I would recommend her for BSCI410 to anyone in the future. ",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2021-05-18T07:49:05Z"
+    },
+    {
+      "professor": "Vera Stupina",
+      "course": "BSCI410",
+      "review": "Dr. Stupina was very knowledgeable and overall a good professor. Her lectures were very dense, but she was happy to review concepts in office hours. Her homeworks and exams were not too hard. I did not think there was a language barrier. I would recommend her for BSCI410, but I would suggest previewing the lecture slides ahead of each class.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2021-05-18T07:53:36Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Dr. Wu is so caring and makes herself available through office hours and Piazza. The material can be difficult so definitely take advantage of office hours and the textbook. She also offers extra credit and just generally wants you to succeed. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-05-20T04:49:50Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Dr. Wu is a super caring professor and tries really hard not to overextend material onto her students esp in how a tough a time the pandemic has been. Her wording during lectures can be a little confusing at times, but for a 400-level professor she's extremely available and makes it easy for students to ask questions during office hours and before and after class to clarify material. The material at the beginning can be kind of dense, but she gives a lot of extra credit opportunities (which involve fun real world applications) to boost up your grade. It's definitely not easy material, but Dr. Wu does her best to make it relatively easy to get a good grade.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-05-22T17:32:50Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Dr. Wu is such a caring person and she is one of my favorite profs at UMD. BSCI410 can be challenging in terms of content, but Dr. Wu does a lot to help students do their best. Lecture slides are posted and lectures were recorded, which made exam review a lot easier. Dr. Wu can go quite fast in class, so watching the recordings helped me go back and re-listen to different slides. Also, Dr. Wu is really great at answering questions in office hours or over email. Also, there are a few extra credit opportunities that I highly suggest taking advantage of because they really helped me in the end. Overall, if you study hard, ask questions in office hours, and do the extra credit, you can get an A in BSCI410.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-06-11T20:08:17Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Dr. Wu is a very caring person and the most willing to help professor that Ive had so far at UMD. The content in BSCI410 was challenging but her putting up the notes on ELMS helped alot and there was plenty of office hours. Her and the TAs respond to emails very fast so its easy to get help on content/ HW when you are stuck. When I took it online you were able to go back and rewatch lectures which was definitely a positive. She offers extra credit for group work and other assignments and is very transparent in how the grading is done in the class. Make sure that if you have questions, ask Dr. Wu or the TAs and they will 100% help you anything. I would take this class again.    ",
+      "rating": 5,
+      "expected_grade": "C+",
+      "created": "2021-09-07T20:38:43Z"
+    },
+    {
+      "professor": "Stephen Mount",
+      "course": "BSCI410",
+      "review": "The definition of incredibly smart professor with an overly rigorous course. ",
+      "rating": 2,
+      "expected_grade": "W",
+      "created": "2022-01-06T19:28:53Z"
+    },
+    {
+      "professor": "Stephen Mount",
+      "course": "BSCI410",
+      "review": "I took BCHM461 the same semester as this and I thought this class was harder despite Dr.Mount handing out more A's than BCHM461. BSCI410 is very similar to BSCI222 with a bit more detail added in. Dr.Mount is literally one of the most brilliant professors I have encountered at UMD. From the very first class, you can tell by the way he talks that he knows his stuff. However, learning from him is a bit of a challenge. My friends and I joke that he just operates in the 4th dimension while you're only in the 3rd dimension. He is so brilliant and uses so much jargon it can be incredibly difficult to learn from him. At the beginning of the semester, I had a really hard time figuring out how to study for this class because his teaching was really hard to understand. Do not read the textbook, look at(and memorize) the powerpoints! I do not think Dr.Mount is a bad professor or his class is excessively difficult, but you have to kind of learn things on your own. Find a group to study together with before the exam, it'll help a lot. ",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2022-01-13T18:46:35Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Dr. Wu is a great professor! Her lectures can move a bit fast, but if you ever have any questions she is always happy to help. Not only that, she would provide the lecture recordings which was great to rewatch in case you miss any details. When I took the class, the lowest grade out of three exams (two exams and a final) was dropped and she offered extra credit which was a plus. Of course, the class is not super easy since it is an upper level, but if you put in the work and ask questions when you are confused, you should be fine. Overall, I would say it was a great class to take.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-03-14T22:04:38Z"
+    },
+    {
+      "professor": "Zhongchi Liu",
+      "course": "BSCI410",
+      "review": "I really enjoyed taking Dr. Liu's class! Her lectures are easy to understand and she records all of them so you can go back later to review any information you missed, which took a ton of pressure off trying to get everything down in your notes during class. We consistently get out of class 10-20 minutes early and I thought her exams were fair. Her accent is not really an issue at all and she obviously is very knowledgeable about the field. First 1/3 of the semester is basically a rehash of BSCI222 and the rest is about molecular techniques and model organisms, based on what she has told us. Would definitely take her again. ",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2022-03-30T19:52:12Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Dr. Wu is one of the most responsive professors in the bio dept; she responds really quickly (and nicely!) via emails if you ever have a question. The course is pretty content-heavy and you learn a lot in a short amount of time, so office hours and reviewing lecture recordings are recommended. Exams are hard but fair- go to office hours early!",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2022-04-14T21:42:05Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "As long as you attend lectures and keep up with material you should do well in the course. Make sure to review the exam review slides to know what topics will be tested on the exam. Dr. Wu is easy to talk to and very understanding.  If you any questions or concerns she is always willing to help. She also provided lecture recordings in case you missed a lecture or need to go back and review material. I appreciated the extra credit assignments given and the opportunity to drop one exam to help your grade. Overall, I enjoyed taking the course.   ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-04-27T03:47:40Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Dr. Wu is kind, patient and cares about the success of her students. Go to lecture, review all of the material, attend office hours and you will do well. The homeworks are challenging but help you learn the material. 100% recommend her if you are going to take molecular genetics. Ask for help if you need it, and she will be there. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-05-13T16:34:00Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Dr. Wu is such a nice and caring professor who wants nothing but the best for all of her students! The content was definitely dense but the fact that she offers open note exams, extra credit, and allows you to drop an exam and multiple assignments shows that she really wants us to succeed! Easily my favorite professor during my time at UMD and most of the time we spent talking was about our families, Netflix shows, and how Dune is the best book series ever made (lol). Awesome course with a lot of super interesting information and I definitely recommend Dr. Wu!",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2022-05-13T19:25:51Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Ok, so here's the thing. Louisa Wu is the sweetest nicest person. However. She is a really bad teacher. Every single class she forgets the material that she is teaching and seems to display a lack of understanding on the subject. Quotes such as \"huh, I should have reviewed my slides better,\" or \"I'm pretty sure I explain this in my notes...\" are frequently heard in the classroom while she is unable to recall the material that she is supposed to be teaching. Very often I will leave after class, rewatch the recorded lecture twice and I will still not think it makes sense, because she lacks clarity and organization.\r\nAfter the first exam, I walked out of the classroom entirely unsure of how I did because I felt like I had zero grasp on any of the material. I ended up getting a ~180/200 which was nearly 30 points above the average, which made me wonder: If I had zero grasp on the material, and got that score, then what was wrong with the test? Or maybe the entire class had so little understanding of the material also because of the class. I'm not sure.\r\nAnyway, I feel bad saying this, because she's super nice and accommodating, but she is simply not a good teacher.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2022-05-15T16:58:07Z"
+    },
+    {
+      "professor": "Zhongchi Liu",
+      "course": "BSCI410",
+      "review": "Dr. Liu is nice and her class is very organized and pain-free! The lectures are easy to follow and always recorded and uploaded promptly. The midterms are split into two parts- the in-class written portion and the online multiple choice portion. The multiple choice is online and very easy, stuff straight from the lecture. The in class written portion can be difficult because it is very memorization heavy and there is a lot of information to learn. But, she does drop one midterm if it improves your grade. The homeworks are also easy but maybe one or two questions are a bit of a curveball that involve actually thinking critically lol. The final was pretty difficult but the online part was almost half of the total score, so that made up for it. There are 2 question, 5 points quizzes after each lecture, also very easy but she drops 4 of them for everyone. In the end, I had an 88% with nothing dropped, and I was worried about ending up with an A-. But, once my worst midterm was dropped and 4 of the worst quizzes, I ended up with an A!! \r\n\r\nOtherwise, the material of the class is super relevant to a lot of other fields and you learn a lot. Especially if you work in a lab, this class is great. Super chill class with good averages and helpful professor!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-05-19T20:31:22Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Dr. Wu is a great professor! She encourages learning and critical thinking. Her classes are lectures heavy, however, there are recordings of her lectures you can watch to understand the material more in-depth. She is very understanding and accessible in class if you have homework questions, test questions, or lecture questions. I recommend taking her because she is understanding and you are able to have the proper support/resources to do well in the class. There are also buffer points such as clicker questions, drop an exam, homework assignments, and an extra credit project about current molecular genetic research. 10/10 recommend!",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2022-05-19T22:30:46Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "The material in BSCI410 can definitely be challenging, but Dr. Wu wants her students to succeed and makes herself available to help. She cares that you actually understand the material instead of just memorizing for an exam (exams were open note/open book). There were several opportunities for extra credit and the option to drop the lowest exam score really helped take some pressure off. I appreciated the flexibility she provided, with recorded lectures as a supplemental resource. Dr. Wu was also very receptive to student feedback and suggestions, and overall is a understanding and caring professor :)",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2022-05-22T02:43:28Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Professor Wu was very sweet and accomodating all semester long! She gave extra credit opportunities and posted old lecture videos from a previous semester which I think helped a lot with reviewing! You get to drop one exam and there are a bunch of homework assignments. Overall, great class and a great professor!",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2022-05-23T19:11:14Z"
+    },
+    {
+      "professor": "Stephen Mount",
+      "course": "BSCI410",
+      "review": "This class is an absolute pain. Material on the exams is barely covered. Lecture is incredibly boring. I can't give any tips for success because I got a C.",
+      "rating": 2,
+      "expected_grade": "C",
+      "created": "2022-10-12T22:34:32.175138Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "BSCI410 with Dr. Wu is one of the best upper level biology classes that you can take. Not only is the material interesting and relevant, but Dr. Wu is a great professor. She makes the material accessible by offering ample office hour time and uploading the notes and lecture recordings. She is also a generous grader. She drops several of the assignments, so if you do not do well on one you have several other chances to make it up (she also has extra credit!). Like any bio course, you will have to put your share of the work in, but taking 410 with Dr. Wu is one of the best choices you can make.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-12-28T16:14:04.292507Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "I feel like most of these reviews are very misleading. The review posted on 5/15/2022 is probably the most accurate representation of what this class really is. Is she a nice person? Yes. Is she a good professor? Absolutely not. We've been taking this class for about a month now, and we have unanimously agreed that no one understands what is going on. She is not particularly good at lecturing material in a logical, orderly, and cohesive manner, so by the time lecture is over, you are even more confused than you were at the start. I genuinely have no clue what my grade will be in this class because the first exam was a disaster even though it was open note. That being said, extra credit may be a grade boost, but I cannot say for sure. \r\nI would not recommend you take this class, or at least take it with this professor.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2023-03-04T19:26:41.342938Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "She has all of the good qualities you'd want from a professor: kind, personable, etc. Can she teach? Absolutely not. This is coming from someone who did far better than the average on the first exam. She seriously needs to tidy up her lecture slides and condense the course contents to be more thematic and actually integrate information together. Her class is currently a brain dump of information which is why she probably allows for open notes. Good luck flipping through those 90 pages of notes. Dr. Wu, if you're reading this, I know you have the potential to be a great professor. Please condense your class and make it more thematic and review your slides beforehand, so it's not a bunch \"ums and uh's\". Additionally, have course CONCEPTS not random tidbits of info. If you begin to focus on concepts and actually give many questions surrounding that content, we may actually leave this class with some core ideas about molecular genetics and not a bunch of factoids of information about random ideas in the class. Get rid of open-note because it almost incentivizes you to brain dump info when it's completely unnecessary. TLDR I might end with an A in this class, but I can certainly say this class is unorganized and the professor lacks teaching skills.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2023-03-07T05:10:13.342727Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Not receptive to feedback. Not a skilled professor. Extremely snarky when valid concerns about the course are brought up. Avoid, avoid, avoid.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2023-04-05T21:57:24.148272Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "She is an incompetent lecturer, but she understands that, so she makes up for it with lots of extra credit.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2023-05-11T04:53:51.022711Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "I took BSCI410 with Dr. Wu this past semester and definitely enjoyed it. Dr. Wu herself is very kind and helpful. In terms of the class, there is definitely a lot of content so some reviewing outside of class each week will definitely go a long way, but Dr. Wu gives many resources to make this possible. Lectures were recorded on Zoom, exams were open note, and there are many smaller assignments which are a good check to make sure you understand individual topics. There are also many opportunities for extra credit towards the end of the semester. She also is very helpful during office hours for going over material or clarifying for other assignments. I definitely would recommend this class with Dr. Wu!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-18T20:02:26.981961Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "She\u2019s the GOAT. So much extra credit. Definitely take her",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-21T16:05:44.543355Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Dr. Wu is a very sweet professor who wants her students to succeed. There are 3 midterm exams and no final, with the lowest score being dropped. Additionally, there are many extra credit opportunities provided throughout the semester. The material is interesting, and concepts we learn about are often applied to ongoing research in the field during lectures. I would recommend this class with Professor Wu!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-22T18:49:38.229214Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Although a lot of the material was hard to understand, Dr. Wu is very helpful in explaining concepts if you ask for help. She is also one of the most accommodating and kindest professors I have taken. She provides tons of resources to study/learn from and many opportunities for extra credit which helped my grade. Yes, the material is difficult to understand at times, but such is expected from an upper-level bio class. Some of the lectures are confusing, but rewatching recorded Zoom lectures, reading the textbook, and asking Dr. Wu questions during office hours/after class, made the class much easier. Dr. Wu was very approachable when I asked for help, making it easier for me to ask questions and ultimately get a better understanding of the material. The wide range of topics in the class are interesting to learn about and Dr. Wu actively makes an effort to make the class more engaging, relevant, and humorous for students. The class structure is also great. The homework assignments were challenging but manageable, the 1 min essays and quizzes were easy, and the exams were open-note (and you can drop the lowest exam out of 3). The clicker questions were kind of hard at times, not a fan of those. There were also many extra-credit opportunities. Ultimately Dr. Wu was an amazing professor for BSCI410, I would recommend taking her.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2023-05-31T19:43:13.923238Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "FANTASTIC. She\u2019s a lovely woman who can really relate to the students.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-06-02T01:15:12.219148Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "I highly recommend taking this course with Professor Wu. She is a very sweet and understanding professor who genuinely cares about her students' success. Her lectures are engaging and informative, and if you rewatch them and take good notes, you are sure to do well in this class. The course content is well-structured and includes quizzes, homework assignments, clickers, and exams. Although the exams were tough, they are open-note, and the lowest score gets dropped. There are also plenty of extra credit opportunities that can significantly boost your grade.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-07-09T07:48:01.867989Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "One of my favorite classes in all of undergrad!! Dr. Wu is so extremely nice and caring towards all her students. She really wants you to see you succeed. Exams are open-note, she's very accessible through office hours, and there are many extra credit opportunities. If you are registered for this class, I recommend getting a head-start on homework, because some questions can be difficult, but Dr. Wu is always willing to walk you through the problem. Once homework deadlines near, there are a lot of students at office hours, so if you have a lot of questions, I recommended attempting the homework earlier so that you can attend office hours before everyone else does.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-11-12T18:54:50.376506Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Dr. Wu is one of the nicest professors I have taken a course with. She is always willing to help in office hours and on piazza. She makes the exams open note so as long as you pay attention in class and organize your notes before the exam, the exam is fair. There is a lot of other points in the course besides the exams that you can get full credit for and she drops the lowest quizzes and clickers which is helpful. Overall, BSCI410 was an interesting course and I would take Dr. Wu again.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-11-30T13:46:01.941321Z"
+    },
+    {
+      "professor": "Stephen Mount",
+      "course": "BSCI410",
+      "review": "Easily one of the smartest professors I've ever taken a class with; Dr. Mount is such a brilliant man, but he doesn't really know how to teach. He posts practice exams that are helpful but there will still always be some concept that is completely foreign on the day of the exam. There are also points for attendance, so you have to attend lectures, but he does post lecture slides that you can refer to after the lecture if you miss something while you're taking notes. One on one, he's a pretty nice guy, but he seems to have trouble understanding that the students are not as smart as he is simply due to the fact that we haven't been doing research for as long as he has. On the first day of class, he said that you have to read the textbook to pass - this is false, I did not open the book once the entire semester and I still have a B. That said, this is a complicated class with a lot of really nuanced topics, so expect to study hard.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2023-12-10T22:19:35.226462Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Dr. Wu is fantastic! I never use exclamation points in my writing but I will to describe how great she is! As someone who transferred into UMD from a much larger school, one of the hardest adjustments was going from having professors who took time to get to know all of their students and encourage them to professors with class sizes of 100+ who's students seemed like they were just names on a roster associated with a grade. Dr. Wu was that rare exception at UMD when it comes to courses with large class sizes. She is a truly caring and generous individual in terms of how she treats her students and the time she dedicates towards helping them succeed. If you put in any effort to attend office hours and get to know her, you will see what I mean. She is so welcoming that it made reaching out to her for help not only easy but enjoyable. As a 400 level bio course, molecular genetics can be intimidating in terms of the scope of the content, but Dr. Wu made the class a wonderful experience. She provides the class with examples to the content that are fun and memorable in a way that makes a 75 minute class fly by. While some of the reviews here talk about the class being difficult to follow, I found it to be very possible to do well on her exams, and in the course in general, if you just put in a little extra effort outside of class to dig into the content of the course and do some background reading (which you can easily do while attending office hours and also receiving extremely helpful feedback from her). As I mentioned, it is a 400 level course with a wide scope of content so its not one where you can just skim through the lecture slides and expect to do well. I was guilty of that going into the first exam and was initially intimidated by the course after getting my first exam score back, but I started to go to office hours and reach out to Dr. Wu for help, which she gladly provided in a way where the gaps in my knowledge related to course content were easily bridged. I took this course as an upper level elective requirement and was initially torn between taking this course or a much easier course that would have fulfilled the same requirement (but looked much more boring), I ended up choosing to take this course and I am extremely happy that I did. If you have any interest at all in not only genetics, but the life sciences in general, then I would strongly recommend taking this course with Dr. Wu. Some examples of major topics covered in this course include genetic expression and interactions, DNA technology, genetic recombination, genetic testing, and genetic history. In terms of the actual course work and exams, opportunities for points in the class included 6 homework assignments (the lowest score of which is dropped), 12 quizzes on elms (the lowest two scores are dropped), clicker questions in class (lowest 2 are dropped), one minute essays which do not take long and cover fun concepts in the class, and 3 exams (with the lowest exam score being dropped). The assignments for the course are not overwhelming at all, just make sure your are taking the time to understand why questions on the quizzes, homework's, and in class clickers are being asked and how they relate to the course material rather than just answering them for the sole purpose of getting points. The exams contain a wide range of content but they are open note and if you take the time to organize your notes and understanding of the concepts rather than just copying down the lecture slides then they are extremely manageable and you will do amazing in the class. There are also plenty of opportunities in the class for extra credit (but if you follow my advice for the course in terms of how to approach the homework's quizzes, and exams, then these points will most likely serve as assurance that you can skip the third exam and still get an A rather than a grade-saver :-)). I hope my review of BSCI 410 with Dr. Wu will convince some of you reading this review who are on the fence about whether or not you should take this course to go ahead and take the leap and enroll in it as it was one my best experiences at UMD and I am extremely happy that I decided to take it myself.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-14T02:28:03.424709Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Dr. Wu is a fantastic professor and if you are considering taking BSCI410 or an upper level biology course, then I would strongly recommend taking BSCI410 with her. I have found that it can be difficult to connect with professors at UMD who teach large courses with many students, and it can be easy to find yourself feeling like just another number associated with a grade on their roster, but it is completely different with Dr. Wu. She is a truly caring individual who wants her students to succeed and she is incredibly generous in terms of the time she commits to her students and her willingness to help students understand the course content and do well in her class. She is an incredibly nice and relatable person who is not intimidating at all which makes the course much more enjoyable, and she makes it very comfortable to reach out to her. Do not be intimidated by some of the reviews on here about her class, BSCI410 with her is incredibly fair and she makes it very possible to do well in her course. As an upper level biology course, BSCI410 has its fair share of challenging content, but if you reach out to Dr. Wu and attend office hours to sure up gaps in your knowledge related to the content then you will definitely do well. The course itself is also extremely interesting for anyone who has an interest in genetics or the life sciences. Some major topics covered in the class include genetic expression and interactions, genetic technologies, and genetic history. Dr. Wu makes these topics extremely enjoyable to learn about through providing fun examples related to the content during lecture and exercises outside of class time that are thought provoking and make you think about how what you are learning can be applied to the world around you. In terms of the graded course content, there are three exams, six homework assignments, twelve post-lecture elms quizzes, in class clicker questions and a handful of one minute essays online. She drops your lowest exam score, lowest homework score, two lowest quiz scores, and two lowest clicker scores, but if you attend office hours and talk to her about topics you are having trouble understanding then these dropped assignments serve more as assurance that you can relax going into the final than as a grade saver. When enrolling in my classes, I had the decision to take BSCI410 with Dr. Wu or another upper level biology course that looked easier but far less interesting and I am incredibly happy that I decided to take BSCI410. If you are reading this review and are on the fence about whether or not you should enroll in this course with Dr. Wu then I hope my review convinces you to go ahead and enroll as it has been one of my favorite classes I have taken at UMD and Dr. Wu is a fantastic professor and an amazing person.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-16T18:34:20.063883Z"
+    },
+    {
+      "professor": "Stephen Mount",
+      "course": "BSCI410",
+      "review": "He was an okay professor, but his lectures were so boring I slept most of the time.... He posts past exams and reuses some questions and/or makes new questions off of old ones, so make sure to go through those. But I feel like I did not learn a single thing this semester, it was truly a waste of my time and energy. I also was so close to an A- (2% off) so that was disappointing. Don't recommend taking him if you want to take this class.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2023-12-24T17:49:50.905218Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Dr. Wu was such a nice professor and you can tell that she really wants you to do well and fully understand the concepts. Her exams being open note is really helpful as it is a great way to make you study by making a notes sheet. She also has lots of extra credit opportunities to help your grade if you struggle a little on the exams because they can be difficult even though they are open note. I highly recommend going to her office hours since you can get really specific answers to your questions as there is a lot of material to go over in class and does move fast. Overall I recommend the course though, it is super interesting!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-01-12T21:53:34.637927Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Dr. Wu is a great teacher! She truly cares about student learning, and personally hosts office hours every week where students have the opportunity to work through the homework assignments with each other and with her. She didn't test on anything she didn't cover in class, but she does cover a lot in class (and will test on things that she says but aren't written on the slides), so be sure to take thorough notes. The content is dense, but Dr. Wu wants her students to succeed and tries her best to make that happen. The class is dense in content even compared to other upper-level biology classes, but Dr. Wu will work with you to help you succeed if you put in the effort!",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-01-17T01:31:32.124432Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Professor Wu's passion and dedication to the students shined through throughout the semester, particularly during office hours and one-on-one discussions. They had a focus on helping students employ good study practices (with e.g. the exam wrappers) which was particularly helpful.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-02-07T04:35:56.246917Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Professor Wu is amazing!!! She really wants her students to succeed and she is very willing to help during office hours and one-on-one meetings. She really focuses on learning from past exams and improving study practices. Her tests are really fair, but she does cover a lot in class, so be sure to take thorough notes. Her exams being open note is really helpful and a great way to study as you rewrite your notes. Aside from being a great professor, this course is super interesting!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-02-21T02:45:29.760374Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Dr. Wu is extremely nice, but I find this class difficult to succeed in because of her poor lecturing, and poorly written exams. For the past two exams, it felt like I was going in blind because there are no practice exams or problems offered in preparation for the amount of application based questions that there are on the exam. At most, we have two homeworks for each exam (both homeworks have about 2 questions, which is not a lot). Her wording is strange and often makes people overthink the logic behind the question, and I find that that trips me up the most. For example, she'll have a matching response question but all of the definitions sound very similar/vague and you have to pair a term or concept to it (no word bank provided). In terms of lecturing, it feels like Dr. Wu walks into class, rushes through the slides by reading off of them, and then leaves. I'm sure that she is very knowledgeable, but oftentimes, she sounds unsure of the content herself. Overall, it is a hard class to manage due to the structure and lecture style, not so much the content.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2024-04-12T19:52:34.014282Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "This is a very interesting course! Dr. Wu incorporates a lot of real-world connections/applications. Although there is a lot of material covered, the exams are open-note and have built-in extra points. She is also a very understanding teacher and will work with you to help you do well. There are also a lot of extra credit opportunities!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-04-24T21:29:16.003308Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Dr. Wu is a caring and forgiving professor. She is very responsive, willing to help as much as she can during office hours, provides one-on-one meetings, answers questions on Piazza, and tries her best to have her students succeed in her class. BSCI410 is definitely a difficult class: there is a lot of content to cover for exams, the exams themselves are high-level, and lectures can be confusing. She emphasizes expanding content from previous topics to the next exam. Finally, she offers a lot of extra credit in exams and assignments, which was very helpful. Overall, Dr. Wu cares for the students and will ensure everyone can succeed in BSCI410.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-02T21:06:23.426436Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "I don't understand why Dr. Wu has such high reviews. Everyone loves her for her personality (including me), but I've found her to be a terrible lecturer. She's often frazzled, and comes into class just to read through the slides quickly to info dump on us. I also find it difficult to follow along with her teachings because she often explains things in a convoluted way when there's an easier way to get to the point, and she tends to include an \"um\" or \"you know\" in every sentence which is extremely distracting. Additionally, I wish she was a bit more rigid with her rules because it sometimes feels like students overstep her and she gets extremely upset/slightly passive aggressive about it. It's difficult to respect her classroom structure (in terms of how poorly exams are written, how strictly homework is graded, how randomly extra credit is rewarded) because she doesn't set the standard. For example, part of her extra credit is to ask questions for presenters in class, but she determines whether the question is \"good\" or not, which makes it seem purely subjective. There's also no practice exams or extra practice problems for you to review prior to the exam. The only things that I've studied are the slides and the 2 homeworks we get assigned before the exam (each hw has about 2 problems max). Overall, pretty frustrating.. Dr. Wu is the sweetest soul but I don't believe that should make up for her work as a professor.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2024-05-05T16:47:56.042973Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "I loved Dr. Wu! She's amazingly kind and wants you to succeed in her class! The material in BSCI410 can be very dense at times, but her slides helped a lot (especially if they are downloaded since there are notes at the bottom of the slides). The class consisted of three open-note exams, with the lowest one being dropped. There were also some homework assignments, short quizzes, and one-minute essays here and there, but they were not too difficult to complete. If you need help, she is VERY responsive on Piazza and through email. At the end of the semester, she offered an extra credit opportunity. If you need to take BSCI410, I encourage you to take it with Dr. Wu!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-05T18:36:15.375115Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "To be honest, I'm quite confused by all the high ratings. I agree that Dr. Wu is super nice, but she is not a great lecturer. Class was always very disorganized (she often seemed like it was her first time looking at the slides) and would result in tangents. Dr. Wu would also push to finish her lecture slides in one class, even if there are over 50 slides, so she would end up rushing through slides (she once got through roughly 10 slides in 2-3 minutes). Her exams also weren't based on class material, so the exams being open-note didn't help that much. She briefly explained the concepts (very surface-level understanding), but the exams would have some random, niche question on it that was completely out of nowhere. The homeworks also did not relate to class material and would be based on some random research paper that was not provided to us. Her questions on the hw were very vague but then she'd take points off when you didn't write the answer she had down. Dr. Wu also tries her best to sympathize with the students but would take away point opportunities (exam-wrappers) on a whim because she didn't think some people were doing them correctly. I think this class would have been fine, but Dr. Wu made the class much more tedious and hard.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2024-05-10T22:36:19.497682Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Nice professor;  literally cannot teach, although there's extra credit it doesn't meamn you'll get a good grade",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2024-05-11T01:21:35.900612Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "not very good, i was not a fan of the teaching style, she was not a good communicator and did not handle student feedback well",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2024-05-13T18:23:15.174591Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Dr. Wu is really nice and wants her students to succeed. I wasn't really accustomed to her teaching style, I feel like she doesn't explain concepts clearly in lecture, but the good part is all her exams are open note, including the final and you get to drop your lowest exam. To do well in this class I recommend focusing on making a good cheat sheet for the exams, and especially focus on experimental techniques as those are often the free response questions. She does give extra credit and sort of free points from clickers and short written assignments as well so in the end it does boost your grade.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2024-05-17T04:36:00.277492Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Dr. Wu is nice which is why so many people like her, not because she is a good professor. Many of the good reviews are from people that thought she was nice. She is slightly lenient with grading, but her grading is very confusing. Her lectures are extremely rushed and unconfident to the point where sometimes she won't even know her own lecture slides. There are times where she will shut down student questions in favor of completing the slideshow in time. She will also rush clickers in favor of time which seems to be more important than actually understanding the lecture. It just felt like very little was learned from her class. The tests are also extremely difficult and there aren't many practice problems to help and the open notes aspect doesn't really help. Her TAs were extremely hard with grading and it was almost impossible to get regrades through them. It just seemed like an extremely unorganized class.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2024-05-19T15:01:57.383894Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "I loved Dr. Wu and BSCI410! Her class is super engaging, and she is so kind and wants to see her students succeed. I went to her office hours almost every week, and it was so nice getting to know her on a more personal level. She is always very willing to help and gives great advice to students looking for feedback. I did well on her first and second exams, so I did not have to take the final exam. I did especially well on the second exam, and my main technique during studying which helped me succeed was printing out the slides and then rewatching the recordings and writing notes/summaries on top of the slides and diagrams/photos.  I found this to be very effective during studying, as her slides have important diagrams and information, but she further explains them during lecture, so it was efficient to write on top of the printed notes! I then took those with me to the open-note exams, but I made sure to go through them multiple times before hand, so that I know where to find the content in my notes. The TAs also have office hours and study sessions, and they supply weekly practice problems similar to exam format. Dr. Wu also supplies extra credit opportunities(exam wrapper after exam 1 and presentations at the end of the semester). There are so many resources to succeed in this class, and these opportunities helped me get an A+ in BSCI410! Overall, it was a great class with an incredibly kind and wonderful professor, and I would really recommend Dr. Wu and BSCI410 to anyone looking for a class to take.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-05-19T19:35:22.460549Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Only a few reviews have mentioned Dr. Wu's poor teaching. It was pretty frustrating to learn molecular genetics from her teaching style, because it felt like she just read off of slides without actually connecting pieces of information together. I wish she came a bit more prepared to class so there'd be less buffering time and less \"um\"'s during lectures. Exam 2 felt like a huge information dump, so be prepared to study in advance for that exam. She doesn't provide any old practice exams, nor practice questions for us. The main things I relied off of were GSS worksheets, and homeworks. The GSS wksts moreso tested general concepts talked about in class, going as far as \"define ____\" which wasn't very helpful. I'm not sure how to feel about the class overall; I left with a good grade but feel like I've learned nothing.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2024-05-23T00:19:41.980908Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Dr. Wu is an incredibly kind professor and will really walk with you whether you are struggling or succeeding. She is very helpful during office hours and makes it a point to make sure she gives attention to everyone, which is very refreshing. Do not expect this class to be easy, be prepared to work hard and really study the material well, but in doing so, you will learn a lot! This class was very interesting and had a lot of valuable information to be learned. Overall this class was challenging, but rewarding and I'm so glad to have met Dr. Wu and to have a professor who actually cares about her students for once:)",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-23T02:06:29.347655Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "DO NOT TAKE THIS CLASS unless you are absolutely in love with genetics and have a deep genuine interest in it. OTHERWISE you will be absolutely dedicating your semester to this class because it is so hard. This is coming from someone who got As in the hardest med pre req classes and knows how to put in work, and let me tell you, I had to absolutely grind for this class like it was orgo 1. The content is hard which is expected, but the teaching..... THE TEACHING is POOR. Class consisted of endless pictures thrown up on the screen and a lot of \"I thinks\" from the professor when she quickly explained stuff. Dont ask questions because she doesnt know half of the answers. THEN the homeworks are graded incredibly harshly, I literally got an 8/20 on one and was shook... never have I ever gotten below a 50 on ANY homework, let alone a BIOLOGY homework. Then, the exams were insanely difficult and were totally application based... It's like you didnt study because NOTHING YOU STUDY IS ON THE EXAM bc everything is so farfetched. Averages were in the 60s which is absurd for a bio class. It really felt like the professor was playing mind games with us because she made it seem like it was totally possible to do well on exams, when everyone I know was struggling to improve. In the end, she made the final  aka third exam FINALLY FAIR and gave a good amount of extra credit to save everyone's grades, but the extreme stress and headaches were not consoled. Dr. Wu is a very nice person and has a good heart, but lecturing is a different story. This is NOT AN EASY A UPPER LEVEL do not be fooled by the grade data like I was!",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2024-05-24T15:50:15.411688Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "I really liked BSCI410 with Dr. Wu! She cares a lot about her students (very available outside class, is understanding with deadlines, helped me with professional development, etc.) and is passionate about the material! The assignments were more about applications than memorization- exams were open note (and only the best 2/3 count, including the final, which is treated like exam 3), but you want understand the material well for them. Study terms and techniques well since many are similar, and you can lose a lot of points if you don't know the subtle differences. Extra credit was super generous, especially for the final group project- an A is very attainable, but requires a lot of work.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-08-17T21:48:36.374719Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "I really liked BSCI410 with Dr. Wu! She cares a lot about her students (is available outside of class, is flexible with deadlines, helped me with professional development) and is passionate about the material! The assignments were more applications than about memorization- exams were open note (and only the best 2/3 count, including the final, which is treated like exam 3), but you want understand the material well for them (especially definitions of vocabulary terms and what different lab techniques are used for). Extra credit was generous, especially for the final group project- but an A still requires a good amount of work!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-08-17T21:57:11.718450Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "I really liked Dr. Wu's class. Firstly, she absolutely cares about her students and their overall wellbeing. When students, including myself, had conflicts or questions, she would always be ready to assist. Overall, I think that the content itself was at times difficult, but I think that the exams and material was always very fair and fitted nicely as the course you could take if you also enjoyed BSCI 222. Additionally, even if BSCI 222 (intro genetics) was not the strongest for some, I still think that people can do really well and learn a lot from the course as the material is very engaging, and I think it helps that she uses a lot of real-world examples in relation to the various lecture topics. My suggestion for studying is attending her lectures in person (she does have a zoom link you can use instead but I think in-person is more engaging) and staying on top of the material by using flash cards and studying the diagrams/pictures she has posted on the lecture slides every week. I personally think this was one of my favorite classes at UMD!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-10-17T01:01:46.653097Z"
+    },
+    {
+      "professor": "Stephen Mount",
+      "course": "BSCI410",
+      "review": "oh BROTHER. this guy is so boring and mumbles through class. lectures are rushed through, he puts overly complicated diagrams and little to no explanations on his slides, and he will be passive aggressive if you ask for help with managing time or ask a question during class. assigns way too much reading. for exams, just make sure to memorize the past exams, use flashcards for the key terms (he will have a list of things to know for each exam), and just ask google/chatgpt about mechanisms you don't understand. overall dr. mount is a mediocre professor, a worse public speaker, and will bore/infuriate you",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2024-12-03T21:46:50.155989Z"
+    },
+    {
+      "professor": "Stephen Mount",
+      "course": "BSCI410",
+      "review": "I agree with many of the previous reviews on Dr. Mount. He's a good guy and a great researcher, but his teaching skills are terrible. He frequently mumbles during lecture and his explanations are really hard to follow. He puts complicated diagrams on his slides and doesn't explain them thoroughly. I often searched the topics on Google since Dr. Mount's explanations were so confusing. It's also hard to know what information to prioritize studying since his slides and teaching are disorganized. On our first exam, Dr. Mount put a page-long free-response question about a topic he covered for 5 minutes. He does record his lectures, but the mumbling can make it really hard to understand what he's saying, even more so than going to lecture in person. \r\n\r\nFor assignments, he has an in-class question each lecture graded based on accuracy, so attendance is required, but he does drop a couple of them. He also has online quizzes for different topics that are based on the textbook and have multiple attempts each. I used to read the textbook chapters, but I stopped halfway through the semester since they took up so much time and I felt like they weren't relevant for the exams. The textbook was useful for completing the quizzes and some of the diagrams helped with understanding lecture concepts. There was also an informatics assignment that was kind of like a scavenger hunt across different biology databases and an assignment about finding 3 interesting genetics research articles. They weren't that hard, but they weren't graded until the end of the semester despite being due pretty early.\r\n\r\nFor exams, makes sure to complete all of the past exams he posts on Canvas. I felt like his exams weren't that hard since they were so similar to the past exams on Canvas. He often takes multiple-choice questions straight from previous exams and his free-response questions follow a similar format to the previous ones. His exam topics are based on lecture, so study your notes. There's a decent amount of content for each exam, so try to start studying a few days in advance. There are 3 midterms and a final, but the final is split into 2 parts (the last quarter of the class and a cumulative part) that are graded separately, so it's like there are 5 exams for this class. Of the 5 exams, Dr. Mount drops the lowest score. He also curves each exam based on the mean and standard deviation of scores. Overall, I don't feel like I've learned much in this class due to the teaching style, but I don't think the content was especially difficult. The difficulty mostly comes from the professor being bad at teaching.",
+      "rating": 2,
+      "expected_grade": "A+",
+      "created": "2024-12-18T22:45:17.925314Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Universities should not force professors to teach students when they are there for research. It is a crime to let students have to take Dr. Wu's class. What the actual heck is actually being taught? The slides are already pretty bare bones with just diagrams and yet when Dr. Wu lectures in class, I don't learn anything more. It is pretty clear that she isn't super familiar with what she is teaching. I sincerely believe that I would learn more from the AI-generated summary from Google for everything being discussed in class.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-02-11T16:43:04.858998Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Dr. Wu is nice, but she is not a competent lecturer in the slightest. Her slides are abysmal and either have walls of text or diagrams with 0 explanations as to their purpose in the overall lecture. Her lecturing could make up for this if it weren't for her constant \"um\"s, \"I don't know\"s, \"I guess\"s, and \"I think\"s which make her very hard to listen to while she re-remembers what she meant to talk about, reading off the slide text and providing barely surface level explanations for core concepts you're expected to know, and rushing through several slides with enormous amounts of info in the span of seconds. She likes starting a new topic on each day, so she will click through slides in favor of finishing the lecture rather than teaching the content thoroughly. Her extra credit on exams is probably as generous as it is because she realizes her teaching is lacking. She also makes comments mid lecture addressing what people say about her class, ex. how fast she goes through lectures or her class structure (and responds out loud to us with things like \"haters gonna hate\"), which makes me think she must be reading these reviews and refusing to take criticism and implement changes. Since she will not be changing anytime soon and if you are forced to take her, I would recommend taking notes on the *things she says out loud* (if you can manage to decipher it live, otherwise use the recording), and then rewrite these notes later in a more organized format for review (and combine these notes with the slide text). This way you can see things she will never elucidate in lecture and it gives you time to search up vocab on her slides that she will not define in a comprehensible way. I would also make a really good review sheet because the exams are open note.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2025-03-15T00:51:51.330800Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "I will preface by saying that she is a very nice woman. However her teaching falls short. To start molecular genetics is not necessarily a hard course assuming you took 222. But with her teaching the course is a struggle. She has weekly-biweekly home works which are not necessarily hard but I struggle to find correlation between homework and lecture content. Her lecture is the biggest issue with the course though. To start she covers a lot of material with the slides being 95% pictures and 5% words and descriptions which is not an issue. The issue is that she struggles to explain these pictures in depth and actually tell us why it is being shown to us. She also does not seem very confident with the pictures that she shows as she is constantly muttering phrases like \"I think\", \"Um\", \"I actually do not know\", and more. This makes it hard to actually learn from a professor who is not confident on what she is teaching. Another issue is that she rushes her lectures which is more of a focus to her rather than teaching the material. She likes to start a new topic at the start of each lecture and hates having carry over which I understand. However if you are going to do this cut out the material that you do not get into instead of rushing through the material and poorly explaining it while still testing on it. She also does not seem to really care about this as she does it nearly every lecture, she will lecture about 100 slides but have to rush through about half of it to finish. She struggles to connect topics in class and help us understand them. GSS can be helpful as the leaders and undergrad TA's have previously taken this course and seem to be very knowledgeable on the material themselves. I will add she has this add bioinformatics section that randomly occurs in the middle of the semester which is not hard but makes so sense as to why she has us do it (she does not teach it either). I would say that your best bet is to attend office hours and bombard her with questions she leaves you from lectures. Attend GSS sessions and ask questions not just about material but also about how to study and do well in the course. She is fair with grading but her exams really do not match the lectures and require very in depth understanding. She gives you extra points to try and provide a buffer in terms of grading but it only goes so far if you struggle with the exams and struggle to learn. For reference if you have taken immunology (422), this class is fairly harder even though immunology is renowned to be a very challenging course here, the difference is that the professors for 422 are passionate and knowledgable about what they teach unlike Professor Wu.",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2025-03-31T01:24:26.229719Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "To be honest, I was a bit worried when I started this course, as I didn't score very high on the first two exams and considered withdrawing. However, I set up a meeting with Dr. wu and she reassured me that students do have trouble adjusting to the style of the class, but in the end typically are very happy with their grade and understanding. Exams are pretty thorough and require a depth of knowledge about every term and concept in the course, even if it is just mentioned in the slides, but doing so gives you a complete understanding of molecular genetics. I had a lot of trouble with BSCI222 but with the correct preparation and bringing VERY thorough notes to the third exam, I actually got a very complete understanding of the content and scored very well on the third exam to end the course with an A. If that is the work you are willing to put in, I'd certainly recommend the course. In addition, the homeworks and assignments are helpful in additional understanding but they can be graded pretty harshly by the TAs which was a bit of a shock in the beginning but something you get used to. If you're in the middle of the course and have a grade your less than happy with, I wouldn't worry all that much, as the extra credit and exam drop policy is quite generous. Dr. Wu is also an amazing person and was always willing to talk with students after class and at office hours, about anything which is reassuring to know she truly cares about student's well being.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-04-19T06:35:29.640464Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Dr. Wu is without a doubt one of the kindest and most approachable professors I have had during my time at UMD. From the very beginning, she made it clear that she genuinely cares about her students\u2019 success, not only academically, but also as individuals. She\u2019s always open to conversations outside of class, whether it\u2019s during office hours or via email, and she\u2019s incredibly down to earth and easy to talk to. Even when there are a lot of people in line to ask Dr. Wu questions, she never brushes off your concerns or questions. She is extremely attentive and always works with you to help make sure you can succeed. I was initially nervous going into this course because genetics isn\u2019t exactly my strongest subject, but Dr. Wu made the material accessible and even enjoyable. Her lectures consist of really clear diagrams and slides that are easy to follow, which really helped me while I studied for her exams. All lectures are recorded and come with subtitles, which made it incredibly easy to go back and review key concepts or catch anything I may have missed the first time. The exams in this course can definitely be challenging, and I recommend dedicating consistent time to studying.  However, all exams are open note, and you can bring as many handwritten or printed notes as you\u2019d like. Personally, I treated the exams as if they were closed notes and only used my notes as a backup, which I believe helped me prepare more thoroughly and ultimately succeed. Dr. Wu also puts a lot of thought into her lecture slides, which include helpful diagrams that reinforce the material and make studying more visual and engaging. One of my favorite tips is that her PowerPoint slides all have speaker notes if you download them, and they were superful in helping me grasp all the models shown in the slides. There are multiple opportunities for extra credit throughout the course, including optional assignments and bonus points built into exams. Dr. Wu is clearly passionate about molecular genetics, and it shows in the way she teaches. She wants every student to succeed and gives all of us plenty of resources to do so. Overall, I not only learned a great deal in this course, but I also felt supported every step of the way. I\u2019m extremely grateful to have taken this class with Dr. Wu, and I would wholeheartedly recommend her.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-05-14T18:26:42.242010Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Just like what most of the people are saying, Dr. Wu is a nice person and easy to go to for help. However, there's a reason why her exams are open-note.... they're extremely difficult and her lecture slides, homework assignments or recordings don't even help at all. A lot of the materials given are mostly images or figures and barely any descriptions. She rants a lot and its difficult to know whether that'll even be important to jot down. It honestly feels like she just reads off the slides and doesn't teach in a way where students can succeed in the class. To be completely honest, I'm pretty sure most people got high averages on exams only because they had access to past exams (which I think she caught on to this semester). Here's another issue I had (i think most people won't have but I'm personally frustrated with). I had an A in the class but she screwed me over with my last assignment accusing me of using AI?? I never use AI for any of my assignments and I was ready to prove to her that I didn't but she wasn't willing to listen or look at my evidence. From the way she accused me, I think she ran an AI detector on my assignment which has been proven with multiple articles to not be accurate as they literally stem from human written texts. Just wanted to warn u guys on this too because this class does have writing homework.",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2025-06-02T01:54:29.296699Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Dr. Wu is one of the most supportive and genuinely caring professors I\u2019ve had at UMD. From the start of BSCI410, she has been approachable, responsive via email, and always available on Piazza to discuss questions or concerns. Her lectures are well-structured with clear diagrams and speaker notes, and the availability of recorded lectures with subtitles made reviewing material much easier. She also is just a cool person to talk to and get to know more about. By no means was this course easy, but putting in the time definitely pays off. She's definitely considerate when it comes to exams and grades - she gave lots of projects to bring up grades and extra credit opportunities. If you want to learn more about molecular genetics, I would recommend taking this class. Exams are open note but don't help that much so its much better just to learn from the Ta's and understand it yourself.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-06-03T15:07:32.724250Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Yes, she is a nice teacher and very approachable if you have questions. \r\nNO, she is not a good lecturer and I swear you need to really understand the topics on your own and make effort outside the classroom to learn. \r\nI know that this class may sound easy with the open notes, dropped exam and extra credits but without putting in extra work, you'll probably end up with a B at best. Her notes weren't helpful at ALL with the exams and she really emphasized application based questions that are difficult since she doesn't teach very well. The only reason I got an A was because I studied a lot outside her lectures.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2025-06-06T05:01:46.742552Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "BSCI410 served as a great introduction to a broad array of topics. A large focus of the class was on technologies/techniques that are actually used in the lab, which I personally found really helpful, although there were also lectures focusing on genetics within the context of specific domains. For instance, there were lectures on genetics in Developmental Biology and Immunology, which I thought was a great way to get exposure to these different fields of research. If you had trouble with BSCI222 and are concerned about taking 410 because of this, I would say not to worry too much. Despite how broad the content of the course is, Dr. Wu structures it very well and all of the tests were open note. This isn't to say they were easy -- but as long as you go to lecture, take notes, and ask questions about things you don't understand you will be fine. In regard to asking questions, Dr. Wu is one of the most approachable professors I've taken a course with at UMD. She was always able to help clarify points of confusion, whether you stick around after class to ask a question, go to office hours, or email her. I would highly recommend both this course, and Dr. Wu as a professor, if you're looking to deepen your knowledge on genetics, and get exposure to how it's applied across different fields of research.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-08-11T12:59:39.330313Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "I believe everything in this class is fair. Dr. Wu is one of the most supportive and nicest professors I've ever had at UMD. She truly cares about her students, and she's always happy to answer any question you have. Getting an A in this class is very doable as long as you keep up with the class materials (DON'T CRAM), complete the assignments on time, and ask for help when needed. There is an abundance of office hours available, whether that's Dr. Wu's or the TA's. I find attending both very helpful. I suggest asking Dr. Wu about specific questions regarding the lectures and asking the TA questions about the HW assignments, since they're the ones grading them. Piazza is also available for frequently asked questions among your classmates (both the TA and Dr. Wu are active most of the time to respond to any questions). If you're solely relying on learning the content through attending lectures, then it may be a challenging class to earn good grades on the exams. I recommend pre-learning or reviewing the material before the lecture (all lecture slides of all topics are posted in ELMS) through any AI software, and use the lecture time to jot down anything else that Dr. Wu mentioned and solidify any topics. Just learning the material is not enough to be successful in the class, as many questions on the exam are application based, but the HW assignments and the quizzes help prepare you. The quizzes are not timed as well. In terms of midterms, there are three midterms, and one is dropped. The third midterm was technically the final, but it's cumulative with new content. The exams are also open notes, but they have to be a physical copy of your notes. You can print a digital copy of your notes or handwrite them. There is a lot of information in each topic, so I suggest not cramming for the class and being familiar with the content. If you have everything in your notes, also familiarize yourself with where everything is, as one of the biggest challenges of the exam is finishing on time. In all her exams and a few HW assignments, there are extra credit opportunities. For the first midterm, she allows the student to earn some points back by doing a reflection about what went well, what didn't go well, and how to prepare for the next exam. You don't get all of your points back, but some. There are a lot of quizzes and HW being dropped as well (but refer to your syllabus. At the end of the semester, there's an extra credit assignment where you find a group of people to make a presentation about a recent research paper that's related to the class content. The presentation can be either in-person or online. Additionally, you can earn extra credits by asking questions in person after the presentation or by posting your questions alongside the online ones. Overall, the curriculum really shows how Dr. Wu wants her students to succeed in this class. The way the class is structured helped me puzzle together why scientists took certain steps in the experiments. I highly recommend taking this class with Dr. Wu.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-08-17T05:39:19.119668Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "BSCI410 is designed to introduce advanced topics and techniques by building off of concepts from courses like BSCI222. While I believe that BSCI410 topics are harder to grasp than BSCI222 topics, Dr. Wu is highly supportive of her students and makes the class much more manageable. She is easy to approach, enthusiastic about the subject, loves to answer questions, and will go out of her way to supply her students with in-depth responses to questions. Additionally, to stress the importance of understanding material over memorizing it, Dr. Wu makes her exams open-note. Lectures can be rather dense at times, but the slides are explained clearly during class and broken down into simpler explanations. \r\n\r\nIn terms of the actual content taught in BSCI410, a recurring theme is applicability. Dr. Wu structures the course to cover aspects of biology that students can actually apply to careers in biology and genetics. This includes introducing commonly used techniques and methods as well as experimental designs and analysis. A recent development for the course that I appreciated was the introduction of bioinformatics assignments. As an increasing amount of research relies on RNA sequencing, proteomics, etc, having the skills in R to create graphs and interpret data is vital.\r\n\r\nI would argue that this class has more assignments (homework, short essays, quizzes, etc) than most of my other upper level BSCI classes, but they aid in understanding and give you additional practice. To help students outside of the lecture and office hours, Dr. Wu encourages students to ask questions on the class Piazza. Whether it is for homework, classwork, exams, or just curiosity, TA\u2019s and Dr. Wu provided thorough replies in a timely manner. Overall, I would highly recommend taking BSCI410 with Dr. Wu. You will learn a lot, gain relevant skills, and be a part of a collaborative environment.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-10-13T18:28:02.508488Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Dr. Wu is an extremely kind person & very open to answering questions in office hours. She is probably the nicest professor I've ever had.\r\n\r\nThe lecture material in BSCI410 is very dense, and the exams are difficult, but the material is interesting & the questions are fair. She provides a lot of extra credit, drops an exam & several assignments, and does her best to make sure you do well in the class. It's very important to go to office hours & practice doing the homeworks because the exams are largely application-based, and lectures cover a lot of ground. If you're confused, ask for help! The exams are open-note but they go very in-depth. You should take note of what she says in lecture because she says a lot and the slides alone do not contain everything she says. Thankfully, she records the lectures. \r\n\r\nIf you enjoy genetics & you can keep up with the breadth of the material, you'll enjoy BSCI410 with Dr. Wu.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-05T02:18:25.270879Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Dr. Wu is an extremely nice professor, and she makes this very content-dense and challenging course significantly more manageable! She also truly wants all her students to succeed, offering a significant amount of extra credit points (up to 15+ pts possible!!! and this is WITHOUT including the exam wrapper!)\r\nI've overall had a pretty good experience in this class; There's no final (hooray), but it's important you do well on at least two midterms (1 is dropped and you have the chance to earn back points - up to 25% of what you lost - for Exam I), since exams make up ~60% of your grade. While the exams are open-note, they each cover A LOT of content, and much of it is application-based, as opposed to pure memorization, so you must have a firm understanding of the tested content to actually get a good grade. This class is definitely challenging and requires a significant amount of time dedicated to studying, but it's definitely manageable if you're up to the task! \r\nKyle and Adena are both very helpful TAs. Kyle was very kind and great regarding answering homework/exam questions, also props to him for being an undergrad and just being an absolutely wonderful/informative TA! Adena was amazing with teaching the bioinformatics portion of BSCI410. I hadn't had prior R-language exposure, but Adena's R introduction lecture/office hours made coding significantly easier/more understandable even for someone without any previous coding experience! \r\nI personally found that attending lecture in person was not helpful; there's a lot of content, and Dr. Wu is a quick lecturer (definitely not her fault, given how much she covers)! However, lectures are all recorded, and you can attend via Zoom, so I'd attend asynchronously to answer clicker questions / listen to Dr. Wu in the background, and then watch the recording and take notes at my own pace to make sure I didn't miss anything important. This was definitely a time-consuming method, but it really helped me absorb the material a lot better, and the difference between my Exam I and Exam II/Exam III scores DEFINITELY showcased that (went from a D on Exam I without wrapper to an A- on Exam II). \r\nOverall, great class, but be aware that it does require a significant amount of focus to do well! If I had been taking a heavier course load this semester, I doubt I would have been able to dedicate as much time as I personally needed to achieve an A (which is why I'm giving a 4 instead of a 5).",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-12-13T20:47:00.658099Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Dr. Wu is an extremely kind and generous professor. Her exams are open note, and they can be a bit tricky to finish in time. She drops the lowest exam and there is no final. She offers extra credit throughout the course- some extra points are built into her exams, some are in home works. Then, at the end of the semester, you can opt in to doing an extra credit presentation (in person or you can submit a recording to the class discussion) which is worth 10 points, and we can get 3 points for asking questions to the in person presentations, and another 3 points asking questions for the online presentations, and on top of that you get 1-2 points for answering questions on your own presentation. That being said, Dr. Wu is truly an awful lecturer. She often mumbles, gets flustered, and goes on tangents. I tried joining the lecture through zoom which helped a little bit for clarity, but ultimately putting the slides through chat and generating summaries helped me understand the material. Besides that, the only downside to the course was the bioinformatics assignments. The assignment was poorly made, the code that was given to us never worked, and it took hours to complete. On top of that, the TA in charge of assignment & the person who created the assignment, Adena, was an incredibly harsh grader and she wasn't very helpful at all when it came to trouble shooting. She also barely responded to the piazza questions when we needed help as well. The assignment was a supreme waste of time. Most people who take this course are bio majors, who need the class to fulfill a major requirement, so no one wants to be coding. If we did, we would take the upper level bioinformatics course offered to us.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-12-16T01:28:55.557870Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Dr. Wu is one of the most nicest and sweetest professors at umd she really does want everyone to do well in her class. However, she cannot really teach that well and usually just reads off the slides so you must self study for the most of the class. The exams are hard but you only really need to score a high C or above to get an A there are a multitude of assignments and extra credit that help your grade a lot. Its not too hard of a class you just need to put in the work.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2025-12-21T04:44:01.187407Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Very kind and supportive professor. Incredibly understanding and very student friendly. \r\n\r\nThis is a very difficult class in terms of content and the degree of complexity. However, she records her lectures, posts all of her lectures accordingly and on-time, provides a lot of student-friendly extra credit opportunities, and is very approachable. \r\n\r\nI had a pretty difficult semester in a lot of ways and she really helped alleviate some of that burden by being a great and compassionate professor. Would recommend but don't fall behind with notes, it is a 400-level biology course for a reason.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-12-23T06:06:17.278870Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Dr. Wu is an incredibly kind and supportive professor. The material in BSCI410 is challenging and fast-paced, but lectures are well-organized, and the exams are fair and application-based. She is very approachable in office hours, explains concepts clearly, and provides helpful resources throughout the semester. The extra credit opportunities are especially helpful if an exam doesn\u2019t go as expected. If you\u2019re interested in genetics and willing to put in the effort, this is a very rewarding class.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2026-01-08T23:05:00.032705Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Dr. Wu is a very supportive professor who truly cares about her students. The class is hard, and goes to over some pretty complicated lab techniques like melting curves for qPCR, but so long as you know how to apply what you learn, and take good notes, you will be fine on the exams. I highly recommend attending her office hours as she is the type of teacher  make an effort to connect with her students. Whenever I went, she always checked in to see if I fully understood the concept even when there were 15+ people in her office. She also offers exam review to earn points back on the first exam and a extra credit presentation at the end of the semester. So if you put in the effort you will get a good grade!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2026-02-12T23:10:45.497861Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "The content and the exams can seem a bit intimidating in BSCI410 at first, but Dr. Wu is extremely kind and provides a lot of opportunities to do well (from dropping an exam to providing extra credit opportunities) The exams are open note but that doesn't mean they are easy, so I recommend not solely relying on your notes!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2026-02-14T09:17:57.389372Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "I took Dr. Wu's class during the Fall 2025 semester. The class was very interesting with many different genetics topics covered. Although there is a lot of content I wouldn't say its mass memorization but rather condensing and understanding as much as you can. Definitely recommend taking this class with her!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2026-03-10T19:45:15.246273Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Dr. Wu is a very supportive and engaging professor who clearly cares about her students\u2019 success. The content in this class can feel overwhelming at times, and you definitely need a basic, fundamental understanding of genetics to do well. It\u2019s not a class where you can slack off or cram the night before exams; you really need to keep up with the material and put in consistent effort. That said, if you pay attention and stay on top of the work, it is very possible to do well (I received an A- in the course).\r\n\r\nDr. Wu is also extremely willing to meet with students and help them improve. I didn\u2019t do very well on the first exam, and she met with me multiple times to go over the material and help me figure out how to study more effectively. She is a very caring professor and honestly one of the nicest, most down-to-earth professors I\u2019ve had at UMD.\r\n\r\nShe also provides several opportunities for extra credit, drops the lowest exam, and there is no cumulative or final exam, which helps reduce stress throughout the semester. The lectures also include interesting examples that make the material more engaging. Overall, she is very fair and forgiving, and all of the course policies are clearly outlined in the syllabus so you know exactly what to expect.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2026-03-15T02:27:33.890259Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Dr. Wu is a very supportive and engaging professor who clearly cares about her students\u2019 success. The content in this class can feel overwhelming at times, and you definitely need a basic, fundamental understanding of genetics to do well. It\u2019s not a class where you can slack off or cram the night before exams; you really need to keep up with the material and put in consistent effort. That said, if you pay attention and stay on top of the work, it is very possible to do well (I recieved an A- in the course).\r\n\r\nDr. Wu is also extremely willing to meet with students and help them improve. I didn\u2019t do very well on the first exam, and she met with me multiple times to go over the material and help me figure out how to study more effectively. She is a very caring professor and honestly one of the nicest, most down-to-earth professors I\u2019ve had at UMD.\r\n\r\nShe also provides several opportunities for extra credit, drops the lowest exam, and there is no cumulative or final exam, which helps reduce stress throughout the semester. The lectures include interesting examples that make the material more engaging. Overall, she is very fair and forgiving, and all of the course policies are clearly outlined in the syllabus so you know exactly what to expect.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2026-03-16T01:14:56.233385Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Dr. Wu is one of the best and most caring professors I have had the honor of having a class with. Dr. Wu genuinely cares about her students more than any professor I've had in the past. Ample opportunity for extra credit and to show your work ethic. This course is lecture heavy with difficult material make sure to be prepared and dedicated.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2026-04-10T21:49:43.035331Z"
+    },
+    {
+      "professor": "Louisa Wu",
+      "course": "BSCI410",
+      "review": "Dr. Wu cares a lot about her students and is very kind. She is extremely approachable during office hours and takes time to make sure everyone in office hours is seen. The class is hard and contains a lot of information, but the exams are open note and she provides an opportunity to review the exam back for extra points. She drops an exam and you are able to get point back for test corrections on the first exam.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2026-04-16T20:02:34.965687Z"
+    }
+  ],
+  "department": "BSCI",
+  "course_number": "410",
+  "name": "BSCI410",
+  "title": "Molecular Genetics",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> BSCI222. And must have completed CHEM233; or (CHEM231 and CHEM232).\nAn advanced genetics course emphasizing the molecular basis of gene structure and function in the context of modern approaches to the genetics of humans and model organisms.\n<i>(Sponsoring Dept.: CBMG) Acceptable toward Biological Sciences specialization areas: PHNB, MICB, CEBG, GENB and ECEV.</i>",
+  "is_recent": true,
+  "geneds": null
+}

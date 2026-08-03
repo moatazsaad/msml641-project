@@ -1,0 +1,276 @@
+{
+  "average_gpa": 3.463886063072228,
+  "professors": [
+    "Leo Shapiro",
+    "Francisca Saavedra",
+    "Hans Lemke",
+    "Francisca Saavedra",
+    "Hans Lemke",
+    "Francisca Saavedra",
+    "Hans Lemke",
+    "Hans Lemke",
+    "Hans Lemke",
+    "Michael Keller",
+    "Hans Lemke",
+    "Michael Keller",
+    "Hans Lemke",
+    "Michael Keller",
+    "Hans Lemke",
+    "Michael Keller",
+    "Hans Lemke",
+    "Hans Lemke",
+    "Michael Keller",
+    "Hans Lemke",
+    "Michael Keller"
+  ],
+  "reviews": [
+    {
+      "professor": "Francisca Saavedra",
+      "course": "BSCI161",
+      "review": "Very strict when grading assignments. Don't take online.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2020-12-04T04:29:31Z"
+    },
+    {
+      "professor": "Hans Lemke",
+      "course": "BSCI161",
+      "review": "Very absent. I only talked to him one time the entire class. Never responds to emails, and when I emailed the TA she said to email him. I took the class online and they rarely clarified the directions if you have questions and nobody else in the class could figure them out either. ",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2020-12-11T15:16:36Z"
+    },
+    {
+      "professor": "Hans Lemke",
+      "course": "BSCI161",
+      "review": "161 is a very easy class. Almost painfully easy. Every lab is done online with Top Hat, which makes you wonder why the course is even taught in person. A lot of time is wasted waiting for the TA to explain things that we could easily figure out ourselves, or that we already learned about in lecture. For the most part, the instructions are clear, but not always. Two of the labs are group projects that have a bit more work involved, but the TAs are helpful letting you know everything you need to include. There's no final exam, but there is an individual final project where you just have to go out and watch birds for 10 minutes, three days in a row, and answer a bunch of questions. As long as you turn in everything on time, you're basically guaranteed an A.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2021-12-18T16:26:41Z"
+    },
+    {
+      "professor": "Hans Lemke",
+      "course": "BSCI161",
+      "review": "So apparently they've changed this course from previous semesters because this class is not at all how my friend described it in the fall of 2021. The labs are no longer done online on TopHat, they are physical in-person labs that are tedious and take up the full 3-hour lab session almost every single time. They added many more unnecessary projects (pretty much one every week on top of your weekly post-lab and pre-lab assignments) and the R studio coding you have to do is god-awful. I'm literally a CS major and the R Studio coding had me wanting to pull out my hair. Not to mention how they pretty much lie to you and say \"you don't have to memorize r studio code for any assignments don't worry purr we'll always give it to you\" but then literally the next assignment and the final has you writing your own r studio code. \r\n\r\nOverall, it's just way too much work for a one-credit class. If you really like bio that much or you need this then take it I guess. It's not necessarily difficult work but it is tedious and it will take up a good amount of time on top of BSCI160 which you're probably taking.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2022-05-05T02:32:59Z"
+    },
+    {
+      "professor": "Hans Lemke",
+      "course": "BSCI161",
+      "review": "This class was a breeze. Yes, you have to show up to labs, yes they take the full three hours sometimes. Yes, you will have to put effort into this class, even though it is one credit. However, it is impossible to do bad unless you simply do not do the work. The class average was a 91 this past semester and I think that says enough. Pre-Labs and Post-Labs were done online via TopHat (free points). I never spent more than an hour per week for this class besides the last week, where I might have spent a massive extra 30 minutes. I have no idea what other reviews are talking about, but it is a very easy course. Best of luck.\r\n-",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-05-27T17:34:53Z"
+    },
+    {
+      "professor": "Hans Lemke",
+      "course": "BSCI161",
+      "review": "While this course is pretty tedious it's not too hard to do well as long as you pay attention to the tools used during the labs. I took this class along with BSCI 161 as a DSNL gened, a decision which I very much regret. This course is much harder than it was 2 years ago than when it was online. I never met or spoke to Hans Lemke during the lab.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2022-12-14T15:06:48.625511Z"
+    },
+    {
+      "professor": "Hans Lemke",
+      "course": "BSCI161",
+      "review": "He is really bad at listening to student feedback and very arrogant as well as rude. He could not resolve the issue with my group members being awful and your group member's have an affect on your grade that will tank it at the end of the class (which he doesn't mention). Don't take this lab if you don't to Hans is a garbage lab coordinator and the new curriculum for the course is also terrible.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2022-12-15T19:14:07.466987Z"
+    },
+    {
+      "professor": "Hans Lemke",
+      "course": "BSCI161",
+      "review": "Didn't meet or hear from Lemke the entire (in-person) lab, but that isn't necessarily a bad thing - I had no issues with the class so I never had to contact him. The only person I knew was the TA, who was great - Krisztina Christmon. The labs were usually easy, especially if you already have experience with pipettes and spectrophotometry. You don't exactly need to know how to code in R before taking this lab, but they do expect you to use R for some of the labs and it will be helpful to learn a bit of R before enrolling.\r\nEvery lab is a group project, which may or may not be good to you. There are some outside-of-class projects you have to do, but they are usually simple enough and don't require too much work.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2022-12-20T17:28:32.304038Z"
+    },
+    {
+      "professor": "Hans Lemke",
+      "course": "BSCI161",
+      "review": "This class was the easiest class of my semester. You spend the entire semester with your TA (have never meet Lemke once). Extremely lucky and grateful for my TA (shoutout Amanda) and my groupmates. There was only about 1-2 hours worth of work each week (pre lab and post lab). There was no final or midterm..only a practical which they give you the questions before hand.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-12-24T02:12:26.658288Z"
+    },
+    {
+      "professor": "Hans Lemke",
+      "course": "BSCI161",
+      "review": "Lemke is a lab coordinator, so of course you would never see him unless he happens to pop in to your class. Any lab you take, you'll rarely see the lab coordinator unless something occurs that the TA cannot handle themselves. Talking directly about the lab itself, horrible. Not in that it was hard (very easy and does align itself with how a 1 credit, 100 level lab course should be), just extremely boring, tedious, and long. I do not know if this was just my TAs style of teaching, but a lot of stuff you do with the class. For example, the class will be working through the lab manual together at the same time and you cannot move on until everyone has finished a particular question. Not a lot of actual experiments done as well; mainly learning concepts which I feel is something you do in lecture, not lab. All that being said, it is an easy A lab as long as you do the assignments and have a good group.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2023-05-19T02:00:53.110725Z"
+    },
+    {
+      "professor": "Hans Lemke",
+      "course": "BSCI161",
+      "review": "TBH The lab coordinator for this class is so whack, he expects way too much from a 1 credit class, there is a project every single week. Pray you have a decent group cuz mine was ass. And pray you dont have hans as a TA. The only reason there is 2 stars is because the work itself was overall easy, the people in the class made it a drag.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2023-11-17T16:28:24.030782Z"
+    },
+    {
+      "professor": "Hans Lemke",
+      "course": "BSCI161",
+      "review": "The lab was an easy 1-credit course, but many of the projects were lengthy. Never met Hans, so the TA does all the teaching which is what can make or break the class. All of the labs are straightforward with detailed instructions. There are many assignments in this course: pre lab exercises, pre lab quizzes, post lab exercises, group assignments, and individual assignments almost every week. There is a lab practical at the end of the semester, but it is straightforward and the questions are posted beforehand.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2023-11-30T02:20:53.388788Z"
+    },
+    {
+      "professor": "Hans Lemke",
+      "course": "BSCI161",
+      "review": "Hans is just the coordinator so you never see him and the TA leads and teaches the class. (which is normal for labs) But you just kinda have to get through the labs and its a lotttttt of busy work. Not necessarily hard but its just long and boring. Kinda fun if you're with friends tho.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2023-12-16T01:10:02.466494Z"
+    },
+    {
+      "professor": "Hans Lemke",
+      "course": "BSCI161",
+      "review": "The course itself was an easy A, and the content was all pretty easy to learn. The syllabus was well written, and that was the extent of the student's contact with Hans. The rest of the course is TA ran, and as long as you have a decent TA you'll be fine. The one tip I will give is to make sure you create a good relationship with your lab partners, as you spend a lot of time with them and have a lot of collaborative work to do together.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2023-12-18T03:21:50.505664Z"
+    },
+    {
+      "professor": "Hans Lemke",
+      "course": "BSCI161",
+      "review": "This review is more for the course than Hans. You likely won't see him throughout the semester and will only ever communicate with him if you're absent. \r\n\r\nThe course content was easy and mostly just busy work but your general experience will also depend on the TA and group members.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-05-15T19:06:28.604445Z"
+    },
+    {
+      "professor": "Hans Lemke",
+      "course": "BSCI161",
+      "review": "Such a horrible lab. I  can't even describe how outrageous the workload was. There are never any clear directions pn how to complete individual projects and you're completely left in the dark.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2024-09-30T16:25:13.909058Z"
+    },
+    {
+      "professor": "Hans Lemke",
+      "course": "BSCI161",
+      "review": "The material itself is not complicated, but jesus christ be prepared to have to go to a million different places for material and instructions. A unfortunately common case of \"woohoo internet\" that they have just stopped being reasonable and keeping things together. Also some pretty unreasonable absence policies but its not enough to tank your grade. Just such a pointless slog of busy work :[\r\n\r\nLemke's fine. You wont see him unless you have issues.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2024-10-15T00:18:13.178603Z"
+    },
+    {
+      "professor": "Hans Lemke",
+      "course": "BSCI161",
+      "review": "I am lucky enough to have him instead of a TA for my bio lab. He's a very nice and funny guy. His lab is not the most exciting, and there is a lot of work, but that is more of a reflection of the class and not him. He is pretty helpful when you ask questions, but he can also be a strict grader. His assignments aren't too challenging, they just usually take while. If you have to take this lab, he is a good lab coordinator.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2024-10-17T23:45:25.892171Z"
+    },
+    {
+      "professor": "Hans Lemke",
+      "course": "BSCI161",
+      "review": "This lab was a fucking shitshow. You're given no instructions on how to complete difficult homework. He leaves you completely in the dark. I'm not exaggerating when I  say there are no instructions. Assignments will say \"make x,y,z\" with no further explanation on how to do so.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2024-10-30T21:07:27.217463Z"
+    },
+    {
+      "professor": "Hans Lemke",
+      "course": "BSCI161",
+      "review": "I had Professor Lemke for my lab and it was absolutely awful. He is unnecessarily harsh with grading and doesn't explain why he took points off. He also gives vauge instructions and then takes points off when you can't read his mind. He is gets very defensive if you ask him a question and gives sassy and unhelpful answers. If you are unfortunate enough to have him, switch to a TA IMMEDIATELY.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2024-11-20T00:38:42.866287Z"
+    },
+    {
+      "professor": "Hans Lemke",
+      "course": "BSCI161",
+      "review": "I've never met the man. Lemke is kind of non-existent when it comes to the course, but I guess that's just the way it was designed. The TA does most of the brunt work and unless you're making up an absence, or Lemke is your \"TA,\" you won't even interact with him. \r\nIn terms of the actual course, I really liked my TA, and I haven't heard of anyone not liking theirs. You have weekly pre-lab and post-lab assignments that can take anywhere from 5 minutes to an hour depending on the assignment. You also need a lab manual for the course which explains the material pretty well for the most part and is very Maryland-specific which was cool. IF YOU MISS MORE THAN THREE LABS (even if it's excused) YOU WILL AUTOMATICALLY FAIL THE CLASS. I don't know who this would happen to but it seems important. The lab period itself typically lasts 2-ish hours, so you get let out early a lot of the time.\r\nThe final is a lab practical of 12-13 questions split into stations. You get 3 minutes for each question and 3 minutes to check your answers at the end. You get a calculator or access to Appendix C and D for the questions that you would need them for which make it a lot less stressful. It is VERY fast-paced though. They do post the questions in advance though which helps though many of them are meant to apply to specific scenarios given to you during the exam.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-12-06T21:23:22.969616Z"
+    },
+    {
+      "professor": "Michael Keller",
+      "course": "BSCI161",
+      "review": "I've never met the man. Keller is kind of non-existent when it comes to the course, but I guess that's just the way it was designed. The TA does most of the brunt work.\r\nIn terms of the actual course, I really liked my TA, and I haven't heard of anyone not liking theirs. You have weekly pre-lab and post-lab assignments that can take anywhere from 5 minutes to an hour depending on the assignment. You also need a lab manual for the course which explains the material pretty well for the most part and is very Maryland-specific which was cool. IF YOU MISS MORE THAN THREE LABS (even if it's excused) YOU WILL AUTOMATICALLY FAIL THE CLASS. I don't know who this would happen to but it seems important. The lab period itself typically lasts 2-ish hours, so you get let out early a lot of the time.\r\nThe final is a lab practical of 12-13 questions split into stations. You get 3 minutes for each question and 3 minutes to check your answers at the end. You get a calculator or access to Appendix C and D for the questions that you would need them for which make it a lot less stressful. It is VERY fast-paced though. They do post the questions in advance though which helps though many of them are meant to apply to specific scenarios given to you during the exam.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-12-06T21:25:35.751025Z"
+    },
+    {
+      "professor": "Hans Lemke",
+      "course": "BSCI161",
+      "review": "Hans is actually the lab coordinator but he ended up teaching my section instead of a TA so if you're in the same situation you got lucky! I thought he was a super nice professor who always tried to make the lab a little more enjoyable for everyone. He responds to emails super fast and leaves comments for why he took off points on each assignment so you don't make the same mistakes. Some assignments were harder than others, but none were horrible.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-12-09T18:22:26.759465Z"
+    },
+    {
+      "professor": "Hans Lemke",
+      "course": "BSCI161",
+      "review": "Fairly easy class. Kind of seems like a filler class without real purpose. But I might be biased because I do not like ecology.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2024-12-13T22:49:13.250272Z"
+    },
+    {
+      "professor": "Hans Lemke",
+      "course": "BSCI161",
+      "review": "A lot of work for a 1 credit class. Instructions were often vague or confusing. The lab was run by a TA, not Hans, who I must add was unnecessarily strict and harsh. But no one ever actually meets him in person so he could care less about what grade you get. We were told that group evaluations would not affect our grades, but surprise surprise, they were. Would not take it again.",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2024-12-14T01:28:48.032483Z"
+    },
+    {
+      "professor": "Hans Lemke",
+      "course": "BSCI161",
+      "review": "I actually had Hans Lemke instructing my lab which was beneficial since he's the coordinator of the lab. Overall it was a lot of work for 1 credit and mostly reliant on group work. I am not a big fan of group work, especially a randomly assigned group where some people may not be pulling their weight. He says that issues with group members can be resolved if you go to him, but realistically who wants to deal with a confrontation like that or be responsible for tanking someone's grade in the final group evaluation? Anyway, although the grading seems harsh it doesn't affect your grade too much to have 5 points or so taken off of assignments. The absence policy was super annoying. I missed a week of lab due to being sick and because I never filled out the form I got zeroes on everything, including the pre-lab assignment and quiz that I completed. I'd still give him 4 stars because he was nice and funny in class and at the end of the day it's still easy to get an A as long as you do the work.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-12-20T19:48:34.370983Z"
+    },
+    {
+      "professor": "Hans Lemke",
+      "course": "BSCI161",
+      "review": "Never saw instructor once - class is taught by the TA. Otherwise, this class has a crazy amount of work for 1 credit. Has extremely vague instructions in majority of the assignments, so be prepared to lose points on some bullshit that either was A) Very vaguely worded instructions that could be interpreted in a majority of ways - or B) Flat out not specified within the instructions. If you are taking this class, I very strongly recommend that you prepare receipts for arguing points back with the TA. You'll 100% need it.",
+      "rating": 2,
+      "expected_grade": "A+",
+      "created": "2025-05-10T21:35:48.454674Z"
+    },
+    {
+      "professor": "Hans Lemke",
+      "course": "BSCI161",
+      "review": "how am i getting a b in this class... you never see the professor and whenever you email him about grading he gives a passive aggressive response. had an assignment that had very vague instructions so i did it wrong. asked him to redo it and he said no. you dont even teach this class and frankly your workbook is actually very poorly written. did anyone actually read over it before publishing it?",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2025-12-08T04:31:19.155281Z"
+    },
+    {
+      "professor": "Ben Waterman",
+      "course": "BSCI161",
+      "review": "great bio lab TA, he made rubrics and guides for the big assignments since canvas didn't provide them, super fast with email responses and grading",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-11T22:41:36.450972Z"
+    },
+    {
+      "professor": "Hans Lemke",
+      "course": "BSCI161",
+      "review": "This review doesn't have much to do with the instructor, more about BSCI161, because it's a lab and everything is run by the TA. The instructor himself seems pretty nice based off the few emails we got from him. This class is very easy, but it is actually such a waste of a time and money. Definitely try to take this class with friends which will maybe make it bearable, but I don't think I learned anything from this class because everything is common sense or things we learned in 6th grade biology. This class much more feels like something made for middle schoolers than a college course. It's actually so boring and everything just feels like busy work.",
+      "rating": 2,
+      "expected_grade": "A+",
+      "created": "2026-03-01T00:22:01.017795Z"
+    }
+  ],
+  "department": "BSCI",
+  "course_number": "161",
+  "name": "BSCI161",
+  "title": "Principles of Ecology and Evolution Lab",
+  "credits": 1,
+  "description": "<b>Prerequisite:</b> Must have math eligibility of MATH120 or higher.\n<b>Corequisite:</b> BSCI160.\n<b>Recommended:</b> For Science majors.\nBasic laboratory principles of biology with special emphasis on ecological and evolutionary biology.\n<i>(Sponsoring Dept.: BSCI). Students must pay a $40.00 laboratory materials fee.</i>",
+  "is_recent": true,
+  "geneds": null
+}

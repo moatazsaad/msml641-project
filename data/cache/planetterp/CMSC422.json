@@ -1,0 +1,561 @@
+{
+  "average_gpa": 3.2000282087447105,
+  "professors": [
+    "James Reggia",
+    "Hal Daume",
+    "Venkatramanan Subrahmanian",
+    "Marine Carpuat",
+    "Ramani Duraiswami",
+    "David Jacobs",
+    "William Regli",
+    "Furong Huang",
+    "Soheil Feizi",
+    "Furong Huang",
+    "Mohammad Nayeem Teli",
+    "Mohammad Nayeem Teli",
+    "Soheil Feizi",
+    "Mohammad Nayeem Teli",
+    "Mohammad Nayeem Teli",
+    "Furong Huang",
+    "Heng Huang",
+    "Mohammad Nayeem Teli",
+    "David Jacobs",
+    "Mohammad Nayeem Teli",
+    "Mohammad Nayeem Teli",
+    "Heng Huang",
+    "Marine Carpuat",
+    "Mohammad Nayeem Teli",
+    "Furong Huang",
+    "Mohammad Nayeem Teli"
+  ],
+  "reviews": [
+    {
+      "professor": "Hal Daume",
+      "course": "CMSC422",
+      "review": "Unfortunately, Hal was disappointing. At first, he seemed like he'd put a tremendous amount of effort into the class and that we would learn a lot. After the first 3 weeks though, he stopped putting any effort, and taught extremely poorly. We barely covered any material, and he made the final trivial. I wouldn't recommend him for anyone who wants to learn: though he does make the class very very easy (16% extra credit absolute).",
+      "rating": 2,
+      "expected_grade": "A+",
+      "created": "2016-12-18T16:50:00Z"
+    },
+    {
+      "professor": "Alex Springer",
+      "course": "CMSC422",
+      "review": "Very good",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2018-02-23T03:37:20Z"
+    },
+    {
+      "professor": "Ramani Duraiswami",
+      "course": "CMSC422",
+      "review": "Friendly guy, not the best teacher or course. Curves well",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2019-12-18T07:26:34Z"
+    },
+    {
+      "professor": "Ramani Duraiswami",
+      "course": "CMSC422",
+      "review": "Ramani is a friendly teacher, but I don't think he taught 422 that well. Lectures were sort of boring, and he doesn't really explain concepts in an intuitive, understandable way.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2019-12-19T00:42:56Z"
+    },
+    {
+      "professor": "David Jacobs",
+      "course": "CMSC422",
+      "review": "Friendly and knowledgeable. Good curve at end. Good intro to ML concepts, as it is not too thorough and covers a good amount of material. ",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2019-12-21T16:45:04Z"
+    },
+    {
+      "professor": "James Reggia",
+      "course": "CMSC422",
+      "review": "pretty chill prof, understanding of personal issues. the class isn't too difficult for a 400 level class, but i took this class during the covid pandemic so that might have skewed the difficulty of class(making it easier). either way if he's teaching take it with him!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2020-05-13T01:13:31Z"
+    },
+    {
+      "professor": "Ramani Duraiswami",
+      "course": "CMSC422",
+      "review": "Worst taught course ever. This course was co-taught by him and David Jacobs, and I ended up skipping my other CS class to go to Jacobs' discussions. If you have the option please take Jacobs instead. Dr. Duraiswami simply reads over slides, didn't truly teach anything, especially if it related to the weekly quizzes or the final, and wouldn't go over quiz answers because somehow we're magically supposed to \"understand\" what we were never actually taught. He also would make a lot of errors, which is perfectly human, but it was never corrected, and some of us can't tell what's right/wrong to be able to immediately correct him. As a result, I never had any real material to study off of and didn't learn enough to know whether what he did was actually correct or not. Also, office hours were very limiting and didn't help much with problem sets. Overall, poorly taught class, and would not take a course with him again.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2021-01-14T21:46:56Z"
+    },
+    {
+      "professor": "Furong Huang",
+      "course": "CMSC422",
+      "review": "Professor Huang is a good instructor, but the course is poorly designed in my opinion. She was very generous with grades (due to the pandemic probably), and the class material was pretty straightforward. The homeworks in the form of ELMS quizzes make it feel like you don't learn much that much though.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2021-06-14T17:38:17Z"
+    },
+    {
+      "professor": "Ramani Duraiswami",
+      "course": "CMSC422",
+      "review": "Lectures are handwritten, which is horrible. They request you read the textbook before the lecture, but then review it verbatim, therefore making reading the textbook feel a little frustrating. However, he is quite knowledgeable and communicates content pretty effectively.\r\n\r\nHe combines his lectures with the other professor, and it just ended up being really annoying. Especially since the other professor was significantly worse at teaching than he was.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2021-12-09T19:02:30Z"
+    },
+    {
+      "professor": "Ramani Duraiswami",
+      "course": "CMSC422",
+      "review": "I took this course in Fall 2021\r\n\r\nPros:\r\n+ Generally nice guy\r\n\r\nCons:\r\n- Is a meh lecturer, I do not feel as though his explanations of concepts were sufficient\r\n- Lectures are handwritten, and is often hard to read\r\n- Lecture notes are not easily available in one place, they were on Piazza but not readily organized, and half of them weren't even there.\r\n- Lecture barely helps with coding assignments\r\n- THE CLASS IS VERY DISORGANIZED! Along with what I've already said, lectures were delivered during the Tuesday morning section and the Thursday afternoon section. However, since you are only scheduled for either the morning or afternoon section, you would either have to find some way to get there in time, or (most likely), watch the lecture videos which are extremely long. They did not make it clear how exactly content was split up between both of those classes, or what quizzes were on what concepts, and it took me about a month and a half to figure out how the class was organized.\r\n- Workload is very high, even for a 3 credit CS class",
+      "rating": 2,
+      "expected_grade": "B-",
+      "created": "2021-12-23T19:03:29Z"
+    },
+    {
+      "professor": "David Jacobs",
+      "course": "CMSC422",
+      "review": "I took this course in Fall 2021\r\n\r\nPros:\r\n+ Generally nice guy\r\n+ Pretty good curve\r\n+ Pretty good lecturer\r\n\r\nCons:\r\n- Some lectures, especially towards the end, seemed irrelevant to the course, only for them to appear on the final. This seemed unfair, especially when it was alluded that the topics were auxiliary to the course\r\n- Lecture notes are not easily available in one place, they were on Piazza but not readily organized, and half of them weren't even there.\r\n- Lecture barely helps with coding assignments\r\n- THE CLASS IS VERY DISORGANIZED! Along with what I've already said, lectures were delivered during the Tuesday morning section and the Thursday afternoon section. However, since you are only scheduled for either the morning or afternoon section, you would either have to find some way to get there in time, or (most likely), watch the lecture videos which are extremely long. They did not make it clear how exactly content was split up between both of those classes, or what quizzes were on what concepts, and it took me about a month and a half to figure out how the class was organized.\r\n- Workload is very high, even for a 3 credit CS class",
+      "rating": 3,
+      "expected_grade": "B-",
+      "created": "2021-12-23T19:07:51Z"
+    },
+    {
+      "professor": "David Jacobs",
+      "course": "CMSC422",
+      "review": "I don't usually do reviews, but I really wish someone would have warned me about this class before I took it. It is quite possibly one of the worst taught classes I have ever taken at UMD, mostly because of how its run. \r\n\r\n1. Class Structure - This class is the most disorganized class in the CS department. Jacobs and Duraiswami co-teach, so even if you are in Jacobs's section you'll still have to deal with lectures from Duraiswami (and vice versa if you're in the other section). For some reason the professors thought it was okay to essentially add another \"period\" of mandatory content. We had in-person lecture on Tuesday, and Thursdays were reserved for \"discussion\" where we would do actual practice problems instead of theory. However, before the next week's Tuesday lecture, you were expected to watch the recorded lecture from the other section. So basically, even though you only registered for two 1 hr 15 min periods, you effectively had to complete 3 to make the most out of the class. Another issue is that none of the resources are centralized. They post the jamboard from lecture in the resources section of piazza, but discussion problems and jamboards are lost within the sea of piazza questions. Some of them were missing, and in general it was extremely difficult to access the content in a systematic way. \r\n\r\n2. Content -  I ended up self teaching a lot of the content in this class. During lectures, both professors tended to ramble and never really seemed to hit the point. Rather than using structured slides, they taught freely while writing things on a Google Jamboard (essentially a virtual whiteboard). This is fine if you know exactly what you want to talk about, but unfortunately Jacobs had a tendency to make a lot of mistakes and get confused while teaching. I never retained anything from lecture until I googled things on my own to learn them. I also felt like the general flow of topics could have been a little better. \r\n\r\n3. Responsiveness & Grading- This class had one of the worst Piazza response rates. There were times where I would have questions that went over 4 days unanswered. This was especially problematic when a project was due the same week. A lot of times responses were also not that helpful. For example, I remember someone asked for clarification on one of the questions from the final review, and a professor responded with \"I don't see what's unclear with this solution,\" and then did not respond to the student's followup. The grading in the class was also extremely slow. Problem sets and quizzes from the middle of october were only graded in the last couple weeks of the semester. Solutions were not released until the last week either, which made it very difficult to study or even know where you stand in the class before the withdraw deadline. I understand that grading of written problem sets takes time, but in general it felt like there was no communication between instructors and TAs.\r\n\r\nOverall I was extremely disappointed with the class, especially given that I love machine learning. Some pros are that the professors were nice and generally approachable. There was also a decent curve at the end which helped boost a lot of grades. I'm sure both Jacobs and Duraiswami are smart people, but I think they did a pretty bad job teaching. I would take 422 with different professors if you can. ",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2021-12-25T00:27:40Z"
+    },
+    {
+      "professor": "David Jacobs",
+      "course": "CMSC422",
+      "review": "Generally a good professor for ML. Pretty responsive to student questions and very helpful/accessible especially during OHs. Overall, the class covered what I thought to be a pretty good range of different topics in ML appropriate for an introductory course, providing a solid foundation on the fundamentals including multivar calc, inner product, supervised learning, bayesian reasoning, and neural networks. Also, there were lectures on special topics(eg. GANs, transformers, CV,  ect) that were really interesting. Although, the class/lectures did feel a bit unstructured/disconnected at times due to 2 professors coteaching the course. Also, especially for those with a background in ML, the class material did feel a bit shallow and didn't rigorously cover some of the algorithms eg. SVMs to the level I would have liked\r\n\r\nBut overall, Prof Jacobs is a pretty solid choice and CMSC422 does offer what I think to be a good primer into the ML field that can be easily built upon through more advanced ML/DL courses.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2021-12-28T03:14:56Z"
+    },
+    {
+      "professor": "Furong Huang",
+      "course": "CMSC422",
+      "review": "Decent instructor but the course is planned very poorly. She gives a decent curve but the homework quizzes were quite difficult and the exams were very abstract. The study material never seemed to help and i spent a lot longer than I should have on the assignments. Shes a good professor, but the class is going to be a challenge",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2022-04-05T21:24:32Z"
+    },
+    {
+      "professor": "Furong Huang",
+      "course": "CMSC422",
+      "review": "Dr. Huang is a friendly professor and willing to help students but she expects students to have a higher math background than indicated by the course prereqs which makes following lectures difficult. The homeworks and exams are not exactly related to the content in the slides, and the projects do not have much detail, which overworks the TAs who have to answer all the holes in the projects. Despite this I still recommend her because she is very nice.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2022-05-19T00:59:28Z"
+    },
+    {
+      "professor": "Furong Huang",
+      "course": "CMSC422",
+      "review": "Incredibly caring professor. She makes an effort and it shows. Take her class and you won't regret it. It's by no means an easy A, but also not too difficult. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-07-12T23:23:14Z"
+    },
+    {
+      "professor": "Furong Huang",
+      "course": "CMSC422",
+      "review": "Nice professor, decent lectures. Often got very difficult to force myself to go as they were slow. Projects and slides were old and she would have notes that she would not put on the slides and only say out loud during lectures. If you missed it, that's too bad, it was probably on the weekly ELMS quiz, which was always annoying. Having only two attempts for the quizzes was super frustrating, especially for very mathematically dense weeks. The projects were fair, a little tedious. They have an autograder on ELMS, but we do not have access to see how we did until we get the grade. ELMS Computer Science courses stink, just put it on gradescope.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2022-12-16T16:19:14.302284Z"
+    },
+    {
+      "professor": "Soheil Feizi",
+      "course": "CMSC422",
+      "review": "Pros:\r\n-He's pretty fun\r\n-Getting a good grade is doable due to him curving the exams if people do bad\r\n-Not very much work\r\n\r\nCons:\r\n-The class was much more theory based than I expected. I don't feel any more prepared to implement machine learning algorithms than I did before starting the class\r\n-I've only taken the midterm so far but it was hard\r\n-Not very much work means there wasn't much practice content\r\n-Only one programming assignment and it was kind of a mess\r\n-He doesn't record lectures\r\n\r\nOverall I would recommend taking the class with Feizi though!",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2023-05-03T22:35:48.151167Z"
+    },
+    {
+      "professor": "Soheil Feizi",
+      "course": "CMSC422",
+      "review": "If possible, avoid Feizi, great person, horrendous structure of class. I agree with the other review, barely got to implement the algorithms specified in the class so I have nothing but tens of math theories in my brain which I will later forget. Would rather take Teli who has many projects so you can actually apply the material instead of this turning into a higher level theoretical math class. \r\n\r\nOther person is coping with the 4 star review and is judging based on how nice he is. Don't fall for the trap or else Feizi will give you a present.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2023-05-19T05:20:13.844245Z"
+    },
+    {
+      "professor": "Soheil Feizi",
+      "course": "CMSC422",
+      "review": "Excellent lecturer. The logistics of the course were pretty bad - the TAs were often unavailable and not very helpful, and the homework assignments (ELMS quizzes and a programming assignment) were never really reviewed or explained well. Overall a good experience though.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2023-05-21T12:51:24.924916Z"
+    },
+    {
+      "professor": "Soheil Feizi",
+      "course": "CMSC422",
+      "review": "Other reviews are generally correct. He's a nice guy and keeps lectures fun but everything that is taught is stuff that will just pass through your head by the time the class is done (experiencing that rn). Him and his TAs are like always MIA tho so you are kind of on your own. I think Teli is the move if you want to learn stuff and retain it though. Still a decent experience overall.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2023-05-30T14:55:24.579329Z"
+    },
+    {
+      "professor": "Mohammad Nayeem Teli",
+      "course": "CMSC422",
+      "review": "This is a midsemester review for the class in Fall 2023. I think Prof Teli has done a great job teaching this class so far. He posts the lecture slides and notes relatively quickly, does a good job at answering questions within lectures, and uploads the lecture recordings. He and his TAs are also very responsive on Piazza and provided a practice midterm before the actual exam. The HW quizzes in ELMS  do a good job of reinforcing the concepts for the ML models we've covered and we get 1 week to do each of them. The lecture examples and HW problems definitely help in preparing for the midterm. I thought it was reasonable. The projects are interesting and we get about 2-3 weeks to work on each them. I'd recommend starting the projects early. The HW quizzes are automatically graded and you get a few attempts to work on each one, which I think is very nice. The TAs and Prof Teli are very helpful and understanding in their in-person OH. One concern I have regarding the class is there not online OH in addition to the in-person ones as there probably are students not always on campus that could benefit from them. Another is that there are no late submissions allowed so it is important to get all your assignments done on time. Aside from that, I think Prof Teli overall has done a great job and he has been very organized with this class. I took 320 online in Summer 2023 and his class was also very organized. I think a lot of the reviews are very negative towards Teli's teaching as a professor and he is very underrated. I highly recommend you take a class with Teli if possible (preferably 320 or 422).",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-10-19T23:48:46.187464Z"
+    },
+    {
+      "professor": "Soheil Feizi",
+      "course": "CMSC422",
+      "review": "Awesome professor who is very approachable and super passionate about what he is teaching. Exams were fair and so were homework which were also quite sparse. The programming assignments were a little disorganized and a little underwhelming in that we did not get a lot of programming experience with ML but the course is more about the theory and being able to apply things.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-11-08T05:41:15.900090Z"
+    },
+    {
+      "professor": "Mohammad Nayeem Teli",
+      "course": "CMSC422",
+      "review": "Pretty much agree with all the recent comments about Teli as well. He's a great professor and really good at explaining the math behind all the ML-related concepts taught in this class in an understandable, step-by-step manner. The math discussions can get dry but it's a really important part of succeeding in this field, and Teli does an excellent job working through the derivations and matrix calculations that may make students overwhelmed. If you have a chance to take this (or honestly any) CS class with Teli, I would highly recommend doing so.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-14T02:37:18.636152Z"
+    },
+    {
+      "professor": "Mohammad Nayeem Teli",
+      "course": "CMSC422",
+      "review": "I posted a midsemester review of this class back in October 2023 so this is a review for the class in Fall 2023 semester now that it's over (apologies for being a little late). My feedback for this course now is basically the same as the prior review I made. The first thing I would like to add are that the final project was a little challenging (extra credit section was interesting) and time-consuming so as always, make sure you start your projects early. Second, the final exam was cumulative and relatively similar to the practice final we got. There was also a final exam review session via Zoom, which greatly helped. This class will be challenging from a mathematical standpoint so make sure your calculus, probability, statistics & linear algebra foundation is strong. Other than that, the class was well-organized. I still recommend all students to take this class with Prof Teli.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2024-01-01T22:35:53.117075Z"
+    },
+    {
+      "professor": "Marine Carpuat",
+      "course": "CMSC422",
+      "review": "Great teacher!!! Well organized, clearly explains topics",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-02-24T14:01:53.619099Z"
+    },
+    {
+      "professor": "Mohammad Nayeem Teli",
+      "course": "CMSC422",
+      "review": "The content is difficult but Teli structures it in a way so that it won't take too much time. If you look through the slides before the exams they are doable, and he genuinely cares about his students.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-03-28T17:15:08.737646Z"
+    },
+    {
+      "professor": "Marine Carpuat",
+      "course": "CMSC422",
+      "review": "Marine is a very knowledgeable professor who explains topics well and can answer questions during class extremely well. She is understanding and accommodating while not being a pushover. The class is organized well and homework and exams are fair. I definitely recommend Marine.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-04-16T15:18:29.490910Z"
+    },
+    {
+      "professor": "Furong Huang",
+      "course": "CMSC422",
+      "review": "Exam content is extremely difficult and a lot of the information isn't found on the slides. The projects weren't bad though.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2024-05-11T02:12:12.809696Z"
+    },
+    {
+      "professor": "Marine Carpuat",
+      "course": "CMSC422",
+      "review": "Marine is a good professor who is very knowledgeable about ML topics. The concepts are interesting, but I found the class structure (this was probably a result of co-teaching with Furong) was rather strange, since we were responsible for watching Furong's lectures as well. The slides in this class are not good (to learn concepts, I would do the discussion slides and look at videos from Youtube to understand concepts). However, the assignments are pretty straightforward and exams (both final and midterm) were fairly simple. Overall, nice class, but needs better organization and better slides.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-05-14T14:29:15.599212Z"
+    },
+    {
+      "professor": "Mohammad Nayeem Teli",
+      "course": "CMSC422",
+      "review": "pretty good professor, but its a very hard class. i took it in the summer and the lectures were prerecorded so you can do it on your own pace. projects and homeworks/quizzes were all pretty easy. however, the exams were very very hard. the midterm was not like the practice midterm, and the final exam was not like the practice final. the final exam average was a 60%. i don't know how I ended with an A. you really need to watch all the lectures and learn everything to do good on the exams, the practice exams are not enough. also, you can bring a cheet sheet to exams, so fit whatever you can on it.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-07-10T21:34:09.186792Z"
+    },
+    {
+      "professor": "Mohammad Nayeem Teli",
+      "course": "CMSC422",
+      "review": "Teli's teaching style worked for me. He goes through the math on paper in a step-by-step manner, making it very clear to understand even for someone like me who last took lin alg and calculus years ago. The exams can vary in difficulty a lot. The midterm's average was a B, but the final's average was a D. There was no curve for the class in the end. \r\n\r\nMy advice is to try and write every formula down on the cheatsheet for the exam, and I do mean everything. it can save you time on the exam. The projects were not that difficult if you are proficient in Python, but they were time consuming.\r\n\r\nThe only criticism I had for the class was that it sometimes took a while to get a response on Piazza, if you do get one at all (usually a day later).",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2024-07-17T16:38:49.340486Z"
+    },
+    {
+      "professor": "Mohammad Nayeem Teli",
+      "course": "CMSC422",
+      "review": "This man somehow makes every topic he talks about the most boring thing in the world. I took this class because I thought I liked machine learning, but now, I'm not even sure if I like myself. I dreaded every Tuesday and Thursday knowing I would have to attend Teli's class. Every class, I could feel the life drain out of me. All I wanted was for him to stop talking, and when he did, the life came back. I swear the material is not that bad, it's just that his lectures are so egregiously slow and mind-numbing. He spends so long on one topic or answering one question, that you forget what the topic or question even was. I ended up dropping this class with a W not because it was hard, but because of how boring it was. He is honestly very easy, and it is very easy to get an A on everything, it's just that this class sucks. Perhaps I will take 422 in the future, just with a different professor.",
+      "rating": 1,
+      "expected_grade": "W",
+      "created": "2024-12-18T13:00:18.143348Z"
+    },
+    {
+      "professor": "Mohammad Nayeem Teli",
+      "course": "CMSC422",
+      "review": "Very difficult class, but class grading breakdown makes it relatively easy to get an A. First midterm is manageable if you took and remember some stuff from CMSC320 and watch lectures, but the concepts on the final are very very challenging and you probably need to read the textbook to understand everything. With that being said the final was overall ok (75 average) and there was only 1 question (30 points) that was crazy hard. Both midterm and final are 20%, projects (3) are 40%, and canvas homeworks with multiple attempts are 20%. So if you do pretty well on the first midterm, get high grades on the easy group projects, and get 100s on the homeworks you are pretty much playing with house money on the final. As a professor, he is solid. Records lectures but sometimes does not explain concepts well as he moves very fast through some very confusing and difficult topics. Wish he showed a little more personality in lectures, but everyone is different (he is no Nelson!)",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-12-20T04:37:49.425768Z"
+    },
+    {
+      "professor": "Mohammad Nayeem Teli",
+      "course": "CMSC422",
+      "review": "First off, I want to say that  Professor Teli is a pretty good lecturer. The supplemental textbook and the slides were helpful. Project code distributions were not the best with some files containing deprecated functions. Once you were past that, the projects were pretty fun and helpful in understanding the material. The midterm was quite fair, and you pretty much knew what was going to be asked.\r\n\r\nThe final, however, was quite bad. First off, when asked what would be on the final, he said \u201ceverything\u201d and that we should \u201cpractice applying algorithms to data.\u201d Fair enough. However, these directions turned out to be quite misleading. The exam itself consisted of only a couple of primarily theoretical questions that covered maybe 30% of the overall material. One question was really tough and mostly off-topic. So, if you didn\u2019t study that particular type of question on that particular topic, you were out of luck. \r\n\r\nPreparation-wise, there were no practice problems (only a single final sample). This lack of direction made preparation for the final quite frustrating, as you were always in doubt if you did enough practice.\r\n\r\nTo top it all off, he effectively hid the answer key from everybody and said we need \u201cto make an appointment to see it after the break.\u201d I mean, how can you learn from mistakes and submit a regrade request if you never saw the answer to the problem? Overall, it was a decent and useful class, but the logistics of the final made it frustrating toward the end.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2025-01-17T17:28:16.273323Z"
+    },
+    {
+      "professor": "Mohammad Nayeem Teli",
+      "course": "CMSC422",
+      "review": "While the topics taught in class were a bit difficult to digest, the recordings were very helpful for me to go back and review. Exams were fair, as we were allowed a formula sheet. Office hours were also great.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-01-18T16:14:34.967260Z"
+    },
+    {
+      "professor": "David Jacobs",
+      "course": "CMSC422",
+      "review": "Very knowledgeable professor but has trouble organizing and taking control of the class. Class often chatters loudly while he is teaching making it hard to hear him and learn. He did not post answer keys to any homeworks or quizzes which was unhelpful. Sometimes he would just refer us to chatgpt for the answers, which I felt was not helpful.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-05-12T05:21:02.940061Z"
+    },
+    {
+      "professor": "David Jacobs",
+      "course": "CMSC422",
+      "review": "Great professor, great assignments. Lectures can be a bit boring, but he cares about students and wants people to do well. Would recommend.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2025-05-15T15:00:03.564156Z"
+    },
+    {
+      "professor": "Mohammad Nayeem Teli",
+      "course": "CMSC422",
+      "review": "I took 320 with Teli and I really hated it because he spent like over half of it talking about machine learning topics instead of like the fundamentals of data science, and didn't teach it well because he was kind of just rushing through everything. However, 422 is (obviously) a machine learning focused course, so this is really Teli's bread and butter and he was able to spend more time on each topic and I got a much better understanding of the topics than I did when he rushed through it in 320. \r\n\r\nHe's actually a pretty solid lecturer and most of the time I was able to keep up. Towards the end of the semester when we started getting into more advanced topics, he started really losing me, but he didn't test much of that material on his exams. His exams were pretty easy, but it was kind of random what topics he chose to go really in depth on, and sometimes these were topics that he didn't emphasize much in class. He allows cheat sheets for the exams, which is really nice. The class also had a handful of online ELMS quizzes on more of the mathematical side of ML. \r\n\r\nWe had three coding projects where most of the code was given to us and it was more of a guided exercise where you wrote pretty minimal code to \"complete\" it. They were really easy, but honestly I wished we had at least one project where we really got to play around with the cool machine learning things that we were learning, and I felt that there was a little too much stress on the conceptual and mathematical stuff rather than the actual implementation. \r\n\r\nThe workload for this class was overall really light, which I did enjoy but I think there was room for more to enhance learning without making it too much. I think Teli is one of the better CMSC upper level professors, so I'd suggest him for any upper levels that he's teaching. He's not my favorite instructor and I have my qualms, but it was overall a good experience and I do think I learned a good bit that I'll be able to use in the future.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2025-05-21T03:17:59.415338Z"
+    },
+    {
+      "professor": "Mohammad Nayeem Teli",
+      "course": "CMSC422",
+      "review": "This is a review after taking the course in Summer 2026 (June 2 to July 25). It's an 8-week course assigning about 1 to 2 hours of content per day (excluding weekends, holidays, and days before exams). Content mainly consists of videos, with occasional interactive Python notebooks and PDFs of lecture notes.\r\n\r\nThe videos are pre-recorded sessions of Teli switching between PowerPoint slides and an overhead view of him writing on paper. They walk through the math behind foundational machine learning algorithms, like computing entropy and information gain for decision trees or tracing partial derivatives for backpropagation.\r\n\r\nGrading breakdown: 25% homework, 25% projects, 25% midterm, 25% final.\r\n\r\nHomeworks are ELMS Canvas quizzes with no time limit, usually allowing 2 to 3 attempts. Answers unlock after the final submission.\r\n\r\nProjects involve working with notebooks to implement core logic behind classifiers, regressors, and neural nets, essentially building a basic Scikit-learn-like backend. The setup expects you to test code by running python.exe commands through a Conda environment, which can feel clunky compared to using a modern IDE. Some code may also need fixing due to outdated syntax or dependencies.\r\n\r\nIt's generally easy to get 100% on all projects and homework, plus some optional extra credit on Project 3 that can add up to 1.25% to your final grade. As others have noted, most of the weight falls on the midterm and final. About half the practice exam content matched what appeared on the actual tests. The rest depends on your study coverage. Some 20- to 30-point questions may catch you off guard if you haven\u2019t reviewed all concepts, algorithm traces, math derivations, or the optional textbook (ciml-v0_9-all).\r\n\r\nOverall, the course is structured and well-paced for 8 weeks. While some topics or variations are trimmed or glossed over due to time constraints, which the professor openly acknowledges, it\u2019s clear he enjoys the material and puts in consistent effort to explain each concept in a way that builds understanding for the viewer.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2025-07-28T17:20:26.780577Z"
+    },
+    {
+      "professor": "Heng Huang",
+      "course": "CMSC422",
+      "review": "I was in this class for the first two weeks and I was so lost. I did not learn a single thing and in fact became confused on topics I previously knew (ex. bayes theorem). I had trouble understanding what he was saying because of his accent. He does not record lectures. When I asked him if there was anything he could do to help me, he recommended switching professors",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-09-19T13:47:58.517764Z"
+    },
+    {
+      "professor": "Marine Carpuat",
+      "course": "CMSC422",
+      "review": "I don\u2019t understand where the positive comments about the class structure are coming from. Yes, ELMS is organized, but the lectures and homework don\u2019t actually help with understanding the material (the class relies mostly on Eastern-style rote memorization). Her exams are unreasonably difficult, and the grading is extremely harsh; even small mistakes are treated as \"fatal\". It feels like she expects undergrads to perform at a graduate level. I didn\u2019t get much out of this class and wouldn\u2019t recommend taking it with her.",
+      "rating": 1,
+      "expected_grade": "F",
+      "created": "2025-11-11T00:17:01.704618Z"
+    },
+    {
+      "professor": "Marine Carpuat",
+      "course": "CMSC422",
+      "review": "From my perspective, the grading was harsh, and the support from the TAs (John Kanu and Manan Suri) didn\u2019t feel sufficient for the level of difficulty. They often seemed unfamiliar with parts of the material, which made getting help frustrating. It also felt like this course wasn\u2019t a major priority for the instructor. Based on my experience, I\u2019d recommend taking this class with a different professor who has stronger reviews.",
+      "rating": 1,
+      "expected_grade": "C+",
+      "created": "2025-11-13T04:33:34.397709Z"
+    },
+    {
+      "professor": "Marine Carpuat",
+      "course": "CMSC422",
+      "review": "Prof. Carpuat seems like a very nice person, so I don\u2019t want or intend to make personal criticisms or insults toward her \u2014 just share my experience with the class.\r\n\r\nFirst off, there is a lot of emphasis on memorization (even if she never directly admits it). It genuinely feels like the class is training us for a competitive memorization bee rather than machine learning. Instead of relying on memorization, there should be a broader and more diverse set of practice problems after each topic so students can actually understand and retain concepts through, you know, practicing. Students aren\u2019t going to magically derive new ideas on the spot \u2014 especially not when the slides barely explain the material in the first place. If the foundational explanations are weak, you can\u2019t expect students to perform theoretical acrobatics on an exam. The cheat sheet on exams isn\u2019t really helpful either when you don\u2019t know how to use it because the slides are bad. Am I supposed to analyze and figure out each slide on my own? Unfortunately, I can\u2019t, because I have other classes and responsibilities (like job searching in this bad market).\r\n\r\nAlso, the midterms are borderline impossible to finish on time; they feel like the SAT, except with fewer breaks and more panic. The point distribution is baffling: somehow a multiple-choice question can outweigh an open-ended one that requires actual reasoning. Grading is strictly \u201cright/wrong,\u201d and partial credit is treated like a rare mineral you have to mine via a regrade request on Gradescope.\r\n\r\nIn regard to the TAs, they act as if they\u2019re doing charity work by helping students or grading assignments. Guys, undergrads pay tuition. We don\u2019t have funding or tuition remission like PhDs, so please take TA responsibilities seriously. The number of grading mistakes is honestly impressive in the worst way. And one TA is borderline dismissive toward students. Yes, we know you\u2019re all busy revolutionizing research science with your \u201cEinstein discoveries\u201d and preparing your Silicon Valley IPOs, but TAing is still part of the job. Treating it like an unpaid internship doesn\u2019t magically make it one.\r\n\r\nHer teaching style isn\u2019t very effective. Every time she asks a question in class, it\u2019s clear the majority of the room is lost. And while pre-class reading is important, the textbook she assigns does not clearly lay out the foundations of ML. She may think students are struggling because of the math, but that\u2019s not actually the problem; the issue is the chaotic slides and unclear explanations. There\u2019s an overwhelming amount of theory with very little practice to anchor any of it.\r\n\r\nThen there\u2019s the SVM (or any other topic) situation. You\u2019d expect a core ML topic to come with diverse practice problems. Instead, we get about 10 nearly identical questions across quizzes, problem sets, and practice exams. Same structure, same notation, same tiny subset of concepts. Meanwhile, the midterm features completely different SVM topics that only showed up in two or three theoretical slides. At this point, I genuinely can\u2019t tell if this is intentional \u2014 like a way to force a \u201cnormal distribution\u201d so fewer people do well \u2014 or just poor planning.\r\n\r\nThe class is generally demotivating. You\u2019d think that a course this central to AI would be taught with enthusiasm and would foster a real learning environment, but no. Instead, the class makes you feel like you\u2019re not good enough because the focus is entirely on exams, not understanding. Why are there no projects? Because she\u2019s convinced everyone will cheat using AI. Maybe instead of eliminating projects, design them so that AI isn\u2019t enough to do the intellectual heavy lifting \u2014 just like in actual research, where a model spitting out code doesn\u2019t magically produce hypotheses, perform data analysis, or make expert judgments.\r\n\r\nThis class is just too much of emotional lifting, so I'm good with bare minimum of studying for the \"right/wrong\" final exam moving forward.\r\n\r\nI can't definitely go on with how disappointing this class has been but overall, the course doesn\u2019t feel thoughtfully structured. It feels like something thrown together and held together with theory-heavy slides and a hope that students will just figure everything out on their own.",
+      "rating": 1,
+      "expected_grade": "A+",
+      "created": "2025-11-15T10:09:51.855689Z"
+    },
+    {
+      "professor": "Marine Carpuat",
+      "course": "CMSC422",
+      "review": "horrible tests, confusing teaching, nothing good. I've never learned so little. Feels like I'm memorizing. can't perform well even if I tried tbh",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-11-19T21:10:10.481615Z"
+    },
+    {
+      "professor": "Marine Carpuat",
+      "course": "CMSC422",
+      "review": "I agree with the latest reviews, and I really discourage you from taking this course with her. It\u2019s just very bad. Half of the class literally got a D on Midterm 2, and she called it a \u201csolid performance\u201d? OK, let me be honest\u2014half of the class did better on Midterm 1 by getting away with a C-. How is that solid? Maybe there\u2019s something wrong with how the course is being taught and structured. She seems completely unaware of the issues in the class. It's okay with her that half the class is doing well while the other half is failing. This basically means she doesn\u2019t question why 50% of the class is failing. For her, the most important thing is that a small portion of the class does well, and the rest should just be \u201cfailures,\u201d which she accepts as normal.\r\n\r\nI\u2019m not the type of person who doesn\u2019t put in effort and then blames the professor for that. Even in the most difficult core CS classes at UMD, I could get a B+ or higher if I put in a lot of effort. This class, however, is different. You can put in a lot of effort but still get lost when you're taking the exam. The issue might also be with the slides and the lack of practice material.\r\n\r\nUnfortunately, this semester was super stressful because of this class. I just want to warn others about the potential distress this class can cause, despite your best efforts to learn and perform well.",
+      "rating": 1,
+      "expected_grade": "D+",
+      "created": "2025-11-20T05:50:39.074879Z"
+    },
+    {
+      "professor": "Heng Huang",
+      "course": "CMSC422",
+      "review": "Lawd please help this man. I thought that Yoon was the worst professor in this department when I took 216 with him but by some miracle this man has taken the crown from him and has RAN with it like Usain Bolt. While Yoon's teaching may be hard to discern and a little confusing to follow, you can usually go up to him after class to ask your questions and he'll be happy to help you out and genuinely wants you to learn. You could also look off his slides and do pretty well since they are pretty helpful as a little glossary of different things you need to know and can give you a starting place to know where to look for more information.\r\n\r\nTHIS MAN, THIS INCOMPETENT HUSK OF A PROFESSOR, THIS DESECRATION OF THE TERM \"PROFESSOR\" has:\r\n1) No recorded lectures\r\n2) zero, ZERO clarity on his homework assignments, to the point that we had to essentially piece together what we were supposed to do through a collection of Piazza answers from the TAs\r\n3) Focuses solely on the math behind various machine learning algorithms, which is poorly explained as his thick accent and incoherent mumbling could hardly be considered teaching. He spends 20 minutes explaining the derivation of a single formula only to say, \"Forget everything I just talked about, this is all you need\" which also applies to his slides which involve pages and pages of matrix multiplications only for you to be told to disregard all of it.\r\n4) Doesn't teach any of the Python needed to actually do his homework assignments with the restrictions of no library use (sklearn, pytorch, etc.) being allowed, so you are forced to put together entire machine learning algorithms from scratch or heavily rely on assistance from StackOverflow in order to even begin to understand what you will be writing.\r\n\r\nI eventually stopped going to class and have started learning what was covered in class on my own, not even from the slides because they are just as incoherent and all over the place as his lectures are (makes sense since he's the one that wrote them), I just use them to find out what I have to research on my own.\r\n\r\nThe only nice thing I can say about Huang is that I think he cares SO little about teaching and being a professor, that he let me turn in a homework after the due date when the Canvas assignment closed, which is great since THE ONLY ASSIGNMENTS HE HAS ARE THREE HOMEWORKS, A MIDTERM, AND A FINAL. THAT'S IT. OMG IF YOU MESS UP ON EVEN JUST ONE ASSIGNMENT, YOU ARE COOKED.",
+      "rating": 1,
+      "expected_grade": "D+",
+      "created": "2025-11-20T19:58:16.536320Z"
+    },
+    {
+      "professor": "Marine Carpuat",
+      "course": "CMSC422",
+      "review": "I genuinely wanted to learn this material, but the way the course was run made that almost impossible.\r\n\r\nIt\u2019s hard to express how much I dislike this course. It\u2019s structured very poorly: it\u2019s extremely fast-paced with almost no room to actually retain the material. The assignments don\u2019t reflect what you need to know to do well on the exams, and the textbooks are pretty unhelpful if you\u2019re new to ML. I\u2019m not even going to say much about the grading (yes, it\u2019s very punitive, likely due mostly to the TAs) because others have already covered that. The instructor seems to assume that if one person gets an A on the midterm, then everyone should be able to get an A, which completely ignores the reality that students juggle many responsibilities. It\u2019s not just \u201cdo research,\u201d \u201cteach,\u201d eat, and sleep. Her teaching style ends up overwhelming students and reinforcing unnecessary competition, especially coming from someone who didn\u2019t go through the same level of modern academic pressure, unstable economy, or constant distractions. Overall, the class was mentally draining because of the uncertainty around how to actually learn and retain the material, what to expect on exams, and how to find reliable resources for long-term understanding. By the second midterm, the stress had taken a significant toll on, I\u2019m sure, the majority of the class. Amazing and thank you!",
+      "rating": 1,
+      "expected_grade": "C+",
+      "created": "2025-11-21T21:56:47.885369Z"
+    },
+    {
+      "professor": "Marine Carpuat",
+      "course": "CMSC422",
+      "review": "I have never actually had such a bad professor that makes me want to write a review for them here. Her slides are extremely vague and barely help. You are expected to memorize so many things even when she doesn't explicitly state it, and the practice problems are practically useless considering that the exam will be some theoretical concept she mentioned maybe once. It also seems like this class is at the bottom of her priorities and as if she needs half the class to fail in order to enforce high standards. I would advise you save your mental sanity and take this course with someone else as you'll put in hours on end to still end up lost during lectures and exams.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-12-10T20:42:05.005626Z"
+    },
+    {
+      "professor": "Marine Carpuat",
+      "course": "CMSC422",
+      "review": "nothing good to say. All the reviews from this year pretty much echo how I feel. I hope Marine Carpuat reads over these reviews and considers modifying the syllabus/course structure for the students taking this next year.",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2025-12-11T18:25:53.815790Z"
+    },
+    {
+      "professor": "Marine Carpuat",
+      "course": "CMSC422",
+      "review": "I got so discouraged by the class and how she taught things, I ended up skipping lectures, trying to watch her lectures online, getting confused, looking it up and finally getting an inkling of understanding, then getting smacked in the face with the exams. TAs sucked, grading sucked, the homework assignments sucked, and the slides sucked. If you value your time, your sanity, and your ability to exist on this mortal plane, you'll steer FAR from this professor.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-12-12T22:29:27.705207Z"
+    },
+    {
+      "professor": "Marine Carpuat",
+      "course": "CMSC422",
+      "review": "Next I see her name in any of the ML electives on Testudo, I just skip that elective. I went through hell this semester. Her expectations are unclear, not enough resource materials, exam questions are intentionally worded sh to confuse students, poor TAs, bad slides, and very old-fashioned way of teaching the class. The worst thing is that she has dense lectures with like close to 40 slides where she covers each slide in less than 2 min, which makes sense bc each lecture lasts for 75min. The problem is that her slides are dense but she just skims them as if we\u2019re \u201csupposed to know that\u201d. She also focuses on breadth,  not depth and solid understanding of fundamentals as if the more the merrier. Lol, no, it\u2019s not how it works. It\u2019d have been better if you taught less topics but covered them properly so I remember what I learned. In general, yes I\u2019m ending up with an A but i will forget 80% of what i learned in a week because she bombarded my brain with too much information. Conclusion: awful intolerable teaching. Be careful what you wish for!",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2025-12-17T11:57:46.154838Z"
+    },
+    {
+      "professor": "Heng Huang",
+      "course": "CMSC422",
+      "review": "Wants the students to succeed",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-17T20:25:48.392271Z"
+    },
+    {
+      "professor": "Heng Huang",
+      "course": "CMSC422",
+      "review": "While he does have an accent (not really his fault) he does try to make sure you understand all of the math behind a lot of the ml algorithms. He doesn't test on the math behind the ml algorithms so that means some of the lectures are on content that isn't going to be tested but that's because he's being nice by not putting insane math on the exams. For the homework, you only have 3 so it's really not that much work overall. If you start early, you'll be fine since it takes a good amount of time to train the models. Honestly, if you go to class, take notes, and start the assignments when they come out, you'll do fine in the class and not spend much time on it. Most of the troubles with grading and such is due to incompetent TAs not him. In my opinion the review about him being incompetent is likely salty because they didn't go to class at all and started homework at the last minute.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-12-18T17:54:03.576435Z"
+    },
+    {
+      "professor": "Mohammad Nayeem Teli",
+      "course": "CMSC422",
+      "review": "never in my life have I took a worse class than this, you learn nothing, homeworks are useless, projects are useless, class is useless. You go to lecture get confused, leave lecture, try to self study, cant even do that because the textbook is bad, do homework (its very easy), do projects (its very easy), then you feel confident and walk into the exam and leave knowing that you have in fact learnt nothing and everything was a waste of time.",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2025-12-18T23:40:54.100036Z"
+    },
+    {
+      "professor": "Marine Carpuat",
+      "course": "CMSC422",
+      "review": "I think she is genuinely very passionate about the class itself and covered a lot of different topics which was nice. I do agree that it would have been nice to have some variety in the practice problem sets and some more fun projects because the material itself was pretty cool. She allowed for a double sided cheatsheet for every exam so saying that the exams are mostly \"memorization\" is a bit ridiculous like you probably could have copied the practice exam solutions and done decently on the midterms and final. Genuinely, if you look the midterms and final, it was pretty similar to the stuff we have seen in practice exams or homeworks. She said that the exams would be harder if people used ChatGPT to do the homeworks and did not really engage with the material, and the homework averages were very high. When you take a 400 level CS class, I feel like you should be more prepared for fast paced rigorous content, especially since this class was definitely not harder than like 330 or 351. If you plan to actually study the material and go to her office hours if needed, you will do fine.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2025-12-20T15:01:49.370259Z"
+    },
+    {
+      "professor": "Marine Carpuat",
+      "course": "CMSC422",
+      "review": "The lectures were done through a slide show, and I felt like the conceptual ideas were taught well (and we spent the most time on those), but not the maths behind the topics. Sometimes she\u2019d go through an example computation on  paper, but it wasn\u2019t the main focus. On the other hand, the exams mostly focused on computations and other math. The bulk of the first few problem sets was coding, so we didn\u2019t get a lot of practice with this. \r\n\r\nWe were allowed to bring a cheat sheet to exams, so memorization was never a problem. However, the computational questions in the exams had a lot of vague or strange wordings. I think the goal was to make us figure out which methods to apply (since we had all the formulas on our sheet), but I had a harder time figuring out what was being asked. I don\u2019t think the proof questions worked great either because the conceptual nature of the lectures doesn\u2019t provide clear definitions and criteria to go off of.\r\n\r\nOverall, I didn\u2019t get the impression that Marine dedicated much time to the class. Piazza questions were left without answers and pieces of the course had inconsistencies (as an example, different assignments seemed to flip flop on if MSE loss divides by the number of samples).",
+      "rating": 2,
+      "expected_grade": "A+",
+      "created": "2025-12-22T01:55:19.833791Z"
+    },
+    {
+      "professor": "Marine Carpuat",
+      "course": "CMSC422",
+      "review": "The one star reviews some it up. The class itself wasn't hard and the material is interesting but she makes the exams too hard and teaches at too high of a conceptual level. Averages were really low and she didn't curve. \r\n\r\nAvoid taking at all costs !",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2025-12-22T15:34:20.758865Z"
+    },
+    {
+      "professor": "Mohammad Nayeem Teli",
+      "course": "CMSC422",
+      "review": "Teli's just kind of an average CS professor, \"not too hot, not too cold\". \r\n\r\nHe posts lecture slides, though they almost certainly cannot support all of your learning in the course, since they are a bit incoherent (maybe that's the point of the lectures). He gives practice exams before each exam, and he and his TAs were fairly active on Piazza. \r\n\r\nI thought his exams were fair and generally alright, but the grading could be a bit harsh at times (on the midterm, there was a question with no partial credit at all, worth 20% of that exam's grade). \r\n\r\nHe gave HWs roughly biweekly, which we had two attempts at in case you missed anything the first time. Moreover, there were three coding projects, each had a \"writeup\" portion (worth up to 40% of the project's grade) where you'd have to answer conceptual questions on the code and sometimes provide graphs. Not to mention, these projects did not have an autograder!\r\n\r\nOverall, I am not upset having taken the course with Teli\u2014I just wish both of the professors for this class were better, since this class could be so interesting if there was someone engaging who taught it.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2025-12-23T15:52:06.466441Z"
+    },
+    {
+      "professor": "Mohammad Nayeem Teli",
+      "course": "CMSC422",
+      "review": "Given my past experience with Professor Teli in CMSC250 being largely positive, overall I found CMSC422 to be really rather disappointing. First off, the class was extremely disorganized in most ways; projects had faulty/incorrect code, test questions were rather vague, and Piazza questions were often left somewhat unanswered. For one of the projects that had extra credit, the grading on ELMS kept being changed to include and exclude extra credit, which overall made it really confusing. It was extremely frustrating especially how tests were made, as often the wording of questions led to me getting things wrong annoyingly. Although the exams have a cheat sheet, sometimes the questions went over rather obscure topics or sections of the material, which could often come by surprise.\r\n\r\nI did not like how Teli lectured at all. Most of the time, Teli goes over a slideshow and writes notes and derivations for algorithms and models on paper. Teli often writes his math extremely quickly, without any structure and rather unsorted, so it was often really difficult to understand the material that was being gone over. Yes, the material overall is complex, but it felt like concepts that shouldn't be too difficult were obfuscated by how Teli taught it. What Teli teaches also feels rather disconnected from what the tests have as a whole. It felt that lectures really only vaguely helped with the test's material, and I felt there was a lack of questions/assignments that gave us more practice answering questions that could appear on tests.\r\n\r\nFrom talking with people who had Teli in the past, there was a rather large difference in grades between different semesters (75% average this semester vs 95% average last semester on Exam 1). It's overall quite frustrating that despite this, little was done to reconcile the differences in scores (there was a 1% curve admittedly, but it was still honestly not a lot). I guess to talk about some positives, there was extra credit for one of the projects and all lectures were recorded luckily. And compared to some of the reviews for the other CMSC422 professors this semester, Teli may still be one of the better options. Still though, I found that this class frustrated me more than not, and I ended up getting very little from this class overall.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2025-12-26T18:18:58.606030Z"
+    },
+    {
+      "professor": "Mohammad Nayeem Teli",
+      "course": "CMSC422",
+      "review": "Teli and his Goons (TA's) are a bunch of clowns. These geniuses accidentally made the project 3 grade out of 115 points instead of 100, because there are 15 points of extra credit. Then, when everyone points it out on Piazza, he literally disables the CMSC422 Piazza without fixing it. He just doesn't give a shit, absolute clown boy with his clown mobile and clown goons.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2025-12-27T03:21:15.706586Z"
+    },
+    {
+      "professor": "Marine Carpuat",
+      "course": "CMSC422",
+      "review": "Tough course. Slides were not very helpful. Homeworks were pretty interesting but I didn't really feel like they were very helpful when it came to exams. What made the biggest difference to me was doing all of the reading for each topic. The week before the final, I watched every single lecture video and did every single reading and got a 90. I don't know if it was just me, but I found it really hard to pay attention during in person lecture.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2025-12-28T01:45:53.819733Z"
+    },
+    {
+      "professor": "Mohammad Nayeem Teli",
+      "course": "CMSC422",
+      "review": "hes good for 422 imo\r\npros:\r\nlectures are recorded, did not go to a single one other than exams\r\nprojects are stupid easy\r\np knowledgable on ML\r\n\r\ncons:\r\nexams are hard\r\neven though this is his bread and butter, he's still just an okay lecturer\r\nclass is VERY math heavy, i honestly would skip over sections where he did calculations\r\nprojects are too easy for what they are, i would have liked more hands on applications\r\n\r\ni feel like ML is something you gotta take a class on to know if you like it, hes not going to make or break your experience",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2025-12-30T23:03:09.499357Z"
+    },
+    {
+      "professor": "Mohammad Nayeem Teli",
+      "course": "CMSC422",
+      "review": "took the class in fall 25, teli and prodigal sons (TA's) are a bunch of goats. These geniuses made the project 3 grade out of 100 points and nicely gave us the opportunity for 15pts in extra credit. whoever said the other version of the story is completely wrong, teli cares more than anyone else. absolute goat man with his goat mobile and goat prodigal sons.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2026-03-10T18:00:22.746662Z"
+    },
+    {
+      "professor": "Mohammad Nayeem Teli",
+      "course": "CMSC422",
+      "review": "Teli was such a good cmsc250 teacher, so I had great expectations, but this class was terrible. He moves so fast without explaining how information connects to each other. I always have no idea what's going on. He just works through math problems at the speed of light. A lot of stem professors are like this, but I was so disappointed that Teli turned out to be one of them.",
+      "rating": 1,
+      "expected_grade": "C-",
+      "created": "2026-04-01T15:35:07.077998Z"
+    }
+  ],
+  "department": "CMSC",
+  "course_number": "422",
+  "name": "CMSC422",
+  "title": "Introduction to Machine Learning",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> Minimum grade of C- in CMSC320, CMSC330, and CMSC351; and 1 course with a minimum grade of C- from (MATH240, MATH461); and permission of CMNS-Computer Science department.\nMachine Learning studies representations and algorithms that allow machines to improve their performance on a task from experience. This is a broad overview of existing methods for machine learning and an introduction to adaptive systems in general. Emphasis is given to practical aspects of machine learning and data mining.\n<i>Credit only granted for CMSC422 or CMSC498M.</i>",
+  "is_recent": true,
+  "geneds": null
+}

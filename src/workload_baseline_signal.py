@@ -67,7 +67,7 @@ def predict_workload_signals(text):
 
 
 def evaluate_baseline(
-    dataset_path="data\weakly-labeled-week08.csv",
+    dataset_path="data/weakly_labeled_reviews_full.csv"
 ):
     """
     Evaluate keyword baseline on the labeled dataset.

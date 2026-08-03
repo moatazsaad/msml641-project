@@ -1,0 +1,227 @@
+{
+  "average_gpa": 2.490415335463259,
+  "professors": [
+    "Neil Spring",
+    "Jeffrey Hollingsworth",
+    "Ashok Agrawala",
+    "A.U. Shankar",
+    "Ashok Agrawala",
+    "Ashok Agrawala",
+    "Ashok Agrawala",
+    "Peter Keleher",
+    "Ashok Agrawala",
+    "Peter Keleher",
+    "Ashok Agrawala",
+    "Peter Keleher"
+  ],
+  "reviews": [
+    {
+      "professor": "William Arbaugh",
+      "course": "CMSC412",
+      "review": "Arbaugh was frequently absent from class and he had his TAs teach for him.  He took the projects from other universities, didn't do them himself, and rarely understood what was going on with them.  Given how frustrating this class could get, it's insulting that he doesn't seem to give a hoot about the class, when he's expecting us to spend 12 credits worth of effort on a 3 credit class.\n\r\nAlso, I'm sure some people knew that Arbaugh was planning on teaching 412 in Windows instead of a unix-based system, but they really, really need to put that in the course catalog or something.  Yet another thing Arbaugh could have done to make this class more reasonable.\n\r\nIn short, he sucks.  The only reason he didn't get a 1 is because he is actually quite knowledgeable.  He's not an idiot -- just a jerk and a flake.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2010-11-03T03:13:00Z"
+    },
+    {
+      "professor": "A.U. Shankar",
+      "course": "CMSC412",
+      "review": "Lectures are pretty dry and difficult to follow. Exams are based mostly on lecture material, so looking at his online notes to prep is a must.\n\r\nProjects are very time-consuming and specs are often frustrating as they do not accurately reflect what actually needs to be done in a clear way. By far the longest and most complicated programming assignments I've ever had in an academic environment; make sure to start early and ask lots of questions.\n\r\nOverall, not a great experience. Maybe not quite as terrible as its reputation, but projects can get pretty ugly. Best bet is to take the class with people you know and discuss with them about the projects (at a high-level).",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2013-01-02T21:32:00Z"
+    },
+    {
+      "professor": "A.U. Shankar",
+      "course": "CMSC412",
+      "review": "Professor: He does have a stutter, but if you pay attention you will have no trouble understanding him. This does however make his responses to questions slower than normal. He will also give tips on how to do well in his class and stuff like extra non graded assignments if you need more practice if you ask him. \n\r\nCoursework: Projects are very difficult. Start early (no really.) on all of the projects and be prepared to ask for help from the TA's. Exams are medium. He grades hard, but his cut offs are low. So even if you do bad on one test you can easily make it up. If you study you can do well on the tests. But studying can be a problem if you get behind on a project (projects are sometimes due 3 days before the exam date).   \n\r\nGrades: He curves the tests and does something with the projects (I did badly on a lot of them yet still passed the class). He will not give you any extra credit or extra assignments if your doing badly. If you fail you fail.\n\r\nBottom Line? It will take a lot of work to do well or even pass this class. However you will learn a lot about OS's. Its also looks good on the resume and can give you a idea of how good of a programmer you are. Not recommended for a senior class unless you need 4 credits. ",
+      "rating": 3,
+      "expected_grade": "C",
+      "created": "2012-12-23T03:51:00Z"
+    },
+    {
+      "professor": "A.U. Shankar",
+      "course": "CMSC412",
+      "review": "This is a horrible class. The projects are impossibly difficult and the professor is terrible lecturer. His stutter is distracting and notes are all over the place. Average for a midterm is around a 46/80. Exams are really difficut You will have to end up learning all of the material and then doing all of the projects yourself. Dont take this class with him if you dont have to.",
+      "rating": 1,
+      "expected_grade": "CD",
+      "created": "2012-10-29T00:54:00Z"
+    },
+    {
+      "professor": "A.U. Shankar",
+      "course": "CMSC412",
+      "review": "I have a lot of respect for Dr. Shankar. He is extremely knowledgable on the subject matter. I did feel that too much of the course was spent on lectures about synchronization, but clearly this guy knows that stuff in and out. He does have a little bit of a speech impediment, but it didn't hinder his communication of the material to me in any way. We are all human right? Too many students used the excuse that they couldn't do a project because it wasn't heavily discussed in lecture, but not once have I had a CS course that went into detail about a project, not even 131! It may have been the fact that I was very well prepared for the course because of ENEE350. Shankar is very approachable, in his office or in class, much more so then most professors. He also spent the last class taking suggestions from students about how he can revise the course to better teach his students for the next time he is teaching it. How often do you see that? This guy actually wants his students to learn, and isn't out to make your life a living hell. His exams can be tedious, but they are definitely curved. He is a very fair grader, though you may find that your TAs are not so much. All in all the project is very time consuming, and is worth about 50% of your grade. The project though is not curved! I enjoyed this class a lot, and felt that this class really strengthened my understanding of a vast amount of topics. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2012-05-24T13:00:00Z"
+    },
+    {
+      "professor": "Neil Spring",
+      "course": "CMSC412",
+      "review": "Neil Spring is a pretty legit instructor. He clearly knows the material and the labs are actually quite helpful. The reason I'm giving him a 4/5 is because I strongly believe that the content of the class can really improve. We spent too much time learning synchronization primitives, and not a lot of time learning cool things like log-structured filesystems/networked filesystems, or the inner details of how a context switch actually takes place (something that I believe to be extremely important, yet this detail never really gets covered).\n",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2013-05-12T03:49:00Z"
+    },
+    {
+      "professor": "Neil Spring",
+      "course": "CMSC412",
+      "review": "Now, Neil is a great guy and a somewhat competent teacher. His teaching style takes getting used to; he basically walks into class everyday, opens up VI and just types notes, which you are expected to copy down and know. If you take notes on paper, learn to do it by computer, or you will get crazy pissed when he hops all over the place modifying what he wrote. My personal suggestion is Microsoft OneNote. Of course, he posts the notes file online, so you don't really need to take notes, but I would advise you do so, particularly if you're not that familiar with the subject.\n\r\nHe involves the class by basically asking us questions and writing the answers in his VI file. He writes it very colloquially which is nice, but sometimes he uses really obnoxiously large, outmoded words (draconian, pathological etc.).\n\r\nThe way the lectures go will be entirely up to you and your classmates. In my case, my classmates were total geniuses. We have 1 guy who got a diploma from MIT, half the robotics team, and a bunch of other people who basically know everything there is to know about linux.\n\r\nThese people will be the bane of your existence if you are not one of them. They will side track the class, ask really convoluted and (in my opinion) irrelevant questions, and basically confuse the HELL out of you.\n\r\nIt is basically your job to slow these people down and make sure they don't get too many opportunities to derail the class.\n\r\nNeil also gives quizzes if someone's cell phone goes off in the class. So, study your notes every night basically. He also has a huge vocab sheet he posts at the beginning of the semester, with words that will be covered on his multiple choice exams.\n\r\nNow some of you may have seen me say multiple choice, and grinned happily; set aside that notion, Neil's exams are pretty damn bad. His questions are more tricks than tests of knowledge, there are several that can be interpreted to mean different things, and it's really anyone's guess as to what they truly ask. Other questions can sometimes reword the answers in such a way that even if you know what the answer is, finding them among the choices is tricky.\n\r\nThe projects in this course are pure hell for the most part with 1 or 2 exceptions. This isn't really Neil's fault, he delegated it all to his TA, who mismanaged time a fair amount (routinely showed lecture slides for projects 3 weeks before they were ASSIGNED).\n\r\nOverall, it's not easy to review this course, as I don't know if it's me, the TA, the professor, or the course itself that's the problem, but I do put in 40 ish hours a week for out of class work, and I have a C-.\n\r\nNeil is a fair guy though, so I am not too worried about failing/passing.\n\r\nIf you want an A in this class, and haven't been weaned on linux, then you will need to start reading the book weeks before the semester begins. Make sure you have flashcards ready from a previous semester on DAY ONE of the class.\n\r\nLook over previous semester's projects.\n\r\nThis class is more demanding than any other I have ever taken, and it's in no small part because of the disparity in intelligence of the individuals who take it.\n\r\nIt's going to be a tough, long, hard semester, but keep your head up, and prepare well, and you will get the grade you earn. If your time management sucks, however, prepare for a real shock to the system; this is one of the hardest courses offered at UMD, and you will find out why.",
+      "rating": 3,
+      "expected_grade": "BC",
+      "created": "2008-11-09T18:23:00Z"
+    },
+    {
+      "professor": "Ashok Agrawala",
+      "course": "CMSC412",
+      "review": "I would give ZERO stars if I would. This is both the hardest and worst course that I've ever had the displeasure of taking at UMD. I enrolled in this class because I thought that Operating Systems is a fundamental and useful skill to learn, even if difficult, but found out that the administration of this class makes this 10x more harder for literally no reason. There are so many things wrong with this course that I wouldn't recommend ANYONE taking it because it's not worth it. \r\n\r\nFirst of all, others seemed to like the professor's lecturing ability, but I did not. He goes on tangents all the time and is very unclear in his statements that it is impossible to focus. The slides are comprehensive, but are taken straight from the textbook so that isn't really a credit to the professor.\r\n\r\nThe projects and exams though, that is a different hell. Let's talk projects. Each one is incredibly difficult, and the instructions are HORRIBLE. There is really no valid reason why there should be a spec, slides, and FAQ for EVERY SINGLE PROJECT. The spec is awfully written and flat out wrong about things, the project slides are vague and also have incorrect information. The FAQs don't answer certain questions with any new information, and the fact that an FAQ is even needed for a project means that the instructions are poorly written. And to make things worse, even the spec, slides, and FAQ are sometimes not enough. \r\n\r\nOn a related note, administration for this course was TRULY TERRIBLE. Questions on Piazza were just left unanswered even though there were many people with the same question; the TAs just didn't answer and weren't active. I'm pretty sure they were also left in the dark about logistics in the class, because it was near the end of the semester and we STILL did not have breakdowns of grading. That part of the course website was just never filled out. And one of our pop quizzes, which we only had 10 minutes to do and had a very poor average, was worth almost an entire project grade. That is completely ridiculous and shows how little the professor cares about administration for this class. For exams, we didn't get any review material, no study guide or previous exams, zip, zilch, nada. Just \"look at the slides\" which are hundreds if not thousands of slides so it's impossible to study everything on it. In addition, for our final, the professor was very unaccommodating to concerns over the Omicron variant, and refused to move the final online despite multiple CS classes shifting online, and almost the entire class requesting this change. No reasoning was given, of course. \r\n\r\nLastly, our final exam, which is worth a quarter of our final grade, was put on the grade server, and we never even got it back to see what we got wrong, let alone a regrade request. It was simply put on Testudo. This fact may change since this review is posted, but nevertheless it is inexcusable to have these final grades submitted without students seeing the reason, especially when this resource is easily available via Gradescope. \r\n\r\nI get that Operating Systems is a hard concept, but like I said, the administration made this course needlessly more difficult. I am sure that most other people in the class agree with me regarding the majority of the points that I raised here, and there are probably more points that I didn't mention. These points are definitely fixable (having clear grading, clear project descriptions, enforcing Piazza answering, giving us study material) and should definitely be addressed the next time this course is taken. I find that unlikely to happen though, so I do not recommend this course to anyone until then. You're better off looking at the slides or textbook on your own. \r\n",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2021-12-21T19:21:46Z"
+    },
+    {
+      "professor": "Ashok Agrawala",
+      "course": "CMSC412",
+      "review": "As other students have and will continue to write, I would give this a 0. As others have noted, 412 is a useful skill, so one should take it? No. It is one of my biggest regrets at UMD. There are literally 20 reasons to not take this course, but some of them include:\r\n\r\nAsking a question about a project that was not due until a week after the exam, which was weighted 18% of the exam grade;\r\nHaving TA's not reply to almost all piazza posts, and never replying the 4-5 days leading up to a project due date;\r\nGiving \"Routine\" pop quizzes (there were 2);\r\nHaving a Participation grade (Went to every class except 1 -- had a pop quiz on that class, and I got an 80 on participation (12 points lower than average));\r\nHaving a 52% on the final exam;\r\nThe professor not even making his own slides, rather uses the slides that the textbook gives;\r\nhas both slides and a spec for projects, both with information relevant, but only found on one or other;\r\nHiding the final not on gradescope where all previous exams and quizzes were placed.\r\n\r\nThere are literally so many more reasons, but just trust me don't take the class with this guy. He comes off as nice, but he grills students for coming in late, but half the class doesn't even show. I could guarantee he doesn't even know the questions on the exam also. Just avoid.",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2021-12-24T18:33:36Z"
+    },
+    {
+      "professor": "Ashok Agrawala",
+      "course": "CMSC412",
+      "review": "This is one of those courses where the lecture has nothing to do with the project. The professor is decent lecturing about operating systems concepts, but you're stuck with the TAs to get you through the project which is probably the hardest project in your entire college career.",
+      "rating": 1,
+      "expected_grade": "A+",
+      "created": "2021-12-27T17:04:32Z"
+    },
+    {
+      "professor": "Ashok Agrawala",
+      "course": "CMSC412",
+      "review": "Worst class I've ever taken. Stay far away if you want to maintain your sanity. ",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2021-12-31T20:49:23Z"
+    },
+    {
+      "professor": "Ashok Agrawala",
+      "course": "CMSC412",
+      "review": "While I took this course during the Covid Times, this Professor was an absolute Godsend. His only requirement to be able to turn in projects late was that you talk to him in his office, which was always a pleasure. He understood the particular pressure that students in his course were under, and worked with everyone who asked on a modified submission schedule. I had never had that with a single CS professor before, and it felt as the Prof. Agrawala truly wanted students to learn. \r\n\r\nAs far as actually teaching went, he was very knowledgeable about the material, and had first hand experience with the making of modern operating systems, which he shared with the class. His slides are yes from the text book, but they are always available on the class website, and line up exactly with the textbook, which he provided as a free PDF (I wish all teachers did this). As long as you read the book and practice any sort of problem that he does step-by-step with the class, as well as study the project slides, you have what you need to know for the exams. He doesn't list out topics for studying, but he also prefaces his course with advice such as, \"get one last good nights rest tonight, that's it for the semester,\" and \"everything you heard about this course is absolutely true.\" Regardless of if it is the case, it's imperative that you get stared on the projects early, and read the textbook. \r\n\r\nThis is not an easy course, and this Professor understands that, but the difficulty in the course does not stem from administrative BS or weird rules. It's hard because Operating Systems are hard, and that's the point.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2022-01-24T16:31:27Z"
+    },
+    {
+      "professor": "Ashok Agrawala",
+      "course": "CMSC412",
+      "review": "The review below isn't really telling of the in person situation at all. Sure, he may have been fine during Covid, but this class has been a complete nightmare in person. Like some of the other reviews below state, he was completely unresponsive to student questions and concerns, and as a result, the class suffered during his extremely convoluted projects and exams. ",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2022-02-16T23:06:16Z"
+    },
+    {
+      "professor": "A.U. Shankar",
+      "course": "CMSC412",
+      "review": "I've had Shankar for CMSC 216 and CMSC 412. \r\n\r\nAlthough Shankar has a stutter if you focus during lectures, write down some notes, and ask him questions, he will clear up any confusions you have.  The difficulty of the exams he gives usually is written by whoever is proctoring the course. In CMSC 216, the exams given were written by Yoon so it was pretty hard. In CMSC 412, Shankar wrote his own exams, which were rather fair if you knew the material (much fairer than exams written by Yoon or Kruskal). \r\n\r\nThe reason why I give Shankar 4 stars is literally because I think he did an ok job teaching 412. I think reviewing a professor's competence should account for the conditions of the course. The biggest change Shankar could've done is go over hints for the projects in the lecture, though this was mostly the job of the discussion section and the TAs. Other changes Shankar could've made were to make his slides less vague and provide more detailed practice exam solutions. \r\n\r\n412 is hard because doing the GeekOS projects take too long, leaving students without much time for other classes and to understand other aspects of Operating Systems not implemented in GeekOS. GeekOS is designed by a UMD graduate, Jeffrey Hollingsworth, Neil Spring, etc. If one accounts for the fact that this project was given to everyone who took CMSC 412, one would realize that this pain is not the fault of the Shankar but the curriculum of the course. Sure Shankar could've changed this curriculum but I don't think this would be too fair. ",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2022-05-06T21:02:11Z"
+    },
+    {
+      "professor": "Ashok Agrawala",
+      "course": "CMSC412",
+      "review": "terrible prof, terrible TAs. Refuse to make an elms page. website has wrong information. projects are very old, lecture has 0 to do with project.",
+      "rating": 1,
+      "expected_grade": "C+",
+      "created": "2023-10-05T09:17:14.993863Z"
+    },
+    {
+      "professor": "Ashok Agrawala",
+      "course": "CMSC412",
+      "review": "Honestly the exams are worse than the projects and the projects are terrible. Professor refuses to put in any effort whatsoever to make this class suck less.",
+      "rating": 1,
+      "expected_grade": "C+",
+      "created": "2023-12-20T17:28:39.141692Z"
+    },
+    {
+      "professor": "Peter Keleher",
+      "course": "CMSC412",
+      "review": "This course was hard af, definitely a 4 credit. Peter helped make the exam aspect of this course manageable by closely relating his material to a digital textbook that was well written. His first exam was very difficult, but chilled out a bit afterward. The coding aspect was HARD. The projects required full attention, often spanning two weeks but sometimes overlapping with other projects. This course has a lecture and discussion, where discussion is fully project oriented. I was at every discussion and almost every office hour available in order to get a good grade on the project. Overall, I really enjoyed the course despite the rigor.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2024-05-31T14:01:42.917229Z"
+    },
+    {
+      "professor": "Ashok Agrawala",
+      "course": "CMSC412",
+      "review": "The projects are extremely time-consuming and it can be hard to figure out what to do since the project descriptions are vague sometimes and specific instructions are scattered across the project slides, project specification document, and random Piazza FAQ sections posted by the TAs. Agrawala himself has almost nothing to do with the projects; the TAs are pretty much your only help.\r\n\r\nThe exams were difficult, but that's just the nature of CMSC412, so I can't blame Agrawala too much.\r\n\r\nThe syllabus didn't describe the percent that each assignment contributed towards our grade, so we were left guessing the weight of each one. We also didn't get our final back, so we have no idea how well we did, let alone what questions we got right or wrong.\r\n\r\nLectures are a complete snoozefest, but Agrawala can be quite funny sometimes.\r\n\r\nThe only saving grace is that there is probably a decent curve, so you'll probably pass.",
+      "rating": 2,
+      "expected_grade": "C",
+      "created": "2024-12-18T18:24:23.729942Z"
+    },
+    {
+      "professor": "Ashok Agrawala",
+      "course": "CMSC412",
+      "review": "CMSC412 with Ashok was difficult. I was forced to enter this class as there were no other  CS classless to take to fulfill my last reqs to graduate. I was very worried because this class was known to be difficult and if I didn't pass that would've caused all sorts of issues for me. For those students who are in Cs get degrees mode, you can get a C, you just will have to work very hard for it. The exams and projects are difficult. The projects are 40% of the class grade, if you go to office hours religiously the TAs can help you get unstuck fairly quickly. This way your project grades will be your saving grace even if you were bombing the exams like I was. There is a test bank that you can use to practice for them, they are found on neil's CS home page, google cmsc 412 home page and dig around you will find it. There were questions from tests from 1996 that were pasted onto our exams.\r\n\r\nSo, if you don't want to try very hard to pass, and you don't like OS, don't take this class. \r\nIf you need to pass this class and you are a bit of a bum, then you need to do well in the projects, the office hours and recitations will help you and then you don't have to do incredible on the exams to pass. \r\n\r\nThose people who did not pass were the people who did poorly on the projects AND the tests. To pass this class you must choose between the projects or the exams to do poorly in. It is easer to do poorly on the exams, the projects despite their difficulty, if you use OFFICE HOURS ALOT, you will do well on them and do better than the rest of the class.\r\n\r\nIf you are wondering about a curve, or how the grading scheme is, Ashok seemed to be purposely unclear about curves or grading schemes.  But for my class, he must've had a generous curve based on me passing with my class grade of 68%  +/- the final ( one person passed with a 63% +/- the final) , we aren't quite sure how big the curve is because he never told anyone how they did on the final that was around 30% of the grade (hence the +/-).",
+      "rating": 5,
+      "expected_grade": "C",
+      "created": "2024-12-18T22:17:26.686534Z"
+    },
+    {
+      "professor": "Ashok Agrawala",
+      "course": "CMSC412",
+      "review": "Ashok's not good at lecturing. Exams are very difficult. I would prep around 30+ hours and take notes on every chapter of textbook and I got around 70, 90, 80 on M1, M2, Final respectively.\r\n\r\nProjects are all doable, but take a long time... especially for debugging. The harder projects can take 20+ hours. Also, information about the project is scattered across a project spec, slides provided by the TA, and project overview discussions sections (which are not recorded). Make sure to go to discussion on days they introduce new projects. Make sure to start as early as possible so you can go to OH. The TAs carry the course.\r\n\r\nOverall, your grade in this class mostly comes down to how much time you can spend on the class. I only took 3 classes this semester, and spent a lot of time for this class. The grade is split between (1) projects ~40, (2) two exams ~30, (3) final ~25, (4) participation ~5. No insight into how participation grade works, but projects can really help to boost your grade if you do them all on time :). I ended with an 89, and this was curved to an A+",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2024-12-19T18:55:36.387531Z"
+    },
+    {
+      "professor": "Ashok Agrawala",
+      "course": "CMSC412",
+      "review": "The GOAT professor. I genuinely learned so much about operating systems in this class. The projects are super time-consuming, true, and you have to study a lot for the exams. Still, it's intensely rewarding. The professor is hard but fair, and genuinely knows so much. If you talk to him, you'll realize how nice and knowledgeable he is. If you are willing to put in the time investment, this class is a must-take, in my opinion.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-30T20:32:29.741720Z"
+    },
+    {
+      "professor": "Peter Keleher",
+      "course": "CMSC412",
+      "review": "This guy has a legit tin can rattling around upstairs instead of a brain. Every lecture, he acts as if he sees his slides for the first time. He's always confused by his own slides, and half of them have wrong information. One class period, he had a time diagram that made no sense, which he then revealed was because he asked ChatGPT to generate it. His sloth-like energy didn't even bother to check the image after \"sticking it into ChatGPT\".\r\n\r\nThe projects are really hard but they are honestly very fun. The content of the course is very interesting, but the professor doesn't know what he's talking about.\r\n\r\nShout out to the TA Leo, however. That guy is beyond awesome and super helpful in office hours.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2025-05-07T15:21:11.011860Z"
+    },
+    {
+      "professor": "Peter Keleher",
+      "course": "CMSC412",
+      "review": "My review won't be as critical as the other one for this semester, but I share a lot of the sentiments about Pete and the class.  Pete himself admitted that his info about this topic in general is out of date one class, and his generally subpar lecturing style (very monotone) leads to a lot of confusion and difficulty understanding content.  We follow an online (free) textbook which goes into more detail, but a lot of the content on the exams is either difficult to find in the textbook or just something he put on a couple slides.  \r\n\r\nThe exams themselves aren't difficult given you scour the slides and your notes.  All the problems on the exam are either short form questions about certain topics or definitions, or questions you've seen before on homeworks.  \r\n\r\nThe projects are on the more difficult side compared to other 4XX classes, and set up similar to 417 where they're tangentially related to what we're currently learning about in class, but most of the work is figuring out how to implement the features within the existing GeekOS system.  I personally really enjoyed these projects, they were interesting and fun to work with.  The difference though between this class and 417 though, is that the project specs are rather useless.  They don't really help much with understanding what you're doing at all to be honest, and its hard to get a grasp of the scope of each project purely from the spec sheets.  It's not impossible, but there's a noticeable difference that leads to a worse experience.\r\n\r\nHowever, the issues with projects is all offset by the TA Leo.  For every project, he provided a video and slides that allowed us to work our way through each project step by step.  He gave us good tips and ideas during OH, and basically led the project part of the course.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-05-09T19:04:14.240679Z"
+    },
+    {
+      "professor": "Peter Keleher",
+      "course": "CMSC412",
+      "review": "Before I get into my review, I should note that the C+ is pretty much entirely on me. I should have taken the course more seriously, especially for the first midterm, and I got burned for not doing so. At least I passed.\r\n\r\nWith that said, this class did not work for me whatsoever. It's not because the class is hard, though it absolutely is, and I'd argue it should be. I just don't think it's for the right reasons. For instance, the lecture/exam half of the course is almost entirely disjoint from the GeekOS project half of the course, and it really feels like a 5/6 credit course sometimes. Being good at the lecture content will not help you whatsoever with GeekOS, and vice versa. This seems to be a 412-wide issue.\r\n\r\nRegarding the lecture content, I don't think Pete is a very good lecturer. It's sort of what the other reviewers this semester so far have pointed out. I wouldn't quite agree with the tin can rattling mentality, but he certainly doesn't practice his presentations, and he brings absolutely no energy to the class. Another reviewer pointed out the ChatGPT image, which he said he would fix and never did, but there was another instance where he took a TRIO slide set from the internet, didn't review it at all beforehand, and tried going through it in a rather miserable showing. There's very little transformation of his slide content in his lectures, as all he does is take his laser pointer and point to things he wants to emphasize on one of the projectors in the room. The slides themselves are rather poor summaries of OSTEP, which he follows very closely.\r\n\r\nThat's just lectures themselves. The assignments he gives aren't much better in my opinion. He assigns weekly Gradescope reading homeworks which are worth 1% of the grade each. I honestly almost wish he would give more traditional homeworks instead. Some of the questions are horribly ambiguous, there's no room to state any assumptions, there are some questions where it feels like even with both the slides and OSTEP you can't really answer well, they ultimately lack engagement, and they are nowhere near comprehensive enough to actually prepare for the exams imo. Regarding exams, exam 1 was insane with the short answer questions of random topics from the slides being worth so much of the grade, while exams 2 and 3, especially 3, were relatively more chill. These certainly weren't my strongsuit, as I'm horrible with memorizing topics which I haven't worked directly with in some meaningful way, and I'm rather terrible at studying. I didn't like them, but they were fine I guess. One question I would like to address is the barber shop semaphore problem in exam 2. Not only were the semantics poorly defined, as the professor admitted, but in my experience, semaphore programming isn't just something just I get right away. I haven't worked with them before, as I haven't had any need to. They really weren't gone over well in class, nor were the gradescope assignments enough to really nail it in. He didn't give any other practice problem on them besides the baboon problem from a reading homework. I realize this is just one specific example, but it's emblematic of my problem with this part of the class as a whole. I also realize this could just be me, and my review should be taken with at least a grain of salt due to my meager performance compared to the rest of the class. I didn't mention this before, but each exam was 15%, and there was no final exam.\r\n\r\nRegarding GeekOS, the TA's, especially Leo, really carried here. They were really helpful in getting some of the projects working, and I really wouldn't have passed the class without them. Though, I'd maybe argue they were a bit too necessary to get through the projects. It's very clear the project specs haven't been updated in years, and the project slides, especially for the later projects such as 4b and all of 5, don't seem at all sufficient in getting you through the projects. Of course, the projects should be challenging, but in my experience, there was a lot of frustration due to how much information the slides and specs omit. For example, in project 5, file systems, GFS3 is a completely proprietary file system, yet we're not really given a good specification of it. For example, we were only given one example GFS3 image whose structure is completely undocumented. In project 4b, demand paging (the hardest project imo, though I hated 5 more just by nature), the way in which we were basically required to do things isn't very easy to deduce from source code, and the slides honestly made it more confusing what we had to do. Don't get me wrong, these projects are pretty cool at the end of the day, and honestly it was very useful being forced to navigate and implement significant components into a Linux-like kernel. I just think the projects would be better if the provided resources were more helpful.\r\n\r\nFinally, there's grading. The class is graded on a curve. This semester, seemingly a lot of insanely smart people took the class, which seemingly skewed the grade distribution like crazy. There was a review last semester of someone getting an 88 with Dr. Agrawala and ending with an A+. I know someone who got like an 89 this semester and ended with an A-. Take that for what you will.\r\n\r\nOverall, I can't say I don't recommend taking this class at all, but I have some issues with it. Pete is teaching this class next spring, so it seems for a little bit, Dr. Agrawala and Pete are alternating teaching this class.",
+      "rating": 2,
+      "expected_grade": "C+",
+      "created": "2025-05-18T03:15:20.146759Z"
+    },
+    {
+      "professor": "Peter Keleher",
+      "course": "CMSC412",
+      "review": "He's just plain terrible. While I'm happy I took the class and I learned a great deal, none of this is thanks to Pete. He's a flat-out terrible lecturer, and doesn't seem to have much going on between the ears. The projects are helpful as an introduction to kernel development, but Pete's name is nowhere to be found on the projects, nor on GeekOS (the class's operating system). 80% of what I learned in this class was from the textbook and the projects, both of which can be found for free online. \r\n\r\nThe exams are awful. They test you on almost entirely minutia rather than your true understanding of the concepts. It makes no difference in real life if you can recall the exact semantics of a file system, as documentation is more accurate than memory 100% of the time. Almost all of the points I lost in the class were from exams, and I didn't even care toward the end of the class. I ended about half a point under an A-. One of the terms we were asked to define on the exam was not on any course slides, nor in the textbook. On one occasion, Pete himself had a solution incorrect in his answer key. He also, as another reviewer has mentioned, asked ChatGPT to generate him lecture material without so much as proofreading it. \r\n\r\nThis class made me realize that I'm just about done with academics, and I'm now planning to graduate early. This class is an absolute joke, and the incompetency on display here has opened my eyes to how out-of-touch college departments are. Students are paying thousands of dollars in tuition a year, and yet we receive half-assed lectures from a man with maybe one brain cell in his head. You can learn all of this online if you have the motivation. Get your piece of paper, get out, and write some free and open source software. Do some good for the world, lest you become a living zombie inhabiting the dying wasteland of a university like Peter Keleher.",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2025-05-19T18:41:22.488406Z"
+    }
+  ],
+  "department": "CMSC",
+  "course_number": "412",
+  "name": "CMSC412",
+  "title": "Operating Systems",
+  "credits": 4,
+  "description": "<b>Prerequisite:</b> Minimum grade of C- in CMSC330 and CMSC351; and 1 course with a minimum grade of C- from (CMSC414, CMSC417, CMSC420, CMSC430, CMSC433, CMSC435, ENEE440, ENEE457).\n<b>Restriction:</b> Permission of CMNS-Computer Science department; or must be in one of the following programs (Computer Science (Master's); Computer Science (Doctoral)).\n<b>Credit only granted for:</b> CMSC412 or ENEE447.\nA hands-on introduction to operating systems, including topics in: multiprogramming, communication and synchronization, memory management, IO subsystems, and resource scheduling polices. The laboratory component consists of constructing a small kernel, including functions for device IO, multi-tasking, and memory management.",
+  "is_recent": true,
+  "geneds": null
+}

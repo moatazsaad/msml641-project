@@ -1,0 +1,1039 @@
+{
+  "average_gpa": 3.053034682080925,
+  "professors": [
+    "Manoussos Grillakis",
+    "Pierre-Emmanuel Jabin",
+    "Jeffrey Adams",
+    "Wujun Zhang",
+    "James Schafer",
+    "Melissa Macasieb",
+    "Raluca Rosca",
+    "Wiseley Wong",
+    "Wojciech Czaja",
+    "Steven Chadwick",
+    "Roohollah Ebrahimian",
+    "Ricardo Nochetto",
+    "Qiaoling Wei",
+    "Peter Nandori",
+    "Allan Yashinski",
+    "Nathan Manning",
+    "Justin Wyss-Gallifent",
+    "Joseph Iverson",
+    "Michael Jakobson",
+    "Sean Rostami",
+    "Harbir Antil",
+    "Harland Glaz",
+    "Thomas Rey",
+    "Marcel Guardia",
+    "Enrique Otarola Pasten",
+    "Jan Peszek",
+    "Samuel Braunfeld",
+    "Casey Cremins",
+    "Jianlu Zhang",
+    "Stephen Balady",
+    "Thibaut Castan",
+    "Dong Dong",
+    "Tobias von Petersdorff",
+    "Antoine Mellet",
+    "Yordanka Kovacheva",
+    "Frances Gulick",
+    "Fei Wang",
+    "Weikun Wang",
+    "Jonathan Fernandes",
+    "Stefan Doboszczak",
+    "Terence Long",
+    "Zehua Zhao",
+    "Katerina Velcheva",
+    "Todd Rowland",
+    "Javier Morales Delgado",
+    "Vladimir Yushutin",
+    "Rodrigo Trevino",
+    "Lutian Zhao",
+    "Michael Jakobson",
+    "Todd Rowland",
+    "Matthias Wellershoff",
+    "Mickael Latocca",
+    "Nathan Manning",
+    "Raluca Rosca",
+    "Ricardo Nochetto",
+    "Shalin Parekh",
+    "Tamas Darvas",
+    "Todd Rowland",
+    "Celine Torres",
+    "Haizhao Yang",
+    "Michael Jakobson",
+    "Raluca Rosca",
+    "Wiseley Wong",
+    "Xiaoqi Huang",
+    "Todd Rowland",
+    "Allan Yashinski",
+    "Allan Yashinski",
+    "Giovanni Forni",
+    "Raluca Rosca",
+    "Rodrigo Trevino",
+    "Yanir Rubinstein",
+    "Ke Chen",
+    "Adam Kanigowski",
+    "Lutian Zhao",
+    "Jose Rigoberto Enrique Zelada Cifuentes",
+    "Ke Chen",
+    "Ling Liang",
+    "Michael Jakobson",
+    "Raluca Rosca",
+    "Allan Yashinski",
+    "Giovanni Forni",
+    "Ke Chen",
+    "Raluca Rosca",
+    "Panagiotis Dimakis",
+    "Shin Song",
+    "Junyan Zhao",
+    "Margaret Doucette",
+    "Raluca Rosca",
+    "Amin Gholampour",
+    "Allan Yashinski",
+    "James Conway",
+    "Ariel Rosenfield",
+    "Dong Quan Nguyen",
+    "Haizhao Yang",
+    "Kyle Kawagoe",
+    "Matthew Wilson"
+  ],
+  "reviews": [
+    {
+      "professor": "Charles Levermore",
+      "course": "MATH401",
+      "review": "The class is supposed to be Applications of Linear Algebra, but we haven't learned a single one other than polynomial interpolation for what that is worth. The lectures are useless, the books sucks, and there isn't even a syllabus for the class. It took ten weeks to get the first exam back. The second exam wasn't too difficult but most of the class managed to do poorly since everyone has to learn from the book. The final was pretty easy. Most of the problems came from old tests.\n\r\nThe homework for this class is beyond annoying. Although he assigns only 15-16 problems per week, some of these have up to \"s\" parts, meaning one problem is actually 19 problems. To make matters worse, the matrices increase from size as you go from a to s. Even with a calculator, the homework takes forever. I didn't even bother to do the last problem set since it effectively amounted to 85 problems. \n\r\nI wouldn't advise taking Levermore for this class. He can teach differential equations, but he fails when it comes to teaching Linear Algebra.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2010-05-24T00:37:00Z"
+    },
+    {
+      "professor": "Kasso Okoudjou",
+      "course": "MATH401",
+      "review": "I don't know why there are any negative reviews for this professor.\n\r\nOkoudjou teaches you the basics and goes through a sufficient amount of examples for you to get what's going on. His exams are beyond simple as they test the easiest aspects of material. \n\r\nGrades consist of 3 midterm exams, a cumulative final, weekly homeworks, and online quizzes.\n\r\nThe material covered in the course is easily accessible for anyone with a basic understanding of linear algebra. There are a few obscure concepts here and there, but he never tests you on them.\n\r\nProbably the easiest A I have ever gotten in a 400-level Math course. Highly recommended.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2012-09-23T00:09:00Z"
+    },
+    {
+      "professor": "Jeffrey Adams",
+      "course": "MATH401",
+      "review": "I don't like this professor because he is very unorganized and relaxed. He would change problems sets days after he assigned then. So I would do problems that weren't require. He post videos that you have to look at before lecture too. He always post them the day before or maybe the afternoon before. God forbid you want to get ahead in this class and do you work ahead of time because he either won't post assignments until later or he will change them. He also does problems out of the book then gets to lazy and doesn't finish them. If you can't finish one problem for us in class, how do you expect students to do 20 for their HW. He is pretty chill so he lectures are easy to understand and kind of dumb down for the average joe, but maybe to chill for students that want to get head.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2015-04-13T14:56:00Z"
+    },
+    {
+      "professor": "Samuel Braunfeld",
+      "course": "MATH401",
+      "review": "Had him for 401 in Fall 2018 semester. Although it was his first time teaching at UMD, I'd say he's alright. Just alright, not good or great, but not terrible. \r\n\r\nPros:\r\n-- Has groupwork assignments every week or two weeks, which are free 10/10's /padding to your grade. \r\n\r\n-- Homeworks due two classes after a groupwork, and he generally grades them fairly. \r\n\r\n-- He also posts almost all his notes online (which are well written), so missing class is not too big a deal if you learn well from textbooks and notes.\r\n\r\nCons:\r\n\r\n-- Speaks fast and goes through the material quickly, often backpedaling to correct mistakes on the board. Not really an engaging lecturer. \r\n\r\n-- Exams had a few minor curveball problems here and there, could have been more fair. ",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2018-12-20T00:49:05Z"
+    },
+    {
+      "professor": "Jan Peszek",
+      "course": "MATH401",
+      "review": "If you want an A-plus with minimal effort this is the class to take folks! I finished with a 101%, the average was a 95%. I worked maybe two hours a week and the exams matched the practice exams exactly. In case you slept through the exam or missed the entire class, there was also a convenient 20% extra credit assignment.  ",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2019-03-03T04:18:29Z"
+    },
+    {
+      "professor": "Dong Dong",
+      "course": "MATH401",
+      "review": "Great teacher! Very fun guy. Lecture is well-organized. His expectation for students is very clear, as his review is helpful for exams.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2019-05-16T18:53:38Z"
+    },
+    {
+      "professor": "Dong Dong",
+      "course": "MATH401",
+      "review": "I learned a lot from Dr. Dong. I suggest that you come to class regularly as reading the text alone is not sufficient to get a good score in his final exam.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2019-06-04T08:18:37Z"
+    },
+    {
+      "professor": "Jan Peszek",
+      "course": "MATH401",
+      "review": "Easiest A in 400 level math. Gives you practice exams that are near identical to the midterms/final. Plus a 15% extra credit assignement.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2019-06-11T17:53:23Z"
+    },
+    {
+      "professor": "Weikun Wang",
+      "course": "MATH401",
+      "review": "If you are thinking about it just don't. Only take him if you really know linear algebra because he does not explain things very good and only has office hours before class. He's nice so that gives him an extra star.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2019-11-22T01:29:08Z"
+    },
+    {
+      "professor": "Raluca Rosca",
+      "course": "MATH401",
+      "review": "This professor can't teach at all. Every time we are doing a problem from previous midterm/final exam, she always struggled to explain how to do it. I am completely loss during the lecture and review session. Only few students who are above average could follow her. ",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2019-12-06T18:42:38Z"
+    },
+    {
+      "professor": "Weikun Wang",
+      "course": "MATH401",
+      "review": "WARNING! Only take this man if you have background knowledge of linear algebra because he doesn\u2019t care about teaching anyone. He\u2019ll tell you stuff straight from the book or notes from other teachers. Also, homeboy messed up grading my final and gave me a lower score than what I actually deserve so for the betterment of you and your gpa take Allan for 401 or any other teacher besides this man.",
+      "rating": 1,
+      "expected_grade": "C+",
+      "created": "2019-12-13T16:26:30Z"
+    },
+    {
+      "professor": "Fei Wang",
+      "course": "MATH401",
+      "review": "Very easy course, follows Justin Wyss-Gallifent's textbook, which is outstanding. MATH401, if following Justin's textbook, is a very interesting and easy course. Exams were very straightforward, with averages on both coming in around a 93%. Little workload, other than weekly or biweekly homeworks. Would highly recommend as an upper level elective.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2019-12-21T18:22:57Z"
+    },
+    {
+      "professor": "Javier Morales Delgado",
+      "course": "MATH401",
+      "review": "If you hope to learn something, do not take Javier.\r\nHowever, if you want an A without learning anything, then I highly recommend Javier. He is an absolutely awful lecturer and his notes, assignments and exams are filled with typos. To make up for this, his exams are stupid easy and he offers up to 10% extra credit. He wants everyone to pass and an A is well within reach if you put a little effort into solving the graded practice exam (which is nearly identical to the actual exam.)",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2020-04-15T02:48:37Z"
+    },
+    {
+      "professor": "Wiseley Wong",
+      "course": "MATH401",
+      "review": "I loved Wiseley. He's very accommodating as a professor (polled us on which of 3 days we'd prefer the first midterm). He's also great at lecturing. Dude comes in with his own bag of multiple colors of chalk so his lecture notes are color coded so students can better follow them.\r\n\r\nUses tons of examples during his lectures and when he goes over proofs they are pretty thoroughly written and explained to make sure you understand each step. \r\n\r\n401 is a pretty easy class, but I think Wiseley did a pretty good job of keeping it fun and interesting, I genuinely enjoyed what we learned in the class, and can see the usefulness of the applications of linear algebra presented (which given the class is called applications of lin alg I think this is the ultimate goal). \r\n\r\nTake Wiseley for any class. You won't regret it. Dude is organized, accommodating, and great at explaining and does not bore you to sleep like some others unfortunately.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2020-06-04T17:39:00Z"
+    },
+    {
+      "professor": "Stefan Doboszczak",
+      "course": "MATH401",
+      "review": "Stefan is great professor! He is very clear about class expectations, and spends a lot of time working with students to ensure they get class concepts.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2020-06-08T21:25:51Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "MATH401",
+      "review": "He is the coolest prof! No exams when classes moving online. And I have to say the project \"cryptography\" was so much fun to do. Such a surprise when seeing the original image was my id photo. Gotta give him 5 stars! ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2020-11-19T05:38:24Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "MATH401",
+      "review": "Very good lecturer, definitely lives up to his reputation. I don't really need to go into much more, the rest of the 100+ reviews tell the rest of his story. He is one of the best lecturers I've seen at UMD. If you can take a class with him, DO IT!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2020-12-13T01:36:12Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "MATH401",
+      "review": "Amazing!! you could literally not know any linear algebra and get a B or better in this class. He gives you all the information that you need to know. Super nice guy, chill.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2021-01-12T20:54:30Z"
+    },
+    {
+      "professor": "Raluca Rosca",
+      "course": "MATH401",
+      "review": "She just reads off the textbook. What she covers in 3 lectures I usually covered in 30 minutes. Stopped going to the lecture after the first week. The class is easy though, which is nice.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2021-05-27T20:13:23Z"
+    },
+    {
+      "professor": "Todd Rowland",
+      "course": "MATH401",
+      "review": "A great and caring guy. Had him  for Math401 online and he was genuinely caring to all his students. He made sure to have one-on-one meeting with all the students and asked how we were doing in the class and what we wanted to do in the future. The class was mainly projects, mini quizzes, and groupwork. For the quizzes we were given two tries which was very nice since he'll go over the quiz in class after the first try. Very responsive to emails and his office hours are great as he'll help you step by step with the project. He will extend office hour to help us. The projects were also very interesting too. He doesn't do plus minus grades. Definitely recommend and take him if you have the choice. ",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2021-07-08T17:11:49Z"
+    },
+    {
+      "professor": "Todd Rowland",
+      "course": "MATH401",
+      "review": "Excellent. Mostly project based course, which you could receive adequate help on if needed. Projects were programming, and you could complete in Mathematica, MATLAB, or Python. Could tell he genuinely cared about students and lecture. Highly recommend this prof.  ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-07-13T13:22:05Z"
+    },
+    {
+      "professor": "Todd Rowland",
+      "course": "MATH401",
+      "review": "great professor",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2021-07-19T17:07:38Z"
+    },
+    {
+      "professor": "Raluca Rosca",
+      "course": "MATH401",
+      "review": "Rosca is terrible at lecturing - she just reads from the textbook and whatever extra analysis or computation she provides is pretty unorganized. Thankfully, though, the textbook itself - written by the legendary Justin Wyss-Gallifent - is incredible. It's comprehensive, written well, and very simple to understand. The course content itself is really fun and interesting, and with a better lecturer the class itself would be great. I actually really enjoyed the class, but that was mainly because the content was really interesting and the groupworks/exams were relatively easy. Lectures are skippable if you time them right - there are groupworks assigned during class that are only announced during previous lectures. ",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2021-12-09T23:11:46Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "MATH401",
+      "review": "One of the best if not THE best professor in the entire department. Possibly the entire university. You don't need me to convince you, just look down at the hundreds of reviews that say he is amazing.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-12-22T03:11:14Z"
+    },
+    {
+      "professor": "Todd Rowland",
+      "course": "MATH401",
+      "review": "Dr. Rowland is one of the nicest professors I have had; he prioritizes you learning the content and the class emphasizes consistent, project-based work. I felt like whenever I went to class, I went to learn about real-life applications of linear algebra instead of trying to pass a class for credits. With that being said, the only thing keeping him from 5 stars is that he can be disorganized or do incorrect arithmetic at times and that makes some concepts difficult to understand at first. ",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2022-01-15T21:38:28Z"
+    },
+    {
+      "professor": "Michael Jakobson",
+      "course": "MATH401",
+      "review": "The worst professor I've ever had at UMD. You will be undergoing an entirely self-taught class if Jakobson is your professor. I will say that he is polite and always willing to answer questions, but that is if you can even tell what is going on in the class to formulate a question to begin with.\r\n\r\nHe began the class writing on the chalkboard, albeit never turning around to actually talk to the class - just talking at the board about seemingly random topics. As of the second week of class he just shows us grainy pictures of notes (not even a PDF scan!!) on the projector and reads over it. It's seriously hard to learn anything from this prof, as half of the time I'm not even sure what the current topic is (his handwriting is not the best).",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2022-02-04T00:54:53Z"
+    },
+    {
+      "professor": "Allan Yashinski",
+      "course": "MATH401",
+      "review": "Class follows a predictable format: a few lectures, groupwork in class, then homework due, and then the cycle repeats. 12 topics and 4 exams that aren't cumulative. so each exam touches on roughly 3 topics. My one gripe is that sometimes the homework problems he writes himself can be a bit nasty to do. Usually they don't take too long, but you have to sit and think about them for a bit. I have learned a lot though!!!",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2022-04-10T23:36:38Z"
+    },
+    {
+      "professor": "Lutian Zhao",
+      "course": "MATH401",
+      "review": "Really nice guy who takes the time to answer questions and make sure you understand. Teaching style is like Justin's where he will present you a topic, give you examples and then expects you to be able to replicate it. He makes exams weighted less than most math classes, so if you are a bad exam taker you will love Lutian. He also responds to emails instantly. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-04-26T15:23:55Z"
+    },
+    {
+      "professor": "Lutian Zhao",
+      "course": "MATH401",
+      "review": "He is super nice. Just follow his examples and you can do well. We never have any difficult homework/exam for the whole semester. There is no final exam, only a project.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-05-07T06:13:38Z"
+    },
+    {
+      "professor": "Todd Rowland",
+      "course": "MATH401",
+      "review": "Dr. Rowland is super friendly and caring. He made an effort to learn every student's name and even studied their ELMs picture to try and remember who people were. I believe over time his organization and content will improve and therefore his overall teaching ability. However, for the time being, those skills were lacking enough that I won't be taking another course taught by him. ",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2022-05-11T15:04:15Z"
+    },
+    {
+      "professor": "Lutian Zhao",
+      "course": "MATH401",
+      "review": "Lutian was a great professor this semester. He followed a good amount of the pre-existing 401 curriculum (with a good chunk of it coming from Justin's notes) but added materials from other textbooks as well (topics such as solving circuits). He is very approachable and responds to emails quickly. The homework was fair and he made it clear what the scope of content was for the exams. The final project in place of an exam was a good idea; I thought it was very fitting for an applications class.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2022-05-16T03:10:54Z"
+    },
+    {
+      "professor": "Wiseley Wong",
+      "course": "MATH401",
+      "review": "The absolute GOAT. Exams are easy because he tells you exactly what to study for and doesn't throw curveballs at you. Lectures are actually interesting and you can tell he has a lot of passion for what he's teaching. Does a review session the class before every exam which helps a lot in preparing for them. Homework isn't super busy, it teaches you the material, and you do some pretty neat stuff in them (for one of them, we did image compression in MATLAB). 10/10 recommend Wiseley for literally any class you can take with him. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-05-18T20:41:08Z"
+    },
+    {
+      "professor": "Lutian Zhao",
+      "course": "MATH401",
+      "review": "Really solid teacher. Homeworks weren't very difficult and neither were the exams. I would recommend taking him. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-05-20T02:32:54Z"
+    },
+    {
+      "professor": "Allan Yashinski",
+      "course": "MATH401",
+      "review": "This class is one of my favorite math courses I've taken. It takes linear algebra and shows various applications for it. Allan did a great job in lecture explaining the concepts. The homework's were representative of what was discussed in class and Exams represented the homework's. Groupworks were very helpful for practice and helped to clear up and confusion you may have. Overall class wasn't too difficult and if you study for exams you can easily get a B.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2022-05-20T02:56:42Z"
+    },
+    {
+      "professor": "Todd Rowland",
+      "course": "MATH401",
+      "review": "One of the best professors in UMD.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-06-18T02:56:14Z"
+    },
+    {
+      "professor": "Lutian Zhao",
+      "course": "MATH401",
+      "review": "Does a pretty decent job at explaining concepts but can go too fast but he will slow down if you ask. There is no final exam only a final project that I think most of the class got an A on. Homework's only have 2 problems due once a week. Practice problems reflect what will be tested. Overall highly recommend taking him for this class, it was as close to an easy A math class as you can get!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-08-01T16:33:43Z"
+    },
+    {
+      "professor": "Lutian Zhao",
+      "course": "MATH401",
+      "review": "Zhao is new here but he makes the course very clear and easy. HWs are super helpful and do-able. Go to class and practice a little bit, then you can get an A. Take it!!!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-08-27T18:55:11.142659Z"
+    },
+    {
+      "professor": "Lutian Zhao",
+      "course": "MATH401",
+      "review": "He's very patient and responsible. :) Sometimes he's funny as well",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-09-18T05:03:28.467996Z"
+    },
+    {
+      "professor": "Raluca Rosca",
+      "course": "MATH401",
+      "review": "Very nice person, kind-hearted, and often has a bit of humor. She clearly understands the material, but it seemed a few weeks in the class started to die down and her reviews started to make sense. Although for MATH401, the class is not particularly difficult (due to easy material and maybe Justin's notes (which the course is run on) being fantastic, so it does not matter the teacher), she made it quite frustrating. We were told to expect some 200 points of homework assigned (one every other week or so), but we were only given 3 assignments and they were all at the start and only on the first few topics. We also were told to have 2 exams with in-person and take-home portions, which we did get, however, the take-home portions were released weeks after she said they would be and the second one was due 4 days before the final. She was extremely lenient with the due dates, but that does not matter as NO EXAM GRADES WERE POSTED for the entire semester. I am not sure if this was her fault or that she did not have enough help, either way extremely aggravating.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2022-12-16T16:07:07.648103Z"
+    },
+    {
+      "professor": "Raluca Rosca",
+      "course": "MATH401",
+      "review": "After a few weeks, the entire class went downhill. I went to the lectures, but you do not need to. Very easy class. She started getting lost in lectures while reading from the textbook and sometimes just showed the textbook on the projector and read from it. We were expected to have 200 points of homework, but we were only assigned 2 or 3 in the first month, and then she stopped doing that. 2 exams, with in-person and take-home portions. Group works were fine, just had to go to them, and almost always got full credit. The exams were extremely fair compared to previous exams for the course, but we were always assigned the in-person portion weeks later than expected. The second take-home portion was released late and made due on reading day. The worst part of this class was that no exam grades have been released and I just took the final. Not one. Weird.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2022-12-16T16:13:42.316665Z"
+    },
+    {
+      "professor": "Tamas Darvas",
+      "course": "MATH401",
+      "review": "Great prof. Exams are just like homework problems, and he has a great personality",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-12-18T05:28:49.064497Z"
+    },
+    {
+      "professor": "Matthias Wellershoff",
+      "course": "MATH401",
+      "review": "Super nice guy. He was very open to feedback about lectures and other class matters. He gave a reasonable amount of work and his exams weren\u2019t terribly difficult although the last exam was heavy on theory. He also does his best to make lectures interesting. On a more informal note, his hair is amazing and he says the words \u201cpivot\u201d and \u201cvariable\u201d funny since he isn\u2019t American. My only complaint is that I found his lecture style not very effective, but that may just be me.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2022-12-20T04:32:17.425476Z"
+    },
+    {
+      "professor": "Matthias Wellershoff",
+      "course": "MATH401",
+      "review": "solid professor. it was his first time teaching the class and I thought he was pretty good. he has very clear guidelines, gives ample time for homeworks (which aren't too difficult), and the exams are pretty straight forward and predictable. also doesn't require attendance and records all lectures and posts notes",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-12-20T07:11:00.472377Z"
+    },
+    {
+      "professor": "Matthias Wellershoff",
+      "course": "MATH401",
+      "review": "I had Matthias for the Fall 2022 Semester. He was a nice and well intentioned person. Although this was his first semester teaching at UMD, he really put in the effort to make the course enjoyable. He had prepared excellent class notes for the materials covered in class, which I really appreciate since it helped me learn better. I do, however, wish we could cover more applications of linear algebra instead of focusing too much on the theory. I'd 10/10 recommend him as a professor for MATH401.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-12-22T01:46:32.454144Z"
+    },
+    {
+      "professor": "Tamas Darvas",
+      "course": "MATH401",
+      "review": "The course is easy and Prof Darvas explains the material well. I would recommend him.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-12-23T19:59:40.820547Z"
+    },
+    {
+      "professor": "Matthias Wellershoff",
+      "course": "MATH401",
+      "review": "Very easy professor. I never showed up to classes but just read his lecture notes the day before the exams and got great scores. Ended up curving the final exam 28 points (so the 57% average is now a 80% average), but this shocks me as the questions were not hard. If you can read the lecture notes and understand theorems / examples you will be fine. Did not learn much, though.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2022-12-24T00:14:02.621953Z"
+    },
+    {
+      "professor": "Shalin Parekh",
+      "course": "MATH401",
+      "review": "I feel like I was retaking linear algebra class in 2/3 first semester. After that, we actually learned some applications of linear algebra which were not much but interesting enough. Homework was long and time-consuming since it's worth 35% of the total grade but it was not hard at all. We had a midterm for 30% and a final exam for 35%, they were exactly similar to his practice problems. Prof. Parekh is not a good lecturer but a great instructor. I remember he was doing rref in class for about 20-25 minutes, which was definitely unnecessary. He literally told us the cutoff for A was 70-80% and passing was 40-50% before the final even though the class average wasn't that low. He graded homework and exams very leniently. So, attend his lectures or at least the review lecture to have a high grade.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-12-24T03:27:12.566739Z"
+    },
+    {
+      "professor": "Raluca Rosca",
+      "course": "MATH401",
+      "review": "Final grades were due days ago and she still has yet to grade our first 4 exams\u2026 the whole class went into the final only having homework and geoupwork grades in :(",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2022-12-28T16:29:03.103046Z"
+    },
+    {
+      "professor": "Matthias Wellershoff",
+      "course": "MATH401",
+      "review": "I feel like his lectures were pretty clear and he is very willing to hear out student concerns. Very approachable guy who wants to see you do well. It was his first time teaching in the US, so he wasn't always sure about the pacing of the class and ended up skipping some material towards the end. Class was not too hard even though I'm not great at linear algebra.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-01-10T21:05:59.570562Z"
+    },
+    {
+      "professor": "Tamas Darvas",
+      "course": "MATH401",
+      "review": "Tamas is the GOAT! Take him- exams are pretty similar to the homeworks and the final was a combination of the first two exams plus a couple more questions at the end. They weren't too difficult although they were computationally heavy. Homeworks were not that bad and could be done in a couple hours (very Matlab heavy). Pretty much just learn the process for each topic and be able to reproduce it to do well in the class. Also a really fun guy and made me want to come to lecture even though the content he covered in class went over my head most times.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-04-04T20:19:40.612473Z"
+    },
+    {
+      "professor": "Todd Rowland",
+      "course": "MATH401",
+      "review": "Professor Rowland truly cares about his students. Even if you are completely lost, if you go to office hours you will be able to get through the homework, projects, etc and you will leave with a better understanding of the material. I took MATH401 and 406 with him and I still use what I learned from those classes to this day. His lectures are sometimes unorganized but the assignments he gives you are always fair. Top, top professor",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-04-13T02:05:47.735008Z"
+    },
+    {
+      "professor": "Haizhao Yang",
+      "course": "MATH401",
+      "review": "Probably the worst professor I've had at UMD. Nice guy but his exams are entirely too long, gives out way too much homework, a lot of lectures are confusing and/or not on what we will be tested on, and he is a harsh grader when it comes to exams. Do not recommend!",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2023-04-18T16:42:00.266597Z"
+    },
+    {
+      "professor": "Haizhao Yang",
+      "course": "MATH401",
+      "review": "Please ignore the other guy. Professor Yang is a good guy. He gave out a very fair first exam, which was literally the exact same as our homework problems. The second exam was definitely way harder, but he was literally doing the midterm WITH us (probably because he chose some random homework problems without checking them over and wanted to make sure the problems were okay). When he realized it was too hard, he said \"Forget about problem 3. That one's too hard.\" He seemed very apologetic the next class in which he discussed the exam, asked for and listened to our feedback (a lot complained about having to factorize a cubic and working with a 4x4 matrix), and told us \"I'll grade very kindly for this exam\" and \"I'll only give 2x3 and 3x3 matrices from now on\" and \"I'll make sure this doesn't happen again for the final exam.\" The person who gave a 1 star review probably didn't even go to that class because a lot of people skip lecture (and his lectures are admittedly not very helpful). For more information about the class, there's homework every week, and they are just ~10 exercises from the textbook. Each homework took me about 1-1.5 hours. He also gave us a few MATLAB projects throughout the semester where he gave us some code and we basically had to \"modify\" the code to do what it was supposed to do. Each project took me about 2 hours. I'm docking a star because he gave us homework and a project over spring break and because he really should've checked over the midterm problems before, not while, we took it.\r\n\r\nTLDR; Easy homework, easy matlab projects, kinda useless lectures, exams are fair. He messed up once, but he's planning on compensating us. He listens to his students' feedback on how unfair an exam is, which is something I think is worthy of praise.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2023-04-21T17:16:04.614738Z"
+    },
+    {
+      "professor": "Haizhao Yang",
+      "course": "MATH401",
+      "review": "Dr. Yang is an extremely smart and kind professor. However, I find his lectures to be a bit confusing so I prefer to take notes on the textbook, which he directly follows. The homeworks are a few textbook problems each week, and the exams are problems taken directly from the textbook. The first exam was really fair, however the second one was significantly tricker, but he did not intentionally do that and as a result he graded extremely nicely (I was pleasantly surprised with my grade) and even removed one question from the exam that was harder than he initially thought. The matlab projects aren't too difficult either, just changing a few lines of code. Overall, he really wants his students to succeed and doesn't try to make anything unnecessarily tricky",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2023-04-24T21:58:24.213104Z"
+    },
+    {
+      "professor": "Celine Torres",
+      "course": "MATH401",
+      "review": "trash professor; terrible handwriting (very weird way of writing number 1s), extremely confusing matlab projects with vague wording, hard exams that take too long to finish; horrible at explaining concepts and very few people in the lecture walk out understanding the material; avoid at all costs",
+      "rating": 1,
+      "expected_grade": "C+",
+      "created": "2023-04-28T20:45:29.775140Z"
+    },
+    {
+      "professor": "Celine Torres",
+      "course": "MATH401",
+      "review": "Terribly confusing. Rambles on about theory that is so beyond human comprehension. Awful, awful MATLAB projects that require selling your soul to complete. Homeworks are also pretty bad and as the semester progresses her lecture notes become more and more useless. Nobody knows what is happening at this point and I fear what we will face in the final\r\nExams are terrible and averages were low 50s, which she was not concerned about. Overall a terrible confusing experience that I wish I had avoided.\r\nShe seems nice, but good lord.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2023-05-03T05:07:28.751104Z"
+    },
+    {
+      "professor": "Celine Torres",
+      "course": "MATH401",
+      "review": "I think she's a nice person, but many of her lectures made no sense, and the Matlab projects were ridiculously difficult for no reason. The exams were also hard, and the class average is in the 50-60% range. MATH401 is supposed to be the easiest 400 level math class, but I felt like this class was harder than any other 400 level math class I have taken.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2023-05-05T03:09:13.434143Z"
+    },
+    {
+      "professor": "Celine Torres",
+      "course": "MATH401",
+      "review": "She seems like a nice person, but the lectures are very confusing, and the exams are difficult. You will have to spend lots of time on the weekly homework assignments and especially the Matlab projects. Would not recommend taking the class with her if you're taking this class with the mindset that it's the easiest 400 level math class, this is by far the hardest math class I have taken.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2023-05-05T13:07:51.120096Z"
+    },
+    {
+      "professor": "Celine Torres",
+      "course": "MATH401",
+      "review": "Current reviews are accurate, but note she is a really new teacher so she might be better over time. Nice person but not a good lecturer would avoid right now.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2023-05-08T18:34:28.276794Z"
+    },
+    {
+      "professor": "Haizhao Yang",
+      "course": "MATH401",
+      "review": "Pros: \r\n-Very nice guy.\r\n-Gave exam problems similar to homework problems.\r\n-Made himself accessible and was always willing to answer questions. \r\n-Very thorough during lectures. \r\n\r\nCons: \r\n-Course is a glorified rehash of MATH240. You won't really learn anything new. Did not feel like an \"applications\" of linear algebra class at all. The only applications we did were a few short Matlab projects which did not feel useful. \r\n-Lectures were confusing sadly due to his accent... he also did a lot of proofs which some might appreciate but I didn't care since this was an applications class. \r\n-Made a homework assignment and project due during the middle of spring break.\r\n-Second exam was a disaster because he did not work out the problems on his own ahead of time. This led to questions that had immense computational cost and questions that were practically unsolvable. He apologized though and tried to give as much partial credit as possible. \r\n\r\nThis was Dr. Yang's first time teaching this course, so some leniency is certainly in order. By the time the next set of students takes it, it may be a completely different course. I wouldn't particularly recommend taking this class with Dr. Yang the way it's currently structured, but he really is a nice guy who cares about his students.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2023-05-13T15:09:43.373222Z"
+    },
+    {
+      "professor": "Haizhao Yang",
+      "course": "MATH401",
+      "review": "This guy is the absolute goat. He's super chill and lenient with grading and his exams are cake. Homeworks and Matlab projects are very easy but there's one every week which isn't too bad. Lectures are hard to follow because he's more focused on presenting mathematics from a research perspective rather than a teaching perspective, but he doesn't expect us to know and doesn't test the complex material so it's not a big deal. You can just grind the textbook and do practice problems and then you're guaranteed a good grade. He's also very accommodating to students as well in terms of receiving feedback and changing exams so we're more tested on concepts with smaller matrices rather than computations on large matrices Take this guy for any class he teaches. You won't regret it.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-05-16T13:18:00.583746Z"
+    },
+    {
+      "professor": "Celine Torres",
+      "course": "MATH401",
+      "review": "She seems so nice and open, I can tell she is very knowledgeable on this subject and wants us to succeed. However, she doesn\u2019t have a lot of teaching experience and this unfortunately led to a god-awful experience. All the other reviews are completely true, she teaches the theory and then expects you to understand it enough to figure out word problems with hardly any (if any) examples. While I thought the class was going to be on the Applications of Linear Algebra (like the class name says), she spent the first  couple weeks going over everything from linear algebra (461) except making it way more complicated and confusing. I\u2019d know how to do the problems she was going over but then she\u2019d spend twice as long doing it in a super convoluted way and not explaining her process well. So that was a bad sign for when we moved into new topics. She gives absolutely zero resources for students, all lectures are written in chalk on the board so if you miss a lecture or are just sitting in a bad spot of the room where the board is not as visible, you\u2019re screwed. No Canvas uploads, no links to resources, no example problems, not even solutions to homeworks or practice exams. There\u2019s the textbook, but that can be even harder to understand when trying to compare it to the lecture notes. She doesn\u2019t even tell you what will be on the exam, just \u201cyou should know everything we\u2019ve covered\u201d. Which, yeah I get that we should know it all, but that\u2019s completely unhelpful when you\u2019re trying to study and don\u2019t even know what types of problems to practice. She expects everyone to be as smart as her (she\u2019s clearly very smart) and be able to apply theoretical understanding to word problems with no prior experience or examples. For the final, after most people bombed the first two exams, she thankfully gave us a practice exam. However, when asked if she would provide answers for the practice exam she said no because she didn\u2019t have enough time to write the solutions. But she expects us to have the time to be able to solve all the problems with no examples or references during finals week when we\u2019re studying for multiple classes already? Frankly this class was ridiculously hard for no reason. She gave the solutions to our midterms (thank god) after we took them, and seeing the solutions you can see the problems aren\u2019t that difficult to solve if you understand what they\u2019re asking. However, when you\u2019ve never seen a problem like it before, you don\u2019t even know where to start. I\u2019ve heard great things about other 401 professors, and I would recommend to anyone considering taking her classes to not, unless you\u2019re super good at linear algebra and theory and understanding textbooks without any examples (there were 2-3 really smart students who did really well and brought up the exam averages, but the rest of us are lost and scared for the final)",
+      "rating": 1,
+      "expected_grade": "C+",
+      "created": "2023-05-16T17:42:27.460167Z"
+    },
+    {
+      "professor": "Celine Torres",
+      "course": "MATH401",
+      "review": "The worst professor I've ever taken at UMD, wish I could give 0 stars. Lectures are very confusing and hard to follow, especially considering you must spend the majority of the time copying sloppily writing down notes from a chalkboard since no lecture materials are given online. Even still concepts given are hard to follow and examples gone over in class are too basic to be useful for homework or exam questions. homework and exam practice are not given answer keys so it's extremely hard to know if you are making mistakes and the professor refused to provide answer keys when requested in class. The professor is also slow to respond to emails and is not great at explanations even during office hours. The professor overall seems like a nice person and was always understanding but it was clear teaching this class was an afterthought compared to whatever research/graduate work she is doing. Avoid this professor.",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2023-05-17T22:23:33.082425Z"
+    },
+    {
+      "professor": "Celine Torres",
+      "course": "MATH401",
+      "review": "Though she is a bad lecturer, keep in mind that she is fairly new in teaching so she has big room for improvement. She is very nice in person. I agree with what the other reviewers had to say as well. Kind of wished we touched more on applications as the course name is applications of linear algebra, but we've focused on so much of abstract concept it feels like MATH405 instead.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2023-05-25T21:53:27.940721Z"
+    },
+    {
+      "professor": "Xiaoqi Huang",
+      "course": "MATH401",
+      "review": "Not the most entertaining lecturer and doesn't have the best English, but is a very kind individual who details exactly what is coming up and what is required for the course. Before every quiz and midterm, he sent a reminder of the content that was going to be covered and the date it was to be held. His examinations (although aren't always grammatically correct) are pretty easy and he always gives helpful hints within them to help you out! He follows Justin's notes for this course, and Justin always has the most luxurious math notes, so it is very easy to learn the content from Justin's notes hehe.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-05-26T19:06:12.600617Z"
+    },
+    {
+      "professor": "Raluca Rosca",
+      "course": "MATH401",
+      "review": "As others have stated Dr. Rosca is a nice person but is quite bad at teaching. Her lectures were unorganized and were directly copied off of Justin's MATH401 notes. She would often make errors on the board failing to catch them until others pointed it out. And perhaps worst of all, she does not grade exams... as in she doesn't even have a grade in the first or second midterm before we take the final exam. I don't know if/why this is allowed but it means you go into the final exam with 0 idea of how you are doing in the class. Ultimately, I had my final grade entered into Testudo without knowing what I actually ended up scoring on any of the exams (midterms or finals). I am inclined to say she just takes your groupwork/homework scores and uses that to determine your final grade in the class, but this is just a guess. The material covered in class, however is easy and shouldn't be a problem. Justin's notes are thorough and the math is not hard at all. Overall, I would pick a different professor for 401 if possible!",
+      "rating": 2,
+      "expected_grade": "A+",
+      "created": "2023-05-27T22:32:02.390945Z"
+    },
+    {
+      "professor": "Allan Yashinski",
+      "course": "MATH401",
+      "review": "**Note: I took this as a summer course.**\r\nAllan is extremely adept at explaining math concepts beyond theory. He is helpful, understanding, and genuinely wants students to succeed. I found this course to be much easier than 461 because I learn best through real-life examples... and this class is all about real-life examples. We used free online textbooks, but I found that the lectures were enough. We covered a different (yet related) subject every 2 days with group work due at the end of the second lecture. The group work is done during lecture time and is basically a work sheet that you can talk through with a couple other students in a breakout room. Similar to his 461 class, MATLAB was a major part of the homework. I'd highly recommend making a class GroupMe and meeting separately on zoom because some of the homeworks can be long and difficult. Exams were fair; it was open note, open book, and had similar questions to previous exams (he provided previous exam solutions). However, a lot of people felt rushed to finish the exams on time. The average exam score was 79%, with the median being 82%.\r\n\r\nPros:\r\n- Recorded lectures\r\n- Groupwork is probably a completion grade... don't quote me on that\r\n- Useful feedback/explanations provided on homework submissions\r\n- Open note, open book exams\r\n\r\nCons:\r\n- Some homework problems take hours to figure out\r\n- May not have enough time on exams\r\n- Lectures aren't directly engaging or personable, only 1 other person had their camera on",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-07-11T21:54:33.624234Z"
+    },
+    {
+      "professor": "Allan Yashinski",
+      "course": "MATH401",
+      "review": "Had him for MATH461 and decided to take MATH401 with him as well. The class was a good experience, and Allan was always quick to reply to my countless emails asking for clarification regarding the content. The exams were very fair. The work load isn't light per se, but it helped me understand the content.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-07-18T01:49:25.638671Z"
+    },
+    {
+      "professor": "Lutian Zhao",
+      "course": "MATH401",
+      "review": "Actually the best professor ever, very engaging lecturer and has take home exams and no final exam. Would 1000% recommend",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2023-11-16T18:08:28.236951Z"
+    },
+    {
+      "professor": "Lutian Zhao",
+      "course": "MATH401",
+      "review": "This guy is the goat. Every midterm is take home, and he goes over the questions with different numbers in class right before releasing the midterm.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2023-11-23T00:14:59.277549Z"
+    },
+    {
+      "professor": "Lutian Zhao",
+      "course": "MATH401",
+      "review": "ABSOLUTE GOAT HE'S AMAZING AND I LOVE HIM!!! Literally the best, he's an amazing lecturer and the midterms are take home. We also only have a final project instead of an exam, and he goes over all of the stuff in class. He also lets us out early about 25% of the time, and he's always super cheery and happy. The homework is super fair, and he's just overall amazing 10000/10 highly recommend",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-04T19:14:53.338429Z"
+    },
+    {
+      "professor": "Rodrigo Trevino",
+      "course": "MATH401",
+      "review": "Very fun class, the professor kept the activities fun and his teaching style was generally relaxed but still made sure to cover the topics well",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-08T16:50:22.586502Z"
+    },
+    {
+      "professor": "Rodrigo Trevino",
+      "course": "MATH401",
+      "review": "Solid teacher. He does a lot of interaction with his students in this course, even when he is lecturing. He also does a good job at explaining the meanings and derivations behind formulas, which I think is helpful so that you have some context for what you are actually doing and what it means. He does a lot of groupwork assignments, which I liked because it is so rare in college math classes to have the opportunity to work with peers.\r\n\r\nThe exams are inconsistent - the first one was super lengthy and computationally heavy, but the rest have been very fair. He is also using Justin's notes (which are very good) but I'm not sure how well he knows them - when you ask him a question about homework or groupwork it seems like he's reading the question for the first time. He still gives good answers, but it just doesn't seem like this class is a huge priority of his, although I will say he did seem to be putting in more effort towards the end.\r\n\r\nOverall, very \"decent to good\" kind of teacher. Not amazing, but you can easily get a solid grade and learn about the material.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2023-12-11T20:12:31.888009Z"
+    },
+    {
+      "professor": "Adam Kanigowski",
+      "course": "MATH401",
+      "review": "This course is not very much work. You have one lecture and one in-class group assignment each week. There are two exams plus the final. I think the grading isn't very transparent in this class. You pretty much have to email the grader or go to office hours to figure out what you got marked down for. \r\n\r\nThere isn't much to use to practice. He follows Justin Wyss-Gallifent & Allan Yashinski's notes exactly. I am not sure that he really adds much beyond the notes. Linear Algebra applications aren't really interesting until you have matrices that are to big to manipulate by hand. As a result, almost all of the text book examples are so complex as to require Matlab, but we don't have any calculators on the exam. While it's nice to not have homework, there really is nothing to practice for the exams. \r\n\r\nSometimes we only need a conceptual understanding, and sometimes we need to prove some statements, but it isn't always clear which to go for. Lectures are fun or dull depending on the topic.\r\n\r\nOverall, there are some fun topics (and some boring ones) but I would say to choose another professor if you have the option. I also had Adam for 405, and I think he is significantly better for that class.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2023-12-12T17:00:47.192229Z"
+    },
+    {
+      "professor": "Yanir Rubinstein",
+      "course": "MATH401",
+      "review": "Homework was fine, albeit a bit too much work at times. Exams were abysmal, as some of the questions were based on theory that the book neither delves into nor expects you to know when learning about the APPLICATIONS of linear algebra",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2023-12-14T16:07:33.841713Z"
+    },
+    {
+      "professor": "Rodrigo Trevino",
+      "course": "MATH401",
+      "review": "Didn't go to class except for groupworks. From the lectures I did go to, he was relatively clear. You'll find more use just studying from the online textbook, which gives you all the information you need to prepare for exams.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-16T06:21:41.675037Z"
+    },
+    {
+      "professor": "Rodrigo Trevino",
+      "course": "MATH401",
+      "review": "Great class, Dr. Trevino was very fun and the examples made the class fun to be in.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-19T03:14:44.800944Z"
+    },
+    {
+      "professor": "Raluca Rosca",
+      "course": "MATH401",
+      "review": "Teaches directly from Justin's notes, to the point where going to class was only necessary for the groupworks. Also writing this a week and a half after finals, and I STILL DON'T HAVE THE MIDTERM/FINAL GRADES!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-29T04:22:08.277546Z"
+    },
+    {
+      "professor": "Jose Rigoberto Enrique Zelada Cifuentes",
+      "course": "MATH401",
+      "review": "Studying MATH401 with Professor Rigoberto had its ups and downs. Rigoberto knows his stuff, but explaining it can be tough. His lectures often left me confused, but luckily, I found help in Justin's notes and online videos. One good thing about the class was no regular homework, but the group work sessions felt like busywork. The exams were tricky. They focused a lot on theory and proofs, even though the class is supposed to be about practical applications. Rigoberto did cover some of it in class, but it wasn't enough, and most people got low scores. Overall, MATH401 with Rigoberto was okay. He's smart, but his teaching could be better, and the exams were tough.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2024-04-04T15:48:47.600659Z"
+    },
+    {
+      "professor": "Raluca Rosca",
+      "course": "MATH401",
+      "review": "Difficult to follow lecture; I would have preferred to read directly from the course notes. We did not finish all of the course's chapters. Finals are in a couple weeks, and I am still waiting on our midterm grade.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2024-04-30T14:12:57.783962Z"
+    },
+    {
+      "professor": "Jose Rigoberto Enrique Zelada Cifuentes",
+      "course": "MATH401",
+      "review": "I'm afraid he's going to get negatively reviewed by others this semester when he taught Math 401 because I feel like I was one of the few who genuinely enjoyed the course and liked his teaching style. I agree that sometimes he tends to choose the most complicated way to explain something or introduce very weird notation that doesn't make sense at first. But like scrambled eggs, it comes together eventually. You just have to be patient and not interrupt the guy like every two seconds. \r\n\r\nHe's very funny during lectures and is extremely patient when answering students' questions. I don't have many things to say but that's because I really enjoyed the course and loved his lectures. I would take him again if he teaches something I haven't taken yet.\r\n\r\nMy advice if you're taking this class with him: be sure to brush up on your linear algebra before the semester starts. It's technically a prerequisite so don't expect him to review anything you already learnt in 461/240. \r\n\r\nSome things you must know before the first class: what are bases, linear transformations, eigen vectors/values, gaussian elmination, taking inverse of matrices, ...",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-10T02:05:20.821063Z"
+    },
+    {
+      "professor": "Yaxiong Liu",
+      "course": "MATH401",
+      "review": "This guy is an elitist asshole that thinks applied math is on par with being a street sweeper and he teaches the class like that he gives 0 fucks just reading justins notes word for word except its worse cause he's completely understandable too. I just stopped going to lecture as trying to pay attention to his made me feel like I was unlearning avoid this guy for math401 at all costs you will left to self teach it all.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2024-05-15T05:07:16.918031Z"
+    },
+    {
+      "professor": "Yaxiong Liu",
+      "course": "MATH401",
+      "review": "If you're taking MATH401 with Liu, be prepared to learn most of the content on your own. The entire class is structured on Justin's notes (which are online at https://www.math.umd.edu/~immortal/MATH401/), and Liu basically reads the notes word for word and writes them on the whiteboard. No offense to the guy, but he can't understand English very well, so it's difficult to ask questions because he doesn't often understand what you're trying to ask. Because of this, I hardly showed up to class, as for me it was better to just read Justin's notes.\r\nThat being said, the class is graded very fairly. A 90 is an A, and the grade breakdown is 40% two midterms, 30% final, 30% homework. The homework problems are taken directly from the notes, so they're not bad. The midterms and final are fair, and have the exact same format despite the final having a 2 hour time slot. I would recommend taking Liu if you're comfortable learning material on your own. If not, try someone else.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-05-18T20:26:01.802090Z"
+    },
+    {
+      "professor": "Jose Rigoberto Enrique Zelada Cifuentes",
+      "course": "MATH401",
+      "review": "Overall I enjoyed this class. The typical week had a lecture on Tuesday where we would look at some application of linear algebra, derive how we can use linear algebra to solve it, then maybe an example problem. On Thursday we would split into groups and do a matlab worksheet. The next week we would move onto a new, but often related topic. The topics and a lot of the coursework were derived from Justin's 401 notes, found on his website. The applications were generally straightforward enough with some practice and the worksheets were pretty doable. Lectures were pretty clear and thorough, but sometimes we got a little too into the weeds when it came to some of the derivations. Perhaps if you're a math major some of the more proofy derivations would be more interesting to you.\r\n\r\nThe exams could be a bit tricky. Since the only coursework consisted of the matlab worksheets (no homework or anything) it was sometimes a little difficult to know what to practice. He provided some practice problems for each of the two midterms and the final. Typically there was a theoretical practice problem set and an applications practice problem set. Application practice can be supplemented with relevant sections of Justin's notes. Both parts were needed for the exam. Exams were usually mostly applications, with a couple proofs/derivations pulled from the practice worksheet (or fairly similar). These generally weren't long or difficult proofs, but often relied on some trick that you need to know. Applications were fairly straightforward, know how to use the formulas and shortcuts used in class. Especially for the final there are a lot of formulas to remember. There was also typically one theoretical problem or two that went beyond what we learned in class. You kind of had to figure out the answer on the fly. These weren't worth a ton of points, but to do well you needed to figure them out. With a good knowledge of linear algebra and some decent intuition, these were doable but not easy. \r\n\r\nExam median scores were 78% and 79% for the midterms, and 75% for the final. The cutoffs were adjusted at the end of the semester. Of course this will vary semester to semester, but the cutoffs for this semester were: A- 89%, B- 76.1%, C- 62.2%.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-05-27T01:31:58.631409Z"
+    },
+    {
+      "professor": "Yaxiong Liu",
+      "course": "MATH401",
+      "review": "Pretty easy class, i didn't really attend lecture and just read the justin notes and only went to class on exam day. I'm pretty sure the department is making him teach the class, and he's chill about it. If you really care about linear algebra and theory, I maybe wouldn't take it with him. He was perfect for my choice because I'm just trying to fulfill some stat minor requirements and I don't care too much about knowing lin alg that deeply. Take Wong if you wanna learn a lot.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-10-02T03:47:55.961800Z"
+    },
+    {
+      "professor": "Shin Song",
+      "course": "MATH401",
+      "review": "Professor Song has always provided very clear and useful lectures in her section of math401. She doesn't go too fast but also doesn't get bogged down on tangents or details or long proofs. She focuses on making sure students understand the important points and know how to apply whatever method or formula is in question. Her tests are pretty fair, I think with an average above 80, and we are given a packet of practice questions before each exam. We also have one in-class groupwork per week, which I found to be useful since it helped me apply what was went over in lecture, and these are pretty much free points as long as you show up to class. She also seems like a nice and friendly person in general. In conclusion I would highly recommend taking math401 with Song.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-10-31T21:27:33.849389Z"
+    },
+    {
+      "professor": "Vadim Kaloshin",
+      "course": "MATH401",
+      "review": "He is not a bad person but:\r\nDon't take 401 with him. He doesn't teach applications of lin alg, but rather a shallow overview of 240/405 and some applications at the end. He mainly reads the textbook and the homework is busy work. Mostly unorganized and will leave immediately after class so no one can ask questions (will not respond to your email either). Rescheduled an exam to the Tuesday before Thanksgiving because \"if we have the exam the Thursday before, no one will come to the Tuesday class\"",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2024-11-14T18:39:35.708732Z"
+    },
+    {
+      "professor": "Vadim Kaloshin",
+      "course": "MATH401",
+      "review": "Like the other review said, he doesn\u2019t teach any applications. Lectures are boring and the homework is busy work. He uses a different textbook from Justin so Justin\u2019s notes won\u2019t help you and the final is worth 40% of our grade. Felt like I wasted a semester taking 401 with him.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2024-11-19T17:50:40.639759Z"
+    },
+    {
+      "professor": "Vadim Kaloshin",
+      "course": "MATH401",
+      "review": "Like the other review said, he doesn\u2019t teach applications. The class feels like 240 all over again and the homework is busy work. He doesn\u2019t use the same textbook as Justin so Justin\u2019s notes won\u2019t help you and the final is worth 40% of our grade. Felt like I wasted a semester taking 401 with him",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2024-11-19T18:00:56.483853Z"
+    },
+    {
+      "professor": "Vadim Kaloshin",
+      "course": "MATH401",
+      "review": "Content from lectures did not match with the course outline. Most of the class was review from Linear Algebra. He may be unorganized, but he was helpful with some issues I had.",
+      "rating": 3,
+      "expected_grade": "B-",
+      "created": "2024-12-05T22:52:19.176200Z"
+    },
+    {
+      "professor": "Panagiotis Dimakis",
+      "course": "MATH401",
+      "review": "Classes were easy enough to follow/understand. He's a pretty engaging lecturer. He made our midterm a take-home exam to be solved using a computer, which was awesome. Also the final exam was replaced with a project, which is probably a lot better since this class should be an APPLICATIONS of linear algebra class. The homeworks were a bit long but they were pretty helpful in helping to understand course content.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-09T02:10:06.762040Z"
+    },
+    {
+      "professor": "Wiseley Wong",
+      "course": "MATH401",
+      "review": "There's a very good reason that, before he swapped out to teach a section of MATH405, Wiseley's section for MATH401 filled up with a sizeable waitlist in the first few days of class registration for the spring.  The only reason I got him this semester is because Allan also taught the class, and I'm so glad I got Wiseley.  His lecture style just worked for me, I don't know what else to say.  Also, he's just generally approachable, and he knows how to deduce what people are asking in lecture and answer questions to clear up any confusion.\r\n\r\nIn terms of topics, since MATH401 is fairly loose about them, Wiseley primarily covered Leontief input-output model, basic affine geometry and computer graphics, Markov chains, some combinatorics, and a lot of spectral graph theory.  I really enjoyed the graph theory part of the course, but it's also the most dense section.\r\n\r\nA few things to note about the class:\r\n- With Wiseley, the class is more theory than applications.  While this is not a proofs-based class (the proofs we do have to do are essentially slight modifications of the ones covered in class), the focus is definitely more on the mathematics in each of the topics.  There are some applications in the homeworks, such as an SVD compression of a grayscale image, but a different professor may be better if you want to dive into the applications more in the context of the class.\r\n- Wiseley's lectures, especially in the beginning, are very quick.  He structures how he writes on the board so that there's enough time to write everything before he erases it, but they can take time to get used to.  He does slow down a bit when covering combinatorics and graph theory due to the relative difficulty in content, but he still goes fast.\r\n- A fairly significant portion of exams can be more about just memorizing the correct facts about what we're doing, in addition to the problems where you need to carry out the correct computation from start to finish.  For whatever reason, I really struggled with flipping the meanings of rows and columns in a matrix, and I generally just struggle with simple mistakes in a way most of my classmates seemingly didn't.\r\n- The exam averages will likely be high, as due to the nature of class registration, it's likely upper level math and CS students who know what they're doing who can actually get into Wiseley's section.  For my section, the median was as high as 95.5% for exam 2, and the final had a median of about 88.5%.\r\n\r\nOverall, I highly recommend Wiseley for MATH401.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-17T18:48:57.519277Z"
+    },
+    {
+      "professor": "Wiseley Wong",
+      "course": "MATH401",
+      "review": "I wouldn't recommend him as a professor. He's not the worst but he's also not that great. His exams would have questions that he didn't completely explain how to do before hand. He had exam reviews before the exam but a lot of times most of the questions reviewed weren't on the exam. His final was out of 130 points with questions that weren't shown how to do in class nor on the homeworks. He also taught a lecture before the final about something that was never going to be tested on or have an assignment on. He said it could potentially be an extra credit question on the final but it wasn't. He had 2 exams worth 25% of your grade EACH. Then he had an exam a WEEK before the final worth 10% and the final was worth 20%. He doesn't follow one textbook specifically which can make finding additional examples for a specific \"section\" he taught a difficult to find as you would have to look through the different texts and locate which chapter would contain the specific topic. I would NOT recommend him for MATH401.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2024-12-19T02:09:39.112634Z"
+    },
+    {
+      "professor": "Wiseley Wong",
+      "course": "MATH401",
+      "review": "3 midterms total. The first two are 25% of your grade each. The last is 10% of your grade and is a week before the final. The final was 20%. Which is bizarre how a single midterm is worth more than the final. Also 2 hours before he posted the final exam grade he said \"I forgot to mention that the final exam totaled to 130 points, so don't get too excited if you see a 100 on ELMS.\" Which I think was just disrespectful. He had exam \"reviews\" but only few questions were relevant to the exam. There were questions on the exams that were not covered in lectures or homeworks.",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2024-12-19T12:02:29.219780Z"
+    },
+    {
+      "professor": "Vadim Kaloshin",
+      "course": "MATH401",
+      "review": "Wasted a semester. He repeated 240 material and did not teach any applications.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2024-12-20T18:05:35.345766Z"
+    },
+    {
+      "professor": "Wiseley Wong",
+      "course": "MATH401",
+      "review": "This course was really interesting and really not stressful so it was awesome. We had 7 homeworks and the median was like 39/40 on all of them. The exams were directly taken from homeworks and class examples and based on the reviews in class he would have before each exam, it was possible to tell what would be on each of them. There was one challenging part in the middle of the course related to proving things using linear algebra, but he kept this to only one homework and was very clear to the extent that you needed to know this stuff on the exam (and it was really not much to know about it at all). Overall great professor and interesting class I would recommend taking 401 with him.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-22T20:04:07.693938Z"
+    },
+    {
+      "professor": "Raluca Rosca",
+      "course": "MATH401",
+      "review": "Disorganized and not very engaging. Half of our assignments were ungraded until the final, which added unneeded stress. Mostly used paper turn ins instead of Canvas which was annoying. The lectures weren\u2019t a big deal because we followed the notes written by Justin which are super clear and easy to teach yourself.",
+      "rating": 2,
+      "expected_grade": "A+",
+      "created": "2024-12-25T13:32:59.784466Z"
+    },
+    {
+      "professor": "Vadim Kaloshin",
+      "course": "MATH401",
+      "review": "Very lenient grader. Allowed the use of calculators on all exams, and allowed the use of notes as well on the final. Before the final, he walked us through exactly what it would look like. Maybe not the best professor if you're looking to actually learn 401 material, but a very easy A for a 400-level math course.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-25T13:45:06.331810Z"
+    },
+    {
+      "professor": "Panagiotis Dimakis",
+      "course": "MATH401",
+      "review": "Great Prof - finished syllabus halfway through the semester and then took class recommendations on what to teach. Take home midterms, pretty easy homework and final paper which made a lot of sense for this class. Truly goated",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-02-04T19:55:16.035445Z"
+    },
+    {
+      "professor": "Yaxiong Liu",
+      "course": "MATH401",
+      "review": "The easiest 400 level course I've taken at UMD. The homework and exams were easy. He isn't a great lecturer, but the course is structured around Justin's notes, so just learn from it and watch Justin's videos.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-04-03T20:03:52.295954Z"
+    },
+    {
+      "professor": "Panagiotis Dimakis",
+      "course": "MATH401",
+      "review": "Found it impossible to learn anything, dont take this professor. He explains things in a very wonky way and exams were unrelated to anything we learned.",
+      "rating": 1,
+      "expected_grade": "C-",
+      "created": "2025-05-14T21:52:47.335663Z"
+    },
+    {
+      "professor": "Vadim Kaloshin",
+      "course": "MATH401",
+      "review": "DO NOT TAKE MATH401 with Vadim!!! He is extremely disorganized, makes exams unnecessarily difficult, and does not even follow the course topic.\r\n\r\nTo recap, the madness of this course started when Vadim accidentally gave his practice exam as the actual exam for our second midterm. This happened because Vadim was absent for the exam, and incorrectly sent the sub the practice exam instead. You would think this was a huge help for all the students, except it was the complete opposite. \r\n\r\nThis practice exam contained problems which involved heavy use of irrational numbers, which made questions designed to take 15 minutes, instead take 45. The first problem on the exam alone took 45 minutes (assuming you could even solve it), and this was only one of the ten questions on the exam. \r\n\r\nThe following class, Vadim carried on with lecture, and did not even acknowledge any of what had happened in the previous class. Then, students complained about this at the end of the class, and no announcements followed. In the final class of the semester, we finally discovered with further questioning that the second midterm would not be part of our grade, and the final would be 50% of our course grade (yes, 50!!!). \r\n\r\nThe final, of course, was obscenely difficult as well. Problems featured complex numbers, and, again, irrational numbers. No college student should be expected to be able to finish an exam like this in 2 hours. Once again, Vadim was not there to administer the exam, and had a sub do it instead. Additionally, Vadim did not properly announce to the class, that calculators were allowed. This meant that some of the class did not even get access to a calculator on the exam, when it was, of course, extremely helpful for the excessively difficult numbers on the exam. I would be impressed if even a third of the class was able to get through the entire exam.\r\n\r\nWhat makes this class so irritating, is that it had no reason to even be frustrating like this in the first place. Instead of covering applications of linear algebra (like the course title would suggest), the course was instead just a review of MATH240, except with painfully disgusting/tedious exam problems, which you don't get exposure to in class or homeworks. MATH240 somehow discussed more applications of linear algebra than this course. MATLAB was not even used one time in this class, and we spent the entire semester tediously row reducing, and finding determinants and eigenvectors. \r\n\r\nVadim is WAY too disorganized to teach, and the students are the ones who pay the price for this. Even if the course title interests you and you're not afraid of a challenge, do not take this class, because you're not gonna learn anything whatsoever about applications linear algebra, and you're just gonna spend a whole semester tediously solving problems meant for a computer.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-05-15T20:11:39.892244Z"
+    },
+    {
+      "professor": "Raluca Rosca",
+      "course": "MATH401",
+      "review": "Severely underrated professor. While teaching may be boring at times, her practice exams prepare you very well and assignments are semi-interesting. Assignments/exams are more than fair and this professor is extremely kind/understanding. She is also very responsive to questions! Only thing is grading speed, but thats usually how it is in smaller upper level math classes. Loved having her as my 401 professor and would recommend anyone else to take her.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-16T01:04:03.338738Z"
+    },
+    {
+      "professor": "Junyan Zhao",
+      "course": "MATH401",
+      "review": "Junyan is the goat. Seriously, he explains concepts soooo nicely and really does right by the students. He moved up our final so we didn't have to take it the day before graduation, allowed us cheat sheets on exams, gave us a breakdown of the topics that could appear on the exams, and was in general nice. If you take MATH401 with him, note that a lot of the content was repeated from MATH240/461, so it was really slow in the beginning, but eventually we got to new stuff like 2/3 of the way into the semester. Oh, but the 50 min classes? Yeah that time crunch for the exams is definitely noticeable, so just know your stuff down well. I recommend Junyan.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-05-20T21:12:56.652886Z"
+    },
+    {
+      "professor": "Margaret Doucette",
+      "course": "MATH401",
+      "review": "Pros:\r\nPretty nice person\r\nClass is not hard at all for a math400\r\nPretty receptive to feedback IMO, this is her first time teaching at UMD\r\n\r\nCons:\r\nLectures are kind of all over the place, it's hard to learn/glean anything from them\r\nShe also just reads off Justin's notes, once I realized this I never showed up for lectures\r\nGroupworks SUCK, they are done in groups of three but what always happens is one person does matlab one person writes and if you are not one of those you are kind of just sitting there. easy points but sometimes the most boring hr of my life\r\nSome of the homeworks are SO LONG\r\n\r\nOverall shes not the best, but if you have her you will be fine. She also improved over the semester and I can see her being a lot better in the future",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2025-05-27T17:57:30.489011Z"
+    },
+    {
+      "professor": "Tobias von Petersdorff",
+      "course": "MATH401",
+      "review": "Horrible professor. His lectures are boring and scrambled. Sometimes he will start running back and forth and start to cry, or back up against the blackboard, put his fist in his mouth, and start whimpering, then shake his papers violently till he figures out what to do next.\r\n\r\nThe syllabus said about 7 homework assignments. We had 4 homeworks till finals week, when a homework was assigned and due in less than a week.\r\n\r\nExam 1 was taken on March 12 and was graded on April 25. Exam 2 was taken on April 30 and graded at the same time as the final, so we didn't get it back before which was May 25.",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2025-05-30T19:23:43.986409Z"
+    },
+    {
+      "professor": "Margaret Doucette",
+      "course": "MATH401",
+      "review": "Dr. Doucette is not a bad professor, but I think she\u2019ll get better over time. Her lectures can sometimes be confusing, for me mainly due to occasional backtracking to small, situational points instead of focusing first on the big picture idea. At times it makes explanations feel more complicated than they need to be.\r\n\r\nShe is a very nice person, is open to feedback, and it does feel like she cares. All the assignments were more than fair, exams included. The course isn\u2019t necessarily hard, I would just say you need to heavily rely on doing very well on the exams. The homeworks can be long at times, but the questions are usually straightforward or at least entertaining and fun. Groupwork really isn\u2019t that bad, it isn\u2019t necessarily super difficult, but if you can get a group of people you enjoy working together with it can fly by fast.\r\n\r\nIf you are taking MATH401, just make sure you go over Justin\u2019s notes and review, she\u2019s a decent option and will definitely get better with time.",
+      "rating": 3,
+      "expected_grade": "B-",
+      "created": "2025-08-14T18:25:22.762572Z"
+    },
+    {
+      "professor": "Shin Song",
+      "course": "MATH401",
+      "review": "Professor Song\u2019s lectures are well-organized and easy to follow. She sets clear expectations for exams, which makes preparation much more manageable. Professor Song is also incredibly kind and approachable\u2014whether during office hours or over email, she is always willing to help clarify concepts or provide guidance. The course was also hands-on, and I found the material genuinely useful.\r\n\r\nThe only downside was the cryptography module at the end\u2014it felt rushed, overly theoretical, and somewhat out of place, which made studying more difficult. Overall, the course was a great learning experience, and I\u2019d highly recommend taking MATH401 with Professor Song.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-09-13T17:30:35.968613Z"
+    },
+    {
+      "professor": "Allan Yashinski",
+      "course": "MATH401",
+      "review": "This is a very engaging and well-structured class. The professor explains the concepts clearly, and the homework assignments provide excellent practice for mastering the material. Both the lecture videos and the textbook are particularly valuable resources for learning and reinforcement. However, the exams can be quite challenging, especially given that each midterm accounts for 16% of your grade and the final makes up 24%. They are noticeably more difficult than the discussion worksheets or homework. It\u2019s important to study diligently and develop a deep understanding of the concepts to perform well and earn a strong grade in the course.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2025-11-11T05:58:05.052817Z"
+    },
+    {
+      "professor": "Tobias von Petersdorff",
+      "course": "MATH401",
+      "review": "Overall a pretty bad professor (at least for math401)... his only saving grace is that his exams/quizzes aren't particularly difficult. His lectures are bad. Very few people come to lectures anymore because it's very hard to follow what he's saying. This wouldn't be so bad if there was a good source of online notes ... but his notes are HORRIBLE. Trying to learn from his notes is impossible unless you've learned the subject properly already and are just trying to review. What I (and a good chunk of the class) do is just learn the patterns for the different problems he asks and just plug in the numbers in the problem he gives on the quiz/exam/homework. The class breakdown is: \r\n\r\nHomeworks (10%) - these can sometimes take a decent amount of time and are mostly in Matlab, but he provides online Matlab examples for basically everything he asks so you're really just changing the numbers up. \r\n\r\nWeekly Discussion Quizzes (10%) - These are usually fairly easy, but recently he's been putting more \"curve balls\" on them to make sure people aren't just memorizing the examples he gives for each quiz. The day before he sends an example of what he's going to ask, and by learning the steps of solving the problem that's usually enough to get a 10/10. If you really want to be safe you probably need to attend lecture and actually read his notes, but like I said before, that's very difficult\r\n\r\n2 Midterms (40% total, 20% each) - Again, fairly easy and just like the practice questions. He might put 1 or 2 questions which are \"curve balls\" (I'm only calling them curve balls because they're not difficult, it's just that he's such a horrible teacher that unless it's info directly tested in practice exams/homeworks/quizzes you probably won't know it unless ur attending lectures or reading his online notes, both of which are atrocious)\r\n\r\nFInal (40%) - Haven't taken it yet, but I don't expect it to be particularly hard based on exams 1 and 2.\r\n\r\nAll in all unless you put effort into attending his class and reading his notes, this class will be very unsatisfying as you can get an A just by memorizing the problem patterns, but you won't learn much.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2025-11-26T15:46:13.167833Z"
+    },
+    {
+      "professor": "Tamas Darvas",
+      "course": "MATH401",
+      "review": "He is a very good teacher; what he writes on the board is not super overwhelming and can be pretty easy to follow along with. He is not that understanding so you should try really hard to stay on track and not ask for many extensions and stuff like that. The homeworks are super helpful and not too difficult, usually they are from Justin's notes, which makes it better. He drops two homeworks which can be a relief and he might curve the course depending on the average. The exams have been very fair, just computationally heavy which means work fast.",
+      "rating": 5,
+      "expected_grade": "B-",
+      "created": "2025-12-11T20:02:10.893239Z"
+    },
+    {
+      "professor": "Tamas Darvas",
+      "course": "MATH401",
+      "review": "Amazing professor, great mathematician, made this 401 class a breeze, while I learned a ton of useful linear algebra applications.  You can tell he cares about learning of students",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2025-12-13T17:49:59.006661Z"
+    },
+    {
+      "professor": "Allan Yashinski",
+      "course": "MATH401",
+      "review": "Fantastic professor and fantastic class. Made all the material perfectly understandable both in what we were doing and why we might want to do it.\r\nThough, this class was APPLICATIONS of Linear Algebra, so I don't know if it would be the same for more theory heavy classes. In any case, knowing the purpose of what we were doing helped me understand what we were doing at a conceptual level, which I think really helped me learn.\r\n\r\nI honestly found this class easier and way more fun than MATH240. Absolutely would recommend.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-25T04:03:18.971025Z"
+    },
+    {
+      "professor": "Yaxiong Liu",
+      "course": "MATH401",
+      "review": "Super easy class as of Fall 2025. He teaches straight out of Justin's notes and the exam problems are very similar to Justin's exercises. He gives you a lot of information about the structure of each exam and what each question will ask. Only downside is that the two midterms are 25% each and the final is 40%, but considering how straightforward the exams are, this isn't really an issue. There is a homework most weeks, and although they aren't conceptually hard, they can be tedious/annoying to complete. Overall, this is likely the easiest math class I've taken at UMD and I'd highly recommend him for an easy A.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2026-02-04T06:01:48.846694Z"
+    },
+    {
+      "professor": "Ariel Rosenfield",
+      "course": "MATH401",
+      "review": "acc the easiest shi ever, quizzes are free, no hw, notes hella organized, exams are free, im yet to take the final but lowk even if I do abysmal ill end up with a A. also she drops lowest 2 quizzes and replaces lowest exam grade with final exam grade (if u do better on final). there are even test corrections lmfao. \r\n\r\nholy goat.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2026-04-13T19:09:42.091606Z"
+    },
+    {
+      "professor": "Ariel Rosenfield",
+      "course": "MATH401",
+      "review": "Ariel was super kind and honestly had a pretty fair structure for the course! If you go to lecture and participate shes more than willing to help and maybe give you some regrade points on exam! She claims that her exams are ridiculously hard and to be honest I found them quite fair. Her practice tests were not exact but close enough to the exams to at least pull a B on each of them. There were weekly quizzes in discussion except on test weeks and the TA usually did a great job of preparing us for whatever the quiz would throw our way. Both exams had at least one question that the class would mostly agree upon being kind of out of nowhere. She just expects you to maybe apply what shes taught you to a slightly different concept or ask for an abysmally brutal row reduction problem that I dont think she herself was ready for. The only knock to Ari is that her lectures can be a bit bland and it shows that shes a new lecturer. A lot of people skip lecture and probably just read the lecture notes and are fine. Might have to do some slight self teaching for exam prep, but what else is new in the math dept. \r\n\r\nTLDR: New teacher and the lectures show. Fair class setup, daily quizzes, \"hard tests\" that are moderate and are easy B's if you do practice exam. Very kind, just show up to lecture and be attentice",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2026-04-17T17:43:15.920448Z"
+    }
+  ],
+  "department": "MATH",
+  "course_number": "401",
+  "name": "MATH401",
+  "title": "Applications of Linear Algebra",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> 1 course with a minimum grade of C- from (MATH461, MATH240, MATH341).\nVarious applications of linear algebra: theory of finite games, linear programming, matrix methods as applied to finite Markov chains, random walk, incidence matrices, graphs and directed graphs, networks and transportation problems.",
+  "is_recent": true,
+  "geneds": null
+}

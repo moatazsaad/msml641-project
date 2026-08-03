@@ -1,0 +1,154 @@
+{
+  "average_gpa": 2.8085365853658537,
+  "professors": [
+    "Frances Gulick",
+    "Yanir Rubinstein",
+    "Melissa Macasieb",
+    "Karin Melnick",
+    "Samuel Bloom",
+    "Roohollah Ebrahimian",
+    "Brian Collier",
+    "William Goldman",
+    "Terence Long",
+    "Rodrigo Trevino",
+    "Karin Melnick",
+    "Tamas Darvas",
+    "James Conway",
+    "Abror Pirnapasov",
+    "Terence Long",
+    "James Conway",
+    "James Conway",
+    "Daniel Cristofaro-Gardiner",
+    "Sean Gruber"
+  ],
+  "reviews": [
+    {
+      "professor": "Frances Gulick",
+      "course": "MATH430",
+      "review": "STAY AWAY... she is a terrible instructor. he lectures are absolutely pointless and you will not follow anything she says because nothing is interactive... \n\r\nher homework is easy to do but she is so tough on grading it that your grade will go down from the homework and it doesn't help you at all.\n\r\nher tests are too long, and she is again a very tough grader...\n\r\nI am usually an A math student and it comes natural to me, but she was just so tough on grading and did no teaching... ",
+      "rating": 1,
+      "expected_grade": "b",
+      "created": "2008-05-02T14:20:00Z"
+    },
+    {
+      "professor": "Frances Gulick",
+      "course": "MATH430",
+      "review": "Her tests are unreasonably difficult and often do not reflect the material taught.  Homework is assigned almost every class and she always ran 5 minutes over.  Didn't learn much, but I wasn't really interested in the class.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2008-01-27T01:38:00Z"
+    },
+    {
+      "professor": "Karin Melnick",
+      "course": "MATH430",
+      "review": "First off I must say that people must account for the class she is teaching when thinking about taking her class.  I took the upper level geometry course with her and she would occasionally complain about how bad her calc students were. She seemed to like us a lot more.\n\r\nLecture:\r\nWas a little dry, but she gave good examples and explained things very well, things get a little strange when we get to non-Euclidean stuff which is weird.\n\r\nHomework: \r\nWas hard. About 85% of the homework problems she made up, which were often pretty hard, if she assigned work from the book it was often pretty easy.  There were also three computer projects with Geometer's Sketchpad which were somewhat difficult.  \n\r\nOffice Hours:\r\nVery helpful, in the beginning most people didn't know how to write a proof so she would more or less just do it for us.\n\r\nTests/Quizzes:\r\nQuizzes were fairly easy, just basic test to make sure you are keeping up with the material.\r\nThe midterm was pretty easy too, the Final was a little harder because it had some crazy hyperbolic stuff.  \r\nThe layout of the midterm and final were something like this:\r\n1) Some true false (no justification)\r\n2) fill-in-the-blank proof\r\n3) Do it yourself proofs\r\n4) Some computational stuff or short answer\n\n\r\nGrades:\r\n25% = 12 Homeworks assigned on Friday due the next Friday (drop 2) \r\n10% = 3 Geometer's Sketchpad projects\r\n35% = Final \r\n20% = One midterm\r\n10% = 4 In class worksheets and 4 quizzes (lowest dropped)\n\r\nAgain this review should only be applied to her upper level classes.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2011-12-24T00:42:00Z"
+    },
+    {
+      "professor": "William Goldman",
+      "course": "MATH430",
+      "review": "Dr. Goldman is very cool!\r\nHis assignments are straightforward.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2020-05-15T17:12:24Z"
+    },
+    {
+      "professor": "William Goldman",
+      "course": "MATH430",
+      "review": "Really good professor. The assignments are not hard to do. ",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2020-06-04T03:31:38Z"
+    },
+    {
+      "professor": "William Goldman",
+      "course": "MATH430",
+      "review": "Dr. Goldman is a nice professor. His assignments are straightforward.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2020-06-08T00:33:57Z"
+    },
+    {
+      "professor": "William Goldman",
+      "course": "MATH430",
+      "review": "Mr. Goldman is a very good professor for upper-level math courses. His assignments are straightforward.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2020-06-11T04:18:16Z"
+    },
+    {
+      "professor": "William Goldman",
+      "course": "MATH430",
+      "review": "Mr. Goldman is a very good professor for geometry-related math courses. His tests are straightforward.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2020-06-12T00:21:42Z"
+    },
+    {
+      "professor": "Rodrigo Trevino",
+      "course": "MATH430",
+      "review": "The reviews of his 246 confuse me, because I feel like he's the exact opposite of what's described. You can tell he cares a lot about the class. On top, he's very responsive and passionate about helping students. Lectures are clear and entertaining. Exams and homework are fair and graded quickly (we have a good grader too!). The text used really sucks but I can live with that. Overall the course is organized and enjoyable. Highly recommend.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2021-03-24T12:24:28Z"
+    },
+    {
+      "professor": "Rodrigo Trevino",
+      "course": "MATH430",
+      "review": "He is a great proferssor. He cares a bout the class. He explains very good. One of the best professor that I have ever had. If you want to take his class, take it. I dont know why he has this average rating in Planet Terp. I think it is because MATH 246 is a course that everyone has to take. Therefore, many students that do not like MATH take it. And, obviously some of the students blame the professor when in reality they do not study hard like should be.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2021-12-03T20:02:54Z"
+    },
+    {
+      "professor": "Karin Melnick",
+      "course": "MATH430",
+      "review": "Lectures were taught quite nicely, and I was able to follow everything (although hyperbolic geometry did get somewhat hazy at times). This is definitely one of the more doable upper level math classes, and I appreciated the diversity of assignments/teaching: some written homework, Geometer's Sketchpad, down-to-earth videos highlighting math concepts, and in-class proofs that we'd do. She's a nice person, and she helped make the class content feel substantial. ",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2022-01-30T05:29:09Z"
+    },
+    {
+      "professor": "Terence Long",
+      "course": "MATH430",
+      "review": "He was an amazing teacher, all the content is from the book but he explains it in a very understandable way. Homework consistency is good and exams are very fair. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-03-09T17:06:49Z"
+    },
+    {
+      "professor": "Myeong Jae Jeon",
+      "course": "MATH430",
+      "review": "Awful TA without helping, grading by feeling. Keep away from this person",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2023-02-21T15:04:35.140619Z"
+    },
+    {
+      "professor": "James Conway",
+      "course": "MATH430",
+      "review": "MATH430 with Dr. Conway is one of my favorite classes I've taken. This is coming from someone who only took MATH461 last semester, whose only experience with proofs were CMSC250 and CMSC351, and who generally had only a passing interest in mathematics before taking this class, as I'm an engineer first and foremost. I mostly took this class because I had a passing interest in non-Euclidean geometry for several years, and I thought it would help me learn how to think for the proof-based math class I needed for the math minor, which I added this summer for personal reasons. While I can't say for sure whether the latter was fulfilled, as I still generally struggle with thinking like a mathematician in the way many of my classmates have probably been doing for years, I can say that this class was the perfect gateway for me to really start caring about mathematics.\r\n\r\nI really like Dr. Conway as a lecturer. Particularly for MATH430, he knows the subject extremely well, and since the class is an elective primarily intended for math students, he can easily tailor the lectures and content accordingly. Lectures can be a bit quick, but he posts lecture notes and recordings. He posted the ELMS page about a month before the class started, and I attempted to do the homework before the class started. I failed at this, but going to class helped me a lot with figuring out how to do them and knowing what he expected from our submissions. We covered a variety of topics, but the main ones were straightedge and compass constructions, Hilbert's axioms, finite and infinite projective geometries, isometries, and hyperbolic geometry. They might seem mundane just listing them out, and Euclidean geometry in particular is something I really didn't care about before coming into this class. However, and I don't really understand why, but I enjoyed everything we covered. Nothing in this class was nearly as mundane as everything in my high school geometry class, for example.\r\n\r\nThe grade is split up between 20% homework, 25% for 2 midterms, and 30% for a final project (10% presentation, 20% written). For each homework, we were given a couple problems and were assigned a few of them to turn in (usually the easier ones, but there were some tricky problems here and there). I spent many hours on these, particularly homeworks 4 and 5, but that's just me being unable to see the line of reasoning for proofs. For most people taking this class, these should be pretty easy, as even I scored nearly 100% on all of them. Midterm 1 was also pretty easy in my case, but I think Dr. Conway may have gone a bit easy on grading that one. I personally don't feel my answers for the first two questions were really well-formed, as 50 minutes turns out to be not enough time for me to properly think about problems, but I still somehow got above the median, which was 38.5/40. Midterm 2 was not my greatest moment to put it lightly, as I didn't prepare for it nearly as much as I needed to, and November was generally not my month. The final project was very interesting, as we needed to write on and present a topic of our choosing, as long as we could find a good relation between our topic and geometry beyond the scope of the class. We had a variety of topics in our class, and Dr. Conway provides a list of suggestions to help choose a topic. There are deadlines for a project proposal and written draft weeks before presentations start to keep us from doing it all in the last minute, which is appreciated.\r\n\r\nAs for something I wasn't a huge fan of, it was our required textbook. Dr. Conway mentioned several times that our required textbook (The Four Pillars of Geometry by John Stillwell) is below the level of our class, which I tend to agree with. It's a fine textbook for the Euclidean geometry section of the course, but it seems to just cover the baseline of what we need for non-Euclidean geometries in the last section of the book, and isn't really a proper overview. We didn't even use the book for Hilbert's axioms. The problems in it are fairly easy all things considered, but particularly for non-Euclidean geometry, they aren't representative of what we'd see on exams. Meanwhile, they were the majority of required problems in the last two homeworks. This was evidently not a problem for most people in the class, as the class collectively did well on both exams, so my word should be taken with a grain of salt.\r\n\r\nOverall, I just really liked this class, and I highly recommend anyone with even a passing interest in any topic in this course to take it with Dr. Conway. It's not especially difficult, and the final project alone pretty much guarantees that there is something to take away from the class for most people.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-19T06:34:22.903535Z"
+    },
+    {
+      "professor": "James Conway",
+      "course": "MATH430",
+      "review": "He's good. There's not much else to say. He's passionate about the subject, his lectures are interesting, the exams aren't too hard, and the final project at the end (in place of a final) is an interesting departure from a typical math class. The final project is simply to research anything related to geometry and give a presentation on it. I chose to research some topics in computer graphics, as I wanted to depart from the theoretical course material into something more applied, and it turned out well. Other students continued in a more theoretical direction, and that worked out well also. The class is highly theoretical, sometimes a bit esoteric, but it sets you up with a good basis in geometry. If you have an interest in theoretical geometry then take him, it's a great introduction to the subject, far more fun and interesting than high school geometry.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-05-19T18:54:54.863572Z"
+    }
+  ],
+  "department": "MATH",
+  "course_number": "430",
+  "name": "MATH430",
+  "title": "Euclidean and Non-Euclidean Geometries",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> 1 course with a minimum grade of C- from (MATH240, MATH341, MATH461).\nHilbert's axioms for Euclidean geometry. Neutral geometry: the consistency of the hyperbolic parallel postulate and the inconsistency of the elliptic parallel postulate with neutral geometry. Models of hyperbolic geometry. Existence and properties of isometries.",
+  "is_recent": true,
+  "geneds": null
+}

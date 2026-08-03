@@ -1,0 +1,111 @@
+{
+  "average_gpa": null,
+  "professors": [
+    "Archana Khurana",
+    "Matthew Griffin",
+    "Jonathan Fernandes",
+    "Matthew Griffin",
+    "Archana Khurana",
+    "Matthew Griffin",
+    "Clarke Safsten",
+    "Matthew Griffin",
+    "Amandeep Chanda",
+    "Matthew Griffin",
+    "Ran Li",
+    "Susan Mazzullo",
+    "Archana Khurana",
+    "Matthew Griffin",
+    "Jonathan Fernandes",
+    "Matthew Griffin"
+  ],
+  "reviews": [
+    {
+      "professor": "Jonathan Fernandes",
+      "course": "DATA100",
+      "review": "Learned more in discussion then I did in lectures. Take it if you need it but be prepared to teach yourself the material essentially.",
+      "rating": 3,
+      "expected_grade": "C+",
+      "created": "2024-05-07T21:17:21.792506Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "DATA100",
+      "review": "Professor Khurana is one of the best professors at this school. Her lectures are very engaging, with extra credit all the time. She goes through class assignments and answers in class. and there are R assignments every week, but she posts a walk-through on how to do them, which makes it super easy, basically copy-paste. She also dropped the lowest homework and class assignments, and for my class, she dropped 2 R assignments simply because someone asked. She is always asking what she can do better and when someone suggests something, she actually does it. 10/10 class. Easy A if you attend some lectures.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-10T04:47:37.680880Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "DATA100",
+      "review": "He obviously cares about his students, and gives lots of extra credit. This class is very, very easy, but he wants to treat it like it's Chem. He does nearly everything in his power to make sure students don't skip. Your grade is dependent of attendance, but lectures are boring and repetitive. He takes this class to seriously, walking around the huge lecture hall to make sure students are \"on task\" with the slides pulled up and ear buds out. Stats is an easy class, take another professor who understands this, not Griffin.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-12-11T18:41:34.767497Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "DATA100",
+      "review": "Amazing teacher, teaches to the test, no surprises. Drops lowest grades at the end of semester. Cannot recommend her enough. Extremely hard to fail this class",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-15T23:04:51.441650Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "DATA100",
+      "review": "I usually don't write reviews, but Professor Griffin receives lower than a 1 star if possible. He's extremely passionate about what he teaches in the classroom but his respect, attitude, and behaviors towards others (including his AMPs) are in the gutter. Like everyone else has said, he has assigned seats during lecture, takes attendance during every class, wastes the first 15 minutes of lectures just going over the syllabus, and treats students like children. I'm not sure if he's on some power trip but his attitude towards students is disgusting. One time, a student sat in with another student in an empty seat and he called them out in front of the class, felt the need to embarrass him, and kicked him out. He is extremely passive-aggressive whenever a student is a bit late and sometimes even calls them out in front of a full lecture hall. When a student was late for their exam, he had them sit in the front of the room and almost flung the exam in his direction. The students in his class are smart and capable but he does not treat them as such. STAT100 should be an easy A but Professor Griffin assigns \"busy work\" and talks/complains about the most useless and impractical things. Class is also never canceled in this class. When Professor Griffin was out sick, he had the AMPs and the TAs sit in front of the class and \"teach\" which basically meant students looked through the lecture slides on their own and completed an online classwork by the end of it. He's not understanding, he's not lenient, and he's overall just not a decent person. If you can take stat100 elsewhere or with anyone else, do it otherwise you'll spend the rest of the semester complaining about this dude",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2025-04-04T14:38:45.409345Z"
+    },
+    {
+      "professor": "Clarke Safsten",
+      "course": "DATA100",
+      "review": "Great teacher, helpful when help is needed, exams were a walk in the park. Would definitely recommend this teacher if you need to take this class!!!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-07-18T15:49:03.753337Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "DATA100",
+      "review": "Super nice! Goes over so many practice problems in class. Explains clearly. Open to feedback on homework assignments and tests. Sometimes difficult to understand because of her accent, but i highly recommend taking her! There's a lot of assignments but are super simple and not very time consuming (depending on if you understand the material) which help maintain your grade. The tests are basically the same as previous exams and she provides those to study. And on the test you get a formula sheet.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-09T18:04:18.407057Z"
+    },
+    {
+      "professor": "Matthew Griffin",
+      "course": "DATA100",
+      "review": "The goat of STAT/DATA 100 has rise like a king. Long live Matthew Griffin your majesty! Thank the Lord Jesus Christ for helping me succeed.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2026-02-05T00:01:18.248729Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "DATA100",
+      "review": "I took this class in my freshman year, and I have to say she really cleared my concepts, gave really good practice for the exams and her slides were very informative. I loved her class so much that I even decided to become an AMP for her in Fall 2024 and let me tell you she is the sweetest person ever and is really very helpful. Do take her class!",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2026-03-05T02:53:14.392681Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "DATA100",
+      "review": "I took her class in my frshman year and let me tell you she is the perfect person to top teach you these basics in statistics. She really helped me gain love for the subject so much so that I decided to AMP for her the following year. I saw how much material she provides her students with, she is very kind and very helpful. She is a really hardworking professor, do take her class!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2026-03-05T02:57:55.483169Z"
+    }
+  ],
+  "department": "DATA",
+  "course_number": "100",
+  "name": "DATA100",
+  "title": "Elementary Statistics and Probability",
+  "credits": 3,
+  "description": "Simplest tests of statistical hypotheses; applications to before-and-after and matched pair studies. Events, probability, combinations, independence. Binomial probabilities, confidence limits. Random variables, expected values, median, variance. Tests based on ranks. Law of large numbers, normal approximation. Estimates of mean and variance.",
+  "is_recent": true,
+  "geneds": null
+}

@@ -1,0 +1,155 @@
+{
+  "average_gpa": 3.391944764096664,
+  "professors": [
+    "Donal Heidenblad",
+    "Yla Tausczik",
+    "William Bowser",
+    "Sydney Triola",
+    "William Farmer",
+    "Nekabari Sigalo",
+    "Aditya Ravindra Bhat",
+    "Babak Fotouhi",
+    "Aditya Ravindra Bhat",
+    "Nekabari Sigalo",
+    "Nekabari Sigalo",
+    "Vikas Sahasrabudhe",
+    "Donal Heidenblad",
+    "Nekabari Sigalo",
+    "Aditya Ravindra Bhat",
+    "Nekabari Sigalo",
+    "Giovanni Luca Ciampaglia",
+    "Nekabari Sigalo",
+    "Cody Buntain",
+    "Donal Heidenblad",
+    "Matthew Patrick",
+    "Timothy Suh",
+    "Matthew Patrick",
+    "Md Rony",
+    "Nekabari Sigalo",
+    "Matthew Patrick",
+    "Nekabari Sigalo",
+    "William Farmer",
+    "Nekabari Sigalo",
+    "Matthew Patrick",
+    "Md Rony",
+    "Nekabari Sigalo",
+    "Wei Ai",
+    "Giovanni Luca Ciampaglia",
+    "Scott Jackson",
+    "Timothy Suh"
+  ],
+  "reviews": [
+    {
+      "professor": "Nekabari Sigalo",
+      "course": "INST447",
+      "review": "one of my favorite professors in the iSchool, took her for 408F as well, she is a great professor. is concise and clear in her lectures, and is willing to help her students if needed.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-11-05T05:50:49Z"
+    },
+    {
+      "professor": "Nekabari Sigalo",
+      "course": "INST447",
+      "review": "Gives little to no feedback on your work, draws out lectures and takes up multiple videos and hours worth of your time to explain information that could be done in minutes. Expects you to do things her way when there are often multiple ways to solve a problem, you can get points taken off for something like that. She also does this really annoying thing where her assignments will repeat questions the exact same way with different variable names; so you're learning nothing more than you did the first three times you did it, it just takes more time. The class itself isn't hard, but she often doesn't explain concepts that are required on labs and assignments so you have to figure it out on your own. \r\n\r\nShe also takes 2-3 weeks to grade assignments (and doesn't give actual feedback); when you have a class where the content builds on previous material you can get stuff in one week's content wrong and continue to build on that without realizing.\r\n\r\nClass content is useful, but you'd be better off learning it yourself/from some online sources.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2022-03-06T22:28:14Z"
+    },
+    {
+      "professor": "Nekabari Sigalo",
+      "course": "INST447",
+      "review": "Her pre-recorded video lectures are very helpful. I feel like I have learned a lot from her class so far. Labs, quizzes, and programming assignments are reasonable. I have never felt like there are concept she hasn't explained that are needed on the assignments, but YMMV. Exams have also been fair. Grading does take a while which is quite irritating, although I feel like this is how most of my classes are. She provides her powerpoints which is very helpful for quizzes and exams. Did I mention everything is open note? It's wonderful.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-04-10T23:33:02Z"
+    },
+    {
+      "professor": "Nekabari Sigalo",
+      "course": "INST447",
+      "review": "Easy course. Felt like taking INST126 but with more work with pandas. No challenges were met doing activities because she gives you most of the coding framework for you to modify for assignments. Learned some things about data science but didn't earn much of a learning impact as this course gives you. \r\n\r\nI used INST course projects as a way to place them into my portfolio for may employers, but I have so say the work we were given wasn't portfolio worthy or even as work heavy as work I've done in 314. Definitely feels like I'm taking a 200-300 level course.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2023-01-03T02:00:13.937285Z"
+    },
+    {
+      "professor": "Donal Heidenblad",
+      "course": "INST447",
+      "review": "Really a down to earth guy, happy to help you with what ever you need help with. Lectures are not always the most informative but if you ask questions he is more then happy to help you. Assignments tell you exactly what is required of you and quick to respond to emails.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-12T01:37:47.372138Z"
+    },
+    {
+      "professor": "Giovanni Luca Ciampaglia",
+      "course": "INST447",
+      "review": "sucks, uses autograder for assignments but his solutions aren't correct so he has to send out 3 announcements to tell you how to specifically overcome his idiosyncratic errors and vague solutions by adding specific lines of code and so you can arrive at his erroneous solution",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2023-10-03T03:53:15.441293Z"
+    },
+    {
+      "professor": "Giovanni Luca Ciampaglia",
+      "course": "INST447",
+      "review": "Would not recommend. I'm usually not the type to complain about professors but this class is not well taught at all. His auto grader assignments has errors and his due date time is jank. \r\n\r\nOn top of all of that, his test covers content that the hw didn't even cover yet. I'm not exaggerating, hw 4 was not even due until the day after the test, yet he tested us on content that's covered in hw 5.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2023-10-18T17:22:50.716864Z"
+    },
+    {
+      "professor": "Giovanni Luca Ciampaglia",
+      "course": "INST447",
+      "review": "Avoid this professor. Very knowledgeable about what he teaches, but this class is all over the place. For the assignments, he uses autograder, and for almost every assignment, there has been a mistake on his side with errors regarding the correct answer. The instructional team has had to constantly push back due dates because of mistakes or just not releasing the assignment until 2 or 3 days before the due date. Mind you, this is a technical course and with that comes assignments that may take a few days to figure out. However, the errors regarding the auto grader and instructions in the assignments makes this class very confusing. I've taken other technical courses in this program, and this is by far one of the worst experiences I've had. Due dates are also very weird, with assignments being due at 11:59AM, but for me that's a minor inconvenience compared to the bigger problems with this course. Choose another professor.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2023-11-06T22:42:19.569709Z"
+    },
+    {
+      "professor": "Nekabari Sigalo",
+      "course": "INST447",
+      "review": "Professor is super open to students, all work is reasonable and covered in lecture videos.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2023-11-21T06:01:26.325075Z"
+    },
+    {
+      "professor": "Giovanni Luca Ciampaglia",
+      "course": "INST447",
+      "review": "This class was pretty bad. The professor is very nice, but the way the material is taught is not easy to understand at all. We were taught one thing in class but the programming assignments and labs were way harder and sometimes made zero sense. I didn't think this class would be bad at all, I had a lot of hope but it's stressed me a lot this semester, by far my most stressful class.",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2023-12-12T05:17:23.487804Z"
+    },
+    {
+      "professor": "Matthew Patrick",
+      "course": "INST447",
+      "review": "Did you take INST326 from Prof Patrick? If yes take the class. Reused materials from INST326, so you'll be cruising along until you have a group project near the end of the semester. Fairly easy project as long as you understand some statistics and R. Don't expect help or communication from Prof Patrick though, emails take either a week or two to be replied to or no response at all. The class has no commitment as well, supposed to be synchronous with discussion sessions but didn't even have to go to those as well as long as you did the work. \r\n\r\nTL;DR If you took INST326 from Prof Patrick it's a free class. If you can get by coding without help, take the class. If you expect help, aren't good at coding, or want to learn take someone else.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2025-01-31T16:06:12.331643Z"
+    },
+    {
+      "professor": "Matthew Patrick",
+      "course": "INST447",
+      "review": "Took until last day of finals to grade some of our assignments, including the final project which took over a month of preparation. Discussion sessions were canceled half the time due to to TA unavailability, which caused large gaps in learning. Also, there were barely any slides or lectures it was just a slide or two of R code that we had to base our learning off of. No leniency or good communication, and TAs are the ones who primarily take over discussions and office hours.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2025-05-21T12:39:11.635444Z"
+    },
+    {
+      "professor": "Matthew Patrick",
+      "course": "INST447",
+      "review": "Look, I got an A+, so I really shouldn't complain, but I really disliked how this class was structured. I knew it was going to be asynchronous, but the online material rarely matched the assignments. The in-person discussion got canceled nearly every time, so no one showed up. Trying to contact the instructional team was nearly impossible; they never responded. And the group project may have been the most ridiculous part. We never once got any feedback on any of the deliverables, and I still do not know what I got on this project. Combined with the fact that 3 out of 5 of my group project partners did not do an ounce of work, this project felt extremely pointless. So yeah, I did well in the class, but unless you want a lot of confusion and lack of instruction, I cannot recommend this professor for this class, not under the current structure.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2025-06-10T19:24:58.728327Z"
+    }
+  ],
+  "department": "INST",
+  "course_number": "447",
+  "name": "INST447",
+  "title": "Data Sources and Manipulation",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> 1 course with a minimum grade of C- from (INST201, INST301); and minimum grade of C- in INST126, INST327, STAT100, MATH115, and PSYC100; and 1 course with a minimum grade of C- from (INST326, CMSC131).\n<b>Restriction:</b> Must be in Information Science program.\nExamines approaches to locating, acquiring, manipulating, and disseminating data. Imperfection, biases, and other problems in data are examined, and methods for identifying and correcting such problems are introduced. The course covers other topics such as automated collection of large data sets, and extracting, transforming, and reformatting a variety of data and file types.",
+  "is_recent": true,
+  "geneds": null
+}

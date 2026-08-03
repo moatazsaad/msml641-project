@@ -1,0 +1,224 @@
+{
+  "average_gpa": 2.8476190476190477,
+  "professors": [
+    "Paulo Bedaque",
+    "Christopher Monroe",
+    "Steven Anlage",
+    "Manuel Franco Sevilla",
+    "Alberto Belloni",
+    "Bei Lok Hu",
+    "Chandra Turpen",
+    "Alberto Belloni",
+    "Alicia Kollar",
+    "Bei Lok Hu",
+    "Chandra Turpen",
+    "Chandra Turpen",
+    "Chandra Turpen",
+    "Chandra Turpen",
+    "Chandra Turpen",
+    "Chandra Turpen",
+    "Chandra Turpen"
+  ],
+  "reviews": [
+    {
+      "professor": "Manuel Franco Sevilla",
+      "course": "PHYS371",
+      "review": "Literally the worst physics professor. Taking his class is like getting a root canal. ",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2020-01-25T22:22:47Z"
+    },
+    {
+      "professor": "Manuel Franco Sevilla",
+      "course": "PHYS371",
+      "review": "Occasionally lectures have some clarity problems, but overall a very well-structured and well-done course. HWs are challenging but thoughtful and designed to improve students' understanding of the content. \r\n\r\nFranco Sevilla puts a lot of effort into his class and is easily accessible and receptive to questions/concerns/etc. Truly cares about physics and about his students.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2020-04-21T14:48:33Z"
+    },
+    {
+      "professor": "Manuel Franco Sevilla",
+      "course": "PHYS371",
+      "review": "Great professor, try to go to his office hours if you can ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2020-11-08T16:01:37Z"
+    },
+    {
+      "professor": "Steven Anlage",
+      "course": "PHYS371",
+      "review": "Anlage was great! Very approachable and kind guy, shared stories about his travels and his family to us but it never got in the way of course material. Had a lot of fun with the class, the only downside is that his quizzes were a bit weird and in my opinion unfair at times, but that's just how online classes are. ",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2020-12-18T23:02:09Z"
+    },
+    {
+      "professor": "Steven Anlage",
+      "course": "PHYS371",
+      "review": "Anlage was a really great professor. The class is hard but definitely fair. His exams really test whether you understand the material or not. \r\nHe did a really good job of teaching online! I was always engaged with his class and he is clearly passionate about the topics he teaches. The quizzes were hard but fair, the only downside was that most of the time it was 1 multiple choice question, so you either got a 0/10 or a 10/10, no in-between. The homework is fine if you work through it with a study group. ",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2021-01-13T17:01:53Z"
+    },
+    {
+      "professor": "Alberto Belloni",
+      "course": "PHYS371",
+      "review": "I took PHYS371 in Fall 2021 w/ Alberto and I would say this was a great idea! His lectures are comprehensive and dives into the course material with an appropriate level of detail. This is especially important for the non-intuitive concepts introduced in Modern Physics like Special Relativity and Quantum Mechanics. If you still have lingering questions after lectures, he's also eager to meet up with you in office hours to answer those questions! Usually after lectures his slides would be available on his ELMS page.\r\n\r\nWith that in mind, PHYS371 certainly isn't a simple class. The topics discussed in modern physics can be hard to grasp and may not align with what you would expect given the knowledge from classical physics. For people taking this class, I suggest you take a good amount of time to study and truly understand the concepts you're learning.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2022-03-13T22:27:57Z"
+    },
+    {
+      "professor": "Alberto Belloni",
+      "course": "PHYS371",
+      "review": "Great professor! ",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-05-04T16:04:24Z"
+    },
+    {
+      "professor": "Bei Lok Hu",
+      "course": "PHYS371",
+      "review": "Dr. Hu the GOAT! he is extremely passionate to teach physics. The exams and homework are very similar. Strongly recommend taking this course with him.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-12-22T01:46:35.171185Z"
+    },
+    {
+      "professor": "Bei Lok Hu",
+      "course": "PHYS371",
+      "review": "Dr. Hu is a very difficult professor. He cares deeply about his students and wants them to succeed, but his teaching skills make it difficult for most students to do that. He is very approachable and kind and was willing to give extensions/move things around if necessary. However, his lectures consist mostly of him projecting his notes onto the board and speeding through them. Many derivations are left incomplete and topics barely explained. To succeed in his class, most students had to either entirely teach themselves or have prior experience in the topics. I would highly advise avoiding him if possible.",
+      "rating": 2,
+      "expected_grade": "C+",
+      "created": "2023-01-11T15:51:58.018279Z"
+    },
+    {
+      "professor": "Chandra Turpen",
+      "course": "PHYS371",
+      "review": "Chandra is a fantastic professor who really prioritizes student learning. The content is difficult, but the group problem solving sessions are super helpful and she provides exam and homework corrections which make learning the material more obtainable. Although I don't love that she only uses slides for lecture, they are helpful for review. Some combination of slides and working things out on the board would be even better.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-06-23T17:39:00.653690Z"
+    },
+    {
+      "professor": "Chandra Turpen",
+      "course": "PHYS371",
+      "review": "One of the best professors I've had at UMD. This professors research focus is physics education, and it shows in her educational ability. You can tell she very much cares about your learning, creates a really nice learning environment in class, uses clear slides and posts the weekly readings in an organized manner. Very good professor to talk to about any issues you might be having, and very helpful if you want to ask for help with anything physics related. She even takes a couple classes to focus on future career interests, and is willing to help students with that part of their college lives.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2023-11-10T10:00:52.052393Z"
+    },
+    {
+      "professor": "Chandra Turpen",
+      "course": "PHYS371",
+      "review": "She should teach every class in the physics department. Seriously. This has been by far my favorite physics class at UMD. Dr. Turpen and her TA's are wonderful and I would highly, HIGHLY recommend taking her class.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-11-29T18:14:33.692788Z"
+    },
+    {
+      "professor": "Chandra Turpen",
+      "course": "PHYS371",
+      "review": "Dr. Turpen is simply an amazing professor. She really cared about us learning the physics while not making the class too difficult. Lectures were easy to follow and we had in-class participation quizzes that really helped to reinforce what we were learning. The homeworks were never too difficult or long, and exams were fair. If Dr. Turpen is teaching 371 for your semester, you'll be in for a treat.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-10T02:41:26.161769Z"
+    },
+    {
+      "professor": "Chandra Turpen",
+      "course": "PHYS371",
+      "review": "Professor Turpen is one of the kindest professors I have ever encountered. She genuinely cares about learning and allows students to redo exam/homework problems for partial credit which is really helpful for not only boosting your grade, but learning material in the class. It is a tough course, but she sets up students to succeed. That being said, my only complaint is that it takes forever to get grades back in this class. I still have ungraded assignments from September which is frustrating not having a solid clear grade going into finals. Aside from that, I loved taking 371 with her and could not recommend her more. I hope I get to take another class with her!",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2023-12-12T01:30:00.196245Z"
+    },
+    {
+      "professor": "Chandra Turpen",
+      "course": "PHYS371",
+      "review": "Professor Turpin is one of the few professors in the physics department who genuinely seems to care about you learning concepts. Exams were very fair- often times, other professors seem more interested in over complicating problems, or tricking you. This is absolutely not the case for her class. There is lots of TA-student interaction time outside of class (if you need it). There are weekly office hours dedicated to group solving homework problems. Just make sure you show up to class because attendance/participation is a surprisingly large percent of your grade",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2024-05-11T03:40:52.799143Z"
+    },
+    {
+      "professor": "Chandra Turpen",
+      "course": "PHYS371",
+      "review": "I\u2019m honestly just bracing for the whiplash of not taking a class with Dr. Turpen next semester \u2014 this professor should teach every class in the department. She\u2019s one of the only professors I've had who truly sees her students as human beings, not robots. Lectures are not just 50 minutes of force feeding material like other classes \u2014 she stops frequently for questions and polls the class with interactive comprehension questions to make sure that we're really understanding what's going on. Homeworks are expertly crafted to actually support our learning process and I always know that, even if I didn't understand what's happening in lecture, I'll understand it after the homework. Her exams are incredibly fair and she provides such an amazing support system with her review sessions, practice exams, homework corrections, test corrections, and TAs. She sincerely wants to see everyone succeed and, if you put in the work, you'll learn so much from her class. I hope I get to learn from her again at some point \u2014 seriously, take a class with Dr. Turpen if you can :)",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-09T13:50:22.309006Z"
+    },
+    {
+      "professor": "Chandra Turpen",
+      "course": "PHYS371",
+      "review": "Dr. Turpen is the absolute BEST! The list of amazing things she does is quite possibly endless, but I will do my best to list them anyway! She adapts her lectures based on what would be most helpful for us, meaning she will completely derail her own lesson plans to have review days as needed, and she will still make sure to get us where we need to get to by the end of the course. The best educators are ones that are able to take students of varying levels and equip ALL of them with the knowledge they need by the end of the course, and Professor Turpen could very well be the best educator. She gives us practice exams with solutions and writes incredible homework that greatly enhances our learning. She never leaves a student behind and makes special relativity (which is not by any means an easy thing to understand) so digestible it might as well be ice cream.\r\n\r\nAll because of Dr. Turpen, I was able to achieve a level of mastery and understanding with this material that I haven't really had since high school. I can confidently say that I understand modern physics in its entirety, and every single professor at UMD--nay, the WORLD--should be taking notes! Professor Turpen literally does research in physics education, so it makes sense that she's so awesome, and all of my wishes every time I blow out birthday candles--mine or somebody else's--will be for whatever physics professor I have next to have a fraction of the teaching talent that Dr. Turpen has.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-11T22:13:12.789883Z"
+    },
+    {
+      "professor": "Chandra Turpen",
+      "course": "PHYS371",
+      "review": "She is the best physics course professor I've had. She knows how to teach and has done an excellent job crafting this course's sequence and experience. This course was easier than other physics courses, but it was a nice break from tediously long derivations and gut-wrenchingly difficult exams. If you put in anything more than 1 hour a week for this course you are guaranteed an A.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-11T22:44:50.125005Z"
+    },
+    {
+      "professor": "Chandra Turpen",
+      "course": "PHYS371",
+      "review": "Professor Turpen is by far the best physics professor I've had at UMD. I appreciated her pedagogical approach to physics where she emphasized understanding the material rather than trying to destroy our GPAs. It's quite refreshing to feel like I can truly enjoy the material rather than worrying about exams. For homeworks and exams she allowed us to revise them for half credit back, and her exams were very fair. I wish other professors in the physics department would teach like she did.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-16T02:34:22.918889Z"
+    },
+    {
+      "professor": "Chandra Turpen",
+      "course": "PHYS371",
+      "review": "Fantastic professor, no questions asked. Prof Turpen's lectures are unlike typical ones of a professor simply reading off a board with no energy. This class is the opposite - the lectures are graded for attendance but you only benefit from going + 4 are dropped. Homeworks are all reasonable levels of difficulty and one free extension is given (12 HW total). Biggest upside to the class was EXAM/HW REVISIONS. If you were slightly off in your understanding of ONE HW problems, you write up a revision and earn back half of ALL the points from all the problems you missed, its a game changer. The exams require a revision for each individual problem but it still is very helpful. Take this professor.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2024-12-19T00:53:58.499425Z"
+    },
+    {
+      "professor": "Chandra Turpen",
+      "course": "PHYS371",
+      "review": "Professor Turpen seems kind at first but just isn't an understanding/considerate person at all. I felt that she didn't really understand at a high level the topics she was teaching herself. The class was really easy, which I think provides evidence for that claim. There were many questions that were literally just plugging things into your calculator. At this point in the major, you should already know how to do that. She isn't great at explaining concepts/techniques (though that didn't matter so much because the concepts/techniques themselves were easy). The in-class \"poll\" questions are weirdly phrased sometimes, and they show her lack of understanding of the topics she is teaching. There were some assignments that felt pretty useless, and there is 6% participation credit, which is ok but I wish it weren't there so that you could miss class and catch up later if you needed. There are 3 exams and a final, and they were all very fair, i.e. they were what you learned in class/HWs. HWs were also very fair. Exams overall make up 50% of your grade, and HWs/\"readings\" are (26+4)%.\r\n\r\nPeople say PHYS371 is useless for a class, and that's pretty accurate. You learn some useful things, but for a class, it's just pretty pointless when you could very easily learn relevant info yourself before taking quantum. In other words, I think there isn't enough useful info in this course to have it as a separate course entirely, and I feel that it was a bit too much of a waste. While at the time of writing this I haven't taken quantum yet, I think you could learn all the quantum stuff in quantum, i.e. you don't need this course to get introduced to quantum. The quantum stuff you go over is pretty basic, and honestly you learn techniques for solving very simple problems moreso than concepts, which I feel is more important.\r\n\r\nI appreciated that she gave practice exams, which definitely helped you prepare for each exam. There were also exam review sessions held by the TAs, which were relatively useful. Finally there are homework and exam corrections, which just aren't needed for a course like this, but still that's a good thing (though I heard you have to write a lot even for simple mistakes that don't require such explanations because there isn't much to reflect on). Overall, you shouldn't have too much difficulty with this class. Just review HWs and do the practice exam for each exam and you'll be fine.\r\n\r\nHonestly, I think people subconsciously think she's an awesome teacher because this class is so easy compared to other classes they've taken.. don't let that fool you too.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2024-12-21T23:45:28.385789Z"
+    },
+    {
+      "professor": "Chandra Turpen",
+      "course": "PHYS371",
+      "review": "Ignore the 2 star review from 12/21. That person clearly had some personal issues with the professor, because saying she's not understanding or considerate is laughable and simply not true.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2025-02-10T18:33:57.494360Z"
+    },
+    {
+      "professor": "Paulo Bedaque",
+      "course": "PHYS371",
+      "review": "Made an easy class difficult - homeworks are somewhat random and we had 10 total over the course of the semesters. Exams are incredibly short (2 problems with 1-3 parts) and credit is awarded as all or nothing. Attend lecture and office hours as you can earn points back.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2025-12-13T20:52:25.559458Z"
+    },
+    {
+      "professor": "Paulo Bedaque",
+      "course": "PHYS371",
+      "review": "Homeworks were (for the most part) completely useless for understanding the content and I honestly never understood a thing in lectures. His philosophy is that it is your responsibility to find materials to really understand the content, and that you should take plenty of time outside of class to understand it. Exams are difficult, more so because they were random and you had no idea what he would put on them, and have very little practice on anything. \r\nHe has notes that are really useful to study for exams (I don't think I ever even looked at the notes I took in class). I would recommend lots of Youtube videos, reading David Morin's book for the relativity part of the class, and then maybe reading the first two chapters of an introductory quantum mechanics textbook for the quantum part of the class, and then more Youtube videos. \r\nHe generally seems nice, but he will not hold your hand in the class at all, and exams are unpredictable. He curves generously though.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2026-02-03T23:12:46.367489Z"
+    }
+  ],
+  "department": "PHYS",
+  "course_number": "371",
+  "name": "PHYS371",
+  "title": "Modern Physics",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> PHYS273 and PHYS274.\n<b>Corequisite:</b> PHYS373.\n<b>Credit only granted for:</b> PHYS371 or PHYS420.\n<b>Additional information:</b> This course is intended primarily for physics and astronomy majors.\nIntroduces students to special relativity, thermodynamics and quantum mechanics at an intermediate level.",
+  "is_recent": true,
+  "geneds": null
+}

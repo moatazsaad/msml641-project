@@ -1,0 +1,39 @@
+{
+  "average_gpa": 2.961607142857143,
+  "professors": [
+    "Charles Levermore",
+    "Wojciech Czaja",
+    "Brian Hunt",
+    "Radu Balan",
+    "Radu Balan",
+    "Radu Balan",
+    "Abba Gumel",
+    "Radu Balan"
+  ],
+  "reviews": [
+    {
+      "professor": "Joel Kim",
+      "course": "MATH420",
+      "review": "Very good professor would recommend. Quizzes are kind of hard and need to study for them but he gives out what we need to study for and overall very chill vibe.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-10-01T19:59:41.044198Z"
+    },
+    {
+      "professor": "Radu Balan",
+      "course": "MATH420",
+      "review": "Extremely nice professor that is seriously passionate about what he teaches. This course is a very barebones intro to mathematical modeling and your grade consists only of homework (individual and partner) and two group projects. The project descriptions are very manageable and are based on what you already do within the homework. He also checks in with you before your project presentations to ensure that you have done everything right and know generally what you are talking about. His lectures can get extremely theoretical, but he also connects very practical concepts to what he teaches (mostly with the projects). Also a relatively lax grader, and generally a nice guy.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-20T00:10:58.679075Z"
+    }
+  ],
+  "department": "MATH",
+  "course_number": "420",
+  "name": "MATH420",
+  "title": "Mathematical Modeling",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> 1 course with a minimum grade of C- from (MATH240, MATH461, MATH341); and 1 course with a minimum grade of C- from (MATH241, MATH340); and 1 course with a minimum grade of C- from (MATH246, MATH341); and minimum grade of C- in STAT400. And 1 course with a minimum grade of C- from (CMSC106, CMSC131); or students who have taken courses with comparable content may contact the department. Cross-listed with AMSC420.\n<b>Credit only granted for:</b> AMSC420 or MATH420.\nThe course will develop skills in data-driven mathematical modeling through individual and group projects. Emphasis will be placed on both analytical and computational methods, and on effective oral and written presentation of results.",
+  "is_recent": true,
+  "geneds": null
+}

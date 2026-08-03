@@ -1,0 +1,91 @@
+{
+  "average_gpa": 3.286904761904762,
+  "professors": [
+    "Behtash Babadi",
+    "Zhizhong Han",
+    "Maria Cameron",
+    "Alejandra Mercado",
+    "Babak Azimi-Sadjadi",
+    "Kemal Davaslioglu",
+    "Alejandra Mercado",
+    "Babak Azimi-Sadjadi",
+    "Kemal Davaslioglu",
+    "Alejandra Mercado",
+    "Babak Azimi-Sadjadi",
+    "Kemal Davaslioglu",
+    "Richard La",
+    "Babak Azimi-Sadjadi",
+    "Kemal Davaslioglu",
+    "Alejandra Mercado",
+    "Babak Azimi-Sadjadi",
+    "Kemal Davaslioglu",
+    "Richard La",
+    "Kemal Davaslioglu"
+  ],
+  "reviews": [
+    {
+      "professor": "Maria Cameron",
+      "course": "MSML603",
+      "review": "Too much focus on theory, in a subject which would helped with more practical applications. Deriving multi page formulas was not helpful in any way.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2021-05-21T19:40:14Z"
+    },
+    {
+      "professor": "Kemal Davaslioglu",
+      "course": "MSML603",
+      "review": "One of the best professors I've had at UMD. You can tell he really cares about what he's teaching and the success of his students. The homework, term project and exams feel relevant to the course. The exam questions are really fair, you never look at a question and feel surprised and wonder if you learned about the concept.  It's a really dense course and some lectures can feel overwhelming but just make sure you show up to class and be an active listener and you'll be perfectly fine.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2024-12-20T23:05:47.091567Z"
+    },
+    {
+      "professor": "Alejandra Mercado",
+      "course": "MSML603",
+      "review": "All I have to say is... an amazing professor! She made classes so fun. Very engaging and caring about her students. Whatever she teaches is exactly what she asks in the exams. She gave weekly homework assignments that tested us on what we learned in class that week. \r\n\r\nThe only downside one might point out is that she doesn't provide any study materials (the notes you take in class will be your bible) and she doesn't record her lectures either. So missing a class is missing information.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-01-24T22:01:28.591760Z"
+    },
+    {
+      "professor": "Babak Azimi-Sadjadi",
+      "course": "MSML603",
+      "review": "Don't listen to the other reviews lmao hes great, both exams are open note and homeworks are practical applications into the subject matter. Tons of extra credit (ie quizzes) too, but lectures themselves dive into the math behind the subject matter which is nice but personally, I would have to watch a high level overview of the subject prior to class to get the benefit of lecture. def take babak if you can hes goated",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-05-26T20:49:34.878516Z"
+    },
+    {
+      "professor": "Babak Azimi-Sadjadi",
+      "course": "MSML603",
+      "review": "He is the Ali Ghodsi of UMD CMNS.The best professor and value you can get out of paying your tuition. Yes, you do need a good understanding of fundamental maths for ML to understand his lectures on the run.If  you really wish to learn ML in a different perspective ,this is it. Instead of running over the maths and importing libraries ,Prof Babak covers every nook and cranny of the algorithm right from its origin. The key to get more out of his classes is to come prepared very well and ask questions without hesitating. He has never said no for any questions and always takes time, even after class hours to actually clarify the doubts. Understanding the maths he teaches will lay the foundation to literally every advancements in ML/NLP. I'd suggest to anyone who reads this, if ask the people about his lectures they might have varied opinions ,but then it tells more about their approach to ML than his. You can't never run away from maths and Prof Babak exactly takes you there slow and steady.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2025-11-26T04:23:36.234777Z"
+    },
+    {
+      "professor": "Alejandra Mercado",
+      "course": "MSML603",
+      "review": "Excellent professor. An incredibly clear, well-planned lecturer who made me legitimately excited to attend lecture everyday, even with class early in the morning. \r\n\r\nHomeworks were generally quick and helped to reinforce learning. Exams were incredibly fair, reflecting exactly what was taught in lecture and tested in homeworks.\r\n\r\nOnly downside is that she does not post lecture notes or record lectures, so missing a lecture isn't great. But definitely a lecturer worth coming to class for if not sick.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-13T00:37:54.701343Z"
+    },
+    {
+      "professor": "Babak Azimi-Sadjadi",
+      "course": "MSML603",
+      "review": "By far the best professor I have met at UMD. He teaches mathematically how Machine learning algorithms work. The intuition I get from his lectures are to notch. The assignments are practical and classes are math heavy so it's a perfect balance.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2025-12-22T06:33:02.504096Z"
+    }
+  ],
+  "department": "MSML",
+  "course_number": "603",
+  "name": "MSML603",
+  "title": "Principles of Machine Learning",
+  "credits": 3,
+  "description": "<b>Restriction:</b> Must be in one of the following programs: (Data Science Post-Baccalaureate Certificate, Master of Professional Studies in Data Science and Analytics, or Master of Professional Studies in Machine Learning).\n<b>Cross-listed with:</b> DATA603.\n<b>Credit only granted for:</b> DATA603, MSML603 or CMSC643.\n<b>Formerly:</b> CMSC643.\nA broad introduction to machine learning and statistical pattern recognition. Topics include: Supervised learning: Bayes decision theory, discriminant functions, maximum likelihood estimation, nearest neighbor rule, linear discriminant analysis, support vector machines, neural networks, deep learning networks. Unsupervised learning: clustering, dimensionality reduction, PCA, auto-encoders. The course will also discuss recent applications of machine learning, such as computer vision, data mining, autonomous navigation, and speech recognition.",
+  "is_recent": true,
+  "geneds": null
+}

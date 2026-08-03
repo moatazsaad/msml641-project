@@ -1,0 +1,393 @@
+{
+  "average_gpa": 2.894043598403439,
+  "professors": [
+    "Adam Porter",
+    "Walter Cleaveland",
+    "Evan Golub",
+    "Michael Hicks",
+    "Pei-Hsiu Yeh",
+    "Anwar Mamat",
+    "Michael Marsh",
+    "Anwar Mamat",
+    "Liyi Li",
+    "Liyi Li",
+    "Jose Calderon",
+    "Rance Cleaveland",
+    "Leonidas Lampropoulos",
+    "Rance Cleaveland",
+    "Anwar Mamat",
+    "Leonidas Lampropoulos",
+    "Anwar Mamat",
+    "Leonidas Lampropoulos"
+  ],
+  "reviews": [
+    {
+      "professor": "William Pugh",
+      "course": "CMSC433",
+      "review": "Bill Pugh is one of the most famous (professionally) professors in CS dept. And he clearly knows his stuff very well. Unfortunately, you are not going to get much of it unless you make special efforts. He designed 433 in a slightly different way than described in the catalog; it was heavy on concurrent programming and we did very little on design patterns. I learned a lot in this course, but it was mostly by reading his slides and doing projects (one every week, and great fun). He isn't a very good grader; partial credit is hard to come by. Despite the fact that he is so knowledgeable, he won't make efforts to ensure students understand what he is talking about. He just reads through his slides and considers his job done. I would take this class with someone else if I can. But Pugh ain't that bad either.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2010-06-08T02:09:00Z"
+    },
+    {
+      "professor": "Michael Hicks",
+      "course": "CMSC433",
+      "review": "Great professor, excellent teaching style and attitude. Very helpful with in class examples and study guides for exams.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2011-04-28T17:28:00Z"
+    },
+    {
+      "professor": "Michael Hicks",
+      "course": "CMSC433",
+      "review": "Hicks is a nice person and a very reasonable professor who knows his stuff.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2011-01-02T18:01:00Z"
+    },
+    {
+      "professor": "Adam Porter",
+      "course": "CMSC433",
+      "review": "Awesome professor. Knows the material extremely well and very effective at teaching concepts.\n\r\nHe becomes disappointed when less than half the class shows up after the first midterm. Make sure you ask questions in class for him to remain engaged in explaining the examples.\n\r\nProjects are difficult and time consuming. The section with Yeh had OPEN note/book/internet/anything midterms, which were held on google docs. Their class average was an 89, which is understandable since everyone gets 100% on his two midterms (worth 30% total).\n\r\nTake it with Yeh if you want to loaf around and still be able to pass. Take it with Porter if you want to learn concurrency and mapreduce.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2012-05-03T18:34:00Z"
+    },
+    {
+      "professor": "Adam Porter",
+      "course": "CMSC433",
+      "review": "Porter is a pretty cool guy.  The projects are kind of difficult, if only because his project descriptions are vague.  Make good use of the forum because he answers questions there frequently.  Exam(s) aren't too bad if you study.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2009-11-12T01:03:00Z"
+    },
+    {
+      "professor": "Adam Porter",
+      "course": "CMSC433",
+      "review": "Reasonable teacher:\r\nThe projects can be quite hard (though not impossible) and all the submit server tests are secret.\r\nExams are fair and graded fairly.\r\nLectures are boring -- Porter seemed to have lost interest in the material after the midterm because students had stopped coming to class.\r\nJust try a little harder and you'll get an A/B",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2008-12-29T19:20:00Z"
+    },
+    {
+      "professor": "Anwar Mamat",
+      "course": "CMSC433",
+      "review": "I like anwar and he keeps class fun but the material is just kinda boring so it is hard to pay attention sometimes. The class feels like just memorizing a bunch of java libraries used for multi threading. Easy Class though and projects are not too bad.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2018-05-14T17:07:57Z"
+    },
+    {
+      "professor": "Anwar Mamat",
+      "course": "CMSC433",
+      "review": "Funny stories, nice guy.  Class grades are pretty fair.\r\nProjects are kinda butt, and clicker questions suck, lectures are mediocre.  I also hate slide trivia exams (which is what he gives)",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2018-12-20T06:38:33Z"
+    },
+    {
+      "professor": "Linda Yeung",
+      "course": "CMSC433",
+      "review": "She's a bit hard to approach at first, but once you get to know her, she is excellent at explaining threading concepts. I hated threading from CMSC132, but she condensed it down to simpler terms for me to understand. Definitely recommend going to her!",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2019-11-09T03:10:29Z"
+    },
+    {
+      "professor": "Anwar Mamat",
+      "course": "CMSC433",
+      "review": "I had Anwar for 433 and 330. He knows how to run a course well, curves fairly, and is generally pretty responsive to student concerns. I think he is a good standard that other UMD CS professors should hold themselves to. His slides are pretty good and his tests are fair.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2019-12-18T16:14:02Z"
+    },
+    {
+      "professor": "Anwar Mamat",
+      "course": "CMSC433",
+      "review": "Good professor that knows the material well. Mostly reads off slides but gives alot of examples which helped alot. TAs are very good and office hours provided alot of help on projects. Projects are standard and should be started when they are assigned. ",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2021-01-12T04:27:19Z"
+    },
+    {
+      "professor": "Anwar Mamat",
+      "course": "CMSC433",
+      "review": "Anwar is fine. He explains the material decent enough in lecture, but he moves so fast! It's really hard to keep up with him during lectures. Also, the exams for CMSC433 are kind of really hard. I aced every single project but I couldn't for the life of me manage better than a 71 on the midterm. I don't expect to do much better on the final. All in all, Anwar is just okay. Not the worst CMSC professor I've ever had but certainly far from the best.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2021-05-12T17:02:20Z"
+    },
+    {
+      "professor": "Anwar Mamat",
+      "course": "CMSC433",
+      "review": "Pretty good 400 class overall. I don't think Anwar is a good lecturer, but he's pretty accommodating by making clicker questions fairly easy and worth 5% of the final grade to redistribute from exams. Some projects were tough (akka), especially due a high amount of the grade being secret tests, but others were fine. Make sure you put time into them, since they're worth a lot, and if you do you should be able to get a good grade. \r\nI thought the midterm and the final were fine, since I found them to be somewhat modeled after old exams. Also, TAs were great; they were really responsive on Piazza (much more than other 400s) and helpful for office hours. Great slides, and the material itself is also quite useful. Thus, if Anwar is teaching this class, I'd recommend taking it with him. ",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2021-05-18T19:38:00Z"
+    },
+    {
+      "professor": "Anwar Mamat",
+      "course": "CMSC433",
+      "review": "Not great lecturing style IMO. Lots of \"you know?\" \"this stuff\" \"this thing\" \"this stuff is tricky\" \"just read the JavaDoc\". Little motivational content to introduce concepts, which I've always found very useful in CMSC. Absolutely flies through examples without prefacing them well. Much prefer Dr. Hicks or even Prof. Herman hyper-explicit lecturing style and projects.\r\n\r\nProjects are open-ended and almost guaranteed to be 75% or more secret tests. TAs are exceptional but projects will still take 15-30 hours for average student, which was hell for someone balancing career responsibilities and other CMSC4xx classes as well. Midterms were fair and lecture slides were good.\r\n\r\nMain complaints are lecturing style and project difficulty/disconnect from lecture material/lack of direction given in description.\r\n\r\nDo not let this review discourage you from taking 433 with Anwar if you enjoy his style or are simply... well... smarter than me. Anwar is cool but the class just did not resonate with me. I've heard he's pretty good for 330 though.",
+      "rating": 2,
+      "expected_grade": "C",
+      "created": "2021-10-10T16:58:48Z"
+    },
+    {
+      "professor": "Anwar Mamat",
+      "course": "CMSC433",
+      "review": "Second class with Anwar and he's a great professor. His exams are pretty easy for the most part since he emphasizes more on projects (which I 100% agree with). The projects in the class range from extremely easy (Hadoop and MPI) to challenging (Akka), but they're all good skills to know. I didn't attend lecture live as he uploaded the recording, and he does fly through the material, but the slides and GitHub repository provide enough examples to help you understand the material.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2021-12-23T13:47:27Z"
+    },
+    {
+      "professor": "Liyi Li",
+      "course": "CMSC433",
+      "review": "If you think Kruskal was bad, this man is worse. There is no help in this class, and on top of that there are no online resources. The only way to pass is to bug the TAs for answers",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2022-05-17T14:43:03Z"
+    },
+    {
+      "professor": "Liyi Li",
+      "course": "CMSC433",
+      "review": "Very difficult professor to understand in class.\r\nCondescending when students reach out for help.\r\nto quote liyi\r\n\"Just finish it today. It is very easy. Even easier than I thought.\"",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2022-05-18T16:00:32Z"
+    },
+    {
+      "professor": "Liyi Li",
+      "course": "CMSC433",
+      "review": "PROS:\r\n- course content is not difficult; the sheer amount of assignments is what makes the class difficult\r\n- Professor Li is VERY responsive on Piazza. Between the professor and the TAs, posts usually don't sit unanswered for more than a few hours. Same goes on weekends too, though maybe a longer response time\r\n- Lectures are recorded and are posted to elms with the slides\r\n- online + open notes exams\r\n\r\nCONS: \r\n- Each week you'll either have 2 or 3 things due or nothing due. If there's nothing due one week there's a big project due the following week.\r\n- Your learning will come from the TAs office hours and learning on your own because the lectures provide little to no educational value. \r\n- His accent makes things impossible to understand. Doesn't apply to project descriptions though because he took them from Dr. Mamat.\r\n- Concurrency is only a small fraction of the course, but there are some other interesting concepts \r\n- Course is pretty unorganized\r\n- Straight up doesn't understand some of the concepts himself. There have been a few times where he answer questions in lecture/on piazza with \"I don't know\".",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2022-11-09T17:55:03.374671Z"
+    },
+    {
+      "professor": "Liyi Li",
+      "course": "CMSC433",
+      "review": "Please Please Please stay away from this professor. He makes the courses harder than it should be. TA's are not helpful because they don't even know it themselves. The professor doesn't help you either. You literally are left alone to die. Only take this course if you want to test hell.",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2022-11-23T04:55:12.622334Z"
+    },
+    {
+      "professor": "Liyi Li",
+      "course": "CMSC433",
+      "review": "Have you ever wanted to waste a semester learning nothing, but still be so stressed about a class you nearly get an ulcer? Do you want a teacher who will be rude and condescending to you and ignore all your concerns? Is your life missing a teacher who is utterly incapable of explaining the material and steadfastly refuses to answer your questions in any comprehensible way? Look no further than Liyi Li, the worst teacher bar none at the University of Maryland, perhaps in the world! His existence is proof positive that God is real and He Hates CS Students. \r\n\r\nDr. Li demonstrated every single day in class that he did not understand the material any better than the students did, or that if he did, he was so utterly incapable of communicating the material that we just assumed that lecture was the first time he was seeing it. Asking him questions didn't help as, assuming he didn't just ignore your question, he regularly failed to answer it in any meaningful way or even rephrase the confusing material in a way that could be better understood. Lecture slides are utterly useless for learning due to being incomprehensible.\r\n\r\nGoing to TAs to learn the material doesn't help either as they don't understand it either - though that's not their fault; he so completely fails to impart even the smallest nugget of information on whoever he is talking to that even they don't understand what was going on in the class Often the TAs were forced to just give out the answers left and right to students or almost the entire class would fail.\r\n\r\nWe regularly had 3-4 projects assigned to us at a time on top of regular homeworks. Projects might be due mere days apart from one another without any office hours between them to discuss the project with the TAs. When students complain, his go-to responses are \"well a few people finished the project on the first day, so why can't you?\" and \"you students are lazy and just want the TAs to do all the work for you.\" He insisted on using software that by his own admission was broken and regularly discarded your work before you could save it.\r\n\r\nTo \"make up\" for the technology issues he simply allows you ~2x the normal time to take exams. If you have another class or exam right after and can't use that extra time, tough luck, you're screwed. Who cares? Not Dr. Li. You doing poorly on an exam is just another example that proves his belief that students at UMD are idiots (literally something he has said to his TAs).\r\n\r\nIf I could give this man fewer than 1/5 stars I would - he's one of the few professors on PlanetTerp with 1-star reviews across the board. Do yourself a favor and avoid him at all costs.",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2022-12-14T16:27:17.938690Z"
+    },
+    {
+      "professor": "Liyi Li",
+      "course": "CMSC433",
+      "review": "I took this couse in Fall 2022, and having now graduated, I can now safely say that Li is the worst professor that I have had the displeasure of having, CS or otherwise.\r\n\r\nPros:\r\n+ Sometimes when responding on Piazza, Li gets to fed up, that he will just post answers to graded assignments\r\n+ Exams are online\r\n+ Late policy: 20% docked off, but you get an additional four days to complete the project. Since the 20% penalty is flat, regardless if you take 1 or 4 days, it is pretty generous as far as late policies go\r\n\r\nCons:\r\n- Li is a horrible lecturer. Some reviewers below mention his accent, and while that is an issue, I feel like the bigger issue here is that Li can't properly explain any concept for the life of him. He essentially just reads off the slides without elaborating further on any concept. Whenever he does attempt to try to explain something, it just ends up muddying things up.\r\n- Many crucial processes (ex. combining bucchi automata) are not explained\r\n- There are too many assignments. The class has major programming assignments, prelecture assignments, and HW assignments. Weeks can have as many as four assignments due, but since each type of assignment is due at a different frequency, it's hard to determine what's due when. In general, it is simply a lot of work\r\n- There are too many websites with assignments/announcements with no centralization in where everything can be found. The class had as many as four sites active at once, each with different stuff and no reminders about due assignments. It is extremely easy to miss assignments.\r\n- He claims you get 2 weeks to do every major programming project, but since multiple programming projects are active at a time, you really only are spending one week on each, since the previous week is spent on the previous project. One week is not sufficient.\r\n- Announcements on finals were confusing. Additional clarification was required on exam timings, and he kept saying that there would be zoom proctoring, only for him to randomly not do it at the last second.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2022-12-23T04:30:22.622279Z"
+    },
+    {
+      "professor": "Jose Calderon",
+      "course": "CMSC433",
+      "review": "I believe this is Jose's first semester teaching 433 so I think this will be the first review for how he is teaching this class. I haven't included a grade yet as we're only about halfway into the semester and assignments are still being graded. \r\n\r\n433's curriculum had changed a lot from the previous semesters so Jose's doing the best he can to restructure the material and it took a while for TAs to get hired because of staffing issues with the CS department, but I think Jose has done an excellent job with the class so far. Grading has been a little slow but again, that's because the course content has changed a lot and Jose's restructuring the class (which has over 250 students!)\r\n\r\nThere are many pros for taking 433 with Jose based on my experience so far and experiences with him in past classes:\r\n1) He and the TAs respond very quickly to messages from students\r\n2) He records all the lectures and uploads them very quickly\r\n3) He provides practice problems and exercises within the lecture notes, which supplement our understanding of the content\r\n4) He and the TAs have plenty office hours (in-person and online available) and they take their time to help students (with very detailed threads for topics in Discord) and teach us how to solve problems with an incremental approach. \r\n5) He organized study groups for our class. Jose is the first CS professor I have ever met who has gone to the effort of doing this for his students (most of the time, study groups for CS classes are done via CMNS or students have to form their own).\r\n6) He is incredibly experienced, has no problems answering students' questions, accommodating, and provides students plenty of resources.\r\n7) He introduced the idea of a student notes sheet (one student takes notes in a Google Doc during each lecture that other students can add upon and leave comments for, which I thought was really clever as I've never had a professor who has done this). \r\n8) He has very creative learning methods. \r\n9) His grading is very constructive and he and the TAs offer feedback about how students can improve. \r\n\r\nThere aren't really any cons I have to list except for grading being a little slow but again, that is because Jose is trying to restructure the material for the 433 class, which has had a major shift in its focus. He has taken this head-on. \r\n\r\nIf I could give Jose six stars, I would!\r\n\r\nIf you get a chance to take a class with him and you're passionate about it (especiallly 216 and 430), take it without a second thought.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2023-03-10T01:04:47.009590Z"
+    },
+    {
+      "professor": "Jose Calderon",
+      "course": "CMSC433",
+      "review": "Jose is a fantastic professor. Clearly knowledgeable about everything he is teaching and passionate. We have 4 assignments this semester which were challenging but extremely doable. His lectures are unique as he goes in and out of the command line doing \"live examples\" and walking through concepts and ideas with the class. I personally found this style of teaching to be great but it may not be for everyone. We had a TA staffing issue this semester and Jose handled every facet of it super well and the class has run smoothly. I would recommend this class, especially if you enjoy functional programming.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-03T14:15:50.796827Z"
+    },
+    {
+      "professor": "Jose Calderon",
+      "course": "CMSC433",
+      "review": "Its may 12 and i not have a grade lol",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2023-05-12T15:28:34.289730Z"
+    },
+    {
+      "professor": "Jose Calderon",
+      "course": "CMSC433",
+      "review": "Fantastic lecturer as usual. He does a live example lecture style where we write a program in class using the concepts he wants to teach us, which worked pretty well for me. Unfortunately the lack of staff (completely the fault of the college) made a lot of things difficult, like slow grading and few office hours.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-18T01:53:35.048585Z"
+    },
+    {
+      "professor": "Jose Calderon",
+      "course": "CMSC433",
+      "review": "The course is great. The lectures and projects of the course are of high quality. All lectures are recorded, Jose also uploads all the class notes, including some questions for us to complete after lecture and will explain them next lecture, which helps learning. The only complaint is that there is no piazza, all Q&As are hosted on Discord, mixed with other course-related discussions, which makes it difficult to search. Might not be the professor's fault because the dept. didn't arrange enough TAs for this class with 200+ people.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2023-05-19T03:24:50.552257Z"
+    },
+    {
+      "professor": "Jose Calderon",
+      "course": "CMSC433",
+      "review": "Jose did an excellent job teaching 433 this semester, especially considering he was understaffed and rewrote the curriculum from scratch. I would say that he is one of my favorite CS professors I have had so far.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-05-31T01:55:05.006374Z"
+    },
+    {
+      "professor": "Rance Cleaveland",
+      "course": "CMSC433",
+      "review": "Man.\r\n\r\nSo you thought 433 was always just going to be Java multithreading right? NOPE! Turns out, it's just whatever the professor wants to teach. This guy, Mr. Rance Cleaveland, was all about programming correctly, because in theory, the more correct your code is, the more secure it is. Neat concept. Nice. Cool beans. \r\n\r\nQuite a shame, because he clearly can't run a class about it. His class is structured around a single paper mathy assignment, several projects in Dafny and Haskell (dafny is extremely cringe and haskell is just ocaml part 2), one midterm, and one final. Oh, you want to study for the midterm or the final? Yeah sure man, all you have to study is a single slide of a presentation showing all the topics you need to know. No example problems. No practice exam. No textbooks. I guess you have the singular homework that wasn't a project. At least the exam is open computer, closed internet, but doesn't really help when you have zilch to study from.\r\n\r\nFor me, his lecture was quite boring and rather un-learn-able for someone who isn't interested in learning what ancient Mesopotamian symbol I need to know this time. The projects were either incredibly easy or extremely annoying and frustrating, either due to the language or the extremely poor project description. There were multiple Piazza questions all asking about what he meant by the projects and he basically answered them full of academic jargon that probably makes sense conceptually. \r\n\r\nSo basically, his class has zero structure and you're supposed to already be a god and know this kinda stuff in order to do well. The class is not easy despite the workload being low. It just felt like he finally found a hundred people or so willing to listen to him talk about whatever he's been studying for the past however many years.",
+      "rating": 1,
+      "expected_grade": "C+",
+      "created": "2023-12-11T05:13:58.351876Z"
+    },
+    {
+      "professor": "Rance Cleaveland",
+      "course": "CMSC433",
+      "review": "Poor structure. Projects seemed random and felt like they had little planning. Late policy was an instant 0 which is unheard of for a project based course.",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2023-12-12T05:15:39.690363Z"
+    },
+    {
+      "professor": "Rance Cleaveland",
+      "course": "CMSC433",
+      "review": "Genuinely one of the worst structured classes I have ever taken. It felt like they threw the course together without any forethought. The course grades consisted entirely of projects and one midterm which occurred during the first quarter of classes. For a course whose material was centered around projects, the projects themselves felt random, and disorganized, and had a zero-tolerance policy for late submissions. Anything submitted after 11:59 on the due date would result in an instant 0% on the assignment. This has been one of the most stressful experiences of my college career.",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2023-12-12T05:26:30.383792Z"
+    },
+    {
+      "professor": "Rance Cleaveland",
+      "course": "CMSC433",
+      "review": "Class itself is straightforward, but exams had tricky questions (even though they were open note and open computer)",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2023-12-21T03:03:05.972771Z"
+    },
+    {
+      "professor": "Rance Cleaveland",
+      "course": "CMSC433",
+      "review": "A solid professor who knows his stuff! His lectures are really easy to understand and the content itself wasn't too bad, and his slides are pretty good on their own. Most of the grade was based on projects which in itself were pretty straightforward. There were two exams (midterm & final exam) and each was open notes/electronics which made it less about memorization and more about conceptual understanding. I was not a fan of the fact that there were no practice exams, however, this isn't really the professor's fault since this is his first semester teaching this version of the course. \r\n\r\nWould take him again.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-22T17:04:41.106476Z"
+    },
+    {
+      "professor": "Leonidas Lampropoulos",
+      "course": "CMSC433",
+      "review": "Amazing professor. Often grants extensions if he feels the class needs it, and ensures we understand the projects fully so that we are all successful. The midterm was really difficult, but projects are manageable so a good grade is definitely doable.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2024-05-02T02:29:34.559710Z"
+    },
+    {
+      "professor": "Leonidas Lampropoulos",
+      "course": "CMSC433",
+      "review": "An excellent professor. He is very helpful and informative during office hours and he answers questions very quickly on Discord. He is very understanding and will sometimes give students additional time to complete assignments and also does a great job of explaining important concepts in class.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-21T05:43:47.689198Z"
+    },
+    {
+      "professor": "Anwar Mamat",
+      "course": "CMSC433",
+      "review": "Not a bad teacher and the course isn't too bad either. It's 5 coding projects, one midterm, and one final project that was easy. There's also gradescope quizzes that aren't hard. Takes a while to grade though, and some of the descriptions for projects weren't that clear since they were written this semester. The midterm was also tough, most people didn't do well.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-12-16T01:26:46.924893Z"
+    },
+    {
+      "professor": "Leonidas Lampropoulos",
+      "course": "CMSC433",
+      "review": "overall, great professor! he definitely wants students to succeed; he records most lectures (except for review sessions) and provided extensions on 2 of the projects solely because many students were asking him. i personally found it a little difficult to follow his lectures since he's fairly monotonous, but he himself seems to be quite kind and understanding. the projects were all pretty straightforward except for the parser project, and his exams are tricky with the averages being fairly low (he did provide a pretty generous curve to account for this, though). my only nitpicks would be that he uses discord rather than a forum like piazza (i think discord is worse for organizational purposes, as it was a little hard to tell what had previously been asked/answered), didn't record his review session lectures, and didn't provide an answer key for the practice midterm or actual midterms themselves (granted, he was willing to answer questions via discord; but since he didn't provide answer keys for our midterms and his rubrics are incredibly vague, it was difficult to determine what was or wasn't regradeable). overall though, i enjoyed his class a lot!",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2025-06-02T01:28:50.565168Z"
+    },
+    {
+      "professor": "Anwar Mamat",
+      "course": "CMSC433",
+      "review": "Do NOT take Anwar for 433. The projects are not well timed, he is a boring lecturer who just refers to his online notes verbatim to teach, and has assigned projects over break and makes them due the same day as an exam. The one thing that I can say about the class is that it is well structured and that he does provide notes, but other professors who have taught 433 before have done a better job at making notes than he has. Very disappointing to experience this considering the nice reviews I have seen and heard from other classmates.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2025-10-16T04:44:50.294545Z"
+    },
+    {
+      "professor": "Anwar Mamat",
+      "course": "CMSC433",
+      "review": "Do NOT take 433, especially with him. It is about program validation, not concurrent programming, and it's a pretty useless class in my opinion. He is a really nice professor, but they added a final exam because he realized everyone is using AI for the projects. His lectures are really boring, and he usually confuses himself and the class because he messes up syntax when copying code from his notes in class. His online notes were way more helpful than his lectures.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-12-12T19:22:59.232564Z"
+    },
+    {
+      "professor": "Anwar Mamat",
+      "course": "CMSC433",
+      "review": "Bro just don't take this class. Anwar's a nice person and is pretty accommodating & teaches concepts pretty well, but the material is just kind of ass and projects are confusing. Please don't take this class if you don't like proofs... I honestly have no idea why I even decided to take this one and it was one hell of a ride. There are 6 projects, a midterm, and a final. It's just too much. I thought the final was going to be simple enough but it really wasn't :( Projects build on top of each other so if you don't understand concepts you better fix that earlier in the semester.",
+      "rating": 3,
+      "expected_grade": "C",
+      "created": "2025-12-17T16:09:20.158785Z"
+    },
+    {
+      "professor": "Anwar Mamat",
+      "course": "CMSC433",
+      "review": "Not too bad for a 4xx level class. Had 6 projects, 6 quizzes, one midterm, and one final, plus a few attendance points. He recorded video lectures, but I learned more from reviewing the class notes and actually doing the projects, which were pretty though.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-12-21T01:37:43.021074Z"
+    },
+    {
+      "professor": "Anwar Mamat",
+      "course": "CMSC433",
+      "review": "This class might be the most useless class I have taken at UMD. The class isn't that bad, and the projects were fine. He added a final exam worth 25% (which wasn't too difficult). My only complaint is honestly with myself, as I feel like I wasted my time on this class. He gave 1% EC because 90% of the students completed the course eval, which was a nice thing. He took attendance at least once a week on average on GradeScope (worth 5% of your overall grade), so be aware. He does record lectures, so that's a plus. Just look at his website for 433 online and see if you could benefit from learning the material. In my opinion, it is the most useless class (but well, that just might be me, so...). Otherthan that, if you put the effort, it should be decently easy to get an A. Not like a free A class, but very fair to do well.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2026-01-12T03:08:53.248269Z"
+    },
+    {
+      "professor": "Anwar Mamat",
+      "course": "CMSC433",
+      "review": "I took this course thinking it was going to be about multithreading and concurrency, which it is not anymore. The course itself is very project heavy, which if you do them all makes it rather easyish to get a good grade. He also made the exams pretty easy, in that he hosted review sessions and really hinted at what was going to be on the exam. \r\n\r\nAs a professor I think his teaching style is better than people give him credit for, he is pretty funny and tries to make sure he's teaching efficiently as he can. He has a feedback form where you can send anonymous feedback, and was very open to feedback in OH. However, I think he knows the content in this course (Formal Verification) is not that interesting to most people taking the course, which makes it pretty difficult to teach. It also is very useless if for 99% of people taking the course.\r\n\r\nI thought the course content was interesting, and it made me think differently about programming, but yeah the content itself will likely not be useful if you just want to become a SWE. I would say if you like Math and Proofs, but also programming take the course.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2026-01-17T15:02:47.248189Z"
+    },
+    {
+      "professor": "Leonidas Lampropoulos",
+      "course": "CMSC433",
+      "review": "Ok at teaching. Kinda just rambles through notes during lecture with some examples. Unfortunately, this class is a bit misleading and is largely an extension of CMSC330 and functional programming. For what it\u2019s worth the 6 HW assignments are pretty simple but the 2 midterms are very difficult.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2026-04-10T04:05:32.511161Z"
+    },
+    {
+      "professor": "Leonidas Lampropoulos",
+      "course": "CMSC433",
+      "review": "This course is a bit misleading compared to its online description, as it suggests a focus on Java and related object-oriented programming topics, but in reality it is heavily centered on functional programming, especially Haskell, making it feel very similar to CMSC 330. The lectures mainly consist of long, in-class coding examples that can become quite complex and difficult to follow, which makes it harder to clearly understand the key ideas being taught. In addition, his explanations are not always the clearest, and concepts are sometimes introduced quickly or in a way that assumes more intuition than most students may have, which can make it challenging to keep up without additional outside effort.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2026-04-17T00:09:16.168487Z"
+    },
+    {
+      "professor": "Leonidas Lampropoulos",
+      "course": "CMSC433",
+      "review": "This course is a bit misleading compared to its online description, as it suggests a focus on Java and related object-oriented programming topics, but in reality it is heavily centered on functional programming, especially Haskell, making it feel very similar to CMSC 330. The lectures mainly consist of long, in-class coding examples that can become quite complex and difficult to follow, which makes it harder to clearly understand the key ideas being taught. In addition, his explanations are not always the clearest, and concepts are sometimes introduced quickly or in a way that assumes more intuition than most students may have, which can make it challenging to keep up without additional outside effort.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2026-04-18T19:08:09.528277Z"
+    }
+  ],
+  "department": "CMSC",
+  "course_number": "433",
+  "name": "CMSC433",
+  "title": "Programming Language Technologies and Paradigms",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> Minimum grade of C- in CMSC330; or must be in the (Computer Science (Doctoral), Computer Science (Master's)) program.\n<b>Restriction:</b> Permission of CMNS-Computer Science department.\nProgramming language technologies (e.g., object-oriented programming), their implementations and use in software design and implementation.",
+  "is_recent": true,
+  "geneds": null
+}

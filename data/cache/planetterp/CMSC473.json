@@ -1,0 +1,19 @@
+{
+  "average_gpa": 3.4916666666666667,
+  "professors": [
+    "Thomas Goldstein",
+    "Thomas Goldstein",
+    "Thomas Goldstein",
+    "Thomas Goldstein",
+    "Thomas Goldstein"
+  ],
+  "reviews": [],
+  "department": "CMSC",
+  "course_number": "473",
+  "name": "CMSC473",
+  "title": "Capstone in Machine Learning",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> Minimum grade of C- or higher in CMSC421 or CMSC422.\n<b>Recommended:</b> Background or exposure to machine learning topics is strongly encouraged.\n<b>Restriction:</b> Permission of instructor and Permission of CMSC - Computer Science department.\n<b>Credit only granted for:</b> CMSC498P or CMSC473.\n<b>Formerly:</b> CMSC498P.\n<b>Additional information:</b> Students will be paired with project advisors from the UMD faculty or alternatively, an industry advisor. Students are encouraged to plan for projects results that can be published at academic conferences or will impact academic research.\nSemester-long project course in which each student will identify and carry out a project related to machine learning, with the goal of publishing a research paper or software tool.",
+  "is_recent": true,
+  "geneds": null
+}

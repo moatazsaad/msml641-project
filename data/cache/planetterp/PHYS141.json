@@ -1,0 +1,31 @@
+{
+  "average_gpa": 2.64679802955665,
+  "professors": [
+    "Rabindra Mohapatra",
+    "Sharon Roosevelt",
+    "Sergio Picozzi",
+    "Shabnam Jabeen",
+    "Matt Severson",
+    "Matt Severson",
+    "Matt Severson",
+    "Matt Severson"
+  ],
+  "reviews": [
+    {
+      "professor": "Daniel Lathrop",
+      "course": "PHYS141",
+      "review": "Comical some of the time.\n\r\nTests were fair.\r\nEasy if you took AP physics.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2008-05-01T17:32:00Z"
+    }
+  ],
+  "department": "PHYS",
+  "course_number": "141",
+  "name": "PHYS141",
+  "title": "Principles of Physics",
+  "credits": 4,
+  "description": "<b>Corequisite:</b> MATH141 or MATH121; or MATH221.\n<b>Credit only granted for:</b> PHYS141, PHYS161, or PHYS171.\nThe first of a two-semester series in general physics. The first semester covers the fields of mechanics, thermodynamics, and special relativity. This survey course will use calculus and is recommended for chemistry and zoology majors. It also satisfies the requirements of medical and dental schools.\n<i>The in-person lab associated with this course meets shortly after the online lecture.  Students who do not live on or near campus may use 1412 PHY to attend the online lecture using their own laptops and headphones during the scheduled lecture time.  Students may only use this room to attend the lecture on the days they will attend lab.</i>",
+  "is_recent": true,
+  "geneds": null
+}

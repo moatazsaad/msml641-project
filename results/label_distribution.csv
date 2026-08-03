@@ -1,0 +1,9 @@
+label,positive_count,total_count,positive_rate
+project_heavy,421,5059,0.0832
+exam_heavy,1840,5059,0.3637
+homework_heavy,1529,5059,0.3022
+time_consuming,903,5059,0.1785
+self_learning_required,205,5059,0.0405
+harsh_grading,98,5059,0.0194
+disorganized_course,598,5059,0.1182
+fair_but_strict,126,5059,0.0249

@@ -1,0 +1,33 @@
+{
+  "average_gpa": null,
+  "professors": [
+    "Elizabeth Read-Connole",
+    "Kenneth Frauwirth"
+  ],
+  "reviews": [
+    {
+      "professor": "Kenneth Frauwirth",
+      "course": "BSCI331",
+      "review": "incredibly easy A, lovable and SUPER NICE professor, i promise that you can ignore everyone giving him less than 4 stars. highly recommend. it is my favorite class i have ever taken at this school. \r\na note: they separated bsci330 into two classes 331 and 332(lab), so your grade for 331 EXTREMELY HEAVILY DEPENDS on your exam grades, and there is little else, a few quizzes, a few tophat attendance checks, but lab grade is now separated. so basically, you need to do good on exams. but that is not even that hard in the slightest. i'm fairly certain you can easily get an A if you just take good notes then review them for a day or two before the exams.\r\nplenty of people report boring and monotone lectures. that might be partially due to the fact that the nature of biology classes especially like this one is that there will just be a TON of content that has to be gone over in every lecture, with little room for skipping subjects. (so if you zone out during lecture, or miss one, you really should make sure you go back and check what you missed.. luckily, he records all his lectures!!!) that is really inevitable in most bio classes. i didn't even think he is that boring. he has a slightly odd manner of speaking but he throws in plenty of humor and interesting analogies. \r\n10/10 prof and class",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2026-03-09T23:23:20.853469Z"
+    },
+    {
+      "professor": "Kenneth Frauwirth",
+      "course": "BSCI331",
+      "review": "second him being a d1 yapper. content is extremely surface-level and attending class is unhelpful; watching recordings on 2x while making flash cards has been a much better use of time imo. grading on exams is extremely nitpicky, and i'd agree with the comments below on the short-answer questions being hyper-specific and beyond the scope of lecture at times. also pretty annoying he's still using tophat (paid) to count for attendance. inside and outside of class he's been a nice guy in the few 1-1 interactions i've had (and this review of his course is not a judgement of that by any means), he's just not someone i'm thrilled to be taking this class with in any sense.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2026-03-15T16:47:58.979381Z"
+    }
+  ],
+  "department": "BSCI",
+  "course_number": "331",
+  "name": "BSCI331",
+  "title": "Cell Biology and Physiology",
+  "credits": 3,
+  "description": "Biochemical and physiological mechanisms underlying cellular function. Properties of cells which make life possible and mechanisms by which cells provide energy, reproduce, and regulate and integrate with each other and their environment.",
+  "is_recent": true,
+  "geneds": null
+}

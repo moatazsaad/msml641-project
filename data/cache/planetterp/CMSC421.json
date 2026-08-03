@@ -1,0 +1,770 @@
+{
+  "average_gpa": 3.170270270270271,
+  "professors": [
+    "Dana Nau",
+    "Donald Perlis",
+    "Lise Getoor",
+    "James Reggia",
+    "Edoardo Serra",
+    "Joshua Brule",
+    "Pratap Tokekar",
+    "William Regli",
+    "Marine Carpuat",
+    "Pratap Tokekar",
+    "Tianyi Zhou",
+    "Yao-chih Lee",
+    "Hal Daume",
+    "Tianyi Zhou",
+    "Yantian Zha",
+    "Max Ehrlich",
+    "Sujeong Kim",
+    "Tianyi Zhou",
+    "William Regli",
+    "Maksym Morawski",
+    "Pratap Tokekar",
+    "Tianyi Zhou",
+    "Mohammad Nayeem Teli",
+    "Sujeong Kim",
+    "William Regli",
+    "Sujeong Kim",
+    "William Regli"
+  ],
+  "reviews": [
+    {
+      "professor": "Hal Daume",
+      "course": "CMSC421",
+      "review": "Hal is a good professor. He gives very interesting projects for AI based on the Pacman game. These are actually kind of fun to do. \r\nThe HW is a little too easy I'd say, and doesn't necessarily clarify the concepts from class. But at least it doesn't take long.\r\nThe exams are pretty fair and not too hard.\r\nHal's lectures are a bit tough to follow and he isn't the best at explaining concepts, but he will go over good examples and try his best to explain if you are not understanding.\r\nOverall though, Hal is a really cool professor, and he cares about his students.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2012-05-15T00:53:00Z"
+    },
+    {
+      "professor": "Donald Perlis",
+      "course": "CMSC421",
+      "review": "Perlis has a straight forward lecture style (notes available on course website). Unfortunately, his pace is extremely slow. What could be completed in 30min will take him an hour. This is partly because he is careful to explain all details, which does help with understanding. \r\nThe homeworks are easy and very helpful for reviewing the material. We've only had one project so far (3/5 through the semester) and it took roughly 1 hour. Quizzes every week based solely on lecture material. Pretty easy if you pay attention in class.\r\nPLEASE NOTE: this is an INTRO class to AI. Most of the semester is spent building the fundamentals and not actually exploring AI techniques. It starts with blind searches, smart searches, propositional and first-order logic. These are not difficult topics, but they take up HALF the course.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2016-03-30T12:10:00Z"
+    },
+    {
+      "professor": "Dana Nau",
+      "course": "CMSC421",
+      "review": "I think Professor Nau is a nice person, but not the most effective/organized teacher. I took the class because I thought AI sounded cool, and it is but I don't think I was ready to put as much effort as I would have needed to get an A.\n\r\nBottom Line: He's not bad, but don't take this class if you're just looking for an easy A. Be prepared to put in a decent amount of work.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2010-05-24T09:31:00Z"
+    },
+    {
+      "professor": "Dana Nau",
+      "course": "CMSC421",
+      "review": "Do not take a class with this professor. His class was very unorganised/unstructured. For the first project he had put it on the forum for about 2 weeks before even making any mention of it. He gave us about 1 month for that project, which was a simple \"get familiar with the language\" sort of a project and for the other 2, which were significantly harder he gave 2 weeks.\r\nHis lectures were pretty boring, and he took forever to give back the homeworks.\r\nHe tried to be helpful, but his teaching style/class structure just works against him.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2010-05-13T15:14:00Z"
+    },
+    {
+      "professor": "Dana Nau",
+      "course": "CMSC421",
+      "review": "Pros:\r\n-Interesting and Challenging material\r\n\r\nCons:\r\n-Professor makes mistakes during in class derivations, at one point becoming so flustered he ended class early. \r\n-Just reads from slides during lecture, students can do this just as easily on their own time and skip class\r\n-Grading was not prompt at all, project 2 of 3 was finally graded just a few days before final\r\n-Homework solutions are not posted, and homework is only returned if you go to TA office hours\r\n-Project 3 was based on TensorFlow, which the professor admitted \"I don't know anything about and won't be able to help you. Just read and work through the tutorials\"\r\n\r\nSummary:\r\n-Not easy, you'll have to study a lot, but the material is pretty interesting\r\n-Going to lectures isn't a good use of time\r\n-Projects are all group based and project 3 was absurdly difficult with no guidance",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2017-12-19T22:04:32Z"
+    },
+    {
+      "professor": "Joshua Brule",
+      "course": "CMSC421",
+      "review": "At the time, Josh was a PhD student teaching this class during a Summer semester. He was pretty chill (as was this class) when it came to the material, grading and the exams. We had one midterm which was significantly easier than the homeworks (which already are not so bad) and a final exam which was a little harder but I never felt unprepared for any of it.\r\n\r\nI wouldn't say he is very effective when it comes to conveying the material. I still had gaps in my knowledge that only YouTube and other outside sources could fill. Overall, the class is easy. Josh makes it easy and from day one he told us \"This is probably the easiest 400 level you will take here\", and \"I do not like failing anyone so I try my best not to do so\". If you want to take a 400 level class during the summer, and Josh is teaching it again, consider this class. ",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2018-07-20T14:55:46Z"
+    },
+    {
+      "professor": "Joshua Brule",
+      "course": "CMSC421",
+      "review": "Bless papa Josh. I took Josh during the summer of 2018 and it was super chill. The project were very simple and straightforward. He is very communicative on piazza and in class as well. The homeworks were manageable (could complete them all in one day) He was also very communicative on piazza. (Questions had a very fast response time and he gives straight answers, none of that \"go read the text book on page ___.\" stuff. Overall, i would definitely recommend him.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2018-08-08T19:46:45Z"
+    },
+    {
+      "professor": "Joshua Brule",
+      "course": "CMSC421",
+      "review": "Josh was a great professor, he's a grad student and still has that drive to inspire others. He was receptive to feedback and is very enthusiastic. The home works were manageable and the exams were more than fair. He had 3 straightforward projects and his reply time on piazza was omniscient. Honestly a great guy and  an awesome professor. I am by no means an honor student, but even I managed to get an A. Meet with him in office hours if you need help he's really great at explaining the material. If you study the home work you'll  definitely succeed on the exams.  Definitely take him if you get the chance. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2018-08-08T19:47:32Z"
+    },
+    {
+      "professor": "Dana Nau",
+      "course": "CMSC421",
+      "review": "I was really concerned with this class reading the previous reviews. He's actually a pretty decent professor if you listen to him. I really kind of wish that they didn't go over as much First Order Logic in the course but other than that he really paid attention to student concerns, was lenient with deadlines and frequently added extensions. If you had a question in class he would stop everything and made sure you understood the material and would readily go over anything anyone asked to.\r\n\r\nThe project was pretty fun actually and I've heard a few people talk about how it was nice to have a project that actually demonstrated AI and was something they could show to their non-CS friends.\r\n\r\nI would recommend taking this class with Dr. Nau!",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2018-12-11T17:03:38Z"
+    },
+    {
+      "professor": "Dana Nau",
+      "course": "CMSC421",
+      "review": "One of the nicest professors I've ever taken. Taught the material clearly and commonly gives extensions on assignments if enough students ask for it. Reads from slides with heavy information, but goes back through them and students are visibly confused or ask questions.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2018-12-11T23:23:42Z"
+    },
+    {
+      "professor": "Donald Perlis",
+      "course": "CMSC421",
+      "review": "I took this class in spring 2019 and learned a lot about AI. Perlis' lecture style was a bit hard to follow at first (slowly going through examples handwritten on the projector) but I always understood concepts by the end of class (more than I can say for other professors). Simple quizzes on Mondays to refresh on the material, two midterms were pretty standard (mix of short answer and multiple choice). We had 5 HW and 3 projects, all of which took me about average time to finish. I heard from classmates that they had trouble getting extra help in office hours, but I never had a problem. I liked how responsive Perlis was about posting notes/answers and responding on Piazza; I would recommend this class as a good mid-difficulty CS upper-level.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2019-05-25T01:05:35Z"
+    },
+    {
+      "professor": "Dana Nau",
+      "course": "CMSC421",
+      "review": "This class was terrible. Very unorganized, waited forever for grades and overall sad. I already took 422 and this class was more dry and uninteresting. Thought it would be cool since ya know, AI but it was very difficult to bring myself to class and care about doing the world. ",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2019-12-05T19:35:03Z"
+    },
+    {
+      "professor": "Dana Nau",
+      "course": "CMSC421",
+      "review": "Uninteresting and poorly communicated projects. Lecture covers the material well but is uninteresting.  Exams are very easy and it is not hard to get a good grade in the course. Homeworks are easy as well.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2019-12-12T02:08:39Z"
+    },
+    {
+      "professor": "Dana Nau",
+      "course": "CMSC421",
+      "review": "Nice person, not so great class. This has been the most frustrating class I have taken in my undergrad here. The projects were poorly implemented and communicated, and the TA's did not really help much. It would often be the case that there would be dozens of piazza questions left unanswered on the day before an exam or a project. In addition, expectations on projects and how they would be graded was not communicated well at all. With no semblance of tests to evaluate your performance, you just had to write something and hope whatever arbitrary grading scheme worked in your favor, if not then oh well. For this reason many people ended up with very low scores in the class, despite putting in a lot of effort. \r\nI would be very careful in taking this class. If you are expecting a class with clear expectations on projects and transparency with grading, this is not it. Instead you will feel a lot of stress over unclear grading, lack of communication and poorly defined student expectations. ",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2019-12-17T09:21:19Z"
+    },
+    {
+      "professor": "James Reggia",
+      "course": "CMSC421",
+      "review": "Spring 21 - Online -\r\nDoesn't record his lectures, has really vague slides and the exams are fixed for a certain time which makes it really hard if you're not staying in the US.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2021-03-09T07:07:47Z"
+    },
+    {
+      "professor": "Marine Carpuat",
+      "course": "CMSC421",
+      "review": "She's okay, some things are a little confusing and the projects so far are acceptable. Sometimes her accents make things a little hard to understand. However, the slides are nice and clear, you just have to download them before hand and take notes while she teaches. ",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2021-09-21T22:17:26Z"
+    },
+    {
+      "professor": "Marine Carpuat",
+      "course": "CMSC421",
+      "review": "Insanely generous professor. We had a dropped homework and PROJECT. Incredible!\r\n\r\nHowever, the lectures are unengaging and I found it faster and more effective just to review lecture slides.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2021-12-09T18:59:58Z"
+    },
+    {
+      "professor": "James Reggia",
+      "course": "CMSC421",
+      "review": "Although he's a nice guy, he's sort of a grandpa if you know what I mean. Doesn't record his lectures, which was annoying. To be fair the class is still easy with only the slides that he posts and a friend or two that does go to lecture (for when a concept is unclear). I would just knock out in class so I completely stopped going after the midterm and still did alright. I personally wouldn't take him again, but only because there are definitely better professors at UMD.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2021-12-16T23:29:52Z"
+    },
+    {
+      "professor": "James Reggia",
+      "course": "CMSC421",
+      "review": "This class and this professor were alright. Kind of unremarkable. CMSC421 isn't as interesting as it sounds, and there's a solid month of the course where you're spending time on stuff that you wouldn't really associate with artificial intelligence. An annoying portion of this course was basically a repeat of information from CMSC250 and STAT400, and neither of those things were very interesting or really what I was thinking of when I took this course. The class does end strong, focusing on neural networks and machine learning and those kinds of interesting things.\r\n\r\nReggia is just a very bland professor, I guess. His slides are a little bare bones, and he doesn't record lectures. So I felt that going to class was more or less necessary. I couldn't learn anything just by reading his slides. If you go to class, you'll get a lot more out of what Reggia is actually saying. His lectures didn't blow me away or anything, but he's solid. The exams and homeworks were kind of tough, but they weren't graded very harshly, so that's fine. There's a group project. That's no fun, but whatever.\r\n\r\nAnyways, I would recommend this class if you're looking for a lower workload class. If you're in the unfortunate position of taking three 400 levels in one semester, as I was this semester, this class isn't a bad choice because the workload is fairly minimal and not particularly challenging. But overall I wouldn't call it a super interesting class, and I don't feel like I got all that much out of it.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2021-12-18T21:11:58Z"
+    },
+    {
+      "professor": "Marine Carpuat",
+      "course": "CMSC421",
+      "review": "The course was well planned. All projects were all public tests so you knew your grade when you turned it in. Lectures at times were unengaging. Recorded all lectures so you didn't have to attend.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2021-12-21T18:22:08Z"
+    },
+    {
+      "professor": "James Reggia",
+      "course": "CMSC421",
+      "review": "I took this class Spring 2021 (online semester). This class is definitely one of the lighter workload 400 levels, and Reggia has major grandpa vibes. It's not necessarily the most engaging course, but you do get to learn a few cool things. The exams were actually pretty difficult given the time contraint, but he has an extremely generous curve (I think a 60 on the midterm counted as an A). I wish he recorded the lectures, but overall Reggia was approachable and cared about the students.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2021-12-23T19:43:31Z"
+    },
+    {
+      "professor": "James Reggia",
+      "course": "CMSC421",
+      "review": "CMSC421 with Reggia is an extremely disappointing class. The first month you spend learning search algorithms (yes, exactly the same ones you already did in CMSC132). Then you spend 1 month on propositional logic (yes, exactly the same stuff you already did in CMSC250). Next, you cover the same bayes rule you already did in STAT400, and the following month and a half is just a watered down version of CMSC422 (and yes, you learn the exact same ML models, absolutely nothing new). You spend the remaining 15% of the course learning niche, obsolete (in both industry and research) topics like programming in LISP and Prolog. Topics that would be an actual extension of anything you've previously learned, like say Reinforcement Learning, are barely touched upon beyond a single lecture.\r\n\r\nBeyond the class being wholly underwhelming, Dr. Reggia is actually an incredibly reasonable professor. We did not have a single lick of programming assigned in the class, had 3 homework assignments and 3 take home quizzes (graded on effort not correctness) which you could easily find answers to on the slides and the midterm and final were both identical to the homeworks, if not easier. The only thing to keep in mind is that there is a semester-long group project worth 30% of your grade that you must complete in groups of 6 that involves writing an academic paper on a topic in AI (not an essay, you actually have to do something new in the field). So if you're a senior looking for an easy, low-effort class take 421 with Reggia, but if you actually want to learn something I suggest you look elsewhere.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2021-12-24T17:53:05Z"
+    },
+    {
+      "professor": "James Reggia",
+      "course": "CMSC421",
+      "review": "Dr. Reggia is an easygoing professor and cares about his class a lot. It's basically a survey class for a wide range of ML and AI techniques. I recommend this class if you don't know anything about AI/ML. Many of the topics are taught at the surface level, but to teach anything above that would require significantly higher math prereqs which would get in the way of the spirit of the course. If you already have extensive experience in ML this class is probably not for you.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2021-12-30T23:07:06Z"
+    },
+    {
+      "professor": "William Regli",
+      "course": "CMSC421",
+      "review": "Regli started out seeming like an accomplished and interesting professor, but as the semester went on that facade faded. He is one of the most disrespectful professors I have ever had. The first programming assignment he gave us had 3 conflicting sets of instructions, took the longest of any cs project I've ever taken (for some people ~40+ hours), and was detrimentally open ended, which is something I normally appreciate. His exam questions are extremely vague and have no clear answer. You can know your stuff and still fail the exam because you have no idea what the questions are asking. Overall this has been the least organized and most condescending class I have ever taken. Regli sees himself as above the students and above the class. He has not dealt with the material in 30 year and when pressed on an answer will just try to make you look stupid. Take this class if you have to, it won't be the end of the world, but you will probably hate him and the class.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2022-04-06T18:35:40Z"
+    },
+    {
+      "professor": "William Regli",
+      "course": "CMSC421",
+      "review": "Professor Regli is a very considerate professor as he has been both lenient with grades and deadlines. His projects can be a little challenging (and the first one was a little too open ended - but by fault of one of the TAs), but they are fair and teach you a lot more about the concepts in AI than just the slides alone. For his exams, while they are a little more on the challenging side, they have generous curves (as an 82% on one exam translated to an A). As far as workload goes, it should be pretty manageable since there are 3 programming assignments and then 3 (much smaller) homework assignments throughout the whole semester. He recommends that you read the textbook and do practice problems, but this is mostly supplementary imo (and probably not worth the extra effort). I disagree with the comment about him being disrespectful as he has always been eager to help and connect with me whenever I've reached out to him during/after class. My only complaints about Regli are that it can be a little hard to follow along with him during the lectures because he goes over a lot of content in small amount of time, without pausing to do practice problems or repeating the content, which makes it hard to retain the information. Overall, I'd recommend Regli as he does care about the content and you having practical takeaways from CMSC421.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2022-05-16T17:07:00Z"
+    },
+    {
+      "professor": "Pratap Tokekar",
+      "course": "CMSC421",
+      "review": "Professor Tokekar is a well-intentioned professor with a strong background in AI and the material within the course is interesting. He also does a good job at creating assignments and projects that are relevant to the concepts we were studying. He also answers questions well within lecture and breaks down the topics for exams and best ways to approach projects/assignments. The TAs also do a good job at answering questions during online & in-person office hours. However, there are a few things that I think Prof Tokekar could improve upon when it comes to this course: \r\n1) Posting the lecture slides in a more timely manner because sometimes, it takes more than 1 day for the most recent lecture slides to be posted and students that missed lecture may have to wait to catch up\r\n2) Responding to Piazza posts more quickly as it takes a while for students to get answer to those questions\r\n3) Posting more practice problems & exams as although the assignments do a good job at covering the concepts and the lecture slides have good examples, more problems would help us master these concepts easier. Also, we only got 1 sample midterm and having at least 1 more would have helped. \r\n4) Faster grading & regrading because it took almost 4 weeks for midterm results to be released onto ELMS and a few weeks for projects to be graded and is taking a while for grades to be transferred from Gradescope to ELMS\r\n\r\nOther than that, I would say the course was managed well by Professor Tokekar.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2022-11-10T19:52:47.847376Z"
+    },
+    {
+      "professor": "Pratap Tokekar",
+      "course": "CMSC421",
+      "review": "I think the professor taught as best as he could, but the class structure just wasn't good at all. The TAs never responded on Piazza so he was basically the only one who ever answered questions, grades took forever to get back, lectures weren't recorded for unexplained reasons, and the slides were taken from UC Berkeley and never updated.\r\n\r\nPratap has potential to be a great professor, but if he's gonna teach this class in the future he should just make his own slides, and he should push the TAs to at least answer student questions.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2022-12-10T18:09:53.983243Z"
+    },
+    {
+      "professor": "Tianyi Zhou",
+      "course": "CMSC421",
+      "review": "Fine teacher, just this was the first class that I stopped attending the lecture about halfway through. This was not his fault as the course material was extremely simple and not all that exciting plus the whole course by its nature is almost completely off of a free Berkley course. All projects and most of the lectures seemed to be just directly from Berkley. Another reason I stopped attending was that students' questions would hold up the class to an extreme degree, and he would continue to discuss with them, but often there seemed to be some sort of difficulty in communicating ideas as we would be stuck on a topic from the previous lecture for the first half of the current lecture. I like that he really wanted to answer these questions, but I would imagine after 10+ minutes on the same topic with one or two students, you could just say \"maybe talk to me after class or during office hours.\"",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2022-12-16T16:35:15.569841Z"
+    },
+    {
+      "professor": "Tianyi Zhou",
+      "course": "CMSC421",
+      "review": "The entire course was taken from Berkley. The professor simply read from the slides and when questions were asked, he simply would give a response that does not answer the question. The midterm grade was given back a month and a half after taken the exam but was not given the physical exam back. Some grading on the exam did not seem fair and when brought to the attention of the professor, his response was that all the TA's agreed the grading was unfair but they didn't have \"the bandwidth\" to go and regrade them. In addition, many questions on piazza would go unanswered. This probably was one of the worst professors I have ever had in CS.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2022-12-19T16:04:56.558013Z"
+    },
+    {
+      "professor": "Pratap Tokekar",
+      "course": "CMSC421",
+      "review": "I made a review back in November regarding Prof Tokekar and I would say that his management of the 421 course improved between then and the end of the semester. \r\n\r\nPros:\r\n1) Posts lecture slides and links to additional online resources and textbook chapters to review\r\n2) Mix of online and in-person OH and TAs did a good job at answering questions during OH\r\n3) Interesting assignments and projects\r\n4) Answers questions during lecture, OH, and is very flexible\r\n5) Posts practice exams and problems to prepare for final and midterm\r\n6) Allows regrade requests\r\n7) Quickly graded final exams\r\n\r\nCons:\r\n1) Took a while for midterms to be graded and transferred to ELMS\r\n2) TAs took a little while to respond to Piazza posts",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2022-12-22T19:12:18.037765Z"
+    },
+    {
+      "professor": "Tianyi Zhou",
+      "course": "CMSC421",
+      "review": "First off, Tianyi is definitely a nice guy. He tries his best to help students (making accommodations for taking exams in certain situations) and it's clear that he makes an effort to make the concepts come across to us while teaching. That being said, I think there's a lot that he can improve on. He is, no doubt, a very smart person, but there were a lot of times when he wasn't able to really teach certain topics effectively. Sometimes, it just felt like he was kinda reading off the slides not being truly engaged in the material. Secondly, the logistics of this class weren't the best. It took a month to get midterm grades back and all students were just left wondering what was going on. I would also mention that HWs and Piazza question took quite sometime to get responses to, but that's up to the TAs\r\n\r\nWhat swayed me to give a 3/5 is that at the end of the semester, he definitely listened to the concern of the students and implemented a couple of changes for the final exam to help us (allowing the use of a cheat sheet, a shorter exam overall because midterm was too long, etc). He also released practice/old exams for both the midterm and final exams ALONG WITH SOLUTIONS which is something CS profs don't always do and I really appreciated.\r\n\r\nOverall, I think you can succeed in this class if you just go to OH early and attend lecture.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2022-12-23T20:15:51.837287Z"
+    },
+    {
+      "professor": "Tianyi Zhou",
+      "course": "CMSC421",
+      "review": "Fair professor. Lectures are kinda dry so I stopped attending lectures after first week of school since I figured out his lectures is much better in 1.5x so I basically watched his recording to learn. Slides were actually helpful and his explanations are also helping understand the course content. Project are from Berkely and majority of the contents are from Berkely. Good thing with that is you can find many resources (and he did gave some resources) so you can learn after class. Bad thing is that it is kinda boring.\r\n\r\nExams are fair and similar to our HW. I did learn many stuffs from the course. Also the grading is fair to me. I find out the TA is tending to give more lenient grades due to the nature of some problems of the HW. \r\nHonestly he is pretty solid 3 star professor to me. Just give him 4 star because I think he desevers a little better than 2.33 stars.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2022-12-24T02:49:33.848368Z"
+    },
+    {
+      "professor": "Tianyi Zhou",
+      "course": "CMSC421",
+      "review": "I agreed with other comments saying that his lectures is basically reading from the slides and it took quite sometime for the questions from the piazza to be graded, and the last two HW are only graded like one week before the final. Midterm took one month to be graded.\r\nAnyway, I stopped attending to the lectures after one week because I figured out his lectures is much better in 1.5X speed. I do learn a lot of stuffs from the class and sometimes his explanation to the slides contents do help the understanding. Midterm and final are really similar to our HW problems which are fair to me. The grading to the HW, even though with some ambiguity, but I personally find out the TA is tending to be generous on the grading due to the nature of our HW (sometimes a lot of calculations, or give explanations, etc.) so even if you might have same answers as other but different from the correct answer, you might have different scores because different TA were grading. Answer keys were provided so you can always check back and forth. TA are also helpful during office if you need help. Also, there are practice exams from previous year for both MIDTERM and FINAL along with solutions so you can have sense of format.\r\nAlso one other thing I like is Project worth 40% of our grade and the grade is based on public test so as long as you put a lot of time you are guaranteed to get the 40%. Even though the projects are public berkeley projects but I personally don't mind that since I believe good projects and they do line up with what we have learned in class so helps my understanding. There are also many resources for you to explore the materials which I find nice.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2022-12-28T20:01:30.268938Z"
+    },
+    {
+      "professor": "Tianyi Zhou",
+      "course": "CMSC421",
+      "review": "He is a nice professor and tries to help us understand the material, though I agree that he doesn't explain the material well. The whole course was from Berkley so you could find a lot of helpful recourses on Berkley's website. 40% of the grades are from projects which are easy to get 100%. HWs are reasonable, if you go to OHs you can get good grades easily. Also, he had extra credit problems in the final exam. I think he also curved our final grades, so getting a very good grade in his class is super easy.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2023-01-04T02:26:51.509646Z"
+    },
+    {
+      "professor": "Tianyi Zhou",
+      "course": "CMSC421",
+      "review": "He is a nice guy and tries his best. The whole course was 70% of Berkeley's course. He was generous with grading and you could get an A if you learned a little bit. I almost always attended lecture and he got a bit better towards the end. He was pretty nice, he would always answer questions even if they were dumb. He's just learning how to teach so it's OK.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-03-02T01:45:46.102072Z"
+    },
+    {
+      "professor": "Hal Daume",
+      "course": "CMSC421",
+      "review": "Hal is a very engaging lecturer. He moves around a lot, does a decent number of examples, and always pauses to let students try problems before giving the answer. The whole course follows http://ai.berkeley.edu/. The project descriptions are a bit vague but not very difficult. Sometimes the curriculum feels a bit dated, and Hal does a decent job adding in footnotes about how you should approach something in practice.\r\n\r\nUnfortunately, Hal is way too busy to be teaching this class. He almost never checks Piazza, so the only time to ask questions is in the 5 minutes before or after class (or in his OH, but I had another class at that time). The TAs are not super helpful because they do not seem to prepare the material or follow along with the course. \r\n\r\nThe homeworks often have under-specified or mistaken questions. Luckily, this usually results in almost everyone getting points back. \r\n\r\nThe exams aren't too hard, especially if you do the practice ones. Unfortunately, they are very computational rather than conceptual.\r\n\r\nBasically, the course was pretty interesting, but logistically, it is a bit of a mess. \r\n\r\nI will say we had Tianyi Zhou as a sub one day when Hal was out. I can't speak to his logistics, but Hal is much more engaging and clear, and he goes at a more reasonable pace. Professor Zhou didn't really pause for questions.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2023-04-30T18:39:15.335060Z"
+    },
+    {
+      "professor": "Hal Daume",
+      "course": "CMSC421",
+      "review": "The class is straightforward, and Hal explains things decently enough. He brings up nice analogies and tends to focus on things that matter more. The midterm exam was exactly like the study guide. However, the HWs were vague and often had grading mistakes. The piazza also wasn't very active. In my opinion, this is a somewhat easy 400-level class, and Hal simply keeps it that way.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2023-05-12T19:35:59.413286Z"
+    },
+    {
+      "professor": "Tianyi Zhou",
+      "course": "CMSC421",
+      "review": "I do not know how this mans average rating is a 3.43. Maybe cuz he seems nice? This class is terrible and he is the worst professor I have ever had at UMD. The class has no structure, the assignments are off things he has never taught us, and 20% of our grade is for attendance. I would never reccomend this class or Mr. Zhou to anyone. He is the worst professor I have ever witnessed in my academic career. He should be fired.",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2023-09-27T04:22:32.995836Z"
+    },
+    {
+      "professor": "Tianyi Zhou",
+      "course": "CMSC421",
+      "review": "yoterp69 clearly not had a chemistry course at UMD.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2023-10-02T19:50:43.330672Z"
+    },
+    {
+      "professor": "Tianyi Zhou",
+      "course": "CMSC421",
+      "review": "Professor Zhou is truly dedicated to the success of his students. I do know that this semester he has changed the layout of the course and its not like the Berkley course anymore. However, I think his reasoning behind is to equip his students with the most up-to-date knowledge in the rapidly evolving field of AI. Professor Zhou aims to ensure that his students not only grasp AI concepts but also witness their practical implementation. Granted, it would have been beneficial if he had started with the basics and gradually introduced programming aspects. Nevertheless, Professor Zhou is putting in a tremendous effort to simplify the material for his students. He has generously extended deadlines for assignments and even reduced the weightage of programming tasks. It would be unjust to undermine his abilities as a teacher.  I think he is just learning how to teach and wants his students to successfully understand the class concepts. In my opinion he is a really good teacher and an amazing person. All it takes is a bit of patience and open communication to make the most of his guidance.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-10-03T00:10:23.193879Z"
+    },
+    {
+      "professor": "Tianyi Zhou",
+      "course": "CMSC421",
+      "review": "Simply put, this class has been nothing short of an absolute trainwreck. The class is completely disorganized from the way that the assignments are written to the way that TAs provide contradictory information which makes assignments take longer simply due to the fact that we do not know what the instructors are asking us to do. Attendance is required, which is questionable but tolerable because we only had to sign a piece of paper at first. Recently, the professor adopted an in-class quiz policy where we are required to take a quiz which is graded on accuracy as a way to show our attendance. This is acceptable but we are often given minimal instructions on how to solve the quiz problem and the class is usually confused on how to proceed with the provided information on the quiz. To top it all off, we are assigned a research project that we are already a few weeks behind schedule on because the staff was spending time putting out all of the fires that the first weeks have caused.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2023-10-21T03:16:39.668266Z"
+    },
+    {
+      "professor": "Tianyi Zhou",
+      "course": "CMSC421",
+      "review": "He changed the entire course curriculum from the previous semester. TAs were no help with the assignments on Piazza and gave contradictory advice. The first project wasn't released until the day after course lock in, so we were stuck in the class. He also made the first and only exam AFTER the withdrawal period. He never responded to any of my emails, and was extremely unhelpful with addressing ADS accommodations. He also required attendance which I believe is against the CS department policy, so he changed it to an attendance sheet + daily lecture quiz after finding out it was against policy. Overall horrible experience. Learned nothing going into lecture each day and now I'm scrambling to figure out how to graduate on time.",
+      "rating": 1,
+      "expected_grade": "W",
+      "created": "2023-11-09T23:36:39.091752Z"
+    },
+    {
+      "professor": "Tianyi Zhou",
+      "course": "CMSC421",
+      "review": "Avoid. Even if you have a passion for the topic. The explanations given in class for topics is too brief and lacks clarity, anything I've taken away from this course has been reinforced through outside learning. Even though this is an Introductory course, there is a large amount of information they assume you already know. I'd say class time would be a 2/5, but the assignments and course structure deserve a 0/5. It has been nothing short of a nightmare, the course is structured so your group project grade or your individual assignments average is 60% of your overall grade. Which sounds nice, but if you're like me and your group decides to just focus on their individual assignments and stops doing the project mid-way through the semester, there is ZERO incentive to stop them from just leaving you high and dry. It encourages an environment where you have pre-existing friends that you trust to not just desert you. Also, I could spend forever explaining the failures of the assignments, but to keep this shorter, essentially the assignments are all new and not tested at all. For example, our first assignment has been extended 7 WEEKS because it was so difficult to comprehend and complete. Just do not take this course, self-teach if you really wish to learn, it's not worth the loss of sanity, time, and GPA.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2023-11-13T00:54:39.469654Z"
+    },
+    {
+      "professor": "Tianyi Zhou",
+      "course": "CMSC421",
+      "review": "After a semester of this class, I can definitively say this is one of the most miserable courses I have taken. While it used to be the Berkley course, they have tried to 'update' it with new projects and a different order of the concepts we learn. Some of my main complaints with this class were: \r\n- Releasing the first assignment after the drop date for the class, this first assignment was new and was so bug-ridden it was extended for over a month. It seemed to have been designed primarily by 1 TA and when attending office hours or trying to get help the other ones would tell you to do something and the TA that made the project would be like why are you doing that\r\n- Deciding midway through the course to make attendance graded and surprise pop quizzes to force people to come to the lectures\r\n- Using piazza but the TAs and prof cherry-picking which questions to answer and leaving some unanswered for the entirety of the semester, regardless of whether multiple students ask the same question\r\n- Lack of coding examples in slides and lectures, throughout this class the only exposure to any code at all that we had was in the projects, and those were extremely vague and lacking documentation until the whole class was in anarchy and the profs and tas were forced to rewrite and clarify the project\r\n\r\nOverall I have thoroughly been frustrated and exhausted by this course in various ways. While I can tell that Prof. Zhou is extremely intelligent and passionate about the field of AI and his research, I would urge everyone to avoid this class with him as it has been nothing short of a complete and utter trainwreck. They did make some adjustments throughout the course to try and help out the students like re-releasing the projects with more documentation and a lot of extensions but it seemed to be too little too late as the class had already spiraled to the point of no return. do not take CMSC421 with prof zhou.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2023-12-06T21:08:30.161200Z"
+    },
+    {
+      "professor": "Tianyi Zhou",
+      "course": "CMSC421",
+      "review": "This was an absolutely awful course. You can probably find a synopsis of what happened online on Reddit or Piazza, but in summary, Tianyi Zhou managed to run the most disorganized class I have ever seen or heard of in the CS department. His lectures were terrible; they over-complicated every topic beyond the point of understanding. Even as somebody who scored comfortably in the upper quartile in the only exam we had in the class (and also on every assignment), the little content I did learn was entirely on my own and from resources he did not provide, and studying for the exam was an unpleasant experience that felt like searching for a needle in the haystack in terms of what I had to learn.\r\n\r\nAdditionally, his projects/homework assignments were extremely vague and looked like they were put together in about 15 minutes. The first coding project he released had so many bugs and the code base was so unworkable that it was extended by 6-7 WEEKS. When we eventually did have to submit it, the average grade was around 75% because the write-up questions (which had extremely unclear instructions at best) were graded extremely harshly by the TAs. The other assignments, while not as bad, were also graded quite harshly even though the questions were unclear.\r\n\r\nThe one slightly redeeming part of this course was the group project, but him and the teaching assistants (my group's TA was Hongyu Zhao) managed to completely butcher that as well. I will spare you the details of our project, but in summary after working on it for the entire semester and submitting weekly reports outlining our progress and methodology (which Hongyu admitted to not have read at all in office hours during the last week of classes), several of our group members talked to Tianyi after class about our project (keep in mind this was after the final lecture), and he told us that a core component of our project was being done completely incorrectly the entire time. This project was quite advanced and was adapted from actual AI/ML research in the field, so there was no way for us to know that we were doing this wrong, especially considering this was our first exposure to almost all of the topics involved in the projects. I don't understand how we only got notified of the issue around finals week when we have been writing our methodology consistently and in-detail throughout the semester. Hongyu Zhou also completely ignored our messages to him in the CMSC421 discord server asking for advice on this group project, even though he was assigned to us specifically to help us with the project. This was completely unacceptable behavior. \r\n\r\nDon't get me wrong, Tianyi Zhou is a nice guy, very knowledgeable, and can provide good advice if you talk to him one-on-one. He would be a great research mentor. But to run a class where people actually learn, these are the minimum qualities you need to have, you also need to be able to prevent the things above from happening. He seemed to be completely oblivious to the chaos unfolding throughout the entire semester, I suspect he doesn't even realize at all the experience his students had in his class. He consistently acted like nothing was wrong.\r\n\r\nTianyi Zhou cannot be allowed to teach undergraduates anymore. I don't doubt he is very smart and valuable to the research department, but he is incapable of transferring that knowledge to his students. Just have any other professor teach this class and it will probably be ok. I have also heard the other section (taught by Yantian Zha) was not any better.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2023-12-10T16:33:20.381846Z"
+    },
+    {
+      "professor": "Yantian Zha",
+      "course": "CMSC421",
+      "review": "Easily the worst class I've taken. Course is practically copied from Intro to AI classes at other universities (including provided material).\r\n\r\nAssignment 1 had incorrectly assigned code, and got postponed to over a month later, with all assignments/HW being graded only at the end of semester. The midterm was graded almost a month after being assigned, while the other section received their grades 3 weeks earlier. Moreover, no curve. We couldn't even see our own midterm without going to office hours, where we had to go to a different office hour to view each separate question of our submission (we couldn't see the whole exam at one time). The midterm average was a 66, with no curve. Multiple assignments were canceled due to the clumsy, unorganized nature of the class.\r\n\r\nThat said, the grading policy was quite lenient for assignments and HW, and it was nice to be able to know which assignments can be dropped and otherwise.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2023-12-11T16:10:57.363629Z"
+    },
+    {
+      "professor": "Tianyi Zhou",
+      "course": "CMSC421",
+      "review": "I feel that as long as the project of this course get a bit more polished, this will be a very good course.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-13T05:24:06.144967Z"
+    },
+    {
+      "professor": "Tianyi Zhou",
+      "course": "CMSC421",
+      "review": "Look...421 wasn't awful. The first few weeks were a crap shoot, and the first project was very confusing. But it wasn't for lack of caring...it was cause he wanted to make the course more suited to help students in interviews. He then proceeded to give a lot more time for the project and grade far more leniently.  And here's the kicker, I started early (like he said) and I finished by the first deadline. It wasn't easy at all, I wasn't going to get a great grade, but I'm routinely a B/B- student in CS anyway. I went to office hours and I worked a lot of hours. I don't think that project was \"fair\" but kids treated it like the man was trying to nuke their grades. Not so. Also, as he showed us in class, he really didn't diverge that far from the Berkeley course that these kids are angry about (but never took). Was this class good, eh, do I recommend, eh, will I get a decent grade...yes. As a kid who has been worried about his grade every semester I wasn't worried about this class...cause I believe (and as he showed) he didn't want to fail the class. He essentially curved every assignment, and basically asked that you show up to class. So no this wasn't the hell that people said. Now. Do you actually learn anything usefull...ish. The course description (including the berkely one) tells you that you can't get a job in AI with just this info. It's a starting point. And as it goes, lecture alone will not bring you there, and yeah it can be hard to follow, but I definitely feel more confident in having a conversation on the topic. And that's what the course is billed as...a starting point. Are there better lecturers, yes, was this class that time draining, not really, that first project was super stressful but otherwise I was done for the next 10 weeks. Do your work, put your head down, and if your smarter then me you'll probably get an A. Also, he seems like a nice guy. So to conclude, is he the worlds best lecturer...no, is he the worlds most organized....no, will you get a bad grade...I don't think so, is he a good guy...yes, will you accomplish the course description...I think we actually did. Should you take this class....over some classes for sure, but you decide.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2023-12-21T16:21:11.592325Z"
+    },
+    {
+      "professor": "Tianyi Zhou",
+      "course": "CMSC421",
+      "review": "This class was the biggest waste of time I have ever had at UMD. Not only was it extraordinarily difficult due to poor lectures and low quality assignments created by TA's, but the teaching methodology used in this class was just completely inappropriate and set everyone up for failure.\r\n\r\nThe class began by teaching how to create neural networks from scratch. The difficulty of understanding neural networks did not just come from the fact that neural networks can be a difficult subject, but that there was little to no introduction to the topic. In fact, the first assigned reading from the textbook required knowledge from previous chapters in the book. Simultaneously, an assignment was given out with a very low quality code base written by a TA. It was one thing to listen to lectures about neural networks and read about it in a book, but there was no guidance on how to implement them from scratch. When we asked for resources, Professor Zhou gave us Pytorch references which helped in no way to complete the assignment where we had to build neural networks FROM SCRATCH. No Tensor Flow, no Pytorch for the majority of the assignment, just use Numpy. The assignment was so bad that it was given about an 8 week extension because no one had any idea how to do it and the TA's were not helpful. If I actually wanted to learn how neural networks are created, I could have just read a book on it in my own time instead of stressing over an assignment and I would have learned more.\r\n\r\nFurthermore, the weights for the assignments in this class were pretty terrifying if you didn't have a grasp on some of the material. 60% of the grade was assignments (From 4 Assignments). We fell so far behind because of the mess from assignment 1 and the disorganization of the class instructors that assignment 4 was never released and the weights for assignments 1 2 and 3 became 12% 24% 24% respectively. So if you messed up on one of the assignments and didn't do well on the midterm, you were in some hot water for the class.\r\n\r\nThe only good thing I can say about this class is that we got a free 20% grade for attendance. However, this got taken away and replaced with in class quizzes because people complained it was a against department policy which sucked. Like come on, why do you all have to complain about the small good thing that this class provided. Would you have rather taken an exam for a class that where we barely learned anything?\r\n\r\nIt would be smarter to take the Machine Learning class instead of this. They did group projects for the neural network and it's a lot more organized than the mess we all had to deal with. Otherwise, avoid this class. Professor Zhou is nice but this was unfortunately a really low quality class that had so much potential.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2023-12-22T20:56:52.576646Z"
+    },
+    {
+      "professor": "Tianyi Zhou",
+      "course": "CMSC421",
+      "review": "Do not take this class with him. This was one of, if not the worst classes I have ever taken here. First, it\u2019s an intro class and it\u2019s not handled like one an at all. He expects us to know a lot of things that we don\u2019t, and never lays a good foundation for important topics before going into more complex concepts. This made it extremely difficult to grasp and apply things on assignments if you didn\u2019t already have a background in AI. Second, the class structure is poor imo. The curriculum was changed ahead of the class starting and many of us were not aware of this ahead of time. Additionally your grade was mainly weighted towards your assignment grades or group project grades, both of which we lacked a lot of guidance for. The expectations were so ambiguous that it was an avalanche of regrade requests whenever grades were posted. There also seemed to be an extreme lack of communication from the professor and TAs, especially towards the end of the course. Overall I do not recommend this class with this professor at all.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2023-12-23T08:43:37.639724Z"
+    },
+    {
+      "professor": "Tianyi Zhou",
+      "course": "CMSC421",
+      "review": "DO NOT TAKE\r\nThe course is very disorganized, there\u2019s a lack of communication from the professors and TAs, the instructions for the assignments are very poor and ambiguous, the deadlines for the assignments are constantly shifting and the grading is inconsistent across the board. This class is way more stressful than it needs to be and needs to be overhauled.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2024-01-05T15:27:18.601822Z"
+    },
+    {
+      "professor": "Sujeong Kim",
+      "course": "CMSC421",
+      "review": "I'll preface my review by stating that I had Dr. Sujeong Kim, but she co-taught this course with Dr. Max Ehrlich, so much of this feedback applies to them both.\r\n\r\nStarting with the curriculum, I feel that this course was very poorly designed. The professors put in the bare minimum effort, more or less entirely ripping off Berkeley's CS188 course (https://inst.eecs.berkeley.edu/~cs188/fa23/), including all of the topics and slides. In fact, the slides they provided us with were identical to the Berkeley ones, just with the Berkeley branding replaced by UMD branding. They didn't even bother recording lectures, telling us to use the Berkeley recordings instead. Also, the Berkeley course had regular discussions, homeworks, and projects\u2014which would have helped us learn to apply the material we were learning, something the professors didn\u2019t really seem to care about.\r\n\r\nMoving on to the quality of the lectures, Dr. Kim seems very knowledgeable, but she simply cannot teach effectively and seems best suited for research. Her lectures pretty much consisted of reading off the Berkeley slides and giving inadequate answers when anyone would ask a question. It seems that there was very minimal preparation done before the lectures. The only reason anyone even bothered attending lectures was the clicker quizzes, which effectively made attendance mandatory. I personally learned more putting in headphones and reading the Berkeley notes instead of listening to her.\r\n\r\nThe assignments didn't make the course any better either\u2026\r\n\r\nThere was one midterm exam, which was a disaster. The professors made us take the exam on Gradescope on our laptops in class, because their goal was not to measure students' comprehension of the material but instead to minimize the time and effort needed to grade the exam while maintaining the fa\u00e7ade of a well-run class. They provided hardly any review materials themselves and only posted full solutions after complaints on Piazza. And even the solutions provided turned out to have errors. Besides that, they pointed us to Berkeley's past exams, which ended up being nothing like our exam. The exam was such a time crunch that hardly anyone could even finish, and they had to curve the exam to be out of 78 points even though there were well over 100 points originally.\r\n\r\nThe first 2 homework assignments were quite boring, but Homework 3 (a PyTorch lab which involved building an image classifier from scratch) turned out to be quite interesting. However, the professors did not teach us anything to equip us with the knowledge necessary to do the homework. They did not go over how to use PyTorch, how to design a neural network, how convolutional neural networks work, how to improve models, or anything else that would be remotely useful. While this was one of the only thought-provoking assignments, the professors did not prepare us for it at all.\r\n\r\nFinally, we had a group project due at the end of the semester that was pretty interesting, but the professors did not communicate the requirements clearly at all. They waited until a week before the end of the semester to tell us the details of the final poster presentation and announce that we had to complete a 3-5 page report in addition to the deliverables that we proposed in our project proposals. And that's also when they finally communicated the grading criteria, which was laughable. Somehow, the poster presentation was worth 70%, while the rest of the deliverables combined (including the 3-5 page report and all of the code) were worth just 30%.\r\n\r\nOverall, it seems like not much thought was put in this course. Why am I paying for a cheap rip-off of a Berkeley course that is freely available to all?",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2024-05-10T18:48:35.587332Z"
+    },
+    {
+      "professor": "Max Ehrlich",
+      "course": "CMSC421",
+      "review": "I'll preface my review by stating that I had Dr. Sujeong Kim, but she co-taught this course with Dr. Max Ehrlich, so much of this feedback applies to them both.\r\n\r\nStarting with the curriculum, I feel that this course was very poorly designed. The professors put in the bare minimum effort, more or less entirely ripping off Berkeley's CS188 course (https://inst.eecs.berkeley.edu/~cs188/fa23/), including all of the topics and slides. In fact, the slides they provided us with were identical to the Berkeley ones, just with the Berkeley branding replaced by UMD branding. They didn't even bother recording lectures, telling us to use the Berkeley recordings instead. Also, the Berkeley course had regular discussions, homeworks, and projects\u2014which would have helped us learn to apply the material we were learning, something the professors didn\u2019t really seem to care about.\r\n\r\nMoving on to the quality of the lectures, Dr. Kim seems very knowledgeable, but she simply cannot teach effectively and seems best suited for research. Her lectures pretty much consisted of reading off the Berkeley slides and giving inadequate answers when anyone would ask a question. It seems that there was very minimal preparation done before the lectures. The only reason anyone even bothered attending lectures was the clicker quizzes, which effectively made attendance mandatory. I personally learned more putting in headphones and reading the Berkeley notes instead of listening to her.\r\n\r\nThe assignments didn't make the course any better either\u2026\r\n\r\nThere was one midterm exam, which was a disaster. The professors made us take the exam on Gradescope on our laptops in class, because their goal was not to measure students' comprehension of the material but instead to minimize the time and effort needed to grade the exam while maintaining the fa\u00e7ade of a well-run class. They provided hardly any review materials themselves and only posted full solutions after complaints on Piazza. And even the solutions provided turned out to have errors. Besides that, they pointed us to Berkeley's past exams, which ended up being nothing like our exam. The exam was such a time crunch that hardly anyone could even finish, and they had to curve the exam to be out of 78 points even though there were well over 100 points originally.\r\n\r\nThe first 2 homework assignments were quite boring, but Homework 3 (a PyTorch lab which involved building an image classifier from scratch) turned out to be quite interesting. However, the professors did not teach us anything to equip us with the knowledge necessary to do the homework. They did not go over how to use PyTorch, how to design a neural network, how convolutional neural networks work, how to improve models, or anything else that would be remotely useful. While this was one of the only thought-provoking assignments, the professors did not prepare us for it at all.\r\n\r\nFinally, we had a group project due at the end of the semester that was pretty interesting, but the professors did not communicate the requirements clearly at all. They waited until a week before the end of the semester to tell us the details of the final poster presentation and announce that we had to complete a 3-5 page report in addition to the deliverables that we proposed in our project proposals. And that's also when they finally communicated the grading criteria, which was laughable. Somehow, the poster presentation was worth 70%, while the rest of the deliverables combined (including the 3-5 page report and all of the code) were worth just 30%.\r\n\r\nOverall, it seems like not much thought was put in this course. Why am I paying for a cheap rip-off of a Berkeley course that is freely available to all?",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2024-05-10T18:48:50.734750Z"
+    },
+    {
+      "professor": "Sujeong Kim",
+      "course": "CMSC421",
+      "review": "Course was fine. Professor mostly read off slides, but I thought the material was neat. It was mostly material taken from Berkeley's course, so the slides are solid. The course has a few homeworks, an exam, and a semester-long project, all of which I thought were reasonable. Solid, relatively easy CS elective, but professor was nothing special.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-05-11T00:25:57.833184Z"
+    },
+    {
+      "professor": "Sujeong Kim",
+      "course": "CMSC421",
+      "review": "She is a new teacher and I don't think it is necessarily her fault, but attendance is weighted way to high for a class copied from Berkeley. and copied poorly. There is less frequent homework than the Berkeley course and this causes it to be a much larger problem set so everything is covered. There were only 3 homework assignments the entire semester and 1 group project. the workload is not bad but this means the class is not really the most engaging and you end up having to relearn lots of topics to do the homework because you haven't thought about it for 4 weeks ago since you initially learned it and the professor moved on. The attendance is worth way too much and I would have an A- in the course if they removed it completely. The one time the professor had to miss class for a family emergency we had to come to class for participation points and watch a zoom lecture of the other classroom projected on the screen and I honestly felt insulted reading that canvas announcement. It was a waste of the Ta's time that day to have to sit there in person, operate the zoom meeting and, ask questions for students when we just as easily could have watched from home and gotten the same experience if not better.",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2024-05-15T11:43:05.304076Z"
+    },
+    {
+      "professor": "Max Ehrlich",
+      "course": "CMSC421",
+      "review": "As a student, I was incredibly interested in the possibility of taking an artificial intelligence course at UMD. However the biggest thing that was a let down was the way the course was instructed and the instructors themselves. Max is most definitely incredibly knowledged about the subject, and seems to have a passion for AI itself. However, the course was by far the worst organized 400 level course I have taken at UMD, and that's coming from a university with many \"below average\" professors in the computer science department. First and foremost, no enforcement of the material was given throughout the year. The course \"material\" was directly copied and ripped off from CS188, Berkeley's Intro to AI course. The slides, were directly copied as well. As a student, I found it much more effective to visit Berkeley's website and learn from their instructors instead. Signing up for this course would be a waste of your tuition when you can simply learn the material yourself using the CS188 website. \r\n\r\n\r\nEven the midterm itself was given with a low effort on the instructors part. The midterm was given online in class. Almost all students found the midterm to be impossible to complete in the given time, and this resulted in a low average for the exam. Instructors had to remove an entire section of the midterm after grading to better curve the results, which meant that students spent time on that section for no reason. \r\n\r\nThere were 3 total homeworks given in the class. Homeworks 2 and 3 provided more of a learning experience and had more applicability to the course material in comparison to anything else we'd ever learned in class. Homework 3 was building an image classifier using a nueral network which ended up being the most helpful and interesting project done in the class. This project was done using PyTorch, however Max  provided absolutely no guidance on how to start with PyTorch leading students to self learn the material before being able to start the homework itself. The final project was a group project, but yet again students were misinformed of the requirements. We were orginally told to complete a short report on our project, but a week before the deadline, this was changed to a 3-5 page report. Moreover, the grading procedure of the final project was not given until a week before the deadline. The lack of communication and help with both the homeworks and the final project speaks to how poorly the class was run.\r\n\r\nOverall, it seems that some individuals are not meant to teach no matter how knowledgable they are in the material, and Max is one of them.",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2024-05-19T19:28:36.217843Z"
+    },
+    {
+      "professor": "Max Ehrlich",
+      "course": "CMSC421",
+      "review": "Cons: \r\n- tells you not to stress but seems to do everything to make you stress\r\n- unclear hw instructions \r\n- super hard exam (it was far too long and way too much content) \r\n- unclear instructions on final project \r\n\r\npros: \r\n- lots of curving \r\n- no final exam \r\n- easy grading on the final project",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-05-20T00:33:40.707124Z"
+    },
+    {
+      "professor": "Mohammad Nayeem Teli",
+      "course": "CMSC421",
+      "review": "Terrible professor. Do not take him. Had him for CMSC 250 and CMSC 421 (summer). The class was entirely online with the exception of exams. He was not punctual with lecture postings, rarely responded to students on piazza, and if he did respond, it would be one word answers. He did not show up to either the midterm or final. Exams were terribly worded.",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2024-08-18T23:52:11.551659Z"
+    },
+    {
+      "professor": "Mohammad Nayeem Teli",
+      "course": "CMSC421",
+      "review": "Maybe Teli is okay for regular semester classes, but his handling of CMSC421 was quite poor. For our first project, it was impossible for us to actually gather all the data because he was asking us to run exp-time algorithms for (relatively) large graph sizes. For example, he said he wanted us to run algs on graph sizes from 5, 10, 15, ... up until about 100 or so, but in reality, running a 15 node graph took like an hour each or more. He then cleared up the day before the project was due that we could change up the increments and the bounds of the graph sizes (so our group did increments of 1 to get more data). The piazza answers he gives are not much better either. Given that the project descriptions are already either misleading or just poorly written, you would hope that he clears things up on the piazza, but no, he responds after a day or so, and usually in a few words that hardly string together a sentence. You have to really keep nudging him in the followups before you can get a straight answer. The final exam itself was pretty awful, the average was a 70%, so hopefully he curves it, but for now we still aren't sure.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2024-08-19T05:19:34.051909Z"
+    },
+    {
+      "professor": "Archit Kambhamettu",
+      "course": "CMSC421",
+      "review": "great TA. class was super disorganized but he was really nice in office hours and stuck with the students after hours to figure out problems",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2024-08-20T22:35:30.752342Z"
+    },
+    {
+      "professor": "Archit Kambhamettu",
+      "course": "CMSC421",
+      "review": "Archit single handedly saved me in 421. I had zero clue what I was doing but went to his office hours, and he helped finish the project. He also held extended office hours the day the project was due. He's a great guy who's for the student and also a very chill grader who grades on understanding the concepts instead of just checking for the right answer.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2024-09-07T22:30:54.647971Z"
+    },
+    {
+      "professor": "Tianyi Zhou",
+      "course": "CMSC421",
+      "review": "Got an B finally. I cannot recommend him. The main problem was he did not communicate and cannot respond to the questions and assignment questions well. Overall the course was disorganized.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2024-09-30T02:49:54.660799Z"
+    },
+    {
+      "professor": "William Regli",
+      "course": "CMSC421",
+      "review": "Cool professor. The lectures and the notes are good and teach the concepts very well, and the exams are open note. Most of the pressure is on the projects. I'm giving this guy a horrible rating because the projects were just that bad, and the TAs were annoying. The programming assignments are not only worthless, a waste of time, and take way longer than they should, but they are also open-ended in all the wrong ways. I don't think he's disrespectful, but just a little bit autistic.\r\n\r\nI feel compelled to write this because there was just a fiasco where they changed an easy planning assignment multiple times due to a bug in the given library code, resulting in part of the project being changed from 'propositional planning' to 'software development bug-hunting', which was of course stupid and a waste of time. There was also a step in that assignment which was to modify the library for yourself in order to inject the desired behavior into the library, with no additional instructions beyond that. Why am I being tasked with software development in an AI class? AM's words from 'I Have No Mouth and I Must Scream' sums up how I feel about these programming assignments in general. They're not hard, but have far too high a proportion of time invested in busywork and unrelated tasks such as making 3000 graphs in Matplotlib than actually learning the concepts.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2024-11-04T22:49:53.702803Z"
+    },
+    {
+      "professor": "William Regli",
+      "course": "CMSC421",
+      "review": "He\u2019s a cool guy and pretty knowledgeable but he\u2019s quite Incompetent when it comes to assignments. There are only 6 assignments, 2 or 3 of which are multiple choice gradescope assignments. And yet for every single programming assignment there\u2019s always some big change in instructions and/or requirements halfway through that makes us redo things causing an extension to be granted. For every single programming assignment thus far there\u2019s been an extension. The TA\u2019s also generally seem to have no idea what\u2019s going on with the projects so you\u2019re just all on your own. How the projects are this poorly made is beyond me considering the entirety of the course material is pirated from UC Berkeley and a few projects are based on theirs too.\r\n\r\nAgain Regli is a really nice guy and pretty reasonable when it comes to deadlines extensions for things and if you\u2019re really interested in the subject there\u2019s genuinely few better people here than him to teach you about it due to his background. But the projects, despite how few of them there are, make this class very annoying",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2024-11-08T06:01:11.153752Z"
+    },
+    {
+      "professor": "William Regli",
+      "course": "CMSC421",
+      "review": "This class has a lot of potential to be really cool and really well done, but it was such a wash with Regli.\r\n\r\nHe speaks pretty well and has a lot of charisma, and is also just a super cool dude. Loves old movies about AI and has an AI \"movie of the week\" recommendation, followed by an optional outside-of-class meeting with him and other students to talk about the movies. He's also just genuinely super interested in AI and that's clear to everyone. He was an AI advisor at the WHITE HOUSE??? Super neat guy.\r\n\r\nBut taking a class under his administration was kind of atrocious. He was horrible at answering questions in class, and often would just ask a different question in response to get you to \"think\", when just giving the actual answer would be much more helpful. The projects were not described well and often were heavily revised after being released and information was not centralized at all. The first project was a humongous assignment where you solve the traveling salesman problem with seven different AI-based approaches, and it took an egregious amount of time while having open-ended instructions, which Regli said were for the purpose of \"exploring\". I like this idea, but when it's a big project that is graded, it's not the place for it. Another project had a bunch of starter code which was discovered to be fatally buggy AFTER the project was released, so it was impossible to do the project as written, or really at all. Rather than scrapping the project or fixing the starter code, which would be acceptable responses, Regli decided to KEEP IT and just have students \"try it\" and then try to debug it and come up with theories on why it didn't work. This was well outside the scope of the project and the entire reason the starter code was given in the first place. He has this complex where he can't admit that he's wrong and it really messes with the structure of the class.\r\n\r\nThe exams were all multiple choice, which sounds nice, but he would ask these ridiculously open ended questions on the exams when the answers were multiple choice. Even after being confronted about this, he said it was intentional, again to \"make you really think\", and even straight out said that there wasn't just one right answer, but rather one \"best\" answer. For multiple choice questions that are all or nothing, not even any partial credit, this was not acceptable. \r\n\r\nTL;DR: Regli is a really awesome person, but should not be administering classes. With his inability to admit his own faults, combined with his incessant need to confuse students under the guise of \"making you really think about the material\" (even on exams and projects), the class really sucks with him. With that being said, I still think he's better than Zhou, and it was not that hard of a class. Just really frustrating.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2024-12-08T21:56:04.030744Z"
+    },
+    {
+      "professor": "William Regli",
+      "course": "CMSC421",
+      "review": "Guy below me is spot on, Regli is a super cool guy and genuinely knows what he's talking about. He's been in this space for decades and is very clearly knowledgeable. This class (atleast this semester) suffered alot from projects. Hw2 (project2) was really long, but I don't think it was awful. Some of the other ones were created with very little detail and lots of revising as the due date came closer. You literally would not be able to progress on most projects without searching through Piazza for clarifications, etc.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2024-12-10T21:34:23.867094Z"
+    },
+    {
+      "professor": "William Regli",
+      "course": "CMSC421",
+      "review": "The concepts in this class definitely have the potential to be cool and engaging, but the way he teaches is quite disorganized and detailed in the wrong places. You learn a bunch of vocab words in every lecture that gets mentioned once and never reiterated, but he keeps moving forward so if you don't remember one word you're screwed. Even if you read the textbook, the terminology it uses is sometimes different than the terminology he uses in class. He also moves really fast and all his slides have a lot of words, so it feels impossible to take notes and if you get lost, you're not going to pick up anything for the rest of the class. He also frequently makes mistakes in his lectures or slides and has to double back on himself during class which makes knowing what is the \"correct\" information rather difficult.\r\n\r\nAs for the assignments, they take a long time, and he lied about having only 6 assignments (we had 7). The instructions for almost every assignment were constantly changed, even up to a few days before the due date. There's almost always some type of unforeseen issue with it that several people have to address before it gets announced to the rest of the class.\r\n\r\nThe exams are multiple choice which takes some stress off, but the difficulty really isn't any better, especially when you see that one question is worth 9% of your whole exam grade. The one exam on logic is literally just 250 + genuine logic. If you have your cheat sheet of definitions you don't have to go to class to get a good score if your logical reasoning abilities are strong. On the other hand, if they're not but you studied a lot, you might not do so well. The exams themselves often contain a few poorly worded questions that leave it up for interpretation, and when you ask for clarification from the TAs, they also interpret it differently than how he intended and you get the question wrong. The exams could be better structured, but at least there's a curve on it.\r\n\r\nTwo stars just because there's a curve, the textbook he recommends is well written/easy to understand, and these two together + self studying make this class passable.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2024-12-12T00:56:16.423095Z"
+    },
+    {
+      "professor": "William Regli",
+      "course": "CMSC421",
+      "review": "Nice person overall. Projects are very doable and relevant. You get a cheat sheet on exams which honestly don't help too much most of the time. Homework are fine but not exactly easy. Slides are bloated and too much content is crammed into the slides. Honestly, there were interesting topics but the class structures makes it boring.\r\n\r\nOverall, class is boring but not too hard. Projects (especially this first one) will take some time but otherwise it is generally a low time commitment course. Regli is a good person and is passionate and knowledgeable.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2024-12-12T02:35:32.530004Z"
+    },
+    {
+      "professor": "William Regli",
+      "course": "CMSC421",
+      "review": "Awful teacher, has no idea what hes doing, terrible lesson plan. Do not take!",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2024-12-13T06:46:00.059505Z"
+    },
+    {
+      "professor": "William Regli",
+      "course": "CMSC421",
+      "review": "Overall concepts the course are great. Projects were quite difficult with very little documentation instructions and the not answering of questions in Piazza. Professor Regli thinks that his way is the best way in terms of teaching and making one think about the material so refuses to answer questions outright, instead giving open ended \"hints\" towards what the answer could be. Most of the time I got more confused than clarification. Something else that was crazy was that he released the answers to a homework and then removed it a week or two out of the final exam and refused to answer any questions about him removing it on Piazza and instead just said talk to TA and that was that. I tried going to his lectures but the way that he teaches was quite terrible and difficult not to be doing something else. Also the exams, while not being cumulative were still quite difficult because he did only multiple choice but that means no partial credit for anything, also for the final exam a little less than half of people(133/272) got a grade of 66% or lower, and he said that was good, we still have yet to see what the curve will be like in the course. Overall I think that the material itself was pretty cool and everything but the way that he would teach kinda sucked and was really difficult when trying to get a straightforward answer out of him.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2024-12-16T01:41:01.744502Z"
+    },
+    {
+      "professor": "William Regli",
+      "course": "CMSC421",
+      "review": "Decent professor and nice guy. The midterms were fair and the lectures were good. However, he completely delegated the job of designing projects and quizzes to the TAs, many of whom were quite frankly kind of incompetent at their job. As a result, prof. Regli usually couldn't answer questions about his own homework assignments because he was not the one creating them.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2024-12-19T21:20:31.486060Z"
+    },
+    {
+      "professor": "William Regli",
+      "course": "CMSC421",
+      "review": "Nice guy and a great person to talk to. He made the content understandable and fun. But some of the projects were disorganized and there were not clear instructions and they kept changing over the time of the project. I personally hate the format of the multiple choice test so I was not a big fan of those but if you think you are good at them you might have a better time. I missed one of the projects and instantly dropped my grade by 7 points which is unfortunate but if you do them on time you should be fine.\r\n\r\nHe is very understanding though and took feedback well and said he would do better in the future and besides that he is very solid.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2024-12-22T01:58:32.193257Z"
+    },
+    {
+      "professor": "William Regli",
+      "course": "CMSC421",
+      "review": "Mr Regli is a really nice guy and super helpful if you ever talk to him one on one. However, there were countless issues for this course. Projects with conflicting directions, instructions in 5 different places making it hard to know everything, TA \"recitations\" where they just read off a slide and couldn't answer basic questions, exams where students had to argue for points back due to unclear wording, etc. Easily the most disorganized class I've taken at UMD, making it hard to engage with the material and actually learn. His lectures are also completely all over the place and impossible to follow. By the third week no one was even attempting to take notes because he goes so fast and its not clear which information is relevant at all. For the final, the whole class really struggled because everyone studied the wrong material, myself included. He did curve the exam(s), so in his defense he made up for a lot of his mistakes. I also did get an A in the class, so it all worked out in the end to be fair. However, CMSC421 has been a terrible class at UMD for years.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2024-12-24T20:41:51.045745Z"
+    },
+    {
+      "professor": "Maksym Morawski",
+      "course": "CMSC421",
+      "review": "I had him for 320 got an A. This dude is lowkey buns. Imagine a professor who wants to teach but is lazy ash. That's basically him. He's just a troll. Why did I have to have him again for 421.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2025-05-12T18:03:02.758022Z"
+    },
+    {
+      "professor": "Pratap Tokekar",
+      "course": "CMSC421",
+      "review": "loved taking cmsc421 with Pratap. him teaching it definitely made it the favorite upper level cs class that i've taken at umd. slide decks are structured very well and provide a ton of information, all of which i found really interesting. homeworks and projects are very interesting to work on and he provides practice exams for his exams, so you know what to expect on exams and can prepare really well for them. 10/10 experience for me and would highly recommend taking cmsc421 with Pratap to anybody.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-14T21:59:46.143288Z"
+    },
+    {
+      "professor": "Pratap Tokekar",
+      "course": "CMSC421",
+      "review": "By far the best option you have for CMSC421 (though imperfect)\r\n\r\nPratap is quite a nice lecturer. When looking at the slides at first (which, as AI is, is still stolen from Berkeley), some equations and concepts are kind of hard to grasp at first glance. But Pratap explains it in a simplified way while not removing the details fully. Although some of the AI concepts at the start are repetitive (BFS, DFS, and other stuff you learned), there's just enough to make the start somewhat different. Pratap records all his lectures (which lowers attendance drastically, but near the end of the semester, some lectures stopped being recorded for some reason.\r\n\r\nThere were intended to be more assignments, but likely to disorganization, there were only 4 homework assignments and 1 lab. I really was hoping to do more coding (and the coding assignment was pretty easy, though these 5 assignments ended up being weighted up 10% each, crazy given the homework was also short). This may have happened due to disorganization, and really, disorganization is the main gripe I have with this class. TAs don't answer on Piazza, and Pratap answers nearly every question (I feel bad for him qwq). Homework grades come quite late, regrades are annoying, and questions are written strangely quite often. I feel that if this class were managed much better, it would be perfect, and strangely enough, more homework. \r\n\r\nTests are easy. Like, really easy. The practice exam is extremely similar to the actual exam, so similar that it incentivizes overfitting on the practice exam (and, plus, you even have a cheatsheet for each test!). The averages were extremely high (87ish?) for each test, so that will not be a concern unless something changes.\r\n\r\nOverall, given the teachers I've seen teaching AI, be glad you have Pratap (though he's going on sabbatical...). Despite some flaws, he runs a good course for a notoriously poorly run class.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-05-18T04:45:46.878797Z"
+    },
+    {
+      "professor": "Maksym Morawski",
+      "course": "CMSC421",
+      "review": "Super disorganized and lectures don't go anywhere near the kind of depth you would expect from a 400 level class, it was a struggle to learn anything at all",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2025-05-19T01:43:50.365131Z"
+    },
+    {
+      "professor": "Pratap Tokekar",
+      "course": "CMSC421",
+      "review": "Pratap is pretty good as a professor. He explains concepts in a coherent way, he's pretty understanding, and overall just a solid professor. Any complaints I have are directly against the organization/logistics of the class. Practice exams had some wrong answers which tripped me up, and responses on Piazza vary a LOT. Usually, it's on the much longer end. Class content itself is alright. I did learn a lot, but the content is directly taken from Berkeley's class. It's funny too; I looked up something from the slideshow for more information about that topic and all I found was the same slideshow on 4 different universities' websites. I'd recommend taking Pratap, and probably 421. Class is relatively easy too.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2025-05-20T20:54:39.789466Z"
+    },
+    {
+      "professor": "Maksym Morawski",
+      "course": "CMSC421",
+      "review": "So this is my second semester in a row taking Max, after I had him last semester too in CMSC320. Meaning, I am pretty confident in all of the things that follow. \r\n\r\nJust trust me\u2014don't take him if you don't have to. He is very disorganized, has terrible exam questions, decent projects, awful slides and lectures, bad TAs. At least he is a nice guy.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2025-05-23T18:12:35.167681Z"
+    },
+    {
+      "professor": "Maksym Morawski",
+      "course": "CMSC421",
+      "review": "Took him for both 320 and 421, classes are easy because of homework weight but he is the laziest professor in the school",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2025-05-26T01:34:01.761277Z"
+    },
+    {
+      "professor": "Pratap Tokekar",
+      "course": "CMSC421",
+      "review": "Lectures were pretty good, and the slides were very nice. He recorded lectures which was nice. Exams were fair and he allowed us to bring one page of notes for the exams. There were 4 written homeworks which were not released on a consistent basis, and one coding project at the end of the semester which was pretty easy. I wish the class was more organized and that there was 1-2 more coding projects. But overall a solid experience.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2025-06-05T20:45:25.986802Z"
+    },
+    {
+      "professor": "Mohammad Nayeem Teli",
+      "course": "CMSC421",
+      "review": "i'm not sure how he is for normal semesters, but cmsc421 over the summer with him was very poorly run",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-09-15T02:21:55.351751Z"
+    },
+    {
+      "professor": "William Regli",
+      "course": "CMSC421",
+      "review": "Regli is fantastic- I can't understand the hate. He updates the slides regularly, exams are fair and you even get a cheat sheet. To do poorly in this course you have to try. He's extremely knowledgeable and funny with great lectures that make you think and content that is worth connecting to.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-12-04T19:04:13.392889Z"
+    },
+    {
+      "professor": "William Regli",
+      "course": "CMSC421",
+      "review": "Dr. Kim and Dr. Regli were co-teaching this semester (Fall 2025), so their lectures, homework, projects, and exams were the same. I think you should probably have some basic background in AI because I didn't, so that made all the concepts really hard to understand/follow. But this is a skill issue lol \r\n\r\nSome notes:\r\n- 3 coding projects. ACTUALLY DO PROJECT 1 WELL BEFORE THE DUE DATE PLEASE \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f It is the hardest project out of all 3. Even if they haven't taught the concepts yet, just use Google and stuff to learn, JUST DO IT EARLY!!!! All projects are coding + writing. For example, for Project 1, you had to write a full report alongside the code. \r\n- 4 homeworks.\r\n- 2 midterms and 1 final (non-cumulative). You're allowed a cheatsheet (front and back) for all exams. All exams are multiple choice, so no partial credit.\r\n- All lectures are recorded.\r\n- All slides are posted.\r\n- Optional 1-2 hour recitations/discussions where TAs or the professors explain some of the concepts or how to start a project. \r\n\r\nIn my opinion, midterms 1 and 2 were too close together (I think they were a little over a month apart), but maybe my perception of time was warped lol. In either case, the content needed for the final feels like a whole year's worth of content with how dense it is. So don't be fooled by the \"non-cumulative\"; the final will always be hard for a conceptually challenging class like this one.\r\n\r\nDr. Regli is an okay guy. His hats are fun. I haven't spoken to him one-on-one or asked for help during office hours, but I think he lectures okay...? The way he explains things can sometimes be contradictory and not that well-explained. I think to really understand his lectures, you have to read the book (optional), research/learn on your own, and review a lot. Piazza is not the greatest place to get clear answers. Dr. Regli tends to get a bit annoyed when students ask the same question, which is fair since there is a search bar in Piazza, but sometimes his answers to questions can come off as a bit condescending. It is kind of funny when he types out \"sigh\" though...",
+      "rating": 3,
+      "expected_grade": "C+",
+      "created": "2025-12-17T01:57:34.312208Z"
+    },
+    {
+      "professor": "Sujeong Kim",
+      "course": "CMSC421",
+      "review": "Kim and Regli were co-teaching this semester, so they had all the same stuff. Kim is better when watching the lecture videos because she draws on the slides themselves, while Regli points to things in person, which isn't shown in the video because we only see the slideshow. She has an accent, but it's nothing too crazy (you can understand her well).",
+      "rating": 3,
+      "expected_grade": "C+",
+      "created": "2025-12-17T02:01:52.447875Z"
+    },
+    {
+      "professor": "William Regli",
+      "course": "CMSC421",
+      "review": "he taught nothing i learned nothing this class was nothing",
+      "rating": 1,
+      "expected_grade": "C-",
+      "created": "2025-12-17T04:02:03.337095Z"
+    },
+    {
+      "professor": "William Regli",
+      "course": "CMSC421",
+      "review": "Nice guy, and a rockstar in the field. However, a lot of his lectures made no damn sense when I didn't have prior background or experience with the material. He would essentially just talk through mathematical notation or code without laying out any conceptual roadmap for the algorithm or technique we were doing, which results in me thinking that none of this is really going to stick in my brain after class. Office hours where I could talk with him one-on-one with more dialogue-y teaching was only slightly more improved. For morning lectures he himself would not so uncommonly get confused on what the hell was going on in his slides and have to spend some time to figure out what he even wanted to say. On final exam review, he got a non-insignificant portion of his own questions wrong.",
+      "rating": 2,
+      "expected_grade": "A+",
+      "created": "2025-12-25T04:10:47.826977Z"
+    },
+    {
+      "professor": "Sujeong Kim",
+      "course": "CMSC421",
+      "review": "Decent professor. Her English isn't perfect, which may impede perfect understanding of conceptual understanding of the material, but I thought that she taught what she did effectively enough.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2025-12-25T04:13:56.135109Z"
+    },
+    {
+      "professor": "William Regli",
+      "course": "CMSC421",
+      "review": "This is hands down the worst course I've taken all my life, not just in college. This is more of a review for the course than the professor, Regli is chill (judging from the one time I met him). It IS a very easy class: cheat sheet, ez homeworks, broad material.\r\nWhy the poor rating? The course structure, specifically the syllabus. This is a very broad class, concepts and terms are mentioned, basic parts of algorithms are taught, but you will not end up taking anything from the course. The only way for you to truly understand whats going on is if you read the book, the additional material along with the slides and visit office hours, etc.  Exams seem like a test of can-you-create-the-best-cheatsheet. To me, it felt like a terminology class, does X mean this, etc. Exams being MCQs is another big factor of why this course is stupid. I should also add that this course is about GOFAI (good old fashioned AI) which means its almost entirely irrelevant to anything ML (there's minor relevance to robotics and RL, but thats it)\r\n\r\nReasons to take this class: you want to do the ML track (which was my reason), you want an ez A\r\nReasons not to take to class: if you care about your time/course choice or If you want to learn smth. I personally feel like unless you are solidifying your GPA, choice of 4XXs matters. I would say if do not fall in the category above, DO NOT take this class. You will genuinely learn nothing. My 8th grade art class where I never did anything but painted one canvas was more of a learning experience for me.\r\n\r\nPS: Again, Regli's chill and its the syllabus that is crap. I should add that I never went to class and only showed up for exams, so make of this review what you will (although idt attending class will help much, the material is too broad, concepts are never explained properly, its all way too rushed)",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2026-01-08T23:01:37.145627Z"
+    },
+    {
+      "professor": "William Regli",
+      "course": "CMSC421",
+      "review": "TLDR: Prof's okay, course is really bad. You will learn nothing, buts its an ez A.\r\n\r\nWorst course I've taken IN MY LIFE, not just in college. My 8th grade art lessons were better. \r\n\r\nCons: First, its not an Intro to AI, but a very broad intro on \"Good old-fashioned AI (GOFAI)\" which is incredibly irrelevant to anything ML (though still relevant in Robotics). The whole course lacked depth; its more about terminology than actual AI. The exams being MCQ and open-book makes the course more about 'who-can-make-the-best-cheatsheet'. There are some good concepts (RL stuff, markov chains, state machines, etc) but they are not explored well, you never understand the logic properly. Slides are bombarded with information, very hard to follow and the class is too broad to allow the professor to pay any proper attention to complicated concepts. Initial parts of the course and most of the exams is just a test on terminology. If you do not attend every lecture, put more effort than what is required, and go to office hours, you will walk out of it having learned absolutely nothing.\r\n\r\nPros: 2 reasons to take it: ez A, or you're in the ML track. \r\n\r\nPS: Im not saying Regli is a bad professor, I never went to the lectures (watched recordings though). My main opinion is that the course itself is BAD and the syllabus is too broad to help the student learn. If you like writing cheat sheets and memorizing definitions, go for it. Please do not take this course if you think this will help you with AI, its incredibly outdated \u2013\u00a0its GOFAI",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2026-01-30T04:44:34.060847Z"
+    },
+    {
+      "professor": "Archit Kambhamettu",
+      "course": "CMSC421",
+      "review": "Review session was super helpful",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2026-04-04T19:13:02.129928Z"
+    }
+  ],
+  "department": "CMSC",
+  "course_number": "421",
+  "name": "CMSC421",
+  "title": "Introduction to Artificial Intelligence",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> Minimum grade of C- in CMSC351 and CMSC330; and permission of CMNS-Computer Science department. Or must be in the (Computer Science (Doctoral), Computer Science (Master's)) program.\nIntroduces a range of ideas and methods in AI, varying semester to semester but chosen largely from: automated heuristic search, planning, games, knowledge representation, logical and statistical inference, learning, natural language processing, vision, robotics, cognitive modeling, and intelligent agents. Programming projects will help students obtain a hands-on feel for various topics.",
+  "is_recent": true,
+  "geneds": null
+}

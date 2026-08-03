@@ -1,0 +1,119 @@
+{
+  "average_gpa": 2.752859350850077,
+  "professors": [
+    "Jeffrey Adams",
+    "Wiseley Wong",
+    "Elizabeth Wilson",
+    "Roohollah Ebrahimian",
+    "Samuel Braunfeld",
+    "Anthony Ostuni",
+    "Wiseley Wong",
+    "Wiseley Wong",
+    "Niranjan Ramachandran",
+    "Wiseley Wong",
+    "Wiseley Wong",
+    "Wiseley Wong",
+    "Wiseley Wong",
+    "Terence Long",
+    "Wiseley Wong",
+    "Wiseley Wong"
+  ],
+  "reviews": [
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "MATH475",
+      "review": "Really good teacher, especially compared to other math professors at UMD. One of the things I love about Justin is that he is humble. If he felt one of his lectures wasn't perfectly clear, he'll spend some of next class clarifying the tougher bits. Many professors just move on and leave the stragglers behind.\n\r\nI'm not a huge fan of the group works, but they're fairly infrequent. He grades very easily on them because they're tough.\n\r\nPlus he brought us bagels!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2011-04-20T02:36:00Z"
+    },
+    {
+      "professor": "Jeffrey Adams",
+      "course": "MATH475",
+      "review": "Lecture:\r\nAdams was always willing to experiment and investigate students ideas that we come up with during lecture. I actually learned a lot during these little diversions. \r\nWe did a lot more combinatorics than graph theory, but Adams said he might start with Graph theory next time to ensure that he covers it in more detail next time. \n\r\nHomework/Book:\r\nWe used Brualdi's textbook and it was alright. Many of the questions were vague which made it hard to figure out what the questions were asking. Look over the homework the class period before it's due so you can ask Adams about it during lecture. \r\nOverall homework wasn't too difficult, it was assigned once a week and took 4-8 hours depending on what you are covering. Homework was usually about 70% application and 30% proof (but this was dependent on the topic, partial orders, recurrence relations, and graph theory were a little heavier on proofs)\n\r\nTests:\r\nTwo midterms and a final. All of Adams test follow a similar set-up. Some medium difficulty problems, then one problem that is rather easy followed by a problem that is really hard. The easy one is \"free points\" so you don't feel bad about not getting the hard one.\n\r\nNo quizzes or anything like that. Grading was\r\n100 exam 1\r\n100 exam 2\r\n150 final\r\n100 homework (2 dropped)\n\r\nand he curved a little to make the median a 75 on both exams (and probably did the same for the final).\n\r\nI really enjoyed this class, Adams made it fun and the material isn't terribly rigorous. It would be good to take this class with the rigorous courses like MATH410/411/403/etc.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2012-05-26T10:51:00Z"
+    },
+    {
+      "professor": "Wiseley Wong",
+      "course": "MATH475",
+      "review": "The one and only. Class was easy and relaxed. Having background in a lot of the material, I only wish the pace was a little faster so we would be able to cover more interesting graph theory topics.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2021-01-18T06:49:21Z"
+    },
+    {
+      "professor": "Samuel Braunfeld",
+      "course": "MATH475",
+      "review": "tl;dr: If you are wary of group work or minor disorganization, then perhaps he might not be the professor for you, but otherwise, I think he was great. \r\n\r\nDifficulty (for a senior-level math class): 3/5.\r\nTopic Interest/Usefulness: 5/5. \r\nCourse Materials & Organization: 4/5. \r\n\r\nThis class was essentially flipped, which meant some troubles during COVID: It is much more likely for people not to show or not to participate when they're sitting, camera-off, behind a screen. In any case, when it operated properly, it went very well, and I won't dock him for a global pandemic reducing student participation. Essentially, we would have a worksheet every week or two to work through in small groups, with him popping in periodically to answer questions or provide guidance. Then, we would reconvene into the full session toward the end to go over what was on the worksheet. \r\n\r\nHis exams were both take-home, and they were fair in their difficulty and scope, very comparable to the homework. Both exam and homework consisted of guided, long-form problems, often proving fundamental results or exploring a toy example. I generally prefer exams to be of this kind, perhaps with some quizzes on very basic material to check students are actually familiar with the content. The nature of the course content made it such that he could get away with this without worrying much about cheating. The two exams and homework essentially comprised the grade in equal 1/3 parts, except there was also a 5% participation grade. The exams and homework are longer than most senior-level math classes', but it is very light outside of that and the assignments are not particularly difficult; it is a class with relatively little theory, one where it is even easier than usual not to read at all, where perusing a completed worksheet for five minutes would catch you up on the essential information to do the homework, and the rest is your own perseverance and ingenuity. \r\n\r\nHis arguments are not always the most polished. He seems to prepare mostly by having informally looked over the day's worksheet and then doing additional thinking in-real-time, which mostly led to clear, precise proofs because, of course, he knows the material very well (and indeed uses combinatorics in his research). Still, because of this, there were times where he had to develop arguments on-the-spot a few times, which is naturally a non-linear, somewhat clumsy process. He always eventually prevented a clean solution, however, and for some students, I suspect the humility of seeing their professor make some silly mistakes or have to take some time to think over basic material can be nice, as can just seeing the thought process and participating in it (he would welcome student ideas and discussion in the few times he briefly got stuck in this way).",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-05-14T07:17:48Z"
+    },
+    {
+      "professor": "Wiseley Wong",
+      "course": "MATH475",
+      "review": "One of the best professors out there. Exams are fair and he tells you exactly what to study for. The class is no walk in the park though. You gotta put in the work",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2022-11-06T16:32:29.886381Z"
+    },
+    {
+      "professor": "Wiseley Wong",
+      "course": "MATH475",
+      "review": "Excellent professor. Teaches so well and is always willing to help. But he moves pretty fast so make sure you're keeping up",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2023-01-01T16:53:11.102558Z"
+    },
+    {
+      "professor": "Wiseley Wong",
+      "course": "MATH475",
+      "review": "Wisely overall was a decent instructor. The exams and homework's were fair and the average was high(usually around a low 80). Wisely provided examples in lectures with helped solidify understanding if the concepts. The only issues I had with the class were that Dr. Wong often forgot to record the lecture, the quality of the video was also very poor although that was not his fault. Some lectures also felt a bit rushed.",
+      "rating": 4,
+      "expected_grade": "C",
+      "created": "2023-05-10T21:21:39.614426Z"
+    },
+    {
+      "professor": "Wiseley Wong",
+      "course": "MATH475",
+      "review": "He is amazing, take him at all costs. I had the honor of taking MATH240 with him too. The course is very difficult, but I promise you will learn a lot out of it.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2023-06-15T20:50:27.339438Z"
+    },
+    {
+      "professor": "Todd Rowland",
+      "course": "MATH475",
+      "review": "Very kind and caring professor; perhaps the kindest I have ever had. He encourage students to participate in class, and is very patient, even with simple questions. The workload is very much appropriate, considering the high level of the course and the fact that it was offered during the summer. Flexible deadlines and generous with extensions. Professor Rowland gives a wide range of homework problem that very well represent the course content; the problems are well chosen and challenging, but never impossible to solve. For each exam, we were given a fairly comprehensive practice exam; the exams themselves were well balanced. The choice of textbook was perfect, Miklos Bona's \"A Walk Through Combinatorics\" is simply fantastic. All in all, a very strong class that I would highly recommend!",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2024-08-13T16:26:09.722896Z"
+    },
+    {
+      "professor": "Wiseley Wong",
+      "course": "MATH475",
+      "review": "Wong was a really engaging professor for 475. He went at a fast pace, but he was very open to questions and cleared up confusions quickly as well.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-15T03:14:41.030680Z"
+    },
+    {
+      "professor": "Wiseley Wong",
+      "course": "MATH475",
+      "review": "I found his course to be engaging and easy to follow. I was surprised by how interesting the topics in combinatorics were.\r\n\r\nThe homeworks were at a good level of challenging but not too bad, and they were more than enough to prepare for exams.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-22T01:19:23.822950Z"
+    }
+  ],
+  "department": "MATH",
+  "course_number": "475",
+  "name": "MATH475",
+  "title": "Combinatorics and Graph Theory",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> 1 course with a minimum grade of C- from (MATH240, MATH341, MATH461); and 1 course with a minimum grade of C- from (MATH241, MATH340); and permission of CMNS-Mathematics department. Cross-listed with CMSC475.\n<b>Credit only granted for:</b> MATH475 or CMSC475.\nGeneral enumeration methods, difference equations, generating functions. Elements of graph theory, matrix representations of graphs, applications of graph theory to transport networks, matching theory and graphical algorithms.",
+  "is_recent": true,
+  "geneds": null
+}

@@ -1,0 +1,803 @@
+{
+  "average_gpa": 3.071710526315789,
+  "professors": [
+    "Casey Cremins",
+    "Joan Ren",
+    "Yuan Liao",
+    "Natalia Tchetcherina",
+    "Frances Gulick",
+    "Michael Jakobson",
+    "Peter Nandori",
+    "Takumi Saegusa",
+    "Guan Huang",
+    "Susan Mazzullo",
+    "Tingni Sun",
+    "Archana Khurana",
+    "Hilaf Hasson",
+    "Hatice Sahinoglu",
+    "Zhenqiu Liu",
+    "Chiao-Wen Hsiao",
+    "Susan Chimiak",
+    "Paul Smith",
+    "Adam Telatovich",
+    "Judith Law",
+    "Abram Kagan",
+    "Jonathan Fernandes",
+    "Shiping Liu",
+    "Mestiyage Gunatilleka",
+    "Scott Preston",
+    "Mestiyage Gunatilleka",
+    "Natalia Tchetcherina",
+    "Hatice Sahinoglu",
+    "Raymond Schram",
+    "Timothy Pilachowski",
+    "Archana Khurana",
+    "Joan Ren",
+    "Jonathan Fernandes",
+    "Mestiyage Gunatilleka",
+    "Natalia Tchetcherina",
+    "Scott Preston",
+    "Archana Khurana",
+    "Joan Ren",
+    "Jonathan Fernandes",
+    "Matthias Wellershoff",
+    "Natalia Tchetcherina",
+    "Mestiyage Gunatilleka",
+    "Mestiyage Gunatilleka",
+    "Archana Khurana",
+    "Jonathan Fernandes",
+    "Matthias Wellershoff",
+    "Mestiyage Gunatilleka",
+    "Archana Khurana",
+    "Francesco Gaffi",
+    "Jonathan DeWitt",
+    "Matthias Wellershoff",
+    "Archana Khurana",
+    "Francesco Gaffi",
+    "Jonathan Fernandes",
+    "Ke Chen",
+    "Anurag Dey",
+    "Anurag Dey",
+    "Archana Khurana",
+    "Francesco Gaffi",
+    "Fushuai Jiang",
+    "Matthias Wellershoff",
+    "Mestiyage Gunatilleka",
+    "Mestiyage Gunatilleka",
+    "Archana Khurana",
+    "Francesco Gaffi",
+    "Kyeongwon Lee",
+    "Hatice Sahinoglu",
+    "Mestiyage Gunatilleka"
+  ],
+  "reviews": [
+    {
+      "professor": "Eric Slud",
+      "course": "STAT401",
+      "review": "He's really boring and assigns lots of homework. You won't learn anything. Stay away.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2010-10-20T14:55:00Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "STAT401",
+      "review": "She might be new but don't let that scare you off; Archana is a great instructor. Her explanations are easy to understand and she works though tons of examples in class. Exams were fair and you generally know what to expect on them.\r\n\r\nShe also genuinely cares that people do well in her class. Don't be surprised if you go to office hours after an exam and she already remembers what mistakes you made. I did a double take the first time but honestly it's pretty refreshing in a huge school like UMD.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2018-11-01T15:18:02Z"
+    },
+    {
+      "professor": "Adam Telatovich",
+      "course": "STAT401",
+      "review": "Pretty good professor, but can be a bit monotone sometimes. He truly wants the best for his students.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2019-04-25T02:39:18Z"
+    },
+    {
+      "professor": "Hatice Sahinoglu",
+      "course": "STAT401",
+      "review": "One of the best professors I've had. She pays enough attention to students and exams aren't too hard, same level as homeworks.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2019-05-14T03:00:30Z"
+    },
+    {
+      "professor": "Takumi Saegusa",
+      "course": "STAT401",
+      "review": "Professor Saegusa is great. He teaches the content in an easily digestible manner and his exams are less nitpicky and more about overall concepts. Definitely recommend taking 401 with him. ",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2019-05-22T16:26:20Z"
+    },
+    {
+      "professor": "Hatice Sahinoglu",
+      "course": "STAT401",
+      "review": "Really makes classes harder than they need to be. That's really all I have to say.",
+      "rating": 1,
+      "expected_grade": "C+",
+      "created": "2019-08-28T22:04:09Z"
+    },
+    {
+      "professor": "Paul Smith",
+      "course": "STAT401",
+      "review": "Professor Smith focuses heavily on formulas, and the majority of class time was focused on proving or using formulas. This made his exams and final easy, because as long as you had the formula written down (he allowed one page of notes) then it was plug and chug to get the answers. \r\n\r\nHowever he assigned homework that was often too long and repetitive, so expect to spend 2+ hours a week solving the same problems but with different numbers. Also he refuses to use ELMS to post student grades, so prepare to be guessing at how well you are doing compared to other students.\r\n\r\nEasy A if you can put in the time and not get too frustrated at the homework.\r\n\r\n",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2019-12-23T20:55:01Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "STAT401",
+      "review": "Really cares about her students performing well. She will add extra credit and assignments to help students. Her lectures are easy to follow and follows the textbook well. Taking her again for STAT410.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2020-01-10T21:07:57Z"
+    },
+    {
+      "professor": "Susan Mazzullo",
+      "course": "STAT401",
+      "review": "Mazzullo is the first prof I've had that I think about and smile. The first that I'll actually miss when I graduate, even though we aren't buds or anything. She's just extremely, extremely nice, and sharp as a tack too. Any class she teaches will be easy, she will teach it well, and you'll have lots of opportunities for flexibility. Plus, it's clear what you have to know, and she will teach you all you have to know. \r\n\r\n",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2020-04-29T10:52:38Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "STAT401",
+      "review": "Very nice professor that cares about her students. Lectures were recorded and she would give an ELMS quiz after learning new chapter content in class. We also had weekly ELMS worksheets. It seems like a lot of assignments at first but she would go over the questions in lecture. Exams had the same topics as practice exams, was open book, and gave us all day to complete it. Would answer emails regarding questions fairly quickly and would not hesitate to help.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2020-12-28T20:15:56Z"
+    },
+    {
+      "professor": "Natalia Tchetcherina",
+      "course": "STAT401",
+      "review": "Natalia was a fine professor, and she recorded all of the zoom lectures which was helpful. There were daily classwork assignments at the start of the semester, which were graded pretty harshly, which I found frustrating. She also used WebAssign for homeworks, so there was always at least a bit of work. Tests were fair though, and if you got an A on the cumulative final you got an A no matter how you did before, which felt fair to me. ",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2021-01-04T00:11:52Z"
+    },
+    {
+      "professor": "Susan Mazzullo",
+      "course": "STAT401",
+      "review": "Professor Mazzullo is widely considered to be the best UMD undergraduate statistics professor. Having taken her class, I can say that that title is 100% earned.\r\n\r\nPros:\r\n+ Content is digestible and made extremely to understand. Prof Mazzullo is very good at explaining what could be very difficult and complex topics.\r\n+ Professor answers any question that anyone has, no matter how dumb a question may seem. This creates an extremely nurturing learning environment\r\n+ Easily the nicest professor I've had\r\n+ Exams are quite easy and fair\r\n+ Tons of opportunities for extra credit\r\n+ Teaches a ton of relevant skills for a variety of careers, such as Python, SAS, Excel, and Minitab, despite not explicitly needing to for this class.\r\nCons:\r\n- Only one I could think of was that the first midterm had a time crunch. However, it was still doable, and future exams did not suffer from this issue.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2021-05-20T22:51:01Z"
+    },
+    {
+      "professor": "Susan Mazzullo",
+      "course": "STAT401",
+      "review": "One of the greatest professors at UMD!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-05-23T23:13:15Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "STAT401",
+      "review": "Probably the most fair stat professor I've had so far. (after taking STAT400 twice). Highly recommend",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2021-12-17T21:53:37Z"
+    },
+    {
+      "professor": "Jonathan Fernandes",
+      "course": "STAT401",
+      "review": "I didn't like him at first because he taught with a heavy theory approach but after I hunkered down and developed some intuition for the content, the class became a lot easier. The exams were straightforward and most of the class did well. The R projects (25%) are free points, and he gives bonus points at the end depending on how the class curve is. He expects 80% of the class to get an A and from the looks of it, we did. I plan to take STAT401 with him later, so I recommend him. It's not an easy A but if you put in a fair amount of effort, you will succeed.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-05-25T01:13:28Z"
+    },
+    {
+      "professor": "Mestiyage Gunatilleka",
+      "course": "STAT401",
+      "review": "Haven't yet completed this course, but I can tell you this is the best stat professor in UMD. I took him for stat400 and now stat401 and the format for the class is set up for everyone to get an easy A or A+ in the class. He makes concepts easy to understand and all the averages for his midterms have been 90+. Everyone who is trashing this professor is in the lower level maths and complain. Take this professor for all your stat courses and you will get a free A.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-11-27T23:28:02.754536Z"
+    },
+    {
+      "professor": "Mestiyage Gunatilleka",
+      "course": "STAT401",
+      "review": "Pretty good STAT professor in UMD. His homework is not too challenging, he is very lenient in grading, and he tries to make lectures enjoyable.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-12-01T16:44:17.765954Z"
+    },
+    {
+      "professor": "Mestiyage Gunatilleka",
+      "course": "STAT401",
+      "review": "Great professor. Content is easy to understand from each lecture, homework are 5-6 questions each week, and midterms are easy. Would recommend this professor for stat courses.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-12-04T23:52:03.354935Z"
+    },
+    {
+      "professor": "Mestiyage Gunatilleka",
+      "course": "STAT401",
+      "review": "Very accommodating professor. I got some points off on my quizzes and explained my logic further and he gave the points back. Very lenient and understanding professor who truly wants you to succeed. Quizzes are free points, homework is bearable, and practice tests are literally identical to the real exams, hence why most of our exam scores were average around 91+",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-12-05T21:21:51.369706Z"
+    },
+    {
+      "professor": "Mestiyage Gunatilleka",
+      "course": "STAT401",
+      "review": "quizzes are easy, midterms are same as the review he puts out, homework is fine, but most boring lectures ever.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2022-12-12T00:47:59.744301Z"
+    },
+    {
+      "professor": "Hatice Sahinoglu",
+      "course": "STAT401",
+      "review": "lol, literally just follow along with the handouts she gives in class and turn in the homework on time. It's really that easy.\r\n\r\n1 star off bc her chalk board handwriting sucks",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2022-12-14T17:15:56.610645Z"
+    },
+    {
+      "professor": "Mestiyage Gunatilleka",
+      "course": "STAT401",
+      "review": "Very clear at explaining statistics concepts, quizzes and exams are pretty easy. Only downsides are that his lectures can be quite dry and coding projects are somewhat annoying to do.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2022-12-15T00:53:49.177496Z"
+    },
+    {
+      "professor": "Mestiyage Gunatilleka",
+      "course": "STAT401",
+      "review": "Truly a 4 star professor but his reviews are a bit crazy, so I want to raise his rating a bit higher. Like others have said, do the homework, review the practice exams, and you should be fine with this class. Coding projects are a bit annoying but they are not hard. Would recommend.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-12-16T16:31:28.556031Z"
+    },
+    {
+      "professor": "Mestiyage Gunatilleka",
+      "course": "STAT401",
+      "review": "Exams were literally the same as the practice exams, I think he was just lazy and did not care. Lectures were okay, you can tell he has a passion for statistics but still were a bit boring. Homework is very easy. Would recommend.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-12-16T16:32:48.754953Z"
+    },
+    {
+      "professor": "Mestiyage Gunatilleka",
+      "course": "STAT401",
+      "review": "Great professor, would recommend for anyone taking statistics, this is my third time taking a class with him and still getting an A",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-12-16T16:33:15.727642Z"
+    },
+    {
+      "professor": "Mestiyage Gunatilleka",
+      "course": "STAT401",
+      "review": "Finished all of his classes with A+, stat400, stat401, stat410, you may think I am a genius, but that is not the case, his class is designed for students to get an A. The homeworks are straight from the textbook which are easy, exams are LITERALLY the same as the practice, LITERALLY. He does not throw any curveballs in the class and genuinely loves teaching statistics. Sure he may not be a good calculus professor as previous reviews say, but all his statistics ratings are HIGH, he is truly the most fair and generous professor in the statistics department.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-12-19T21:26:02.032514Z"
+    },
+    {
+      "professor": "Natalia Tchetcherina",
+      "course": "STAT401",
+      "review": "It can be difficult to understand her because she is not a native English speaker, however, all the slides she provides are straightforward to follow. The homework and classwork can be tedious but for the most part, they are fair and follow the examples she does in class and I think they are good resources that allow you to teach yourself; personally, I taught myself mostly through the work given out. There were times that I felt that the content in class did not completely line up with the homework, but since the homework was WebAssign, it is pretty simple to just quickly read the relevant part of the book that allows you to complete the homework. Since attendance isn't mandatory, it is totally feasible to get a good grade simply by completing the given work and understanding that.\r\n\r\nAs for exams, I felt her practice exams gave you a good idea of what it would look like. There were some tricky parts and things you can easily lose points on (like not using the hat symbol), but for the most part, there were no \"gotcha\" questions. You are allowed to have a cheat sheet during the test and it becomes essentially a plug-and-chug if your notes are good.\r\n\r\nFor the final, if you get an A, you automatically get an A regardless of what you got previously. I think this is a fair policy that should apply to many classes. Her grading can be a bit picky for Classworks but she is willing to hear you out and give you back points here and there if it is reasonable. From my experience, she is one of the kindest teachers I have had and I would take her again. I feel like if you do all the work she gives, getting an A- for this class is guaranteed. I would take her in the future.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-12-21T23:30:00.140473Z"
+    },
+    {
+      "professor": "Mestiyage Gunatilleka",
+      "course": "STAT401",
+      "review": "Weekly quizzes to boost your grade, homeworks are easy, practice exams are identical to the exams, don't know what more you need to get a free a+",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-12-22T19:02:34.510789Z"
+    },
+    {
+      "professor": "Mestiyage Gunatilleka",
+      "course": "STAT401",
+      "review": "Easiest stat class of my life with this profesor",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-01-03T14:33:04.778826Z"
+    },
+    {
+      "professor": "Mestiyage Gunatilleka",
+      "course": "STAT401",
+      "review": "Great professor, easy ass exams that are identical to review",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-01-24T14:12:50.629521Z"
+    },
+    {
+      "professor": "Mestiyage Gunatilleka",
+      "course": "STAT401",
+      "review": "Very passionate professor and easy",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-01-31T00:47:21.643917Z"
+    },
+    {
+      "professor": "Mestiyage Gunatilleka",
+      "course": "STAT401",
+      "review": "This man is a GOAT. \r\nG - GREATEST AT LECTURING\r\nO - OVERALL EXAM GRADES WERE 90+ EACH ONE\r\nA -  ALL HOMEWORK IS SEARCHABLE ONLINE AND EXAMS ARE THE SAME AS PRACTICE\r\nT -  TEACHES LIKE HE ACTUALLY CARES",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-01-31T00:49:04.447154Z"
+    },
+    {
+      "professor": "Matthias Wellershoff",
+      "course": "STAT401",
+      "review": "Really good professor and very nice guy who just wants you to do well. His lectures and notes are very clear, and the exams are pretty much straightforward. If you go to lectures or even read the notes/textbook, you should be more than ready for them. Would highly recommend taking him for Stat401.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-04-26T16:31:36.509640Z"
+    },
+    {
+      "professor": "Matthias Wellershoff",
+      "course": "STAT401",
+      "review": "Nice Guy and great teacher. Clearly provides all the information you need from his lectures, and willing to provide his notes as well. The rhythm of the lectures was still a bit rough, but that's probably just because he is still a pretty new professor to UMD. Homeworks were helpful and exams were very fair. He is a great professor, highly recommend.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-05-03T18:24:30.605495Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "STAT401",
+      "review": "She is an amazing professor that cares about her students. Her lectures can be slow, but she does an amazing job at explaining concepts and makes sure everyone understands. She takes students' feedback seriously and will make sure the quizzes and assignments are reasonable. I would recommend people to go to class because sometimes she will literally give you the answers and hints for quizzes and assignments. Her exams are fair and I would recommend people to take her class! All the assignments are reasonable and fair!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-10T19:03:20.904271Z"
+    },
+    {
+      "professor": "Hatice Sahinoglu",
+      "course": "STAT401",
+      "review": "The lectures in this class focused heavily on proving why things worked, which was not really tested on so that was annoying. If you come to class consistently then the material isn't too bad and you should be able to do well. There was a curve for this class because most didn't do too well on the tests.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2023-05-15T17:50:16.282519Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "STAT401",
+      "review": "One of the best instructors at UMD. She is so kind and understanding and truly cares about her students performing well. She is also exceptionally responsive to student feedback which is rare. We had two exams and a final. Homework is reflective of lecture examples and exams are in turn reflective of the homework, quizzes, and practice exams. So basically, no surprises. Quizzes are timed usually 10 to 15 minutes for one or two short questions and based directly on the material taught in class, so I\u2019d highly recommend reviewing your lecture notes before attempting them. She also posts all her handwritten lecture notes on Canvas, which is super helpful, especially if you aren\u2019t the best notetaker. 10/10 would take again and recommend to anybody choosing between professors!!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-05-18T15:35:49.359868Z"
+    },
+    {
+      "professor": "Mestiyage Gunatilleka",
+      "course": "STAT401",
+      "review": "Great professor, tests are so easy",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-08-16T23:17:12.284408Z"
+    },
+    {
+      "professor": "Mestiyage Gunatilleka",
+      "course": "STAT401",
+      "review": "Exams are identical to the practice exam, like I literally mean it, they are just number swapped because he probably does not care about this class. Homework can be found exactly on chegg and the quizzes are literally super easy so long as you pay attention in class. R Projects are the only hard part about this class but then again if you do well on the exams, you will be safe for an A",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-08-22T04:54:02.667746Z"
+    },
+    {
+      "professor": "Mestiyage Gunatilleka",
+      "course": "STAT401",
+      "review": "Exams are identical to practice exam. You get a formula sheet. Homeworks are easy. This is literally STAT400 that he teaches but a little more deeper in knowledge. The first half of the course is just STAT400 review if you took it with him. Easy peasy.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-08-22T04:55:13.109564Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "STAT401",
+      "review": "As most other reviews say, she is extremely nice and helpful. I had friends taking STAT401 with other professors at the same time and it seems to be much more work with others. Quizzes and worksheets are almost entirely multiple choice with six VERY simple projects. We were allowed to choose the software we used but she said she will be switching to Minitab next semester for the projects to be more inline with her lower-level courses. Exams you have cheat sheets, so it is very low stress around exam time. Highly recommend her for STAT401.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-12-14T21:40:54.796730Z"
+    },
+    {
+      "professor": "Matthias Wellershoff",
+      "course": "STAT401",
+      "review": "The material is so easy that he looks for things to deduct points on for exams, and he doesn't grade homeworks the same way as exams even though it can literally be the same problems. You can't do problems your own way, you have to guess his contrived steps that are each worth 0.5 pts for each question. Getting all the right answers doesn't mean you get anywhere close to a good grade. I literally spend more time doing his steps than actually solving the questions.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2023-12-16T17:32:55.246898Z"
+    },
+    {
+      "professor": "Matthias Wellershoff",
+      "course": "STAT401",
+      "review": "Worst grading scheme of any class i\u2019ve taken, you can get all the right answers and still get a B because you didn\u2019t write it the specific way he wants you to. The expectations for the class are really ambiguous because you usually get a 100 on all the homeworks but exams are graded harshly. The content of the class is not too hard but you end up spending more time on figuring out the little details of the exact procedures he wants you to do than actually learning stats.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2023-12-16T17:34:38.922745Z"
+    },
+    {
+      "professor": "Mestiyage Gunatilleka",
+      "course": "STAT401",
+      "review": "Literally my favorite professor at this school and I've taken two different classes with him. He's so smart and you can genuinely tell he cares and puts a lot of time into the course, but at the same time he's so accommodating of students. He literally could not be nicer. He also teaches super well and is happy to clarify any concepts!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-19T20:13:24.078483Z"
+    },
+    {
+      "professor": "Mestiyage Gunatilleka",
+      "course": "STAT401",
+      "review": "DANUL IS THE MOST UNDERRATED PROFESSOR I HAVE EVER HAD!!!! If your put in effort, even if you are checked out for weeks, if you put in the effort you will get a good grade. He is intentional in helping students earn good grades and does everything possible to do that. He is also very well spoken, its not common to have a professor who communicates the instruction effectively while helping students get the grade they want. Must take him, you will never regret not taking him.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2023-12-20T05:16:37.308035Z"
+    },
+    {
+      "professor": "Jonathan Fernandes",
+      "course": "STAT401",
+      "review": "Jonathan is a nice guy. He curves quite a bit, and he is open to feedback. My only problem is his lecturing style, since I feel like he says a lot of nothing half the time, though to be fair there isn't much to teach in this course. The TA was very helpful as well. She made some of the more difficult HW problems much more manageable. Overall, the first half of the course in my opinion is harder than the second, but it was still pretty easy as long as you put in enough effort.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2023-12-20T18:27:20.617717Z"
+    },
+    {
+      "professor": "Jonathan Fernandes",
+      "course": "STAT401",
+      "review": "Stat400 and Stat401 have changed in difficulty with Jonathan. If you are reading the reviews about his practice exams being exactly the same as his actual exams, that is not the case anymore (for Stat401 at least). So if that is the reason why you want to take him, then it's not gonna fly in Stat401.\r\n\r\nHe is a really great professor though and the homeworks are done by the TA in discussion. I will say that the first part of the course up to midterm 1 will be a little daunting but once you get through all of that and really study the notes and do the homework, it will get better and you don't really have to worry that much about all the things in the beginning of the course once you get to Hypothesis testing, ANOVA, and Linear regression (Although if you didn't understand anything from the first part then you're gonna be lost on some topics that will be considered trivial by then). \r\n\r\nContent wise, this class was much more interesting than Stat400. I really enjoyed learning the content because it was really applicable whereas in Stat400 it was \"Here's a bunch of distributions and find the cdf\". I really didn't understand what a majority of the concepts and symbols in Stat400 were used for until taking Stat401 when that actually had to be used for something.\r\n\r\nHis exams sometimes have poor wording which is pretty stressful in a timed environment. However, if you study the notes and understand them and make a good note sheet for the exam, then you should be okay and you'll figure out what's being asked. If you are studying last minute and not putting time into this class thinking you can do the practice exam and be good then you're taking a big risk. There are conceptual questions on the exams that you'll only really know if you study the notes and pay attention to things he emphasizes in lecture. \r\n\r\nThe TA this semester was not very good so I ended up using ChatGPT as my personal TA who could answer a majority of my conceptual questions so I didn't have to deal with her. Also, argue points back on exams if you think the TA took points off for wrong reasons. Jonathan will give you the points back, especially when the answers that were marked wrong are word for word quotations from what he said in lecture.\r\n\r\nSo if you were ever wondering what the point of all these jargon terms like \"CDF, Chi-Square Distribution, Degrees of Freedom, etc.. \" are used for, you'll learn in Stat401. It'll show that Statistics is a pretty interesting field of study.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2023-12-21T03:37:53.237862Z"
+    },
+    {
+      "professor": "Mestiyage Gunatilleka",
+      "course": "STAT401",
+      "review": "very good statistics professor that knows what he's talking about and is passionate about statistics. he makes the class very manageable as well. There are weekly quizzes which are very easy. the exams are pretty fair and the final as well. just review his previous exams and final and you'll be fine. he also allows you to bring note sheets. the only reason I ended up with a B+ is because I started skipping class a lot. if you go to class it should be an easy A.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2024-01-03T18:45:05.515547Z"
+    },
+    {
+      "professor": "Jonathan Fernandes",
+      "course": "STAT401",
+      "review": "His class requires a lot of work, and the weekly quizzes that open and close on the same Friday were particularly inconvenient. His homeworks are the most difficult parts of his classes, so getting hints from discussion is important. His lecture style also was hard for me to follow, personally, and I found that skimming the textbook helped me grasp the content better than any of his notes. However, he did allow cheat sheets on his exams this semester, and doing well in his course was overall manageable as most of it was a matter of applying the correct formulas/hypothesis tests to the correct problems. As a person, he is nice and fair, and this class as a whole was rather tedious and full of busywork but not too demanding or difficult, so I would probably take him again if given the choice.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-01-06T00:16:26.165576Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "STAT401",
+      "review": "STAT401 with Dr. Khurana is one of the most organized and fair courses I have taken. She wishes her students to do well and during office hours, she tries her best to resolve problems and accommodates students as much as possible. The lectures are intuitive and well-planned, with the exams similar to lecture examples and practice exams. If you come to lectures you will do well in her class.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2024-01-24T16:49:19.296472Z"
+    },
+    {
+      "professor": "Jonathan Fernandes",
+      "course": "STAT401",
+      "review": "He doesn't explain the big topics very clearly sometimes, especially the derivations for type 2 errors. He wants to explain things intuitively, but sometimes, his explanations aren't very intuitive. And because of this, I don't have an as deep of an understanding on certain topics as I would like. I think the class could also benefit from more in-class concrete examples on how concepts are applied (we were taught concepts with no examples, which was very difficult for me), and it would also be helpful if he spent less time in the beginning of class reviewing what we did the prior class (it would occasionally take 18 minutes out of the 50 minute class). But some of the positives to his class are that he lets us have cheat sheets during exams which are extremely helpful because I think memorizing all the formulas is trivial, he records all of the lectures which is tremendously helpful, and Fernandes is also the nicest guy who genuinely cares that his students and he emphasizes prioritizing learning over grades. He also tells occasion stories that I find interesting and he also connects to you on a deeper human level occasionally when he talks about the privileges of education that we have and how we shouldn't take it for granted. I have a lot of respect for him as a person and as a teacher, but there are some aspects of the class that he could improve on while continuing to teach this class.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-01-29T18:49:01.046081Z"
+    },
+    {
+      "professor": "Mestiyage Gunatilleka",
+      "course": "STAT401",
+      "review": "Nice! Easy class, didn't turn in an R project and still got an A-.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2024-02-14T01:46:05.552079Z"
+    },
+    {
+      "professor": "Jonathan DeWitt",
+      "course": "STAT401",
+      "review": "Great teacher. For lectures, he basically reads off of the textbook, however, if you ask questions, he will give you great answers. He knows what he's talking about and is interesting to listen to. Sometimes he tells stories or goes on tangents, but they're interesting and I don't feel like they detract from the learning experience. \r\n\r\nAs for the class itself, it was easy. It's mostly about various hypothesis tests, so the content is very similar between units. You're allowed a cheat sheet on the midterms and final, and if you take 2 hours or so to go over the 8ish units from the textbook per midterm and write down all the important equations and context (in addition to having done the homework), you will do well. The homework was also easy, consisting of 2 questions with an optional 3rd, and they resemble the problems given as examples for units in the textbook.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-03T15:35:04.356646Z"
+    },
+    {
+      "professor": "Jonathan DeWitt",
+      "course": "STAT401",
+      "review": "Genuinly good prof. Young but knows what he's talking about and clearly passionate abt what he's doing. Weekly hws (1 dropped). 25% grade is hws, then 75% is 3 exams (25% each). You get a sheet of paper double-sided for the first 2 exams, and 2 pieces for the final. Exams are fair. Enjoyable class",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2024-05-13T17:41:30.107285Z"
+    },
+    {
+      "professor": "Francesco Gaffi",
+      "course": "STAT401",
+      "review": "He's a very sweet guy, but he really doesn't do a good job at transitioning students from stat 400 to stat 401. Lectures will go very fast usually, and these lectures would be very theory heavy, lacking examples, and wouldn't feel relevant to the HW/exam questions he'd give out. Most people did well in this class, but for me I really needed a clear idea of what he was basing his questions on, so I ended up struggling a lot in the beginning. Exams were very similar to the practice exams he'd give out, they were made basically so that if you can understand what to do in the practice exam you'd be fine for the real one. HWs were very hard, he included a famous proof once on there for us to do. You should treat this class more like an easy 400 level math class, a lot of theory is involved and the conceptuality of stat is kinda left behind from stat 400.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2024-05-17T04:35:06.928524Z"
+    },
+    {
+      "professor": "Matthias Wellershoff",
+      "course": "STAT401",
+      "review": "Very kind teacher and really understanding IMO. Our class was originally 5% project, 11% homework, 28% on exams (3) but format was changed after exam 1 scores were low \u2013 ended up doing 20%, 28%, 36% for exam scores as a \"curve\". Exams were similar to practice exams and problems done in class, and fair. Also, instead of the 90/93/97 A-/A/A+ grading scheme Wellershoff used a 85/90/95 A-/A/A+ grading scheme.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2024-05-18T19:20:54.005533Z"
+    },
+    {
+      "professor": "Matthias Wellershoff",
+      "course": "STAT401",
+      "review": "I thought he was a good professor for STAT401. The class was weighted super heavily on exams (84% of our grade was determined by 3 exams). However, I thought the exams were fair for the most part, and the final wasn't cumulative which was nice. There was a super low workload in terms of homework and other stuff. There is a weekly homework with two problems on it. There was also a pretty easy coding assignment at the end of the semester. I thought the lectures were pretty informative and well-structured. Overall, I would definitely recommend taking Dr. Wellershoff for STAT 401.",
+      "rating": 5,
+      "expected_grade": "B-",
+      "created": "2024-05-19T03:49:01.591389Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "STAT401",
+      "review": "She is a great professor and really cares about her students. Her lecture notes are great, exams are fair, and she gives good practice material. The only reason I did not get an A- in this class is because of the daily homework. My learning style and general preference in classes are ones that are exam heavy and don't give busy work as I generally forget to do a lot of the hw. I can't blame archana for this but if you are anything like me, maybe reconsider because you will end up losing 3-4% from your final grade if you are bad about remembering to do daily hws. If you are more organized and less forgetful than me then take her 100% because she's great.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2024-05-22T16:17:03.415907Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "STAT401",
+      "review": "Dr. Khurana was a great for STAT401. This course involves several take-home quizzes, worksheets and 6 projects along with 2 midterms and a final exam. You are allowed cheat sheets for all of the exams and the lowest grade in each assignment category is dropped.\r\nPros:\r\n- Good instruction: Dr. Khurana provided a great balance between teaching the course content and doing examples. I was always pretty clear on the steps involved for each type of problem. Additionally, she posted her supplementary notes online.\r\n- Well-prepared with HW: The worksheets had problems that were similar to those in class, and the quizzes had more conceptual concepts. Together, they were great for understanding the course material and preparing for exams.\r\n- Fair exams: The exams were always comprised of problems similar to practice exams, worksheets, and those we did in class. As long as you had all the required formulas on your sheets you should be set to do well on them.\r\n- Nice person: She tried to get to know most of the people in the class and was always striving to be helpful and fair. \r\nCons:\r\n- Her teaching style relies heavily on interaction with the class. For example, she will occasionally ask the class which notation goes in an equation, what value in the Z table we should look for, etc. It can be a little awkward if the class doesn't know or if you prefer lecturers that just go on nonstop for an hour. Otherwise, this is not really a problem at all, just something to note.\r\n\r\nOverall, this class was interesting and fair throughout the whole semester. I would highly recommend STAT401 with Dr. Khurana.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-27T03:54:30.133886Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "STAT401",
+      "review": "great professor - super kind and nice and willing to accommodate - there are daily quizzes and worksheets weekly which you need to stay on top of but beyond that everything is VERY fair. \r\n\r\nshe's also really funny and good at teaching things. HEAVY recommend to take archana for stat401.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-10-12T19:18:27.102100Z"
+    },
+    {
+      "professor": "Francesco Gaffi",
+      "course": "STAT401",
+      "review": "I honestly loved this class. I cant recommend this professor enough. He cares about this students a lot and really wants them to succeed. Honestly my favorite stat class I took here.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-11-04T17:32:30.764834Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "STAT401",
+      "review": "This class is actually interesting. She uploads all the notes on Elms and comes to class with raw notes on her iPad that include both explanations and questions. She works through the questions, clarifying the concepts as she goes. You can learn the material and earn a good grade without attending class, but I highly recommend going to class. It will help you better understand the notations and concepts, as it could be confusing otherwise. There are plenty of assignments\u20146 projects, 20 quizzes, and 16 worksheets\u2014but they don\u2019t take much time. Quizzes are quick (around 10 minutes), and worksheets take about 30 minutes. The exams are fair with no questions outside the material covered. She provides 2-3 sample exams to help prepare. Overall, she\u2019s a great professor, and if you\u2019re looking to really learn, definitely take her class.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-19T05:56:46.180879Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "STAT401",
+      "review": "As others have said, Archana is a very very kind person (regardless of what you think about her teaching). She tries to get to know every student in class, especially those who go to lecture and remain active in office hours. \r\n\r\nShe has lectures which are pretty well organized. She first explains some of the theoretical concepts, and then does some textbook problems on the board or on chalk. She has this raw and updated lecture note system which you'll learn more about if you take her course that is pretty helpful for some (for me, I never had the time to look at the notes before most lectures in the first place and didn't have an iPad so it wasn't particularly remarkable). If you don't use an IPad to take notes, definitely go to her office prior to class to get print-outs of the notes so you can have some of the notes already there that way you won't have to write problems or long theorems that she won't spend more than 2-3 minutes on by hand. \r\n\r\nRegarding her teaching, I will say there are times where it feels like she doesn't know the topic in depth (especially in stats). For example, she struggled to explain Bessel's correction for sample standard deviation the first time it was taught in class. This doesn't interfere to teach what she thinks is necessary for the course and exams, but it gives off a murky vibe if you're interested in going a bit more beyond surface depth of what's taught in the course and if that interest comes out in the form of asking more complicated questions in class, especially for some of the things in the hypothesis-test section of the course.\r\n\r\nThere are typically quizzes and worksheets in the class that are done on ELMS/Canvas every lecture or so with some being graded and others being for practice. Archana tends to be lenient about this but it can be a pain in the ass to do sometimes, especially because (this is a me thing specifically), I would get lazy and just use GPT or some other thing to do them instead of doing them by hand. There are also projects in the course, but I also used GPT on those. While they give real world applications to what is being taught in the class, they're really just extra work that doesn't correlate with the exams and some of the material we need to know so a lot of people would do the least amount of work possible for them.\r\n\r\nNow, it is also worth mentioning, I do fundamentally dislike the curriculum for the course. It is pretty much ALL performing hypothesis tests, which are rarely performed anymore by hand (yay for computers). So, you end up getting an extremely in-depth introduction to how to use various hypothesis tests to understand and analyze different data trends, but a lot of this information is useless in modern day statistics simply because machines can do a lot of it for us. While she strived to give a big picture analysis of how to use the techniques (something that would last a lot longer than the individual mathematical techniques we learned to perform each of the tests in the class), I will say that the impression I got was that the class was simply focussed on performing many of these tests by hand and not taking a set of data and deciding what to do with it in order to determine the trends.\r\n\r\nI would have preferred if we maybe cut the time we spent on discussing how to compute various sources of error, and strict computations of the different hypothesis tests (during the course, you will study one-sample and two-sample z-tests for means and proportion, t-tests for means, confidence intervals, power and error in various tests, anova tests, chi-squared error of tests, error of linear regression with normal residuals, and using the central limit theorem to discuss normal random variables or random variables that converge to the normal distribution), and instead discussed how to decide which statistical tests to use for a given set of data, and how to run such experiments: for example, \"how would you go about setting a statistical procedure to get data for determining whether this new feature increases user engagement on a site?\". Learning a bit more about sampling (just an introduction), deciding how to filter data, and then picking the hypothesis test and describing the procedure, would have probably been more helpful for your average person who might go into a stats/data-science field in their life at this point of time with technology.\r\n\r\nThis all being said, this is a very very common thing among all STAT401 courses and I suspect this is more of a departmental curriculum thing than it is Archana's fault. Thus, I will not take this out on her rating. BUT, if you're a student, be prepared that the class is heavily computation-focussed, and you will have to learn how to apply some of the techniques to broad data on your own, or in other CMSC/STAT classless such as STAT440, CMSC320, CMSC471, etc\r\n\r\nThe last thing that is worth mentioning about Archana is that, especially in my semester, she sometimes did call people out in class. If you weren't paying attention, she would probably ask \"why weren't you paying attention\" or something in a kind way (not aggressive at all and you can definitely say \"I don't know\"). During exams, she would sometimes say how specific individuals did -- let's suppose there is a student named \"Arnav\" in the class, she might say something like \"Arnav, you didn't get that topic on the exam, why did you not get it? Did you not prepare and do the practice problems? Were you not slow enough on the exam?\"... things like that can sometimes be huge turn-offs for those who really respect their privacy on exams. She is NEVER doing this out of malice however, and you will notice that even if she does it, she's doing it in a respectful and encouraging way trying to uplift and encourage students to put more time and effort in the course. Just something worth noting for shy students.\r\n\r\nOverall, Archana is a very kind person, and you should definitely get to know her regardless of your interest, performance, and participation in the class by going to her office hours and simply showing up at every lecture and striving to sit in the front and remain somewhat engaged. Her accent is absolutely fine and easy to understand, and you're going to learn a lot in the course.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-20T18:55:06.957372Z"
+    },
+    {
+      "professor": "Jonathan Fernandes",
+      "course": "STAT401",
+      "review": "He is a solid professor overall. He records all of his lectures and explains concepts pretty well. Honestly the recordings are more useful than the lecture itself since he lectures pretty slow and it doesn't fit my style. There were quizzes every week but they were easy and doable. The homeworks were also good and some of them were time consuming but the others were fine and pretty easy. He gives study guides before the test and if you practice the questions in them that is 80% of the test and you should be fine with the exams. Even without them the exams are straightforward and if you know the material you should be fine. Sometimes he is unreachable or does not update the material or communicate on time but overall he is pretty good.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-12-22T02:04:20.791084Z"
+    },
+    {
+      "professor": "Anurag Dey",
+      "course": "STAT401",
+      "review": "Imma keep it real. Dey is one of the easiest professors you will ever have just because he doesn't teach any material and his exams are literally copy pasted from the homework. Not only is the exam the exact same as the homework, he lets you bring in a notes sheet (size of a normal piece paper) with anything you want on it. I had him Spring2025 so I don't know if he will change at all after this semester, but out of all of our classes, he has probably shown up on time to 5% of them. He's consistently 5-30 minutes late for a 50-minute lecture, and most of the time he doesn't even tell the class. Up to this point he has probably not showed up to class 5 times, just making us all sit there waiting. On top of not showing up, he cancels class pretty easily such as 'Oh I have a bad headache so class is canceled'.\r\n\r\nWe were supposed to have two midterms. However, before midterm 2 was supposed to happen, he canceled the entire curriculum and divided the class into groups, saying, 'Since you guys are doing so well in my class, I'm just going to stop lecturing, and you guys can make a project and learn some things yourselves.' LIKE BRUH. And after he makes this change he's MIA for up to three days so we can't even ask him questions about what is happening and what he wants us to do. I was gonna save this review for after the semester was over, but today he scheduled an appointment during his class time and didn't tell his students so we all just sat there AGAIN for 30-40 minutes, and then had the audacity to say he was in his office in an email he sent during his scheduled class period. How is this man even real T^T.\r\n\r\nOn the bright side, his class is really easy and his A grade cut-off is an 85% so you'll be chilling. But if you actually want to learn some statistics and not have your tuition wasted on a professor who doesn't show up, you should choose someone else. He does respond to emails pretty fast tho, even if it is after work hours. This was also probably his second semester teaching so he might make some drastic changes in his teaching style. idk. If you have him good luck o7.",
+      "rating": 1,
+      "expected_grade": "A+",
+      "created": "2025-04-09T16:30:31.254738Z"
+    },
+    {
+      "professor": "Anurag Dey",
+      "course": "STAT401",
+      "review": "The other review is pretty much on point. The only thing I'd add is that he has the best handwriting I have ever seen from a stat professor at umd, which really helps when he is lecturing (which is a rare occurrence later in the semester). He also moved our final up by 2 weeks, and then moved it back again a few days before the final was supposed to happen.",
+      "rating": 2,
+      "expected_grade": "A+",
+      "created": "2025-04-28T16:40:05.742413Z"
+    },
+    {
+      "professor": "Anurag Dey",
+      "course": "STAT401",
+      "review": "good teacher, while he cancels a lot of class, i think its because he genuinely isn't feeling well, the class isn't very hard and i think most people are doing fine, i honestly didnt go to class at all, and was able to self study right before the test, also for those who care, i think the material he teaches is interesting, i see it showing up in a lot of stats research outside of class so its p applicable, id def recommend him, nice guy and easy class, also the one star review person is insane, anurag is lowk best teacher ive had here",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-04-28T21:58:31.485345Z"
+    },
+    {
+      "professor": "Anurag Dey",
+      "course": "STAT401",
+      "review": "He does not teach, so it's a waste of your tuition money to choose him (especially if you need this course as a prerequisite). He barely got past STAT400 content before he decided to stop lecturing and give us a \"group project\" to work on, which was just an excuse for him to skip the scheduled lecture time more than he already did. Have not gone to that class more than once a week since the middle of the semester.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2025-05-06T04:17:23.764494Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "STAT401",
+      "review": "Her lectures, assignments, and exams are always straightforward and fair. She always mentions what she looks for in your answers and is very clear and consistent in everything. She\u2019s super helpful, sweet, and genuinely wants you to pass. \r\n\r\npros: provides past exams that generally reflect the structure of the next exam, communicative, helpful and flexible, short easy quizzes and assignments that directly reflect what was learned in lecture\r\n\r\ncons: spends some time on formula proofs (which you don\u2019t need to know), but this is a pro if you are someone who doesn\u2019t just accept formulas \u201cas they are\u201d and want to learn more!\r\n\r\nalso someone get her a bigger board to write on lol!!!!!!",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-05-13T03:31:23.798543Z"
+    },
+    {
+      "professor": "Anurag Dey",
+      "course": "STAT401",
+      "review": "I have mixed feelings on this. The class started out fairly normally, and although he probably cancelled about one in five classes (and was often about 10-15 minutes late to the ones he attended), there wasn't much to write home about. The first midterm was very easy, which everyone was excited about. After that, the wheels fell off. He went from cancelling class once every other week to showing up once every other week. He suggested he was going through some health problems, which I do understand, but he still had obligations to us. About 3 weeks after the midterm, we were getting set to take our second midterm, and he dropped a bombshell on us: He was completely changing the structure of the class. There would be no midterm 2, there would be no new instruction, no more homework, basically, no future assignments.. Instead the class was split into 6 groups with a vague assignment which basically amounted to \"Work with your group on some sort of Statistics thing\". Nothing would be turned in, and each group would meet with him to discuss every third lecture. He was still no-showing around 75% of the time. No group really did much with this. Nothing was turned in, and our professor was very rarely even there to discuss our research with. Several times people reported going to his classroom during class times and no one being there, no students, no Professor Dey. He pretty much didn't even announce it anymore.\r\n\r\nLong-story short, he really didn't teach for the 2nd half of the semester. The Mid-term and final were both easy (directly off the homework), and the cutoff for an A was 85%. Most students will get an A, which is nice, I suppose. But as a professor, he simply did not really do his job.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2025-05-17T18:02:32.970225Z"
+    },
+    {
+      "professor": "Fushuai Jiang",
+      "course": "STAT401",
+      "review": "decent at explaining stuff, fair exams (median of 83/84 on the two midterms), final was a bit cooked (64% median), but he gave 5% extra credit to do some free summaries of some stat articles (literally 5% added to ur grade) and the cutoff for an A was a 90 so it's a pretty free class and i actually learned stuff cuz he's a decent lecturer. also uploads his slides and records lectures.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-05-20T18:14:55.638337Z"
+    },
+    {
+      "professor": "Mestiyage Gunatilleka",
+      "course": "STAT401",
+      "review": "As a stats newbie, I loved STAT401 with Danul! His class is super organized, covering hypothesis tests, ANOVA, linear regression, and more at a perfect pace. Danul's notes are crystal clear, and he's a chill grader who gives homework extensions and cares about your success. Some tricky concepts could use clearer explanations, but stats is tough, so I get it. If you're at UMD, take his class! Pro tip: bring snacks to office hours. Danul's a snack king and he will be extremely grateful. Highly\u00a0recommend!",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2025-05-20T21:59:00.433825Z"
+    },
+    {
+      "professor": "Francesco Gaffi",
+      "course": "STAT401",
+      "review": "Absolutely amazing professor, the other reviews basically sum everything up. I liked how he taught the course in a more theoretical way as it made the content very interesting. I would say the overall content and questions can be pretty difficult, but his class is designed to where as long as you are putting your best foot forward and learning from the class, you will definitely do well. Overall I had a fantastic experience in STAT401 with Professor Gaffi and I hope to take other classes with him if he decides to teach them! Definitely take him if you can",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-05-21T01:46:07.205070Z"
+    },
+    {
+      "professor": "Mestiyage Gunatilleka",
+      "course": "STAT401",
+      "review": "A goated professor who cares about students success and is very helpful. He is very lenient with grading and has fair exams but be sure to study as things could get tricky. \r\n\r\nPROS:\r\n1) Good grading\r\n2) Nice professor\r\n3) Small class\r\n\r\nCONS:\r\n1) Not recored lecture\r\n2) Somewhat theoretical at some points\r\n\r\nI call him MDDKG and he is one mountain goat",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-05-24T04:14:28.714600Z"
+    },
+    {
+      "professor": "Anurag Dey",
+      "course": "STAT401",
+      "review": "Easiest A of my life, but also the most frustratingly pointless class I have ever taken. Do not take Anurag Dey, especially for a course you want to use as a prerequisite for future courses.",
+      "rating": 1,
+      "expected_grade": "A+",
+      "created": "2025-05-25T17:48:38.892320Z"
+    },
+    {
+      "professor": "Anurag Dey",
+      "course": "STAT401",
+      "review": "bros the goat, easy class. easy A. thank god I took him. if he keeps this up, he's the obvious choice for 401. it's a basic requirement anyway, so the shortfalls of his class don't really matter. take Anurag, keep your sanity.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-05-26T21:20:30.355747Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "STAT401",
+      "review": "Dr. Khurana is a wonderful professor. Her selection of topics for the class is thorough and encompasses what I hoped to learn in a Statistics 2 class. She provides notes for every topic that are detailed, organized, and easy to refer to. I found her lectures and explanations to be very helpful. I frequently saw her in office hours, and often times asked questions outside the scope of the class, and she was always able to help me. She is very patient and truly wants each of her students to succeed. No matter the class or student, I have seen her sit down with students very patiently in office hours and explain a concept to them until they get it. Like any math class, they key to success is practice - and she provides an abundance of practice problems in the form of worksheets, quizzes, and old exams. I do think the class could benefit from being just slightly more theory-heavy - thought this is a change she has already expressed interest in making.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-05-27T14:43:08.842908Z"
+    },
+    {
+      "professor": "Mestiyage Gunatilleka",
+      "course": "STAT401",
+      "review": "TL;DR: Lectures can feel a bit slow or boring at times, but he genuinley cares about his students and is good and explaining things slowly\r\n\r\nPros:\r\n - Exams were very very similar to practice exams\r\n - Homeworks were a little tough, but doable\r\n - quizzes were either once a week or once every two weeks depending on how he was feeling. Usually similar to an example in class though, so they weren't bad if you showed up to class.\r\n - Genuinely great at explaining things starting from the basics and working up\r\n - Works almost 1:1 from the textbook, so even if you miss class, you can read the textbook to catch up.\r\n\r\nCons: \r\n - Lectures can be kinda boring as he is a little monotone and lecutres can move slow a lot of the time.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-08-27T00:23:06.879087Z"
+    },
+    {
+      "professor": "Fushuai Jiang",
+      "course": "STAT401",
+      "review": "Great professor, does not deserve his rating, had great slides and taught extremely well. As long as you do your HW and complete practice, you will be beyond fine for this class. Taught me better stat than any other professor I have had. Take him, do not believe the bad ratings.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-09-16T01:21:49.441889Z"
+    },
+    {
+      "professor": "Kyeongwon Lee",
+      "course": "STAT401",
+      "review": "I'm not sure what's going on in this class anymore. The STAT department needs to do something about its courses and professors. First there's the nightmare with Dr. Zheng's STAT400 class and Dr. Williams teaching STAT410 in the most brutal way, then there's this. Dr. Lee does not seem to go over the concepts effectively at all, instead redirecting us to his practice worksheets whose answers are typically not gone over. This makes doing them a waste of time as we can't even check our solutions to see where we went wrong.\r\n\r\nThe quizzes in this class also have abysmal averages (two quizzes didn't even get a PASSING mean, with one being under 50%). This shows how unprepared many of us feel, even though the quizzes were pulled directly from the practice worksheets. The funny part? ALMOST NOTHING from the lectures shows up in the worksheets, lecture is all PowerPoint slides with conceptual stuff but the discussion is entirely applications of these concepts, which wasn't taught very well.\r\n\r\nThe professor also seems to be very static with learning and doesn't seem to change things up very well. Our midterm review was literally just the professor going back through the very first set of slides and jumping through things, rather than doing practice problems that would be useful for the exam. Recently, we have also had a sub instructor cover the class, and the sub literally went BACK TO THE START of a 90-ish slide PowerPoint that we were MIDWAY through, jumping through slides very quickly. The class GroupMe had also freaked out several times when there were quizzes because everyone felt so unprepared.\r\n\r\nI hope there's a curve in this class. If so, I'll reconsider my current rating.",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2025-11-03T00:52:23.021958Z"
+    },
+    {
+      "professor": "Mestiyage Gunatilleka",
+      "course": "STAT401",
+      "review": "The absolute goat. Explains material so well. Records all lectures. Exams are super fair. Homeworks are long but still fair. Take STAT401 with no one else but the legend Danul.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-11-12T18:42:24.818614Z"
+    },
+    {
+      "professor": "Kyeongwon Lee",
+      "course": "STAT401",
+      "review": "This course was kind of rocky at first but if you do the practice problems and have all of the important formulas written down on a formula sheet that you are allowed to bring into the exam you will be fine.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-12T03:18:31.040293Z"
+    },
+    {
+      "professor": "Kyeongwon Lee",
+      "course": "STAT401",
+      "review": "KYEONGWON LEE: Kind and understanding instructor who is able to address student concerns. There is more to be done to better this course, since it seems he is relatively new to the university, but it wasn\u2019t bad towards the end. Things just got better.\r\n\r\nLECTURES (Rating: 4/5): Lectures are primarily based off of PowerPoint slides. This isn\u2019t the professor\u2019s fault but mainly that of the statistics department. It would have been more appreciated to have a curriculum where we have some practice in lectures. This eventually changed towards the end when we sent him emails. See the \u201cHomework\u201d section for more details about the R sessions, which were held occasionally.\r\n\r\nDISCUSSIONS (Rating: 4/5): It would\u2019ve been nice to have two discussions for this class. We go over a practice worksheet and then head into a quiz (we leave early afterwards). The quizzes should only take 15 minutes, so it would\u2019ve been more ideal to have the extra 5 minutes to go over worksheet problems.\r\n\r\nHOMEWORK (Rating: 2.5/5): There was only really one homework assignment for the course - an R Project that was worth 10% of our grade. The R Sessions that were intended to prepare us for this project did not help much, and it was not fun having to learn an entire programming language from scratch just for this project (I am new to R). I HIGHLY RECOMMEND TAKING DATA 110 AS A CO-REQUISITE IF YOU TAKE THIS COURSE.\r\n\r\nQUIZZES (Rating: 3.5/5): Quizzes were meh. They were given weekly in discussion and were based off of the practice problems. The class group chat panicked at first because of how unprepared the class felt for the quizzes. But eventually the averages got better over time and even I was shocked at how good I was doing. Because some quiz means were so low he plans to drop the lowest score.\r\n\r\nEXAMS (Rating: 5/5): The exams were not bad, I\u2019m just dumb. (I also have neither the dorm nor the time to study.) Dr. Lee allows you to bring a formula sheet in for the exam. One side of a sheet for the midterm, and the whole sheet for the final. Oh, and did I forget to mention there\u2019s extra credit?\r\n\r\nOVERALL RATING: 3.8/5\r\n\r\nStructure for Fall 2025\r\n- R Project (10%)\r\n- Quizzes (30%; weekly, lowest dropped - we had nine)\r\n- Midterm Exam (25%)\r\n- Final Exam (35%)",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-12-12T04:21:09.918661Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "STAT401",
+      "review": "Archana Khurana is a very solid professor. A very fair person (too fair) makes the classes a breeze. Cannot complain. Also seems to be a nice person. Will recommend any class taught by the goat.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-19T05:21:13.507477Z"
+    },
+    {
+      "professor": "Kyeongwon Lee",
+      "course": "STAT401",
+      "review": "I would give negative stars if I could. His rating is not accurate because someone gave 5 stars to inflate the rating.  No structure at all in the course, his slides were terrible and the practice problems he gave never correlated with what we were learning so we had no idea how to do them.  The one weekly quiz was awful, usually had nothing to do with lecture material.  The quiz averages were usually failing grades. No hw so we had no practice.  Exams were insanely hard but he pulls the problems from the worksheet so I would just copy them on the cheatsheet.  The TA never let me take my makeup quiz because he responded too late.  If you are a cs major, Kyeongwon Lee is the alternate stat version of Kruskal (not as bad tho).  He would tell us class would be online and then at almost midnight say we have an in-person quiz in the morning.  I decided to finally attend his online lecture and he had a cat-memoji filter on so I instantly left. For a class thats not notoriously hard at all, this was terrible. I'm leaving this course with no new knowledge of stats.  This class was more of a pain then any 400-level math course I've taken at the school.  Don't take any class with him.  Only upside is that he is a nice person. Not worth it. BE ADVISED.",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2025-12-30T20:43:49.466771Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "STAT401",
+      "review": "Dr. Khurana has to be the best math professor I've had so far! She's so kind and understanding, and ensures that all students have every resource possible to learn and succeed in her class. During lecture, she has a kind of \"base\" for her notes, which she works through with examples and more notes. She then posts these \"updated\" notes on canvas. These notes have everything you need to know about every topic, so if you miss something in class, you could just check on her notes and be up-to-date again. The exams are really similar to the class examples and practice exams, so as long as you review, you'll do well on them! She also took lots of student feedback throughout the course, such as when to hold in-class quizzes and whether she should hold a review session, which I appreciated a lot. I genuinely think that she sets up every student to succeed, and as long as you use the provided resources, you could do well in this course.\r\n\r\nMy only feedback is that I wish there were more direction on the coding assignments, since some students may not have experience with coding, Python, or R, and we were only given the problems without any directions on how we should actually write the code. If you do have even a little coding experience, though, the projects are very straightforward.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2026-01-01T20:28:03.888333Z"
+    },
+    {
+      "professor": "Kyeongwon Lee",
+      "course": "STAT401",
+      "review": "This professor is nice and caring but that is literally it. I don't even know where to start with this. Lectures are useless, everything he goes over he posts on Canvas, but even then lecture is just a huge information dump without actually being able to apply it. Then we get right into discussion where we have a quiz nearly every week on topics that we had not properly gone over in lecture. There is no review, only going over the slides again and acting like that is enough. I will say that this course does not have much work. There is a single project at the end of the semester and that is it. No homework or assignments other than quizzes, midterm, and final. We are given a practice worksheet for each unit and typically quiz problems are chosen from there but most of the time it is curveball questions that do not test us properly. Having midterm and quiz grades be at an average of a 50 is atrocious, and this professor does nothing well with explaining the content. I have no idea who the STAT department is choosing to teach but they have to do better.",
+      "rating": 1,
+      "expected_grade": "A+",
+      "created": "2026-01-05T17:46:31.124164Z"
+    },
+    {
+      "professor": "Archana Khurana",
+      "course": "STAT401",
+      "review": "Best STAT401 professor!!! She is the nicest professor I've had at UMD and she is very good at explaining all of the topics and has very good notes. All of the exams were very straightforward and similar to the practice exams. The coding projects are also not hard at all and takes less than an hour for each one. There are weekly worksheets but they are similar to the problems she does in lecture so they're not difficult. The quizzes were mostly easy, maybe a few that were hard but she did drop 2 of them so it didn't matter too much. She always asks us for feedback and listens to us (for example, she gave us an extra attempt on a quiz because a lot of people were struggling). She also gives extra credit for participation which was very nice and an extra credit quiz during the final discussion.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2026-01-24T23:53:41.673352Z"
+    },
+    {
+      "professor": "Mestiyage Gunatilleka",
+      "course": "STAT401",
+      "review": "Doesn't make the course any harder than it has to be, and I still feel like I learned everything I needed to.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2026-03-20T19:08:49.250018Z"
+    },
+    {
+      "professor": "Hatice Sahinoglu",
+      "course": "STAT401",
+      "review": "Very hard exams, goes way too in depth of theory in class, exams will be unnecessarily long and include content not even taught in class just to prove we can think outside of what's taught, exam prep is lacking, very disorganized on canvas. avoid if you can",
+      "rating": 2,
+      "expected_grade": "C-",
+      "created": "2026-04-17T19:54:52.306278Z"
+    }
+  ],
+  "department": "STAT",
+  "course_number": "401",
+  "name": "STAT401",
+  "title": "Applied Probability and Statistics II",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> 1 course with a minimum grade of C- from (STAT400, STAT410).\n<b>Additional information:</b> Not acceptable toward graduate degrees in MATH/STAT/AMSC.\nPoint estimation - unbiased and consistent estimators. Interval estimation. Minimum variance and maximum likelihood estimators. Testing of hypotheses. Regression, correlation and analysis of variance. Sampling distributions. Elements of non-parametric methods.",
+  "is_recent": true,
+  "geneds": null
+}

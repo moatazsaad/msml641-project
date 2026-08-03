@@ -1,0 +1,807 @@
+{
+  "average_gpa": 3.2133622918605855,
+  "professors": [
+    "John Buchner",
+    "David Rollins",
+    "Keith Lampel",
+    "Kevin McIver",
+    "Daniel Dwyer",
+    "Eric Hall",
+    "Erin Tran",
+    "Erin Tran",
+    "John Buchner",
+    "Erin Tran",
+    "John Buchner",
+    "Erin Tran",
+    "John Buchner",
+    "Erin Tran",
+    "Cherisse Hall",
+    "Erin Tran",
+    "Erin Tran",
+    "John Buchner",
+    "Cherisse Hall",
+    "Cherisse Hall",
+    "Elizabeth Emmert",
+    "Erin Tran",
+    "John Buchner",
+    "Cherisse Hall",
+    "Erin Tran",
+    "Cherisse Hall",
+    "John Buchner",
+    "Erin Tran",
+    "Cherisse Hall",
+    "Erin Tran",
+    "Cherisse Hall",
+    "John Buchner"
+  ],
+  "reviews": [
+    {
+      "professor": "Richard Stewart",
+      "course": "BSCI223",
+      "review": "This class was very easy. Although his lectures are boring and he tends to try very hard to make lectures exciting, they don't really make students want to stay in class. You must go to lecture 20 times at least to get the clicker points. \n\r\nOverall, Stewart is a very good teacher if you listen to what he says. He wants his students to pass so utilize his weekly study questions. If you answer these you will be prepared for the tests. \n\r\nAnother great thing Stewart does is posts the final question to each test and a sample test for every test. With these and Koofers tests (which were exactly the same tests we were given this year) it is impossible to not get an A. \n\r\nGood luck in Micro!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2010-12-25T17:35:00Z"
+    },
+    {
+      "professor": "Richard Stewart",
+      "course": "BSCI223",
+      "review": "Not a very engaging lecturer although he really knows his stuff. He is much more help when you go to his office hours. Sit up closer because he doesn't ever seem to be very loud even when he is miked.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2007-10-21T15:58:00Z"
+    },
+    {
+      "professor": "Daniel Stein",
+      "course": "BSCI223",
+      "review": "well first off there is a 2 to 3% curve in the class. He tells you all semester theres not, but there is. Also stein isn't a bad professor or lecturer. His exams aren't too tough if you do his study guide questions, but the set up of the class especially the lab is atrocious. Alot of times in lab we did not have to correct equipment needed for the lab and even the Tas were confused on what to do. But for steins class all you need is to get like 85 on his two exams and wont he final, as he gives a lot of extra credit (pak points up to two percent increase), and he has two group assignments worth 10% of your grade that it should be easy to get an A in (my group got 99 and 101 and our projects were that good (we also had a good TA)). Also with this class make sure to read each question carefully because alot of it isn't to hard, but can be tricky if you are not reading the questions correctly. Also this class is made alopt easier if you have taken bsci 222 and understand the central dogma. THe entire second exam is the central dogma and if you get it you are guaranteed at least an 85 on it. ",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2011-12-24T12:46:00Z"
+    },
+    {
+      "professor": "Daniel Stein",
+      "course": "BSCI223",
+      "review": "Dr. Stein really wanted us to \"understand\" a lot of things. His lectures slides were very engaging. I do have to say that his course is a lot of work. He is somewhat approachable, yet I feel that his test seemed unfair at times. He even claimed that \"I feel that this was a bad test, since majority of the class got x amount of things wrong.\" But, if you are up to date with everything, and work hard, hopefully, you will be able to do well in this course. Overall, I thought it was okay, the Module 3 about HIV, and immunology was great :]",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2010-05-27T09:31:00Z"
+    },
+    {
+      "professor": "Daniel Stein",
+      "course": "BSCI223",
+      "review": "Compared to Smith, Stein is a little more difficult. My TA, who took Smith, said the stuff we were learning was harder than what he had learned. That said, Stein really does want his students to learn the material in this course, not just regurgitate the info. He tries to make the information interesting and engages the class through \"cool\" facts presented at the beginning of each lecture. The book is pretty helpful, so I'd recommend you get it. Also, labs and assignments are actually pretty fun and interesting, but I may be biased because my TA and UTA were awesome.\n\r\nStein also grades students individually. If he sees you've improved through each exams and do well in labs, he'll definitely bump you up a decent amount.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2010-05-27T00:08:00Z"
+    },
+    {
+      "professor": "Daniel Stein",
+      "course": "BSCI223",
+      "review": "honestly, i didn't learn that much in lecture. found it hard to take notes unless you had a netbook because he teaches off powerpoint slides. all you really have to do to get an A is read the book. the labs were relatively easy and the exams were alright if you keep up with the reading. if you find yourself short a few points of your target grade, dont worry since he'll give out a lot of extra credit towards the end of the course. ",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2010-05-25T03:10:00Z"
+    },
+    {
+      "professor": "Daniel Stein",
+      "course": "BSCI223",
+      "review": "Dr. Stein is actually a very solid and effective teacher. I had a good time in class and overall learned a lot about microbiology. He uses a lot of interesting examples and the last few lectures on STDs were really awesome. \n\r\nUnfortunately, he is NEVER clear about what he wants as an answer on the exam. I'm not exaggerating - this is ABSOLUTELY TRUE: If your answer to a question is correct but does not appear on the answer key, HE WILL MARK IT WRONG! He says it's so everyone is graded fairly, and if you have any concerns about your right answer (that was marked wrong), you can go to his office hours or submit a regrade. This is terribly disrespectful of our time - we don't have time to go chase points we rightfully deserve.   \n\r\nOverall, solid teacher but crappy grader. ",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2010-05-19T13:21:00Z"
+    },
+    {
+      "professor": "Daniel Stein",
+      "course": "BSCI223",
+      "review": "TERRIBLE COURSE. Besides that fact, Dr. Stein is ok.  He tries to make the subject interesting by adding a few fun facts before every lecture...sometimes they actually are cool.  If the course wasnt such a mess, i think it would be really very good.  The lab+lecture activities due almost on a daily basis are very confusing, but the upside is that they help your grade quite a lot.  The reason i say that the course is terrible is because people have no idea when things are due and the dates change constantly...besides that, the course is actually fairly interesting.",
+      "rating": 3,
+      "expected_grade": "C",
+      "created": "2009-06-17T14:23:00Z"
+    },
+    {
+      "professor": "Daniel Stein",
+      "course": "BSCI223",
+      "review": "Dr. Stein is a really good professor. He tries very hard to make this subject fun, by giving assignments that are actually real fun. At the beginning of every class he shows you one of the applications of microbiology and is always fun. He checks attendance using clickers, but he does not grade you on whether or not you got the right answer. His exams are difficult. The final exam is a combination of a 3rd exam (on new material) worth 75%, and a cumulative part worth 25%. The lab section of this class is very fun (you get to make yogurt! and play with bacteria!) The lab questions are not hard, and the lab exams are easy.\n\r\nOverall it is easy to get a B in this class (because the lab grade will boost your grade a LOT!), but getting an A requires a lot of effort. Even then I would still take Dr. Stein because he is a great teacher, he explains things well, he hold review sessions every week, and his assignments are really fun (content-wise). ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2009-05-16T15:24:00Z"
+    },
+    {
+      "professor": "Daniel Stein",
+      "course": "BSCI223",
+      "review": "Not a fan.  He was not a good teacher, his tests (especially his final which was 12+ pages long) was ridiculously complicated, and he took attendance by clickers each class.  Oh, and yes, he was quite boring.  The best part of the class was it was close to my dorm so waking up at 7:50 for his 8 AM class was not too shabby.  Good luck to any who has to take this class.  ",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2008-01-21T01:02:00Z"
+    },
+    {
+      "professor": "Daniel Stein",
+      "course": "BSCI223",
+      "review": "Dr. Stein is a very good professor who gives a very thorough explanation of microbio. Honestly, the hardest part of this class is to just keep track of what assignments are due and to go to class every time. \n\r\nThere alot of assignments every week, but in general they are all very easy and dont take up much time. Everything in lab is basically guaranteed to be 100% unless you don't put effort into it.\n\r\nThe exams are fair and the best way to be ready is to print the powerpoints before hand and take notes on what he says. Dr. Stein is one of the few teachers imo that actually explains as well as the book. If you can pay attention in class studying for the exam will be 10X less stressful and difficult. ",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2007-12-05T02:02:00Z"
+    },
+    {
+      "professor": "Ann Smith",
+      "course": "BSCI223",
+      "review": "This class is divided into 3 modules; Dr. Stewart taught the first two modules and Dr. Smith taught the last one. Dr. Smith lectured with more passion, but her slides were not as straightforward as Dr. Stewart's. I studied Dr. Stewart's slides without referencing the textbook, and got A's on the first two exams. However, I had to rely heavily on the textbook to understand the material that Dr. Smith taught since her slides have very little substance to them (as per another reviewer). The labs are pretty fun, and can really boost up your grade. Make sure you keep track of all the assignments and their due dates since there is a lot of busy work. Also, if a problem arises that may interfere with the class, do not hesitate to talk to Dr. Smith. She is very understanding and will work with you to devise a solution.     ",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2010-12-23T19:30:00Z"
+    },
+    {
+      "professor": "Ann Smith",
+      "course": "BSCI223",
+      "review": "Dr. Smith is an amazing professor! She really loves what she is doing, and teaching is evidently her passion. This definitely shines through during her lectures, her way of responding to students' questions, and even in her very well designed (but sometimes poorly supplemented/executed) laboratory exercises. This might sound strange, but Dr. Smith was so sympathetic to student's concerns, that at times she seemed like a second mother (she really is that nice!) In addition, she really has a knack for teaching you everything you need to know about microbiology. She has very fair examinations, and is really great about bumping you up provided you show improvement throughout. Amazing woman. ",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2010-12-11T10:48:00Z"
+    },
+    {
+      "professor": "Ann Smith",
+      "course": "BSCI223",
+      "review": "Dr. Smith was a good teacher.  Sometimes it can be a little frustrating b/c her slides don't seem to have a lot of substance to them, but by the end of the course, you will learn a lot!  I recommend doing the study questions and going to review sessions to ask about any questions you might not be able to answer.  I also recommend looking over the PAKs before the exams.  BSCI223 overall is easier than most bio classes but there are a lot of small, kind of busywork assignments.  I really liked the lab because you learn a lot of techniques and you are not penalized for mistakes during procedures, so you aren't afraid to try new things. ",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2009-03-08T00:47:00Z"
+    },
+    {
+      "professor": "Ann Smith",
+      "course": "BSCI223",
+      "review": "Dr. Smith is an effective teacher. Her tests are fair and based off the material she covers in lecture via power point. Some students dislike her because she tends to use gimmicky teaching techniques as were used in middle school (like stories), but I believe this gives her points context and makes them more interesting. Also like middle school, there are lots of small things due all the time and there are many projects. The syllabus is hard to read so it can be difficult to keep track of due dates. Despite the sometimes cheesy projects, overall I'd recommend Dr. Smith.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2008-12-04T18:43:00Z"
+    },
+    {
+      "professor": "John Buchner",
+      "course": "BSCI223",
+      "review": "Buchner makes lectures very interesting and connects material to real-life examples, which made everything easier to understand. It definitely helps to have at least a little background in biology, because a lot of it I've seen before. His first exam was really hard and I failed, but after that, I got As on the second exam and the final. Study the PAK material. His exams are so long and you have to budget your time really well if you want to finish. \r\n\r\nThe lab is a decent amount of work, but it's an easy boost to your grade if you submit everything on time. It's not super hard to get an A in the class, you just have to focus on the bigger concepts when studying. I do recommend Buchner, just be ready to put in the time for a 4 credit class! ",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2019-01-06T15:59:36Z"
+    },
+    {
+      "professor": "Erin Tran",
+      "course": "BSCI223",
+      "review": "Has no idea how to teach. All she does is read the slides (everyone in college can read on their own thank you!!!!). Mandatory clicker points so you much show up to hear her read. Nice person, but other than that, pretty bad teacher.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2019-02-28T02:32:37Z"
+    },
+    {
+      "professor": "Erin Tran",
+      "course": "BSCI223",
+      "review": "She was pretty average. The class mostly depends on lab points. The exams she gives are pretty difficult but I've heard they're better than Buchner's. She kept things clear and relatively easy to understand.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2020-05-22T04:53:46Z"
+    },
+    {
+      "professor": "John Buchner",
+      "course": "BSCI223",
+      "review": "Maybe because the course is online due to COVID, but his way of teaching does not make sense at all and he assigns too many assignments per week. His major assignments (PAKs) are genuinely useless and needs EXTRA (I mean whole new) research just for those assignments. His lecture videos are very brief and not at all detailed, so basically useless for all the assignments. His research box assignments, which we have to read a research article per week and analyze, are way out of our league and not at all related to the course. So, basically I have wasted my semester reading and doing shits that are not even related to the college-level GENERAL microbiology. I don't know who else teaches this course and about their ratings, but DO NOT (I MEAN IT) DO NOT TAKE BUCHNER IF YOU WANT TO LEARN ABOUT MICROBIOLOGY.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2020-12-19T05:57:20Z"
+    },
+    {
+      "professor": "Erin Tran",
+      "course": "BSCI223",
+      "review": "Not a very engaging professor. You can tell that she likes to read off the slides. However, her exams were fair but lacked clarity and often not provide clear directions when it comes to assigments and projects. In hindsight, the class seemed to be all over the place. ",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2021-03-31T02:17:50Z"
+    },
+    {
+      "professor": "Erin Tran",
+      "course": "BSCI223",
+      "review": "Dr. Tran is awesome. She is very knowledgeable and from I have experienced does not read off of slides? She explains concepts very well and you can tell she has enjoys teaching. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-04-20T00:21:24Z"
+    },
+    {
+      "professor": "Erin Tran",
+      "course": "BSCI223",
+      "review": "Dr.Tran is an amazing and kind professor. I will admit that the lab assignments were pretty annoying. Dr.Tran's exams are very fair, as long as you attend the lectures and review the material you will succeed on her exams. She also gives extra credit.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-05-24T13:23:10Z"
+    },
+    {
+      "professor": "John Buchner",
+      "course": "BSCI223",
+      "review": "Loved taking Buchner's class. He is by far the coolest professor I've had yet. He seems like a very kind and understanding person and makes lots of accommodations due to COVID. His lectures can be helpful because he just goes over questions most students didn't understand. Many bad reviews I've seen said he gives too much busy work which I agree with but MOST of it is participation points. As long as you put in some effort, you will get full points for completion. For exams there are a few parts to it but you also get 1-2 weeks to complete it but some questions can be tricky.\r\n\r\nLab was good in person. Very minimal effort. You just have to read directions and follow them. I had an awesome TA and he was very lenient with grading so lab helped bring my grade up. There are a few assignments where you have to present but they are very informal and less than 5 minutes as a group.\r\n\r\nI had to take this class for my major and was super worried about it but it was pretty straightforward. A good amount of effort but easy A for the most part.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2021-12-03T03:01:00Z"
+    },
+    {
+      "professor": "Erin Tran",
+      "course": "BSCI223",
+      "review": "Dr. Tran is an amazing and nice professor. She is really clear at explaining things in her videos and lecture. This class may seem like a lot of work but many of the assignments are small and/or done in groups (and completion grades). A lot of the grading is done by the TA. As long as you keep up with the material, you can do well in the class. ",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-05-20T16:18:19Z"
+    },
+    {
+      "professor": "John Buchner",
+      "course": "BSCI223",
+      "review": "I dont need to wait til the end of the semester to give this course a review. If there is any class or set of professors that COULD CARE LESS that you're taking other classes that also require your effort and attention. Its these guys!!!",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2022-10-12T00:08:57.431571Z"
+    },
+    {
+      "professor": "John Buchner",
+      "course": "BSCI223",
+      "review": "easiest bsci class there is, im not even gonna hold you I may end up with an A or very high B in this class and if you ask me what I've learned?????? LOL bruhhh, take this class with a friend and you're good. On your own with no friends? um maybe not so much of an easy A or B for ya but make some in class lol. \r\n\r\nBuchner is s chill and so sweet as well. Very accessible and willing to help.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-12-15T14:33:58.396566Z"
+    },
+    {
+      "professor": "John Buchner",
+      "course": "BSCI223",
+      "review": "Dr. Buchner is a great professor who provides many resources to help you succeed in class. This class is not very difficult content-wise, but the work can be tedious and time-consuming. If you attend lectures and go over the slides, you should be able to get an A or B. Dr. Buchner is a funny professor who is extremely helpful. He goes over assignments and questions in class, and after exams, provides an opportunity for individuals to request their tests to be regarded. If you can provide evidence to back your answer he will give it to you. Buchner likes to relate a lot of the course content to current events, making this class interesting. This class is pretty straightforward, but the workload can be overwhelming sometimes. The class PAKs can take a while to complete depending on the questions. The lab is very simple, but attendance is necessary. In the lab, you follow directions and have a couple of group assignments and presentations, which are pretty simple. Overall the workload in this class can be a lot especially since you have 2 lab sections each week.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2022-12-22T21:58:03.212205Z"
+    },
+    {
+      "professor": "Erin Tran",
+      "course": "BSCI223",
+      "review": "I am not learning anything in this class. They just flood you with pointless assignment after pointless assignment. It's also screwed with my mental health and made me resent one of my favorite subjects.\r\n\r\nInstead of a 1-hour exam per week, you're expected to a 20-30 hour assessment that basically forces you to redo all of the classwork you did so far, only with entirely different set-ups, if that makes sense. Then you have a massive report due that constitutes 50% of your grade during the same week the huge assessment is due. \r\n\r\n Expect to spend 8 hours a week in this class, and that's just the lecture, lab and \"discussion\". Not counting the endless work you have to do. They also pick apart your grade for the tiniest things, and every instruction is a 3-page word salad with thousands of requirements. It's also very condescending. \"Your idea must have real genetics and biochemistry to back it up... nothing from the realm of fantasy or science fiction land.\" I have seriously never seen instructions like these that insult you, confuse you and overload you at the same time. This class also demands brevity out of you despite dumping walls of text infront of you. I've seriously read an assignment 8 times back and forth for an hour and have lost 20/30 percent of the points for missing one small step. I've also made a single mistake and had that repeatedly docked from my total in the same report. I have to white-knuckle through this class and beg for my efforts to be seen.  One day you've spent 8 hours straight doing homework and the minute you look up you drop a letter grade for something that would have been a 1 or 2 pt deduction in any other class. Even in classes I have taken that grade harshly in writing, like psych and english, don't grade your writing as harshly in this class. And to what end? It's a fucking micro class. \r\n\r\nI just feel like the class expected us to be more immature than we were and simultaneously way more experienced in microbio. I have roommates in the grad school at UMD and they tell me that this class is more ridiculous than what they have to do. Whatever they're trying to do, it's really not working. \r\n\r\nIf you can wait to take this class until a prof that gives exams teaches it, do so. If you can take it at a diff college, do so. If you can put it off until your last semester so it doesn't affect your grad/med school app, do that. Do not take this as an elective no matter how much you care about the subject. Would you take Math115 as an elective? This class is seriously the same way. Do what you can to avoid this class.",
+      "rating": 1,
+      "expected_grade": "P",
+      "created": "2023-03-15T03:57:12.902779Z"
+    },
+    {
+      "professor": "Erin Tran",
+      "course": "BSCI223",
+      "review": "Loved the prof. Super understanding (gave me an extension on a big assignment just cuz I asked) Very down to earth and encourages you to use outside sources and collab with friends. You can zoom into lectures but there is participation credit via turning point questions. But you can miss 3 lectures and still get 25/25 participation points. \r\n\r\nThe lab was super fun and interesting I just got fucked with my TA, Husan T. He is an asshole and also grades way too harsh.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2023-05-25T02:40:49.232223Z"
+    },
+    {
+      "professor": "Erin Tran",
+      "course": "BSCI223",
+      "review": "Prof Tran is soo nice. She is so caring and welcoming. She always is available for office hours too. Her lecture style is mainly focused on participation, but its through the form of clickers. You can also attend class on zoom and participate on clickers too. As long as you turn in the weekly assignments, lab quizzes, and attend lecture either in person or online you should expect an A.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-11-02T14:26:27.235295Z"
+    },
+    {
+      "professor": "Erin Tran",
+      "course": "BSCI223",
+      "review": "This class is very boring, the teacher gives long assessments and these assignments are ridiculous. Labs are long and never graded in person, only online assignments that don't even boost up your grade besides 0.5%. They don't care about your other classes and your mental health. I still got that A+ tho and thank you to myself.<3",
+      "rating": 1,
+      "expected_grade": "A+",
+      "created": "2023-11-07T05:57:45.603722Z"
+    },
+    {
+      "professor": "Erin Tran",
+      "course": "BSCI223",
+      "review": "literally the worst class ever. content wise, if you've taken BSCI222, BSCI330, BSCI410, or BSCI420, this class will be a piece of cake. workload wise, however, this class is absolutely RIDICULOUS. endless assignments due literally every single freaking day, so much busy work. I have not taken a class with 5 homework assignments due every single week since high school, and i'm a senior. be warned: just because the exams are online + open book does NOT mean they are easy. they are broken down into 5 individual assignments, each of which takes HOURS to complete. what's even worse is the day after the exam is due, you still have other assignments due. the labs are fun; the protocols, however, are not user friendly. they need to hire a new prep TA because they were not well prepared for some labs due to shortage of materials, culturing issues, confusions and mix ups. very bizarre and chaotic course. sorry, girl, but some of us have lives outside of this course and cannot be bothered by these dumb assignments.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2023-11-10T14:35:00.902571Z"
+    },
+    {
+      "professor": "Erin Tran",
+      "course": "BSCI223",
+      "review": "Dr. Tran is a very helpful and kind professor. She holds office hours every week in which she is more than welcome to answer any questions you might have and she also responds to emails almost instantly. Participation points are based on clickers which you can do from Zoom. The class itself is not too difficult, but the grading is very strict. The workload is a bit heavy and for assessments, you get 6 days to do 5 assignments which could take many hours to complete, they are online + open note. Honestly, your grade depends on whether you can keep up with the assignments and how well you can understand the material and apply it to different concepts.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2023-12-11T20:46:59.185886Z"
+    },
+    {
+      "professor": "Erin Tran",
+      "course": "BSCI223",
+      "review": "This class is entirely busy work and group work. Good luck if you aren't assigned a group with competent people. Your grade highly depends on your TA as well, as some are stricter with grading than others. As for the lab manual, you have to print out all of the pages prior to lab, and the protocols are very poorly written. The lectures are flipped-classroom style where the actual lectures are pre-recorded videos and the lecture time is more discussion-style. Overall this class is very time-consuming, however, I feel I have barely learned anything in the end.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2023-12-15T03:12:44.702417Z"
+    },
+    {
+      "professor": "John Buchner",
+      "course": "BSCI223",
+      "review": "Super chill professor, you don't do much in class besides clickers/point solutions. I gave him 4 stars only because of the insane amount of homework he gives. He typically grades on completion rather than accuracy though and the assignments are relatively easy.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2024-02-13T16:48:23.811215Z"
+    },
+    {
+      "professor": "Erin Tran",
+      "course": "BSCI223",
+      "review": "Def a crap ton of work, a class I would not want to do again, but got the grade I wanted along with many other students",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-03-26T06:34:34.097666Z"
+    },
+    {
+      "professor": "Erin Tran",
+      "course": "BSCI223",
+      "review": "I LOVE DR. TRAN, she is so nice and approachable and genuinely a great person. She always answered questions and made lecture fun. Tips, go to lecture, the clicker points will boost ur grade, turn in all the busy work it will also save ur grade. Exams are online and open note but they are hard, she follows a flipped classroom model but if you watch the videos you will understand what is going on for the exam.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-04-23T03:45:40.688488Z"
+    },
+    {
+      "professor": "John Buchner",
+      "course": "BSCI223",
+      "review": "My only advice to you is to put off this class until you can get a different professor for it. At the beginning of the semester I thought he was cool and chill but oh boy was I wrong. First off, he does not teach in class; he only does clicker questions for assignments we have already done and reads about the bird flu and measles which isn't even relevant to the content we were studying. He expects you to watch videos he made from several years ago to keep up, and there are MANY of these videos. You shouldn't choose him as a professor because towards the end of the semester he sent out reports with LONG lists of names (and I mean LONG, as in pages) accusing people of cheating on a 4 point homework assignment graded for completion, and we were allowed to use the internet and work with others. His excuse was that we \"used a similar clover shape\" for a protein or \"used similar colors and shapes\". For context, this was an assignment where he PROVIDED us with a template, and there was only one right answer and a list of things we needed to include, so how would everyones look different?? When peers challenged his accusation to the honor council, even they said that they don't understand what he thinks was cheating, AND noted that he never even provided the template to them or informed them that we all got the same one, which would have changed everything. Now, I've heard he is sending out more accusations to even more people on an exam, and refusing to reply to people's emails due to a \"power dynamic issue\", he quite literally copied and pasted this response to everyone. I really would like to know how working this out with him directly is more of a imbalance of power than reporting someone to the honor council and risking them getting an XF and expelled or suspended. So, essentially, don't take this class unless you want to spend months proving that you didn't copy just because you drew a red circle on a 4 point homework completion assignment! Sorry not sorry Dr. Buchner, you did this one to yourself. Stop being like that.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2024-05-08T20:05:30.188847Z"
+    },
+    {
+      "professor": "John Buchner",
+      "course": "BSCI223",
+      "review": "Take this class with this professor if you are trying to get out of genetics. His labs are so fun and so awesome and amazing, at least in the section I was in. However, there is a insane amount of homework so plan time accordingly.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-05-11T03:54:57.356619Z"
+    },
+    {
+      "professor": "John Buchner",
+      "course": "BSCI223",
+      "review": "He says the classroom is a flipped classroom....it's really not. Rather than doing homework in lecture and learning the content at home, you watch lecture videos at home, do homework at home, and go to class just to go over the homework (it won't tell you correct answers) via clicker questions. It's just busy work honestly. The lab is super cool though and easy as well as long as you get a good TA ofc. Do all the assignments as best you can, make a study group, and you'll do fine in the class. Pretty generous grading by the prof (he grades some assignments himself) and the tas too. The midterms and final are take home and open note but that does make them wayyyy harder so make sure before the midterm/final you have watched all the lecture videos and read over the lab protocols/slides. Overall, not a bad class just a lot of busy work which annoying but not the end of the world.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-05-15T19:51:27.884430Z"
+    },
+    {
+      "professor": "John Buchner",
+      "course": "BSCI223",
+      "review": "This course is very chill and honestly really fun. Dr. Buchner taught lecture while Dr. Tran oversaw lab (although I didn't really interact with Dr. Tran). I really loved this course. Lab is super fun: you get to make friends in lab and do really cool things with microbes. Also, it is cool that lecture and lab are synched together into one class, as lab TAs are helpful for general class content.\r\nIn terms of lecture, class takes a flipped-classroom approach. You watch Dr. Buchner's online videos and during class go through review-question slides. (Although Dr. Buchner likes to go off-topic with microbiology current events snippets at points). Class is very chill. You can do it in person or on zoom. And you don't need to get the questions right, you just need to provide some sort of an answer for 2/3 of the questions per day. However, the class is not very 'right/wrong' oriented. Most projects are open-ended responses and Dr. Buchner often likes many different multiple choice answers during the class clickers. \r\nIn terms of workload, it is actually really intense. Between PAKs and homeworks (both graded only on completion), lab reflections, research boxes, and our 'exams' (which I will get to in a minute), it is a lot of work. The 'exams' are very time consuming, although not really exams. You are assigned 5-6 sets of open-ended, multiple choice, and other projects on Canvas that are due in 1 week. So in short, you don't really need to \"study\" for exams. But when you fall behind on notes, it makes the exams much harder to complete.\r\nIn terms of resources, definitely don't get the textbook. The videos that Dr. Buchner posts should be more than plenty to help you. Plus, this course is so time demanding that after attempting to watch Dr. Buchner's videos, attend class, and do assignments, there is no use studying out of a textbook, unless you do nothing else during the semester.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-05-21T13:01:11.773709Z"
+    },
+    {
+      "professor": "John Buchner",
+      "course": "BSCI223",
+      "review": "This class was easy but had SO much busy work attached to it. It was flipped lectures, except Buchner didn't do anything useful in class and instead read scientific article abstracts out loud during lecture. I would recommend watching the lecture videos, but not actually going to class and just keeping the clickers open during class time (you need to do 2/3 of them every lecture to get participation points). The lab homework and the PAKs are graded for completion. The graded assignments were not difficult, but you have to THOROUGHLY read the rubric. The instructions and the rubric at the bottom sometimes differed and you have to make sure to hit all the requirements to get an A. The exams are multi-part take home ones open for a few days. They test conceptual understanding rather than memorization and take HOURS, so be careful during finals season. \r\n\r\nI learned a lot more during lab than I did during lecture, mostly because I had an amazing TA. However, you're in the same lab group for the entire semester and do all of your projects with them, so if you get a bad group you're gonna have to do all of the work yourself. If you have the time to dedicate to completing the sheer volume of assignments for this class, then it's an easy A.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2024-05-24T20:47:36.612617Z"
+    },
+    {
+      "professor": "John Buchner",
+      "course": "BSCI223",
+      "review": "Super fun and chill class. The labs are actually really hands on and fun, and you don't really need to know much information from lecture to complete the labs. There is a lot of busy work but the majority of it is jut graded on completion. Exams can be a little tricky but they don't impact your grade too much. If you have a good/chill TA for lab, you should be totally fine! Lecture is flipped classroom style which can be helpful for some, just have a basic idea of what is being taught and you should be fine. Dr. Buchner is really sweet and responds quickly to emails.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-06-18T22:02:10.022231Z"
+    },
+    {
+      "professor": "Erin Tran",
+      "course": "BSCI223",
+      "review": "Genuinely such a useless class, filled with busy work and obsolete assignments. Dr. Tran is extremely nice, however her flipped class set-up is most definitely not for everyone. The class requires you to learn all of the information on your own and then attend class for mandatory clicker questions, which do not work half of the time. In general, avoid taking this class if your time is valuable to you. If you need to take it, good luck.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2024-10-11T14:47:04.475412Z"
+    },
+    {
+      "professor": "Erin Tran",
+      "course": "BSCI223",
+      "review": "Dr. Tran is a big fan of the flipped classroom design - beware. Genuinely everyone I interacted with in this class was always confused and lost during lecture periods. She used clicker questions every class and while they may have supplied decent examples (if you knew what was going on), at least half of the people in the course were just guessing randomly because no one was up to date on the notes. Then again, the clicker questions rarely were up to par with the exam questions which were often random and much harder and no test was reliable since everyone had different questions which was unfair to others. Tests also had multiple errors and no absolutely no partial credit was given which is inexcusable. Then after exams, she would cancel office hours the next week so we could not go talk to her. Overall, it felt like Dr. Tran did not truly care about teaching the class, using prerecorded videos from over 3 years ago instead of teaching us in person, and the time spent in lecture felt random and lost. She boasts about how great the flipped classroom idea is, but this absolutely did not work for the class and it felt like a waste of my time going to class. Also participation is graded through pointsolutions and we basically directly paid for our participation grade (over $1 per 1 point) which is ridiculous, especially since the clicker questions only worked half the time. Also the lab was better than lecture, mostly because of my TA Anna, but SO much busy work and I swear assignments randomly popped up throughout the week that were not there before. There were 4 presentations during lab with 2 large semester projects, and tons of individual and group assignments each. This has been one of the most tedious and annoying classes I have taken in college, and as a senior I've taken anatomy, orgo and physics II before. Can't wait to be done with this class.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2024-12-03T15:40:14.891289Z"
+    },
+    {
+      "professor": "Erin Tran",
+      "course": "BSCI223",
+      "review": "Took this the first semester that exams were moved to in-person and it was much more work than expected and tests were random and unorganized. No partial credit was given and averages were in the 70s and bsci does not curve. Did not feel like I learned anything because of the flipped classroom design of the course. Dr. Tran seems nice enough but doesn't actually teach us. She uses clicker questions in class which no one follows along with and she moves through them quickly without really explaining much. It feels like she is very disconnected from her students - granted it is a huge lecture hall - but I don't think she knows how much her students don't understand the topics.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2024-12-03T15:45:15.284369Z"
+    },
+    {
+      "professor": "Erin Tran",
+      "course": "BSCI223",
+      "review": "In the last four years I've taken two chems, two anatomies, two physics, and various other straining courses, and this by far is the worst. The content probably wouldn't be nearly as difficult to learn and understand if Dr. Tran used even half of the time we spend in lecture actually teaching us. She raves about how great the flipped classroom is, but if you were to ask literally anyone in our class you would not hear the same answer. We have to watch videos that are 3 years old and not a single minute of lecture is spent reiterating any material. Every class period is spent doing clicker questions for a participation grade, which the school no longer covers the subscription for, and we are expected to have the same level of understanding as her despite her not really teaching us. Most of class guesses on all of the questions and they are not a good indicator of exam questions. For every exam, Dr. Tran creates multiple versions where everyone had vastly different questions. To top it off, she informed TAs that they were not allowed to give us partial credit for most questions, even parts that were worth 10 points on a 150 point test. Every test had errors and had questions that were very poorly planned and worded. Truly the only reason I can expect to do well in this course is because of my TA Kari and what felt like hundreds of lab assignments. Most weeks we had 2 or 3 time consuming assignments due, in addition to 2 large projects that barely related to the class. We had to come up a gene and cloning strategy to genetically modify bacteria to benefit a cow???? This class has been one of the most time consuming courses ever, especially with two lab sessions a week. It is clear to me that Dr. Tran does not prioritize her students and doesn't really seem to care about how we are doing. She sent out a mid-semester survey for feedback and went over it in class. She proceeded to tell us that she won't be changing anything despite us asking for some change. I truly hated this class.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2024-12-05T16:13:35.883943Z"
+    },
+    {
+      "professor": "Kendall Opheikens",
+      "course": "BSCI223",
+      "review": "Kendall was a great TA, super chill and helpful in lab. Super receptive about fixing grades, we had a discussion about why I answered a test question the way I did and once I explained my reasoning she fixed my grade immediatley. Genuinely wants everyone to get an A in the class. Make sure you clean up your lab bench before you leave or you might get points off. Showed us lots of pics of her cute dog :)",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-06T17:10:22.097351Z"
+    },
+    {
+      "professor": "Erin Tran",
+      "course": "BSCI223",
+      "review": "It looks like I'm the odd one out but I actually loved this class. The labs were fun and none of them went to the 1 hour 50 minute mark. My group was great. I didn't usually watch the videos before class because I'm lazy but it never affected my grade. Clickers are graded for participation. Exams are VERY fair and the exam questions are literally the same as the clicker questions, just worded different. But, if you understand the answer to every clicker question, you will get an A on the exams. \r\nAlso there are sooo many cushion points in lab if you need a grade booster.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-07T03:08:34.542957Z"
+    },
+    {
+      "professor": "Erin Tran",
+      "course": "BSCI223",
+      "review": "I personally think this is a great class and I like how Dr. Tran teaches. She's also super nice, welcoming, and relatable.\r\n\r\nIf you're not a fan of a flipped classroom model then here's your fair warning (I like it). The lectures are more like clicker based \"discussions\" to practice the concepts in the pre-lecture videos and they are broken up into bursts (5-25 mins) so honestly if you watch a video while eating a meal or like little breaks here and there you don't even need to take notes like that (because going to class is basically studying imo) Dr. Tran explains things pretty simply in the videos and in class and if you don't understand something she's pretty accessible, we picked two office hours as a class and if you still can't make it just email or ask your TA.\r\n\r\nThis class has ALOT of assignments though so be prepared, it's not hard it's just tedious especially the lab presentations. Sometimes the lecture exams and the major lab assignments were kind of stacked back to back but we kind of asked (feedback through survey) to have them spaced out a bit more and Dr. Tran listened and for that second exam, lab assignment combo we were given more time (just communicate). Labs were pretty fun; there are two 2hr time slots but my section rarely ever stayed the entire 2 hours. \r\n\r\nThe exams weren't particularly hard, sometimes the questions were worded oddly and I had to ask my TA for clarification a couple of times. But because of the sheer amount of assignments and points (clicker pts graded on participation, lab participation, bonus points, weekly concept check assignments \"PAKs\" that are graded on completion) your exam score shouldn't really tank your grade all that much.\r\n\r\nIn conclusion: content is pretty easy, courseload/work is heavy, exams are medium difficulty (clarity), but bc there's so much work it truly is hard to not pass and getting an A is definitely doable.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2024-12-11T06:09:02.375355Z"
+    },
+    {
+      "professor": "Erin Tran",
+      "course": "BSCI223",
+      "review": "Dr. Tran is very nice and understanding. She is very approachable and helpful when it comes to answering questions and receiving feedback on assignments or exam questions. Her class was a flipped classroom, which I found to be more work, as you were expected to watch her topic videos before class and actual lecture was just used as a review. I didn't like how we were never given study guides for exams.  Additionally, Dr. Tran never indicated what the correct answer to clicker questions was, so if you didn't write it down in class, you'd have to somehow ask her. The lab was not that bad and boosted my grade. While there were a lot of time-consuming assignments, none of them were that difficult and they ended up really helping my grade in the end. While the class is a lot of work to keep up with, Dr. Tran is pretty reasonable. As long as you keep up to date with her videos and complete the lab assignments and projects on time, you should be fine.",
+      "rating": 4,
+      "expected_grade": "B-",
+      "created": "2024-12-14T18:06:19.835771Z"
+    },
+    {
+      "professor": "Erin Tran",
+      "course": "BSCI223",
+      "review": "Dr. Tran is a very kind person and very knowledgeable about her class. I liked listening to her speak which is a shame because she praises the flipped classroom model, which just entirely wasn't for me. Exams were SO difficult. The most shocking thing to me is how I was able to get As in all chem classes I've taken but not this. Still waiting to hear back about rounding up my grade to an A- because I am decimal places away. The lecture videos she posts are years old from Covid, and lecture is based on clicker questions (we had to pay for the subscription out of pocket, btw) which we get participation points for. Lab was extremely fun and my lab group was great, but the amount of busywork was just insane for this not even being part of my major and instead a prerequisite for grad school. Overall the class was fine, super time consuming and difficult. Dr. Tran is cool but DEFINITELY not my favorite.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2024-12-14T19:06:32.995965Z"
+    },
+    {
+      "professor": "Erin Tran",
+      "course": "BSCI223",
+      "review": "I actually liked the flip classroom model! I find it easier to take notes on my own instead of lecture, but to each their own! I feel like a lot of people didn't pay attention in class though, so that's probably why people didn't do so well on the exams since they had the in-class clicker questions. Pay attention!! A lot of people talk about nothing making sense but they were the same ones not watching. The final was pretty weird, no excuses for that. The lab wasn't hard at all, but there is SOOO much busy work. If it weren't for that, this class would be 5 stars.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2024-12-16T16:57:57.292481Z"
+    },
+    {
+      "professor": "Erin Tran",
+      "course": "BSCI223",
+      "review": "The flipped classroom is actually really nice and helpful if you can hold yourself accountable to watch the videos on time. She has a great way of explaining concepts without overwhelming you with unnecessary information. The videos made it really easy for me to digest the information. Exams were also extremely fair and pretty easy. You just need to go to class and participate in the clicker questions. (I just hate that they made us pay for it lol)\r\n\r\nOnly thing I didn't like about this class was how rushed the labs felt. We were expected to do a lot within a short time and that wasn't it.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2024-12-18T17:07:33.239843Z"
+    },
+    {
+      "professor": "Erin Tran",
+      "course": "BSCI223",
+      "review": "I really enjoyed the class content. I absolutely love Microbiology and my GTA and UTA were the GOATs. Dr. Tran is also really nice when you talk to her and approachable about most things except study guides and the flipped classroom. The lab component of the class is very enjoyable and by the end of the class, I was able to get really close to my lab group and to my GTA and UTA. I really loved all the hands on parts. But get ready to practice your streaking and gram stains. They are arguably that hardest part of the lab to master, but very fulfilling once you finally get it!\r\n\r\nThat being said, I did not really like the flipped classroom style but to each their own. I thought coming to lecture was a waste of my time because she records her lectures and completed slides with the clicker questions. I only went to class because that's how she took attendance. I could also be speaking out of bias because I did not want to have to pay for the PointSolutions clicker for just this class. However, I will say that the lecture videos are very informative and I have almost never had to open the textbook for this class unless it was to cite it for the PAKs. You don't really have to pay attention in class unless you sit in the front and want to ask questions since the clickers are graded on completion, not accuracy. There are occasional in person papers that you have to submit, but those are considered bonus points.\r\n\r\nHer exams are weird to study for because there's no focus but this semester, one of the GTAs hosted review sessions before exam 1 and exam 2 that were recorded and that helped. Exams are no longer open note or online! The final was also cumulative and in person starting this semester! Exam 3 (which is the final) is the hardest because it has an emphasis on Module 3 content but Module 3 is a very dense part of the content and it felt very rushed at the end of the semester. We definitely could have shortened module 1 content and extended module 3 a little bit.\r\n\r\nBut I would say those are all excusable. The worst part of this class and why this class gets 4 stars instead of 5 stars was the busy work. I was taking an 18 credit semester this semester and there was so much busy work every week with assignments that weren't hard but would just take so much time. They weren't even integral to learning, they just felt so unnecessary in the long run. The PAKs? Not graded on accuracy. The discussion boards? Unnecessary research that could have been combined into one assignment. The research boxes? While they were interesting, I feel like they didn't help me too much because I already knew how to read articles. But nonetheless, busy work. I would be working on microbiology assignments even when I had to study for an exam. That's when you know it's too much work.\r\n\r\nIt's an easy class, but if you're fine with busy work and you love microbiology, definitely take it!",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2024-12-18T22:39:49.209278Z"
+    },
+    {
+      "professor": "Aiswarya Suriaprakash",
+      "course": "BSCI223",
+      "review": "Absolutely loved her! She helped me a lot with figuring out what was going on in lab and helped when I didn't understand how lecture concepts applied in lab. She also hosted a review session before each exam that helped me do a complete review. She does a great job explaining lab protocols and making sure that everything is running smoothly. She's very approachable and you'll have a lot of fun in her class!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-18T22:41:55.247026Z"
+    },
+    {
+      "professor": "Erin Tran",
+      "course": "BSCI223",
+      "review": "Honestly the content material itself wasn\u2019t too difficult, but how the class was taught and tested was horrible. A flipped classroom design where there were probably around 6-10 videos a week with an absurd amount of content that was barely mentioned in class. There was truly no way to prepare for exams because Dr. Tran refused to discuss what would be on the exam, provide a guide, and wouldn\u2019t have the layout of the exam done by the lecture before. The issue was then that the at home videos gave so much information, however there only 15 questions on an 150 point exam. Lecture is solely based on clickr questions, which for me was alright sometimes but other times  20% (of probably a 200+ lecture) would get the question right and she would take that as the class understanding the subject and move on. Lecture was truly a waste of time you were not taught anything really and would rely on students to explain complex topics and not further explain them herself. I personally watched the lecture videos and found them helpful, but I found others did not. Lab was easy because essentially you do the same thing every week and there are no lab reports to be graded. However there are numerous group assignment and presentations, if you have a good group and a good TA these assignments should be easy A\u2019s and are probably the reason I am ending with an A-. Overall just a poorly structured and set up class with a professor who is kind but doesn\u2019t really seem to care about the success of students.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2025-01-03T20:12:52.252931Z"
+    },
+    {
+      "professor": "Erin Tran",
+      "course": "BSCI223",
+      "review": "curriculum & lecture:\r\nthe curriculum is separated into 3 modules, with several small assignments (PAKs) that are graded based on completion. the course subjects were simple enough, and the lecture is flipped, so we are required to watch a series of videos before coming to class. if you can hold yourself accountable for that, this class would be perfect. the lectures themselves were basically reviewing the videos through a bunch of clickers (basically short quizzes graded on completion). while the information itself was interesting, the lecture was okay, the lab was fun. the exams focuses on both the application of lecture materials and lab materials. \r\n\r\nlab: \r\nlove, love, loved this lab. my ta, aiswarya, is a godsend for this class. her presentations on the lab procedures and importance of each practice was super informational and entertaining. she's super sweet and understanding, and she keeps the lab really fun. some of it was incredibly hard to perfect (for the lab practical), such as the gram stain, but it wouldn't drop your grade much at all. the group you are with also matters alot because while there are no lab reports, there are several group assignments that must be completed. random complaint but almost 80% of the microscopes were dysfunctional before the midsemester point though. \r\n\r\ngrading:\r\nthere are several assignments but it's not unmanageable. the grading is reasonable but it takes a lot of time for them to get it in.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2025-03-25T19:44:44.392294Z"
+    },
+    {
+      "professor": "Aiswarya Suriaprakash",
+      "course": "BSCI223",
+      "review": "so amazing. aiswarya is super engaging and applied lecture concepts into the lab. she also gives a brief overview of the lab protocols and certain lab skills (which is relevant for the exams) before the lab sessions. she also hosts and records review sessions before the exam, and generally super helpful. she also checks her emails frequently and is quick at responding. overall, she just wants you to succeed and she's super fun! i'm excited for her to become a professor in the future because any student who has her can consider themselves lucky.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-03-25T20:04:36.573167Z"
+    },
+    {
+      "professor": "John Buchner",
+      "course": "BSCI223",
+      "review": "I learned the most from my TA. She was exceptional and understanding and clarified concepts kinder and better than Dr. Buchner. Honestly, Dr. Buchner was condescending in emails and just assumed students knew all the material. I felt like there was a power imbalance, and it often discouraged me from doing my best in class.  He also didn't teach during lectures, he'd crack unprofessional jokes and state facts without reason then move on. All our learning was expected to be done from pre-recorded videos from years ago that contained outdated information and did not always align with the exam content. He also emphasized asking previous students who took the class for exams or notes, which is really unfeasible for a lot of students who don't have this kind of access or connection-making it a severe disadvantage for a vast majority. I liked the content of this class, and I read the textbook for my own personal learning, which is why I can say I learned a good amount of information. But this credit cannot go to Dr. Buchner, it goes to my TA and maybe him providing a nice textbook. An unnecessary amount of assignments, they taught me nothing.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2025-05-09T15:50:29.459991Z"
+    },
+    {
+      "professor": "John Buchner",
+      "course": "BSCI223",
+      "review": "If I could give Buchner a 0 I would. After attending lectures this semester I'm convinced he doesn't actually know anything about microbiology and escaped from some mental facility. He provides outdated and messy videos for the flipped-style lecture and during actual lectures rambles on about random unrelated stuff. Only thing that's nice about this class is the lab section and your TAs.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2025-05-12T13:39:29.848719Z"
+    },
+    {
+      "professor": "John Buchner",
+      "course": "BSCI223",
+      "review": "bruh I took this class because I thought the exams were take home (based on previous reviews) but they were not. I felt like I worked really hard in this class but still fell a bit short. I hated the flipped-class style. having to watch 2 hours worth of lecture videos, go to 2 hours of lecture (which were unhelpful for exams), and then 3-4 hours of lab in one week ON TOP OF the insane amount of homework really sucked. the lab was cool though and loved my TA (kari). I think Dr. Buchner could be decent at teaching if he slowed down and restructured the lecture portion. first exam was hard af tho and we do not get any practice problems from him. the TAs and UTAs held this course down fr",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2025-05-13T04:10:09.520859Z"
+    },
+    {
+      "professor": "John Buchner",
+      "course": "BSCI223",
+      "review": "Would give zero stars if I could. Dr. Buchner is an extremely lazy professor that \"teaches\" by posting lecture recordings from 2020 containing outdated information. He then rambles in lecture about Measles for the entire time, and giving a few clicker questions. First exam was very difficult given that he gave zero practice problems and did not speak on the exam content in class. He then proceeded to not mention the failing average, and keep yapping on about Measles. Second exam was better thanks to the lovely TAs who made review sessions and practice questions because you would never catch Buchner doing that. THEN he proceeded to zoom through exam 3 content, finishing about 3 lectures ahead of schedule so he decided to lecture about HIV and Covid for the remaining three lectures then tell us it would be on our final exam. Mind you this is nowhere in the syllabus. When I signed up for this class, I expected to learn about Microbiology, but instead we spent over half the time learning about Dr. Buchner's personal biology interests. Take this class during a semester Dr. Tran is teaching if possible!!",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-05-13T18:23:09.210207Z"
+    },
+    {
+      "professor": "John Buchner",
+      "course": "BSCI223",
+      "review": "Like the person before me said, If I could give a class 0 stars, I would. The lab is not hard and your assignments are based on completion. However, the learning style for this class is not suitable for the amount we pay to be students here. He uses videos from the pandemic and you spend the entire class either talking about his science interests or doing clicker questions that he does not post the finals answer for. There is absolutely no instruction in class. He provides no study guide, practice exam, no old exams, no review session, or any other preparation to help you prepare for exams. He writes exams a few days before the actual exam so he can never really answer questions about it, neither can the TAs. He is a nice guy, but I hated the way this class operated, but its possible that's a personal problem.  Its no longer covid, its time to transition back to regular learning since this class is not listed as a hybrid class.",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2025-05-14T16:56:10.867580Z"
+    },
+    {
+      "professor": "John Buchner",
+      "course": "BSCI223",
+      "review": "Like everyone this semester has said, I would give zero stars if it was an option. The recorded lecture videos are outdated and do not explain the content well. In class time was wasted as the prof would ramble on about measles, vaccines and whatever he felt like tbh, instead of going over useful material. Half the clicker questions he just told us to figure out on our own. None of the lab/homework assignments supplemented the material we were actually tested on, not to mention they were sooo many of them. The average was horrible on the first exam (which he refused to even mention) but better on the second only because of the amazing TAs. The final was absolutely traumatizing. He was also not helpful when asking clarification questions, just gave some long winded response that didn't make sense. If I didn't have a great lab group and amazing TAs, I would've dropped this class. Please do yourself a favor and take it in the fall with Tran.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2025-05-15T19:50:10.805106Z"
+    },
+    {
+      "professor": "John Buchner",
+      "course": "BSCI223",
+      "review": "a joke of a professor. he doesn\u2019t teach, doesn\u2019t provide practice exams, no study guides, no kind of help for exams but he expects you to know everything on them. Like why are STUDENTS the ones who made the final exam practice test, instead of the actual teacher. This guy knows nothing about microbiology and he\u2019s the laziest teacher i\u2019ve ever encountered. DO NOT TAKE HIM. If you can take microbiology somewhere else!",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2025-05-15T20:06:41.037804Z"
+    },
+    {
+      "professor": "John Buchner",
+      "course": "BSCI223",
+      "review": "i do not like saying this but i found this class to be more difficult than my biochem class!! the content is not difficult, but he teaches in a way that overcomplicates each module. as mentioned in the other reviews, he rambles a lot. although the flipped classroom learning style is deemed as a wonderful technique, i do not believe he implements it well as the slides are wordless and half of the information he says is not on them. A lot of the tas even had mentioned how he was not the best at teaching and that the final was hard-- they tried to fight for our grades. very grateful for the tas who taught me most of the content and for my lab group. i had high hopes for him, but they were not met unfortunately.",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2025-05-15T21:08:58.842187Z"
+    },
+    {
+      "professor": "John Buchner",
+      "course": "BSCI223",
+      "review": "Spring of 2025 was the test run for Dr. Buchner's first semester doing in person microbiology exams, and I think this contributed to why the exams were like /that/.\r\n\r\nI think Dr. Buchner does know a lot about microbiology, and he is clearly passionate about it. He was nice (at least in my experience, though I have heard from others getting not so nice emails) and some classes were funny. So for that, I will give 2 stars. But, he falls a bit flat when it comes to teaching. I have mixed feelings about the flipped lecture format, because there are some benefits and some downsides to it. However, my biggest gripes with this class was:\r\n1. We were blind when it came to exams. There was 0 preparation when it came to the first exam, besides a heads up on the drawing, and the average was failing. There are no curves (not even a little) despite this. The second exam was prepared for us by some nice TAs. With the final, again, it was prepared for us by some nice TAs. I think the TAs did a lot of the heavy lifting. Props to them, but not to Buchner. I think I did okay on the final (at least above average, just estimating) but it was objectively bad.\r\n\r\n2. Sometimes in lecture he went on to ramble about things that did not matter. Oh, and he added bonus content to the exam (stuff about HIV and COVID) which was not in the syllabus whatsoever and was only added because we happened to be a couple classes ahead of schedule. So, instead of using those classes to do a proper review, he just talked about the things he liked. I will admit I do find this stuff interesting, but I believe that being tested on it and wasting valuable class time on it is unfair.\r\n\r\nUnrelated to Dr Buchner: Lab definitely helped boost my grade. It's very important to have a good lab group for this class. My lab group started off pretty iffy at the beginning and I felt like I was doing a lot of the heavy lifting, but halfway through they started doing more. So whatever.\r\n\r\nI am likely getting an A-, with a small chance of me keeping my A based on that last exam. Sucks that the final might bring my A down to an A-, but at least an A- is a 3.7. Most of my friends were at A's too, and that final exam knocked some of us down to A minuses. rip",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2025-05-15T21:57:26.816093Z"
+    },
+    {
+      "professor": "John Buchner",
+      "course": "BSCI223",
+      "review": "If I could give negative stars I WOULD. This class is alright but the professor is absolute garbage at his job. Ive seen plants more useful than this man. He makes you do his stupid clicker questions that are mostly irrelevant towards what he is trying to teach which im still trying to figure out even after taking his bs final. He rambles in class about his political views and useless information that has nothing to do with microbiology. He obviously made his final exam last minute as it was completely void of anything related to what should have been on it and not only that, he ran out of tests to give students so we had to wait 30 minutes before getting our actual final and beginning. Most unprepared \"professor\" (if you can even call him that) I've had in my entire life. He is a horrible teacher and I am amazed that he has over 1 star. He says he isn't going to curve anything even though the averages are so low. The 20 year old TA's were better than this man with a degree which is insane. Do not take him if you're actually trying to learn anything related to microbiology, you're better off teaching yourself on YouTube shorts than this trash \"teaching\". Absolute fool of a professor.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2025-05-16T00:00:01.460586Z"
+    },
+    {
+      "professor": "John Buchner",
+      "course": "BSCI223",
+      "review": "I don\u2019t even feel like wasting my time trying to review this professor. But I second every grievance that has already been stated. I wanted to chalk up past negative reviews to the occasional bitter student, but I have never encountered a more unprofessional professor who is so profoundly antithetical to the definition of a teacher.\r\n\r\nTo the UTAs, I\u2019m not even religious, but god bless you. You all worked so hard to make sure we succeeded, and I am incredibly grateful for all you did for us this semester.\r\n\r\nPlease take this course with Dr. Tran if possible.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2025-05-16T13:27:51.368276Z"
+    },
+    {
+      "professor": "Grace Rua",
+      "course": "BSCI223",
+      "review": "Grace was the only reason I got through this course, despite Dr. Buchner\u2019s best efforts to be unhelpful, unprofessional, and uncaring.\r\n\r\nShe is a great lecturer who can explain concepts succinctly and in ways that make sense to someone unfamiliar with the topic, and was very accommodating with deadlines.\r\n\r\nI would highly recommend taking her lab section!",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-05-16T13:40:15.002701Z"
+    },
+    {
+      "professor": "Walker Orr",
+      "course": "BSCI223",
+      "review": "Not a good TA. Very unapproachable, graded harshly and unfairly, and barely ever knew what was going on. I had him last semester and when we did our presentations in lab, he refused to even turn around and watch them, or put our slides up on the screen. Would not recommend, he made this class so much harder than it needed to be.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-05-16T19:26:08.073427Z"
+    },
+    {
+      "professor": "John Buchner",
+      "course": "BSCI223",
+      "review": "All I have to say about Buchner is that he might actually be losing his mind (as proven during the Spring 2025 BSCI223 course). If you're taking microbio take it with Tran or at least any semester Buchner isn't teaching. No help reviewing for any of the exams (all 3 of which were wack) and flipped-style lectures that are comprised of 50-minute in-person rambles about measles, HIV, and other unrelated BS. He sucked this semester good luck doing well in this class if you take him",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2025-05-19T01:11:58.117838Z"
+    },
+    {
+      "professor": "John Buchner",
+      "course": "BSCI223",
+      "review": "He's awful. His exams are genuinely incomprehensible, and he goes off on tangents during lecture. His flipped-style lectures are insane, and he doesn't provide any help. The only good thing about this course is that the TAs are great people. He is incredibly bad at teaching.",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2025-05-19T16:31:52.575667Z"
+    },
+    {
+      "professor": "John Buchner",
+      "course": "BSCI223",
+      "review": "I feel like all the reviews talking about his mental state are both very mean and very wrong. Dr. Buchner might be one of the smartest professors I've ever had teach a course. When he was passionate about something (measles, HIV, disease prevention, etc), you could tell, and I think his best lectures were genuinely those that he was passionate about.\r\n\r\nUnfortunately, this class wasn't about any of those topics. It was about microbiology. And he failed, miserably, to teach anyone anything meaningful about microbiology. Some of this can be chalked up to that terrible flipped classroom model (people generally come to lecture to learn things, not to go through clicker questions as \"review\") but some of that is just due to poor classroom management on his part. The first exam had unreasonably low averages (in the 60s) and that was less because the exam was difficult and more because no practice exams or supplemental material was provided, and the emphasis on lab material was not communicated well. \r\n\r\nLab was managed well, and I think the TAs and UTAs did their best to provide us with self-made practice exams, review sessions, and other supplemental material that the professor should have provided.\r\n\r\nWould I recommend this professor? Honestly, probably not. You are probably better off taking that microbio elective or core class with Tran or someone else. But he seems like a genuinely nice person, and if you're good at self-studying, you'll probably be fine.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2025-05-20T00:09:21.288172Z"
+    },
+    {
+      "professor": "John Buchner",
+      "course": "BSCI223",
+      "review": "Whether or not I remember anything about the complement system or taxonomy, the collective crashout of BSCI223 in Spring 2025 will not be forgotten.\r\n\r\nReading the reviews below, you'd think this class was a battlefield\u2014Professor Buchner committing some kind of academic treason and students having to sacrifice their souls to pass. But honestly? It's not \ud835\ude35\ud835\ude29\ud835\ude22\ud835\ude35 bad. I promise.\r\n\r\nYes, the flipped lecture style sucks. It's hard to stay motivated to watch the videos or show up to class just to answer clicker questions that are usually very unhelpful in actually understanding the material. Like many others, I signed up for an in-person class\u2014not two mandatory discussions a week + learning the actual content on my own by myself. \r\n\r\nAnd exams were tough, but not necessarily because of the material. The issue was the lack of guidance provided to help us prepare. There were no practice exams, no review guides, and barely any clarity on what to focus on (and again, the lectures in class often did not correlate to the videos AT ALL) until the TA's stepped in with some reviews. Professor Buchner's exam format leans heavily on drawing and description questions, which personally caught me off guard. Paired with disorganized and dull lectures, this wasn't exactly a fun class. \r\n\r\nAll that said, getting an A is definitely doable if you put in a modicum of effort. If you've taken genetics, exam 2 should be a breeze, and if you go in having actually studied the material, exam 1 and the final should go well enough that you're in good territory (note: I didn't put enough effort studying for exam 1 and studied the wrong things, which again, was both my fault as well as the course's for NOT TELLING US WHAT TO STUDY but if you go in expecting it to be hard, I guarantee you that you'll do better). Additionally, the lab portion of the class offers a MASSIVE grade buffer. There's a lot of busy work (designing the cow transformation experiment was fun, but making us do like 3 discussion posts/essays/lit reviews each was too much), and bad groupmates will make you curse your life, but the TA's grade really generously, the labs are short and often end early, and they're easy to understand and even a little fun to do.\r\n\r\nPoint is: this class isn't the free ride you think it will be, but it's not that bad. Maybe 3-6 hours of studying per exam plus keeping on track with assignments, and you'll be okay.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2025-05-20T00:33:24.551207Z"
+    },
+    {
+      "professor": "John Buchner",
+      "course": "BSCI223",
+      "review": "I would give this man 0 stars if I could. Average is 66% for the final exam and he is not curving. The exams are absolutely atrocious and so hard to read cause they feel like a word vomit. Do not take this class if it is not required for you to graduate. It is not worth the mental toll it takes on you. I regret it so much.",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2025-05-20T04:19:28.032539Z"
+    },
+    {
+      "professor": "John Buchner",
+      "course": "BSCI223",
+      "review": "This class was more challenging than I anticipated, no doubt about it. Still, I think a lot of the super low reviews are from people who didn't put in the necessary time for this class or people who don't know how to adapt to a different classroom style and got a nasty awakening. \r\nYes the flipped classroom model sucks, lectures always felt disorganized because it was literally just clicker questions, but that just means this class is more of a self-study type which isn't SO unusual in college. I wouldn't say the exams were necessarily brutal, yes, they were riddled with small typos/mistakes, but a lot of it boiled down to whether or not you could apply the knowledge learned from lab and lecture. \r\nThe lab aspect of this class really helps to buffer your grade, while there's a lot of busy work, the small 10, 15, 20 point assignments add up and help you out in the end. I didn't do great on the first exam (low C), did slightly above average on the second exam (high B) and final (low B), but was still able to end up with an A- due to lab assignments. It's really important to have at least a basic understanding of lab tests and experiments, since they make up at least 20-30% of exams, but my TA always provided lab slides, and the protocols are all posted on ELMS. It also helps if your lab group is competent. I got lucky and we were able to divide work evenly, so no one ended up completing the entirety of an assignment on their own...but I heard some horror stories from friends in other sections. \r\nMy TA was a godsend, and Dr. Buchner's TAs are half the reason why I decided to give him three stars. Along with checking in with groups during labs, she was always willing to stay after lab if we ended early to answer questions, was a quick grader, and responded quickly to emails. This may be more of a Dr. Buchner thing, since he was also understanding with extensions, but my TA was super lenient on late submissions, even for major assignments, and would help walk me through the rubric if me or my group mates were confused. The one thing that was kind of frustrating was that none of the TAs had a good understanding of what exams were going to be like, since this was Dr. Buchner's first semester lecturing since exams were switched back to paper. I think future semesters will be better since the TAs will have more exposure to the in-person exams, but the exam blindness, especially going into Exam I, was extremely stressful. \r\nI think it's insanely unfair for people to make comments on Dr. Buchner's mental state. While this class was disorganized at times, like him forgetting to print at least 30 final exams, he is understanding if he sees that you're making an effort in the class. Not my favorite professor of all time, but he's not a demonic, hellish tyrant. If you put in the effort and have a good TA and lab group, you'll do fine.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2025-05-20T17:19:14.389832Z"
+    },
+    {
+      "professor": "John Buchner",
+      "course": "BSCI223",
+      "review": "Oh boy Spring 2025 BSCI223... going to talk about the course first: This class had the highest volume of work I have had in a class here yet.  Probably 3-4 assignments per week, which is a lot, especially when some of them are lengthly writing assignments. \u00a0 Often, the assignments seemed like busy work as well.\u00a0 The discussion post series felt like a poor use of time, especially with the arbitrary word minimums.\u00a0 The element of using and discussing a research article could have easily just been incorporated into the final poster presentation, without four additional writing assignments.\u00a0 The PAKs are a bit tedious, but they are at least somewhat connected to course material. \u00a0\r\n\r\nI really did not like the structure of the class but maybe I just don't get along with flipped classroom.  There were a few hours of lecture videos to watch each week, 2 hours of \"lecture\" (going to the lecture hall to listen to Buchner talk about measles and answer clicker questions), plus 4 hours of lab, plus all of the assignments.  BSCI223 is definitely a time suck no matter who the professor is.  \r\n\r\nLab was honestly pretty fun and we usually got out early.  My lab group was chill and we had a good system for getting group assignments done on time.  Shoutout my TA Anna, the legend!  She was so kind and helpful and always answered everyone's questions.  She also held long exam reviews on zoom.  \r\n\r\nNow about Buchner... He isn't as bad as people are saying.  I think the comments on his mental state are unfair.  Microbiology IS related to the measles outbreak, because types of vaccines are a component of a lecture video and are on the syllabus.  It's hard to talk about scientific research in microbiology without mentioning the current state of affairs in scientific research.  You really cannot fault Buchner for providing current context.  However, I will acknowledge that it took up more time of lecture than it really should have (i.e. mentioning it every day).  \r\n\r\nExams felt uneven.  First one was hard and average was a 66.  He gave zero prep materials for it, did not even say what topics would be on it.  It included lab stuff which threw everyone off.  I know we are in college and we don't need study guides anymore, but it caught everyone off guard.  Second exam was better.  The final though also had an average of 66.  He said it would be cumulative but it really was not.  No curve for the class.  Essentially: exam 1 = biochem, exam 2 = genetics, exam 3 = immunology.  Hopefully you've taken some of those classes and it might help.  \r\n\r\nHis \"lectures\" were sometimes related to the videos, sometimes not.  Some were PAK reviews which I found a bit useless.  I think this course would work MUCH better if he lectured during lecture, and we answered the clicker questions in a post lecture canvas quiz format.  It feels a bit ridiculous to go to 2 hours of lecture just to sit there and do clickers.  A moment that is burned into my memory is Buchner flipping out (literally screaming and menacingly walking towards) about an admitted student who came into the lecture hall and took a picture.  He started screaming and going off about his intellectual property and how it was against copyright to take pictures of his lecture material.  Miss girl I promise you no one wants pictures of your crappy clicker slides.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2025-05-22T13:47:18.112469Z"
+    },
+    {
+      "professor": "John Buchner",
+      "course": "BSCI223",
+      "review": "Not the worst professor I've ever had, but I do agree with many of the other reviews. This class definitely had the heaviest workload of all my classes this semester, and not because it was hard. There was a lot of unnecessary busy work that didn't really deepen my understanding of the material or help me prepare for exams. The upside is that the PAKs are graded for completion and TAs tend to grade leniently on the lab assignments, so the busy work helps to pad your grade. In lab time, there are no assignments you have to complete and turn in for a grade, but some of your results or presentations might be needed for assignments you turn in later, so I'd recommend taking pictures of your results. We usually leave lab 30 min-1 hr early. Other than the exams, there are 2 other major grading assignments, which are part of the lab portion. These are the lab report and research poster presentation, both of which are really easy as long as you follow the rubric. Almost all the lab assignments are done as part of a group that gets chosen at the start of the semester, so make sure you pick your teammates wisely.\r\n\r\nI also disliked the flipped classroom format, where you watch recorded video lectures on your own time and do clicker questions in class. If I wanted to learn by staring at a screen, I'd have gone on YouTube instead of paying thousands in tuition. I'd recommend double speeding the videos. The clicker questions were graded on completion but most were kind of useless for the exam and we had to pay for PointSolutions. Besides clicker questions, the lectures consisted of talking about current scientific research or topics related to microbiology, like the 2025 US measles outbreak. These are nice to know but useless for the exams. I'd much prefer it if they were included in the additional reading section for those who are interested instead of presented during class time. Near the end of the semester, Dr. Buchner had a more traditional lecture style since we finished all the pre-recorded content. I took notes in these lectures, but a lot of it was him reading off of the slides. Dr. Buchner does record his in-person lectures but I've never watched them. Overall, lectures were useless for the exam, but I attended for the clicker points.\r\n\r\nThere were 3 exams (2 midterms and a final), with the final worth the same amount of points as the midterms, but with more questions and cumulative. The exam content was all from the recorded video lectures (and traditional in-person lectures once those ran out) AND lab procedures. Studying the textbook was unnecessary. I wouldn't say the exams were unfair since all the content was covered in the class, but since Dr. Buchner didn't provide any study materials, many people didn't know what the exam format would be like. It was also his first semester doing an in-person exam instead of online, which may have contributed to the low averages. His exams include drawing diagrams, interpreting diagrams, short answer, some multiple choice, and logic questions (Ex: you have a procedure and you forget one of the steps; how does that affect the final results). If Dr. Buchner prints out a handout and goes over it in lecture, make sure to pay attention because it's going to be on the exam. Each exam has one free question thrown in, where you get points as long as you answer it sensibly. I studied for exams by rewatching the recorded video lectures, reading my notes, and looking over lab procedures. Dr. Buchner said he doesn't give out any previous exams, but that he won't stop students from sourcing them themselves. We couldn't do this since we were the first semester to have in-person exams with Dr. Buchner, but I would recommend finding previous in-person exams as study materials. \r\n\r\nOther notes: \r\n- I've heard that Dr. Tran had easier exams than Dr. Buchner. \r\n- Dr. Buchner seemed like a pretty chill guy when I talked to him.\r\n- If you've taken BSCI222, this class should be a breeze.\r\n- I don't think this class was harder than BSCI222, but it has more busy work.\r\n- I've heard that Dr. Buchner is lenient about extensions, as long as you email him before the assignment is due.\r\n- Dr. Buchner is strict about late work.\r\n- If Dr. Buchner provided practice exams and there wasn't so much busy work, this would be a free class.\r\n- I didn't learn as much about microbiology as I expected. If you're interested in microbiology as a subject, take BSCI283 instead.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2025-05-23T22:16:49.977386Z"
+    },
+    {
+      "professor": "Erin Tran",
+      "course": "BSCI223",
+      "review": "Great teacher, not easy class, the recent reviews are very accurate, a MAJOR tip: study her slides for exams, and re watch any topic you don't fully understand.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-07-01T16:51:42.343007Z"
+    },
+    {
+      "professor": "Erin Tran",
+      "course": "BSCI223",
+      "review": "Gives you an overload of videos to watch outside of lecture that covers topics she never actually discusses in lecture, 2 hour lab twice a week with an unusual amount of work outside of lab and outside of lecture. She goes over the simple things in lecture and does polling questions the entire time on one topic, doesn't really cover the rest of the stuff she puts in her videos. no practice exams or questions, ta's are very vague and also confused about the assignments and grading. She is nice, and if you understand the content, the exams are not bad, but she barely touches on what will actually be on the exam in lecture and instead just does practice activities in class that do not help with the content. a lot of major assignments that you are expected to complete every week. high effort for low gain, honestly do not recommend this class considering the lab doesn't even count as an upper level credit. also way too difficult and way too much work to be considered a gen ed. the amount of work in this class exceeds any of my upper level biology courses.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2025-10-22T18:08:16.805956Z"
+    },
+    {
+      "professor": "Erin Tran",
+      "course": "BSCI223",
+      "review": "STUPID CLASS. \r\n\r\nThe reverse lecture format is so annoying. She expects you to watch lecture videos on your own time and then ALSO attend lecture which you have to because of clicker questions but then she doesn't teach you anything. \r\n\r\nThe exams were too difficult for the level of material we're being taught and way to long for a 50 minute period. \r\n\r\nDon't recommend if you're just doing your natural science lab credit.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-11-12T17:24:20.708687Z"
+    },
+    {
+      "professor": "Erin Tran",
+      "course": "BSCI223",
+      "review": "At first i thought this was a good prof but there's so many assignments and projects on top of lab, and the hours you put in outside of class actually learning the material because of the flipped classroom is so stupid. the big thing is her unfairness with exams: apparently our average grade for the first exam was \"too high\" (it was a B-), because she basically sabotaged our second exam by putting way too much content and too many FRQs for the 50 mins given. I don't know a single person who finished that exam or felt good about it. And there's no curve despite all this negative feedback.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2025-11-20T04:42:26.360468Z"
+    },
+    {
+      "professor": "Erin Tran",
+      "course": "BSCI223",
+      "review": "Apparently Dr. Tran and Dr. Buchner swap teaching BSCI 223 each semester, so take Dr. Buchner because this class was a living nightmare and worse + more time consuming than my level 400 chemistry course.\r\n\r\nThe lecture is modeled after a flipped classroom, which is weird because you are required to attend due to graded clicker questions (and UMD doesn't pay for PointSolutions anymore so go figure). If you don't know what a flipped classroom is, you learn the lecture material on your own through her posted slides and recordings, and you review that material during actual lecture. I highly dislike this type of classroom model because it's double or triple the work and I have other things to do.\r\n\r\nThere are two midterms and the final, and she literally gatekeeps the format or anything specific about the exam. She didn't tell us the length, how many questions, or what types of questions would be on there. (No calculator, no formula/cheat sheet. She gave supplemental material like cycles and a codon chart for the two midterms. Some multiple choice and true/false, but mostly free-response questions, long and short. Exams took the entire 50 minutes.) Like someone else said, she complained that the mean score on exam #1 was too high (83%) so she ramped up the difficulty on exam #2 and basically everyone did bad (72% average). She gave us a 10-point curve out of 150 on the second exam. FORTUNATELY there are so many other assignments she gives you that can pad your grade in case you fail.\r\n\r\nLab was ok but you need to print out the material yourself and get a binder and lab coat. The TAs were helpful but their start-of-lab lecture sometimes took more time than it takes to finish the work for the day. Lab is 2 hours but I usually got out within an hour. Like the lecture it's also busy work\r\n\r\nThis course was so much busy work and so much self-studying that it left a bad taste in my mouth regarding the biological sciences. I'm sure Dr. Tran is a good person, but she is not fully equipped to teach this course. Take someone else.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2025-12-11T03:09:17.184711Z"
+    },
+    {
+      "professor": "Erin Tran",
+      "course": "BSCI223",
+      "review": "A lot of people don't like her because of the way the class is structured, and I do have to admit - this class IS really tedious. There are so many assignments that it starts feeling like a drag, especially in the back half of the semester.\r\n\r\nHowever, Dr. Tran herself is actually really lovely. She clearly tries her best, and in my experience has been perfectly willing to hear out students' concerns. I've emailed her several times with issues and she's always been very patient and understanding. Additionally, her actual lecture content is well structured. Sometimes the content can be really vague though - so if you don't understand something, make sure to look it up yourself. \r\n\r\nAdditionally, some people are upset about the second exam in the Fall 2025 semester. The exam WAS really long, but I'm here to tell you that she heard people out about it and ended up bumping the grades by 10 points, which was VERY generous. Additionally, people don't like her flipped classroom style, which is fair because she also forces you to come to lecture for clicker questions. In general though, the clicker questions are actually pretty helpful in terms of both reinforcement and preparing for exams because they show you what topics she thinks are important, which people either don't realize or ignore (?). \r\n\r\nIn general, she's pretty great and I think I would give a full 5 stars if there weren't as many tedious assignments.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-12-11T15:40:26.660696Z"
+    },
+    {
+      "professor": "Erin Tran",
+      "course": "BSCI223",
+      "review": "The flipped classroom is not helpful because she doesn't actually teach in class, just goes over practice problems. Easily 7+ hours of homework assignments a week, that is just busy work. The exams were ridiculously long, and no one finished the questions in time. I studied the slides, and it didn't seem like the content reflected in the tests. My TA was also not helpful and didn't take the class here, so she basically said I have no information on the tests and wouldn't show us how to study because there was no study guide, and the professor didn't acknowledge that there was even a test. The labs were twice a week, but half the time we got out in less than an hour, which is great, but why have two labs a week, which is a waste of time? Overall, this class is not a class you want to take unless you HAVE too,",
+      "rating": 1,
+      "expected_grade": "C+",
+      "created": "2025-12-11T21:45:38.993203Z"
+    },
+    {
+      "professor": "Erin Tran",
+      "course": "BSCI223",
+      "review": "Dr. Tran is clearly passionate about her subject, which is refreshing compared to many other professors at UMD. However, the current class structure leaves much to be desired. Lectures often feel unproductive, as little useful material is provided to help students succeed on exams. There is a lack of helpful resources, such as study guides or previous exam materials, which makes exam preparation more difficult than it needs to be. At times, it can even feel like the grading system is set up to be unnecessarily challenging. I hope Dr. Tran considers being more lenient on the final, and for future classes, I strongly recommend rethinking the course setup to better support students' learning and make the experience more manageable.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2025-12-12T18:18:47.325600Z"
+    },
+    {
+      "professor": "Erin Tran",
+      "course": "BSCI223",
+      "review": "For those considering taking the class because of the high grade distribution, DO NOT BE FOOLED. I spoke with MULTIPLE TAs at both the undergraduate and graduate levels. The reason the grade data looks so high is that the exams were all ONLINE and OPEN BOOK for many, many semesters. Now that all exams are closed-book and in-person, the average grade is now in the B+ range. IT IS NOT EASY to get an A without stressing out of your mind. \r\n\r\nNow for my review:\r\n\r\nThis class was genuinely not worth the amount of effort I put in and the stress it caused. I am a chemistry major, Pre-med (thus took this class), and this was the MOST time-consuming thing I had this entire semester. Not even research or Orgo 2 took this much energy out of me. You work in a group of 4 with the most incompetent people the whole sem (one of my group mates literally contributed nothing, and another just used ChatGPT the entire time) for a MAJORITY of the busy-work assignments. I wouldn't even have issues with busy work if it were like a worksheet or something related to the topics at hand, but having to work MULTIPLE times a week on a meaningless assignment with TROGLODYTES for a topic covered a MONTH ago, when we are doing something entirely different in the lecture, is insane. \r\n\r\nThe \"flipped classroom\" layout leads to people not watching lecture videos for months on end, and the lab work doesn't even help you learn the concepts that well most of the time. The lab is basically just \"can you read instructions\" and \"can you analyze research articles about random microbiology topics.\" \r\n\r\nThe exams are also something I have a bone to pick with, because there was absolutely no practice for any of the exams. Granted, however, if you keep up with the videos and lecture stuff, you will probably do pretty well on the exams, and the exams are the most grade-determining assignments. The first exam was super free, but subsequent exams just got worse and worse. The second exam had an average so bad Dr. Tran had to curve by giving everyone 10 points (dub for me, but if you had C on the exam, it didn't do much for you). The final, which I just took today, was literally just the hardest parts of every single midterm plastered into one exam and you had to relate it to the new material. NO CONSISTENCY AT ALL. I wouldn't even be mad if the exams were slightly harder, but at least make them all similar so we know what to expect man. \r\n\r\nALL IN ALL: Worst part of this class is the busy work. I maintained a 97 in organic chem 2 with no problem but this class's formatting and work is somehow 4x worse on my mental. Exams basically determine your grade, but they aren't the worst part by far. Take this class only if you need to, or if you really really like microbio and don't want to take the upper-level class for it. The A wasn't even that free, and it was way too much stress for this stupid class. The prof isnt bad, this overall is just a review of the terrible class layout, format, and assignments.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2025-12-15T22:11:57.364936Z"
+    },
+    {
+      "professor": "Erin Tran",
+      "course": "BSCI223",
+      "review": "tbh not sure what to write. waste of time. not really sure what to say about the exams like holy hell she pulls everything out of her butt bro it was just so frustrating AND THE CLASS IS SO MUCH WORK imagine getting rage baited for 15 weeks and everyday you wake up its like GOD more microbio and then theres the evil lab session its not that its bad its just that i literally suck at lab and also im just confused when we learned these skills because it certainly WASNT during that lab chunk. honestly i hope you take it in the winter so your labs are cancelled",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2025-12-18T15:31:04.639064Z"
+    },
+    {
+      "professor": "Erin Tran",
+      "course": "BSCI223",
+      "review": "yeah this was so much work i was shocked and the LAZINESS dude dont get me started. her exams are just pulled out of her butt and then you go to watch the lectures for the day and the title is like \"spring 2020\" BRO so you dont even make new content... but then the exams are completely random and if you finished in 50 minutes good for you... anyways shoutout my ta he didnt gaf like yeah going to lab twice a week sucks but this dude would carry me so hard ily. also there are so many assignemnts i was like UGH i have so much work and it was probably some useless 223 assignment that does nothing for you but for some reason will be graded like you cheated on their significant other. sorry all pre health friends",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2025-12-18T17:16:39.226011Z"
+    },
+    {
+      "professor": "Erin Tran",
+      "course": "BSCI223",
+      "review": "Dr. Tran is a very kind person and easy to work with in office hours and email. She will accommodate to meeting with you if you cannot make office hours. Despite this, the class was a lot of work even though it wasn't necessarily hard. The flipped classroom will have you spending hours on watching videos, as they get progressively longer. There is also so much lab work to do from these research boxes, to other little assignments. The PAK questions were also time consuming. Some of it was beneficial, and I would look out for especially in regards to the exam because sometimes she similarly applies them there, but otherwise just more work to do. The lectures were nice in the interactive aspect and having clicker questions that were on participation based actually helped your grade (I think you could only miss one or two and still get full credit). However, I still prefer a normal classroom since if you feel behind on watching lectures, you would be confused during class. Another thing to mention was that she purposely made the second exam longer and harder because the first exam scores were too HIGH (it was around a B to B- mind you). She did acknowledge the fault there and gave back 10 points, but I know for many, that did not help and was still frustrating. The class was the worst part. The lab on the other hand was better. It had times where it was fun and simple. My TA Junhan, and UTA, Caroline were amazing and made the experience so much better. After some time, I stopped printing out my lab protocals because they always explained in depth what to do. Shout out to them fr!! The lab practical is also NOT intimidating at all. It is very easy and you get to work on it with others for some parts and discuss with others throughout. Overall, the only bad parts come from what I said about lecture. This class is very doable, it just takes a lot of unnecessary time out of your hands and there was a bit of sabotage I'd say with that second midterm.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2025-12-18T23:04:33.137015Z"
+    },
+    {
+      "professor": "Erin Tran",
+      "course": "BSCI223",
+      "review": "this class is actually so dumb. all it is .. is busy work. the exams are way too long and hard for 50 minutes and for how easy the content is. she does not teach, the flipped classroom is stupid. there is always something that goes wrong in lab. like yes she is nice and accommodating but othwerwise...",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2025-12-19T22:05:44.214195Z"
+    },
+    {
+      "professor": "Erin Tran",
+      "course": "BSCI223",
+      "review": "Can't believe she stopped giving extra credit after seeing how the exams were. I wouldn't take this class again as she's trying to make people fail.",
+      "rating": 2,
+      "expected_grade": "C+",
+      "created": "2025-12-21T03:09:04.926798Z"
+    },
+    {
+      "professor": "Erin Tran",
+      "course": "BSCI223",
+      "review": "First off, she did curve the second exam after seeing how upset students were at it, and added a solid 10 points out of 150 to everyone's grade (the average was a 108/150), so I would disregard the previous reviews that are complaining about the exam. The other thing about that exam, is that the question that everyone thought was unfair was something she had explicitly stated in lecture that was going to be on the exam, so I don't understand why everyone was so upset when (surprise surprise) it did in fact end up being on the exam. I feel like everyone is hating on her and exaggerating everything out of proportion over that one exam, and each exam is only worth 15% of the class, which is much lower than your typical biology classes. In addition to curving the exam, I'm pretty sure she also adjusted the cutoffs slightly, so she clearly does care about her students doing well. Lab on the other hand is entirely dependent on how annoying your TA is, but thankfully, mine was super chill. \r\n\r\nHowever, I do agree with the complaints that there's too much busywork that don't teach you anything. There's so many random and lowkey pointless assignments that are probably just there to buffer your grade, so they're really time consuming for no reason. Similarly, the flipped-classroom style kind of sucks because you not only have to watch a bunch of lectures on your own time, but also have to watch her actual lectures during the normal lecture time. Overall, I don't think the class itself is that hard, I just think people weren't prepared for the amount of effort they needed to put in since a lot of people thought this was supposed to be a generic gen-ed, which personally, I would also not recommend this as an easy gen-ed. But for all the bio/pre-health kids that take this class, it's honestly a pretty easy bio class and I have no idea why they're complaining so much, but it's SO time-consuming for no reason.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2025-12-24T23:20:00.270047Z"
+    }
+  ],
+  "department": "BSCI",
+  "course_number": "223",
+  "name": "BSCI223",
+  "title": "General Microbiology",
+  "credits": 4,
+  "description": "<b>Prerequisite:</b> BSCI170 and BSCI171; or BSCI105.\n<b>Credit only granted for:</b> BSCI223 or BSCI283.\nFundamental concepts in morphology, physiology, genetics, immunology, ecology, and pathogenic microbiology. Applications of microbiology to medicine, the food industry and biotechnology.\n<i>(Sponsoring Dept.: CBMG) Students must pay a $40.00 laboratory materials fee.</i>",
+  "is_recent": true,
+  "geneds": null
+}

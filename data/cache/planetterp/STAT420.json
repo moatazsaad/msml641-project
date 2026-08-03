@@ -1,0 +1,315 @@
+{
+  "average_gpa": 2.5686567164179106,
+  "professors": [
+    "Jian Lun Xu",
+    "Joan Ren",
+    "Tingni Sun",
+    "Abram Kagan",
+    "Takumi Saegusa",
+    "Adam Telatovich",
+    "Dong Dong",
+    "Paul Smith",
+    "Jian Lun Xu",
+    "Jian Lun Xu",
+    "Jonathan Fernandes",
+    "Jian Lun Xu",
+    "Takumi Saegusa",
+    "Jian Lun Xu",
+    "Joan Ren",
+    "Jian Lun Xu",
+    "Jonathan Fernandes",
+    "Jian Lun Xu",
+    "Mestiyage Gunatilleka",
+    "Jian Lun Xu",
+    "Joan Ren",
+    "Jian Lun Xu",
+    "Joan Ren",
+    "Eric Slud",
+    "Takumi Saegusa",
+    "Hatice Sahinoglu",
+    "Joan Ren",
+    "Jonathan Fernandes"
+  ],
+  "reviews": [
+    {
+      "professor": "Jian Lun Xu",
+      "course": "STAT420",
+      "review": "Professor Xu definitely knew his stuff and was really clear in his explanations.  He taught very methodically, writing down definitions, explaining them, giving an example, and repeating.  His teaching was so clear there really was no need for questions.  His tests were fair, the homework was definitely challenging.  The only complaint I would have is that he never held office hours, which would make asking questions, if you had them, pretty tough.  \r\nIf you are into a more engaging class this professor is probably not for you, but he is a good teacher and I would take a class with him again.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2008-08-01T13:04:00Z"
+    },
+    {
+      "professor": "Takumi Saegusa",
+      "course": "STAT420",
+      "review": "He's a very quiet and calm professor. His exams are similar to HW problems and he curves assignments. Pretty chill.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2018-12-26T06:59:40Z"
+    },
+    {
+      "professor": "Takumi Saegusa",
+      "course": "STAT420",
+      "review": "His exams are not very hard. However, I think he spends too much time covering review topics like convergence in distribution and convergence in probability, leaving us no time to cover other topics other than some basics.\r\n\r\nI think if you want more comprehensive content you should take someone like J. Xu.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2019-05-12T18:52:14Z"
+    },
+    {
+      "professor": "Takumi Saegusa",
+      "course": "STAT420",
+      "review": "Was a fine lecturer, but STAT 420 is one those classes where it either clicked right away and you did really well, or it just never did and you'll end up doing consistently poorly despite spending hours and hours studying. Maybe I'm just salty because he mentioned at the beginning of class that he would curve all tests so that the average score was an 80, but didn't end up doing that (I would have gotten a C- if he had)",
+      "rating": 2,
+      "expected_grade": "D+",
+      "created": "2019-05-23T17:22:38Z"
+    },
+    {
+      "professor": "Takumi Saegusa",
+      "course": "STAT420",
+      "review": "His teaching is okay in class. In office hours, he's really condescending and makes you feel stupid for asking him to re explain things from class.",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2019-09-11T22:41:24Z"
+    },
+    {
+      "professor": "Dong Dong",
+      "course": "STAT420",
+      "review": "Great teacher. Understanding homework can prepare you for the final. His finals are fair and the format are just like the homework and lecture notes.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2019-12-17T00:44:18Z"
+    },
+    {
+      "professor": "Takumi Saegusa",
+      "course": "STAT420",
+      "review": "I've been on the fence between one and two stars for a while, but what pushed me over the edge was Professor Saegusa's inconsistent (and quite frankly, insensitive) homework spacing. Professor Saegusa is barely able to communicate any of the material, and when he does, it is often a proof irrelevant to the homework/tests or a theorem riddled with typos. Don't get me wrong, I like math, but I only want to see the underlying theorem if the professor is capable of communicating the material relevant to homework/tests in the remaining time, and he simply isn't.\r\nHis tests frequently came with a massive time crunch that left the entire class scoring poorly. Despite this, he only curved one of our exams. I am not salty about a poor grade, in fact I am doing well. Rather, this fits into a constant pattern of him being insensitive about the time we need to do things, be it taking or scanning a test, or going from spacing his homeworks once every three weeks to once a week. That last thing really got on my nerves: his homeworks tend to take 5-10 hours, and there were a few weeks where I did not budget time for them, only to find out Tuesday that we had a homework due Friday. This was incredibly inconsiderate of our time; if you want to go from giving homework once every three weeks to once a week, the students need more of a heads up. He isn't necessarily mean, just inconsiderate.\r\nEssentially, if you decide to take Professor Saegusa, know that you will be teaching yourself much of the material, that he will assign homework inconsistently but frequently, that his tests are on a huge time crunch, and that his slides are riddled with typos. Do not recommend, though I know (sadly) that both of the STAT420 options aren't good ones.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2021-05-04T13:12:02Z"
+    },
+    {
+      "professor": "Takumi Saegusa",
+      "course": "STAT420",
+      "review": "Saegusa does a poor job of explaining the material in class. He assigns long homework's that most of the class doesn't understand and is often unhelpful during office hours. He also threw the whole class off with a final nothing like what we'd seen previously, so much of the class dropped at least a letter grade, myself included. I'm only giving him 2 stars because I passed even though my grade was basically nuked down to a D+ by his insane final. I had a solid B before hand, so it's not like I had been struggling.  Also he may curve on one exam but refuses to curve the overall grades in most cases. ",
+      "rating": 2,
+      "expected_grade": "C-",
+      "created": "2021-05-18T03:53:26Z"
+    },
+    {
+      "professor": "Takumi Saegusa",
+      "course": "STAT420",
+      "review": "My goodness. I certainly hope that Professor Saegusa's performance this semester was just because he was under the stress of the pandemic, but this course was just horrible. The lectures were quite horrid. He spent many weeks on reviewing material from a previous course and spent time complaining on what little time we had left. He spent an excessive amount of time on proofs which never came up again (I would not have minded such proofs if he backed it up with conceptual questions in homeworks/exams that required an understanding of how one proves a particular theorem). One could also expect a typo in his slides in nearly all his lectures. These time-wasting lecture practices lead to the course not covering all the material it planned to cover. \r\n\r\nThe workload for this class is far too much. This is the first semester where most of my classes were 400-level courses, and this course alone consisted of most of my workload in a week. On exams, the professor expects you to answer formally as though you were writing a paper. He insists that you explain each variable that you use despite some variables in statistics being conventional. In addition, the questions on exams were computationally intensive which made the exams very difficult to finish on time and gave you many opportunities to make mistakes. His grading is also quite unforgiving in terms of mistakes made during computation. \r\n\r\nThe professor's native language is not English, and I personally understand the difficulties that come with that. One of these difficulties is determining whether what is said, despite its truth, will come out as rude or condescending. Regardless, the professor said the things he said. He often says that topics are \"easy\" despite his students not having had the time to process the information. And so, he claims that a topic is easy while his students struggle. After a bad class result on an exam, at least in his perspective (The average was a C-), he said that students should \"improve their learning skills.\" And during the class in which he went over this exam, the professor did not go over a question as it was \"too easy.\" Beyond these examples, he can come off as quite condescending to students.\r\n",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2021-05-23T01:01:26Z"
+    },
+    {
+      "professor": "Jonathan Fernandes",
+      "course": "STAT420",
+      "review": "I'm disappointed to write this review because I've taken STAT 410 with him and had a great experience. this class was insanely hard and jonathan's expectations for the students were definitely way too high. the homeworks were super hard and I always had to google to figure out how to do them since the class notes were not directly applicable. the exams were also insanely hard and we didn't get much help to prepare. for the final exam he told us \"if you know all the examples from class and homeworks you'll be fine\". like jeez thanks a lot. He also said he'd post class notes but would always do it super late, giving us barely any time to use them for hw/exams. Only giving him this rating because he's a nice guy and was fairly lenient with grading/curving final grades. not really sure what happened but STAT 420 was a pretty bad experience.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2023-01-03T17:35:01.152833Z"
+    },
+    {
+      "professor": "Jonathan Fernandes",
+      "course": "STAT420",
+      "review": "Jonathan is nice and helpful. I really appreciate that he record all lectures. But the way he taught the class could be better. The contents are unclear and the hand-written notes are hard to read. The course itself is very hard and I hope he can give students better notes to learn. He does give very helpful practice exams but since many people never understand his lectures, it turns out we have to memorize EVERY SINGLE QUESTION which is very suffering. Exam averages are around 80/100. You can easily get 95/100 if you know all his examples and HW questions, but again, it takes a long time.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2023-01-23T23:24:51.211823Z"
+    },
+    {
+      "professor": "Jian Lun Xu",
+      "course": "STAT420",
+      "review": "Lecture are kind of hard to follow, but he clearly emphasizes what he wants you to know for exams. Exams are very similar to the ones from past years. Responds to emails very quickly and tries to help as much as possible.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2023-05-20T17:31:59.836898Z"
+    },
+    {
+      "professor": "Joan Ren",
+      "course": "STAT420",
+      "review": "Professor Ren was great, the class was very challenging but I learned so much math and I came out the other side feeling very confident in my statistics ability. She is harsh with homework and test grading, but the curve is very generous, plus she's just a great professor!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-19T03:13:46.348598Z"
+    },
+    {
+      "professor": "Jian Lun Xu",
+      "course": "STAT420",
+      "review": "This course is rough. You are expected to know the ins and outs of stat410 very well but Dr Xu reviews stat410 material for the first 3-4 weeks. After that, stat420 actually begins. \r\n\r\nI felt that his teaching was low-key the bare minimum. He would go over the basics of a certain concept (primarily focused on definitions) but then on homeworks and exams would expect you to apply those concepts in very peculiar ways. He also does not host office hours due to being a part time professor but is very responsive to emails and willing to help before or after class. Homeworks were a combination of very lengthy and/or very difficult. For Fall 2023, we only had 1 midterm and he didn't provide a practice test but for the final exam the math test bank was a great resource to use. He also sometimes says during class what types of problems will be on the exams (ex: there will be a problem on maximum likelihood estimators or something like that). Exam questions might also be pulled from the homework (word for word).\r\n\r\nI'd say the most stressful part of this class (at least for when I took it) was that 76% of the grade was determined by the midterm (33%) and final (43%). This, combined with the difficult homeworks, dr xus teaching style, and unintuitive nature of stat420 material, makes this class pretty difficult. That being said, dr xu has been teaching this course for a loooong time, so if you go out of your way to ask him for help he will definitely make things clearer for you. \r\n\r\ntldr: this course is hard asf and you should only take it if you can REALLY put in the work.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2023-12-19T14:04:26.112361Z"
+    },
+    {
+      "professor": "Jonathan Fernandes",
+      "course": "STAT420",
+      "review": "Super funny and nice guy, who cares about students learning the material well. Understand how to do the homeworks and examples from class and you will be fine for exams. One thing is he is not very responsive on Piazza or by email, but other than that he is great.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-04-04T23:22:16.027895Z"
+    },
+    {
+      "professor": "Jian Lun Xu",
+      "course": "STAT420",
+      "review": "class was very difficult, even more so than MATH410. consider taking multiple proof-based courses before taking STAT420 with this professor. \r\n\r\nthat being said, if you have the required mathematical background he expects you will learn a lot. homework and exams are difficult, and it is recommended that this class be the only difficult class you take in a semester. i got a lot out of this class, and it greatly improved my problem-solving ability. \r\n\r\nprofessor is responsive through email, and does a good job of explaining things clearly when approached 1-on-1.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-04-30T20:09:26.794918Z"
+    },
+    {
+      "professor": "Jonathan Fernandes",
+      "course": "STAT420",
+      "review": "Pros:\r\n1) Lenient grading\r\n2) Exam questions are mostly from homeworks and quizzes.\r\n3) He's funny in lectures, and you can see that he's passionate about teaching.\r\n4) Records lectures, and also hosts them live on Zoom.\r\n5) Has lots of office hours.\r\n\r\nCons:\r\n1) If you can't do a problem on one homework, you're kinda screwed because he keeps asking you that for the rest of the course. So be sure to go to office hour and clarify it.\r\n2) Extremely disorganized about uploading assignments. Made most of them due in the last few weeks which made it very stressful. Arrived late to class for most of the semester.\r\n3) Speedran through some of the big topics of the course towards the end of the semester while spending a good chunk at the beginning reviewing Stat 410 material.\r\n4)",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2024-05-10T00:56:01.396755Z"
+    },
+    {
+      "professor": "Jonathan Fernandes",
+      "course": "STAT420",
+      "review": "Incredibly mediocre. I appreciate how flexible with the course structure he is (Live Zoom recordings is great) but man this guy cannot organize a class for his life. It is genuinely so painful taking STAT420 with him since every homework or R project had numerous errors on them that were fixed a day before the deadline. He also just does not keep his word on anything. For the last 7 weeks of the semester, he kept talking about how he was going to release quizzes and then just forgot to and never did. He also honestly doesn't seem that familiar with the material himself and as a result does not teach this material in a way that is easily understood. Almost everyone in the class genuinely had almost no idea what he was talking about towards the end of the semester.\r\n\r\nThe saving grace for him is the fact that his exams are so ridiculously easy. If you can do the homework and devote time to memorizing the solutions before the exams you're pretty much guaranteed an A in this class. I would take Fernandes again if you don't really care about the material and just want an easy finish to your math degree. Otherwise, if you're looking to get an easy A, this is probably as easy as it gets for your 1-year sequence in your math degree.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-05-17T23:47:16.416567Z"
+    },
+    {
+      "professor": "Jonathan Fernandes",
+      "course": "STAT420",
+      "review": "Very interesting and funny professor in class! I really enjoyed his jokes, and he made the content quite interesting. I do wish he spent a little less time working on STAT410 material in the beginning of the semester, but other than that, I don't really see many problems with this professor!",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2024-05-19T03:03:52.888271Z"
+    },
+    {
+      "professor": "Jonathan Fernandes",
+      "course": "STAT420",
+      "review": "Just bad in every way. If you actually want to learn something, don't waste your time.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2024-05-24T07:06:52.475959Z"
+    },
+    {
+      "professor": "Mestiyage Gunatilleka",
+      "course": "STAT420",
+      "review": "Extremely mid lecturer, has a lot of patience with students who keep answering wrong though. He also pauses in between sentences kind of strangely which is off putting. His quizzes are weekly which forces you to study, and they always have some kind of trick to them. His examples in class don't really help, so this is a self study type of course.",
+      "rating": 3,
+      "expected_grade": "C",
+      "created": "2024-10-04T16:32:32.519227Z"
+    },
+    {
+      "professor": "Jonathan Fernandes",
+      "course": "STAT420",
+      "review": "Took STAT420 and MATH410 at the same time, Fernandes is honestly the GOAT for any STAT class. His exams are mirror copies of the homework, and will NEVER give you anything on the exam that you haven't seen before. He spends a lot of time helping you look at the \"bigger picture\", and helps you solidify your understanding of the statistical process. He's great. Class is trivial.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-10-29T19:30:37.357820Z"
+    },
+    {
+      "professor": "Mestiyage Gunatilleka",
+      "course": "STAT420",
+      "review": "Awesome, awesome professor. Weekly quizzes are fair and good practice. Homeworks are relevant for the most part, and on average difficult but not impossible. Exams are also incredibly fair, and there is a practice exam posted and a review session in the class before the exam. Dr. Danul is also a great lecturer. He talks slowly, explains topics well, and constantly pauses to make sure everyone is following along. He answers questions well, and my favorite thing he does is relate material to real-world applications. I would 100% recommend taking this course with Dr. Danul, and I wish I had taken more courses with him in the past.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2024-12-11T17:15:03.309121Z"
+    },
+    {
+      "professor": "Mestiyage Gunatilleka",
+      "course": "STAT420",
+      "review": "I had previously taken STAT410 with him and really enjoyed the class, and I wasn\u2019t disappointed this time either. His lectures aren\u2019t recorded, but the in person classes are very valuable to go to, and he takes his time to answer questions so everyone is on the same page. Homeworks are typically given weekly and contain problems that were hard, yet really fun to work through. Quizzes are every Thursday and usually consist of a basic example that he likely already touched upon in the prior lecture. Exams are fair, and some curve will likely be applied at the end fo the class. I would highly recommend any class taught by him.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-17T17:46:46.217139Z"
+    },
+    {
+      "professor": "Jian Lun Xu",
+      "course": "STAT420",
+      "review": "This was the hardest course I have taken at UMD. Prof. Xu is very knowledgeable about statistics, seems to genuinely care about the students' learning outcomes, and had some cool stories he occasionally mentioned. I found lectures to be somewhat dry and hard to follow, and homework assignments challenging and time intensive. That said, the exams were quite fair and similar to past exams available on the Testbank. I finished with a C but if you actually put in the time to study for this course it's totally possible to finish with a solid grade.",
+      "rating": 4,
+      "expected_grade": "C",
+      "created": "2025-05-23T13:08:23.252927Z"
+    },
+    {
+      "professor": "Joan Ren",
+      "course": "STAT420",
+      "review": "One of the worst teachers I\u2019ve had the displeasure of taking. She often fails to explain things clearly and then blames the students even if she makes the mistake. There is no regrades and no arguing, and her grading is beyond absurd. You must complete every problem exactly as she does, correct alternative solutions will yield you zero points. While the class isn\u2019t that difficult, she makes it immensely frustrating as you can do a problem 90% correctly and make small numerical errors and get no points. The exam averages were in the 40% after curves, and while the problems are similar to the HW, she often changes the numbers in such a way that a completely different method is required to solve them. You are allowed a formula sheet, but even though she isn\u2019t clear, she will give you a 0 on exams for the smallest dubious infractions. The final exam does replace all grades, so getting a decent grade isn\u2019t that hard, but once again it is just not an enjoyable class. Take it if you need it for the math major, but just be prepared for a very unpleasant experience.",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2025-05-24T20:07:39.090737Z"
+    },
+    {
+      "professor": "Joan Ren",
+      "course": "STAT420",
+      "review": "I had a very disappointing experience in this course. The professor was often rude and dismissive toward students, frequently refusing to explain material by saying, \u201cyou should already know this.\u201d As a result, I never felt comfortable asking questions when I didn\u2019t understand something.\r\nHer grading was unusually harsh, with significant point deductions for very minor or seemingly irrelevant issues. Additionally, she regularly made mistakes on the board and reacted defensively when students attempted to seek clarification.\r\nOne incident that illustrates the disruptive classroom environment involved her refusing to return an exam to a student, wrongly insisting they were impersonating someone else\u2014even after verifying their student ID.\r\nOverall, the atmosphere was not conducive to learning, and I left the course feeling discouraged and less confident in my mathematical abilities due to the frequent verbal criticism in class.",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2025-05-29T21:26:21.850858Z"
+    },
+    {
+      "professor": "Joan Ren",
+      "course": "STAT420",
+      "review": "This course is extremely difficult with the instructor; do not take unless absolutely required for your major/minor requirements. The content is not what makes the course hard; the instructor frequently gets into arguments with students, does not answer questions if the material has already been covered, and teaches the course in an extremely robotic manner (she expects your work to match her style exactly and does not tolerate any alternative solutions even if correct). Steer clear unless absolutely necessary.",
+      "rating": 1,
+      "expected_grade": "C+",
+      "created": "2025-06-02T03:49:06.261672Z"
+    },
+    {
+      "professor": "Joan Ren",
+      "course": "STAT420",
+      "review": "She has an attitude issue. The class was very stressful due to her, rather than the difficulty of the class.",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2025-06-02T19:57:32.634703Z"
+    },
+    {
+      "professor": "Joan Ren",
+      "course": "STAT420",
+      "review": "Absolutely terrible professor, extremely rude and harsh grader...",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-06-10T02:14:29.761351Z"
+    },
+    {
+      "professor": "Joan Ren",
+      "course": "STAT420",
+      "review": "She made it feel to the students in the class that she was doing us a favor by even being there to lecture us. There are days where she can be receptive to questions and correcting her own mistakes on the board. However, more often than not, asking questions led to the student\u2019s question being ignored or the student being berated, often a combination of the two. The most common response was \u201cyou should already know this\u201d or \u201cthis should have been covered in your previous course\u201d. Or \u201cyou should figure this out from the textbook yourself\u201d. But she would often claim that the textbook gets things wrong or she knows better than the textbook, so it\u2019s very unclear for students to know how to learn in the course given the environment she promotes.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2025-06-13T19:21:38.130561Z"
+    },
+    {
+      "professor": "Takumi Saegusa",
+      "course": "STAT420",
+      "review": "The other reviews pretty much say it all. I hardly ever paid attention in this class, and whenever I did it rarely taught me anything. At least he is somewhat lenient with the curve and the projects are essentially guaranteed 100% since you can resubmit as many times as you want with his feedback. However, he is a nice guy and an understanding professor.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-12-04T21:56:23.487904Z"
+    },
+    {
+      "professor": "Joan Ren",
+      "course": "STAT420",
+      "review": "Her class is honestly a nightmare for both herself and her students. She doesn\u2019t really teach. She basically just copies her notes onto the whiteboard, and when you ask questions, she either says she doesn\u2019t understand you or gives some random answer with a really harsh attitude. She teaches the material from STAT410 at the beginning of the semester and says these are things we should already know. She acts like you owe her money or something.\r\nOn top of that, she constantly goes off on unrelated tangents and tries to push her own opinions, like she wants everyone to agree with her (for example, she doesn\u2019t think AI has a promising future). If you go to her office hours, she\u2019ll just tell you to look at your notes again and talk around the topic she\u2019s interested in without actually answering anything. Then she complains that no one comes to office hours\u2026\r\nWhat makes it worse is that the class average is extremely low, and she still doesn\u2019t see any problem with it. She has a very rigid grading system where you only get points if you write things exactly the way she does, even if your answer is correct.\r\nMy honest advice: don\u2019t take her class (STAT420 \u2014 I\u2019m not sure about her other classes) if you can avoid it. It\u2019s just not worth the stress.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2025-12-25T22:22:55.027969Z"
+    },
+    {
+      "professor": "Joan Ren",
+      "course": "STAT420",
+      "review": "Her teaching mainly consists of copying handwritten notes onto the whiteboard and asking students to take notes, without actually explaining the content of the notes. When students ask questions in class, she often gives vague answers or says that she does not understand the question. During office hours, she usually tells students to reread their notes rather than providing clear explanations or helping to resolve specific problems.\r\n\r\nHer exams are difficult, and grading is strictly based on her own solution method. Even if a student arrives at a correct answer using a different valid approach, points will be deducted for not following her exact steps. In addition, she frequently spends class time promoting her personal opinions, such as claiming that statistics has strong career prospects while other fields do not. She expects students to agree with these views, she often talks about these rather than ending class. My honest advice: don't take her class unless you have to!",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2026-01-20T02:06:53.583128Z"
+    }
+  ],
+  "department": "STAT",
+  "course_number": "420",
+  "name": "STAT420",
+  "title": "Theory and Methods of Statistics",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> 1 course with a minimum grade of C- from (SURV410, STAT410).  Cross-listed with SURV420.\n<b>Credit only granted for:</b> STAT420  or SURV420.\nPoint estimation, sufficiency, completeness, Cramer-Rao inequality, maximum likelihood. Confidence intervals for parameters of normal distribution. Hypothesis testing, most powerful tests, likelihood ratio tests. Chi-square tests, analysis of variance, regression, correlation. Nonparametric methods.",
+  "is_recent": true,
+  "geneds": null
+}

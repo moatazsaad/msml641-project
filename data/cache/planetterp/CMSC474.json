@@ -1,0 +1,148 @@
+{
+  "average_gpa": 2.6927789934354482,
+  "professors": [
+    "Mohammad Hajiaghayi",
+    "Dana Nau",
+    "Walter Cleaveland",
+    "Dana Nau",
+    "Mohammad Hajiaghayi"
+  ],
+  "reviews": [
+    {
+      "professor": "Dana Nau",
+      "course": "CMSC474",
+      "review": "Nice enough person, but a poor instructor.\n\r\nHis teaching style is to read over his lecture slides (which, granted, are packed with information) pretty much word for word. I found in-class lectures pretty pointless unless you managed to immediately digest and comprehend information at the (pretty quick) rate at which he presents it, and ask tons of questions. You'd be better off pulling up the lecture slides on your own and working through the examples during class time. \n\r\nHomework sets took a bit of time to do, since there was a fair amount of having to review the slides repeatedly and first trying to understand the examples and reverse engineer them. Practice Midterm and Final Exams were given, but were much easier than the actual ones. Nau's justification was that they were all of 'easy' difficulty for him, so he didn't realize ours was harder.\n\r\nFinal grades in this class were curved, in my opinion heavily (~8-10%). The projects are not of complex difficulty and ended up bringing up most people's grades in this class, at least a little bit.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2015-01-20T18:42:00Z"
+    },
+    {
+      "professor": "Mohammad Hajiaghayi",
+      "course": "CMSC474",
+      "review": "Prof. Hajiaghayi is great. Enthusiastic, good lecturer, and responsive to questions. Lectures feel like a math class with definitions and theorems. Projects are hard and require learning stuff not taught in lecture, but assigned very early (1+ months) and are very applicable to computational game theory. HWs are easy and straightforward. Grading includes 2 in class quizzes, a midterm and final (with midterm replaced with final if it improves your grade), 4 HWs, and 3 projects. You'll learn a lot.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-10-25T21:14:34.030851Z"
+    },
+    {
+      "professor": "Mohammad Hajiaghayi",
+      "course": "CMSC474",
+      "review": "I do not agree with this professor's approach to teaching this class. Oftentimes materials were poorly explained/glossed over in lecture, as he read mostly off the slides then went on tangents about how he worked at Google or how you can make a lot of money in big tech (ugh). Assignments were released far in advance, but the material on the assignments was often taught much closer to the due date, making the actual window to complete them much lower if you didn't want to flip through lecture slides from 3 weeks out. \r\n\r\nHe expects you to teach yourself a lot of the material to be able to perform on projects and exams, which makes some sense for the real world, but he was unforgiving and not understanding in my communication with him, seeming dismissive of my difficulty with the class. Oftentimes he would point to external materials to build \"problem-solving\" skills for the course, which were graduate level course recordings on his YouTube channel, which were confusing and convoluted to my feeble undergrad brain. We also received grades nearly a month after homeworks/exams were completed which increased my salt levels a bit. \r\n\r\nIf you have trouble teaching yourself a good chunk of a course, then I would not recommend this professor, since it's an expectation that you not only show up to lecture and take notes, but also put in multiple hours making sense of difficult external materials to get to the level he expects. It's a shame this class was managed the way it was, because I found the material we were learning very interesting when I actually understood it, but this class was definitely a trip on the struggle bus for me. Maybe the C- \"recommendation\" in CMSC351 (which is a requirement for the CS degree so idk why that's a recommendation when it's required) should be raised to B+ or A- so that people understand how smart you should be to succeed in this class with Prof. Hajiaghayi.",
+      "rating": 1,
+      "expected_grade": "C+",
+      "created": "2023-11-30T15:07:03.057341Z"
+    },
+    {
+      "professor": "Mohammad Hajiaghayi",
+      "course": "CMSC474",
+      "review": "Hajiaghyi has been a nightmare as a professor. When exams don't match class material and your grades are determined by how well you do against others, it feels a little bit contradictory to his constant talk about wanting everybody to succeed as that is literally impossible when a third of the class is guaranteed to get a 50% on two of the three total projects. The exams are maybe 50% content and 50% think about this problem and write a solution you think works. The midterm had no partial credit for line of thought. Exams also include a section that is basically \"are you subscribed to my social media and have you watched my content.\" This also feels like something that a professor should not do. His lectures are, for the most part, off the slide. Anything said in lecture has been generally learned better on my own. I would not take this class again.",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2023-12-10T22:19:56.107622Z"
+    },
+    {
+      "professor": "Mohammad Hajiaghayi",
+      "course": "CMSC474",
+      "review": "avoid this teacher. He is bad. I wanna fall asleep every lecture. To his credit, he actually follows his syllabus (nothing gets delayed)",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2023-12-11T00:45:59.804871Z"
+    },
+    {
+      "professor": "Mohammad Hajiaghayi",
+      "course": "CMSC474",
+      "review": "I enrolled in this class with the expectation of it being a relatively straightforward course with interesting content. Unfortunately, that hasn't been my experience. While Mohammad Hajiaghayi is pleasant, his teaching approach leaves much to be desired. The organization of the course is lacking, with unclear explanations of important topics. During lectures, Hajiaghayi tends to spend the initial 20 minutes discussing unrelated matters, such as chatgpt, before delving into incomprehensible explanations of the actual subject.\r\n\r\nThe provided slide decks are often insufficient, and when the professor writes on them, the text is illegible. All assignments, including tests, projects, and homework, suffer from numerous spelling and grammar issues and are poorly worded. Completing homework assignments becomes a self-guided endeavor, as the necessary information is rarely covered in class. Project 1, in particular, was exceptionally challenging, with a vague three-sentence explanation that resulted in many students receiving zeros.\r\n\r\nThe grading system for the other projects is based on a tournament thus heavily reliant on your bracket. The midterm was generally manageable, except for a last question which he neglected to teach us to do. When asked about it he claimed that this question was to \"encourage you to read ahead\" which isn't something he has discussed before.\r\n\r\nIn summary, the learning experience in this class has been limited, but the lenient grading offers a silver lining.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2023-12-11T02:42:38.084807Z"
+    },
+    {
+      "professor": "Mohammad Hajiaghayi",
+      "course": "CMSC474",
+      "review": "His lectures are difficult to follow at times, but really my issue comes with the fact that his homework assignments and projects have so little to do with each other and with the lectures (he keeps saying we should just learn from google and chatgpt for some topics). I'm fine with being pushed to learn, but it's unsure whether or not things connect with each other. Also, I have no idea what to put for expected grade because he doesn't grade things, and everything's really disorganized. He told us there are two in-class quizzes and turns out there were only one which graded based on completion. With that said I do think he's a nice person.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2023-12-13T04:13:10.839597Z"
+    },
+    {
+      "professor": "Mohammad Hajiaghayi",
+      "course": "CMSC474",
+      "review": "Course has a lot of interesting concepts, but it is clear the professor is checked out. This was unfortunate since I was really passionate about Game Theory as it was my favorite topic from AP Econ, but I feel like the execution of instruction was demoralizing.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2023-12-20T05:10:12.918806Z"
+    },
+    {
+      "professor": "Mohammad Hajiaghayi",
+      "course": "CMSC474",
+      "review": "Content is interesting, but his lecturing is very bad",
+      "rating": 1,
+      "expected_grade": "A+",
+      "created": "2023-12-21T14:45:04.222728Z"
+    },
+    {
+      "professor": "Mohammad Hajiaghayi",
+      "course": "CMSC474",
+      "review": "I expected the course to be more interesting than this. The only thing that was fun in the course was the group project. We had to implement the game to play against other groups, so in order to get a high grade, you have to win over other people. That's the only opportunity that we could actually apply the concept, I did want to play more games! But it was dry, all about theory. The first individual project was a nightmare for us because we weren't taught or given enough information to be able to do it. It turned out a lot of people decided to skip it.\r\n\r\nProfessor Hajiaghayi is nice, he's responsive. But the lectures were too boring to follow, so I decided to learn the concepts myself. I wish we could have a piazza for Q&A, but seems like the staff didn't have time for it.\r\n\r\nThe grading scheme was generous with some extra credits. There was no helpful practice exam or study guide, so you will have to understand the topics to do well on the midterm. Remember to read the slides. I remember there was a midterm question that wasn't covered to test our problem-solving skills. However, if we read the slide about that, we could get it done very easily.\r\n\r\nOverall, if you can teach yourself, feel free to take this course because you can't rely on the Professor or TAs. The concepts aren't too hard, and they are interesting tbh. I just don't like the way the course was organized.",
+      "rating": 2,
+      "expected_grade": "A+",
+      "created": "2023-12-24T20:29:06.456474Z"
+    },
+    {
+      "professor": "Mohammad Hajiaghayi",
+      "course": "CMSC474",
+      "review": "I don't know how previous years went, but his semester teaching CMSC474 was an absolute disaster. The projects graded in a ranked scale where the students competed against each other for the better grades, he barely put anything on ELMS so we had no idea how we were doing in the class at any point, and most of us didn't even get our final grades unless we asked. He also gave us zero help in studying for the exams that were 60% of our grade. There was no topics sheet, there was no practice exams, there was no Piazza, and there was one review session for the midterm (and none for the final) that he didn't even attend. He also told us we should listen to his 12 hour podcast because it may be tested as extra credit... which never happened.\r\n\r\nAnd every time someone goes to him to ask for any clarification, he just tells us to \"not worry about our grades\". Well, I \"didn't worry about my grades\" and I got a D, so thanks for that.",
+      "rating": 1,
+      "expected_grade": "D",
+      "created": "2024-01-02T17:09:31.025251Z"
+    },
+    {
+      "professor": "Mohammad Hajiaghayi",
+      "course": "CMSC474",
+      "review": "- Unclear with grading on the syllabus. When asked about how participation would be factored into our grade (6%) he would not give the class a clear answer. This also was an issue with the quizzes, where we were supposed to have 2 pop quizzes (1 of them for extra credit) throughout the semester but only received one. When asked what will happen with the second quiz, he seemed like he was also unsure of how the grading for quizzes would work. He wouldn't respond to emails about how our final grade would be calculated.\r\n- Did not even bother to show up for our exams.\r\n- On the midterm, there was a 3-part question that many people did not know how to solve because it wasn't even taught yet. The material was taught later in the semester. \r\n- Claimed that we had over 3 weeks to work on projects and homework, but in reality, all the assignments were assigned all at once and the complete material was taught a week before the deadline.\r\n- Overall, he shows a lack of care for students, which is unfortunate since the content itself is very interesting.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2024-01-05T01:11:09.111736Z"
+    },
+    {
+      "professor": "Mohammad Hajiaghayi",
+      "course": "CMSC474",
+      "review": "The professor could not have made it more clear that he does not care for the students taking the class in any way. Refusing to upload lecture recordings pertaining to projects out of spite, not releasing topic lists for exams, not showing up for review sessions, and consistently showing up 15-20 minutes late for lecture just to start. The projects were technically released a month in advance, but the topics were not covered until about a week before the due date. There were also questions on the first exam on topics we had not covered, which made the fact that no topic list/study resources were made available other than the slides. Also, most of the 5 star reviews on this page are from the professor, which obfuscates his true rating. Please avoid at all costs.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2024-01-11T20:57:06.281789Z"
+    },
+    {
+      "professor": "Mohammad Hajiaghayi",
+      "course": "CMSC474",
+      "review": "This was the genuinely most stressful class I have taken at UMD. Homeworks and exams were extremely difficult, with 0 practice material for the exams, and he literally told us to use AI for the homeworks. Project 1 was really confusing, and projects 2 and 3 had you make a bot that was competing against the rest of the class for your grade. The teacher was also extremely lazy, skipping days whenever we had an exam or a pop quiz. I cannot stress this enough: you should avoid this professor at all costs.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2025-12-20T20:46:28.635717Z"
+    },
+    {
+      "professor": "Mohammad Hajiaghayi",
+      "course": "CMSC474",
+      "review": "This professor turned a very interesting topic into a stressful nightmare. Homeworks were extremely confusing and was related to class materials by topic only. The lessons lacked practical example so learning how to do that math to solve problems was all on the students. This made it impossible to complete the homework without outside resources, I mainly used lecture from a professor at another university and AI which he actively encouraged us to use. Confusingly, he also took up 2 whole lecture periods to tell us comp sci majors how screwed we were in the job market because of AI, yet he actively encouraged us to use it which makes the problem worse. I approached him asking a question about the first project because I was confused about how one of the sample inputs led to the sample output and he refused to answer my question and told be to ask AI. When I did, every AI said the output was incorrect because the AI doesn't know how to solve these complex problems. That's why I had to use materials from another university to figure out anything in this class. He also was constantly late, lacked any technological skills, mumbled in lectures, and annotated his slides with a computer mouse which led to illegible handwriting. He never told us what would be on the midterm and final and gave us 0 practice materials. It seemed like he was intentionally setting us up for failure. I escaped with an A only because he gave extra credit for in class \"games\" which were the most boring and awkward things ever. I learned nothing about game theory from him and all of my knowledge came from another professor.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2026-02-01T17:38:44.961565Z"
+    },
+    {
+      "professor": "Mohammad Hajiaghayi",
+      "course": "CMSC474",
+      "review": "This professor took an interesting topic like game theory and turned it in to a horrible learning experience. The lectures were boring, with most time being spent on him talking about using AI, how he worked at Amazon every other sentence, and random side rants that had nothing to do with the class. He told us not to care about our grades since we weren't going to be able to get jobs as CS majors, and should just use AI for homework and projects. He was too lazy to reteach material from his COVID class, so he assigned poor-quality Zoom lectures from his COVID class as reading material, as he would not really cover most of the content in class. He didn't cover all of the topics in the syllabus, despite having assigned many lectures and readings on those topics. They never appeared on any homework or exams, so I learned them without needing to. He also covered content very slowly, spending a lot of time on very basic information, at the expense of not getting to more relevant parts or complex examples which he still put on homework. I was only able to get an A by skipping the later lectures and learning the content from ChatGPT. He also never responded to my emails about exam regrading or syllabus information.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2026-02-08T07:18:34.385365Z"
+    }
+  ],
+  "department": "CMSC",
+  "course_number": "474",
+  "name": "CMSC474",
+  "title": "Introduction to Computational Game Theory",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> Minimum grade of C- in CMSC351 and CMSC330; and permission of CMNS-Computer Science department. Or must be in the (Computer Science (Doctoral), Computer Science (Master's)) program.\n<b>Credit only granted for:</b> CMSC474, ECON414, GVPT390 or GVPT399A.\nGame theory deals with interactions among agents (either human or computerized) whose objectives and preferences may differ from the objectives and preferences of the other agents. It will also provide a comprehensive introduction to game theory, concentrating on its computational aspects.",
+  "is_recent": true,
+  "geneds": null
+}

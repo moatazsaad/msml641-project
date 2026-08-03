@@ -1,0 +1,720 @@
+{
+  "average_gpa": 3.0766135155656786,
+  "professors": [
+    "Bill Kules",
+    "Timothy Richards",
+    "Dimitri Wolford",
+    "Cody Buntain",
+    "Aric Bills",
+    "Douglas Lay",
+    "Joshua Westgard",
+    "Leonard Mayfield",
+    "C Rytting",
+    "Jeannette Kartchner",
+    "Jennifer Golbeck",
+    "Edward Summers",
+    "Nekabari Sigalo",
+    "Gabriel Cruz",
+    "David Patrick",
+    "Aric Bills",
+    "Edward Summers",
+    "Gabriel Cruz",
+    "Pamela Duffy",
+    "Timothy Summers",
+    "Vedat Diker",
+    "Aric Bills",
+    "Matthew Patrick",
+    "William Farmer",
+    "Matthew Patrick",
+    "Aric Bills",
+    "Daniel Pauw",
+    "Gabriel Cruz",
+    "Matthew Patrick",
+    "Matthew Patrick",
+    "Aric Bills",
+    "Matthew Patrick",
+    "Gabriel Cruz",
+    "William Farmer",
+    "Aditya Aswin Kumar",
+    "Aric Bills",
+    "Christopher Dempwolf",
+    "Gabriel Cruz",
+    "Matthew Patrick",
+    "P Kshetry",
+    "Zahra Farhadi",
+    "William Farmer",
+    "Aric Bills",
+    "Christopher Dempwolf",
+    "Gabriel Cruz",
+    "Aric Bills",
+    "Gabriel Cruz",
+    "Matthew Patrick",
+    "Matthew Patrick",
+    "Aric Bills",
+    "Christopher Dempwolf",
+    "Iskander Lou",
+    "Matthew Patrick",
+    "William Farmer",
+    "Aric Bills",
+    "Gabriel Cruz",
+    "J Bern Jordan"
+  ],
+  "reviews": [
+    {
+      "professor": "Dimitri Wolford",
+      "course": "INST326",
+      "review": "Really good teacher. He is very helpful in answering questions and he presents the material thoroughly. He grades very leniently on the quizzes and the tests. The homework assignments are fair and if you struggle he will gladly help you if you go to his office hours.  ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2017-12-30T00:45:50Z"
+    },
+    {
+      "professor": "Joshua Westgard",
+      "course": "INST326",
+      "review": "Some of the hardest Homeworks ever. I've looked at other classes' homework and they are a breeze compared to his. However, Professor Westgard is very nice and will listen to you if you have any questions and concerns. Just be prepared for really hard homework. I could have received an A but the very last homework...I couldn't even attempt because it was so difficult. No final, but a group project which is always nice. ",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2019-12-06T20:10:30Z"
+    },
+    {
+      "professor": "Aric Bills",
+      "course": "INST326",
+      "review": "Aric is a really good professor who really gets you to learn the material the right way.  I have struggled with understanding object oriented programming for a long time, but under his teaching I was finally able to master it.  ",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2019-12-23T22:35:06Z"
+    },
+    {
+      "professor": "Aric Bills",
+      "course": "INST326",
+      "review": "Excellent Professor! Learned a ton and highly recommend!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2020-01-13T17:06:26Z"
+    },
+    {
+      "professor": "Nekabari Sigalo",
+      "course": "INST326",
+      "review": "One of my favorite professors at the school. Extremely understanding and easy-going, and knows her stuff as well.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2020-05-21T18:02:28Z"
+    },
+    {
+      "professor": "Aric Bills",
+      "course": "INST326",
+      "review": "Great professor",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2020-11-21T22:22:49Z"
+    },
+    {
+      "professor": "Edward Summers",
+      "course": "INST326",
+      "review": "One of the best professors he made the class easy yet still taught us the concepts thoroughly!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-04-15T20:39:04Z"
+    },
+    {
+      "professor": "Edward Summers",
+      "course": "INST326",
+      "review": "His online class has been great. Prof. Summers is very nice and approachable, and did his best to accommodate the online learning environment. The class is made up of one 10pt assignment due every Sunday, and he goes over the concepts and usually provides template code in lecture. You can even use his template code as long as you alter it in some way, provide comments, give it another function, etc. The projects were focused on data analysis mostly, and we used real Covid-19 vaccination and testing data from the MD dept. of Health in our projects. It was really cool to use data analysis on actual real data. Also, it's a very easy class if you've taken CMSC 131 previously (I did). The only new concepts are Python specific things such as Jupyter Notebook and the Pandas library. 10x easier than 131 projects, by far.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2021-05-03T17:49:04Z"
+    },
+    {
+      "professor": "Aric Bills",
+      "course": "INST326",
+      "review": "Honestly an amazing professor that wants you to understand the topics the class goes over very well. The documentation for all projects is very detailed and clear, plus the explanations for all the concept is really easy to understand. Aric is also a really nice person and very understanding. He's willing to take time to talk with you one on one so that you can go over what you don't understand with him and try to clear up any difficulties. 100% recommend taking him if he has a class in the semester.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2021-08-13T12:59:24Z"
+    },
+    {
+      "professor": "Aric Bills",
+      "course": "INST326",
+      "review": "He's so nice and his lectures are incredibly well-organized and easy to understand. The pace of the class is great and I really feel like I've learned a lot compared to other coding classes I have taken.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2021-11-16T20:07:04Z"
+    },
+    {
+      "professor": "Edward Summers",
+      "course": "INST326",
+      "review": "Professor Summers is a truly kind person, and he wants his students to learn. This semester he had each second class of the week be a working session, so that he could show an example of how to do the lab, to give students who attended the online session a head start on how to complete it.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-12-06T15:10:45Z"
+    },
+    {
+      "professor": "Aric Bills",
+      "course": "INST326",
+      "review": "Pros: Prof. is very down to earth, easy going, understanding, great feedback, class has both in person and online lectures. Some struggled in this class, but I have previous programming experience so it was much easier for me. I learned a lot and nearly earned a 100%. \r\n\r\nCons: Nothing honestly, I really enjoyed this class and he's one of my favorite Profs. at UMD.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-01-13T19:25:21Z"
+    },
+    {
+      "professor": "Aric Bills",
+      "course": "INST326",
+      "review": "Aric is one of my favorite professors at UMD. He is extremely fair to students and very accessible outside of class. His assignments can be hard and time-consuming but the instructional team is always available to give you guidance. I learned so much about python in his class and I feel that he genuinely cares about and wants to connect with his students.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-02-09T19:23:28Z"
+    },
+    {
+      "professor": "Gabriel Cruz",
+      "course": "INST326",
+      "review": "If you are as good as a professor at Python, take this course. \r\n\r\nThe professor never tells us anything related. You'll have to find everything on the Internet. It will also inform you of the assignment through a link to the MIT professor's lecture. If we understand and understand that, we'll be sitting at MIT. \r\n\r\nTA also doesn't know what the task is about. When you ask a question, you say, \"Uh\u2026\u2026\" for half an hour. \r\n\r\nIf you're really confident in Python, go for it!",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2022-06-15T22:59:01Z"
+    },
+    {
+      "professor": "Matthew Patrick",
+      "course": "INST326",
+      "review": "I do not recommend taking this professor as he uses previous course materials and expects you to work on assignments on things that have not even been taught yet.",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2022-10-31T21:30:07.408705Z"
+    },
+    {
+      "professor": "Matthew Patrick",
+      "course": "INST326",
+      "review": "Do not recommend this professor. Nice guy, but class relies entirely on reading slides, the textbook, and an optional lecture every 2 weeks. If you are not confident in your Python skills this is not the professor to take, you will likely fail. I have learned nothing from the course material and have to rely on google for learning. Office hours are constantly swamped. TA's are not helpful I have gotten responses such as \"this is a simple concept to understand, re -read the question\" downright degrading and unmotivating.",
+      "rating": 1,
+      "expected_grade": "C+",
+      "created": "2022-11-22T03:38:38.450080Z"
+    },
+    {
+      "professor": "Aric Bills",
+      "course": "INST326",
+      "review": "Aric is the absolute man. He is so understanding and willing to compromise if you need an extension. This is also the class in which I've learned the most in my entire experience. I came in as a very below average coder but Aric got me up to speed and now I'm so much more comfortable with Python. The workload is definitely not easy but he's a fantastic teacher. Also a great lecturer. My favorite professor thus far for sure.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2022-11-30T01:06:43.678320Z"
+    },
+    {
+      "professor": "Matthew Patrick",
+      "course": "INST326",
+      "review": "not sure why there's the hate in the some of these reviews... professor was very clear that the course was going to be asynchronous from the beginning. and whenever i did go to lecture he was really helpful and nice. i didn't have to waste time going to lectures and labs for stuff i already knew or could easily google which saved me so much time. there were other in-person sections for 326 too, feel like some people would've just had a better experience there. honestly this was one of the best classes i've taken, but to each their own ig",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-12-05T19:44:57.725281Z"
+    },
+    {
+      "professor": "Aric Bills",
+      "course": "INST326",
+      "review": "I wouldn't rate Aric a full 5 stars. Lectures don't really cover concepts, you watch videos on your own time, and come to class to complete practice assignments based on the concepts the videos covered. Another thing is the homework assignments, the homework assignments are honestly rather difficult. You'll likely pass, but be prepared to struggle. Tough grader as well, here's what to expect in the class:\r\n\r\n4 major coding homeworks (1 ended up being dropped due to aric getting sick and the schedule got funky)\r\n4 exams\r\n1 group project\r\nWeekly practice and exercises\r\n\r\nExams are actually not bad, practice exams are provided and the actual exams are VERY similar to practice ones. The group project also isn't too bad, you come up with an idea for a program and execute it. The worst part are the homeworks, but if you are comfortable or rather comfortable with basic python concepts, you'll pass! it might be intimidating the first couple weeks and you may begin to doubt your ability, but stick to it, I really was considering dropping the class because I was doubting myself, but I'm glad I didn't because I really do feel I came out as a better programmer.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2022-12-13T04:13:13.886084Z"
+    },
+    {
+      "professor": "Aric Bills",
+      "course": "INST326",
+      "review": "Aric\u2019s definitely one of the best professors on campus. Coming with mediocre python skills, his class challenges your growth and understanding starting from the basics to more convoluted subjects. He\u2019s generous with extensions and office hours. All his UTA\u2019s are very helpful and available. Don\u2019t slack on practices, late penalty is 50%.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-12-25T19:16:45.570020Z"
+    },
+    {
+      "professor": "Daniel Pauw",
+      "course": "INST326",
+      "review": "He teaches 326 this semester and I can say that these first few works have been some of the worst in my life. He throws you into material that you haven't really learned yet and he's so disconnected from reality that it's insane. Whenever you ask him a question he'll either redirect you to the TA or just reread the directions of the assignments even slower offering no assistance whatsoever. He only does office hours once a week for an hour and it consists of him asking questions to the questions you ask. Avoid him at all costs if he ever teaches again.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2023-02-14T22:48:22.734982Z"
+    },
+    {
+      "professor": "Bill Kules",
+      "course": "INST326",
+      "review": "I had Dr. Kules for INST326 and he was a great professor. The course was a bit challenging, but he was very patient and helpful. I would certainly take another class with him.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2023-04-28T23:37:41.691880Z"
+    },
+    {
+      "professor": "Aric Bills",
+      "course": "INST326",
+      "review": "Amazing teacher and will definitely help you learn Python better. I personally learned nothing from INST126 and Aric made it so I learned Python. He has a lot of TA's who are extremly helpful so office hours aren't loaded. There is a bit of work so start things early. He has 4 exams but they are only 25% of your grade. Overall would definitely recommend.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2023-05-16T05:51:14.378964Z"
+    },
+    {
+      "professor": "Matthew Patrick",
+      "course": "INST326",
+      "review": "optional lectures, organized course, and lots of resources. would definitely take again",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-22T14:57:17.914499Z"
+    },
+    {
+      "professor": "Aric Bills",
+      "course": "INST326",
+      "review": "Definitely not an easy course compared to INST126, but aric gives you the resources and the materials to succeed. Hes a compassionate guy that cares about his students, and is a great teacher in my opinion. The course in general is pretty tough, especially if you're not an experienced programmer. But in general he's a great teacher and I recommend this course",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2023-05-25T17:22:41.511364Z"
+    },
+    {
+      "professor": "Aric Bills",
+      "course": "INST326",
+      "review": "Aric was one of my favorite professors by far. Sometimes the coursework can be quite challenging, however, there are so many office hours that you can always find someone to help. Also, going to class was always reinforcing the lecture videos watched before class. Most weekly assignments consist of watching lecture videos and completing a Jupyter notebook before Monday's class, starting a coding exercise in Monday's class to be done by Wednesday morning, and the occasional 3 times a semester coding assignment due on Friday. Overall, definitely super manageable and would 100% take it with him again. He also is super understanding about needing extension and prioritizes learning above all else.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-05-25T18:34:00.494656Z"
+    },
+    {
+      "professor": "Gabriel Cruz",
+      "course": "INST326",
+      "review": "Excellent professor. He goes over all the content; if you ask questions, he will answer. People are just salty because they haven't programmed or aren't trying to in the future, so they are shocked that they had to be engaged just a bit to get an A.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-09-28T17:55:35.171929Z"
+    },
+    {
+      "professor": "Aric Bills",
+      "course": "INST326",
+      "review": "Aric and his class are fantastic. His coursework can be tough, but you get some valuable learning out of everything you do in Python. Although you learn a good chunk of the course content online for homework, The lecture videos he posts every week are nice and easy to follow and make examples out of for homework and projects. His exams are tough but reasonable, and they follow the structure of the practice exams almost to a tee. The cherry on the top is that his office hours are very open-ended and are online, too, so you can drop in whenever they're open (they're open quite frequently and even go pretty late some nights) and get some big help with anything you're having issues with. Overall, coming from comp sci, his course structure is definitely a league above any other programming class I've taken here so far.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-11T20:59:28.632209Z"
+    },
+    {
+      "professor": "Gabriel Cruz",
+      "course": "INST326",
+      "review": "He's ok. No exams so that's a nice thing. You have weekly exercises during discussion and there's 4 big homework assignments. He says he will help, but he's usually busy, so you got to rely on the TAs. Lectures are not mandatory but they're also not helpful, so you have to teach yourself a good portion of the content.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2023-12-14T15:03:43.860284Z"
+    },
+    {
+      "professor": "Matthew Patrick",
+      "course": "INST326",
+      "review": "If you are great at Python you should be fine in his class. If you are bad or mediocre at python he won't do you any favors.\r\n\r\nChoose Aric Bills.",
+      "rating": 2,
+      "expected_grade": "A+",
+      "created": "2023-12-18T04:55:52.003268Z"
+    },
+    {
+      "professor": "Aric Bills",
+      "course": "INST326",
+      "review": "I love this guy lol. Aric really does care about all his students developing Python skills and provides enough resources for everyone to leave the class able to program proficiently. He provides video lectures and practice to be watched and done from wed-sun so that on Monday you come in ready to use the lecture skills on an in-class exercise. I stress that everyone comes to class on Mondays as he gives practice points simply for being present in class and doing the exercise, if you don't finish the exercise you have until the start of class on Wednesday to submit. If you run into trouble he and his TAs have so many office hours available and they're all mostly online through Discord so you really have no excuse to not go to office hours to get help. I really wouldn't have done so well in his class if it weren't for office hour help sessions.\r\nOther tips for success: \r\n- For lecture vids, have your screen split half vid, half jupyter lab to take notes (highly recommend taking notes in jupyter lab as the graded practices are jupyter notebooks)\r\n- In class don't just sit and watch him go over concepts, take notes during this time. I recommend doing them in jupyter or on an ipad or physical pen and paper as his whiteboard doodles sometimes contain things like tables and little diagrams and generally you remember more by writing. Also his exams are pen and paper so the more you get used to writing code by hand the better you'll do on the exams.\r\n- Do his practice exam several times over and take his practice pages seriously!! His practices are quite similar to his actual exams, he never does things to purposely confuse you he is quite clear on what is going to appear on the exam.\r\n- Do all work ahead of time, especially homeworks!! Office hours are your best friend.\r\n- Try to scout out people you want to work on the final project ahead of time, (would recommend sitting closer to the front of the class and finding people who are always present in class and work hard)\r\n- Do his whiteboard activities, it's kinda embarrassing to go up and participate but the social anxiety-provoking aspect of it helps you remember better I swear.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-20T18:09:36.780782Z"
+    },
+    {
+      "professor": "Matthew Patrick",
+      "course": "INST326",
+      "review": "Instructor didn\u2019t teach a thing. He puts out power point slides every week, additional reading materials, and gives assignments. The TAs grade the assignments. There is also a final project that I spent weeks on, just to have it not graded. The professor didn\u2019t communicate that either, he just submitted final grades without even touching our final projects. I wasted so much time on it. I don\u2019t know what he does, but he sure does not lift a finger to be a part of this class.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2023-12-23T13:13:59.419137Z"
+    },
+    {
+      "professor": "Matthew Patrick",
+      "course": "INST326",
+      "review": "Python course is straightforward with helpful resources and clear assignment expectations. Very reasonable workload.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-12-28T18:45:06.442662Z"
+    },
+    {
+      "professor": "Scott Dempwolf",
+      "course": "INST326",
+      "review": "I didn't have much experience with Python before this class but the professor gave us examples and broke down the code for most assignments. He is very willing to answer questions and change assignments around based on student needs. One star off because the lectures and slides revolved around the book, which I didn't find helpful, but overall I recommend taking him.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-01-09T00:52:39.552683Z"
+    },
+    {
+      "professor": "Matthew Patrick",
+      "course": "INST326",
+      "review": "Reviews don't accurately represent this course in my opinion. The concepts were understandable with a little bit of effort on the student's part. He held live sessions to answer questions and explain concepts and even gave us a pass on some of the quizzes where we would get free points. I enjoyed it. Just wish there were recorded lectures for students to view.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2024-02-16T20:40:23.425747Z"
+    },
+    {
+      "professor": "Aric Bills",
+      "course": "INST326",
+      "review": "While Bills is a good person, I WISH someone told me not to take him. He has 4 on-paper python exams (no cheat sheet, closed laptop, etc). He is very lenient for late work if you email him before the due date, but he also gives attendance quizzes that close 5 min into class, so you don't get credit if you're more than like 3 minutes late.\r\n\r\nAlso, he and his TAs refuse to grade or put anything into elms. It is May 1st, and we currently have 3 grades put into elms (one which was auto bc it was an elms survey). I have to manually calculate my grade from a month ago based on the few grades they put into gradescope. \r\n\r\nYou'll like his class if you're already comfortable with python and are on time to almost every single class. And also if you can carry your group project. He is a good guy though, just a harsh, slow grader and a bit old-fashioned (on paper coding)",
+      "rating": 2,
+      "expected_grade": "C",
+      "created": "2024-05-01T04:25:36.208319Z"
+    },
+    {
+      "professor": "Aric Bills",
+      "course": "INST326",
+      "review": "not a bad guy or lecturer but he never grades anything ever for so long. i literally don't know my grade and the sem ends this week. also you'll have to take 4 in-person, closed-note, closed-laptop, on-paper coding exams, do with that info what u will!",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2024-05-05T03:22:51.375953Z"
+    },
+    {
+      "professor": "Aditya Aswin Kumar",
+      "course": "INST326",
+      "review": "Very helpful and communicative. Walks through code and helps you get through assignments and exercises if you're running into any problems.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2024-05-21T16:55:03.323289Z"
+    },
+    {
+      "professor": "Matthew Patrick",
+      "course": "INST326",
+      "review": "Probably the best course I've taken at umd - super organized professor and very willing to help students. The flexibility of the course was wonderful. Really liked the TAs too, although some grades could have been posted a little sooner",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-06-19T16:43:18.498270Z"
+    },
+    {
+      "professor": "Christopher Dempwolf",
+      "course": "INST326",
+      "review": "Dr.Dempwolf is a really amazing and caring professor. He genuinely cares about his students and is really passionate about the subject. His class can be a bit disorganized at times but it doesn't hinder the clarity of his instruction for projects/deadlines.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-07-12T03:56:54.943012Z"
+    },
+    {
+      "professor": "Zahra Farhadi",
+      "course": "INST326",
+      "review": "If you're looking to genuinely learn Python, I highly recommend taking a class with Professor Farhadi. She has a knack for explaining concepts clearly, making it easy for beginners to grasp coding fundamentals. Professor Farhadi also posts lecture slides ahead of time, allowing students to prepare in advance. Attendance in discussion sessions is mandatory, as they take attendance, but these sessions are extremely beneficial. The course itself is quite manageable, with no major exams\u2014just two quizzes. Your grade primarily depends on projects and activities completed during discussion sessions, where group work is encouraged. If Professor Farhadi were to teach any other INST classes, I would definitely enroll in them.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-07-23T13:18:35.984234Z"
+    },
+    {
+      "professor": "Aric Bills",
+      "course": "INST326",
+      "review": "This guy is a social reject. Genuinely he tries to teach you something but he teaching us some of the most useless things in python that we will never use in the real world. What kind of a professor takes the last attempt on a quiz as the grade and not the best grade. Tbh if you wanna learn useless subjects take him if not take any other professor.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2024-10-27T22:36:41.741745Z"
+    },
+    {
+      "professor": "Aric Bills",
+      "course": "INST326",
+      "review": "I put expecting a B because I am aiming for a B or higher but I'm not sure if that will actually happen. I believe the glaze for this professor is kind of crazy. I really wish someone could have told me NOT to take this guy. He is very reasonable, he will give you an extension on almost everything and you dont need a reason for it. You also set how long you want the extension which is pretty neat. Now I never had to worry about turning things in late so this wasnt really much of a plus for me. He does random attendance quiz on any given day and if you were to come 5 minutes late, you're out of luck. I and many people have talked to him about it and he is pretty firm about it. Another thing, people won't admit it but so many people have private tutors, were previously comp sci majors, or have had previous experience in python that gave them an edge in this class, or they are simply retaking this class. So it looks like everyone is understanding the general memo but people really arent!! You are not alone. INST126 was a joke, that class did not prepare me for 326 at all and no amount of studying and lecture watching and asking of questions helped me either. For reference, I do sit in the front of the class and go to office hours regularly. But this class is actually very hard but it doesn't feel hard at the same time. He provides examples for how to do certain code but then we get our assignment and its as if we are in a masters class. His code does not prepare you at all for his assignments, it really makes no sense!!!! Even he himself knows everyone uses chatgpt. Like there is literally no way the information you have provided us so far is able to complete these assignments. Not too mention, one time I had a question on an assignment and I asked the TA for more help. Not even the TA knew the answer. So if I dont know, and you don't know, who's gonna know?? But yeah, all in all, I wish I took this class online. My friend is also taking this class online and they can admit that it is much easier than it being done in person. They do not have 4 midterms plus a final presentation. It really is just an added stress when you realize other people in 326 classes are not going through the same pain as you. For now, on I will be closely looking at the reviews for professors with high ratings because this is ridiculous. TLDR; If you just want an A do not take this professor, if you are aiming for retention(which isn't that beneficial in my opinion as you can learn in many ways outside of school), then take this professor.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2024-10-30T19:31:06.575088Z"
+    },
+    {
+      "professor": "Aric Bills",
+      "course": "INST326",
+      "review": "His lectures are done through videos on elms and then he expects you to have questions on the video and asking during class. If you like this type of learning style then this class may be up your ally. But I personally hated it because there was never really a right time to ask questions in class because he kind of expects you to know the material since you have watched the videos. The amount of awkward silence whenever he asked questions based on his online lectures is funny. This class isn't asynchronous btw. Office hours were also really weird as they were done through text on discord as most TA's didn't want to zoom. There is also no curve in this class plus 4 midterms and a final presentation.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2024-10-30T19:49:24.259422Z"
+    },
+    {
+      "professor": "Gabriel Cruz",
+      "course": "INST326",
+      "review": "not accommodating",
+      "rating": 1,
+      "expected_grade": "D+",
+      "created": "2024-11-21T16:47:05.388259Z"
+    },
+    {
+      "professor": "Gabriel Cruz",
+      "course": "INST326",
+      "review": "Tries to act like he's professional, yet consistently posts sloppy autograders late. Had to email him for half of the homework autograders because they were either incorrect (i.e. my code was correct but was failing the autograder for whatever reason) and/or posted days, even weeks after the assignment was posted on Canvas. Had to wait almost a week for a response from him so ended up going through the TA anyway. I find it ironic that a professor who is so strict about people not turning in things late constantly posts things and responds to emails late himself. As for the content, I'm fine with self-teaching so I didn't go to any lectures, so I can't speak about the quality of those. Not the worst professor in the world, but would recommend avoiding if possible.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2024-12-04T21:12:32.356733Z"
+    },
+    {
+      "professor": "Aric Bills",
+      "course": "INST326",
+      "review": "Fun coding course where I learned some pretty interesting concepts compared to other theory heavy coding classes. Be good student, don't be lazy, show up on time, and study and you are guaranteed at least a B.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-12-25T04:19:47.637040Z"
+    },
+    {
+      "professor": "Aric Bills",
+      "course": "INST326",
+      "review": "I don\u2019t recommend taking this class. The professor does want you to learn and is nice in his own way, but the class is insanely overwhelming. He gives so many things to do every week, with most assignments due at 9 am, so you have no choice but to do them the day before.\r\n\r\nHere is how a typical week goes: You start with a Jupyter notebook practice due by Monday morning, which requires watching a TON of recorded lecture videos. Then, there\u2019s an in-class group coding exercise due Wednesday morning, meaning you\u2019ll probably spend Tuesday working on it. You might have a homework assignment due on Friday, but if you\u2019re lucky, there may be nothing. Additionally, there are 4 exams throughout the semester and they are always on Wednesdays every 2-3 weeks.\r\n\r\nOn exam weeks, you still have to complete the plethora of weekly assignments. While he sometimes eases up by making the exercises easier during these weeks, there\u2019s still a lot to do. The excessive amount of group work required, often needing to be done outside of class, makes it hard to coordinate with everyone and takes up all your personal time. The final project is also a group project, and while it may seem easy it can be incredibly unorganized at times.\r\n\r\nI am never at peace since the to-do list is never done. While I didn\u2019t expect to breeze through this class, this is a little too much to bear. The professor is passionate about the topic, but in my opinion, it\u2019s just not worth the stress.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2024-12-27T20:22:48.119978Z"
+    },
+    {
+      "professor": "Matthew Patrick",
+      "course": "INST326",
+      "review": "Best professor I've taken at umd. Took me a fair amount of self-motivation at first for the style of his course but it was really really rewarding, and he super helpful during class whenever I needed it. He helped relate the course content to job interviews and careers too which I really liked",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-28T00:32:58.573196Z"
+    },
+    {
+      "professor": "Gabriel Cruz",
+      "course": "INST326",
+      "review": "I have noticed people who do poorly in the course are the same people who use AI on all their homework and have gone through the entire INST degree program with just \"getting by.\" Tons of material that is properly covered, is there when you need him, stays after class, or asks you to walk with him if you have questions and answers questions in a timely manner, he has a full-time software engineering job on top of teaching but I never felt once like that got in the way.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-01-06T22:58:09.994017Z"
+    },
+    {
+      "professor": "Gabriel Cruz",
+      "course": "INST326",
+      "review": "This dude is incompetent, his lectures aren't worth attending and all his homework end up with bugged auto graders. He is slow to respond to emails or slack(1+ weeks) and when he does respond they are full of typos and punctuation errors, sometimes completely unreadable. Most of his online homework assignments you will never get a full score unless you reach out to him or a TA personally because they never work. Overall this class is a hassle and would never recommend you take with this professor, a joke of a class.",
+      "rating": 1,
+      "expected_grade": "A+",
+      "created": "2025-02-06T21:03:38.483198Z"
+    },
+    {
+      "professor": "Aric Bills",
+      "course": "INST326",
+      "review": "I really like this professor as a person\u2014super nice and understanding\u2014but as a teacher? I wouldn\u2019t recommend this course.\r\n\r\nThe class structure is a mess (at least in my opinion). There are three lectures a week, but instead of actual teaching, they\u2019re just Q&A sessions based on 1-2 hours of assigned videos you have to watch beforehand. If you thrive in an \"ask-and-answer\" learning environment, this might work for you. But if you don\u2019t want three mandatory discussions every week, it\u2019s a nightmare. Essentially, the class is entirely self-taught.\r\n\r\nAnd don\u2019t even get me started on the pop quizzes\u2014if you\u2019re even two minutes late, you\u2019re out of luck. So, not only do these so-called \u201clectures\u201d require you to come fully prepared, but you\u2019re also forced to attend because of these surprise quizzes.\r\n\r\nThere are four exams spaced every 2-3 weeks, plus assignments that seem to be due at the most inconvenient times (not even 11:59 PM deadlines). It felt like there was always something hanging over my head. As someone who\u2019s not the best at coding, I had to cram like crazy for the exams\u2014and somehow survived.\r\n\r\nIf you\u2019re looking for a structured, engaging learning experience, this isn\u2019t it.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2025-02-22T06:41:34.232493Z"
+    },
+    {
+      "professor": "Gabriel Cruz",
+      "course": "INST326",
+      "review": "Just took his first quiz for 326. This professor does not care about this class at all. His quizzes were riddled with errors and TAs were explicitly told to not help us even regarding test errors. do not take this professor.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2025-02-28T19:19:57.901594Z"
+    },
+    {
+      "professor": "Aric Bills",
+      "course": "INST326",
+      "review": "Honestly I don't get why so many people praises this guy. His teaching style isnt for everybody. His deadlines are so odd like who puts deadline for 11pm and 9am? also 4 exams on paper thats written and its 35% of your grade. I wish i hadn't taken it with him. if you're good at python you should take his class",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-03-12T04:51:49.744031Z"
+    },
+    {
+      "professor": "Gabriel Cruz",
+      "course": "INST326",
+      "review": "The worst professor you can take for 326, he takes forever to respond back to emails, and is very incompetent. This class is intense and just an absolute joke. Plus, his autograders half of the time is incorrect which gets very annoying and his lectures are very useless and pointless, anyways the point of this is if you aren't good at coding in python and actually want to learn it don't take this wack professor. I regret taking him and wished I had dropped this class from him and switched to a better professor when I had the chance.",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2025-03-17T00:33:09.196480Z"
+    },
+    {
+      "professor": "Gabriel Cruz",
+      "course": "INST326",
+      "review": "Gabriel is a graduate of this program, so expect of him what you expect of your fellow students.",
+      "rating": 2,
+      "expected_grade": "A+",
+      "created": "2025-03-23T23:07:03.905316Z"
+    },
+    {
+      "professor": "Gabriel Cruz",
+      "course": "INST326",
+      "review": "The autograders are always broken so you do not even know if you got part of the assignment correct. Along with this, if you email him about it he most likely will not respond. I've had multiple occasions where both he and his TAs do not respond to emails. The lectures are worthless along with the slides so expect to learn everything on your own. Take another teacher for your own sanity.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2025-04-10T05:28:57.896176Z"
+    },
+    {
+      "professor": "Matthew Patrick",
+      "course": "INST326",
+      "review": "TLDR: Prof Patrick is better than the other options (cough Bills) IMO (asynch, easy assignments, doesn't require talking to the prof) but if you are not very good with Python, you'll struggle since it is hard to get help when needed. My reason for giving 2/5 is very heavy on the fact that the communication is godawful, TAs do not grade the same and can be pretty harsh (-2 points off for saying \"heart\" instead of \"hearts\" for example), & that if you need help, you are not getting it & have to figure it all out on your own.\r\n\r\nI typically do not write reviews, but I gotta be real with y'all gang so you know what's up. If you took INST 126, this class is basically the same thing. However, some of the exercises have parts of them that do not work & it is hard to reach out to anyone on the instructional team for help when you need it. The TAs grade things and the grading is very uneven, with some of the TAs being very rude as well. I emailed over a month ago about getting points taken off a few assignments wrongfully & still have not received a reply. I enjoy the asynchronous style and the fact that I do not need to contact anyone if I do not have to, you can easily breeze through the entire course (minus the final project that you need approval on) in like 2 weeks if you are good at Python. The assignments themselves (homework's and exercises) are so vague and the supplementary material does not help as much as it should, so it's not that the coding itself is hard but knowing what to do is as the modules/lecture content don't relate. It's clear that this class and it's website was made years ago and is recycled every year, but it is not updated, which is the main issue that I'm facing when it comes to the instructions for assignments. You don't need to go to the lectures or discussions, as the discussions were mock office hours & I think this whole semester he only hosted a virtual session 3 times? Lol. The one time he did have a live session, I waited about 30 minutes and he never showed up, so I don't recommend trying to go to them and just going to office hours instead for help (assuming half the class isn't also there). I do recommend taking this course w/ either 314 or 327, I personally took it alongside 314 and it was fine. But don't take all 3 at once. Thank yourself later. Here's a list of everything for my non-paragraph readers like me:\r\n\r\nPros:\r\n- Asynchronous, do not need to go to the lecture or discussions unless you wanna\r\n- Easy assignments, usually 1-2 a week, can do most in a few hours or less\r\n- Forces you to be better at python if 126 didn't help you (like me)\r\n- Do not need teacher-student interactions, goes at your own pace (pro for me as I did not need to ask for help, I only needed to discuss grades, but that did not end up happening as I am still waiting for a reply)\r\n- Self-paced, I once did 3 weeks of content in 1 week because he opens everything at the start of the semester\r\n\r\nCons: \r\n- Very hard to contact instructional team for it being an asynchronous class, you would hope that this would be a main priority\r\n- A lot of the assignments have not been updated since 2021 and have just plain wrong instructions that no longer work with the current version of python OR outside links have not been updated and new ones are not provided. In these cases, you just need to find it and figure it out yourself. \r\n- Even though I got better at python, I still felt I learnt nothing from this class since the slides and readings do not correlate much with the assignments\r\n- If you are a visual learner (i.e. like seeing code examples to base your own off of) this is not the class for you. Try Bills instead (if you can put up with exams and overhype that is)\r\n- The TAs make or break the class unfortunately since the Professor doesn't do much for the class. You just have to pray that a strict TA isn't grading the heavier assignments\r\n- Hard to talk to other students about the class since there is no lecture, so you're basically on your own (this can be a pro too depending on what you like/need)",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2025-04-17T21:52:29.998886Z"
+    },
+    {
+      "professor": "Aric Bills",
+      "course": "INST326",
+      "review": "I do not have a lot of coding experience, but I've been pretty comfortable taking this course. Homework isn't bad and its where you will be getting a majority of your points. The exams kinda suck but they are only 35 percent of the final grade so as long as you don't do terrible you will be fine. Aric has said in class he is actively trying to make the class more difficult so be cautious. He is very lenient on assignment dates and gives out extensions for literally anything. He is very kind and tries to learn all of his student's names. Don't skip lecture and you will be fine. Office hours suck as they are only on zoom and there is no discussion section. I think he is the best as far as 326 professors go.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2025-04-21T23:57:00.941218Z"
+    },
+    {
+      "professor": "Gabriel Cruz",
+      "course": "INST326",
+      "review": "His lectures are absolutely pointless. He shows no passion or care for the subject. He has not responded to a single one of my emails. do not take this professor. his TA's are also not the most helpful, plus his autograders are incorrect and broken half the time.",
+      "rating": 1,
+      "expected_grade": "A+",
+      "created": "2025-04-22T05:32:32.470402Z"
+    },
+    {
+      "professor": "Gabriel Cruz",
+      "course": "INST326",
+      "review": "Professor Cruz isn't what everyone really says. For one, they say he doesn't respond to emails when he tells the class that his most preferred method of communication is Slack... I've seen him answer questions directly through slacks in an instant. Anyways, I came into this class also having prior programming skills in java. This class is going to be fast paced and up to you to learn a chuck of it. However, that is just the nature of coding anyways. Majority of people will use AI to help them which is why they aren't doing good. I also think auto graders are unit test made by the semester's TA's to also get them to be interactive in the course, so I don't personally have a problem with it. I think the in-person lectures are very useful and helpful and the modules online are only helpful to reference syntax, nothing more. People are mad because they have to put actual effort into a class (and I am an awful coder). No exams, quizzes were easy because the TA's did study sessions that directly reflect what is going to be on the quiz. Should be noted there was 2 quizzes only and are a smaller percentage on your grade in comparison to HW assignments. The one bad thing I want to say is that sometimes the TA's and Professor's communication to each other is kind of messy, I know life happens but if you just try to be in the loop and do your work, it will not be as bad as everyone says it is.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2025-04-24T14:23:23.930804Z"
+    },
+    {
+      "professor": "Matthew Patrick",
+      "course": "INST326",
+      "review": "Good for independent learners, but unclear instructions and poor support. I enjoyed the asynchronous format and appreciated being able to work ahead on assignments. However, the homework and exercises are often vague, and the supplementary materials don\u2019t really help clarify things. The coding itself isn\u2019t too hard if you're good at Python, but the biggest challenge is figuring out what the assignments are asking, since the modules and lecture content don\u2019t always align. Communication is also an issue as TAs often don\u2019t respond to emails, and their grading can be confusing because they rarely leave detailed comments. Even when you email about a grade, it may take multiple follow-ups before they explain what went wrong. Also, discussion is optional; half the time, the TAs aren't even there. The class isn\u2019t terrible, but unless you\u2019re solid in Python and comfortable self-teaching, you might benefit more from an in-person version of this course.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-05-01T17:13:01.131554Z"
+    },
+    {
+      "professor": "Aric Bills",
+      "course": "INST326",
+      "review": "Too much content to learn outside of class, more time should be spent introducing material in class instead of going over virtual lectures that have been assigned for a class that is neither hybrid nor online. Cool person though, just really annoying amount of online lecture content and weird due dates",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2025-05-04T16:59:09.626800Z"
+    },
+    {
+      "professor": "Gabriel Cruz",
+      "course": "INST326",
+      "review": "I'm glad other students said they were able to receive help or timely feedback, however, I was not as lucky. It took gabriel 2 weeks to respond to an email regarding a documented absence, and 11 days to respond to the same exact thing on slack. Meaning he responded to me twice, after already addressing the issue late. He does not care about his students, to the point he will forget what you emailed him about and even your name. Hence why his email told me and I paraphrase \"this is fine\" then his slack message asked me for documentation, which I provided over the email. My name on my email and slack are the same, along with providing my UID. He simply is too absent or preoccupied with other stuff to care.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2025-05-04T17:56:08.400175Z"
+    },
+    {
+      "professor": "Aric Bills",
+      "course": "INST326",
+      "review": "Aric is a very nice person and tries to get to know all of his students and finds interest in them. I truly believe that I learned a lot from this class, but in the least efficient way possible. His class is a completely in-person class, but if I want to know the information and do well on the exams, I need to watch the lecture videos he assigns, which took me an average of 2 hours a week outside of class alone. He is one of the most disorganized professors I have had, and it becomes evident in very important situations. There's a group project at the end of the semester that is so rushed and is just an addition to continuing with everything else we have been doing the rest of the semester and the expectations of how much he wants us to include in it are unreasonable. If you take his class, which I think you could learn a lot from, be prepared to devote a lot of time to it outside of class and be forced to create your own organizational system for his class because he does a terrible job at doing that himself.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-05-06T15:06:31.492119Z"
+    },
+    {
+      "professor": "Gabriel Cruz",
+      "course": "INST326",
+      "review": "I feel like he relies way too much on his TA's for the class and doesn't really care for the class at all. You pretty much have to self-learn everything which is pretty hard if you don't have much experience with coding.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2025-05-07T04:44:24.611841Z"
+    },
+    {
+      "professor": "Gabriel Cruz",
+      "course": "INST326",
+      "review": "I didn't learn much from Cruz. The two quizzes, while not worth much of your overall grade, each had an average of about 55%. Everything else I want to say has already been said in other reviews. All in all, don't take this professor!",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2025-05-09T20:44:42.960841Z"
+    },
+    {
+      "professor": "Aric Bills",
+      "course": "INST326",
+      "review": "Uses an autograder to provide near instant-feedback, which would be fine but\r\n\r\n1. The grades are not uploaded to Canvas, so you have no idea how you're doing for most of the semester letter-grade and percentage wise.\r\n\r\n2. He is still incredibly behind on grading. \r\n\r\nThe final project for this course is due in less than 48 hours and we are still waiting for feedback on every single exam (2) and assignment we've taken over the past several weeks. Using an autograder to grade a significant amount of the work that's been submitted and still being over a month behind on grading is insane.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2025-05-11T23:49:02.819870Z"
+    },
+    {
+      "professor": "Gabriel Cruz",
+      "course": "INST326",
+      "review": "If you're not already advanced in Python or ready to completely teach yourself, I wouldn\u2019t recommend taking this professor. It felt like he didn\u2019t really care whether students were learning or not, and the TAs were honestly more helpful\u2014they were the ones actually explaining things and answering questions when we needed help. The course structure was also kind of confusing; every week in discussion, you\u2019re paired with a different person to do a coding exercise, which is very awkward especially for those who are struggling in the course where one person ends up just doing the entire exercise. The homework is also complicated to the point where it is ridiculous, although he does give ALOT of time to complete them. My biggest issue was with how the final project was handled. In the very first lecture, the professor clearly said it would be broken into parts and that we\u2019d get plenty of time to work on it during discussion sessions\u2014but that only happened once, during the last discussion of the semester. If you really want to learn Python and not just get through the course, I\u2019d suggest looking for a different professor.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2025-05-12T00:08:03.534063Z"
+    },
+    {
+      "professor": "Aric Bills",
+      "course": "INST326",
+      "review": "I think everyone says it pretty well for Bills as a teacher but I'll my say: Aric Bills is a really great person, he's really supportive, understanding, and fun to talk to and has a lot of humorous/fun interactions with the actual class. He is very active on support people outside of the class in my personal experience and I think everyone does appreciate his kindness and his patience.\r\n\r\nBut in teaching, I think it could be improved. His current method of teaching his students is through videos that students must watch in their own time, alongside an small assignment due essentially every monday 9 am. These videos can be a bit long overall with some taking 1-2.5 hours in watch time total. You can get away with not having to watch all them but you won't always know what you want to prioritize or if you'll missing any crucial information. So in class (where attendence is kinda mandatory), its often just review of the assignment or concept already learned or work time. Another big thing for me was that grades were very very delayed. Grades weren't uploaded to canvas and so you'd have to input them by hand to canvas from gradescope if you wanted to know your grade but even then his grades on gradescope were very delayed (after spring break for some reason?). There was a point where it gotten 2 months behind and it was a bit frustrating seeing that. \r\n\r\nI think that the actual work and things you learn are important in your understanding and application of python in a data constructed concept and its obvious how much he is passionate and knowledge about coding but I think that the way things were taught and the way assignments were given could be improved upon.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-05-17T05:35:47.412958Z"
+    },
+    {
+      "professor": "Aric Bills",
+      "course": "INST326",
+      "review": "We'll get it out of the way: he's a great guy, tries to remember everyone's name, and definitely wants people to learn. He also had a monologue at the end of class about using coding to do good in the world which I thought was very sweet. \r\n\r\nThe class utilizes a flipped classroom format: you have to watch a series of videos about the subject of the week, do a small assignment due before class, then a small group assignment on Monday, Wednesday goes over content and Friday is supposed to introduce most stuff for the week. I don't dislike this format inherently, but a lot of the lectures are just repetitions of the content. Sometimes it dipped into genuinely neat material, but most of the time I walked away from class thinking \"why did I come here?\" My only answer was for the participation credits, which is never great.\r\n\r\nExams feel a bit at cheap at times, but with four non-cumulative exams they aren't the worst thing in the world. Homeworks hold your hand a bit too much, the group project has some very strange requirements about using very specific techniques. Our group assignment was to make a game, but the scope of what a game was defined as was extremely nebulous. Besides the group project, I didn't really feel like any assignment took up an unfair amount of time, especially given that this is the MAIN programming course for InfoSci. It could've afforded to go a little further and more in-depth, but the flipped classroom format gives you the skills to look things up.\r\n\r\nAlso, the comments about grades taking forever to come in is true. It's not fun not knowing where your standing is in the class, and I was almost certain of where I was. Group project felt really rushed, we straight up had multiple assignments get auto-100%'d because of how far behind on grading he was. Very excited about the material, and I still would recommend him, but he could stand to use time better in lecture/on the schedule in general, and generally have a more organized class.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-05-19T22:15:56.813727Z"
+    },
+    {
+      "professor": "Gabriel Cruz",
+      "course": "INST326",
+      "review": "I enjoyed this course and the assignments we had. I would say that it's important to supplement course material with your own understanding via YouTube, online resources, etc... as lecture felt more like covering some examples and were more like \"here's a concept, now let's try it out\" but I think that is realistic for a programming course. I did have prior Python experience, and I was a bit lazy with submitting assignments, but I thought the assignments were fairly straightforward and reasonable and still managed to get a \"reasonable\" grade. I think if you're the type of person who's willing to do a little bit more research/follow-up besides ONLY what is learned in class, you'll find this course to be fairly straightforward on 95%+ of the assignments.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2025-05-24T03:47:21.224810Z"
+    },
+    {
+      "professor": "Aric Bills",
+      "course": "INST326",
+      "review": "As a person he's a great guy. As a teacher, there is much left to be desired. \r\n\r\nMost of the content you will learn are asynchronous which makes lectures either redundant or near useless 9 times out of 10. But you can't just not show up to lecture, there are graded in class group activities which are also useless and I'm 99% sure you could pass comfortably with an A even if you didn't get those points. There are times where an actual new or interesting concept will be introduced in lecture but more often than not you will walk away wondering what you actually learned in that 50 minute period. \r\n\r\nAs for coursework the bulk of the grade comes from 4 exams, one of which is dropped. Most of them are relatively easy if you have any programming experience at all but there's a few questions that are about very specific techniques in python. The 3 homeworks throughout the semester are sort of the projects you would expect of a programming course which aside from the final project are the most time consuming. But even then if you have any programming experience at all you could finish one in 1 or 2 hours and you have unlimited attempts so you can just keep debugging and resubmitting until you check all the boxes which is nice. Considering this is the main programming course of the info sci major, I can't say this course had the rigor I expected. Maybe that sounds great to some of you but if you're expecting a programming course that has any difficulty then this is not it. Even the final project felt like a softball and the hardest part was getting your group members to commit and push to github. \r\n\r\nMost of the other assignments are just you explaining certain concepts in your own words and then provide working examples yourself which I find would be unhelpful to anyone learning python for the first time. \r\n\r\nAnd everyone else talking about the grading is not making it up. I kid you not, I waited until a few days before final grades were due and I got everything graded all at once in the span of an hour. So don't expect to get any grades back throughout the semester or know what your grade is at all. \r\n\r\nOverall the course structure felt really unorganized and most of the assignments weren't all that helpful aside from the homework's and group project. I'd recommend him if you have a decent understanding of python so you can just coast through the class without too much concern because if you are trying to learn python from this course, you're in for a rough time.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2025-06-21T03:00:40.731835Z"
+    },
+    {
+      "professor": "Aric Bills",
+      "course": "INST326",
+      "review": "Great man and a decent teacher !!!\r\n\r\nHe did sometimes give out a lot of work but he also granted extensions if you asked him and if your reason complies with the syllabus. \r\n\r\nWould recommend this teacher if you are ready to do a lot of work..",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-07-17T18:17:55.923745Z"
+    },
+    {
+      "professor": "Matthew Patrick",
+      "course": "INST326",
+      "review": "Professor is easy in terms of if you can teach yourself you are fine. He does not grade the final project btw ! so whatever ur grade is before the final project that is your grade",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2025-07-22T13:49:18.503473Z"
+    },
+    {
+      "professor": "Aric Bills",
+      "course": "INST326",
+      "review": "Aric is by far my favorite professor at UMD. Incredibly smart and great guy. Take his class.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-12-13T00:48:09.038927Z"
+    },
+    {
+      "professor": "Matthew Patrick",
+      "course": "INST326",
+      "review": "Cosigning the reviewer from 04/17/2025. This class is pretty much INST126 but more in-depth. Ironically, if you are taking the asynchronous section and aren't well versed in Python you may struggle a bit. However the general track of anything Computer Science related ends up being you having to teach yourself, especially what field you'd like to pursue. So don't think too hard about it, you should generally be fine. Patrick was a fantastic professor for this course and if he is teaching it at any time I'd highly recommend to take him.\r\n\r\nI'm also rehashing the common complaints with a lot of these coding classes: the instructions are generally unclear and too vague at times. I wish expectations of assignments were more clear-cut going forward but I understand there are different solutions to the same problem. Grading this semester were prompt and on time. Don't stress about being perfect with these assignments like I have, just focus on submitting something that satisfies the prompt or instructions.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2025-12-19T01:57:25.753435Z"
+    },
+    {
+      "professor": "Matthew Patrick",
+      "course": "INST326",
+      "review": "This guy was great haha some people need to get over themselves. Yeah he takes forever to respond to emails and some of the TAs suck. But I just went to his live discussions and we would go over everything I wanted. He was super nice and very helpful. Find the better TAs too for office hours - its pretty obvious after going a few times. It's a decently easy class if you stay on top of things and I feel like I learned a ton. Will definitely be recommending Prof. Patrick to others.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-22T14:53:34.740475Z"
+    },
+    {
+      "professor": "Aric Bills",
+      "course": "INST326",
+      "review": "so free if you vaugley keep up exams are like 90 percent the practice exam so if you understand concepts instead of remembering answers you are more than good. Only complaint is group work for the final project as I had a pretty unfortunate group. attendance required, weekly \"practice\", and exercises",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-23T01:26:56.437642Z"
+    },
+    {
+      "professor": "Aric Bills",
+      "course": "INST326",
+      "review": "The video lectures that are given every week always are more than an hour worth of watching each week which does not account for any homework. I feel like they aren't entirely necessary but it still feels bad man also everything is always due at like the most inconvenient times, 9am on Monday, 10pm on Friday, just be aware of that if it's an issue for you. I am not that deep into the course yet first exam was pretty light especially considering it lowkey was not nearly as hard to grasp as all the content in the video lectures so maybe its not that bad.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2026-03-02T04:48:47.241433Z"
+    },
+    {
+      "professor": "Gabriel Cruz",
+      "course": "INST326",
+      "review": "Doesnt answer questions and mails\r\nRelies on autograder\r\nHomeworks are incredibly difficult for scope of the class\r\nLectures expect you to know everything beforehand, not intended to teach material\r\nYou will have to teach yourself everything",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2026-04-08T18:43:24.471633Z"
+    }
+  ],
+  "department": "INST",
+  "course_number": "326",
+  "name": "INST326",
+  "title": "Object-Oriented Programming for Information Science",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> Minimum grade of C- in INST126.\n<b>Restriction:</b> Must be in the Information Science program.\nAn introduction to programming, emphasizing understanding and implementation of applications using object-oriented techniques. Topics to be covered include program design and testing as well as implementation of programs.",
+  "is_recent": true,
+  "geneds": null
+}

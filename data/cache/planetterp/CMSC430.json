@@ -1,0 +1,531 @@
+{
+  "average_gpa": 3.1106365834004834,
+  "professors": [
+    "Jeffrey Foster",
+    "Chau-Wen Tseng",
+    "David Van Horn",
+    "Thomas Gilray",
+    "Nick Petroni",
+    "Jose Calderon",
+    "Leonidas Lampropoulos",
+    "David Van Horn",
+    "Jose Calderon",
+    "David Van Horn",
+    "David Van Horn",
+    "Jose Calderon",
+    "David Van Horn",
+    "David Van Horn",
+    "Anwar Mamat",
+    "Milijana Surbatovich",
+    "Anwar Mamat",
+    "David Van Horn",
+    "Anwar Mamat",
+    "Milijana Surbatovich"
+  ],
+  "reviews": [
+    {
+      "professor": "Jeffrey Foster",
+      "course": "CMSC430",
+      "review": "Professor Foster is extremely responsive to his students. At the beginning of the course, he made it clear that it was his first time teaching the course and that it was being redesigned from the ground up. He was very amenable to giving extensions when the situation warranted, and whenever a problem or difficulty with the project specs was brought up, he would ask the class what fix they thought was appropriate.\n\r\nThe lectures in this class cover a lot of very interesting, oh-that's-how-that-works topics. They were mostly his slides, with a few taken from others' talks, and a few design discussions.\n\r\nThe projects are a lot of fun, but a LOT of work. Do not put them off. They help a huge amount in understanding the material.\n\r\nThe tests were tough, since they required serious knowledge of the topics covered, but we were only expected to have an in-depth understanding of topics that were the focus of lectures. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2012-06-04T12:54:00Z"
+    },
+    {
+      "professor": "Jeffrey Foster",
+      "course": "CMSC430",
+      "review": "Jeff is a great professor, and his classes are well-designed and great. \n\r\nFor 430 (compilers), Jeff totally redesigned the course, and made it incredibly challenging, relevant, and fun. I look back on the work I did in his class and can feel as if I accomplished something meaningful that made me more powerful as a computer scientist.\n\r\nEven if you aren't interested in programming language design (Jeff obviously is, and his enthusiasm for the material is palpable in the class), you should still take 430, because it will enable you to know intimately a tool that every computer scientist uses on a daily basis.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2012-05-11T19:30:00Z"
+    },
+    {
+      "professor": "Thomas Gilray",
+      "course": "CMSC430",
+      "review": "I think this was Gilray's first time teaching CMSC 430, and he did a really good job. The content is quite tough and some projects are very challenging, but Gilray held office hours right after class to answer any questions. If you weren't able to catch him then, he's very active on Piazza and is really knowledgeable on the content. He's also very understanding and knows that his class is tough, and as such he gives out extensions on the projects on a case by case basis. Some of the lectures themselves are very heavy, but Gilray does a good job explaining the material and don't be afraid to ask questions! Overall a great instructor and just a great guy in person.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2017-12-14T00:02:36Z"
+    },
+    {
+      "professor": "Nick Petroni",
+      "course": "CMSC430",
+      "review": "Down-to-earth and personable guy who really knows his subject. Definitely learned a lot from his class.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2018-12-27T06:08:12Z"
+    },
+    {
+      "professor": "David Van Horn",
+      "course": "CMSC430",
+      "review": "Epic twitter account. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2019-10-24T02:54:17Z"
+    },
+    {
+      "professor": "David Van Horn",
+      "course": "CMSC430",
+      "review": "Such a great professor. Clearly is dedicated to the course and the students. He genuinely wants kids to learn and to build a curriculum that is strong and representative. \r\n\r\nHowever 430 was very challenging and a lot of work so beware if you enroll to spend 10-15+ hours on projects. There were no exams though just projects for all assignments, midterms, and final.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2019-12-05T19:36:38Z"
+    },
+    {
+      "professor": "Jose Calderon",
+      "course": "CMSC430",
+      "review": "honestly the coolest dude i've ever met, really knows his stuff and is super laid back. incredibly accommodating for the whole distance learning thing, too.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2020-11-30T02:08:37Z"
+    },
+    {
+      "professor": "Jose Calderon",
+      "course": "CMSC430",
+      "review": "He's a great teacher. He takes time to explain the concepts in detail. This course is about compilers and as you'd imagine, the class might cover some low level stuff, which can be confusing. But Jose takes time to break down everything so you can understand. He doesn't overload students with a lot of homework; he gives just the right amount of quizzes and assignments to help understand the material. Projects are mainly an extension of the concepts thought; if you understand his explanations, doing the projects shouldn't be complicated. In terms of availability, he's always willing to extend his office hours to accommodate students. If you really want to learn, take his class.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2020-12-16T00:10:12Z"
+    },
+    {
+      "professor": "Jose Calderon",
+      "course": "CMSC430",
+      "review": "Jose is super nice and understanding of students concerns and needs. Assignments were super interesting and pretty fair, if you have a good understanding of the course material and Racket. Online class consisted of asynchronous YouTube videos with corresponding lecture notes on the website. Really learned a lot from the class and he was great!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2020-12-16T16:44:10Z"
+    },
+    {
+      "professor": "Jose Calderon",
+      "course": "CMSC430",
+      "review": "Fantastic professor. Knows his stuff and he clearly cares about making sure the students understand the material and do well in the class.\r\n\r\nFor 430 specifically, we had 6 projects and they each took a fair bit of time (5-7 hours), but over the course of a semester that really isn't so bad. Definitely a reasonable amount of work for the class.\r\n",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2020-12-20T04:46:28Z"
+    },
+    {
+      "professor": "Jose Calderon",
+      "course": "CMSC430",
+      "review": "very chill professor",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2021-02-01T19:38:40Z"
+    },
+    {
+      "professor": "Jose Calderon",
+      "course": "CMSC430",
+      "review": "Such a great professor. Literally so sweet and makes the best  lectures ever. Actually gets me excited to learn about compilers. Lectures are really well put together and fun to watch.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2021-02-13T07:43:17Z"
+    },
+    {
+      "professor": "Jose Calderon",
+      "course": "CMSC430",
+      "review": "Fall 2020 Semester. MVP. I'm not aware of another professor that makes the material so accessible. ",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2021-05-19T06:11:06Z"
+    },
+    {
+      "professor": "David Van Horn",
+      "course": "CMSC430",
+      "review": "The course material was very interesting, and the materials provided were very helpful. DVH lectures well, but can be monotone, which can make it difficult to stay focused if you're easily distracted like I am. Outside of lecture, a Discord server was set up for the class. This was massive since it made communication between course staff and students more frequent, casual, and clear. It closed a lot of distance between the two groups. The format of Discord also made it so that problems students had could be solved more smoothly than they would on something like Piazza. DVH is also very kind in general. If he's an option, I'd highly recommend taking him, because he knows how to run a course. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-12-26T22:31:35Z"
+    },
+    {
+      "professor": "Jose Calderon",
+      "course": "CMSC430",
+      "review": "Without a doubt the best professor I have ever had and one of the most interesting and well put together classes I have ever taken. Jose is the GOAT, there's no other way to put it. He's passionate, kind, considerate, intelligent, funny, and organized. There is no one I would rather take a class with. He has changed the course of my college career.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2022-04-06T18:37:19Z"
+    },
+    {
+      "professor": "Jose Calderon",
+      "course": "CMSC430",
+      "review": "You would be hard pressed to find a professor with more passion, professionalism, kindness, and genuine care for both their work and their students. Jose deserves 6 stars",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-08-30T16:30:43.494678Z"
+    },
+    {
+      "professor": "David Van Horn",
+      "course": "CMSC430",
+      "review": "Lectures are kinda dry but DVH explains things really well. Instead of Piazza he used Discord to communicate with the class, which made it so much easier to reach him and the TAs.\r\nThe class is not necessarily hard, but it is a lot of busy work. Gotta stay on top of it.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-11-06T16:38:27.425400Z"
+    },
+    {
+      "professor": "David Van Horn",
+      "course": "CMSC430",
+      "review": "He deserves a 5-star rating for the following. First, he cares about students and their learning. His main objective is encourage students to learn as much as possible. His lectures are clear and he never rushes through the materials, which are well organized into different modules with increasing levels of sophistication to build up compilers with advanced programming language features. \r\n\r\nI like the way the course organizes exams. We had two midterms but no final exam. The midterm problems are all about designing and implementing certain features of some compilers that had been discussed in the lectures. The midterm questions are clear and reasonable. We were given 48 hours to complete the midterms but I did not have to devote the entire two days to each midterm.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2022-12-19T20:58:27.357065Z"
+    },
+    {
+      "professor": "David Van Horn",
+      "course": "CMSC430",
+      "review": "Time consuming but relatively easy class, as projects are mostly implementation, little to no theory involved. Dry lectures, much more engaging online and when you ask him questions in person. Otherwise a brilliant guy, would recommend if you liked 216/330.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2023-01-05T21:03:02.925248Z"
+    },
+    {
+      "professor": "David Van Horn",
+      "course": "CMSC430",
+      "review": "Lectures are kind of dry, but the class is well structured, excellently run, and very interesting.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-01-22T04:53:40.394829Z"
+    },
+    {
+      "professor": "David Van Horn",
+      "course": "CMSC430",
+      "review": "Pros\r\n-Interesting material imo\r\n-No real exams, all projects\r\n-very organized\r\nCons\r\n-Lectures are very boring \r\n-Lots of low level coding \r\n-Projects can take a very long time",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2023-05-15T17:48:02.439519Z"
+    },
+    {
+      "professor": "Jose Calderon",
+      "course": "CMSC430",
+      "review": "Before I begin this review, I would like to note that the cons I have listed are due to some TA staffing issues that happened in the CS department this semester. This isn't on Jose or the TAs.\r\n\r\nFirst of all, I loved this class. It was intriguing and Jose did an excellent job making it fascinating to learn about the compilers and interpreters, exploring how to incrementally add features, and connecting them to examples from his personal career writing compilers. \r\n\r\nSome of the key pros I would list are:\r\n1) Interesting assignments and final project options (Could be challenging at times)\r\n2) All lecture notes for the languages we covered were posted in advance before the course started (this was super helpful when preparing for midterms)\r\n3) Asynchronous videos were provided of him walking through the languages from past semesters (He started recording our lectures halfway into the semester but I think the asynchronous videos kind of made up for this.\r\n4) Jose and the TAs quickly responded to questions on Discord or ModMail and provided sufficient online & in-person OH.\r\n5) Expectations for programming assignments, midterms, quizzes, survey, and final project were reasonable. \r\n6) Regrade requests were available for Midterm 1.\r\n7) Enough time was given to complete the programming assignments (~2 weeks), quizzes (~1-3 days), final project (1 month), midterms (3 hours), and survey (1 day). \r\n8) Gave plenty of opportunities for Q&A during lectures \r\n\r\nOne very small con (only because of the staffing issue in the CS department this semester and larger class size) is grading overall took longer than expected. \r\n\r\nOther than that, I think the course was very well-organized and went according to the original plans and the TAs and Jose did an excellent job making sure all students understood the course content and how to apply it to assignments, etc. Strongly encourage anyone interested in compilers to take this class with Jose. I would give him 6 stars for this review if I could!",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2023-05-15T19:29:38.042389Z"
+    },
+    {
+      "professor": "Jose Calderon",
+      "course": "CMSC430",
+      "review": "Jose's approach to compilers is great for several reasons:\r\n- Fantastic lecture notes. There's basically a small textbook's worth of compilers material available any time to understand the class concepts.\r\n- Detailed videos. Excellent in tandem with the notes.\r\n- In person lectures are informative. Jose makes us work through conceptual problems in class so we can understand them before diving into code. Really valuable.\r\n- Take home exams. You are given more than enough time to take them and you can access the detailed notes.\r\n- Straightforward projects. The coding projects are small in scope (you get a week or so to do each one), but really help you reinforce important compiler concepts. They're super fun and not too difficult.\r\nYou'll need skill with functional programming and writing assembly instructions; the knowledge from 216 and 330 will be handy here. Learned a lot and would definitely recommend.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-20T03:18:24.730667Z"
+    },
+    {
+      "professor": "Jose Calderon",
+      "course": "CMSC430",
+      "review": "Jose has incredible passion for teaching and really cares about his students, and the lectures reflect that. Definitely take Jose if you have the chance for any class \u2014 you'll learn a ton and enjoy the course",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2023-05-29T18:42:42.411133Z"
+    },
+    {
+      "professor": "Jose Calderon",
+      "course": "CMSC430",
+      "review": "If you really like low level programming and have a good grasp on computer fundamentals, go for it. If you are looking for this class to provide you with an introduction to compilers and to understand the big picture not just the little details, do not take this course. He switches back and forth between examples and even after watching his videos and reading his notes and knowing exactly what he's doing, the way he explains examples is so so confusing. If he made videos for the later topics in the course this would not have been that big of an issue though. My biggest complaints were how unorganized the professor and staff were (Aside from the lecture notes that are from previous years), how horrific the communication was (dates would be changed, assignments would be posted and the only way to know was to constantly stress-search through the hundredddssss of discord posts) and grading was very unreasonable.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2023-05-31T21:00:21.433481Z"
+    },
+    {
+      "professor": "Jose Calderon",
+      "course": "CMSC430",
+      "review": "I had Jose for CMSC216 and CMSC330 and CMSC430. \r\n\r\nThe first thing I want to bring up is that Jose is unlike any other professor/instructor at UMD (With the exception of Dave Mount). Not only does Jose know the ins and outs of everything he is teaching, but he has a passion for teaching what he knows. He'll make sure to give you an answer that is as fully correct as he can make it. He really wants his students to understand everything he is teaching and will go to great lengths to help them understand. His office hours are amazing and will really push the student to learn the concepts when they are struggling. He has helped clarify a lot of things for me especially in CMSC330 when the topics of NFA's and DFA's were killing me. He's also really funny and has a great sense of humor.\r\n\r\nIt's important to note that CMSC430 IS A HARD CLASS. Seriously, it's really hard and a lot of people don't expect that because of Jose's amazing reviews (which he deserves). But it's important to understand that CMSC430 is essentially CMSC216 + CMSC330.\r\n\r\nIn CMSC430, you will get thrown into the belly of the beast with about two weeks to learn the Racket programming language (which is a Functional programming language). So yeah if you suffered and hated Ocaml in CMSC330, you're going to learn even more functional programming that has the most ridiculous syntax imaginable (lookup what a racket program looks like) and the most useless error messages possible (Highly recommend using chatGPT to see what your error messages mean. Saved me a ton of googling). However, if you were a fan of functional programming and loved lambda calculus then this class won't be that bad. It will be tedious but it won't be horrific. It also matters how many other classes you are taking at the same time because this class has such a heavy work load.\r\n\r\nProjects: The projects are the bulk of the grade in this class. But these projects are so much different than lower level cs class projects. You can dedicate a ton of time in CMSC216 and CMSC330 to try and pass every test. In CMSC430, don't waste your time. If you get an 89% on a project, it's not worth the stress of 5 hours in the middle of the night and the destruction of your brain cells to bump it up to a 93% especially when the problems in the code might be so minor where you really understood the concept the project was trying to teach you but there was a small implementation error. Trust me, getting an 80% on a CMSC430 project a few times is okay.\r\n\r\nWriting the assembly is not that bad. Just review and comment what each line does in your example programs and you begin to understand it all pretty well. It can get pretty tedious when you're writing a program in a function programming language where the job of the program you're writing is to spit out assembly code in a specific order. Make sure to read the lecture notes Jose gives, don't just watch the videos.\r\n\r\nAlso most importantly, don't cheat on the online exams. Jose will most likely catch you and you really don't want the stress of an XF or a 0 on an exam hanging over your shoulders. We didn't get our second exam back for 2 months because of cheating and some people didn't get told they were caught until after the end of the semester because they were doing a giant analysis to determine who was cheating. If you fail an exam, try again and study harder and go to him for help. I got a B on the first exam, totally bombed the second exam, and had about a B average for the projects. I got a really high grade on the final project and ended up with a B. \r\n\r\nIt's a class worth taking because I think it's essential to know how a programming language is made considering the fact that cs majors constantly use programming languages. It's gonna be a lot of work though.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2023-06-23T15:12:47.935815Z"
+    },
+    {
+      "professor": "David Van Horn",
+      "course": "CMSC430",
+      "review": "Had him this summer for 430. One of the most well put together classes I've ever taken. Seriously. A lot of time went into the design of this course, so that you wouldn't spend hours and hours sifting through documentation for an answer. Most upper level classes will say its the students job to find out what functions to use to solve a problem, and what resources to get there. But everything you need for this class is in the notes and in lecture, so you can spend more time thinking about the theory, and doing projects then sifting through pages and pages of documentation. They even made a language to simplify x86 to only instructions that are relevant. On top of that, DVH lectures very well, attempting to explain those notes and boiler plate code with live coding examples. He doesn't just teach off slides he actually shows you what to do and tells you why he's doing it that way. Very good lecturer. But don't get me wrong this class isn't easy, you definitely will have to think your way through the projects and some projects I was just grateful to get a C. But I took it in the summer so maybe less time made it harder, I don't know. After one of the project deadlines passed that a lot of people struggled on, DVH spent 3+ hours walking through the solution on top of doing lecture that day. Him and his TA are also very responsive. This summer Pierce was one of the TA's and one of the best ones I've ever had. Anyways, take this class if you liked the interpreter project of 330 and the MIPs project of 216, because its sort of a blend of those 2 projects. This is one of those classes where effort and consistency will get you farther than intuition and I really think the staff gives you every tool you need to succeed.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2023-06-29T04:49:24.692015Z"
+    },
+    {
+      "professor": "Jose Calderon",
+      "course": "CMSC430",
+      "review": "One of the better Professors at UMD. His compiler class is well organized and well run. It is clear Jose is passionate and knowledgeable about compilers, his lectures some of the best, they are engaging and topics are well explained in detail. Projects can be tricky and they do build on each other, notes and lecture material should give you enough more of an understanding to get them done. Projects have public and secret test, getting the public test done will usually grantee a good grade, you'll probably miss a couple of test, it is honestly better to just take a high score rather than spending hours trying to get a hundred. Exams are take home coding assignments, they can take a bit of time but usually fine in terms of difficulty.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2023-11-16T19:02:58.425389Z"
+    },
+    {
+      "professor": "David Van Horn",
+      "course": "CMSC430",
+      "review": "Most checked out professor ever, course was terribly organized.\r\nApparently he did not interact with the TAs all semester and it showed.\r\nProjects were almost always posted late. Sometimes posted to course website, sometimes to piazza, never told where.\r\nWe were told there would be a lecture quiz posted after each class, there have been 4 total.\r\nI'm about to take the final and exam 1 regrades aren't out yet, exam 2 initial scores (autograder) aren't out yet almost a week after taking it. \r\nTAs don't show up for office hours.\r\nLectures were monotonous and hard to pay attention to. If you are able to pay attention he explains stuff alright, he does a good job answering questions in person. He is a nice enough guy.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2023-12-02T21:57:18.327579Z"
+    },
+    {
+      "professor": "William Wegand",
+      "course": "CMSC430",
+      "review": "William is the goat, every time I went to his office hours, I left smiling. Very helpful on all the projects and post exam material.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-11T19:14:26.437545Z"
+    },
+    {
+      "professor": "Jose Calderon",
+      "course": "CMSC430",
+      "review": "This is a great class. I had 330 with Roger Eastman and thought it was super boring. This class is about 100 times better. \r\n\r\nJos\u00e9 is very clear and knows a lot about compilers. I recommend skimming the notes for the week on Sunday before attending class. The projects are pretty easy in my opinion. The exams this year were take home and similar to a project. \r\n\r\nThe pace can be kind of slow. \r\n\r\nUnfortunately, I don't think he will teach this class again, but if he ever comes back, I recommend choosing Jos\u00e9.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-12T18:27:08.670881Z"
+    },
+    {
+      "professor": "Jose Calderon",
+      "course": "CMSC430",
+      "review": "incredible for 430. very passionate about the course and wants his students to do well. Exams aren't bad and the projects are doable if you start them early. Cool course.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2023-12-17T19:50:04.571599Z"
+    },
+    {
+      "professor": "David Van Horn",
+      "course": "CMSC430",
+      "review": "Very good class, would recommend taking if you're looking for an actually not too bad and fun 400 level CS class. I thought it was one of the better organized courses I've taken at UMD, but a lot can be said for DVH's part in that. He was pretty much absent from every Piazza post relying on TAs and Jose to respond and emailing him was basically throwing away an email into the void. \r\n\r\nWith that being said, I didn't have much issues with the course. The TAs are brilliant and make up for this lack of responsiveness and he does record his lectures which is a huge plus! Overall, good professor who cares about your learning. Would recommend.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2023-12-21T15:48:34.591289Z"
+    },
+    {
+      "professor": "Jose Calderon",
+      "course": "CMSC430",
+      "review": "Jose is the best lecturer I've ever had. It's sad that he's no longer teaching at UMD. Hopefully, he will come back in the future. The lectures were interesting, and the projects were straightforward. They were designed to help us actually understand the concepts. I didn't really understand heap/stack in 216, but 430 helped me truly get it.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-12-24T20:10:46.723777Z"
+    },
+    {
+      "professor": "Jose Calderon",
+      "course": "CMSC430",
+      "review": "Did you think the exams or other major assignments were fair?\r\nYes, projects and exams were fair, based on what\u2019s covered in lecture and course notes.\r\n---\r\nDid you think the professor had reasonable expectations of the students in the course overall?\r\nExpectations were reasonable. Come to class or don\u2019t, but make sure to read and keep up with the course notes. Jose did want us to engage deeply with the concepts\u2026 thinking of our examples and test cases.\r\n---\r\nWere you a fan of the professor's teaching style?\r\nLoved Jose\u2019s teaching style. You can tell he really cares. He did a mix of chalk board and live coding. I liked how he showed his coding process (test-driven development) and using documentation.\r\n---\r\nWas the workload appropriate for the number of credits?\r\nYup, 4 main coding projects + 1 final project. 2 smaller assignments. Semester projects took 6-8 hours. Final project took longer, 10-12 hours. Two midterms, take home, 24 hours, 4-8 hours, median for both midterms was 95.\r\n---\r\nWas this course a waste of time or was it beneficial in some way?\r\nI think this course was beneficial. Even though I may not write another compiler in my career, I did learn to be more pedantic. I had to be really careful in planning my pseudocode before writing my code. I learned how to trace through and debug low level code (Assembly). I think the course is reminiscent of drawing memory diagrams with the stack and heap in CMSC131/132\u2026 except now we\u2019re producing assembly code to do so for Racket code. I personally enjoyed working with stack and heap, but maybe it's not the most industry practical course.\r\n---\r\nHow much support were you given throughout the semester (office hours, extra resources, etc.)?\r\nPiazza responses were god tier\u2026 Pierce! Jose offered plenty of office hours by appointment; he was always willing to discuss ideas and even do code reviews. There was also a good amount of TA office hours; however, there were frequent cancellations without replacement.\r\n---\r\nTLDR: If you liked the memory diagrams in 131/132, the lexer/parser project in 330, and especially the assembly project in 216, then you\u2019ll thoroughly enjoy this course. It\u2019s a manageable workload and gives more exposure to lower-level programming. You\u2019ll learn the difference between compile vs run time ;)",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-03-07T15:30:47.205890Z"
+    },
+    {
+      "professor": "Pierce Darragh",
+      "course": "CMSC430",
+      "review": "Plain and simply the piazza goat, and has a knack for explaining complex topics in a simple manner :)\r\nSuper responsive and I'm incredibly grateful I had him as my TA <3",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-05-11T02:57:38.261312Z"
+    },
+    {
+      "professor": "David Van Horn",
+      "course": "CMSC430",
+      "review": "Super knowledgeable professor, super boring lectures. Huge disconnect between him and his TAs--assignments would regularly be posted and graded late, and even now our grades aren't inputted correctly on ELMS despite multiple complaints on piazza. The class goes by fast and everything builds upon previous material, so if you lag behind, you will definitely feel the consequences. Material was interesting and the notes were well-written. Early projects were actually pretty fun; later projects were much more assembly-heavy than I thought they would be, so if you enjoy working with it and manipulating the stack, you should do fine.",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2024-05-17T18:15:47.637988Z"
+    },
+    {
+      "professor": "David Van Horn",
+      "course": "CMSC430",
+      "review": "Professor never replied to emails. I still don't have my final grade on ELMS nor testudo, and I graduated yesterday. Also good luck finding a TA during office hours later in the semester.",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2024-05-22T13:33:35.664998Z"
+    },
+    {
+      "professor": "David Van Horn",
+      "course": "CMSC430",
+      "review": "I'm gonna start with some pluses about 430. The class notes are thorough and completely finished, so what I did was read up on the topic for the upcoming lecture and treated lecture as a review, which was super beneficial. TAs I had in office hours were knowledgeable and helpful in breaking down the topics. David's lectures were sort of monotone and dry, but he did include useful tips for projects at the start of some lectures and I think he does care about having students learn the material. So if the topics interest you, you won't be disappointed.\r\n\r\nThat said... the grading takes horrendously long to get back. It took over a month to get our first midterm grades back. Especially near the end of the semester, questions about final grades were ignored on piazza leading to a huge lack of transparency on what cutoffs were and on how to actually calculate our final grade. I just needed this class to graduate, and it was frustrating not being able to get a straight answer on what my grade actually was. \r\n\r\nEven now that I've gotten my final grade on testudo back, I was anticipating a C based on what they've said about how they'd do grading but got a C- instead. I can get over that because I just need to pass the class, but I have no idea how that grade is getting calculated due to the lack of communication.",
+      "rating": 2,
+      "expected_grade": "C-",
+      "created": "2024-05-23T15:08:08.625423Z"
+    },
+    {
+      "professor": "David Van Horn",
+      "course": "CMSC430",
+      "review": "This was a bizarre course for me. It was the most interesting CS course I took my entire education here at UMD. But at the same time, the professor does not care. The TAs do not care. It's an uphill struggle all the way. Submitting a project even a minute late results in a complete 0, ridiculous for a project-based class. Van Horn effectively walls himself off from his students, never once responding to any email. He doesn't even hold regular office hours for God's sake, he wants you to schedule a meeting with him. Perhaps my personal failing but I would always zone out 20 minutes into lecture although some lectures were incredibly fascinating.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2024-06-27T17:41:47.459050Z"
+    },
+    {
+      "professor": "Anwar Mamat",
+      "course": "CMSC430",
+      "review": "This may be the first semester he teach CMSC430 in 2024 Summer. \r\nThe grading is good but the lecture have some problem. He spent too many time in the easy stuff and some core contents were omitted.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-07-19T20:27:48.658459Z"
+    },
+    {
+      "professor": "David Van Horn",
+      "course": "CMSC430",
+      "review": "Great class. As someone who didn't quite enjoy 330 and had no choice to take this class, I was pleasantly surprised with this course. By far one of the most interesting CS classes I've taken so far -- it's pretty much 216 and 330 combined.\r\n\r\nI will have to say though while it is a great class, it is not easy. First two projects were easy, but the remaining were quite challenging and VERY time consuming despite me staying on top of the material every lecture.\r\n\r\nMidterm #1 was take home and easy. Midterm #2 was not. Spent over 14 hours on it (fortunately got a 100). Due to how complex it was, and how a lot of people were struggling on it, David had to extend the deadline.\r\n\r\nEssentially, this class is fascinating in its own right but it is not an easy class. Expect to spend hours on projects (especially considering there is no easy way to debug assembly code without tracing it by hand)",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-11-24T03:10:53.508689Z"
+    },
+    {
+      "professor": "David Van Horn",
+      "course": "CMSC430",
+      "review": "DVH is alright. Good lectures with plenty of dry humor. Projects are hard outside of the first two but manageable so long as you get started early. Helpful TAs on Piazza (shoutout Pierce). Easy quizzes/surveys, and access to some excellent notes which can supplement lecture. My main problem is how disorganized things are, deadlines are set but rarely met, when he says something will be out Tuesday expect it to be on Thursday or even later.  Also no late credit if you turn things in late.  \r\nIf you enjoy this class check out CMSC838E with DVH, the grad level version where you go even more in-depth into these very same topics.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2024-12-02T20:41:40.890934Z"
+    },
+    {
+      "professor": "David Van Horn",
+      "course": "CMSC430",
+      "review": "This has been one of the more interesting classes I've taken at UMD. It's very structured because the course format has stayed the same for many years (since Calderon taught it), but not much of that can be attributed to DVH himself if im being honest. The lectures were super useless, all they really involved were DVH going through tangential Racket code in his Racket REPL. Half the time, we would barely get through any of the topics in the lecture notes. That being said, the projects were really interesting for this class and the course notes are super helpful. A lot of these were created by Professor Calderon I think and they are super useful, and what made the class really rewarding in the end. If you take this class with DVH, I highly recommend checking out Jose's online videos / notes. They honestly were WAY more useful than going to DVH's lectures in my opinion. \r\n\r\nMy experience with the TAs was definitely hit or miss. Some of the TAs were very sweet, caring, and helpful. We had really good response times on Piazza (shoutout Pierce!!), and some of the OH TAs were great and really caring. That being said, some of the TAs just felt underprepared and careless about the class. Sometimes, I felt that they didn't really know much about the projects or how to implement them, which made office hours unproductive for me on several occasions. \r\n\r\nThe midterms were alright and felt very fair. DVH definitely does a good job making these, and gives very fair review materials and practice midterms. There are a handful of quizzes and surveys throughout the semester, but be careful not to miss them. I remember them being about 15% of our grade, and if you're even a little bit late, you get a 0 no exceptions. Overall, interesting course with some good material. But could be far more organized on the administrative end.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-12-30T02:54:04.426780Z"
+    },
+    {
+      "professor": "David Van Horn",
+      "course": "CMSC430",
+      "review": "Decided to apply a down curve for no reason.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2025-01-05T02:53:38.441223Z"
+    },
+    {
+      "professor": "David Van Horn",
+      "course": "CMSC430",
+      "review": "Not a bad lecturer but literally never answers any email.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2025-02-12T17:49:41.736835Z"
+    },
+    {
+      "professor": "Milijana Surbatovich",
+      "course": "CMSC430",
+      "review": "This course is literally the continuation to CMSC330 but more.  Uses functional language (but in Racket not Ocaml) to develop compiler and interpreter.\r\n\r\nProfessor is a very smart, enthusiastic, and kind professor.  Notes are posted online and the lectures are recorded, which is very helpful for review.  Projects can be tedious but are manageable if you dont procrastinate.  Exams are TAKE HOME and 24-hour!  This is very different but I liked it tbh.  Note: the 1st exam is easy but the 2nd is much more difficult.  I spent like a straight 12 hours working on it to pass all cases.  They say that you should be able to finish in a normal class period but that's not even remotely true if you want a good grade lol.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-05-13T21:58:58.739044Z"
+    },
+    {
+      "professor": "Milijana Surbatovich",
+      "course": "CMSC430",
+      "review": "Amazing professor and really great class to take. She was teaching for the first time and using David van Horn's curriculum, which is generally quite good. Projects are fair and the head TA, Pierce, is ruthless in a good way. There are secret tests, thankfully, so we actually have to think about our code, proofread, and test. You are writing a compiler to x86-64 assembly, which means you don't really get helpful error messages, especially in the second half of the semester. So you have to walk through everything to make sure it's good which really builds patience and computer science skills. I was screwed over by the second midterm so badly I might not end up with an A despite getting perfect scores on everything up to that point. I trust that they'll refine the assignments so that the difficulty is not so jarring. But by itself the exams are very fair. There are 2, 24-hour (midterm) exams and 3-week final exam. \r\nI personally think the first 2 weeks were too easy but this might have been based on David van Horn's curriculum and she still had very effective lectures for people who needed the Assembly review. She goes over Racket (which she shouldn't for a 400-level class, you should just pick up on it from writing code and from the notes) and has an entire project dedicated to writing Racket. Hopefully this is refined but the second half being insanely hard really makes up for the first half being insanely easy and it cancels out.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-15T00:58:02.282336Z"
+    },
+    {
+      "professor": "Milijana Surbatovich",
+      "course": "CMSC430",
+      "review": "I only went to two lectures which were quite boring. There are only take home exams where you get 24 hours to do mini projects. Exam 1 was super easy compared to exam 2. I wouldn't say exam 2 was difficult, it was just that the content on it required me to relearn everything that was taught (not very fun), but was doable. The projects are what made me do 3 instead of 5 stars. They require a lot of time, and most of it is just understanding what exactly they want you to do. The class as co-taught by Anwar, so even if you aren't a fan of one professor you could go to the other. \r\n\r\nAlso we have online quizzes that randomly appear on gradescope so keep a look out for those :)",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-05-15T23:17:26.179235Z"
+    },
+    {
+      "professor": "Milijana Surbatovich",
+      "course": "CMSC430",
+      "review": "Milijana is a pretty solid professor, but not a super engaging lecturer. Like other reviews mention, the class is basically just David Van Horn's curriculum, so professor doesn't matter much. I stopped going to lecture about a month into the semester and just read the very good notes on the course website. Also shoutout Pierce for answering literally every Piazza question.\r\n\r\nThis class will test your programming skills. Many of the assignments took me hours of debugging to figure out, especially the ones that were heavy on assembly (sidebar, the CMSC4xx info website says this class uses Ocaml, but it instead uses Racket which I found way more annoying). If you had a hard time with assembly in 216 or Ocaml in 330, this class will be a challenge. The entire curriculum is basically writing and rewriting a compiler for Racket itself, with progressively more and more features. I thought all the projects were really engaging, so I didn't mind how hard they were. The two midterms and final project, despite being take home, are pretty crazy jumps in difficulty though. Implementing runtime exception handling in assembly was a truly painful experience.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-05-17T19:36:58.852334Z"
+    },
+    {
+      "professor": "Anwar Mamat",
+      "course": "CMSC430",
+      "review": "He's good. Knows what he's talking about, very approachable, and genuinely wants to see students succeed. He might not come off this way though if he doesn't think you're truly interested or even paying attention, but I think that's fair. Sometimes his organization does confuse me, especially so in this class where I already a little confused to start (low level coding is my weakness). Oh, and also, he's funny.\r\n\r\nFor the class, please start projects early and try to understand the concepts because it's very satisfying. I would say this class is hard, but I know a lot of people would think it's easy.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-05-20T20:58:46.828420Z"
+    },
+    {
+      "professor": "David Van Horn",
+      "course": "CMSC430",
+      "review": "He's fine I guess. Nothing much of note, the class might as well be asynchronous.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2025-05-22T02:58:04.514204Z"
+    },
+    {
+      "professor": "Anwar Mamat",
+      "course": "CMSC430",
+      "review": "Great teacher and an interesting class. This class is good for people who like lower level computing concepts and are interested in compilers. Anwar's teaching method lends itself well to the structure of this class, as he has a hands on approach to teaching.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2025-08-07T19:18:54.988471Z"
+    },
+    {
+      "professor": "Anwar Mamat",
+      "course": "CMSC430",
+      "review": "Took this course over the Summer with Anwar.  It's same old Anwar, I'm not a huge fan of the way he teaches, but I also don't typically go to lecture, so it's not something too important to me.  This course in particular tends to be taught identically regardless of professor because they're based off some really amazing notes written by someone whose name I cannot seem to find written down anywhere.  If you're comfortable with assembly from 216, and the concepts from 330, you'll do quite well in this class from the notes alone.  Since it was the Summer, it was nothing but projects and a few easy quizzes.  Even the midterms were just projects.  We weren't able to do the actual final, because Anwar only had classes 3 days a week instead of all 5, meaning we weren't able to cover all the content.  We just did the next project as the final instead, so it was incredibly easy but still weighted disproportionately towards our grade. \r\n\r\nRegardless though, it was an interesting class, and besides having to join the Zoom each day (since he took attendance through Zoom polls) it was pretty easy, even if you're not listening to a word he says.  If you like the way Anwar teaches, or if you're very comfortable with writing in assembly, working with parsing and interpreting, and don't mind learning from the (quite comprehensive) notes, then definitely take this class if it interests you.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-08-10T21:04:06.076703Z"
+    },
+    {
+      "professor": "Pierce Darragh",
+      "course": "CMSC430",
+      "review": "Pierce is more responsible than DVH and is the most helpful TA I\u2019ve ever had in a CS course. Dude responds to Piazza posts at 1am in 5-10 minutes. What else can I say?",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2025-10-29T03:07:34.126018Z"
+    },
+    {
+      "professor": "Anwar Mamat",
+      "course": "CMSC430",
+      "review": "Took him Spring 2025. First quiz, first exam, and project 5 had harsh distributions, but besides that the class was pretty forgiving. Projects were heavily weighted and time consuming, so I recommend starting early. Overall, no complaints - he's a funny guy who has an odd teaching style (literally just writes code in emacs the whole time and rarely opens his slides), but if you are choosing between him and Cliff, I'd recommend Anwar because his exams seemed to be easier than Cliffs this semester (even though the exams are roughly the same across all sections).",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-11-07T03:00:22.413347Z"
+    },
+    {
+      "professor": "David Van Horn",
+      "course": "CMSC430",
+      "review": "DVH is a somewhat \u201cdistant\" professor, which is my biggest issue with him. He leaves most of the teaching to the online course notes and only the TAs hold office hours. You can tell he isn\u2019t 100% engaged in the course and, as a consequence, it becomes very difficult to fully engage in the course as a student. There\u2019s nothing super bad about him, but I probably wouldn\u2019t take him again unless I had to.",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2025-12-06T21:45:05.818443Z"
+    },
+    {
+      "professor": "David Van Horn",
+      "course": "CMSC430",
+      "review": "If you're going to take CMSC430, take it with DVH! He is super knowledgeable and it's clear his sole goal of the class it to make sure everybody learns something. He welcomes questions and engagement during class, and really turns lecture into what the class makes it. The notes are extensive and helpful, and assignments are weekly, but short. There are 2 exams, which are 24-hour take-home projects. They don't actually take 24 hours, and you can probably get full points if you just pay attention in lecture and do the assignments. The final was a final project that was also pretty manageable. Course staff was responsive to questions on Piazza as well. Highly recommend DVH. He's understanding, kind, and good at explaining things. In my opinion, the way DVH lectured made this class even easier than the compilers unit in CMSC330.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2025-12-12T16:12:02.953415Z"
+    },
+    {
+      "professor": "David Van Horn",
+      "course": "CMSC430",
+      "review": "His lectures are so boring, but the class is fairly easy. There are a few projects, two online 24 hour midterms, and a final project. The first midterm took me about 2 hours, but the second midterm was ridiculous and they had to give a 12 hour extension. I don't think the topic is that helpful, but it's a good class to take for an easy A.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2025-12-12T19:09:12.242739Z"
+    },
+    {
+      "professor": "David Van Horn",
+      "course": "CMSC430",
+      "review": "The course was great. The content was pretty interesting and well-taught. I liked that there were no pencil-paper exams. We had 8 projects, each taking about 2-6 hours each, with each one having an auto-grader for immediate feedback. I was able to get 100 or near 100 on all of them, and being that they're 45% of your grade, that was huge.\r\n\r\nThe midterms were take-home projects which you have 24 hours to do. I thought they were pretty fair, and were 12.5% each, so it's not the end of the world if you bomb them. They took me about 4 hours each. However, the final drove me insane. I probably dumped 20+ hours into it for a sub-par solution worth 15% of my grade.\r\n\r\nOverall DVH is a great lecturer and I liked how automated the course seemed. The class website has great notes if you ever get lost. The TAs also won't shy away from giving you a very in-depth answer if you ask a deeper question on Piazza. -1 star for the final project insanity.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2025-12-15T16:44:05.884035Z"
+    },
+    {
+      "professor": "David Van Horn",
+      "course": "CMSC430",
+      "review": "Good lecturer.  Class was not very engaging but its easy to get a solid grade.  It felt very similar to cmsc330 but a little more difficult in terms of content.  The workload was light and the midterms were online so I barely gave effort in this class. If you want to get valuable learning I don't think I would recommend this class, but if you want a light course with a good chance of getting an A then take this course.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2025-12-29T20:01:32.396660Z"
+    },
+    {
+      "professor": "David Van Horn",
+      "course": "CMSC430",
+      "review": "Cool class. Fuck bignum",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2026-01-25T04:35:22.526732Z"
+    }
+  ],
+  "department": "CMSC",
+  "course_number": "430",
+  "name": "CMSC430",
+  "title": "Introduction to Compilers",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> Minimum grade of C- in CMSC330 and CMSC351; and permission of CMNS-Computer Science department. Or must be in the (Computer Science (Doctoral), Computer Science (Master's)) program.\nTopics include lexical analysis, parsing, intermediate representations, program analysis, optimization, and code generation.",
+  "is_recent": true,
+  "geneds": null
+}

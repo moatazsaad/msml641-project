@@ -1,0 +1,732 @@
+{
+  "average_gpa": 2.798139534883721,
+  "professors": [
+    "Clyde Kruskal",
+    "David Mount",
+    "Jessica Chang",
+    "David Malec",
+    "Andrew Childs",
+    "Samir Khuller",
+    "Jonathan Katz",
+    "Aravind Srinivasan",
+    "Laxman Dhulipala",
+    "Andrew Childs",
+    "Clyde Kruskal",
+    "Laxman Dhulipala",
+    "Andrew Childs",
+    "Clyde Kruskal",
+    "Andrew Childs",
+    "Laxman Dhulipala",
+    "Clyde Kruskal",
+    "Clyde Kruskal",
+    "Clyde Kruskal",
+    "David Mount",
+    "Laxman Dhulipala"
+  ],
+  "reviews": [
+    {
+      "professor": "Samir Khuller",
+      "course": "CMSC451",
+      "review": "Moderately chill dude. Should've failed this class, but my man came through with an epic review sesh.",
+      "rating": 4,
+      "expected_grade": "C-",
+      "created": "2015-10-13T21:10:00Z"
+    },
+    {
+      "professor": "Samir Khuller",
+      "course": "CMSC451",
+      "review": "A very chill dude.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2015-10-13T21:09:00Z"
+    },
+    {
+      "professor": "Clyde Kruskal",
+      "course": "CMSC451",
+      "review": "I strongly felt the particular content of this course is best (and easiest) learned through his whiteboard style rather than by book.  Clyde covers a TON of ground in one lecture's time, especially when compared to professors who just read off a watered-down powerpoint from the book for their entire class \"lecture\".  \n\r\nThe big caveat is if you have a lot of trouble following (at least roughly) what he's doing, it won't be much fun for you and you will feel lost all lecture.  Either way you need to write down literally everything he does.  The material can be hard to grasp, but Clyde is really great at walking through an algorithm.  If you take good notes and review them (possibly with another classmate/TA) you will eventually understand it.\n\r\nThe other most important thing to do in this class is to ask questions when something isn't clear.  In each class there's usually 2-6 little insights he forgets to mention, if you can catch those omissions and get him to explain them, you are a hero and it will be tremendously insightful for you and for every other student in the room.  Although if you still don't get his explanation, you may need to just let it go- and if you took good notes, you should eventually understand it when you are reviewing them later.\n\n",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2015-11-12T15:07:00Z"
+    },
+    {
+      "professor": "Clyde Kruskal",
+      "course": "CMSC451",
+      "review": "Kruskal is great in this course. His policy on homework is great (hand it in whenever, no real due dates). You just have to make sure to keep yourself on top of it so you don't fall behind. HW is good practice of the concepts.\n\r\nExams are tough, but that's to be expected for this type of course. The questions are fair.\n\r\nMost importantly, Kruskal makes the course very interesting by motivating the topics very well. He is also very good at explaining stuff, but you have to make sure to ASK him questions. Otherwise, he will breeze through the material and you won't understand anything. He is decent for help in office hours too.\n\r\nMy only complaint would be that he seems a little disorganized (just try visiting his office for example). However, he never lost any of my work, so this is not a big issue.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2012-05-15T00:47:00Z"
+    },
+    {
+      "professor": "Clyde Kruskal",
+      "course": "CMSC451",
+      "review": "This course was super fun! Easily my favorite course taken at UMD so far. It's a panorama of cool stuff in algorithms- I was continually surprised with intuitive tricks that are simple to explain but probably took months each to develop. They're priceless drips of distilled knowledge that you can't afford to miss if you're a CS major who plans to stop at your bachelor's degree. \n\r\nKruskal communicates the course content clearly and with a refined taste for what's interesting. He seemed to care less about grades than most other professors, and gave a ridiculous curve. His marking is merciless though- if you do something wrong on a problem then you can expect a 0 or 50% grade for that problem.\n\r\nThe tests were hard, especially the final which was very hard. He puts heavy emphasis on proofs. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2012-01-24T20:56:00Z"
+    },
+    {
+      "professor": "Clyde Kruskal",
+      "course": "CMSC451",
+      "review": "My only real complaint about Kruskal is that he's probably too smart for his own good. Unfortunately, that impacts his teaching significantly. It's frustrating when he insists on only proving things a specific way, and this is the only class I've ever taken in which I really felt like I had to ask questions.\n\r\nThe exams were worth most of the grade which made it a little scary. But if you really do all of the homework on your own and study well, you should do well on the exams (at least relative to other people, which is what matters in this course with regards to your grade). Definitely go over all of the homework questions before taking the exams, and maybe do a few questions from the book.\n\r\nKruskal is very accommodating and cares a lot about his students. He clearly wants to see them do well. I definitely learned a lot in this course and was adequately rewarded for my efforts. It just takes a lot of getting used to his teaching style, and several hours doing and reviewing problems to prepare for the exams.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2012-01-11T03:13:00Z"
+    },
+    {
+      "professor": "Clyde Kruskal",
+      "course": "CMSC451",
+      "review": "Class is hard so do not skip any lectures. There were only 4 homeworks but they were challenging and were used on the exams.\n\r\nMidterm was 40%, homeworks 10%, final 50% of grade.\n\r\nMany people drop this class because of his no-regard-for-human-life grading style.\n\r\nI thought I'd fail with a 55 average on the midterm and final exam, but with his curve that was a B.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2011-07-07T16:27:00Z"
+    },
+    {
+      "professor": "Clyde Kruskal",
+      "course": "CMSC451",
+      "review": "Kruskal is a great guy. I have had couple of classes with him, and I think he is definitely one of the better professors in the department. His class is entertaining and educational at the same time. Mind you, 451 is a hard class. You learn many complex classes of algorithms, and their mastery can only happen over time. The good thing is Kruskal understands this. His tests aren't super hard if you go through and understand his lectures well. He doesn't give very organized notes (mostly writing on board). Also, there were couple of times when he stumbled a bit solving some problem. But on the whole, I would recommend taking this any/all algorithms classes with him. Also has a decent grade curve. But go into this class prepared to see some really hard problems.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2010-06-08T02:16:00Z"
+    },
+    {
+      "professor": "David Mount",
+      "course": "CMSC451",
+      "review": "Great lectures and lecture notes. Comprehensive, lucid, and insightful best described the class. Homework was challenging but quite interesting. Exams were likewise challenging but definitely not impossible if you understood the material. There's a lot of non-linear thinking involved which is not too uncommon for proof-based mathematics courses but may surprise those coming from a traditional CS background.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2008-12-28T22:27:00Z"
+    },
+    {
+      "professor": "Andrew Childs",
+      "course": "CMSC451",
+      "review": "Good professor but has very high expectations for students.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2018-03-30T13:23:11Z"
+    },
+    {
+      "professor": "Andrew Childs",
+      "course": "CMSC451",
+      "review": "Great at lecturing. I learned a lot.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2018-05-18T21:13:14Z"
+    },
+    {
+      "professor": "Andrew Childs",
+      "course": "CMSC451",
+      "review": "Great professor. No slides, but excellent lectures with clear notes on the board.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2018-05-19T17:59:23Z"
+    },
+    {
+      "professor": "Aravind Srinivasan",
+      "course": "CMSC451",
+      "review": "It is clear that Aravind has a vast knowledge of algorithms, and is very passionate about the subject as well. He teaches the course via lectures based off of the recommended textbook, following very closely to the examples and ideas from the chapters he tells you that you must understand. I found the lectures, if you pay attention, to be very interesting and relevant.\r\nAs for assignments, the course had 5 homework assignments, each giving you a deeper understanding of the topics covered in the past few lectures. They were graded moderately harshly.\r\nThe mid terms were pretty difficult and took the entire class time to complete for almost all of the class. None of the questions were unfair or anything he hadn't covered, and if you do the book problems and redo the homework assignments the tests are manageable. ",
+      "rating": 4,
+      "expected_grade": "C+",
+      "created": "2019-05-14T16:40:41Z"
+    },
+    {
+      "professor": "Aravind Srinivasan",
+      "course": "CMSC451",
+      "review": "Pretty good professor. Cares about his students and is interesting enough. Much better run class than 351 for sure.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2019-06-11T17:55:11Z"
+    },
+    {
+      "professor": "Andrew Childs",
+      "course": "CMSC451",
+      "review": "Pros:\r\nHe is very smart\r\n\r\nCons:\r\nYou'll never be as smart as he is\r\nThe class is genuinely difficult\r\nHe is a very boring lecturer\r\n",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2019-07-08T15:34:53Z"
+    },
+    {
+      "professor": "Andrew Childs",
+      "course": "CMSC451",
+      "review": "Incredible professor. His lectures are very clear and the expectations for students are very reasonable. This is a challenging class, but it's worth taking because you'll learn a ton.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2019-11-28T20:00:39Z"
+    },
+    {
+      "professor": "Andrew Childs",
+      "course": "CMSC451",
+      "review": "Childs is probably the best professor I have ever had out of all the other CMSC professors next to Max for 423. Hands down takes the best notes, is easy to follow in class, and he is really interesting (his field of study is quantum algorithms). The only sort-of complaint I have is he doesn't post his notes online, but that never really bothered me and you definitely learn a lot when you're at lecture.\r\n\r\nMore importantly however is how hard this class is. Yes, the first half of the class is 351 material, but with 2 week long assignments and a final that is worth almost half your grade, the class has very little room to make up for lost points easily due to its structure.\r\n\r\nI will say the class was harder than 351 for me, as I had Golub for 351 and received a B at the end, and I wasn't the best at proofs coming in to this class.\r\n\r\nMy advice is if you are VERY confident in your ability to solve proofs then you should definitely take Childs; he's absolutely the best professor for this class. It honestly all comes down to how confident you feel about taking 451.\r\n\r\nP.S: I'm giving 5 stars because Childs is AMAZING, not because of the course material or its difficulty.",
+      "rating": 5,
+      "expected_grade": "C",
+      "created": "2019-12-14T20:34:38Z"
+    },
+    {
+      "professor": "Andrew Childs",
+      "course": "CMSC451",
+      "review": "Childs is insanely smart; he, for the most part, single-handedly managed the course Piazza. He writes his notes (on an iPad projected to the screen) in a way that students can copy word for word, which is nice when we need to review the concepts, but makes class a frantic effort to copy notes (missing a lot of what Childs has to say verbally).\r\n\r\nHis final was pretty fair in my opinion. He sticks very close to the book \"Algorithm Design\" (available as a PDF online).\r\n\r\n451 is a tough class. I guess it will improve some algorithmic thinking skills.",
+      "rating": 4,
+      "expected_grade": "C+",
+      "created": "2019-12-19T00:37:01Z"
+    },
+    {
+      "professor": "Andrew Childs",
+      "course": "CMSC451",
+      "review": "Probably one of the best professors to have for a difficult class. He almost instantly replies to all Piazza posts, has great lectures, and he is very kind. This class was hard but the material I learned from it was invaluable and absolutely essential for any CS student.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2019-12-20T15:50:51Z"
+    },
+    {
+      "professor": "Andrew Childs",
+      "course": "CMSC451",
+      "review": "the course is pretty hard in general. there were a lot of smart people when i took the course and exam averages were in the high 60s. \r\n\r\nbut as for andrew childs himself, if you can take this class with him, do it. he is a great lecturer. while he might be fast at times he does address student questions during class. i went to his office hours fairly often and i got a lot of my questions answered and i overall learned a lot in this class. it's a challenge and bit stressful since the final is worth 45% but i think if you did well in 351 (B or higher) and you're interested in learning more about algorithms then take this class with childs. ",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2019-12-21T02:36:47Z"
+    },
+    {
+      "professor": "Andrew Childs",
+      "course": "CMSC451",
+      "review": "Andrew Childs is such an amazing professor. He is clear and calm in his lectures, always willing to re-explain material, and his homeworks and exams are very fair. Not easy, but fair.\r\nWhen I had him, he took notes on an iPad and displayed them on the board as he taught, to show many examples and explain theorems. However, he didn't post those notes - so make sure you take your own!\r\n\r\nOverall, I would want no one else to teach me 451. I feel like I actually learned a lot. I wish he would teach 351 as well!",
+      "rating": 5,
+      "expected_grade": "C",
+      "created": "2019-12-21T16:51:15Z"
+    },
+    {
+      "professor": "Clyde Kruskal",
+      "course": "CMSC451",
+      "review": "Truly garbage. Doesn't teach anything--and what's worse--doesn't seem to care. Terrible organization and complete apathy.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2020-05-08T16:03:14Z"
+    },
+    {
+      "professor": "Clyde Kruskal",
+      "course": "CMSC451",
+      "review": "While the content of this course is interesting the organizing and implementation is severely lacking. Professors and TA's should respond to students in a timely manner but in this class there was seldom any communication with the students on basic course information ",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2020-05-21T15:11:36Z"
+    },
+    {
+      "professor": "Jonathan Katz",
+      "course": "CMSC451",
+      "review": "Textbook definition of a good professor.\r\n- Answers Piazza posts quickly\r\n- Lecture is clear, provides lots of examples\r\n- Handled the transition to COVID online learning very well\r\n- HW's were relevant\r\n- Exams were reflective of HW's and class material\r\n\r\n10/10 would take again.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2020-12-18T03:33:14Z"
+    },
+    {
+      "professor": "Jonathan Katz",
+      "course": "CMSC451",
+      "review": "I would not take him again because he seems to genuinely not care about any of his students. He has good and interesting lectures but it seems like he doesn't want to spend a second of his time outside of class for the class. Maybe this impression is unique to me but I felt like he didn't care about the students and didn't want to be bothered. ",
+      "rating": 2,
+      "expected_grade": "B-",
+      "created": "2020-12-18T15:33:19Z"
+    },
+    {
+      "professor": "Jonathan Katz",
+      "course": "CMSC451",
+      "review": "He has good lectures but this person genuinely does not care about any of his students. He does not want to spend any second on logistics and his replies to piazza posts are very irritating to say the least. I would not take him again. And grades? He says everybody should get an A and does not curve. Grading is not clear at all! We never know what the cutoffs were, we never knew what grades we had until we saw them on Testudo. A complete failure of a professor in my opinion. He also asked if us so many times not to email him. He even said he will not respond to any emails. He genuinely does not want to teach in my opinion. ",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2020-12-19T16:59:49Z"
+    },
+    {
+      "professor": "Andrew Childs",
+      "course": "CMSC451",
+      "review": "Definitely the best professor for CMSC451. The lecture videos are concise, well put together, and very informative. The course was also structured in a way that allowed for a lot of flexibility for students. Exams are fair and you will do well if you do the homework's. Professor Childs is very knowledgeable about algorithms and is also able to answer questions and explain concepts very well. Overall, really enjoyed his class.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2020-12-24T06:32:01Z"
+    },
+    {
+      "professor": "Andrew Childs",
+      "course": "CMSC451",
+      "review": "\r\n(Disclaimer: had him during fall 2020 virtual semester) \r\n\r\nI found the course a lot easier than 351. The homeworks were a bit challenging but I found that the TAs, at least during this semester, graded very generously (the rubrics are not like 351 where it\u2019s basically 0%, 50%, or 100% per question). The tests were kind of hard to do under a time crunch but they were generally easier than the homeworks and again had generous rubrics. Childs is a nice professor and responsive to the students - he extended the deadline on one of our homeworks. If you\u2019re interested in 451 I recommend taking it with him. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2020-12-26T16:56:33Z"
+    },
+    {
+      "professor": "Andrew Childs",
+      "course": "CMSC451",
+      "review": "Childs was really fair, and I felt like a learned a lot through the course. It was challenging, but I could tell that all of the material was important. Grading was fast, and lectures were recorded. Piazza questions were answered quickly. ",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2021-01-04T00:17:44Z"
+    },
+    {
+      "professor": "Clyde Kruskal",
+      "course": "CMSC451",
+      "review": "Had Dr. Kruskal for CMSC351/451. He is not perfect, but I absolutely disagree with his 2.87 star rating.\r\n\r\nHe has a good sense of humor and teaches algorithms in a way that makes it very intuitive. He also really makes sure to answer student questions during lectures and is helpful during office hours. One of the biggest complaints is that there is a really long turnaround time before things get graded. This is not any of the TA's or Kruskal's fault. They are simply understaffed for the amount of kids they have to manage. Another complaint is that the tests are completely unfair. This was absolutely not true in 351, where the problems were literally just slightly altered homework problems and problems that reflected lecture material. The tests for 451 I felt were more difficult.\r\n\r\nMany people also leave the class frustrated because they can't seem to get a good grade by rote memorization of the materials. I think that the problems Kruskal gives out on the homeworks and exams are fair for a difficult algorithms class and focused on difficult problem solving. It is, however, very difficult for any teacher to 'teach' a class math maturity or problem solving ability. You are simply going to have to do extra practice practice from the textbook if you haven't done these kids of problems before.\r\n\r\n\r\n",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2021-05-27T11:45:56Z"
+    },
+    {
+      "professor": "Clyde Kruskal",
+      "course": "CMSC451",
+      "review": "I took this class in Spring 2021. Typically, while most people say that your 451 grade with Kruskal is the same as your 351 grade with Kruskal, I feel as though your 451 grade may be lower. If you choose to take this class with Kruskal, be sure you know what you're doing...\r\nPros:\r\n+ The ridiculously long pre lecture videos from 351 are gone. The professor actually teaches new content during lecture time, making lectures highly informative.\r\n+ He repeats most NP assignments from 351, so you can reuse your work\r\n+ Professor is very chill regarding deadlines. Often, he would extend a homework deadline by a few dates simply because someone asked nicely. Our midterm deadline was actually moved by 2 weeks.\r\nCons:\r\n- The quizzes from 351 that helped gauge your progress are (mostly) gone. We had a few at the beginning of the semester but they stopped afterwards\r\n- There are no written solutions given for any homework assignment (not just NP). This is especially detrimental when exams are often based off of homework assignments. While there are review sessions that go over homework assignments, they lack the formal rigor that a written solution would have. Also, there is no guarantee that the every problem is covered in these sessions. It is especially baffling that we do not have solution keys when this was done so often back in 351.\r\n- The live lectures are often very free-flowing and not directed without the slide set. This can make it difficult to determine what to take notes on.\r\n- No review material is given for either the midterm or final. The homework assignments do not make up for this. As a result, it is very easy to lose lots of points of exam questions where you may actually understand the concepts at hand. Again, exam review material is something that was easily made for 351, so I am shocked that they couldn't apply the same processes here to make it.",
+      "rating": 3,
+      "expected_grade": "B-",
+      "created": "2021-05-30T00:58:59Z"
+    },
+    {
+      "professor": "Clyde Kruskal",
+      "course": "CMSC451",
+      "review": "This is my second review of kruskal, the first being for CMSC 351, posted on 12/20/2020 (search for \"tybug\"). I've changed view slightly; I think he's actually quite a good lecturer, but the class is far too disorganized to get anything above 3 stars, similar to 351. I also didn't learn the things I was most excited for in this class: proving algorithm correctness (formally, not hand waving with a certifier) and learning how to come up with algorithms, not just analyzing existing ones.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2021-05-30T22:46:56Z"
+    },
+    {
+      "professor": "Clyde Kruskal",
+      "course": "CMSC451",
+      "review": "Had him for 351/451. Got a B+ in both classes. Clyde is extremely lazy. When asked to go over some homework problems he may flat out refuse because it's too much work. Best thing you can do is form study groups and learn from other students. Pretty cool guy overall.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2021-11-10T20:00:34Z"
+    },
+    {
+      "professor": "Jonathan Katz",
+      "course": "CMSC451",
+      "review": "The course materials are good and the assignments are very fair. However, I never knew what my grade was in the class since the homework assignments took forever to grade. Idk if it's the fault of the TAs or Katz, but it's an anxiety-inducing issue that Katz cares very little about.",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2021-12-17T21:51:33Z"
+    },
+    {
+      "professor": "Andrew Childs",
+      "course": "CMSC451",
+      "review": "I took this class Fall 2020 (online semester), but I thought Childs was a great professor. He's probably one of the most organized professors in the CS department. His course is heavily dependent on the textbook (which is amazing), but he does a really good job of breaking things down in a digestible way. I would like to say that I'm algorithmically-challenged, but I was still able to follow all of the lectures. He is extremely responsive on Piazza, and very lenient with partial credit. The class is not easy, and you'll definitely need to work for your grade, but overall this is a great class and I would 100% recommend taking it. ",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2021-12-23T19:34:49Z"
+    },
+    {
+      "professor": "Jonathan Katz",
+      "course": "CMSC451",
+      "review": "Katz is one of the best Professors at UMD. He is as good as one can get. It\u2019s not only about understanding the concepts, but also thinking fast + critically. This is a skill to be built. After this class, I realized this, and it is probably the best realization in terms of academics I ever had, and something I neglected for so long - I need to learn to think critically + problem solve! Thanks to Katz I know now. Also, when he says anyone can get an A, he is 100% correct, it is all about experience and your ability to think critically (again, a skill that needs to be built from pushing yourself/practicing!).",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2021-12-23T21:12:38Z"
+    },
+    {
+      "professor": "Jonathan Katz",
+      "course": "CMSC451",
+      "review": "Overall a decent class. I'd actually give 3.5 stars out of 5 but I'd figure I round up if I have to decide between a 3 and a 4. \r\n\r\nPros:\r\n- Great lectures\r\n- Comprehensive slides\r\n- Responsive on Piazza. Some people were saying that he's too blunt or rude, but I didn't really feel that way. I appreciate that his responses were to the point.\r\n- Helpful during office hours\r\n- Exams and homeworks were mostly fair\r\n- Useful content for technical interviews and fundamental CS understanding\r\n\r\nCons:\r\n- Grading took way too long, particularly for the homeworks. However, the final was graded the same day, which is great on them. \r\n- Cutoffs could be more clear\r\n- Lecturing could be a bit slower so that people who are writing notes can copy points from the slides. This is likely because Katz covers more material than other professors.\r\n\r\nKatz may not be as good as Childs for this class, but he is miles better than Kruskal. My main suggestions for him are to try and enforce faster grading and to cover less material to let students have more time to grasp it. Other than that, you should be fine having him as your professor. ",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2021-12-24T15:56:14Z"
+    },
+    {
+      "professor": "Andrew Childs",
+      "course": "CMSC451",
+      "review": "pretty tough class but Childs is a very smart professor who explains content very well. homeworks take a long time (there are only 5 though so it's not terrible). wouldn't recommend taking this course with a heavy schedule but otherwise definitely recommend",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2022-05-19T01:44:08Z"
+    },
+    {
+      "professor": "Andrew Childs",
+      "course": "CMSC451",
+      "review": "Definitely one of the best professors in the department. Explains everything well, and the class definitely felt more manageable than 351, although that's not saying much. Homework is long though, so definitely start early on those.\r\n\r\nIf you're not algorithmically challenged like I am, this class might be fairly easy for you.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2022-05-23T18:53:38Z"
+    },
+    {
+      "professor": "Laxman Dhulipala",
+      "course": "CMSC451",
+      "review": "Lectures are written on iPad. He keeps lectures interesting by relating algorithms to the history and intent of them in the past. His explanations focus on building intuition for algorithms and he answers questions thoroughly. The class is good for building general algorithms intuition which may help in other coursework. The class is a decent amount of work, the homeworks each take 6-8 hours and are quite difficult. The exams are reasonable. He is open to suggestions since he is new at teaching but he is doing a good job already.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-11-17T03:24:08.820648Z"
+    },
+    {
+      "professor": "Laxman Dhulipala",
+      "course": "CMSC451",
+      "review": "New professor from industry, but has an excellent handle on a few areas that other professors struggle with. First of which is relating abstract material to real life. He manages to do this most often by incorporating the history and intuitions from which algorithms were developed into the introduction to learning them. Second of which, he takes time to engage with the class ALL THE TIME, and will not often leave a question unanswered. If he does, he usually clears it up after class. Exceedingly responsive on Piazza and ridiculously welcoming in office hours. Prof Dhulipala is a wonderful and passionate teacher, and I urge you not to take the kindness for granted nor take advantage of it, but instead take this opportunity to learn! \r\n\r\nThe course material is rough, no doubt, but it is not for lack of teaching skill. The homeworks take a LONG time. I waited until far later in the semester than I should have to get assistance with them, so I will say this: do not push this class to the backburner to focus on other easier assignments first. I would say the best strategy would be to take some time to at least write questions you have about the homeworks at face value, early on, so you have something concrete to bring to office hours, and then go early to get guidance and intuition. Getting even a little bit of help goes miles.",
+      "rating": 5,
+      "expected_grade": "C",
+      "created": "2022-12-06T04:00:44.112655Z"
+    },
+    {
+      "professor": "Laxman Dhulipala",
+      "course": "CMSC451",
+      "review": "Had the other section, but I watched his lecture videos instead. Beast. Never left me hanging on Piazza. As far as the class goes, the homeworks made me want to cry. The dynamic programming homework was so hard for me that I started to resent the course.",
+      "rating": 5,
+      "expected_grade": "C+",
+      "created": "2022-12-19T17:31:16.260523Z"
+    },
+    {
+      "professor": "Aravind Srinivasan",
+      "course": "CMSC451",
+      "review": "Very nice guy, always believes in his students. The class is more organized than 351, so it's easier in that way. It's also harder than 351 in that the homeworks are unbelievably difficult and time consuming, and the exams do not have anything to do with the homeworks (or even the practice exams). The 40% final exam is also scary. At least there is a massive curve. Definitely one of the harder CS classes, plan accordingly.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2023-01-05T20:51:27.765255Z"
+    },
+    {
+      "professor": "Laxman Dhulipala",
+      "course": "CMSC451",
+      "review": "Homeworks take extremely long, no consideration for students, doesnt respond to emails, condescending, take someone else if at all possible. biggest regret of my life.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2023-03-09T18:22:48.242635Z"
+    },
+    {
+      "professor": "Andrew Childs",
+      "course": "CMSC451",
+      "review": "I came into this class with high expectations due to his ratings and reviews, but honestly think he is a bit overhyped. He speaks so fast during lectures that I physically wasn't able to keep up with notes, and had to stop coming to class and watch the videos instead so I could actually understand what was happening. Additionally, this may be subjective to each individual, but for me personally I felt that his lectures lacked structure which made it especially difficult for me to take organized and digestible notes. These are minor issues though-- my biggest disappointment was that he is not the kind of teacher that recognizes and reciprocates effort. I had hoped to TA this class in the future, and made a substantial effort to build a rapport with him, but he is simply just not the kind of professor that you can build a rapport with. He is not approachable in a way that makes you feel comfortable asking him questions, and I've seen/experienced several instances of him responding a bit curt/rudely to questions on Piazza. Overall, I feel that the way he communicates with students is not conducive to learning. TLDR: Very smart professor that really knows his stuff, but his expertise in algorithms does not exactly translate to an expertise in teaching.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2023-03-11T21:40:59.687296Z"
+    },
+    {
+      "professor": "Laxman Dhulipala",
+      "course": "CMSC451",
+      "review": "The homeworks are definitely long, but Laxman was extremely responsive on piazza and always answered questions clearly in class. Was caring and compassionate during office hours which you should definitely take advantage of.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2023-04-07T16:34:40.614023Z"
+    },
+    {
+      "professor": "Andrew Childs",
+      "course": "CMSC451",
+      "review": "He's a good teacher who's very organized. This class is tough. There are 5 HW assignments and he drops your lowest. Final is worth 40% so that's stressful. Class is curved. He is not the harshest grader. Stressful since you won't know your grade until its published.",
+      "rating": 4,
+      "expected_grade": "C+",
+      "created": "2023-05-04T16:00:28.720626Z"
+    },
+    {
+      "professor": "Andrew Childs",
+      "course": "CMSC451",
+      "review": "I have some issues with this class that I'll discuss later but overall I think it's worth taking. It builds a lot of really useful skills and really helps you practice thinking critically.\r\n\r\nPros:\r\nThe class is organized very well. There's 5 homework assignments, each worth 10% of your grade with one dropped (so 40% total). They can take a long time to do and be pretty difficult, but you're allowed to work together on them. The TAs and prof are helpful during OH and responsive on Piazza. The hws help you to practice and build your understanding of the course content. The questions on the homework are about 1 or 2 levels more difficult than what'd you see on an exam, so they're good prep for that as well.\r\n\r\nThere's one midterm and one final, which is nice because the exam load is less. The midterm is 20% of your grade and the final is 40%, which imo is too much but ig that's the tradeoff for only having 1 midterm. The midterm was pretty difficult (avg 60%) but the professor says he intends to curve at the end of the semester based on where grades fall with the final. \r\n\r\nThe content is useful. I think I learned a lot about how to actually build and design new algorithms using existing algorithms or ideas (versus where in 351 you focus just on analyzing existing algorithms, not actually building anything new). That's the main difference between the 2 classes. He structures the class by first showing you 3-4 examples of algorithms using a specific technique (i.e. greedy) and then having you apply those algorithm's ideas to hw or exam questions. I think generally this class helped me to think critically about complex problems you'll encounter regularly in CS.\r\n\r\nCons:\r\nI felt the lectures were rushed and sometimes unclear. The professor would often handwave proofs especially towards the end of the semester to save time which resulted in them being difficult to read and understand. The book does have each proof in it written in depth, and is generally very good. I'm not usually a big fan of learning from textbooks and would rather get content from lectures, videos, or online, but I found this one very well written and helpful. I'd consider reading the textbook required to be successful in this class, even though the professor considers it \"recommended\".\r\n\r\nThis was a con for me but may be a pro for you. I personally kinda suck at proofs, and this class is *entirely* writing proofs (mainly proving your algorithm is correct). I think it was good experience to get but it was pretty difficult for me, especially at first. If you like proofs you'll do fine, but be prepared to be writing or studying proofs basically every day.\r\n\r\nA final being 40% of your grade imo is too much. I'd much prefer to have 2 midterms in this class and a lower weighted final. This is more so personal preference though.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2023-05-16T16:21:11.181277Z"
+    },
+    {
+      "professor": "Andrew Childs",
+      "course": "CMSC451",
+      "review": "Childs is one of the smartest Professors I've ever met and for a course like 451, him being able to answer as many questions as he did in class or piazza on the spot was very impressive. He really knows the algorithms and would be able to point out flaws in some of the suggested \"what if ... \" questions and I am super glad I took this class with him. I came into this class with not any more hope than to learn about some better ways to solve algorithm problems but am now considering getting a masters because I was very passionate about this class. \r\n\r\nIf you want to be great in this class, I suggest doing the textbook readings before class, because the information definitely can be a lot and gets covered quickly sometimes. This way you can come to class with the knowledge and Childs can break it down further for you.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2023-05-20T11:44:58.532328Z"
+    },
+    {
+      "professor": "Andrew Childs",
+      "course": "CMSC451",
+      "review": "Very organized. Set up Piazza and office hours times weeks before the semester began. He knows the textbook forwards and backwards. He follows the assigned textbook readings very closely. So if you're struggling to keep up during lecture, do the assigned readings beforehand. \r\n\r\nThe homework are long. HW3 (dynamic programming) was especially difficult. Make sure to start early (you're given 2 weeks to complete). The consist of 5 questions, typically all questions (except the NP HW) ask you to write an algorithm, prove its correctness, and state its running time. Use the textbook to complete homework early. Do not start any later than a week before the deadline. Each assignment took 10-20 hours to complete. Make sure to go to office hours to verify your thought process or you may get half credit on questions you incorrectly approach. The homework is however very fair and directly relevant to what we covered in class. HW average between 80-90%.\r\n\r\nI think what made me respect Prof Childs the most was that he was willing to answer questions during lectures fully. Even if this meant we did not get through supplementary topics at the end of the semester (had to cut out quantum lecture but posted for viewing on ELMS), he made sure to take any question serious and answer it without making anyone feel stupid. That's a classroom culture I appreciate. Sometimes however he does rush at the end to finish a proof if we got derailed with too many questions, but usually he saves it for the next class. \r\n\r\nDuring office hours, he was helpful. He gave hints on how to approach the homework. It was honestly helpful to explain my thought process and get that feedback from him. He allows multiple students in Zoom room at once or in person, so you get to listen to other students questions and perspectives as well, which is enriching. In regards to what 2 reviews down said about rapport, I will say that my interactions during office hours were mostly focused on course material and homework or practice problems. I think it is possible to build rapport, but you'll have to come with questions and willingness to share your interests. Most importantly, I felt like he did care about me and my understanding of the material. Sometimes he cracks jokes. \r\n\r\nRegarding exams, he made an especially difficult/ time crunch midterm (60% average), but he adjusted for it with a more lenient final exam (75% average). Overall cutoffs for the course: A-: 84, B-: 71, C-: 58. The biggest advice for exams I can give is to understand the homework well (what are the key concepts, thought processes), but then make sure to do as many practice problems as possible. Get your thought process verified by Childs or a TA. Big shout out to Aditya Acharya. He is the best TA for the course, go to his office hours if you can!! He makes his office hours basically into a discussion section for the course, white boarding concepts and helping get started on homework. \r\n\r\nAdvice: Start HW early (1+ week) so that you can spend 10-20 hours. Stay up to date with the lecture. Attend in person if you can even though its recorded. Take advantage of Piazza since Childs responds very actively. Take advantage of office hours, especially TA OH for homework. Prepare early for the exams. Good luck! Take him if you have the privilege and get a seat. I feel like I learned a lot and it greatly helped me with my logical/algorithmic thinking.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-22T18:56:44.587932Z"
+    },
+    {
+      "professor": "Andrew Childs",
+      "course": "CMSC451",
+      "review": "Great course and great professor. You learn a lot and the course content is really valuable knowledge. Childs is really smart, answers all questions, and does his best to help everyone succeed. The homeworks are very difficult so I would say start them very early. The midterm and final are really really really difficult and hard to finish on time with averages in the 60s. Don't panic though because the course has a huge curve at the end of the semester. Biggest piece of advice is to start the homeworks very early and go to TAs with any questions. The hws are graded harshly for correctness and take up a huge portion of your grade, so do them well. Overall its a hard class but if you think you can handle it its very worth taking, especially with a professor childs because you can tell he really knows his stuff.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2023-05-28T23:10:12.729546Z"
+    },
+    {
+      "professor": "Andrew Childs",
+      "course": "CMSC451",
+      "review": "I think he's a bit overrated in my opinion. He's very hard to talk to but he is receptive to questions, especially during lectures. However, he doesn't provide much insight regarding anything else. His responses are very brief and terse. The TAs were helpful at the very least. The tip to doing well in Childs's class is honestly to just LC. Many of the questions that appear are LC related especially divide and conquer, dynamic programming, and general graph algorithms (BFS/DFS/topological sort). You also don't need to attend class because he basically just summarizes the textbook which he didn't do amazingly. This is a decent class to take but there are more useful classes as you can just LC and learn the patterns yourself).",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2023-06-08T19:52:19.917609Z"
+    },
+    {
+      "professor": "Andrew Childs",
+      "course": "CMSC451",
+      "review": "1. Did you think the exams or other major assignments were fair? \r\n\u00b7 HW is fair but time-consuming, 10-15 hours each. The dynamic programming (HW3) was the hardest, 20 hours. \r\n\u00b7 The midterm exam was challenging due to time constraints, but the final exam was very fair.  \r\n\u00b7 The bulk of assignments and exams require writing an algorithm, proving its correctness, and stating its run time.\r\n\u2014\r\n2. Did you think the professor had reasonable expectations of the students in the course overall? \r\n\u00b7 Reasonable workload, with five homework assignments (one dropped)\r\n\u00b7 Reasonable exam difficulty of one midterm and one final exam.  He provided practical and clear exam preparation advice and plenty of practice.\r\n\u00b7 I strongly recommend not to leave the homework until the last two days. Start a week early and go to OH!\r\n\u2014\r\n3. Were you a fan of the professor's teaching style? \r\n\u00b7 Most organized professor I've had at UMD. \r\n\u00b7 Assignments punctually released and graded.\r\n\u00b7 Homework and lectures are very closely aligned with weekly suggested textbook readings. I highly recommend doing the readings before class if you're struggling. \r\n\u00b7 His ability to present the content clearly and logically with drawings and clarifications impressed me.\r\n\u00b7 I admired Childs\u2019 willingness to answer questions during lecture even if it meant going slower. He frequently paused and encouraged asking for clarifications and questions.\r\n\u00b7 He recognizes the difficulty of the course and pointed out historically confusing parts.\r\n\u00b7 His handwritten iPad notes are well structured, a great resource, and updated promptly after lecture. I suggest writing your own notes by hand because of the open-note exams.\r\n\u00b7 Recorded lectures. However, I recommend attending class because of the opportunity to ask questions, stay up to date,  and there was unrecorded Q&A at the start. \r\n\u00b7 When I asked questions during office hours, he demonstrated a thoughtful listening approach and genuine interest in helping me understand the course material better. Childs offered valuable feedback and diligently addressed questions. I valued the inclusive environment he fostered by allowing everyone to participate in the room/zoom, rather than seeing people one by one.\r\n\u00b7 To establish a personal relationship with Prof Childs, it is necessary to take the initiative and bring forth topics for discussion. \r\n\u2014\r\n4. Was the workload appropriate for the number of credits? \r\n\u00b7 Pretty heavy/demanding if you want an A. \r\n\u00b7 Homework required considerable time and effort, 10-15 hours on each due biweekly. \r\n\u00b7 The readings took around 2 hours per week.\r\n\u00b7 Exam prep required approximately 20 hours each exam. \r\n\u2014\r\n5. Was this course a waste of time or was it beneficial in some way? \r\n\u00b7 Challenging but highly rewarding course.\r\n\u00b7 Deepen my understanding of computer science, algorithmic frameworks, and especially honed my critical and logical thinking. \r\n\u00b7 Useful practice on presenting your ideas and algorithm. Topics like graphs, BFS, DFS, paths, cycles, topological sort, connected components, greedy (internal) scheduling, 1D 2D dynamic programming, etc are relevant for more advanced FAANG, leetcode interviews. \r\n\u00b7 Reductions (network flow, NP completeness) helped me practice transforming a new problem into an instance of known problems. \r\n\u00b7 A toolkit for writing algorithms! \r\n\u2014\r\n6. How much support were you given throughout the semester (office hours, extra resources, etc.)? \r\n\u00b7 Representative practice problems for exams, but no solutions. You have to get feedback on your attempt through office hours or Piazza.\r\n\u00b7 Childs displayed high responsiveness on Piazza, checking multiple times a day, including weekends, and personally responding to most questions. \r\n\u00b7 Childs and TAs had 2 office hours per week each. \r\n\u00b7 I highly, highly recommend Aditya Acharya's office hours!\r\n\u00b7 Attending office hours and seeking early feedback significantly contributed to my success.\r\n\u2014\r\nTLDR: Highly organized professor, reasonable exam expectations, challenging time-consuming homework, great teaching assistants, follows the textbook closely, records lectures and posts notes, useful for interviews, rewarding course, tangible improvements in algorithmic thinking, but heavy workload for an A. Highly recommend 451 with Childs!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-08-26T00:16:26.269048Z"
+    },
+    {
+      "professor": "Laxman Dhulipala",
+      "course": "CMSC451",
+      "review": "Laxman is a great professor. He is very knowledgeable about algorithms (particularly graph algorithms and parallel algorithms). He is responsive to student feedback, and most importantly, he picks interesting topics to cover in the class. \r\n\r\nThere is one homework every two weeks with a written and coding part. In my opinion, the coding parts were more challenging than the written part in most cases. He ended up giving a lot of extensions this semester, but hopefully in the future he will do a better job making the assignments doable in two weeks and sticking to that deadline.\r\n\r\nThe ones towards the middle of the course are the hardest, but just try all of the problems, go to office hours and don't worry about your grade. The grading scheme is super favorable, so just focus on learning. The mitderm was easy as well.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-12-12T18:38:54.316463Z"
+    },
+    {
+      "professor": "Laxman Dhulipala",
+      "course": "CMSC451",
+      "review": "Laxman has been my favorite professor so far in my career at UMD. He has a strong passion for the course material and is always looking for ways to make the course more effective in passing that passion on to students. In many ways, 451 just picks up where 351 finished, so you spend time diving deep into a lot of different algorithmic ideas and patterns in a way that really helps you to strengthen your algorithmic thinking. It's also still just a survey course of algorithms, and after finishing this course I feel like a whole world has opened up to me.\r\n\r\nThis semester we had competitive programming-style homework problems on CodeForces as well as written theory homeworks. You could pick any language you liked to implement your solutions. I really liked this way of teaching the course since it kept a strong focus on algorithm theory (very fun) but also forces you to really understand how to implement algorithms in practice. Definitely take Laxman, he cares.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-22T19:19:38.606711Z"
+    },
+    {
+      "professor": "Laxman Dhulipala",
+      "course": "CMSC451",
+      "review": "If I could rate him more than 5 starts, I would. Prof Dhulipala is very understanding. He wants to make sure everyone will take CMSC451 and pass it. Office hours are your best friend, he will try his best to answer your questions. Homeworks are quite difficult (as expected) but exams are very fair!! I would say the lectures vary in terms of speed. Sometimes he goes through material fast since there is a lot to cover and imo it was just better to listen and not take notes. (He also record lectures and uploads them!). All in all, awesome professor for CMSC451",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-23T21:02:49.404528Z"
+    },
+    {
+      "professor": "Laxman Dhulipala",
+      "course": "CMSC451",
+      "review": "The grading scheme for this semester was very very generous. The midterm and final are only worth 30% of our grade, while 70% is on homework. However, the drawback was that the homework was extremely time-consuming. There were 2 parts for each homework, writing (70-80%) and coding (20-30%). I really enjoyed the coding assignments, the difficulty varied from easy to medium to hard, just like leetcode. Ngl the homework took me at least 40 hours for each. But the TAs are super helpful, we could always ask them to verify our solutions or explain the concepts. Feel free to go to OH if you are struggling in the course.\r\n\r\nLaxman is very nice and responsive on piazza. He's a great lecturer as well. He also cares very much about his students, given that we got like 4-5 extensions on the homework.\r\n\r\nThe course wasn't easy but you'll definitely learn alot. Take it with him if possible. The cutoffs were reasonable, as long as you spend time on the coursework, there's no way to fail the class.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-12-24T20:45:18.925541Z"
+    },
+    {
+      "professor": "Laxman Dhulipala",
+      "course": "CMSC451",
+      "review": "Long homeworks, but very willing to help and super nice to talk to. Lectures are usually pretty good, but the content isn't always the most interesting.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2023-12-25T01:09:08.280534Z"
+    },
+    {
+      "professor": "Laxman Dhulipala",
+      "course": "CMSC451",
+      "review": "Probably the best professor I have had here at UMD. Very understanding and caring professor. Makes the homeworks hard intentionally but gives you more than enough time and resources to do well on them. Definitely recommend taking the class with him",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-01-06T04:32:13.231946Z"
+    },
+    {
+      "professor": "Laxman Dhulipala",
+      "course": "CMSC451",
+      "review": "This professor is fantastic, and I would take any class taught by him. The homework (both written and programming) is challenging and time-consuming, but the course overall is manageable. Exams are medium-hard difficulty but fair. Both Laxman and the teaching assistants are super helpful and quick to respond. The lectures get complex sometimes, but that's expected with this class. You'll need to dedicate time outside of class to review lectures and read the textbook for a clearer understanding. Laxman genuinely cares about your learning, telling us to focus on learning while he takes care of our grades, and he really means it. His extensive industry experience really helps with understanding the applicability of the coursework. In my opinion, he's the best professor in the Computer Science department!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-01-11T21:01:35.969188Z"
+    },
+    {
+      "professor": "Laxman Dhulipala",
+      "course": "CMSC451",
+      "review": "I agree with most of what has already been said about Laxman for CMSC451 over the fall 2023 semester, but I wanted to add another 5-star review because he deserves it.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-01-29T16:25:01.738146Z"
+    },
+    {
+      "professor": "Clyde Kruskal",
+      "course": "CMSC451",
+      "review": "There was no syllabus. Midterm topics were decided the day before the exam. The location was also announced the day before the exam. Homework was taken from Laxman's class (Laxman's lecture recordings were a lifesaver). Final exam was copied from Laxman's final, with parts removed because lectures couldn't keep up with his section.\r\n\r\nI got the impression that there is a feedback loop of lack of engagement between students and teacher.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2024-03-15T15:19:14.708383Z"
+    },
+    {
+      "professor": "Laxman Dhulipala",
+      "course": "CMSC451",
+      "review": "I took 451 with Laxman Fall 2023. By far my favorite CS professor, hands down. He was very knowledgeable, very nice, and very relatable. He frequently expressed his confidence in all of us to succeed in the class and in our future careers. No CS professor I've had so far has actually encouraged me to have a growth mindset. I'd take him again if I could!\r\n451 challenges your brain in all the right ways. Laxman and his TAs handpicked assignment questions to be as interesting as possible, and it really showed. They were difficult and took a lot of time to do, but were engaging. Lowest assignment grade was dropped, and your overall grade was calculated in a way that maximized your strongest scores and minimized your weakest ones. This format ensured that you were set up for success, and as long as you put in the effort, you would get a good grade. \r\nI don't know what else to say other than to take him if you can as you will not be let down!",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2024-05-17T19:03:47.994472Z"
+    },
+    {
+      "professor": "Andrew Childs",
+      "course": "CMSC451",
+      "review": "Warning to anyone taking this class, if you didn't like or do well in 351 you probably shouldn't take this class. In my opinion this is the hardest class I've taken at UMD, every assignment is long and graded for accuracy. Honestly I thought the grading was harsh for the assignments as if you didn't use the preferred method to solve a problem I'd always get at least 25% of the credit off for the question. Luckily you can afford to mess up one assignment as he drops your lowest one. You also will be spending a lot of time on these assignments and writing notes for the exams. The good things about him are that he curves very generously and his exams are open note and open book. He's also clearly really smart but his handwriting on the notes he posts is quite awful lol. Overall most of the problems I had with the course were the course itself and not the professor.",
+      "rating": 3,
+      "expected_grade": "C-",
+      "created": "2024-05-18T13:40:46.758994Z"
+    },
+    {
+      "professor": "Andrew Childs",
+      "course": "CMSC451",
+      "review": "Even though I didn't get the grade I wanted at the end of the semester, I'm still going to give Andrew five stars simply because, despite the super difficult nature of the content (and the notoriety surrounding the class itself), he is a great and arguably one of the most organized professors at UMD. He's super knowledgable about the content and he makes sure to spend a lot of time clarifying confusing parts and often takes time to see if there's any questions he can answer. He's also approachable and can be pretty accommodating for any circumstances that come up, though the class itself is pretty rigid in terms of due dates. He also records and posts lectures and makes his handwritten class notes available in case you can't come to class. \r\n\r\nJust to be clear, this class is DIFFICULT. If you struggled with proofs in 250 and 351 then this class will be hell, but it can be really useful if you want to think logically about designing mathematical solutions to problems and can help with tech interviews. \r\n\r\nHomeworks: \r\n- There are 5 homeworks (with the lowest dropped) each worth 10% for a total of 40%,\r\n- Each assignment comes with 5 questions, which usually follows the format of: here's this problem, given this input design an algorithm that gives some output, prove the algorithm is correct, and give its running time complexity.  \r\n- He gives you two weeks between assignments, which you should take advantage of because on average each homework can take 8-12 hours. I personally take longer for assignments so I can say that I've spent up to 20 hours on some of the assignments.\r\n- The averages for the homeworks ranged from low 70s to high 80s. \r\n- Homework solutions are released right after 11:59, so there are no late submissions. You get about 3 days for regrade requests though.  \r\n\r\nExams:\r\n- 1 midterm worth 20%, and 1 final worth 40%. \r\n- Essentially they're shorter homeworks with slightly easier problems, but you're given so much less time to do them you really need optimize your time for figuring out a solution, writing the algorithm, and proving its correctness and running time. \r\n- They're open note (no electronics though) but you really don't have enough time to spend looking at how to write certain proofs, you gotta know your stuff going in. \r\n- The average for the midterm was a 60% and the final a 72%, and he gives a pretty generous curve at the end of the course. He didn't tell us the specific grade cutoffs for the end of the course, likely because students on Piazza were using the last semesters cutoffs to predict the cutoffs for this semester. \r\n\r\nTips for success:\r\n- Even though the book is optional, definitely read the chapters he gives each week because not only do they give you an in depth explanation about the topics of the week, but it gives you general formulas for solving problems of a specific type which is SUPER useful for homeworks and the exams. Trust me, I hate doing class readings but these are pretty short and can really help you out.\r\n- Go to office hours, this definitely saved my grade because without it I would have dropped a few letter grades. Especially Aditya's office hours, he's TA'd the course multiple times and when he gets a crowd of people he goes through each of the problems and explains the context and starts a few approaches.  \r\n- Start the homework early. I've had friends in this class who wait until the day its due and get to a point where they're starting some problems at 11:30. Some people can get away with this, but I wouldn't take any chances.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2024-05-19T03:55:14.416565Z"
+    },
+    {
+      "professor": "Andrew Childs",
+      "course": "CMSC451",
+      "review": "I'm not gonna lie, I only showed up to a single lecture (the first one), the midterm, and the final so I can't give great insight into how great a lecturer Childs is. I will admit that his notes are very detailed and helped me through every assignment and concept taught in the course.\r\n\r\nI thought all of the 5 assignments (though time-consuming) were fair and TA's were readily available to help out to give good hints/insight on how to solve each question. As the rest of the recent reviews detail, the midterm was time-crunchy and difficult with a class average of 61%, while the final was much fairer with a class average of 72%. The class is curved at the very end so it is stressful not knowing what grade you have until basically the very end of the course.\r\n\r\nOverall, I am happy to have taken this course (with Childs specifically) and feel more prepared for technical interview-style questions I may face in the future.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-20T00:05:41.914647Z"
+    },
+    {
+      "professor": "Andrew Childs",
+      "course": "CMSC451",
+      "review": "Childs is great at lecturing and I really got a lot out of this class. It definitely helped me get more comfortable with algorithm design and proofs. Lectures were fairly fast-paced since we had a lot of material to cover, but he was always happy to clarify any questions people had. Lectures stuck fairly close to the textbook, which was also a good reference if something wasn't clear. Typically lectures would introduce some problem, then we would discuss an algorithm for solving it, prove correctness and analyze time complexity. There were five problem sets throughout the semester, with the lowest one dropped. Each one was fairly difficult, consisting of a five or so problems. We had one midterm and one final. The midterm was was fairly straightforward I thought, but with one tricky question. The main challenge was the time crunch. Everyone was writing frantically until the end. The average on the midterm was a 60% or so. The final was similar in difficulty, but had a little more time to work with. The average was a 72%, so a bit better than the midterm. Both exams we were given a number of practice problems. The class is typically curved, though I don't know what the cutoffs were. Overall if you are comfortable with proofs and putting a lot of time into this class, it is definitely worth taking. If you aren't really interested in the subject or you have a busy courseload already, probably best to avoid.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-20T14:59:52.524156Z"
+    },
+    {
+      "professor": "Clyde Kruskal",
+      "course": "CMSC451",
+      "review": "Going into this class knowing it was going to be a shit show prepared me well. He made the midterm into hws which was dope. He also split the final into an in person and a take home. As long as you go to at least one lecture a week you should be fine.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2024-05-30T19:08:01.439050Z"
+    },
+    {
+      "professor": "Clyde Kruskal",
+      "course": "CMSC451",
+      "review": "Took this class spring 2024 mainly for the meme and I wasn't disappointed. Took him a solid month to get his laptop fixed at the start of the semester. No midterm so everything was dependent on the final (split into two parts). Couple of homeworks here and there and he's super lenient on when you turn them in. Homie is just here to secure the bag and I'm all for it.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2024-06-17T16:13:48.118555Z"
+    },
+    {
+      "professor": "Andrew Childs",
+      "course": "CMSC451",
+      "review": "This class was super hard, very difficult homeworks, some took me 30-40 hours, but you get 2 weeks to do them - START EARLY\r\n\r\nOverall it was a good class, i learned a lot, it was hard asf tho....",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2024-12-07T23:49:06.158070Z"
+    },
+    {
+      "professor": "Andrew Childs",
+      "course": "CMSC451",
+      "review": "I'd give 4.7 stars if PlanetTerp had such an option.\r\n\r\nThis is a hard class.\r\nNot in the way that MATH140/141 are considered \"hard\", or in the way that Kruskal's classes are \"hard\" (at least his 351), but rather it is hard by virtue of the material.\r\nAlgorithms are just often difficult concepts to grasp and really understand to the depth that Childs' wants his students to be able to grasp and understand for his assignments and exams.\r\n\r\nThe class is paced quite nicely for me - I showed up to every lecture, and I feel like I gained something from each one. I was able to ask questions pretty frequently (perhaps too frequently), and Childs' would always spend the time to think about an answer to each one, and I felt that that helped me understand the material greatly.\r\nHe records all of his lectures and posts all of his notes. The only things from class not available asynchronously online are the Q&A times that he holds in the 5-10 minutes before each class begins.\r\n\r\nThe assignments are hard. (Did I mention the class is hard?)\r\nThe first two took me about 10 hours each, and the other three 15-20 hours each.\r\nEach one is a set of five problems, the answers to which require (unless you're a super-mega-genius I guess) intuition and material from the lectures.\r\nA quote from one of his office hours: \"If you're stuck on this problem, think about the algorithms we covered in class; I make the homeworks directly related [to those].\" - Childs\r\nMy strategy for the homeworks were to look at the problems when they were assigned, then keep them in mind over the next two weeks of lectures (each assignment is assigned exactly two weeks before they're due).\r\nSpending the time to actually understand the material on them is definitely helpful - they're actually harder than the exam questions by a solid margin, and they mirror the exam structure.\r\nAlso, he drops the lowest of the five assignments, so each of your best four assignments comprise 10% of your final grade. Considering that there is ample time for each one, it's definitely possible to have the assignments be the grade fallback.\r\n\r\nThe exams are hard. (yes.)\r\nThe midterm is worth 20% of your final grade, and the final 40%. There's definitely a time-crunch aspect to this.\r\nAs of writing this review, I haven't taken the final yet. But speaking from the midterm experience, there wasn't a single student that left the exam room early (shocker).\r\nAlthough it seemed like most of the class felt pretty bad about the midterm, to Childs', the midterm was \"on the easier side.\" (Avg 69, median 70 iirc)\r\nI did well enough not to have major complaints about it, and other reviews go more in-depth.\r\n\r\nThe textbook is... something that I didn't read. I'm sure it was useful to those who did, but the lectures + questions + office hours + assignments prepared me well enough to face the exams.\r\n\r\nAlthough Childs' is a great lecturer and all-around smart guy, he's definitely a bit hard to talk to. He feels like a classic computer-focused guy (which is fair, since he's getting paid for it lol), and I definitely agree with the previous reviewer that said it felt impossible to build rapport with him.\r\n\r\nTL;DR: Great lecturer, fair class, hard af so look at the grade distr. to make your choice",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-09T07:37:34.348989Z"
+    },
+    {
+      "professor": "Andrew Childs",
+      "course": "CMSC451",
+      "review": "Homeworks are hard and can take quite some time to figure out a solution, but you have 2-3 weeks to do them. Exams were difficult as well, but it seems like there is a generous curve at the end of the course (75% got me a B).\r\n\r\nRegarding the lectures, they feel very useful as Childs will go through the material thoroughly and is good at checking for questions and answering them.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2024-12-18T18:33:36.002941Z"
+    },
+    {
+      "professor": "Andrew Childs",
+      "course": "CMSC451",
+      "review": "For clarity, I'll quickly explain the class format. 5 assignments that are worth 40% of your grade with the lowest score being dropped, one midterm (that is awkwardly placed at about a third of the way through the semester) that is worth 20% of your grade, and a final that is \"cumulative\" and worth another 40%. There is also a hefty curve in the class which can be upwards of 6-7% some years -- typically depends on the difficulty of the exams that year.\r\n\r\nRegarding the assignments, they are pretty challenging. They often can take between 10-20 hours (especially dynamic programming one) and lots of work since each problem involves understanding all the underlying concepts, inventing/creating an algorithm, proving it works with some reasonable degree of certainty (instructors tend to be lenient about how \"good\" your proof is if you're right though), and proving it works in the runtime bound. Definitely start early, and definitely make frequent visits to office hours to bother the TA's and ask them to review through your work since ultimately they are the ones grading the assignments. \r\n\r\nRegarding the midterm, it was weirdly placed. The midterm was placed at the same time classes that typically have 2 midterms have their fist midterm (around end of first week beginning of second week of October). Otherwise, that midterm was relatively straightforward conent-wise -- those who didn't do well either couldn't brainstorm the gimmick to answer the question on the exam, or simply didn't review and study enough. The average on that exam was about a 68%.\r\n\r\nThe final, in my opinion, was slightly harder. It covers a significantly higher breadth of topics than the midterm. In my opinion, the depth that each question goes into in the topic was a bit lower since most of the questions were very similar to questions on previous practices or other CMSC451 finals practices you could find online. The final on its own isn't that challenging, however, with much of the content being straightforward from the textbook. So long as you practice the standard questions, you really should be fine.\r\n\r\nThe best part of Child's class is lectures. His lectures are just amazing. They are well put-together, easy to follow, and also have just enough \"question the class to see what the class is thinking\" but enough \"let's guide through the class so we get some sh*t done\". Laxman (the other well renowned and highly rated CMSC451 teacher who also taught Fall 2024) came and gave in a guest lecture, and I was absolutely surprised in the difference in quality between the lectures. Although Laxman's lecture wasn't \"bad\", it just really pointed out to me how much Child's lectures have an almost 3blue1brown feel because of how nice they flow. \r\n\r\nSome other misc things: he's pretty active on Piazza so that's really nice. Some of the TA's don't know a lot about these problems (and that follows because a lot of them naturally don't work in this field and might have other preoccupations), so they might also get stuck or not be able to help out on problems so try and exhaust all the TA's office hours and Child's office hours when stuck on homework. Child's expertise is in quantum algorithms so if you need anything with that or are interested, definitely feel free to talk to him about it. He tries to spend a lecture covering basic quantum algorithms at the end of the course but sometimes he doesn't have time to do that (like this semester), but regardless, you should look into it if interested.\r\n\r\nOverall, I had a lot of fun in this course and it's a definite recommend (even over other CMSC451 sections -- including Laxman's). While you might not necessarily get much practical implementation value out of the course, it's a lot of fun, and definitely molds your brain to become better and more versed in the world of reading and understanding algorithmic problems (which can be infinitely valuable when doing things like Leetcode or software interviews). If you have any math background or are interested in any algorithms stuff, definitely take the course!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-19T05:33:54.062860Z"
+    },
+    {
+      "professor": "Laxman Dhulipala",
+      "course": "CMSC451",
+      "review": "He is not Laxman, he is the LaxGOAT.\r\n\r\nThe class is inherently quite difficult, and the coursework shows it. Expect the homeworks to take you 15-20 hours on the lower end (there was a poll on the piazza that showed 44% of people took >20 hours) and the midterm to thoroughly test your knowledge. Definitely go to lecture too, the recordings are very helpful but the notes can be hard to follow. \r\n\r\nLaxman was incredibly understanding throughout the entire semester and continually offered deadline extensions and waived late penalties to help with the workload. Furthermore, the actual course content is very interesting. Not only are the algorithms taught (somewhat) applicable to interviews and the job setting, but I left the semester with a much better foundation of how to think about solving algorithmic problems. I would 100% take any class this professor teaches.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-21T03:05:57.559515Z"
+    },
+    {
+      "professor": "Clyde Kruskal",
+      "course": "CMSC451",
+      "review": "I would recommend him for 451. He's very disorganized but considers that when giving out curves and exam(s). You'd have to understand the class independently but would need to worry little about exam difficulty or the types of questions on there. He might give great practice questions or reuse homework questions for exams. You shouldn't worry too much if you only care about passing when taking him.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-12-23T19:44:19.894218Z"
+    },
+    {
+      "professor": "Laxman Dhulipala",
+      "course": "CMSC451",
+      "review": "Does everything he can to help you, makes things interesting and there's less but larger assignments and homeworks. Has a curve on top of maximizing your scores for your grade. Amazing all around.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-29T04:13:02.348580Z"
+    },
+    {
+      "professor": "David Mount",
+      "course": "CMSC451",
+      "review": "Overall, this is an amazing class and you learn so much. It's definitely hard but definitely worthwhile to take if you're interested in designing algorithms. Mount is the absolute GOAT too. He's an incredible teacher and you can get a lot of help on the HW by simply running your approach by him. Midterm average was around a 78, but he curves at the end of the course. He also records! The only gripe I have with the course is that there are only 5 HW's, which makes each HW every time consuming and stressful. I would've preferred more HW's with less problems per HW to spread out the workload. However, I still really loved this course. It was so satisfying when I finally got a working algorithm, and I feel like I got so much better at it.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-04-14T04:06:40.881498Z"
+    },
+    {
+      "professor": "David Mount",
+      "course": "CMSC451",
+      "review": "My goat David Mount awesome class!! I thought I would fail because I am lazy but he is very generous with grading. The only thing is that HWs take too long and I wish that they could be split up into multiple. Very good class to help you think differently and become more knowledgeable on the theoretical side of CS. Not an easy class at all, but very fun!",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2025-05-22T15:17:16.195311Z"
+    },
+    {
+      "professor": "David Mount",
+      "course": "CMSC451",
+      "review": "First class with Mount. He is a great lecturer and is incredibly helpful and generous. It is very clear that he wants every one of his students to succeed. His reputation precedes him.\r\n\r\nThe class, however, is far from easy. Easily my biggest CS time commitment so far. If you think taking this class will make you good at leetcode -- I honestly feel the opposite truer: being good at leetcode will definitely help you in this class. If you are interested in algorithm design, the theory behind them, and learning to prove why an algorithm is correct, this is the class for you. The homework is time-consuming/difficult and the exams are challenging. If you want to full score every homework I highly recommend attending as many office hours as you can until you are sure of everything. The TAs and Mount are very helpful in pointing you on the right track and giving helpful pointers.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-05-22T17:27:38.766134Z"
+    },
+    {
+      "professor": "David Mount",
+      "course": "CMSC451",
+      "review": "Truly an amazing professor. His lectures are super useful, he clearly cares about his students a lot, and he is a super nice guy.\r\n\r\nCMSC451 is a super difficult class. \r\n\r\n- Did you think the exams or other major assignments were fair?\r\nHomework is tough and takes a LOT of time, so get started on it early--you will learn a TON from these homeworks. Go to office hours to ask about the homeworks, he will lead you in the right direction. There are only 2 exams, a midterm and a final. Exams are challenging but fair. As long as you attempt a question, you will usually get some partial credit (try not to ever leave anything blank). Lock in early, i was caught off guard by the difficulty of the midterm and got a 61% which made things pretty tough. \r\n----------------------------------------------------------------------------------------------------------------------------------------------------\r\n- Did you think the professor had reasonable expectations of the students in the course overall?\r\nAlthough challenging, I believe anyone can succeed in this class if they give a lot of effort.\r\n\r\n- Were you a fan of the professor's teaching style?\r\nI made the mistake early on of skipping a lot of class and just watching the lecture recordings. DONT do that. Going to lectures in person is suuper beneficial. He pre-handwrites his notes and talks about it pretty fast, so pay attention. He posts recordings, handwritten notes, and more formal typeset notes, which is nice. He is a really good teacher and has a way of explaining complex things that just make sense.\r\n\r\n- Was the workload appropriate for the number of credits?\r\nI think this class should be 4 credits.\r\n\r\n- Was this course a waste of time or was it beneficial in some way?\r\nBy far the most interesting and most educational course I have ever taken. I would highly recommend to anyone even slightly interested in algorithms. My favorite topic was reductions and np completeness. This was the first class that actually made me feel like a computer \"scientist\".\r\n\r\n- How much support were you given throughout the semester (office hours, extra resources, etc.)?\r\nNo discussion sessions, but there are a ton of office hour slots which were really helpful. Try to drop in and get help on homework.",
+      "rating": 5,
+      "expected_grade": "B-",
+      "created": "2025-05-24T00:41:09.411290Z"
+    },
+    {
+      "professor": "David Mount",
+      "course": "CMSC451",
+      "review": "Mount is an incredible professor. I'd argue that Mount is just as good or better than Justin at teaching and visualizing concepts. He has handwritten notes and typed up notes to reference and goes through his handwritten notes in class since it is pre-written. I would recommend listening and jotting down only important facts to not fall behind in lecture. Additionally, his lectures are recorded but I would recommend going to class since it is easier to understand the topics when listening in person.\r\n\r\nThe content of this class is dense and difficult and there is a homework assigned every two weeks with roughly 5 problems. These problems take a long time since there are proofs and explanations so do not wait until the last minute to do them. I would also recommend doing the extra credit problems. There is one midterm and a final. The exams were tough but Mount does not grade harshly.\r\n\r\nThe class consists of various algorithms and NP-reductions which was very interesting. This class felt like the most \"real\" CS course I have taken so far. Mount is an engaging lecturer and is very kind. He is perhaps one of the best professors I have ever taken so I'd highly recommend taking this class with Mount.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-24T18:16:48.133394Z"
+    },
+    {
+      "professor": "David Mount",
+      "course": "CMSC451",
+      "review": "Dave Mount is easily the best professor I\u2019ve ever had. First off, he\u2019s an awesome lecturer\u2013no matter the complexity of the algorithm, proof, NP-reduction or whatever concept it is, Mount always manages to explain it and break it down until it\u2019s totally intuitive. He\u2019s also just a really nice guy. You can ask him really anything about the course material or homework and he\u2019ll happily give you more information than you even needed and he never makes you feel like you asked a dumb question. With that in mind, I CANNOT recommend attending his office hours enough. The homework problems can get really challenging, but if you go to OH, he\u2019s always willing to help lead you in the right direction, or quickly look through your solution and provide general feedback.\r\nThe exams are admittedly kind of brutal. They were both 2 hours, but devising and writing out a description, proof of correctness, and running time of an algorithm takes so long that there\u2019s simply not enough time to fully think over each question\u2013you just have to see the solution immediately or you won\u2019t be able to finish the exam. HOWEVER, Mount is an insanely generous grader, so even if you don\u2019t see how to answer an algorithm question, he offers so much partial credit (more than I felt like I deserved) if you demonstrate even some knowledge of the base concepts. \r\nThis class is really challenging and you will need to dedicate a lot of time to it, but I\u2019ve learned so much and the help/resources Mount provides are more than enough to help you succeed.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-06-01T02:09:40.443110Z"
+    },
+    {
+      "professor": "Clyde Kruskal",
+      "course": "CMSC451",
+      "review": "The lectures are fantastic, but the organization is truly horrendous. How does a professor forget to give a midterm?\r\n\r\nBut the lectures are fantastic, I feel like I learned a lot from this course, and I absolutely do not regret taking it with Kruskal at all.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2025-08-25T21:57:21.375263Z"
+    },
+    {
+      "professor": "David Mount",
+      "course": "CMSC451",
+      "review": "Awesome lecturer, very fair exams, very nice guy. I sent him an email about something and then went to office hours two weeks later and as soon as I walked in he somehow knew my name and remembered I had emailed(we had never spoken before). Broke down complex topics very simply. \r\n\r\nWe did have 5 quizzes instead of homeworks(shout out to Spring 2025 for using AI on the HW), but one dropped and he gave pretty big hints as to exactly what would be on there. He also offered to let us submit HWs for feedback if we got a different solution than the answer key which I didn't end up using but probably should have. In my opinion it made studying for the final easier because I had already been studying manageable chunks every three weeks. \r\n\r\nHighly recommend this course - it was super interesting, albeit challenging but definitely a super valuable part of my experience.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-20T02:24:14.602947Z"
+    },
+    {
+      "professor": "Clyde Kruskal",
+      "course": "CMSC451",
+      "review": "Genuinely, he's the worst professor I have had during my time at UMD. \r\n\r\nTo start, we went the entire course without a syllabus, so even as I write this after taking the final, I do not know how much different assignments are worth toward the final grade. Also, he isn't responsive whatsoever on Piazza; the only reason we knew which topics were covered on the final exam was because another student posted an exhaustive list of them. Clearly, he does not care about this course or the students much at all. \r\n\r\nI won't dwell on his teaching style since I sort of stopped going to class eventually, but he just sort of rambles on and will eventually end up orating an entire algorithm aloud without writing much of it down. Oh, and when he does try to trace through an algorithm, he'll either confuse himself or write so sloppily that nobody (including himself) knows what is on that paper. \r\n\r\nWe had roughly 7 HW assignments, which were generally quite short. There was one midterm in the middle of November (??), which was about the closest thing to a circus I've ever seen. Let's just say the average was something like a 50% with a standard deviation around 20%. The final was even worse: he showed up late to a 4 PM exam, where we didn't even have the correct room reserved and had to collectively move to another room, which we were kicked out of early because another class had something in there. \r\n\r\nBetween the poor teaching and absolute disorganization, a 5-year-old could improve upon if they taught this class, I regret even taking the class and especially with Kruskal.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-12-23T16:04:45.705405Z"
+    },
+    {
+      "professor": "Clyde Kruskal",
+      "course": "CMSC451",
+      "review": "Kruskal does not care about the class or the success of his students at all. His lectures are disorganized and extremely difficult to follow, making them utterly useless. He did not provide a complete syllabus for the course. He does not provide sufficient study material for exams, and the median for the midterm and final were 46/100 and 63/100, respectively. He is incredibly strict on giving partial credit on the exams, and he ended up having to award free points for a question on the midterm due to it not making sense (he literally admitted he asked ChatGPT to provide him with this question). He is incredibly unresponsive and lazy - final grades were due December 23, and we received the final exam grade on January 5 (still no final course grade). \r\n\r\nThis class was the worst I've ever taken at UMD; please avoid Kruskal at all costs.",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2026-01-05T20:44:48.898590Z"
+    },
+    {
+      "professor": "Laxman Dhulipala",
+      "course": "CMSC451",
+      "review": "Laxman is a genius and probably simultaneously the most passionate professor you can take. You can tell he has a real interest in algorithms - I mean, he's actively working as a researcher at Google specializing in parallel programming. He really challenges the class intellectually, and assignments are hard in the best way possible. He emphasizes constantly that \"if you put the work in, you'll get the A\" - I can't guarantee that right now, but the grading structure & the way he lays out the assignments in the class makes me believe that I'll be getting a B+ or an A without spending an exorbitant amount of time grinding for the class. I've been having a lot of fun with the class and Laxman is awesome to learn under! His lectures can be hard to follow, but you can tell that he puts a lot of effort into them, and the difficulty comes in that he wants you to understand as much as physically possible.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2026-04-16T16:42:52.807078Z"
+    }
+  ],
+  "department": "CMSC",
+  "course_number": "451",
+  "name": "CMSC451",
+  "title": "Design and Analysis of Computer Algorithms",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> Minimum grade of C- in CMSC351; and permission of CMNS-Computer Science department. Or must be in the (Computer Science (Doctoral), Computer Science (Master's)) program.\nFundamental techniques for designing efficient computer algorithms, proving their correctness, and analyzing their complexity. General topics include graph algorithms, basic algorithm design paradigms (such as greedy algorithms, divide-and-conquer, and dynamic programming), network flows, NP-completeness, and other selected topics in algorithms.",
+  "is_recent": true,
+  "geneds": null
+}

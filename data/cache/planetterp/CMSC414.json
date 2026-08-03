@@ -1,0 +1,791 @@
+{
+  "average_gpa": 2.9629215992852362,
+  "professors": [
+    "Jonathan Katz",
+    "Peter Keleher",
+    "Elaine Shi",
+    "A.U. Shankar",
+    "Michelle Mazurek",
+    "Michael Marsh",
+    "Ian Miers",
+    "Dave Levin",
+    "Michael Marsh",
+    "Michael Marsh",
+    "Michael Marsh",
+    "Michael Marsh",
+    "Michelle Mazurek",
+    "Dave Levin",
+    "Yizheng Chen",
+    "Zaoxing Liu",
+    "Michael Marsh",
+    "Dave Levin",
+    "Michael Marsh",
+    "Dave Levin",
+    "Michael Marsh",
+    "Gabriel Kaptchuk",
+    "Michael Marsh",
+    "Yizheng Chen"
+  ],
+  "reviews": [
+    {
+      "professor": "William Arbaugh",
+      "course": "CMSC414",
+      "review": "He's trying really hard to change this course and make it interesting. The biggest fallback comes from trying to change it too quickly, often mid-semester. Long-term changes to a course are appreciated, but within a semester a course should be completely consistent (e.g. the professor should have the labs prepared in advanced), otherwise it can be stressful to the students.\n\r\nOtherwise I thought his teaching style was decent and the class was pretty cool. I learned a lot. I got to do lots of awesome things that I had never looked into because I wasn't sure how to do them legally. He was pretty nice and accommodating when I spoke to him. I was just stressed out about my grade for most of the semester because of how frequently details of the course changed. And Capture The Flag is awesome, but shouldn't be a graded assignment, since that brings it straight from something fun and interesting to something worrisome and annoying. ",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2012-01-11T03:20:00Z"
+    },
+    {
+      "professor": "Jonathan Katz",
+      "course": "CMSC414",
+      "review": "Prof. Katz is a pretty good CS teacher. He teaches on the board and does not just read off of a powerpoint. The midterm was moderately difficult, but the final was in-class, online, all multiple choice and was easy.\n\r\nProjects and homeworks were cool, but honestly there could have been more (assuming you actually liked the topics)\n\r\nBiggest issue with this class is that 50% of the people come in with not a clue about any of the topics and with no security background and the other 50% has experience and knows a bit already. This makes the class either too easy/boring OR too hard/too fast. Can't make everyone happy, but this gap can make the class less enjoyable.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2012-06-22T00:37:00Z"
+    },
+    {
+      "professor": "Jonathan Katz",
+      "course": "CMSC414",
+      "review": "He's on OK professor. I didn't really go to class because it was boring (not the prof's fault).  But he put up the slides online.  Exams are actually pretty easy but everyone does badly on them (trust me, I'm no genius).\n\r\nThe projects/homeworks are awesome and entertaining (best part of the class).  The course gives you a good overview of things, although a good 25% of the course seems common sense.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2009-12-19T22:10:00Z"
+    },
+    {
+      "professor": "Peter Keleher",
+      "course": "CMSC414",
+      "review": "Summary: Very average professor.\n\r\nLecture:\r\nMostly off of power-points which he posts online. Going to class is optional, but questions on the quizzes will sometimes come from things he says during class that are not on the power-points. The actual material was usually very interesting, but there was so much material to cover most of the time we just brushed over topics without really learning how they worked. Taking CMSC456 before this class will give you a slight advantage (very slight).\n\r\nQuizzes:\r\nThere were 3 quizzes which were pretty hard. They are all short answer or diagram drawing. I felt the quizzes would emphasize a random subset of the material covered, so if you are weak on a certain topic and it shows up on the exam you are screwed. On the other hand it could not show up at all and you get lucky.\n\r\nProjects:\r\nThe projects were actually pretty fun as we got to carry out things like buffer overflows, dictionary attacks, and XSS attacks. They also more or less got easier as the semester went on. Languages used were C, Java, and Javascript. He provides resources and examples if you don't know Javascript, I taught myself everything I needed to know for the Javascript coding in less than an hour.\n\r\nFinal:\r\nIt was a little harder than the quizzes I thought. But it is only worth 12% of your grade, which was a weird concept as I am used to it being between 30% and 40%.\n\r\nGrading:\r\n5 projects 11% each\r\n3 quizzes 11% each\r\n1 final worth 12%\n\r\nOverall the material was interesting, but it seemed crammed. I think this would be a good first 400 level course as it gives you a nice overview so you can think about concentrations you would like to focus on in future courses. ",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2013-12-21T23:15:00Z"
+    },
+    {
+      "professor": "Michelle Mazurek",
+      "course": "CMSC414",
+      "review": "Professor who clearly knows her stuff. However, I'm not sure if it was the long class block or the presentation, but I struggled staying awake every class - especially about private and public keys. The programming assignments are kinda fun, but can be really challenging if you don't have the right mindset. Exams were alright, she allowed cheat sheets, but still lots of potential material. I'd maybe recommend to a final semester senior.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2018-01-24T06:51:32Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "He is the worst professor. Just reads off the slides and gives like 4 15 minutes excercises in class. Doesn\u2019t give answers to these exercises. He forced everyone to use elms discussion instead of piazza. Exams are extremely hard avergae was 52 for our first midterm. He doesn\u2019t have time for his students. 1 hour of office hours per week and that too for 414 and 417 combined.i am not sure what grade i have in this class. Extremely unorganized professor. Biggest mistake of my life to take 414 with him.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2018-04-04T23:25:11Z"
+    },
+    {
+      "professor": "Akhil Koul",
+      "course": "CMSC414",
+      "review": "Helpful",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2018-04-05T17:54:19Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "worst class ever.  Don't even know what I should get",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2018-04-17T03:31:12Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC414",
+      "review": "AMAZING AMAZING AMAZING Professor.\r\nOne of the best professors I had at UMD.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2018-05-04T04:26:33Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC414",
+      "review": "Wonderful lecturer. Great teacher, and great guy in office hours. His projects are difficult and the specs contain typos, but I believe that is the fault of the grad student TAs, not Dave's. I recommend taking the class, but make sure we're working with someone.",
+      "rating": 5,
+      "expected_grade": "C",
+      "created": "2018-05-11T00:00:28Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "Wish i could give a zero rating for his Excellenc in organizing lectures and his remarkable project readmes ",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2018-05-21T18:46:16Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "Nice guy. Worst professor I've ever had.  I could go into all the reasons, but frankly it would just be exhausting, so I'll just say this:\r\n\r\n>He is bad at communicating\r\n>His project descriptions are borderline unfollowable\r\n>He only holds one office hour a week that is shared between 417 and 414\r\n>His test grades are almost always wrong and you have to ask him for points back every time\r\n>His grading is completely opaque unless you bug him for his inputs\r\n>He forces you to use elms discussion boards and does not respond to any student questions posted to elms\r\n>His lectures do not cover exam topics, they just give general, high level explanations of things\r\n>He does not understand the math behind cryptography but tries to teach it anyway\r\n>If you take him, you will learn everything on your own DURING the test\r\n>He gives assignments that take much longer to complete than he says they will (his catch phrase is \"30 minutes of coding per problem\")\r\nThe list goes on...\r\n\r\nIf you take him, prepare to be paying for nothing\r\n\r\nI wasn't gonna list everything, but I did anyway. Woops. There you go. Avoid at all costs.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2018-05-21T18:48:31Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC414",
+      "review": "Best lectures I've had for a computer science course. Lecture recordings were also posted online so attendance wasn't mandatory. Exams and projects weren't easy but they were certainty fair. Highly recommend taking CMSC414 with professor Levin.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2018-06-02T16:50:16Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "Worst computer science professor I've ever had at UMD. He puts this university to shame, and the worst part is - he's a pretty nice guy (it's so frustrating).\r\n\r\n- lectures are downright impossible to follow\r\n- he gives high-level explanations and then tests on low-level code implementation\r\n- his take home exams require the use of libraries/tools that have bad documentation\r\n- his take home exams are heavily biased towards students who have already taken cmsc417/cmsc456\r\n- warning: if he gives take homes, prepare to devote 20-30 hours of work to it and watch the average be a 40-60%\r\n- his grading scripts are terrible and you always need regrades\r\n- he uses elms discussion boards instead of piazza\r\n- he's stubborn, unhelpful, and oblivious in general\r\n\r\nMy advice? Avoid this class at all costs, and don't take any class with this professor. Not worth your time.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2018-06-11T16:32:30Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC414",
+      "review": "Love this man. We would do our work in the student lounge, he would pass by and say hello since he recognized us and would hang out for a little while or ask us about the class. Always went up to him after lecture to ask questions and he was very cool about it.\r\n\r\nThe material itself I became less and less interested in. The exams were quite open ended. A lot of short answers and a few multiple choice or word bank style questions thrown in. I did awful on all the exams, but fortunately the projects for the class were 50% of the final course grade. I did very well on all the projects but they were quite challenging...Basically they are a bunch of individual tasks you have to try out and they range from write a .c file that does this or make a txt file with a piece of code that does blah. \r\n\r\nI really disliked the final project which was a paired/team project. It caused me a lot of distress. Also several people did not submit a working project so there were only 20% of the class where you had to try and 'break' their code and write reports about it.\r\n\r\nTaking this class, I learned that Security is NOT for me. This class was more security than it was Networking which I actually like a lot more. Maybe the last month or so was focused on the Networking aspect of the class which I found quite disappointing.\r\n\r\nIf you like security and networking, Dave is the man for you. His shiney bald head will make you fall in love with him.",
+      "rating": 5,
+      "expected_grade": "C+",
+      "created": "2018-07-29T19:06:00Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "I agree with everyone else",
+      "rating": 1,
+      "expected_grade": "F",
+      "created": "2018-08-30T03:27:23Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC414",
+      "review": "Favorite cs professor ive had. great lecturer. super nice guy. projects and exams were extremely fair",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2018-10-23T21:37:32Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "Project grades are always off by at least 20% because he trusts his \"scripts\". Exams are tough, hard to study for. And everything else is as other reviews described. Terrible professor.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2018-11-20T20:49:23Z"
+    },
+    {
+      "professor": "Samrat Bhattacharjee",
+      "course": "CMSC414",
+      "review": "One of the co-teachers for 414. Dude knows what he is talking about, but is a bit of a douche to students in class.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2019-06-11T17:59:00Z"
+    },
+    {
+      "professor": "Michelle Mazurek",
+      "course": "CMSC414",
+      "review": "Knows her stuff, but is quite boring. Her exam questions are also not up my alley. Nice person though.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2019-06-11T18:00:03Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC414",
+      "review": "He seemed like a good professor, but I think co-teaching 414 was a mistake. Between the three professors (Bobby, Michelle), he was the best lecturer but was barely there and oftened talked about the more interesting but less important (for exams) topics.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2019-06-11T18:01:44Z"
+    },
+    {
+      "professor": "Michelle Mazurek",
+      "course": "CMSC414",
+      "review": "She is not a good lecturer.\r\n\r\nPros:\r\nClass cover a lot of interesting topics\r\nMaterial is genuinely interesting for the most part\r\n\r\nCons:\r\nShe is a very boring an ineffective lecturer\r\nShe is a harsh grader\r\nExams are tough\r\nProjects are tough\r\nBad at communicating/grading\r\n\r\nI would avoid taking class with her. I recommend taking Dave Levin if you can",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2019-07-08T15:31:34Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC414",
+      "review": "Great lecturer, poor administrator. He co-taught the class with Bobby and Michelle and logistics were an absolute nightmare. Project descriptions were changed in random, unpinned Piazza posts at a whim, right up until the day a project was due. Points were deducted arbitrarily as there was no grading rubric and no defined test cases on the submit server like there are in other cs classes, so if you fail a single edge case that might have been covered in one test on the submit server, it could cost you a lot of points. After a while into the semester his lecture start to sound more like Ted talks than informative lectures about cyber security. At least they were entertaining. Build it break it at the end of the semester was very disappointing. Most of the points were just for writing a report, and there was very little emphasis on actually trying to break your peer's code.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2019-11-17T20:21:41Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "Marsh was fine (clearly knowledgeable, willing to take feedback, friendly in office hours), but he insisted on spending the entire class reading from his slides from behind the podium, almost totally still.  The room tended to be dim, and his voice was steady and soothing. . .\r\n\r\nThe final was unexpectedly all multiple choice, not ideal for me, but the curve was strong.\r\n\r\nOverall, I'm not going out of my way to take Marsh again, but he's not a dealbreaker.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2019-12-18T22:06:36Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "I was scared to take him based on past reviews, but I'm happy to say he was great. Great lecturer with interesting material and anecdotes. He was truly nice and understanding. Responded quickly and helpfully to questions. I also had read that he used to live and die by his automatic grading system. That is no longer the case and is more than willing to go in manually and re-grade something, even if it was your fault for misformatting some output.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2020-05-15T19:09:38Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC414",
+      "review": "He is a super passionate professor that knows a lot about security. His lectures are great since he seems to really enjoy it, and brings up ideas from his research and experiences. The only negative of his lecture style is that he doesn't do a lot code modeling which hurts some students.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2020-06-08T21:29:27Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "Does not help you prepare for exams whatsoever. What's the point of showing us previous exams with no answers? Likes to ask random trivia questions that you'll never find even if you search the whole internet. Tough projects that are worth too much of your overall grade, no late deadlines either. Genuinely regret taking this class with him, honestly a miracle I passed",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2020-12-24T17:56:47Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC414",
+      "review": "(Disclaimer: had him during fall 2020 virtual semester)\r\n\r\nHe\u2019s a really chill and caring professor. Some of the projects were a bit difficult, but he provided plenty of extra credit so you can definitely make up for a poor project grade with that. We were virtual so tests were open note, but I thought they were fair. ",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2020-12-26T16:53:55Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "Dr. Marsh was a pretty solid professor.  He was really accommodating during the pandemic and tried to make things as easy for us to understand given the circumstances.  While I had some complaints about the tests and the format of the material, he was helpful in clarifying any confusion and was really open to hearing suggestions for how to teach the course virtually in the future.  The projects for 414 were really fun and interesting, but also challenging and really made you think about the code rather than just mindlessly typing.  He also was flexible with regrade requests on projects and exams, which probably saved my grade when I realized later on that something was wrong.  ",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2020-12-29T23:22:36Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "Although Dr. Marsh was nice and a lenient regrader, I found his lectures and in-class exercises to be very boring and unintuitive.  All content lectures were pre-recorded, and during our actual class time, we would ask him questions and watch him do exercises.  He explains concepts in high level terms that make it difficult to understand as a student who is learning about cybersecurity for the first time.  I would ask him questions about certain topics so that I could better understand them, but it became a chore as the semester went on.  He is very smart and knows a lot about the concepts that he teaches, however I was able to better understand these concepts by watching youtube videos that covered them.  Homeworks and exercises, while intellectually challenging, taught me more about how to navigate unix systems and find bugs than about computer and net security.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2021-01-05T23:32:43Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "Insists on using campuswire for some reason when literally everyone else uses Piazza. Also insists on using Gitlab when everyone else uses the submit server. In 414 he gave us previous exams but would straight up refuse to answer or ignore us if we asked what the answer was. Rushes thru slides and expects us to know every single small detail about a topic, but at the same time will assign homeworks and projects that barely have anything to do with what he tests you on. Also in 420 he made exams super long for no reason, you wouldn't have finished unless you used other resources or asked your friends for help or saw the exam beforehand.\r\n\r\n Avoid him, you and your GPA will thank me later.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2021-02-10T22:51:33Z"
+    },
+    {
+      "professor": "Ian Miers",
+      "course": "CMSC414",
+      "review": "414 Spring 21; very unorganized lectures, did a meh job of explaining things, talks very fast, uses jargon and doesn't explain. He just wrote things down on the iPad notes app? and his handwriting is garbage/very hard to read; that plus general disorganization made it very difficult to take notes. inaccessible outside of class. no exams because of covid, only projects. interesting stories about crypto and cyberattacks and how things came to be are a plus but otherwise it was hard to learn from him.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2021-03-10T20:11:21Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC414",
+      "review": "Really interesting lectures and great instructor!",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2021-09-28T19:37:37Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "Micheal doesn't teach you and expects you to learn all of the material outside of the class.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2021-11-02T18:53:45Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "Awful, awful professor. Lectures are incredibly high level with absolutely no application involved. Grading scripts make countless errors, which he promises to resolve, but WILL NOT ALWAYS if you are unlucky. Incredibly disorganized course webpage.",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2021-11-18T20:50:46Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "Michael Marsh is a decent professor, but his classes can be quite difficult. I would NOT recommend taking CMSC414 as your first upper-level class. Definitely take something else first to get used to how they operate. This class is very dense, the material is tough without a lot of background experience, and the projects can be overwhelming. The logistics of this class can also be very annoying. The slides, homework, and exercises are supposed to be helpful, but without some prerequisite knowledge, they can be incredibly difficult to use. Due to the structure of the class I would only recommend taking this if you are ready for a very large workload. I'd imagine someone much more prepared than I was might be able to succeed quite well in this class, but I also imagine my position is a pretty common one. Be careful going into this class, it will challenge you.",
+      "rating": 3,
+      "expected_grade": "F",
+      "created": "2021-12-09T20:00:33Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "Pros:\r\n- All exams were timed, open note, and open internet. They were not structured to be extra difficult because of this caveat. The final was supposed to be in person, but got moved online.\r\n- The goals for assignments (home works and projects) were fairly clear. It takes some time to adapt to Marsh's \"unique\" approach to projects in the class, but office hours and campuswire were always open and the instructors actually answered questions (Most of my previous class piazzas had questions ignored on piazza)\r\n- Marsh genuinely cares about the course.\r\nCons:\r\n- Lectures are asynchronous. You watch the lectures in your own time, and the lecture itself was a \"discussion\". I attended almost every in person lecture, and it was a waste of time.\r\n- All of his projects are graded with bash and python scripts, and you submit through a gitlab commit. You will always have that feeling in the back of your head that the project might not run the same on his system. \r\n- This class has A TON of overhead knowledge. C, docker, git, bash, python, linux, etc. You aren't expected to be an expert, but you will spend a lot of time learning content independent of the class just so you can do the projects.\r\n\r\nOverall I recommend 414 with Marsh. This is the CS class I had the best experience in. It doesn't hold your hand, but help is there if you need it. It is structured in a way where you ACTUALLY LEARN stuff on your own. With that in mind, you have to put in work to do well in this class. Do not expect this class to be a free A unless you already have security knowledge.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2021-12-23T16:43:01Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC414",
+      "review": "He's nice and includes all sorts of really cool cybersecurity stuff in the lectures including some of his research. The course organization was stressful at times BUT he also gave us a million extensions and wild amounts of extra credit, and the exams were easy and take home. So it all works out, 5/5.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2022-01-23T02:27:40Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "I have a love-hate relationship with this course. I have come to the conclusion, after much flip-flopping, that although Marsh has a bit of a strange protocol for running a course, he is my favorite CS instructor. At first it is a little tricky to get into his headspace, but once I had my head around the groove of the course I found it very enjoyable. I thought that the projects were fun, and that Marsh really wants his students to succeed in the course. He is always responsive and willing to help out and give feedback. Marsh himself is your most valuable resource in this course, I think. I highly recommend 414 in particular, but I would recommend Marsh as an instructor for any other course as well. I would absolutely take a class with him again.  ",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2022-05-05T19:52:42Z"
+    },
+    {
+      "professor": "Michelle Mazurek",
+      "course": "CMSC414",
+      "review": "Idk what the rest of these reviews are saying. When I took the class this year, I thought Mazurek to be very organized, the class structure to be good, and the class as breezy. She's a good lecturer too, she explains what is happening security wise very high level but yeah her voice is very soothing and if you're not paying attention then yeah, you might fall asleep. The late days on project policy is awesome. \r\n\r\nFor reference, I think I went to about 60% of the lectures, and would binge watch a couple before exam time, and get decent B grades. Even then, I was able to get a pretty good grade in the class. One qualm that is valid that I see echoed here, however, is that the projects sometimes do not have enough set up or foundation for someone who is new to these security concepts to finish thoroughly. I am biased because I came into this class with some general knowledge and experience with how security worked, so the buffer overflow project, the XSS project, and other projects were pretty good. Still, others that I knew who didn't have security experience did pretty well on the projects when they went to office hours. \r\n\r\nThe class is chill, and I would compare its difficulty to 1/3-2/3 difficulty of 250 with Jason Filippou; and 1/4-1/2 the difficulty of 216 with Herman. I personally had a lot of security concepts solidified in this class, and learned a lot about the way security does work, and have come away with a greater appreciation of the technical aspects of security to the high level design and concept-wise approach to security. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-05-12T03:46:48Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "Marsh has a bad rep for CMSC414, but I don't agree with it whatsoever. All his exams are online open-book open-internet, so they aren't stressful at all. He gives quizzes before the scheduled class time, but you have unlimited attempts on them and all together they added up to 6% of your grade. He had 4 midterms (one for each unit: programming errors, cryptography, networking, human incentives) and some of them can be tricky, but even if you mess up they aren't worth a lot of your grade. He uses a \"flipped-classroom\" model, where he has us watch videos before class and during class he answers our questions on any material. As a result, not many people showed up to class (I personally stopped going after the second week). One thing I will agree with the criticism about Marsh is that his projects are extremely open ended. The lectures are more or less useless in trying to figure out what he wants you to do in these projects, and you'll find yourself banging your head against a wall for a few days trying to get started, but he gives a lot of time (close to three weeks) for each project. Overall, I'd whole-heartedly recommend Marsh to anyone wanting to take CMSC414.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-05-20T04:52:07Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "414 teaches a lot of useful concepts in computer and network security! And taking it with Marsh is a no brainer",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-12-12T16:37:51.716567Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "He changed his course around a lot for this semester which made it extremely easy. With the new system, everything is self paced and you can do the assignments/projects whenever as there is no true due dates. One person speed ran the entire class in a few weeks. In addition, he utilized standards based grading which means that there are no tests, but rather goals which are to be completed. Instead of tests, there are challenge problems which are little assignments that are very easy but make you think.  Lectures are not required (but are helpful nonetheless)\r\n\r\nOverall, this semester\u2019s version has been the most laid back and least stressful CS class I have ever taken as you can easily self pace the entire course and not feel stressed.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-01-05T19:11:01.951559Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "Like Marsh's other classes, he uses a flipped classroom model for 414. For Fall 2022, he did something a bit different for 414. He made all the deadlines soft, meaning he had suggested deadlines but you didn't actually have to finish the coursework until the end of the semester. He said it was an experiment for this semester, but I believe he planned on doing it again. This also meant that there were no tests. This lead to some people putting off projects for the whole semester, which I do not recommend. I think like 3/4 of the way through the semester, he said only 50% of people completed the first project. \r\n\r\nMarsh had quizzes \"due\" before every lecture, but since we had soft deadlines you could complete them at any time. The quizzes had unlimited tries and it told you what you got wrong. His lectures for some of the latter course material could be a bit tough to understand. He has to quickly explain complex topics like cryptography and networking, in order to dive into the security exploits for them. A lot of the material is tough to understand, but he doesn't test on it aside from the lecture quizzes and challenge problems (more on that later).\r\n\r\nThere were 3 solo projects and 1 team project. The first and third projects (buffer overflow and cryptography) are the hardest. The hardest part of Marsh's projects is starting them because you can be completely lost in the beginning. Once you figure out how to start them, they aren't that bad. His lecture videos don't really help at all, but he tends to answer questions for in-person lectures that help you start. The second project is easy and the fourth is a group project which is not that hard, but you have to do it in C so that makes it hard.\r\n\r\nYou had to get a 100 on all the projects and quizzes in order to pass the class, but that isn't as daunting as it seems. He gives detailed notes on the projects to tell you what you did wrong if you didn't get a 100 so you can fix it. Your entire grade is calculated by \"challenge problems\" which are scored from a scale of 1-3. These are free-response, practical questions about a module usually based on lecture material. You get unlimited time to do them, they're all online, and you are encourage to look up stuff to help with them. These were graded very leniently with most people getting full points on them. They can be a bit of pain to research, but as I said, they are graded leniently. You also get to re-submit them for corrections.\r\n\r\nIf Marsh keeps his soft deadline model for this class, I would definitely recommend it. Without it, this class could definitely be tough. I enjoyed not feeling too stressed when a project deadline loomed since I could submit it a few days later. If Marsh actually tested on the lecture material instead of doing challenge problems, I would not have done well on the tests. With this system though, the class was not that bad and I believe the average was an 85.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2023-01-11T23:16:19.795039Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "Marsh used a flipped classroom model with soft deadlines for 414, which based on other reviews is something that he does frequently. As a lecturer he is pretty good and engaging, however, I disliked pretty much every other thing about his teaching style and class structure. Soft deadlines is great on paper, until you realize that they provide absolutely no motivation to get any work done before the end of the semester, which is something that every other student I've talked to has also struggled with in this class. Additionally, it is much harder to be motivated to watch an hour worth of lecture videos than it is to attend lecture. Finally, his instructions for the projects are essentially completely useless and don't give any guidance at all. I legitimately do not believe I learned a single thing from this class.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2023-05-16T19:46:47.329893Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "As you may have seen in other reviews, Marsh used a flipped classroom model for this course and made all deadlines soft for assignments. This made all assignments have a hard deadline on the last day of finals with no late penalties on assignments. I definitely appreciated this classroom formatting, as it made it a lot less stressful to get the grade you're working towards.\r\nThis class was graded off of 3 core modules: Basic Objectives, Challenge Problems, and Projects. The basic objectives were simply canvas quizzes you had to get a 5/5 on based off of recorded lecture material, and the Challenge Problems were written response prompts graded out of 3. Although you had to get at least a 2/3 on many of the challenge problems, everything was resubmittable, thus making it easy to improve upon any bad grades.\r\nThe projects of this class were not like standard CS projects you'd typically face. Most of these projects required MUCH more thinking rather than physical coding. I personally spent a majority of the time on these projects thinking it out rather than typing out lines of code/debugging. You will most likely be completely lost at first when starting projects, but one you get it, its a no brainer. To get an A or B in this class, you MUST score 100% on these projects, which is daunting at first, but the ability to resubmit as well as the fact that the projects are graded mostly off of functionality and not things like secret tests makes them more bearable. There is also a group project... and lets just say you can do it individually but finding a good group really helps with it's completion.\r\nLastly, there is a final that is 4 extra challenge problems. It is only required if you want an A or B, and isn't much more difficult than the standard challenge problems.\r\nI would say the hardest thing about this class is staying motivated. Because the deadlines are soft, it is easy to brush assignments away and let them pile up throughout the semester. I'd say 3/4ths into the semester, only about half the class had finished the FIRST project (note that by this time you should've been done with the THIRD). This will make this class BEYOND stressful for the end of semester, so if you do take this class, do yourself a favor and STAY ON TOP OF YOUR WORK. Other than that, Marsh truly is an understanding professor, and his lectures are typically helpful practice on project concepts and/or Q&A sessions regarding projects/course topics.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-26T18:57:14.771891Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "Used the flipped classroom model with every assignment due at the end of the semester. Personally wasn't a big fan of this. If you do take the class, take it with one or two of your friends so you can do work with them and stay up to date. Also don't wait to start projects or challenge problems. TAs were very helpful for projects. You definitely don't learn as much as you would with a normal class, but you still learn a decent amount nonetheless. Also its an extremely low-stress class due to there not being any exams which is nice.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2023-05-28T23:02:43.009910Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "do yourself a favor and take any class marsh teaches. ive had him for 414, 436, and 420 - his teaching style is extremely chill and fair. highly recommend, one of the goats.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-31T17:39:20.684125Z"
+    },
+    {
+      "professor": "Michelle Mazurek",
+      "course": "CMSC414",
+      "review": "Dr. Mazurek is a clear lecturer with enthusiasm for the topic. Lectures are recorded and slides posted. The content itself includes memory safety, web security, password stuff, cryptography, network security, privacy, and human factors stuff, with a couple guest lectures as well. Exam questions closely follow the material from slides and the projects: if you make a good cheat sheet you're golden. Grading is only based on the 2 midterms, the final, and 4 projects. The projects take time but are very doable with 6 late days to use as you please. 414 with Mazurek is definitely one of the easier 41Xs.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-10-25T20:19:15.209631Z"
+    },
+    {
+      "professor": "Michelle Mazurek",
+      "course": "CMSC414",
+      "review": "Great professor, lectures were easy enough to understand and engaging enough for me.\r\nSome projects were kinda hard, but i learned a lot. Also late days were great, she gave us 6 to use for any project to distribute as we like. Made it much lower stress.\r\nShe was generally nice and answered questions well.\r\nClass was consistent, organized well.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-02T22:00:25.615210Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "Great professor, very smart, and loves to help. With that, it feels as if his style is too chill, so if you often procrastinate, it may be bad to take it with him because you can push every assignment to the last week of the semester with no punishment. The flipped classroom for me was positive in that I didn't go to class, but I don't feel I learned that much. It lead me to just do the rather simple projects and just guess and check on the unlimited attempt quizzes until I finished modules. You do not need much knowledge from the course to do the projects (besides the hardest one which is the buffer overflow one), so watching or going to the lectures is up to you. I recommend him if you can handle doing work on your own time and/or will go to all of the discussions (there were max 15/200+ students that went to the lecture by the end).",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2023-12-14T21:51:47.067036Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "Apart of the reverse classroom era so take this review with a grain of salt incase things change. This semester we had no exams and the final was \"challenge\" questions that the TAs pretty much just gave everybody A's on. Projects were unlimited submissions and there were no hard deadlines until the last day of the semester.\r\n\r\nAs somebody who doesn't like going to much class, the reversed classroom style was really great for my convenience.. Unfortunately, I can't say I learned as much as I probably should have throughout the semester since the projects and unlimited attempt quizzes were pretty minimal in terms of the content Marsh probably covered in lecture.\r\n\r\nThat being said, this was my choice to not really engage with the material as much as I probably should have. The flipped classroom exacerbated this but if you're into computer and network security and really want to learn a lot, Marsh makes that 100% possible. It seems like everybody's only really on board for the free A, which I can tell you is free as long as you do everything.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-21T15:45:31.267909Z"
+    },
+    {
+      "professor": "Michelle Mazurek",
+      "course": "CMSC414",
+      "review": "the goat 414 professor\r\n\r\n\r\n\r\nshes a really really good lecturer whos really interested and invested in the subject matter. i came into this class with a lot of prior experience, and she hit all the checkboxes on explaining the material. for extra credit on the final, she let u send her an original meme or joke about the class material. that should say everything u need to know about her attitude towards teaching.\r\n\r\n\r\n\r\nthe projects were kind of code based, but it was more of, the code was set up for the environment of whatever attack you are studying. for the first 3 projects you get 6 free, no penalty late days to use for those projects. the last project is a group project, so understandably no free late submissions. as for exams, shes kinda harsh if the questions are conceptual, but there are a good amount of applied knowledge questions to make up for it if she doesnt like the way you write about something.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2023-12-22T02:01:49.031814Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "Took this class Spring 2023. Self paced, and guaranteed A if you're willing to put the work on it. Highly Highly recommend.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-02-17T18:24:42.087957Z"
+    },
+    {
+      "professor": "Yizheng Chen",
+      "course": "CMSC414",
+      "review": "This professor is so bad like omg. She cannot teach for life and her lectures is basically reading the slides. Both her exams averages are bad and idk if im going to pass because only 2 grades are in canvas and I am writing this in finals wee.",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2024-05-09T03:16:42.728973Z"
+    },
+    {
+      "professor": "Yizheng Chen",
+      "course": "CMSC414",
+      "review": "While this is her first semester teaching an undergrad class at UMD, she isn't the best. Far from it. I think she could learn from Cliff and his TAs and actually answer any Piazza posts. I'm not confident in her knowledge on the subject given how much she says \"I think\" and \"I don't know\". I think the only lecture she knew her stuff about was the one about her research: ML security. Furthermore, how she structures her exams are completely different than previous ones. The first exam barely corresponding to the format of any previous practice exams. Its Reading Day and we have 3 and a half grades. The autograder script for our second project is broken and we all have bad grades. I swear half the TAs are comatose and if they wake up, they spout incorrect information and mislead us. The last project was changed from the typical networking one (allegedly because they couldn't get it working) to a ML project that had nothing to do with anything in the latter half of the class, and I swear the only reason why we had the ML project is because of her research being in the same field. What pisses me off the most is that the next and previous semesters have had and will have a much easier time than us.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2024-05-10T21:28:10.928158Z"
+    },
+    {
+      "professor": "Yizheng Chen",
+      "course": "CMSC414",
+      "review": "this is her first semester teaching at umd and she really needs to improve. this has to be the worst, most disorganized class i've ever taken here. she goes very fast during lectures and expects us to know much more than we should. the piazza was very inactive and we had questions about projects that were only answered after the projects were due. the TAs were also clueless about the projects and we ended up going to other sections' TAs' office hours which were much more helpful. our midterm averages were very low (about 72 and 70) and there was no clear curve. when students asked questions about projects or grading in class she said \"I don't know\". our project grades from months ago were only posted recently. instead of network security our 4th project was on ml security which was almost completely irrelevant to our lectures and was apparently given only because she does ml security research. there was also no clear way to check if our results were correct. the only positive thing about this class was that the projects were worth half our grade. i would never want to take this class again. please avoid.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2024-05-10T21:50:48.142881Z"
+    },
+    {
+      "professor": "Yizheng Chen",
+      "course": "CMSC414",
+      "review": "Yo please do not take this prof, she is so unorganized and she is so bad at teaching. During lectures she contradicts herself each time when a student asks a question. She also makes the exams look nothing like the practice that she gives. To add on, when she answers questions, she is always not sure about her answer. The grading in this class is so bad that they release grades two months after the deadline. PLEASE AVOID THIS PROF",
+      "rating": 1,
+      "expected_grade": "F",
+      "created": "2024-05-14T03:48:31.869556Z"
+    },
+    {
+      "professor": "Yizheng Chen",
+      "course": "CMSC414",
+      "review": "Don't take this class. I came in with significant cybersecurity experience and the class is extremely poorly directed. Exams have little relevance to what we do in class, and the projects weren't graded until finals week, when it was too late to realize how poorly I was doing in the class-- projects had no test cases and no submit server, so I was blindsided by the grades I received on them. TAs and professor are absent on piazza and the lectures were boring. I dont think I learned anything. Our last project was a machine learning project for some reason. This class destroyed my GPA. Do not recommend",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2024-05-14T05:10:36.418960Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC414",
+      "review": "Pros:\r\nExcellent lecturing\r\nKind professor\r\nReasonable grade distribution (projects are weighted 50% and exams are the other 50%)\r\nNice workload (though I wish we have more practice)\r\n\r\nCons:\r\nPiazza is fairly unanswered\r\nProjects are released far later than stated\r\nGrades are far behind schedule. Midterm 2 was a month after 1, but we took the 2nd midterm without having grades for the 1st.\r\nOH are limited <10 hrs a week total with insane queues.\r\n\r\nDave is great. His TAs were the problem imo. I'm giving him 5 stars because he did a pretty great job overall.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-15T08:00:54.153625Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC414",
+      "review": "One of the best lecturers UMD has, but his research is what really makes them interesting. Always has funny stories and is a real expert in his field. Couldn't recommend this class (with Dave) any more to any CS undergrad. The content is super relevant, eye-opening, and you'll learn a lot. First two projects were most challenging. Take the class seriously and you'll be rewarded, not something that can be said about every upper level cs class.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2024-05-16T10:05:15.863031Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "I took 414 Spring 2023. His flipped classroom approach and low-stakes quizzes were a breath of fresh air. His grading policy was very straightforward which made figuring out your grades a lot less stressful. If you consider yourself bad at time management, he may not be the right professor for you. Things may have changed since I took this class, so this might not be accurate anymore, but assignments weren't officially due until the very end of the semester. If you're unable to keep up with the recommended schedule, you might find yourself having to do everything at the last minute. Some of the projects (especially the first one, which was about buffer overflow and NOP sleds) took quite some time to do, so watch out!\r\n414 was very interesting and you learn a little bit about a lot of different things. I think it's quite useful in figuring out whether computer security is a field you'd be interested in pursuing. Marsh was also very nice and friendly; the TAs on piazza were also super helpful (shout out to Julio!).",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-17T18:50:44.029039Z"
+    },
+    {
+      "professor": "Zaoxing Liu",
+      "course": "CMSC414",
+      "review": "Note: I believe Professor Liu's U.S. name is Alan Liu, so all of his other reviews are listed on PT under that name.\r\n\r\nThat being said, Alan is a great dude, and I would say that he teaches the course well.  If you like to break stuff (in the software sense) then this is the course for you.  This course is like the opposite of CMSC417 project-wise.  Projects don't require nearly as much code - sometimes you an pass a test case with just 4, 5 lines - however, they still require a significant time investment.  A lot of the effort that is used to complete it is spent on *thinking* and not actually programming because you're trying to induce a particular type of behavior that isn't supposed to happen.  Don't be surprised if you have to  sit and think for 75-80% of the time or play around with a bunch of different values based on what you understand about the computer architecture/processing before you start to actually implement a solution.  Exams and projects are fair if you don't slack off, and he even provides a one-time no excuse extension.\r\n\r\nI definitely learned a lot in this course, not just security-wise but in general with topics including but not limited to SQL, DNS, TLS, x86 Assembly, Torr, etc.  I would def recommend.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-05-19T19:35:46.948521Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC414",
+      "review": "The content of this class is incredibly useful, even to those who are going for a career in software engineering, which is something the title might not initially suggest. Dave does a really good job of covering the essentials for all the topics in the class, without diving into details that aren't relevant. He reminded us regularly that this is not a course in networking or crypto, and thus when we get to the security of those topics we treat concepts as \"black-boxes\", as in he goes over applicable functionality without diving into details. This is something I really appreciated, because it kept the class relevant and focused on security.\r\n\r\nAssignments in this class are each weighted heavily because there aren't that many of them. Projects are generally somewhat difficult, but you have plenty of time to work on them and they reinforce the topics well. The exams are fair, the questions are hard but he gives tons of partial credit and practice exams.\r\n\r\nThe grading in this course wasn't great. It took about 6 weeks to get our midterm 1 grade back, and some of the project grades didn't come back until weeks after the deadlines. Going into the last week of the semester a lot of students weren't sure where they stood in the class since we were missing a lot of our grades. He frequently missed the deadlines he set for himself to get grades back to us. This was my only real complaint with the class.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-05-19T20:10:33.995910Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC414",
+      "review": "Dave's an engaging lecturer and explains topics relatively well. His exams are fair, but he likes to throw some curveballs. The projects were not too difficult, but the TAs were awful. The only issue is that he's really bad with course organization. Projects and midterms have an extremely late turnaround which can get quite annoying. However, he makes it up by lowering cutoffs and giving extra credit (up to 5%). He covered some topics this semester such as ML security which didn't fit in the scope of the class, and he also didn't do the traditional build-it/break-it which was disappointing.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2024-05-23T01:42:38.967959Z"
+    },
+    {
+      "professor": "Yizheng Chen",
+      "course": "CMSC414",
+      "review": "She is super kind and tries to be understanding but she is not great at teaching. There are four projects that are time-consuming and confusing because the project descriptions are very contradicting and do not give enough information. The content of the projects are not covered in class very well, so you are expected to do a lot of learning on your own. Practice exams are very old and do not reflect how the actual exam will look. Her exams were written so poorly that everyone was confused about different assumptions and means were consistently Cs/Ds. Overall, the class is interesting but very difficult. It was heavily curved.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2024-06-13T14:57:19.999990Z"
+    },
+    {
+      "professor": "Yizheng Chen",
+      "course": "CMSC414",
+      "review": "Seems like she cares more about research than teaching the class. Project were WAY to long and very unclear. By the beginning of may only midterm 1 and project 1 had been graded. Averages on exams were C-/D+. Lectures were fairly boring and she doesn\u2019t really answer questions in a clear way. She has no practice material of her own, so studying for exams was difficult. And ZERO communication on piazza. All in all avoid!!",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2024-06-19T17:47:36.110998Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC414",
+      "review": "I had an A in this class but he refused to acknowledge my regrade requests and ignored all my emails so I received a 17 percent on project 4 and my grade dropped 3 letter grades gg",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2024-08-27T19:17:09.885586Z"
+    },
+    {
+      "professor": "Zaoxing Liu",
+      "course": "CMSC414",
+      "review": "I got an A and I learned a lot from the class.\r\n\r\nPros: Dr. Liu is a nice guy. He was engaging, knowledgeable, and can explain things well. His lectures were good. He was a generous grader I can tell and he gave extensions. email and piazza response were fast.\r\n\r\nCons: Some topics cover like ML security was not fitting the scope of the course well. One thing was that all sections of the course had some late turnaround on projects and midterms, which really annoyed people. \r\nHis TAs were medicore - made a lot of mistakes. I gave 5 star just for the prof but the TAs.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-09-30T02:47:25.542229Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "Because of the way he structures his course, I think you might learn more if you take a different professor. That being said, you could also learn a lot less and be far more stressed about it. Overall I think he's a decent teacher but this definitely felt like a much more conceptual course than a technical one (after the first few weeks, which were admittedly quite technical and a bit difficult).",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-12-14T02:18:42.970917Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "Marsh is super generous with his time. He gave me a 30 minute individual meeting because I waited in line for office hours and he didn't get to me. I also one time emailed him my code and he personally debugged it for me and sent me back some reasons why my code wasn't working.\r\n\r\nThe course itself is ok... if you actually want to learn the material to the level where you could answer interview questions about it or use it on the job, you would probably want to do all of Marsh's assignments(including many that are recommended but not submitted) which would take an unreasonable amount of time. That being said, you can get away with doing a lot less and still get a good grade. In Marsh's defense, I think is mostly because this course would work better if 417 and 456 were prerequisites for this class(we had to spend a lot of time going over material covered in these courses for background)\r\n\r\nThe grading is a bit slow on things graded by the TAs(challenge questions) so for anyone taking this class I would recommend submitting those as soon as possible to make sure you have time to resubmit(they are graded somewhat harshly). In addition, the buffer overflow and build-it projects were extremely challenging so make sure you have enough time on those.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-12-14T14:13:10.963583Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "Definitely didn't learn much from his course as it's essentially just watching lecture videos. But it's a guaranteed A if you work for it. It's still a lot of work to get the A but you don't need to stress about it because you know what grade you're going to get.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-12-16T01:24:29.959539Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "No exams and standards-based grading. Those are the primary reasons people flock to take Dr. Marsh, and for good reason. Most assignments can be resubmitted until the end of the semester, and you know exactly where you stand for most of the class. There are pitfalls in the philosophy, but overall, it was a nice change of pace compared to most of the classes I've taken.\r\n\r\nDr. Marsh is a very chill professor, and he clearly has good experience in computer security. Unfortunately, I don't think he's the best lecturer. There's a reason attendance reportedly got as low as about 5 people some classes: people just didn't see a reason to keep going. For personal reasons, I didn't go to lectures in October. It's not like class performance suffered very much in spite of this, as a majority of the class are getting A's, if the ELMS statistics are anything to go by. I think it's mostly a presentation issue, as while there are (optional) exercises worked through live in class, I never really understood anything based off of the lectures. Live coding is a hard act to pull off effectively, and I don't think live demonstrations are Dr. Marsh's strongsuit. I feel like class periods were much more effective when they were essentially just office hours, as Dr. Marsh seemed much better at answering individual and specific questions about assignments. I'm conflicted because I see what Dr. Marsh is trying to do, but I think there needs to be more supplemental material (maybe a whiteboard program with a drawing tablet to illustrate the point of the coding exercises) to really make the lectures work.\r\n\r\nThe nature of the build-it document resubmission should have been more clear (for context, build-it is designing a basic client-server architecture in C with all compiler security helpers turned off, and break-it consists of finding and exploiting a vulnerability in another group's submission). Dr. Marsh stated that the initial submission was due December 2nd, and that resubmissions would be available until the day before the final challenge problems were released. However, resubmissions weren't allowed to address vulnerabilities not addressed in the original submission, as we would have had an opportunity to look at other groups' build-it documents during the break-it phase. I think that's fine in general, but it wasn't explicitly stated in the syllabus or project description, so I believed that resubmissions just needed to correspond to the implementation submitted on December 2nd. It was a problem for my group, as for the 5 vulnerabilities we included, 2 of them were deemed invalid in our first submission, which resulted in an R (we needed an M or better on the EMRN scale to get a B or better in the class). We got it regraded to an M based on the criteria outlined for resubmissions (which a TA sent in a Piazza reply rather than any sort of official announcement), but things really should have been more clear from the start.\r\n\r\nSpeaking of clarity, the projects. There's value in keeping certain things ambiguous, but I think the cryptography project in particular was a bit too vague. I couldn't really figure out what I needed to do from the project description, and I mainly figured out what to do by corresponding with others (corresponding with others is not an academic integrity violation in Dr. Marsh's eyes, though sharing implementation details is of course). It didn't help that to start with, the Gitlab repository for the project only has the README, and all of the ciphertext streams (64K in total, so not large files) are in ELMS. A bit more clarity, and maybe an example for the expected output of task 1 at least, would be helpful. Additionally, not particularly related to clarity, project 1 is kind of a rude awakening for many people. From what I can tell, the last time many people in the class did C was CMSC216. It's not much code, and it's free if you live and breathe assembly, but it relies on really understanding the stack layout of a compiled C program.\r\n\r\nThe class has several challenge problems, which are essentially just write-ups. Honestly, I kind of enjoyed them. They're kind of what you put into them, and due to my internal need to answer each of them as thoroughly as I could, I did a lot of research for many of them, so I'd say I learned a fair bit. They're not going to give you expertise in any particular topic or anything, but for a class focused on the breadth of computer security, I would say these assignments did their job. Please just do them throughout the semester as intended. Procrastination was not my friend, so I didn't just barely get an A, but I barely passed as well.\r\n\r\nOverall, if you can get into this class, you should be fine if you have any sort of self-control. I have my issues, but given the structure and grading scheme of this class, they are far from deal breakers.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-12-19T08:09:28.552723Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "There are plenty of reviews about the nature of this class, so I won't repeat any of that information. In my personal opinion, I hated the way this class was designed. The projects (other than sql injections) were EXTREMELY hard, some of the hardest I've ever had as an undergrad. The first project took me a month to complete and the final solution ended up being only 5 lines. Like really? I have to give 3 stars because it is so lenient and you will figure it out in the end. But I'd much much much prefer to have a standard class with exams and managable projects. The material in his lectures is barely relevant to the projects at all, meaning I didn't watch any of them and as a result barely learned anything. I would strongly advise against taking this class if you're like me and don't mind going to class, taking notes, and studying for exams. If you'd rather do nothing until November and then panic for a month straight then this is the class for you.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-12-24T20:45:59.684927Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "Typical Marsh class -- flexible deadlines and do the course at your own pace. I've taken some of Marsh's other classes and this was definitely the hardest in my opinion. The lectures are very much unrelated to the projects; I felt that there was a lot more self-learning involved in the projects, especially the buffer overflows one. Don't get caught off guard -- while there were only 4 projects the whole semester, all of them are ridiculously hard (except the SQL Injections one). The quizzes and challenge problems were alright, although it often took very long to get feedback from the TAs on the challenge problems. Ultimately, its a good class to take if you need a low-stress class that you can do on your own time. Thats why it worked well for me this past semester. But if you want to really learn this material in-depth, you're better off taking Levin or one of the other profs. You'll learn this stuff miles better.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2024-12-30T02:58:05.348152Z"
+    },
+    {
+      "professor": "Yizheng Chen",
+      "course": "CMSC414",
+      "review": "Personally, I disagree with the one star reviews, I'd give her a solid 3 to 3.5 stars. I took this class Spring 2024, and I agree that she seems to care more about research than teaching, but I found her to be a really nice person and her teaching to be pretty clear and easy to follow. The projects were interesting to me and even though there were issues with submitting and a fair amount of disorganization, she gave extensions for the confusion and graded fairly in my opinion. I was able to get perfect or close to perfect grades on all four projects with a reasonable amount of effort. The exams were rough but the curve was generous and my final grade was an A even though I got 70s on the final and a midterm.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-03-15T19:08:07.752932Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "Flipped classroom model yada yada yada. Judge yourself whether you will actually succeed in that type of environment. Marsh as a professor is knowledgeable and tries to do everything he can for his students. His slides are utterly useless in terms of actually learning what to do, so you will have to do most of the learning on your own (which really doesn't help in the flipped classroom model) or figure it out somehow, which leads me to the the biggest problem with this class: the projects. They are incredibly difficult, no two ways about it. Somehow I managed to complete them but oh boy was it stressful. I also am not really interested in the class content, so that definitely didn't help. Also, one thing to note is that this class HEAVILY leans into computer security rather than network security. Do not think this class's content will give you enough information comparable to 417.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2025-05-20T21:07:12.738422Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC414",
+      "review": "wonderful lecturer and really cool guy! it's a hard class but he's super passionate about the material and it shows in every class, so the course was really enjoyable despite the difficulty and i feel like i learned a lot\r\n\r\nprojects and exams were really challenging and grades take a while to get back, but tas and class materials were pretty helpful with both of them",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-05-21T04:28:48.622080Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC414",
+      "review": "Goat lecturer but just be aware his grading takes FOREVER.\r\nLike at least a month for exams and projects and like a week for final. We didn't get back 2 project grades (worth 30% of our grades) until 5 days after the final. \r\nHe does give a good amount of extra credit points for projects so be sure to take advantage of that. \r\nExams are all pretty fair, the first two projects were pretty easy but the last two took a good amount of time (Try to start early).\r\nHis research is so cool, don't skip his classes cuz they are so interesting. He also records so thats another plus.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-05-25T15:13:51.967854Z"
+    },
+    {
+      "professor": "Yizheng Chen",
+      "course": "CMSC414",
+      "review": "The hate in here is not deserved, I do agree her class was more difficult than it should've been, but if you spoke with her she was especially kind and willing to help. It was clear to me she was definitely putting in the effort to be a better teacher.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-09-12T19:40:43.706877Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "This was one of the most painful classes I've ever had to take. The class follows a flipped classroom, but the 50 videos that we have to watch before each class don't even help with the projects. I get that it's supposed to be challenging, but why aren't we taught on anything useful? We only do exercises in class that don't help with the projects. When you ask TAs for help the queue is 4 hours long and it's not even guaranteed that they'll get to you. Then when you ask Marsh he tells you to read the texts he gave or search it up on YouTube. What is the point of paying so much money to study computer science when we keep on being told to figure it out. These are not projects that can just be figured out. Many of us have no idea how network security works. I'd give 0 stars if I could.",
+      "rating": 1,
+      "expected_grade": "C-",
+      "created": "2025-10-30T21:13:11.000697Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "This class is terrible with this professor. The allure of being able to procrastinate on the assignments and projects makes you think taking this class with this professor is a good idea, but it is not. The slides are useless, going to class is useless, the videos are useless. The project descriptions are so vague and basically require you to fill in the gaps with knowledge you shouldn't be assumed to have. The projects are the hardest I've personally taken at this university - not because they were lengthy or anything, but because the content was simply not taught to us. Literally nothing is taught to us in class that can be useful for the projects. I'm actually interested in the content of the course, but it's not being taught in a way that is beneficial. This professor and this teaching style sucks and only stresses you out more. 0/5 terrible instruction please avoid and don't make the same mistake I did.",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2025-11-06T22:34:11.839771Z"
+    },
+    {
+      "professor": "Yizheng Chen",
+      "course": "CMSC414",
+      "review": "Yizheng was really nice when I talked to her and willing to explain things to help; frequent pauses were made at lecture to ask for questions, and there were always a few active students who were engaged and had interesting conversations. A LOT of the class did not attend regularly (probably in part because the exams mostly graded on slides) but there were good explanations of how the relevant architecture and network protocols led to vulns and i think everyone who actually went to class did well in it.\r\n\r\nAbt the negative reviews below, I think the projects were relatively straightforward with a good autograder for the parts that were autogradeable. I think that there was some annoyance by people about slow grading of some free response questions on the projects, but I think you could tell pretty easily what you'd get on the project because you'd know pretty obviously if your exploit went off well. The grade distribution of the class was better than for other sections, and followed a similar grading schedule, so while I think that some of the content was difficult it surely wasn't as bad as some people are making it out to be",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-11-20T00:31:39.021284Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "Genuinely the most useless class I have ever taken. We barely do any real security its all basic shit and nothing is taught in the class that actually helps you out, adding to the stress. The challenge problems and quizzes are tedious and annoying and also do not add anything to the class. I genuinely regret taking it with him but its a free grade I guess.",
+      "rating": 1,
+      "expected_grade": "A+",
+      "created": "2025-12-03T20:25:25.442791Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "Genuinely enjoyed the last project so ill bump him up a tad. Wish we were actually taught more relevant material but whatever. I dislike how his contract means everyone is at a C+ until the last day basically.",
+      "rating": 2,
+      "expected_grade": "A+",
+      "created": "2025-12-11T21:48:21.509096Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC414",
+      "review": "Pros:\r\nGreat lecturer, he loves this content and makes lecture very engaging.\r\nI found the course content very interesting and relevant.\r\nThe projects were fun to implement, and the exams were not unreasonably difficult\r\n\r\nCons\r\nHe's basically unreachable outside of class. And the TAs aren't helpful because he doesn't tell them anything. The Piazza was rarely helpful. I you have a serious question or concern about a grade - good luck.\r\nGrading takes forever.",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2025-12-14T05:40:54.193235Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "Stressful difficult projects",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-12-15T01:32:26.428668Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC414",
+      "review": "Do not be fooled by his high rating: his rating is him as a person NOT as a college professor.\r\n\r\nThis is the worst organized class I have ever taken, with almost no communication at all from Dave about anything. It is less than 36 hours before our final as I'm writing, and he has not even told us the location of our final exam. Every other lecture involved him going on long tangents, either unprompted or from a malicious student question, about the research he does and how cool it is (with no connection to projects or exams).\r\n\r\nHe has not responded to one piazza post this semester, with one TA being in charge of that. However, to no fault of the TA, all of the actually important non-trivial questions are ignored/unanswered as they require an instructor to determine them. And of the questions that are answered, many are answered with \"I will contact Dave and follow up\", with no follow up, or \"Have you tried contacting Dave?\".\r\n\r\nAdditionally, he says to communicate with him via email, to which he never responds. He told us that the guest lecture we had the Tuesday before thanksgiving would be on the final, and that he'd post the video like all other lectures, and still no video has been posted.\r\n\r\nHe releases projects late, doesn't adjust due dates, and constantly has incorrect answers on the answer keys.\r\n\r\nOn the plus side, his exams were fairly easy in comparison to my other classes, and his projects do an okay job of scaling in difficulty.\r\n\r\nSpeaking to the class as a whole: There is WAY too much content. It feels as though you scratch the surface level of 20 different concepts, and come out having really learned nothing.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2025-12-15T01:46:24.526976Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC414",
+      "review": "His lectures were pretty engaging and he's clearly interested in the content, but the disorganization of the class left a lot to be desired. Stuff doesn't get graded for a long time, like one project that took over a month to be graded. The final ended up online with little warning. His grading was also messed up for the final, which he had to correct (to his credit, he did fix it). The last project was a partner project and my partner wasn't added to the gitlab for an entire 2 weeks, despite the emails he ignored. I like his lectures, but I wouldn't take him again due to the lack of care he puts into the administration of the class.",
+      "rating": 3,
+      "expected_grade": "C",
+      "created": "2025-12-21T00:01:54.006051Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "Do not take this class. Flipped classroom whatever. when it comes to that part you should know yourself and your work habits. This is NOT the reason why I think this class was terrible though. \"Lectures\" teach you absolutely nothing and barely even the concepts of the class, completely ruining the flipped classroom model. The syllabus is closer to a Russian tax code than an actual syllabus. Comparing my experiences to my peers, it's clear to see that which TA grades your projects/follow-ups/challenge problems decides too much of your grade in this course. This class is actually a sham and I genuinely think the CMNS department should review this course's scope and general practices. \r\n\r\nMarsh as a professor is a very good lecturer and I enjoyed his demos in class but again gave me nothing of value for any graded work in the class.",
+      "rating": 2,
+      "expected_grade": "B-",
+      "created": "2025-12-24T17:49:19.444766Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "CMSC414",
+      "review": "good! i liked him\r\npros:\r\ngreat lecturer\r\nprojects were very interesting\r\nclass is very applicable to software, literally working through system design and potential vulnerabilities you can come across\r\n\r\ncons:\r\nclass is messy, some disconnect between project release dates and overall communication\r\nsome of the projects are p hard, but that's to be expected\r\n\r\null learn a lot",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2025-12-30T22:53:52.103839Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "Solely judging on how \"easy\" the class is, I would give it a 4 stars. The buffer overflows project was the only extremely difficult one, the other's just took some time, but nothing crazy.\r\nIn terms of how much I learned, I would give this class a 2 stars. I will say, I actually went to lecture 75% of the time so I probably got more out of the class than people who never went so that's on them. Marsh's teaching style was ... alright. I think a flipped classroom CAN work, but I don't think it was the best in this case, especially given the fact that there was SOOOO much content. (I also just find it really hard to focus when watching videos).\r\nI don't agree with the reviews, below, it really was not that bad. Some of the quizzes were a little confusing, but you had unlimited attempts at them. His grading scale was also incredibly fair (he used a EMRN scale for writing instead of grading with numbers), and as long as you started the work before it was due, it was pretty manageable. I believe he's planning on removing the late deadlines, but this is probably a good thing. I know a lot of people let work pile up at the end of the semester and it hurt their grade.\r\nThe group project SUCKED, but mostly because I had a terrible group who waited until a week before it was due to even look at the project. The instructions were a little confusing but if you spoke with a TA or Marsh early it made a bit more sense. It wasn't necessarily hard, just a bit confusing on what we were supposed to protect against. \r\nThere were also no exams which was a huge bonus in my opinion. \r\nI started the semester seriously freaked out about this class, but after I figured out the buffer overflows project, which admittedly took me forever, I found the rest to be pretty easy. Everyone says this but just start the projects early and speak to TAs or Marsh when you get stuck, it really helps.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2026-01-03T18:29:45.624714Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "The six straight 1/2 star reviews for Marsh 414 below me are nuts. First of all, if you just want an A (which is why I took Marsh), this is the best professor you could possibly have. I'm sorry but if you can't get an A in a class where there are no exams and your assignments are basically a bunch of completion grades + four projects that you have months to do, that's a skill issue. The projects aren't easy but they're all easier than some of the ones you do in 330, in my opinion, and that's a required course.\r\n\r\nIn summary - If you just want to coast, you can do that easily. And if you want to really learn the material, this class gives you the freedom and time to do so because you don't have to stress about exams.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2026-01-23T19:27:27.854460Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC414",
+      "review": "I would only recommend this class if you have a light semester or elite ball time management skills.\r\n- Marsh uses a flipped classroom, where he demos random stuff during class and makes you watch videos on your own. The videos are far from enough to do the projects, but you can't just skip them and self study, because there's a Canvas quiz for each one.\r\n- For the first 2 projects, there's a \"follow up\" where you live code in front of a TA. The coding tasks themselves aren't too bad, but the logistics are awful. There was a period where they ran out of appointments, and various announcements from Marsh and different TAs contradicted each other. It felt like they hardly communicated with each other and didn't coordinate plans at all.\r\n- He uses \"standards-based grading,\" where grades are based on checklists of assignment statuses. For example, you need x projects at 100%, x writeups at excellent, x writeups at sufficient, etc. This made things ambiguous when you didn't match checklists perfectly and were between letter grades.\r\n\r\nFWIW, the class content is quite interesting imo and Marsh seems like a nice guy. He just has some really *creative* ideas on how to run a class.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2026-01-29T07:59:10.432894Z"
+    }
+  ],
+  "department": "CMSC",
+  "course_number": "414",
+  "name": "CMSC414",
+  "title": "Computer and Network Security",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> Minimum grade of C- in CMSC330 and CMSC351; or must be in the (Computer Science (Doctoral), Computer Science (Master's)) program.\n<b>Restriction:</b> Permission of CMNS-Computer Science department.\n<b>Credit only granted for:</b> CMSC414, ENEE459C, or ENEE457.\nAn introduction to the topic of security in the context of computer systems and networks. Identify, analyze, and solve network-related security problems in computer systems. Fundamentals of number theory, authentication, and encryption technologies, as well as the practical problems that have to be solved in order to make those technologies workable in a networked environment, particularly in the wide-area Internet environment.",
+  "is_recent": true,
+  "geneds": null
+}

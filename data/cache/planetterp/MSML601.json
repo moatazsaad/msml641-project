@@ -1,0 +1,53 @@
+{
+  "average_gpa": null,
+  "professors": [
+    "Leonid Koralov",
+    "Dmitry Dolgopyat",
+    "Manoussos Grillakis",
+    "Leonid Koralov",
+    "Sandra Cerrai",
+    "Leonid Koralov",
+    "Sandra Cerrai",
+    "Jonathan Fernandes",
+    "Jonathan Fernandes",
+    "Leonid Koralov",
+    "Sandra Cerrai",
+    "Anna Szczekutowicz",
+    "Christopher Cameron",
+    "Michelle Haver",
+    "Roohollah Ebrahimian",
+    "Stefan Doboszczak",
+    "Leonid Koralov",
+    "Anna Szczekutowicz",
+    "Christopher Cameron",
+    "Jonathan Fernandes",
+    "Leonid Koralov",
+    "Roohollah Ebrahimian"
+  ],
+  "reviews": [
+    {
+      "professor": "Jonathan Fernandes",
+      "course": "MSML601",
+      "review": "[Taken Fall 2024]\r\n\r\nIf you just go to the classes, do your homework, take quizzes and exams honestly, you'll get an A for sure. \r\n\r\nThe only beef I have with his class is that he suspected certain people were being dishonest in his class and he made the homeworks wayyyy longer and it was so timetaking that we had to spend a spend a day or two to just finish those assignments. Again, they didn't get tougher, just longer. As someone who didn't cheat, it felt so unfair and doing those assignments just drained the soul. He should've reported the misconduct instead of taking it own on the entire class. And man, just for this, I don't dare take this guy again (I want 7 days in my week, not 5).",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2025-01-24T22:13:02.084099Z"
+    },
+    {
+      "professor": "Anna Szczekutowicz",
+      "course": "MSML601",
+      "review": "Great professor. The notes are really good. She's takes all the classes well and TA hours are also helpful!",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2025-12-22T06:36:19.976919Z"
+    }
+  ],
+  "department": "MSML",
+  "course_number": "601",
+  "name": "MSML601",
+  "title": "Probability and Statistics",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> Undergraduate courses in calculus and basic linear algebra.\n<b>Cross-listed with:</b> DATA601.\n<b>Credit only granted for:</b> DATA601 or MSML601.\nProvides a solid understanding of the fundamental concepts of probability theory and statistics. The course covers the basic probabilistic concepts such as probability space, random variables and vectors, expectation, covariance, correlation, probability distribution functions, etc. Important classes of discrete and continuous random variables, their inter-relation, and relevance to applications are discussed. Conditional probabilities, the Bayes formula, and properties of jointly distributed random variables are covered. Limit theorems, which investigate the behavior of a sum of a large number of random variables, are discussed. The main concepts random processes are then introduced. The latter part of the course concerns the basic problems of mathematical statistics, in particular, point and interval estimation and hypothesis testing.",
+  "is_recent": true,
+  "geneds": null
+}

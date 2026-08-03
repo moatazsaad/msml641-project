@@ -1,0 +1,94 @@
+{
+  "average_gpa": 2.8939086294416243,
+  "professors": [
+    "Dmitry Dolgopyat",
+    "Tobias von Petersdorff",
+    "Dionisios Margetis",
+    "Steven Chadwick",
+    "Dragomir Saric",
+    "Bradford Sanders",
+    "Konstantina Trivisa",
+    "Dionisios Margetis",
+    "Steven Chadwick",
+    "Dionisios Margetis",
+    "Gregory Chadwick",
+    "Steven Chadwick",
+    "Steven Chadwick",
+    "Dionisios Margetis",
+    "Steven Chadwick"
+  ],
+  "reviews": [
+    {
+      "professor": "Steven Chadwick",
+      "course": "MATH424",
+      "review": "Great professor. His exams were very close to his study guides and overall fair. The only complaint I have is that he created a effectively down curved the class by changing the weights on assignments more than half way into the semester. In addition, instead of dropping two assignments (which is what the original syllabus stated), he decided to drop just one.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2019-06-20T02:01:53Z"
+    },
+    {
+      "professor": "Dionisios Margetis",
+      "course": "MATH424",
+      "review": "He's a bit crazy, but he's a good teacher",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2021-12-11T01:38:47Z"
+    },
+    {
+      "professor": "Dionisios Margetis",
+      "course": "MATH424",
+      "review": "He's a savage but he really does care about his students. He roasts you when you are unattentive but it's out of genuine honesty. Always attend his lectures as they are legendary.  I usually zone out while I attend lectures but for this class, Dio always makes them entertaining and he explains concepts super well. ",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2021-12-18T02:23:19Z"
+    },
+    {
+      "professor": "Dionisios Margetis",
+      "course": "MATH424",
+      "review": "Good lecturer, very passionate about the material. Can be a bit intimidating at times, but going to lectures and asking questions makes the class pretty enjoyable. He follows the textbook very closely, and holds reviews before every exam. The course is an easy A if you have a strong background in probability and can learn finance terms. ",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2021-12-20T06:15:42Z"
+    },
+    {
+      "professor": "Dionisios Margetis",
+      "course": "MATH424",
+      "review": "Dio is a very passionate about his teaching. The content of the course is heavy with finance terms and dio does a great job of explaining the concepts in lecture. His lectures are very entertaining and he keeps you engaged, but if you miss lecture catching up can be difficult. He also gives out hints and tips for exams and Homeworks during lecture, so attending class is important for getting a good grade.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2022-01-04T20:51:44Z"
+    },
+    {
+      "professor": "Steven Chadwick",
+      "course": "MATH424",
+      "review": "Class consists of homework's, problem sessions, quizzes, and exams. Chadwick does a good job in class explaining the concepts. Problem sessions provide you with examples and are representative of the quizzes. The homework is not too difficult and is representative of what is discussed in class. The exam questions are very similar to the problem sessions, quizzes, and homework's. If you study for the exams and quizzes the class isn't too difficult. ",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2022-05-20T02:59:49Z"
+    },
+    {
+      "professor": "Dionisios Margetis",
+      "course": "MATH424",
+      "review": "I like Prof. Margetis very much. He looks like a strict guy but he is funny and super passionate. We had great class atomsphere and everyone can ask questions. He teaches the class very clearly and all the things are easy to follow. It is great that he allows formula sheet for exams, exams are easy if you understand. Notes will not be posted so please pay attention to all the lectures.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-01-23T23:42:50.384612Z"
+    },
+    {
+      "professor": "Konstantina Trivisa",
+      "course": "MATH424",
+      "review": "nice lady but very poor professor",
+      "rating": 1,
+      "expected_grade": "A+",
+      "created": "2026-04-01T18:22:30.341876Z"
+    }
+  ],
+  "department": "MATH",
+  "course_number": "424",
+  "name": "MATH424",
+  "title": "Introduction to the Mathematics of Finance",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> Minimum grade of C- in MATH141; and 1 course with a minimum grade of C- from (STAT400, STAT410); and permission of CMNS-Mathematics department.\n<b>Recommended:</b> MATH246, MATH240, MATH241, MATH340, or MATH341.\n<b>Credit only granted for:</b> BMGT444, MATH424.\nIntroduction to the mathematical models used in finance and economics with emphasis on pricing derivative instruments. Designed for students in mathematics, computer science, engineering, finance and physics. Financial markets and instruments; elements from basic probability theory; interest rates and present value analysis; normal distribution of stock returns; option pricing; arbitrage pricing theory; the multiperiod binomial model; the Black-Scholes option pricing formula; proof of the Black-Scholes option pricing formula and applications; trading and hedging of options; Delta hedging; utility functions and portfolio theory; elementary stochastic calculus; Ito's Lemma; the Black-Scholes equation and its conversion to the heat equation.",
+  "is_recent": true,
+  "geneds": null
+}

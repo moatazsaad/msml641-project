@@ -1,0 +1,1695 @@
+{
+  "average_gpa": 3.07177554438861,
+  "professors": [
+    "Michelle Hugue",
+    "Hanan Samet",
+    "Venkatramanan Subrahmanian",
+    "Larry Davis",
+    "Mohammad Hajiaghayi",
+    "David Mount",
+    "Michael Marsh",
+    "Vibha Sazawal",
+    "Alejandro Flores Velazco",
+    "Aravind Srinivasan",
+    "Roger Eastman",
+    "Jason Filippou",
+    "David Mount",
+    "Hanan Samet",
+    "Justin Wyss-Gallifent",
+    "Michael Marsh",
+    "David Mount",
+    "Justin Wyss-Gallifent",
+    "Roger Eastman",
+    "Hanan Samet",
+    "Justin Wyss-Gallifent",
+    "Michael Marsh",
+    "Justin Wyss-Gallifent",
+    "Michael Marsh",
+    "Justin Wyss-Gallifent",
+    "Narayanaswamy Narayanaswamy",
+    "Justin Wyss-Gallifent",
+    "Narayanaswamy Narayanaswamy",
+    "Hanan Samet",
+    "Justin Wyss-Gallifent",
+    "Anna Evtushenko",
+    "Justin Wyss-Gallifent"
+  ],
+  "reviews": [
+    {
+      "professor": "Michelle Hugue",
+      "course": "CMSC420",
+      "review": "Meesh... I have no idea how I feel about her as a professor and whether or not I recommend her for 420. \n\r\nPros\r\n- You may not have to attend a single class besides exams\r\n- She gives out project extensions always\r\n- She genuinely cares about her students and about you succeeding\r\n- The exams are really fair - since they cover a lot of material you are bound to do well unless you don't know anything at all\r\n- She calculates your grade a bunch of different ways and picks the best one\r\n- If you do well on the first two parts of the project and both midterms you can skip the third part of the project as well as the final and still get  a good grade\n\r\nCons\r\n- The project is pretty hard and time consuming\r\n- You won't learn that much from going to lectures due to her ADD/Dislexia. Wish she recorded her lectures because she actually is really good at it when she's lecturing and not telling stories\r\n- You won't learn that much about data structures if you take it with her\n\r\nOverall, it depends if you like teaching yourself everything or if you like learning by going to lectures. I prefer the latter and think I may have been happier if I took the course with someone else. I will say that Meesh is an awesome person and with a few small modifications I think she could improve the class. It wasn't necessarily hard but it definitely wasn't easy either. You'll have to put in considerable work (at least on the project) to do well",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2016-12-18T13:26:00Z"
+    },
+    {
+      "professor": "Michelle Hugue",
+      "course": "CMSC420",
+      "review": "She is responsible to her students and is always willing to help. The project was ambitious but interesting! Design a Google Map by yourself!",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2015-05-22T14:10:00Z"
+    },
+    {
+      "professor": "Michelle Hugue",
+      "course": "CMSC420",
+      "review": "Ok first let me say I am graduating right now and I am currently working for Google and I took Meesh for my CMSC 411(fall 2013) and 420 (summer 2014). On my job interview( for Google) the interviewer asked me about how did i do in Meesh classes? I am just telling that to let you know guys she is really famous. Yea she has ADD and she is talking about her life during the class but trust me all of the material she is covering are going to help you a loooooooot. Yes her Exam are really long and long and long but there are lots of materials that you know about them and you can get points for that. trust me take her class go to the lectures and study the materials she is giving to you!\r\n(Also there are some links like UNIX tutorial which I found it really useful take advantage of those too in your free time.\n\r\nIf you are not working hard and dont try to teach yourself trust me you dont have any place in computer science world ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2014-08-02T22:16:00Z"
+    },
+    {
+      "professor": "Michelle Hugue",
+      "course": "CMSC420",
+      "review": "Lecture: \r\nSo Meesh has ADD and at first you might think \"Why bother coming to lecture since she just goes off on random tangents all the time?\" Well you should go to lecture because:\r\n1) I actually learned a lot during lecture, not sure how, but I learned, the ADD moments might have actually kept me somewhat engaged and \r\n2) the ADD (at least for my semester) seemed to start off terrible and get better as the semester progressed. \n\r\nProjects:\r\nSo you are essentially writing MapQuest (well a low key version anyway). The project is broken into 3 parts and builds on itself throughout the semester. You really need to do well on the first part so that you have a good idea of what is going on, people who slacked on Part I were at a great disadvantage for Parts II and III. \r\nThe project will take a lot of time, but won't be particularly difficult so long as you do the readings and understand the data structures you are creating. I can't stress this enough: THE PROJECT WILL TAKE UP A LOT OF TIME!!!\n\r\nExams:\r\nIf you read the other reviews you will notice that her exams are really really long. Use this to your advantage, if you don't understand a question just skip it, there is no point wasting time trying to decipher a question. I would also suggest never asking questions during the exam, it takes too much time and you could be answering questions you know the answer to instead of waiting for an explanation from the TAs or Meesh. Don't worry, she curves like crazy, I had something like a 78% and got an A.\n\r\nBook:\r\nMeesh posts a lot of stuff on her website. Use those resources, they are very helpful. Do the readings, they will really help you understand the intricacies of the data structures (and sometimes provide pseudocode).\n\r\nMisc:\r\nI took the summer version of the course, which had the projects shortened slightly, but topic coverage was the same. I also worked 20 hours a week at my job while taking this course and managed an A (although I spent almost all my non-work/non-class time working on the projects). ",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2013-08-14T21:48:00Z"
+    },
+    {
+      "professor": "Michelle Hugue",
+      "course": "CMSC420",
+      "review": "This professor does not teach,she uses years worth of material stored and maintained by TA's in lieu of teaching.  Time is spent performing administrative tasks in class, telling stories, cancelling class, and talking about how much she \"cares.\"  The truth is she doesn't care because students are walking away from her class thinking they have a good understanding of the concepts taught.  With a general bit of knowledge and the heavy curving on the tests you would have a tough time failing tests even if you tried.  Don't waste your time with this professor if you want to be successful in the field, use your time with professors like Dave Mount or Samir Khuller.  ",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2013-08-12T17:12:00Z"
+    },
+    {
+      "professor": "Hanan Samet",
+      "course": "CMSC420",
+      "review": "He's by far the worst professor I've ever seen. Some people say he's good because he wrote a bunch of thick books - but even those are not great. He talks down to everybody, beginning with students, and ending with his TA and fellow professors. (At the classes he talks about how other professors teaching the same class are so much worse than him, and how their slides are stolen from other people...) \n\r\nThen there's this Quadtree project, which is supposed to be written in C/C++ or Pascal. Still even though he claims to be an expert in all of them (and all Computer Science, for that matter), he constantly demonstrates he doesn't know what he's talking about. But again, according to him, everybody is wrong and only he's right.\n\r\nAt the classes, he sticks to his slides and rarely gets up from his chair. Whenever someone asks something that is not explicitly explained in there, he gets angry, saying that we're supposed to know it already. That may be acceptable if after saying it he would actually do the explanation, which of course, he doesn't (I suspect that's because he doesn't know anything out of those slides...). \n\r\nHe's paranoid about using electronic tools like the submit server or the grade server - because of this, it's hard to keep track of your progress in the class. We've just taken the final, and if we want to find out our score, we have to go to his office...\n\r\nI guess the only good thing about this course is that it teaches you how to work on your own, and not expect it to come from your instructor - in a way, it's a good life lesson... \n\r\nI wouldn't take any (other) course with him!",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2011-12-18T00:26:00Z"
+    },
+    {
+      "professor": "Hanan Samet",
+      "course": "CMSC420",
+      "review": "I once heard Meesh say: \"Never use a binary search tree. If you use binary search then I'll laugh at you, because you're stupid. Use hashing.\" So useful! So up-to-date!\n\r\nOn the first day of class, Samet spent 15 minutes comparing methods of string representation based on how much memory you can save by SHARING COMMON SUBSTRINGS. He claims to have lost the old Macintosh software that created his slides, and they're all marked Copyright 1997. You have the option of turning in your quadtree project in Pascal. So, not exactly cutting-edge.\n\r\nThe projects are all, without exception, sorely under-specified. For all of the projects the TA had to post lengthy clarifications to make the projects possible.\n\r\nRight now, the early morning (!) section with Subrahmanian is full. Every time someone drops from that section, someone from Samet's section jumps ship, so Subrahmanian's stays full. 15 or so people actually show up for class every day in our section.\n\r\nThe infamous quadtree project is ridiculous. Within the first couple days of class you have to turn in your specification for the data structure. Four weeks later it must be completely finished supporting 15 different operations, along with a text-based command parser, makefile, etc. All code must be completely from scratch, and you'll need to implement a linked list, a heap, and a binary search tree (heh heh) during this time to finish your quadtree. We didn't get to quadtrees in lecture until December, so you need to figure everything out by reading his 1000+ page tome. And if, like me, you escaped 216 without ever learning how to use gdb then you'll have to develop a feel for that too because it's impossible to write 2,000 lines of bug-free anything (let alone C) without a fully-featured debugger.\n\r\nMany weeks of class are wasted learning Lisp, which has nothing to do with data structures. Those projects are straightforward compared to the quadtree project, but they're nontrivial. \n\r\nThe tests are hard. For the first midterm, out of 24 exams (by the way, note that the class started out full with 40 students) 1 got <30%, 2 others got <40%, 8 others got <50%, 7 others got <60%, 6 others got <70%, 4 others got <80%, and 1 other got <90%. So only 5 people got above a 70%.\n\r\nI can't say it was a total waste of time, because I did gain a lot of experience writing crappy C code, but if I wanted to do that then I'd have taken OS.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2011-12-15T01:25:00Z"
+    },
+    {
+      "professor": "Hanan Samet",
+      "course": "CMSC420",
+      "review": "Do not take Data Structures with Samet.\n\r\nHe knows the material well- he literally wrote the book on it, and he'll make sure you know it. He'll talk down to you, make a big deal about how you don't know anything, and not actually teach you very much you haven't already seen before in other classes until way after you've done the projects on them. He assigned us the notorious quadtree project, which while a fun exercise, isn't fun when you have only the first three weeks or so of the semester to finish it. If you aren't experienced writing thousand-line projects with C/C++/Pascal, if you appreciate your Friday nights as times to not do work, or if you like teachers that give you reasonable test cases and use the submit server instead of making the TA grade your output by hand... you will start hating this course very early if you take it with Samet.\n\r\nHe teaches on overhead slides and \"animated\" pdfs. He teaches us to think recursively, and teaches us how trees work, and seems to think he has a better definition for just about everything in Computer Science than everyone else. (He doesn't.) He doesn't use the submit server because the process \"isn't human enough\" for him.\n\r\nHe really really does know his stuff. He's a smart guy, but he teaches you the material in vague, opinionated terms using materials that a) largely haven't been updated in over a decade and b) don't really correspond with the rest of our CS education.\n\r\nBut hey, he's still teaching the course, so he must be doing something right... oh, that's right- tenure. Never mind.",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2011-12-06T04:09:00Z"
+    },
+    {
+      "professor": "Hanan Samet",
+      "course": "CMSC420",
+      "review": "Probably the best thing about this guy is that he is very smart and knows what he's talking about. Unfortunately, thats where the good things end.\n\r\nOn the the first day of class, he assigns the notorious quadtree project. Although the first two parts of it are very easy, parts 3 and 4 are complete hell. Samet himself gives no instruction on the project himself, instead telling you to learn about quadtrees from the long project description and gigantic textbook of his. He then goes off lecturing us about linked lists and other stupid structures we already learned about time and time again.\n\r\nDuring lectures, he simply reads off lecture slides which he wrote, making lecture extremely boring. He tries to engage students by calling on them randomly and asking them questions, but (unsurprisingly) people rarely ever answer them the way he wants. If you don't learn the material from lecture, you have two other resources to learn the material from: Notes on Data Structures and Multidimensional Data Structures, two books which were also written by Samet. So yeah, you basically learn stuff by reading the same material three times. And don't try to learn the material from somewhere else: Samet has carefully added his own opinion and bias to his course materials, and these are often important for the test. If you put down that \"an advantage of doubly linked lists is that you can traverse backwards\", he will frustratingly mark you wrong.\n\r\nHe seems to have this delusion that CMSC 420 is the only class his students are taking, and that we spend all of our time on it. It is not below him to assign extra homework assignments and lectures whenever he wants, and he often does this, even when students are buried in projects or other work for his class. We had class Tuesdays and Thursdays, and he would literally assign extra lectures on Fridays, and then would get upset when only 8 people showed up to them. \n\r\nSeriously, I don't know what people see in him. My rating is based solely on his TEACHING, not on his intelligence or research. It's people like Samet that really make we wish the tenure system is abolished and that teaching departments actually had some quality control.",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2009-04-29T12:59:00Z"
+    },
+    {
+      "professor": "Hanan Samet",
+      "course": "CMSC420",
+      "review": "Intelligent\n\r\nHe is sarcastic at times but quite insightful during lectures. He knows the material very well (much of it deriving from his own areas of interests) while capable of going beyond the normal curriculum. However, do be discrete about questions as he will digress/rant at times if they are bad. Pre-reading lecture slides are not necessary imo, just careful understanding during the lectures. Projects may be seem long but are relatively easy if you understand the problem's nature. Exams were relatively easy",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2008-12-28T22:03:00Z"
+    },
+    {
+      "professor": "Hanan Samet",
+      "course": "CMSC420",
+      "review": "I think the best way to write a review for Dr. Samet would be in a list\r\nformat, so here it goes:\n\r\n1) His teaching style is not engaging and will put you to sleep.  He asks\r\nthe class many questions, and it's rare that students ever answer them\r\ncorrectly to Samet's standards.\r\n2)He has an extremely abrasive personality and talks down to students like\r\nthey're children.  I felt like I was in middle school again many times\r\nthroughout the semester.  He also spoke badly about other professors in\r\nthe department in front of the entire class.  He literally said most of\r\nthem don't know anything, especially about simple things like linked\r\nlists.  I found this to be absurd and very unprofessional.\r\n3)He was away on travel a lot throughout the semester and re-scheduled\r\nclass a few times on different days than when class originally took place.\r\n Whenever some people wouldn't show up to these re-scheduled sessions, he\r\nwould chastise the class and lecture us about how he's taking the time out\r\nof his schedule to lecture us and how everyone needs to be there.  Problem\r\nis, the class was on Tuesdays and Thursdays, and rescheduling the class on\r\na Friday evening means half of the class won't be able to be there because\r\nof work, other scheduled activities, or other private matters.  Samet has\r\na really difficult time understanding this.\r\n4)He's a smart guy and has been teaching the material for so long that he\r\ncompletely understands it but expects everyone else to understand it at\r\nthe same magnitude of his understanding.  This makes him have a difficult\r\ntime coming down to the level of undergrads and understanding that most of\r\nus are absorbing the material in the class for the first time, hence most\r\nof us actually having to learn the material.  He constantly refers to\r\ntopics in the class as common sense and gets agitated when students are\r\nleft feeling clueless from his awful teachings.\r\n5)The infamous quadtree project gets assigned on the first day of class,\r\nyet he teaches absolutely nothing about quadtrees.  He told the class to\r\nlook at some Java applets that show examples of how quadtrees work and\r\ntold us to go read his encyclopedic book.  That project was the most\r\nhorrendous project I've done at UMD and the major reason why it was so\r\ndifficult was because I didn't have a good understanding of quadtrees as I\r\nwas left to research them on my own.  It would've been extremely helpful\r\nif he spent the first few days of lecture talking about the mechanics of\r\nquadtrees and tips on how to implement certain operations.  Instead, he\r\njumped right into teaching us data structures we've learned as freshmen\r\nand assigned other homework assignments on top of the newly assigned\r\nquadtree project.\n\r\nThere are other things about Dr. Samet I could mention, but I feel that\r\nthe five things listed above should provide a decent foundation of what to\r\nexpect from him.  In regards to the class, I found the exams and some of\r\nthe homework assignments to be difficult.  Besides the quadtree project\r\n(which has to be implemented in C, C++, or Pascal), the remaining\r\nprogramming projects are all done in Lisp and are straight forward.\n\r\nI don't recommend Dr. Samet for this class, and if I could go back in time\r\nI would've taken it with another professor as I truly don't feel I've\r\nlearned much from his class at all.  I feel like I am walking away with a\r\nsemi-understanding of some convoluted, advanced data structures and the\r\nknowledge of little tricks that can be used for simple data structures to\r\nsave space that pointers/references take up.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2008-12-28T19:50:00Z"
+    },
+    {
+      "professor": "Hanan Samet",
+      "course": "CMSC420",
+      "review": "He is a very smart man, and wants to teach.  He grades tests very fairly and is willing to take time out of his day for you.\n\r\nIt may well seem like he has difficulty coming down to the level of undergraduate students to explain things in a way we easily understand.  However, a lot of the difficulty in learning from him can be alleviated by pre-reading the material in the textbook (or, more specifically, the extended notes corresponding to the lecture slides) before class.  He expects you to pre-read, which is reasonable but quite time consuming.  If you don't pre-read, it will be hard to learn from his lectures.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2007-12-16T23:24:00Z"
+    },
+    {
+      "professor": "Venkatramanan Subrahmanian",
+      "course": "CMSC420",
+      "review": "Excellent professor, makes this class very approachable and informative.\n\r\nClass project was fair difficulty but the TA will walk you through it if you put in the appropriate effort.\n\r\nWay easier than Samet's 420 section, so choose this guy 10/10 times.\n\r\np.s. He taught Meesh so this guy is quite knowledgeable in his field.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2011-12-14T18:23:00Z"
+    },
+    {
+      "professor": "Venkatramanan Subrahmanian",
+      "course": "CMSC420",
+      "review": "I really like him a lot. He makes learning seems easy. His style of teaching is to tell you the overview of the main stuff first - then, give multiple examples until you understand. He cares for students and he explains well.\n\r\nHis exam so far wasn't hard and his projects are pretty straight-forward. His homework may require you to think a little. But as long as you go to class and do the hws and projects, you'll be fine. :)",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2011-11-05T16:44:00Z"
+    },
+    {
+      "professor": "Larry Davis",
+      "course": "CMSC420",
+      "review": "This class was the worst class I have taken at the University of Maryland. The teaching style is horrible. Larry Davis simply reads off the slides and rarely has an example of what the data structure looks like and how it should behave. And if there is an example, it's just pictures in the slides that are missing all the steps. I put in a significant amount of work into this class and the grades I received were too low. You receive no sympathy whatsoever. If you have been having trouble in another class and been overwhelmed with work you will not receive any consideration. I spent hours and hours every week teaching myself the material so I have put significant effort in this class. In addition, the projects have a 30% late penalty, meaning that the highest you can get is a 70%, it is a pointless late deadline, you would actually do worse if you kept trying. This was a horrible experience and I do not wish to go through this again. This has confirmed to me that professors are not meant to teach. It's reflected in their attitude towards the class. It's only a few that do actually enjoy teaching but from my experience here at the CS department most profesor like Larry Davis should not teach. I taught myself everything this semester. I should not be paying so much money to teach myself everything. I highly recommend the department to consider hiring Lecturers instead. When I was taught by a lecturer there was a significant difference, they actually enjoy their job and better convey the material. Professors like Larry Davis should remain focused on their research instead of making students suffer through this. Just because you have a higher degree or a tenure does not allow you to treat students the way you treat them. I am extremely upset about this class, I was really excited about this class but Larry Davis turned it into a nightmare. If you can avoid taking this class with him please do.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2016-05-11T18:26:00Z"
+    },
+    {
+      "professor": "Hanan Samet",
+      "course": "CMSC420",
+      "review": "Incredibly rude professor, constantly yelling at people for asking questions or for not having known material. In our class, someone joined the class late because somebody dropped the class so they got on off the waitlist. Samet spent the first 15 minutes of the class lecturing the guy who joined late saying \"this class isn't a train, you can't get on and off whenever you want, you need to have done all the homeworks already. Where are they??\"\r\n\r\nThere's no grade server or submit server, he made us print some of our projects and hand them in, and we didn't receive grades until a couple days ago. There's also no elms page, and he hasn't sent a single email or message on elms out. All he does is sit there and yell at people, definitely would not take.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2017-12-13T22:28:29Z"
+    },
+    {
+      "professor": "Michelle Hugue",
+      "course": "CMSC420",
+      "review": "this class is hard as hell. She doesn't come to class. So all of the lectures were on google hangout. Really struggled in class",
+      "rating": 3,
+      "expected_grade": "B-",
+      "created": "2018-04-17T03:49:23Z"
+    },
+    {
+      "professor": "Jason Filippou",
+      "course": "CMSC420",
+      "review": "His lecture style was hard for me to follow. Sometimes it felt like he had just learned the material that morning. His slides that he posts on ELMs are excellent to teach yourself if that works better for you. I think he will improve as semesters go on because he seems to take notes of what he does wrong and tries to correct his teaching style.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2018-05-19T18:00:47Z"
+    },
+    {
+      "professor": "Jason Filippou",
+      "course": "CMSC420",
+      "review": "Jason's project description is very unclear, which made projects even more difficult, but the midterms and final are fair. Also, you can skip all the classes since there are recordings and slides. ",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2018-12-25T22:59:25Z"
+    },
+    {
+      "professor": "Faho Shubladze",
+      "course": "CMSC420",
+      "review": "Kind of a pretentious/power hungry TA IMO. Takes off arbitrary points on projects. It seems like he's trying to make CMSC420 a hard class (maybe to make TAing it seem more respectable?)",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2019-05-06T04:50:11Z"
+    },
+    {
+      "professor": "Jason Filippou",
+      "course": "CMSC420",
+      "review": "Pros:\r\nClass is fair (not difficult)\r\nMaterial is interesting\r\nGrading is fair (our first midterm was hard, but then the final was a joke)\r\nHis TA's are generally good\r\n\r\nCons:\r\nJason can be a bit disorganized\r\nSuper understanding (especially if you go to his office hours)\r\nProjects can be challenging (again talk to him if you're struggling)\r\n\r\nI would definitely recommend taking Jason's class!",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2019-07-08T15:39:21Z"
+    },
+    {
+      "professor": "Faho Shubladze",
+      "course": "CMSC420",
+      "review": "Overall good TA. Spends too much time making memes though :)",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2019-08-30T16:10:52Z"
+    },
+    {
+      "professor": "David Mount",
+      "course": "CMSC420",
+      "review": "Best professor at UMD. Lenient grading on exams and homeworks. Engaging, enjoyable lecturers. Fair project difficulty. Also answers every piazza question personally within 24 hours, often quicker.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2019-12-12T02:05:15Z"
+    },
+    {
+      "professor": "David Mount",
+      "course": "CMSC420",
+      "review": "Dave's a great instructor  He knows the content like the back of his hand and lectures are never stuffy.  \r\n\r\nHe takes questions seriously and is happy to deviate from his plan if some interesting question got his attention.  Even with the large class, lecture often felt more like a discussion.\r\n\r\nMy class was a little disorganized because he was rewriting the syllabus as we went, but he was always upfront about the changes he was making and what delays to expect.  He took time to develop useful assignments rather than just relying on the materials past instructors used.  \r\n\r\nHis future 420 classes will probably have more assignments; the difficulty will probably depend on whether you like using homeworks for practice or if the extra work is too much for you.  Either way I highly recommend Mount.",
+      "rating": 5,
+      "expected_grade": "B-",
+      "created": "2019-12-18T21:52:09Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC420",
+      "review": "I think his previous reviews were when he was a very new professor. He has definitely improved a lot since then. He is one of the best CS professors I have had at Maryland.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2020-03-31T19:53:46Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC420",
+      "review": "Marsh has so far been my favorite computer science professor. All content he covers through lecture is clear and complete, so it leaves out ambiguity. His tests have been very fair (despite making the switch to online exams). He has been extremely responsive to students this semester and he has been very active online even before quarantine. Take him for 420 if you get the chance.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2020-05-12T22:26:08Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC420",
+      "review": "Explains things well and provides exercises for students to practice",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2020-05-16T19:02:07Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC420",
+      "review": "One of the best CS professors I've ever had. Marsh is a very kind and interesting person as well as a very attentive and well-organized professor. All lectures were well presented and all projects were fair. He was very generous with project extensions when they were warranted. Tests and homework assignments were extremely easy. It would take great effort or supreme procrastination for one to do poorly in Marsh's CMSC420 section. Highly reccomend. ",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2020-07-22T16:35:12Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC420",
+      "review": "Really responsive and well prepared for online lecture",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2020-08-10T05:29:11Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC420",
+      "review": "Really good professor, but he uses Jason's projects and he hasn't read the src code so you won't ever know how your code gets tested. He'll review your code from a theory pov, however his mini-exams every week and his lecture videos are perfect.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2020-09-15T22:38:15Z"
+    },
+    {
+      "professor": "Michelle Hugue",
+      "course": "CMSC420",
+      "review": "Awesome teacher all around. Overall great class.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2020-10-29T06:55:00Z"
+    },
+    {
+      "professor": "Hanan Samet",
+      "course": "CMSC420",
+      "review": "In my family, I am perceived as the \"smart one\" and basically forced to help my younger sibling in 6th grade math homework. Admittedly though, nothing much is learned during these tutor sessions because I cannot fathom how what I 100% understand to be difficult and because I do not have any teaching skills at all. Now imagine me, but now I am over 70 years old, very unfamiliar with very recent technology, and is paid to teach. That is basically professor Hanan Samet. He is really smart, having pioneered research into Computer Science and even has his own wikipedia page. But all that matters is if he can teach college students and my god he doesn't.\r\n\r\nTaken him with online classes, his lectures were boring and barely understandable. Most of it consisted of him going through a pdf of illustrations that are hardly understandable by itself, therefore you have to watch the lecture so he can explain what it all means, but then you can't get through the dull barrier or understand at all. Also for some reason the slides and chapter pdfs given do not support ctrl+f, and this is especially bad given that these things are huge pages of text.\r\n\r\nThe big project seems to be the same each time according to the other reviews, but this time the project was split into parts with different due dates. While I appreciate it making me keep my procrastination in check, the project was still god awful. This mostly comes down to the information on the project like the project description. I've learned more on how to do the project from piazza than the pdf given. At one point, plenty of people received zero's because the hidden tests were exponentially larger than the sample ones given. Fortunately we were given a second chance to edit our project, but I wasn't happy having to edit in C of all things. They still made us use these weird huge inputs for the later parts that just makes it too difficult to debug. Oh yeah instead of using gradescope or the submit server to submit code, Samet uses Elms. Gradescope is used, but only for written homework.\r\n\r\nI should have known this professor was not gonna be good at all when the only section open for 420 was him. I wish I actually saw all these previous reviews before I was too desperate to take something for the semester. If I had the ability, I would go full Jimmy Neutron and time travel back to the exact time and location I was signing up on Testudo. I would slap that laptop out of his hand and tell myself to get a new laptop, because it's way cheaper than the tuition taking his class.",
+      "rating": 1,
+      "expected_grade": "W",
+      "created": "2020-11-16T03:22:32Z"
+    },
+    {
+      "professor": "David Mount",
+      "course": "CMSC420",
+      "review": "Fantastic instructor. He knows his stuff and teaches it well, is very kind and understanding, and makes the class interesting. If you see that Dave is teaching a class, TAKE THE CLASS!! He made online school a little more bearable. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2020-12-13T01:34:11Z"
+    },
+    {
+      "professor": "Hanan Samet",
+      "course": "CMSC420",
+      "review": "Dry on details with the quadtree assignment along with a poor teaching style with hard to follow slides (that he hasn\u2019t updated since 1998) make for my most frustrating course in UMD this far.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2020-12-25T21:21:24Z"
+    },
+    {
+      "professor": "David Mount",
+      "course": "CMSC420",
+      "review": "Best professor I have had in the CS Department, I definitely recommend taking a class with him. You will learn a lot!",
+      "rating": 5,
+      "expected_grade": "B-",
+      "created": "2020-12-29T14:11:39Z"
+    },
+    {
+      "professor": "Jason Filippou",
+      "course": "CMSC420",
+      "review": "Pretty straightforward class. Jason's slides are EXTREMELY descriptive and he takes his time in lectures to go through material step by step. Exam averages are in the high B's, projects can be a little difficult but nothing too extreme. ",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2021-01-05T18:30:54Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC420",
+      "review": "I had Professor Marsh for CMSC420. Previously, I had him for CMSC414 and did not have a great experience. This time I thought that he did a much better job in how he taught the material and the assignments that were given in class. The projects and exams were very reasonable and it was one of the better upper level computer science classes that I have taken so far. ",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2021-01-12T05:26:55Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC420",
+      "review": "His recorded lectures are easy to understand and go over. His exams aren't too bad. Projects can be tricky given how much he tests on edge cases. Overall a pretty good professor and really understanding.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-01-26T21:02:04Z"
+    },
+    {
+      "professor": "Michelle Hugue",
+      "course": "CMSC420",
+      "review": "Meesh doesn't teach. Simple as that. You're on your own to learn the material for this course. It's not hard to get an A because the grading for the exams is so weird (as long as you write something down, you'll get at least 1 point for a problem) and the projects are pretty easy. But if you have the option to take literally anyone else, do it.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2021-05-13T14:50:14Z"
+    },
+    {
+      "professor": "David Mount",
+      "course": "CMSC420",
+      "review": "Definitely one of my favorite professors that I've ever taken at UMD! He does a great job at breaking down the material in order to understand it better. He provides lecture videos, hand written slides, LaTeX notes, and small bite sized videos for every single topic that he covers. He's also super accommodating and he's very responsive on Piazza and email. I felt that his tests and homework were fair, and the projects were well written and applicable to what we were learning in class.\r\n\r\nThe only complaint that I could really think of is that grading might be a bit slow at times. However, It turns out that he graded ~190 midterms by himself.\r\n\r\nHighly recommend him as a professor!",
+      "rating": 5,
+      "expected_grade": "B-",
+      "created": "2021-05-18T17:34:38Z"
+    },
+    {
+      "professor": "David Mount",
+      "course": "CMSC420",
+      "review": "Really caring and helpful professor. Absolutely take him if you can. However, be warned that this is not necessarily an easy class. Although the projects are fine, the homework and exams require critical thinking on certain questions that only a few people may get. Nevertheless, Mount provides recordings, drawn notes, slides, shortened videos, review sessions, and more to help you succeed, which is really amazing that he goes to this level to help us succeed. One of the best professors in CS. ",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2021-05-18T19:53:16Z"
+    },
+    {
+      "professor": "Michelle Hugue",
+      "course": "CMSC420",
+      "review": "Simple put, a terrible professor. I regretted taking this class with her - worst decision I ever made. Don't be like me because even if you get a good grade, you will literally have no free time and not learn a single thing. ",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2021-05-18T20:26:59Z"
+    },
+    {
+      "professor": "Michelle Hugue",
+      "course": "CMSC420",
+      "review": "The course structure is confusing but she did check Piazza quite often. The exams are long but are graded leniently. Projects are pretty straightforward (mostly because of Mount's lecture note). ",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2021-05-22T11:49:22Z"
+    },
+    {
+      "professor": "David Mount",
+      "course": "CMSC420",
+      "review": "Easily one of the best CS lecturers I've ever had. Both his written slides and LaTeX notes are extremely helpful. he does normal lectures during class, and has fast-forward lectures that take around 15-25 minutes to complete. Explains material really well, very open to questions, and is always open to feedback. If you put in a lot of effort in his class, he wont fail you. Definitely take him for any class if you have the option to. ",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2021-05-25T22:57:55Z"
+    },
+    {
+      "professor": "David Mount",
+      "course": "CMSC420",
+      "review": "Great professor and an even better person. The other reviews aren't lying at all. He really does want you to succeed and tries his best to teach you. \r\n\r\nThis class is not easy, though. I found the exams to be tremendously challenging (admittedly I didn't put too much effort into studying, as I had a very loaded semester with other classes as well), with pretty intense critical thinking in time constraints. This class isn't an easy A by any means, but you will come out understanding a lot about the data structures he covers in class, and their different variants. His notes are fantastic -- i loved his lecture videos and how organized everything was, even amidst the online environment. \r\n\r\nProjects are pretty easy, all things considered. I procrastinated and did them the day before and didn't have a problem getting everything submitted, although I might say that for some projects it was kinda stressful because I did this. He also does side-lectures to help you with the projects, which are super important. \r\n\r\nOverall, I'd recommend the class -- not necessarily because it's easy (it's definitely not easy lol), but because Mount is so great. ",
+      "rating": 5,
+      "expected_grade": "C+",
+      "created": "2021-06-03T01:59:59Z"
+    },
+    {
+      "professor": "Alejandro Flores Velazco",
+      "course": "CMSC420",
+      "review": "He does seem to be lenient at times with due dates and is somewhat of a good lecturer regarding material for a new teacher, but there are complaints about his grading policies during this summer term. Using competitive programming sites like SPOJ and then basing 70% of the grade based on whether it gets accepted or not (you\u2019d most likely want to use C for its speed despite being told to use any language since a lot of the time others will still fail even if correct due to the execution time) as well as grading the midterm with a fairly low average resulting from a rubric that assumes information that wasn\u2019t clear in a few questions leaves a lot to be desired.\r\n\r\nAnd the TAs could\u2019ve been more helpful too.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2021-07-20T16:04:36Z"
+    },
+    {
+      "professor": "Alejandro Flores Velazco",
+      "course": "CMSC420",
+      "review": "He really cares about your learning and wants you to succeed. Yes, due to SPOJ, the course is a little hectic, but you will grow a lot as a programmer as a result. \r\n\r\nThe TAs were not very helpful, especially at debugging C. Sometimes when I went to office hours the TA hadn\u2019t even looked at the project yet and was not supplied with project solutions. Hopefully in the future, he can be a little more stringent on the slacking TAs (though not all were bad.)",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2021-07-27T22:24:48Z"
+    },
+    {
+      "professor": "Alejandro Flores Velazco",
+      "course": "CMSC420",
+      "review": "He was pretty chill and provided pretty good lecture sources. He's really helpful for answering questions because he's good at explaining concepts and diagramming them, though his lectures can get a little long-winded which is why I usually watched David Mount's lectures and asked him questions about those concepts afterwards. His exams are quite fair and he doesn't test you on anything you never learned before.\r\nSo the pros?\r\n- Chill and friendly\r\n- Listens to student concerns (not guaranteed to comply with them but he listens LOL)\r\n- Doesn't test you on what you didn't learn\r\n- Good at answering questions\r\nCons:\r\n- Lectures can be long-winded if not directed by student questions\r\n- Grading for coding assignments has had some debate (some coding assignments had incorrect specifications but Alejandro tried his best to help out)\r\n\r\nNot the best but also not the worst, though it's his first time teaching and I would say he's done more good than harm so I'll give him a 4/5 stars.\r\n_________________________________________________\r\nA lot of the struggles in this course could have been greatly alleviated if we had more effective TAs. Personally, the TAs were really helpful for answering questions that they knew answers to but most of the time they weren't caught up with the lectures on what we learned (it's not necessarily a bad thing but it made office hours really useless at times). However this is only a side-note and will not affect Alejandro's rating since it's not his fault the TAs did not learn the same thing that he was teaching.\r\n",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2021-07-27T22:40:10Z"
+    },
+    {
+      "professor": "Alejandro Flores Velazco",
+      "course": "CMSC420",
+      "review": "Really nice and respectful lecturer. Empathetic and lenient for sure, but there are areas for improvement. I think this is a great example of a lecturer giving resources for their students to learn, and not so much ramming the information into their head. The exams were extremely fair (take this from someone who did poorly on the first and well on the second), it's truly just a matter of time investment (in my opinion). There might be controversy surrounding the SPOJ approach (basically medium to hard leetcode but without the thousands of accessible solutions), but it's made me a better programmer. Moreover, this has forced me to learn C++ (I did the entire class in C++, not sure why the other comment mentions exclusively C), and since there is no (to my knowledge) class that teaches C++ at this university, I really appreciated this. \r\n\r\nIf you're looking for an easy A in 420, probably not the professor for you. If you're looking for an enthusiastic, young, relatable lecturer who will make sure you get what you should want out of an upper level programming class, just sign up. \r\n\r\nAlso, the project that the most students struggled with, Alejandro made it so that you practically are given a 70% for turning literally anything in, and a perfect score would come from getting AC (accepted) on SPOJ. The benevolence is real and appreciated. \r\n\r\nJust for reputability, I'm a senior and this was my last class for graduation. Not my best performance, but probably my favorite and most impactful class (seriously, I may never go back to python ;) ). ",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2021-07-27T22:41:14Z"
+    },
+    {
+      "professor": "Alejandro Flores Velazco",
+      "course": "CMSC420",
+      "review": "I liked this class, in particular giving the coding assignments as SPOJ problems was a good decision, it helped me to get started with competitive coding. Also, it would have been better if he used some other platform like Leetcode/Geeks for Geeks. But overall, given that Alejandro was teaching for the first time, it was a nice experience.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2021-07-28T07:19:59Z"
+    },
+    {
+      "professor": "Alejandro Flores Velazco",
+      "course": "CMSC420",
+      "review": "The first semester teaching any course so obviously, there was a learning curve on both sides. The midterm was way too difficult with hard-to-follow and unspecific directions and unfair grading with a 63% class average. Luckily the final exam was a lot fairer with a way higher average score. He was lenient with due dates and grading for the final/regrades. There was a 1% curve in the class with about 75% of the class getting Bs and up.\r\n\r\n",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2021-07-28T12:01:20Z"
+    },
+    {
+      "professor": "Alejandro Flores Velazco",
+      "course": "CMSC420",
+      "review": "Alejandro is a nice guy and very accommodating about due dates with projects. However I felt he could've been more organized with regards to the class, he didn't have a syllabus until the end of the first week and decided at the last minute to replace a homework assignment with a project and scrambled to find a project. Projects were done using SPOJ and they were really annoying because you ran them on the website and a huge chunk of your grade depended on them passing under a certain time. Theoretically you could use whatever language you wanted but youre better off using C++ for speed. The TA's for the most part were not that helpful and sometimes wouldn't show up to office hours\r\n\r\nDuring lectures he's very dry but more helpful one on one, also Professor Mount's notes are the GOAT. He's very strict about formatting for exams which I understand wanting to reduce grading time but it's annoying because not all of us can print or edit PDF's.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2021-07-28T13:01:02Z"
+    },
+    {
+      "professor": "Alejandro Flores Velazco",
+      "course": "CMSC420",
+      "review": "I felt Alejandro was a very good professor. Summer classes can often be chaotic as they are fast paced and have very few TAs. But Alejandro gave good lectures and had very reasonable expectations on the exams. One or two of the seven projects were pretty difficult, but I felt they made me a much better programmer. Some students really did not like that C++ usage was pretty much mandatory in this course (generally this course is taught in Java) but to be honest, there was very little you have to actually teach yourself that you won't already know from learning C in 216. Also, I felt the TAs could have been a lot better, but that is mostly on the department, and not Alejandro's fault. Overall Alejandro is very nice and the class was not terribly difficult. 30% of the class got As, 45% got Bs. That's about as good as it gets for upper level CMSC courses. And the things you learn are very useful, I watched some FAANG interview question videos recently and many of the questions can be solved with data structures you will learn in this course. \r\n\r\n",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2021-07-28T15:06:23Z"
+    },
+    {
+      "professor": "Alejandro Flores Velazco",
+      "course": "CMSC420",
+      "review": "Alejandro is very new.  I took the first class he taught on his own and his lectures could definitely have been smoother and the ideas presented in a more coherent order.  I got the impression that some of the lecture material was presented in the order he remembered it.  He would be 30min into the lecture, realize something didn't make sense, and then realize it's because he forgot to explain something earlier in the lecture.  He is quite caring and often worried that his English was difficult to understand though I never had trouble understanding him, and think that his lectures will naturally become better organized the more he teaches this class.\r\n\r\nI really enjoyed the projects.   Alejandro's projects are different to Mount's and his grading requires that solutions are both correct and efficient.  Moreover, the projects aren't just mechanical implementation of each data structure.  Often they are challenge questions where most of the work is in thinking up a solution, rather than implementation.  They make you intuit when different data structures can be used in real world problems and were very beneficial to my programming.\r\n",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2021-07-28T15:39:23Z"
+    },
+    {
+      "professor": "Alejandro Flores Velazco",
+      "course": "CMSC420",
+      "review": "This class was a bit of a learning curve ngl, but it provided invaluable skills and concepts that can be applied in the industry or at least coding interviews. Alejandro is one the most understanding instructors at UMD and is very approachable. I say that you should take this class before you graduate, preferably with him.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2021-07-28T17:24:15Z"
+    },
+    {
+      "professor": "Alejandro Flores Velazco",
+      "course": "CMSC420",
+      "review": "Alejandro is incredibly approachable and helpful, he responds quickly to emails and piazza. He is knowledgeable and lectures well. Grading issues mentioned in other comments are noticeable but most of the projects were easy or well telegraphed by the course material so it sort of works to the effect that you have a higher grade overall by the end except for the midterm and maybe the last project or 2. Even then, noticing that most students were unable to get project 6 in the summer session, he altered the grading scale to be more fair, so like I said, he responds to students' issues quickly and helpfully. ",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2021-07-30T09:42:11Z"
+    },
+    {
+      "professor": "Alejandro Flores Velazco",
+      "course": "CMSC420",
+      "review": "Great lecturer, keeps students engaged and tries to always ensure their understanding. I have mixed feelings about the SPOJ assignments. I appreciated being introduced to the platform, and I think it emphasized the difference in speed from using one approach versus another which I normally would not be able to detect. However the prompts are sometimes very vague, and the edge cases can be very hard to guess, so I spent more time guessing obscure edge cases and less time on understanding the course material than I would have liked. If given more adequate time I think Alejandro could have designed assignments more tailored to the data structures we were studying. ",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2021-07-30T15:12:26Z"
+    },
+    {
+      "professor": "Alejandro Flores Velazco",
+      "course": "CMSC420",
+      "review": "The material was as difficult as it should have been, and there were many resources given that would help understand it. The programming and homework assignments were fair and completable, some required deep thinking and the TA's were often able to help.\r\n\r\nThe class was however rather disorganized, but it is fair to mention I took his class in his first semester of teaching and I believe this is something that will improve as he teaches more. He had a good plan (at the end of the course, it was easy to see how each topic contributed to the next topic), but I think his inexperience and the fast pace of summer courses made it more difficult to follow in real time than it could have been.\r\n\r\nOverall I give him 4/5 because despite the disorganization, I came out knowing a good amount about each data structure, the assignments were fair, and he was really receptive to input from students.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2021-07-30T22:56:00Z"
+    },
+    {
+      "professor": "Alejandro Flores Velazco",
+      "course": "CMSC420",
+      "review": "Unorganized, unprofessional, hectic. Held TAs to no standards. Lied about what programming language we would be using. Stay away take and take this class with Mount. ",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2021-08-12T14:45:35Z"
+    },
+    {
+      "professor": "Alejandro Flores Velazco",
+      "course": "CMSC420",
+      "review": "Class was unorganized this summer, but it was his first time ever teaching a class. Alejandro was a good TA when he TA'ed for Nelson and I am sure he will become a great instructor some day. He genuinely cares about teaching his students the most relevant concepts and pushing out some outdated material. He's a definitely was really accommodating to anyone who had an internship or job over the summer. ",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2021-08-30T19:20:24Z"
+    },
+    {
+      "professor": "Hanan Samet",
+      "course": "CMSC420",
+      "review": "Do not take this professor at any cost. He will give you an assignment without teaching you anything. He can't even teach. He will want you to read the bullshit book he wrote, and you can't even hear his voice. It is a total mess. I don't know about any other professors but take another professor instead because there is nothing worse than Samet. ",
+      "rating": 1,
+      "expected_grade": "W",
+      "created": "2021-09-13T15:39:02Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC420",
+      "review": "Since the switch to online, Marsh has been an incredible teacher. I had him for cmsc436 and cmsc420 and for both courses he did a \"flipped\" course, where he posts very clear and concise online modules where you have to watch usually 3-5 broken up (roughly 5-10ish minutes each) lectures twice a week and do a quiz. This is nice becuase it makes class optional becuase its just a session where he goes over examples and lets people ask questions (no clickers or no material taught, so you can skip if you know the material). Quizzes are super easy if you watch the lectures and you get multiple attempts.\r\n\r\nExams are extremely fair and heavily resemble homeworks assigned (due about once every 2-3 weeks for 420) or slides from lecture videos. He also made the 420 exams online and open note even though we are back in person, which is very nice. His exams come at the end of every module (also about 2-3 weeks) and are mini exams that are NOT cumulative. The final is the only cumulative test.  the exams overall also only account for <30% of the grade, which is good if you somehow bomb an exam.\r\n\r\nThe projects are where he puts heavy emphasis on and theres usually 5 projects (one per module) worth 10% each so 50% total. He has a strict \"turn in late and get a zero\" policy but don't let that worry you. His projects are very reasonable, Office hours and his campuswire (online forum like piazza) are very helpful and the projects are usually given 3 weeks to finish, I find myself only needing a week or less in most cases though (and Im no genius). He stays away from heavy edge case testing and tests are a mix of public and release (you can only see name of test), but no secret tests.\r\n\r\nOverall he is my second favorite CS teacher behind Nelson and I highly recommend him for 420 and 436, but I've heard not so great things about 414 with him.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-11-04T20:54:10Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC420",
+      "review": "He is very mean. Don't take courses with him",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2021-11-11T15:19:00Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC420",
+      "review": "I took this class in conjunction with CMSC414, and the difference is quite astounding. Comparatively speaking, this class is much better put-together, it is easier to follow, and definitely doesn't suffer the same issues as CMSC414. The course material is relatively easy, and the slides are quite useful. Marsh himself is an alright professor, but his course materials are probably a bit more useful than his actual lecturing. The logistics of the class-- Campuswire, GitLab, etc. -- are not ideal, but they are manageable. The projects are quite tough, but they are in Java! If  you are ready for a decent workload, I would recommend this class. Marsh seems to have a pretty good grasp on how to teach data structures.",
+      "rating": 4,
+      "expected_grade": "C+",
+      "created": "2021-12-09T20:04:37Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC420",
+      "review": "Marsh was very organized and taught very well. Exams and homeworks were very fair and we knew what to expect for them. Projects were very difficult and tested heavily on edge cases, so make sure to start those well in advance of the deadline. ",
+      "rating": 4,
+      "expected_grade": "C-",
+      "created": "2021-12-17T21:49:11Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC420",
+      "review": "I took this course in Fall 2021.\r\n\r\nPros:\r\n+ Very effective lecturer, asynchronous lecture videos had all the content you need but were concise enough to be not too long.\r\n+ Projects are explained clearly and are very doable in the time allotted\r\n+ Listens to student feedback and is very adaptable (especially pertaining to COVID)\r\n+ Is always happy to answer questions\r\n\r\nCons:\r\n- Marsh uses a flipped-classroom model, where you view lecture content at home, and actual lecture class time is used for discussion/answering questions. I was personally not a fan of this, as it just led to there being unnecessary 420 HW and having almost nothing to do during class time. Barely anyone even showed up to class.\r\n- Partial credit is very harsh, you typically lose points for selecting the wrong answer AND not selecting the right answer, so you essentially lose double points\r\n- Compared to midterms, the final felt almost \"abstract\" in its questions, was definitely much harder than the midterms",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2021-12-23T18:45:06Z"
+    },
+    {
+      "professor": "David Mount",
+      "course": "CMSC420",
+      "review": "Probably the best professor in the CS department by far. You can tell he really cares about the students. I had him Spring 2021 (online semester) but he has handwritten \"slides\", printed notes, ad lecture videos for you to learn from. He was engaging and really receptive to student concerns. You could tell he prepared and knew exactly what he was talking about. The exams weren't the easiest, but if you study the content and the homeworks you should be able to get by. I'm pretty sure he said he hasn't had a student get below a C in a long time, so study hard and you'll be good!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-12-23T20:00:37Z"
+    },
+    {
+      "professor": "Aravind Srinivasan",
+      "course": "CMSC420",
+      "review": "Two stars because he was a nice guy.\r\n\r\nI learned very little from this course. He is a tenured professor and it seems that the department threw him in to teach this class after Jason left again. The exams were easy and didn't test on most of the course material. Our midterms were worth 15% each and our homeworks were worth 11% each....\r\n\r\nHe clearly did not prepare to teach this course, and used Dave Mount's notes as a fallback for any lack of preparation on his part.\r\n\r\nThe class was not difficult, but we are here to learn. If you like to cram for exams and learn nothing take him. If you want to actually learn the content take anyone else.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2021-12-24T18:03:41Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC420",
+      "review": "Professor Marsh puts a lot of effort in and makes everything very clear and explicit. The assignments generally help you learn the material well and prepare for the test.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-12-27T17:01:19Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC420",
+      "review": "You SHOULD take Marsh for CMSC420.\r\n\r\nI took the course in Fall 2021.\r\n\r\nProfessor Marsh is an amazing teacher. He had a flip flop style class, where his lectures were posted online and there was a quiz that was due before class time. The online lectures were really clear. The quizzes were unlimited time and you had unlimited attempts, so do you what you want with that information. In class, he went over examples problems that explain the algorithm and they were really really helpful. He recorded those in class lectures too, so you didn't even have to go to class. There were 4 exams that were online and the averages were always in the 80s and 90s. He gave us enough time with the projects (2-4 weeks) and they were all very doable and really helpful in understanding the algorithms better. The projects were all in Java, while there was another teacher who made the projects in C, so this is another benefit of taking Marsh. The final was harder than the other exams since it was more abstract, but it was only worth 10% of your grade and he gave a lot of partial credit, so it was fine. ",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2022-01-28T18:41:52Z"
+    },
+    {
+      "professor": "Michelle Hugue",
+      "course": "CMSC420",
+      "review": "She doesn't teach anything. She simply uses other teachers lectures and YouTube videos. Her exams are INSANELY long (20 pages) and take insanely long to actually complete. If I had the decision to go back in time, even if other professors didn't have space, I would choose another class to completely stay clear of this professor. ",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2022-02-20T22:33:18Z"
+    },
+    {
+      "professor": "Aravind Srinivasan",
+      "course": "CMSC420",
+      "review": "Prof Srinivasan is genuine and cares about his students. \r\n\r\nPeople are saying that he just \"falls back\" on Dave Mount's course material, but to me it seemed that Prof Srinivasan did not lack any knowledge at all on any of the topics we studied. Yes, he does use Dave Mount's course material, but I do not think it is out of laziness... Prof was always prepared and knew his stuff. Dave Mount's course layout is just GOOD, and the extra provided resources were great to have in addition to lecture material. This way, we didnt have to buy an expensive, boring book. Using Mount's course is no different than using a textbook, except Mount's resources are much better than any boring CS textbook. \r\n\r\nHe was very clear with exam expectations, and doesn't make your life hell with homework. \r\nThe projects and homework are representative and provide good practice on what is actually taught in class. \r\n\r\nProf Srinivasan's way of teaching was unique and very appreciated: instead of trying to make you memorize every little detail, what was most important is that you understand the concepts, why they work, when you might want to use them. \r\n\r\nI am so glad that I took 420 with Professor Srinivasan in Fall 2021, I had a very good experience. \r\n\r\n",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2022-02-23T21:30:02Z"
+    },
+    {
+      "professor": "David Mount",
+      "course": "CMSC420",
+      "review": "The best professor I ever had \r\nHis slide and explanation is rational and clear\r\nA question on piazza will be answered within 2 hours ",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2022-03-05T00:31:28Z"
+    },
+    {
+      "professor": "David Mount",
+      "course": "CMSC420",
+      "review": "He teaches way better compared to other CS profs. But he likes proofs. If you are not into proofs like me, then you will be disappointed doing his homework. Other than that, he is nice. If you don't mind being asked to prove something, consider this a 5-star rating. He is good in all other aspects. ",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2022-03-07T20:25:43Z"
+    },
+    {
+      "professor": "Michelle Hugue",
+      "course": "CMSC420",
+      "review": "This lady is very rude and condescending to her students who are simply trying to ask questions. Her attitude made it an environment that was difficult to learn- or want to learn for that matter. I did well in the class, only because I worked hard; she was not a good resource whatsoever!! Exams were absurd and incredibly long. ",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2022-03-12T20:49:09Z"
+    },
+    {
+      "professor": "Michelle Hugue",
+      "course": "CMSC420",
+      "review": "Stay away unless you are only choosing her class for the semester.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2022-03-14T01:23:17Z"
+    },
+    {
+      "professor": "Roger Eastman",
+      "course": "CMSC420",
+      "review": "Don't take him if you can. He sometimes gets lost when he teaches. He tried to make class engaging by asking questions, but his teaching style is not that great. He is not a professor that would say stay away from but try another professor first. Almost forgot; his midterm was very hard, and it was long compared to the time given, so many students didn't do well. \r\nif the other professors you can enroll with are either Hanan Samet or Michelle Hugue, stay away from them at any cost. I repeat, stay away at any cost. If you don't do that you might as well not read reviews. ",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2022-04-11T23:55:57Z"
+    },
+    {
+      "professor": "Roger Eastman",
+      "course": "CMSC420",
+      "review": "I took 330 with Eastman as well, and I got a B+ in that class too.\r\nHe's a super chill guy, always willing to take the time and answer questions.\r\n\r\nMy main complaint is that he's not the most organized. He was going off Mount's notes for most of the semester, but he was also trying to mix in a lot of runtime analysis and derivations for the data structures we were covering, and sometimes that leads to the lectures being slightly confusing.\r\nExams are also long and pretty difficult. But overall the class is manageable and interesting.\r\n\r\nIf you have Eastman for a class you'll be fine.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2022-04-28T05:18:17Z"
+    },
+    {
+      "professor": "David Mount",
+      "course": "CMSC420",
+      "review": "One of the best professors in the CS department. His notes and short lectures are incredible, and he has the class fully figured out and knows exactly how to teach it.\r\nHe's really into proofs though, and if you're challenged in that area then homework and exams might be a pain. But Mount really wants you to succeed and he provided as many resources as he possibly could.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2022-04-28T05:21:30Z"
+    },
+    {
+      "professor": "David Mount",
+      "course": "CMSC420",
+      "review": "Can't go wrong with Mount, his exams are on the difficult side but it follows very closely to the homeworks. If you understand and can do the homeworks you should be fine on the exam. This class is also curved at the end of the semester so as long as you do average on exams you will pass. He also answers piazza questions thoroughly and in a timely manner.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-05-05T21:46:09Z"
+    },
+    {
+      "professor": "David Mount",
+      "course": "CMSC420",
+      "review": "as said by the other reviews, just an amazing professor. highly recommend!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-05-19T01:42:34Z"
+    },
+    {
+      "professor": "David Mount",
+      "course": "CMSC420",
+      "review": "Personally, the lecture style wasn't for me as it was a lot of reading off notes, with a few examples here and there. My biggest gripe is that by using pre-written notes, he was able to cover so much material, to the point where it was overwhelming. He does provide a lot of forms of the material which is nice. For each lecture, he had latex notes, handwritten notes (he presented these in class), in-person lecture video, and a prerecorded video where he creates and explains the handwritten notes. As others mention, he is a bit more theory-heavy than some other profs. The course was overall easy (except for exams... which required a lot of prep but were mostly fair), but I will be honest in that I don't feel like I learned much. This is because the projects were simple enough where they didn't really require too much understanding and the homework was infrequent enough that you could get away with just trying to match the lecture notes procedures, rather than truly understand them. Some of this is my fault for sure, but the limited amount of assignments meant I wasn't practicing concepts. Anyway, I would say the course is fairly easy except for exams. Mount is a very nice guy though and he'll tell you if you're on the right track with homework and other assignments. Last thing, you are allowed one two-sided cheat sheet for each exam, and you can bring previous cheat sheets to subsequent exams (one sheet for first exam, two for second exam, three for final). The cheat sheet policy is nice but means that there can be more difficult exam questions. Prepare your cheat sheets carefully because they can really help with certain questions. He always provided ample practice material for exams, so that was nice.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2022-05-21T14:56:26Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "Very good lecturer, however, made this course seem like 4 credits instead of 3. \r\n\r\nExams were fair and averages were good, however the projects were insane. During Thanksgiving break he modified a Mount project which only had 3 required methods to implement, and instead required us to do 8, along with ML which was a topic not previously discussed in the course--hence the 2/5 stars. \r\n\r\nI would not recommend him for this particular course. He also wasn't very helpful if you had coding questions and was curt on Piazza sometimes. \r\n\r\nStick with him for MATH courses, not CMSC.",
+      "rating": 2,
+      "expected_grade": "B-",
+      "created": "2022-11-20T21:03:05.777714Z"
+    },
+    {
+      "professor": "Hanan Samet",
+      "course": "CMSC420",
+      "review": "Doesn't know what an HDMI cable is, haven't personally taken his class, but be warned, he knows not what he says!",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2022-11-30T00:38:03.027705Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC420",
+      "review": "The course is very well organized and the professor and TAs respond quickly and do adjust the course based on how the course goes.\r\n\r\nHe uploads pre-recorded lectures which do a great job of explaining stuff that I had to go to lecture 0 times to do well in the course.\r\n\r\nTests were all online. For the first test out of four,  most students thought the format was bad as drawing trees and uploading them took most of the time rather than testing the concept. So subsequent three tests had no drawing of the tress. \r\nAll test materials were directly covered in the class so if you paid attention or put some time in, you will do well.\r\nProfessor actually does listen to student feedback and is willing to adjust if students have point.\r\n\r\nProjects are straight forward and all grades come from semi-public tests and no secret tests.\r\nWe get plenty of time for the projects as we only had 5 projects throughout the semester.\r\nAnd material necessary for the project was taught at least 2 weeks before the due date so we got plenty of time.\r\n\r\nI am no genius but before taking the final, which is 10% of our grade, my grade currently sits at 96%. If you put in work in this course, you will get results. No surprises.  \r\nI would be sitting at 98% if I didn't miss quizzes due before each session which has unlimited tries. I just forgot about them sometimes.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-12-07T03:17:41.393898Z"
+    },
+    {
+      "professor": "David Mount",
+      "course": "CMSC420",
+      "review": "Mount is simply amazing with the amount of effort he puts into the class and does everything in his power to help you succeed.\r\n\r\nHe provides more than enough resources with extremely in-depth project descriptions, lecture notes, and practice exams. If that wasn't good enough, he's a genuinely cheery and nice guy who goes off on interesting tangents about the history of the material he's teaching as well, oftentimes joking that he's old enough to know the people who invented the ideas he's teaching us. Given this, he obviously knows the material really well and it's common for him to provide multiple clear examples during lectures that make his explanations really clear. His Piazza responses are absolutely legendary - clear, and provide additional and interesting insights that are always worth a read. He sometimes even goes as far as drawing figures to answer a student's response just to give a visualization.\r\n\r\nThe class itself was also quite interesting on its own. As other reviewers have mentioned, it is rather theory-heavy, but Mount also does a good job at sprinkling general best-practice information as well. Projects are generally pretty easy as the project handouts are pretty good at giving you the right idea. Homework and Exams are difficult but overall very fair given the amount of practice he gives you and how well the problems relate to what is actually taught in class and given in the practice. Overall, if you listen during lectures, do a quick reading of the lecture notes, do some of the practice he gives, and then prepare your \"cheat sheet\" with general ideas and relevant code snippets, you'll be able to do well. \r\n\r\nNo regrets about taking Mount. It was nice having his positivity brighten up my mornings.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-12-13T06:56:24.762259Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC420",
+      "review": "The GOAT. Would definitely recommend taking him for CMSC420. \r\n\r\nSome notes about his class:\r\n- Projects were weighed pretty heavily on our grade. It is important to keep in mind, however, that projects aren't trivial and definitely require starting at least a week in advance. That being said though, all of the projects are posted at the beginning of the semester, so we had quite some time to finish them.\r\n- We had 4 module tests. As long as you know the concepts well, they aren't bad at all (very reasonable).\r\n- This class follows the flipped-classroom model, which I actually really liked. We learned course material through prerecorded lectures, had quizzes on the material (unlimited attempts), and reviewed the topic/completed relevant exercises during the actual lecture time. Sort of like discussions, except you get to talk to the Professor and review material that way.\r\n- Everything was available online for us-- exams, quizzes, lecture notes/recordings/the annotated exercises/etc.\r\n- The final was kind of abstract (and somewhat harder than the module tests), but Marsh told us what to expect since the very beginning of the semester, so definitely no surprises there.\r\n- TAs were great for this class and gave quick and detailed replies\r\n- Marsh is very understanding, does his best to answer questions, and works well with feedback. Also, his shirts for the Zooms were always the best!\r\n\r\nAgain, would recommend!!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-12-22T15:32:03.476283Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC420",
+      "review": "one of the goats. i slacked off near the end but the exams and projects are extremely fair. the final is worth only 10% of your grade. all the lectures are online while the actual lecture time in class is a q/a style or office hours which is handy when u r stuck on projects or concepts. i really enjoyed this style of teaching, i knew what to expect in terms of assignments and could plan in the future as everything was already posted and online.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2022-12-26T18:02:23.855584Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC420",
+      "review": "I first saw his reviews being like a 3 star and I was worried because the other professors like mount had 4/5 stars. But alas, if you look closely youll see all the low reviews are from his 414 course. I cannot speak about those courses but cmsc420 was a very positive experience.\r\n\r\nThe projects were all given at the start of class and you could pretty much start working on them early. They were somewhat challenging but the projects made most of the grade so with enough effort getting a 90+ on the projects wasnt hard.\r\n\r\n\r\nThe unit exams were very fair and were only like 5% each. \r\n\r\nThere were lecture quizzes you needed to complete but those had unlimited attempts so it was an easy 100. \r\n\r\nIt was a flipped classroom model meaning the lectures were all prerecorded and the class time itself was just like a discussion session. I personally never went to class but before exams id study the problems done in those sessions.\r\n\r\nFinal was randomly abstract and hard but i got a C on that and still maintained my A in the class\r\n\r\nthe class itself was very like focused on the content like how to add and remove stuff from a structure versus in mounts class you would do like deep proofs and analysis of time complexity which we never really talked about in this class\r\n\r\nCompared to my friends in mounts section I can definitely say Marsh is easier than Mount in cmsc420",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-12-30T05:09:48.721618Z"
+    },
+    {
+      "professor": "David Mount",
+      "course": "CMSC420",
+      "review": "Mount is a great professor, he has both Latex and hand-drawn notes for every topic, and these are very clear in understanding the different data structures/concepts. He is a great lecturer, and is understanding of student concerns (adjusting difficulty of exams), and has a great grasp of the material that he teaches. Overall, a very knowledgable professor and an interesting class.  My only issue would be that that the homework problems are often changed days after release, and that the project code he provides does sometimes have bugs. However, once notified, he usually fixes these ASAP and is very active on Piazza. As for the difficulty, the projects were not too bad, and the HWs/exams were difficult but always very fair with plenty of practice material.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-01-02T17:44:29.940219Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC420",
+      "review": "Great teacher for 420. As everyone else says, he does a flipped classroom model which means you don't have to go to class ever. He does go over useful examples for tests in lecture, but he uploads all his notes. A lot of the time the lecture videos assigned for a day were less than the lecture time (75 minutes). You have ELMS quizzes due before every class, but you get unlimited tries and they are 5% of your grade. There were 5 projects for a total of 60% of your grade. Most of them weren't that difficult, although as a warning there was a super hard part for the warm-up project for some reason. There's plenty of time in between projects and it's 100% release tests. He evens posts all the projects at the beginning of the semester. There were 4 module tests that accounted for 25% of our grade. It was a little annoying since we would sometimes have module tests two weeks apart from each other, and there was one like a week before the final. These tests were easy and online, however, with averages in the high 80s to 90s (one of the tests had a median of 100). I also ended up liking that we had smaller tests instead of 2 big midterms, since it made it easier to study. The final was definitely much more conceptual and abstract, but it was only 10% of our grade and he graded it pretty easily with averages in the 80s again.\r\n\r\nBottom line: Comparing my experience to my friends in other classes, Marsh is definitely the easiest 420 teacher. I don't know if he is as good as Marsh at teaching, but you still learn a good amount in his class. He has easy tests and heavily weighted (and not that difficult) projects.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-01-11T22:58:17.123304Z"
+    },
+    {
+      "professor": "David Mount",
+      "course": "CMSC420",
+      "review": "I didn't find the material all that engaging, but Prof. Mount is a very nice guy, gives pretty good lectures, and has excellent hand drawn and Latex notes available on the class website. The programming assignments and homework problems were also reasonable.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2023-01-22T04:58:02.356969Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC420",
+      "review": "I think Marsh really nailed 420. He has a rhythm in how he teaches a class and it really is on the student if they do not leave with an A+. I blame myself for not achieving an A. A few more hours focusing on the projects or tests, and I would have easily left with it. I will say, the first project was pretty difficult, because it was a slap in the face of everything I forgot about Java. Other than the first project, he extensively goes over each project in his slides and in his lectures. If you read up his slides, attend lecture, and ask questions, this class should be an A for you.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2023-02-02T02:25:34.206133Z"
+    },
+    {
+      "professor": "David Mount",
+      "course": "CMSC420",
+      "review": "I took this class back in the late 80's, David Mount is one of the most likeable and caring person I've come across in all my years.  Everything I read here is spot on.  He really wants you to succeed, is a great lecturer and inspires confidence in his students.  Great person inside and outside the classroom.  Looks like he continues to be a consistently great teacher.  So glad I took his course.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2023-03-13T20:09:35.201674Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "great lecturer but the course just becomes cmsc351 part 2 and sinks heavily into theory so if you didn't like that then take cmsc420 with mount",
+      "rating": 2,
+      "expected_grade": "B-",
+      "created": "2023-04-03T01:57:50.476789Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "Justin is very responsive to student feedback. A lot of students complained that the course was too proof-based, but I actually liked it with more proofs. Anyway, he adjusted and now focuses more on testing that you have the right intuition for the proof rather than doing a formal proof. Some students also complained about project deadlines, and he was flexible with those. Honestly, those students are ridiculous because most of our projects were made available more than a month in advance, and they are pretty easy.\r\n\r\nThe lectures are really clear and he always makes it obvious what material you will be tested on.\r\n\r\nHomeworks and exams are also not too hard.\r\n\r\nThe reviews from last semester aren't very good, but that was his first time teaching it. Practice makes perfect, I guess.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-04-30T18:57:18.666986Z"
+    },
+    {
+      "professor": "Hanan Samet",
+      "course": "CMSC420",
+      "review": "Pros:\r\n1. Incredibly knowledgeable about his materials. Even Donald Knuth mentions his name in The Art of Computer Programming.\r\n2. Very practical and intuitive approach to data structures. Very different from theory and proof-heavy professors like David Mount, Roger Eastman, or Justin Wyss-Gallifent. His focus is on building software rather than theoretical exercises.\r\n3. Homeworks are incredibly easy.\r\n4. Professor and TAs are generous graders.\r\n5. He lets everyone take the exam for as long as they need.\r\n6. His slides are works of art. They were prepared in 1995, but they are so good, they require no changing.\r\n7. The best thing in the class is his book, Notes on Data Structures. I have never read a better data structures book in my life. The closest that comes to my mind is Programming Pearls by Jon Bentley. It's very intuitive and detail-heavy. Almost no mathematics.\r\n8. You get to learn how a Lisp interpreter works. Lisp projects are easy too.\r\n9. You'll never be afraid of implementing an incredibly complex data structure in a low-level language like C after finishing the quadtree project.\r\n10. Professor Samet is quite entertaining, and you will enjoy him if you have a sense of humor.\r\n\r\nCons:\r\n1. The pseudocode on books and slides are incomprehensible for us Pythonnials.\r\n2. There are two descriptions for the quadtree project: a new and an old one. The old one is backdated and has wrong information. The new one is correct. You'll be given both.\r\n3. If you do not contact the professor and TAs constantly, you will very likely not be able to do the project from description alone.\r\n4. The TAs are graduate students and never did the project themselves. They are unable to answer your questions about the project correctly. Even if they do, they're mostly wrong.\r\n5. The quadtree project changes a bit every semester, so professor mixes up the details. He might give the wrong answer to your question.\r\n6. The project is an extensive exercise in C programming. Requires a lot discipline, organization, and patience.\r\n7. His voice is not as loud as a random young professor, but he uses a mic, so that's not a problem. The problem is you might not like lectures if you are expecting a loud young screaming professor.\r\n\r\nGiving him a 5 star despite all that just because he can teach you the way he thinks, and you will not find another man in UMD who thinks like him when it comes to data structures. It just requires some patience.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-01T16:05:56.610287Z"
+    },
+    {
+      "professor": "David Mount",
+      "course": "CMSC420",
+      "review": "Professor Mount is a very reasonable person. He gives you every resource under the sun to help you succeed. He uploads lecture notes, lecture recordings, detailed notes, and \"sped-up\" recordings with only the most important info included. He promptly answers all piazza questions and will often extend deadlines based on how students feel and if he feels there isn't enough time. That being said, his lectures can be disorganized at times and you tend to learn less than Justin's sections (in this particular class). Also, the exams were quite challenging, but Mount gives generous partial credit points, so it is hard to outright fail (although its nearly impossible to get an A on them). The projects/HWs were difficult but sparse, and we had plenty of time to do them (although I always procrastinated until the last day). Overall, I'd highly recommend David Mount for this class as you likely will be able to pass.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-12T19:33:54.100017Z"
+    },
+    {
+      "professor": "David Mount",
+      "course": "CMSC420",
+      "review": "Probably the best CS professor I've had at UMD no doubt. This guy is the absolute package. His homeworks and projects aren't too hard, and if you're stuck you can ask him questions on Piazza or during office hours he's very responsive and will even give you big enough hints to solve the problem on your own. Exams are not that easy so you just need to study and brush up on many of the proof techniques such as induction and just overall pseudocoding questions. As long as you practice then you should be fine assuming you do well on everything else.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-16T00:41:01.735685Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "After hearing about some of the complaints last semester in regards to his 420 teaching, I was a little skeptical about picking him over Mount. But when in doubt, always choose Justin. He makes things clear and concise, is very fair, and approachable, and best of all is extremely receptive to feedback. This is my 5th class with Justin and I can say time and time again that my experience with him has always been pleasant. He is the genuinely the best professor I've had and I can always recommend a course with him no matter what it is.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-17T04:37:59.524070Z"
+    },
+    {
+      "professor": "David Mount",
+      "course": "CMSC420",
+      "review": "Excellent lecturer with very entertaining stories about data structures and their history. Only 4 homeworks (we were even allowed to drop 1) and 3 projects, all of which were pretty doable. He did have a habit of extending assignments and doing a lot of stuff last minute because he is a researcher primarily. Incredibly responsive on Piazza.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2023-05-18T01:55:29.302528Z"
+    },
+    {
+      "professor": "David Mount",
+      "course": "CMSC420",
+      "review": "Probably the best professor I've had at UMD and definitely the best in the CS department. Mount seems to really enjoy teaching (every lecture he is in high spirits) and really knows his stuff in the field of Data Structures. He really cares about everyone's education and is very lenient with partial credit and grading. The workload of the course is not bad. 3 major coding projects and 4 HWs (similar to 250/351 HW).",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2023-05-19T03:44:10.447458Z"
+    },
+    {
+      "professor": "David Mount",
+      "course": "CMSC420",
+      "review": "Professor Mount has been my favorite Professor that I've ever had. This class, his LaTex notes, slides, and recorded lectures provided everything you need to succeed and I felt challenged in a way I never have been before. He is a great Professor with a lot of knowledge and I would suggest taking any class he teaches.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2023-05-20T11:47:27.912359Z"
+    },
+    {
+      "professor": "David Mount",
+      "course": "CMSC420",
+      "review": "Going with everyone else here: Mount is a great professor, and he makes his class relevant both interesting and makes the content manageable and his lectures digestible. It's clear that he cares a lot for students as he records lectures, keeps good notes on all of his lectures, and answers all the questions on Piazza with his own takes and explanations. \r\nOverall, his exams, homework, and projects are not all that bad. My grade only suffered this semester because I procrastinated on a rather difficult project, so it's in your best interest to start projects early.",
+      "rating": 5,
+      "expected_grade": "B-",
+      "created": "2023-05-20T15:17:17.394009Z"
+    },
+    {
+      "professor": "David Mount",
+      "course": "CMSC420",
+      "review": "Take this class with Mount. His class is one of the few upper level compsci classes at UMD where you will not only learn a lot but if you at least try a little bit, you will pass. If you try a lot, you'll get a great grade. I kid you not, a 50% in the class was a C- when exam and project averages were in the 70's and 80's.",
+      "rating": 5,
+      "expected_grade": "B-",
+      "created": "2023-05-24T14:02:47.390427Z"
+    },
+    {
+      "professor": "David Mount",
+      "course": "CMSC420",
+      "review": "David is amazing, and that is putting it lightly. He truly loves the work he does, both as an instructor and a researcher. You can see his passion for data structures the first minute you enter the lecture hall, and you can also tell how much he wants his students to succeed. The course itself has pretty interesting content, but it can be boring at times. The truth is, I only went to lecture on the first day, and the days of the exams. I learned the rest of the content through his fast-forward lecture videos, which are truly amazing. They relay so much information in such a short amount of time. Not only that, but they are not boring at all. The programming assignments are very long in terms of the documentation, but they aren't very difficult in terms of coding. He offers extra credit for all homeworks and projects, which can help you bump up your grade at the end of the semester. All in all, this was a great class and I am glad I took it. I highly recommend taking Mount for anything you can",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-25T23:22:54.905773Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "Justin is slowly but surely making his rounds through the CS courses, and he taught 420 reasonably well. I will say, I've had Justin 3 times by now and its pretty standard what to expect with him: his notes are always AMAZING - makes it hard to want to go to class hehe; his midterms are usually easy (but watch out for the final!!!), and overall his homeworks are manageable and graded leniently.\r\n\r\nHe had a few hiccups with teaching some of the content in this course, but imo that's to be expected since he's only jsut recently started teaching CS courses. This course also had some projects and they took time and effort, but definitely were no biggie. Love Justin, he's the goat!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-26T19:01:08.675951Z"
+    },
+    {
+      "professor": "David Mount",
+      "course": "CMSC420",
+      "review": "1. Did you find the exams and major assignments fair? \r\n\u00b7 Fair exams. Mount provides practice problems with answers and past midterms.\r\n\u00b7 Midterms can be time-constrained. Pace yourself. The final exam is not time-constrained.\r\n\u00b7 Homework due before each exam, no late submission. Review each homework in the class before the exam. 1-2 questions on the exam are very similar to the homework questions. \r\n\u00b7 The exam averages range between 75 and 80, and overall, they are fair with usually one curveball question. The exam format typically consists of 30% short answer theoretical questions (multiple-choice/fill-in), 30% pseudo code, 10% drawing tree operations, and 20% theory longer questions. \r\n\u2013\r\n2. Did you feel the professor had reasonable expectations for the students in the course overall?\r\n\u00b7 4 written homework assignments, covering theory, tree operations, and pseudo code. Directly applied to the exams, 3-4 hours each. \r\n\u00b7 3 projects, 8 hours each. Straight forward with Mount\u2019s detailed descriptions.\r\n\u00b7 Exam prep, 8-10 hours. Very clear expectations, format. Do the practice problems, review the past exams and especially the homework, and go through emphasized points during lecture. \r\n\u2013\r\n3. Did you like the professor's teaching style? \r\n\u00b7 Provided a brief history for each data structure, as he had direct knowledge of or connections with the creators.\r\n\u00b7 I appreciated that the lectures focused on the essential content for exams. Occasionally, the lectures delved into theory, but Mount made it clear which theories we should and shouldn't prioritize for exams. \r\n\u00b7 Very flexible format with all recorded lectures.\r\n\u00b7 As other reviews have mentioned, there is a theoretical focus for homeworks and exams. I think some theory is necessary to think critically about using and creating data structures. If you\u2019re not a theory person, you can still succeed by doing the practice problems and reviewing relevant theoretical portions of lectures.\r\n\u00b7 The professor releases homework 1 week before the due date, but provides 2+ weeks for projects. \r\n\u2013\r\n4. Was the workload appropriate for the number of credits? \r\n\u00b7 Yes, the workload was fair/on the lighter side.\r\n\u00b7 See hourly breakdown per assignment category above.\r\n\u2013\r\n5. Was this course valuable or a waste of time? \r\n\u00b7 Valuable to efficiently work with and manipulate trees. \r\n\u00b7 Relevant for competitive interviews and working with trees in general. I\u2019ve used the concepts from this course when doing leetcode.\r\n\u00b7 Understanding how to guarantee logarithmic height in practice was the key theme in the class! We explored rotation, rebuild, split/merge/adoption, and random number generator to ensure balanced height. Other important concepts were B-trees, tries, and memory management. \r\n\u00b7 Projects taught useful concepts such as locators for tree nodes, internal/external node structure, comparators, and traversals.The 1000+ line project was a valuable exercise. \r\n\u00b7 Working directly with Mount was a pleasure because he genuinely cares about students' education and growth. \r\n\u2013\r\n6. How much support did you receive throughout the semester (office hours, extra resources, etc.)?\r\n\u00b7 Mount provided the most support among all the professors I've ever had. \r\n\u00b7 Provided fast-forwarded lectures, recorded in-person lectures, latex notes, and hand-written notes. Personally, I found the hand-written notes and in-person lectures sufficient for success.\r\n\u00b7 He answered every single question on Piazza, providing thorough responses and marking every question as a \"good question\". If you were stuck for a while, he was willing to download your submission from Gradescope and help identify what went wrong. \r\n\u00b7 He offered extensions when needed, had lenient grading policies, and allowed regrades indefinitely. He was the only professor who shared exact grade cutoffs, and regrade requests could be submitted even after the semester ended. \r\n\u00b7 Mount was always available to answer questions during and after class, and he provided extra office hours before exams. He even conducted a final exam help session on the weekend the day before final.\r\n\u2013\r\nTLDR: Mount is an excellent professor who provides fair assignments, a manageable workload, and ample resources for success. The course covers important concepts for a software engineering career. Mount's enthusiasm and experience as a lecturer make the early morning classes enjoyable. Even though lectures are recorded, make the effort to attend! I highly recommend taking any course with Mount!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-08-26T00:18:45.119988Z"
+    },
+    {
+      "professor": "Eashan Siddalingaiah",
+      "course": "CMSC420",
+      "review": "Amazing TA. Responds to questions quickly and is very helpful during OH.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-10-16T18:39:58.493940Z"
+    },
+    {
+      "professor": "David Mount",
+      "course": "CMSC420",
+      "review": "David Mount is super passionate about data structures, and it makes him such a great professor. His exams are difficult, but they're all very fair and you get a cheatsheet for each one. Overall, a really well taught, organized class and great lectures/notes.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-10-16T20:17:29.424303Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "take marsh, save yourself the pain of doing unnecessary proofs unless you absolutely love math",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2023-10-18T22:35:46.606208Z"
+    },
+    {
+      "professor": "Eashan Siddalingaiah",
+      "course": "CMSC420",
+      "review": "Bro saved my grade I was about to get a W and now I'm getting the other kind of W.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-10-30T21:42:50.300555Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "This guy is absolutely amazing. Empathetic and has interesting lectures that actually made me want to go to class. Every assignment was challenging enough without making you want to rip your hair out. Every topic is explained in full detail and the lecture notes are very easy to comprehend. Studying for the final wasn't difficult because each project required a thorough understanding of the topics. Cool accent too :D",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-12T00:55:34.413951Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "This class is easy for a 400 level. Dont have much to say about Justin that everyone else has not already said.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-12T18:46:26.515446Z"
+    },
+    {
+      "professor": "Hanan Samet",
+      "course": "CMSC420",
+      "review": "Very hard to follow his lectures, lost track of slides frequently. Quadtree project was written in C and guidance for it was in the book he wrote, very difficult. I felt like the whole class was a trial by fire due to the lack of support and difficulty of understanding lectures.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2023-12-14T16:05:15.082851Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC420",
+      "review": "Honestly such a great teacher. Please actually watch the lectures and you will learn a ton from this class. He cares a ton about his students",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-18T00:03:24.148248Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "He was definitely knowledgeable about the stuff, projects seemed fair, not bad.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2023-12-20T01:15:17.007973Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "Passionate teacher and cares about students\u2019s learning. Don\u2019t really enjoy taking a CS class with a math focus though.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2023-12-20T14:07:02.833383Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "Justin is a great professor but the class had too many proofs in my opinion, even though it seem to go down from last semester. My main issue was just how much more work this class was compared to the people who took 420 with Marsh did. Overall not a bad class, just unfair compared to marsh.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2023-12-20T14:54:21.337718Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "It's Justin, great lecturer and passionate about his students. Class is easy but has more of a math emphasis than other CS classes IMO which I don't really enjoy.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2023-12-21T02:14:08.745373Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "He's Justin.\r\nFair, charismatic, and one of the best profs at the university.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2023-12-21T18:34:49.467425Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "He's a nice guy and cares about his students.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2023-12-21T19:55:11.406926Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "Great class and professor. Gives very specific exam outlines beforehand so you know what to study. Homeworks and projects are challenging, but very doable if you put in the work.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-22T16:22:51.065598Z"
+    },
+    {
+      "professor": "David Mount",
+      "course": "CMSC420",
+      "review": "The most glowing review I have for mount is that I took 420 with an entirely different teacher, and mounts 10 minutes videos were far better than any of the full lectures I attended.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2023-12-23T10:29:29.891381Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC420",
+      "review": "I really liked having Marsh for 420 and would highly recommend this experience. This semester is his first semester using a standard-based grading system, so if you completed all of your projects and got 100% on them, got 100% on all of the quizzes, and got a certain amount of \u201cExcellent\u201d for your \u201cexams\u201d, then you would have a guaranteed A. I really liked this style because I knew exactly what I had to complete to get the grade I wanted, and this style forces you to complete your work. There was no curve, and you were not competing with your peers which made the class feel more like a team effort.\r\n\r\nLike other reviews mentioned, he uses a flipped classroom style so you watch \u201clecture\u201d videos before class, complete a quiz, and during class, it is like \u201cdiscussion\u201d where he goes over examples of the data structure. Class kind of felt optional because it was recorded if you really wanted to review it, but he did a good job at keeping track of the notes and posting them if you wanted to reference them later. He is very friendly and knowledgable though, so it was nice to come and support in class. I found this flipped classroom style a little bit difficult for me because it felt like I had to teach myself if I was confused on how to complete the quiz, but this issue was mainly resolved by my next point.\r\n\r\nThere are \u201csoft\u201d deadlines for projects, online quizzes, and online exams (challenge problems) in the class, but you technically have unlimited attempts and until the end of the semester to get 100% on these assignments because you can request for extensions without penalty. If I was confused on how to do a quiz, I could eventually brute force the quiz until I got 100% because the question bank eventually repeats, or I could come to class to watch him do a few more examples and ask questions.\r\n\r\nThe \u201cexams\u201d were not as intimidating as they sound, and I really value Marsh because of the challenge problems. There are 4 problems to complete after each unit, and the questions still force you to understand the data structure (minus all of the theory and math that might be associated with other 420 professors\u2026). I would allocate 1-2 hours to completing the challenge problems per each unit. The final exam was also a set of 4 challenge problems. These exams were little to no stress since if I messed up, then I could get feedback (except for the final) and re-submit. \r\n\r\nThe projects were moderately difficult, but doable if you give yourself enough time and seek out help if you are dying. I would suggest following the soft deadlines that Marsh provides to stay on track because I felt like he gave an appropriate amount of time for each project. I remember he said as long as you dedicate enough time to this class, you can get an A, and I really do agree with this statement.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-12-23T17:41:24.206880Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "Overall, Justin proves to be an amazing instructor in all aspects. The grading for this course was Homework = 100, Coding = 200, Exams = 2x100 = 200, Final = 200, Total = 700. Your two lowest homework grades are dropped and your lowest coding grade was dropped (there were 6 projects in total). Homework was just testing your understanding of the data structures, including doing some proofs/calculations. Projects had you implement the data structures in Python with a possible slight twist, they weren't easy but they also weren't unreasonably difficult. All of the projects used public tests, so you knew your score immediately upon submission.\r\n\r\nPros:\r\n- The lectures were engaging and helpful. Justin explains things thoroughly and uploads his notes to ELMS.\r\n- As always, Justin's accompanying notes for this class are amazing. Always in full detail with rare mistakes, and contain everything you need to know for the homework, projects, and exams. If you want to take an early look at the course contents, just search up \"Justin cmsc420\" and you should find his notes.\r\n- Justin always had a review session before every exam. He explained all the concepts you needed to know for the exam, and provided a brief description of what each exam question would be about. I felt more than prepared for every single exam. The exams were fair, and he provided plenty of practice with the homework and past exams. Justin was also very lenient with project deadlines. He pushed them back if people said they wouldn't finish in time.\r\n- Grading was done pretty quickly, probably a week or so for exams. The median scores were always high (high 80s, low 90s) so there isn't much trouble there. No curve, but Justin says he bumps you if you are close.\r\n- His office hours were helpful, I only needed to go once though. The class also has a Piazza so you can ask questions there. Justin occasionally looks at Piazza, and the TAs were usually looking too.\r\n- The course content and projects are valuable and helpful for the future. Understanding data structures is important and I believe that I have a good understanding of many valuable data structures, their purposes, and how they are used.\r\n\r\nCons:\r\n- The only real con I have is that the final is cumulative. You have to remember a ton of content about the course, which can take a lot of prep time away from your other courses. However, you do get a notes sheet for the final, so my preparation basically just consisted of creating that notes sheet and doing all the problems from past exams. This was good enough to score well. We didn't cover all of the material in his notes, so there is some content that we missed. \r\n- People seem to say that the proofs are excessive, but I personally didn't find this to be true. The hardest proofs on the exams were basically just slight variations (or even exact copies) of proofs on the homework or the online notes. He also alludes to which proofs you need to know for the exams if you go to the lectures. If you understood why those work then you should not have a tough time. Generally speaking, yes you will be doing some amount of math but only as it applies to how the data structures work. If you seriously hate math that much, then yes maybe you are better off going to another professor. You will still have to do some form of math for this course, it's just how these data structures work.\r\n\r\nTaking this course was extremely valuable. I highly recommend taking CMSC420 with Justin.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-12-24T19:28:45.839833Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "Personally, this class was not my cup of tea. Homeworks were 351ish and really hard at times. Projects here challenging, but I enjoyed them for the most part, however they were probably the hardest ones I've seen throughout the cs program so far. As long as you start everything early and take the time to review the notes often, you'll be fine.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2024-01-01T19:00:08.922351Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "Boring class. Too much math/proofs in a CS class IMO. Nice guy though, very passionate.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2024-01-04T02:39:01.988085Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "Justin's lectures and notes are comprehensive. If there are no major changes to his curriculum, be prepared for weekly homework assignments (he'll drop the lowest score out of 11) and coding projects every 2-3 weeks (he'll drop the lowest score out of 6). On the positive side, Justin provides a helpful exam outline during the review day, along with to previous exams and their solutions. Furthermore, he is flexible with deadlines upon student request.\r\n\r\nPros:\r\n+ Justin is a concise and responsive professor, adept at explaining complex concepts with clarity.\r\n+ He and his TAs are supportive, ensuring timely assignment grading and effective communication.\r\n+ The homework and exams are fair and reasonable.\r\nCons:\r\n- The class workload resembles CMSC351, with occasional challenging proofs, although they are kept to a minimum.\r\n\r\nTips:\r\nMake use of TA office hours and visit Justin's office for any questions or clarifications.\r\nAttend lectures, especially if you prefer a hands-on approach over simply reading latex notes.\r\nUse practice exams and thoroughly review homework and latex notes, particularly for proofs.\r\n\r\n--> Overall, I highly recommend Justin as an instructor. However, if you lean towards a more flexible class structure, Marsh might be a preferable choice.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2024-01-11T14:35:19.120887Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "CMSC420 was a miserable experience for me. I felt like he was very thorough and organized in lecture, but his exams leave no room for error and because he is doing well at his job, i will not lie, it just made it hard for me to adjust. It felt like 420 should have been a 4 credit class because we had 1 homework due every week and then a project every two weeks. So it was just hard for me to get into the routine of class and then also the topics are interesting but if I were to relive my semester, I would probably look towards other classes to save myself the pain.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2024-02-10T15:55:00.753602Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "- very good notes posted online, it has everything you need to succeed (just make sure you read them and take time to actually digest it!)\r\n- very interesting and funny guy\r\n- you should attend every lecture or else you risk quickly falling behind\r\n- a few proofs you have to work out, you need to be able to generalize these proofs for the homework and each exam tends to have 1 or 2 proof questions of moderate difficulty (nothing like 250 or 351).\r\n- you should get an A as long as you put in a decent amount of effort\r\n- A lot of reviews emphasize how this course if proof heavy. There are a few proofs here and there that are important, but most of them aren't hard to recite and generalize, plus he gives you a breakdown of the exam question types so you can prepare ahead of time for the proofs he will assess you on.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-03-07T14:53:34.957674Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "Like people have said, any course with Justin will be an awesome course experience. Great notes, great lectures, fair exams, super nice guy. Take his class if you can!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-03-15T13:14:22.242203Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "GOAT",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2024-04-17T21:52:57.414364Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC420",
+      "review": "Everything is asynchronous, online, and self-paced. There is \"class time\" but it is optional and only for questions. All the quizzes take maybe an hour to do each, and they have infinite retries, so you can keep doing it till you get 100%. Same with projects, no secret tests. I honestly don't know how anyone doesn't get an A+ in the class lol. Everything also has no due date, so you can do everythin up till the last day of the semester (although I wouldn't suggest that since the projects do take time, but they're fun!)",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-04-30T18:50:53.049564Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "This is my 4th time having Justin and like others have said, his classes are always pretty straightforward. You can expect fair exams that take only a few hours of studying for. There is usually 1 hw a week which takes a few hours to do. And the projects in this class are also mostly easy. I stopped going to class halfway through the semester and still was able to perfectly understand the content by looking at his notes. That being said, I do feel like Justin is a bit overrated because of his personality. He's definitely in my top 5 teachers, but not GOAT status like many people claim.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-05-10T19:59:27.025529Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "Definitely one of the best teachers I have ever had. The course started really hard for me it was very math heavy and I thought I was going to drop it. Luckily I didn't because it definitely got more doable over the semester. Justin is a really great teacher, and its well worth going to lectures but you dent really have to because his online notes are also so good. Justin is also just cool and chill which is a crazy combo. Overall the class is not too hard and Justin is a big chiller would def recommend.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2024-05-13T16:35:17.528059Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "Took Justin again for 420, so I'm going to give him another 5 star. The only assignments are homeworks, coding projects, and exams, most of which were pretty easy. Lectures weren't mandatory, and notes were posted online. Our final was take-home and open-note and it was really easy too. It truly feels like Justin cares about our learning in the course. Highly recommend",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-18T19:15:54.319797Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "Justin is Awesome!!! I really love his class. He is the true GOAT!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-05-18T19:57:44.867205Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "In this class you learn about various obscure data structures, most of them being variations of self balancing binary trees. Justin\u2019s lectures and notes are great as usual. I recommend studying using his Latex notes from the Justin\u2019s notes website, as they go a lot more in depth than the handwritten class notes. The class consists of 2 in-person midterm exams, an asynchronous take-home final, weekly homework assignments (2 of which are dropped) and 6 coding assignments throughout the semester. The coding is all done in Python, and Justin drops your lowest scoring coding project (drop the B-tree project trust me \ud83d\ude2d) Overall I think the course content isn\u2019t super applicable to real life as you\u2019re most likely not going to encounter most of these data structures, but nonetheless I found the course content interesting. His homework\u2019s are also notably harder than other professors\u2019, as he goes deeper into proofs, induction, and the math aspect of things. In terms of difficulty I\u2019d say it\u2019s similar to Justin\u2019s 351, maybe slightly easier.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2024-05-18T21:44:53.943846Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "Easy A+, you get cheatsheets for Exam 1 and Exam 2. Projects are fair as long as you give them enough time. Skip the B-Trees project, the other \"Hard\" project is way easier. Final is take-home.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-05-19T03:14:02.338525Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "Justin's CMSC420 class was great - he goes in-depth in his lectures while also explaining concepts fairly well. While his CMSC351 exams were on the more difficult side with lower averages, his averages in CMSC420 are fairly high and it's definitely a more chill class.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-19T19:09:02.256670Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "Really great and awesome professor who cares about our learning. Homework may be a bit challenging at times but it is very doable and really helps us in knowing the content for this class which is also very helpful for the exams. Having Justin this semester has been a blast and I really enjoy every part of his class :D Definitely recommend taking him! He has a really nice grade cutoff too :)",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-05-20T00:28:52.176750Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "I don't know why Justin's 420 section gets a bad reputation. The class was well organized and well taught. Online notes were pretty thorough and were a good resource to have. The grade was split between homework (2/7), projects (2/7), two exams (1/7 each), and a take-home final (1/7). Homeworks were mostly pretty reasonable, occasionally a tricky proof but if you read the notes the proofs were always very doable. Lowest two homeworks got dropped. Six projects total, B-tree and extended KD tree projects were difficult, but the others were fairly reasonable. Even the hard projects didn't take too long. One project gets dropped. Midterms were both fairly straightforward, if you did the practice problems and understood what was going on in the class you shouldn't have any issues. Take home final was very easy, it was open note and if you paid attention in class it wasn't bad at all. I got a lot out of this class and it never really stressed me out. Would definitely take it if it fits into your schedule.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-20T15:07:52.729521Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "First time I've had Justin and I will say that he is a great teacher and he has structured the course extremely well. Homeworks every week. 6 projects or so that aren't too bad (if you've made it past 216 and 330 then you'll be fine). I thought the content was taught extremely well and, often, he would include things about how these data structures were used in the real-world. There a lot of tree data structures, but they are interesting. Honestly, this is one of the best cs courses I've taken at maryland.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-22T19:48:29.056073Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC420",
+      "review": "Not a bad professor, but honestly I saw him like once since the class is completely self paced with an at home final, and everything except the final has unlimited attempts until the final day of school. I would say as long as you don't get too far behind this should be a pretty easy A, and you still learn a decent amount about some data structures. I got very behind and had to complete most course work including and all projects the month before the semester ended, and still got and A-, so the work and projects aren't that bad, but still a lot to catch up on. The worst thing in the class was definitely the vagueness of certain projects and quizzes. Sometimes you'd have to brute force a quiz in order to get a 100 because the question or lecture was so vague that the answer wasn't easily figured out. I think I had like 20 attempts on one quiz because of this. The best thing about the class is definitly how you basically work towards your desired grade. He gives pretty solid benchmarks on what you need to and A, A-, B+, etc. and as you submit assignments, you build towards a grade. This is pretty cool and is nice when compared to other professors who leave students in the dark about how they grade and what is needed for an A. Overall this class is pretty easy, just don't fall too far behind, or you'll regret it.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2024-05-22T23:34:09.370630Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "Regarding the quality of the teaching, 100% recommend Justin. You can\u2019t go wrong. However, if you want an easier 420 class, marsh might be the option. Justin\u2019s class is overall harder, regarding homeworks and projects. Exams aren\u2019t too bad. In fact, spring 2024, he offered an online final, which kind of helped a lot of students, including me.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2024-05-31T20:41:11.120958Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "Justin is the best. He is a very fair grader and always considers how the class feels about deadlines. He moved back so many of our projects because students expressed needing more time. The class does have some proofs and math on homework, but it is definitely not as math-heavy as some reviews state. He makes the class engaging, so I was never bored or falling asleep in class. His notes are amazing and grades come back fast.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-06-13T14:38:32.175397Z"
+    },
+    {
+      "professor": "Michael Marsh",
+      "course": "CMSC420",
+      "review": "Marsh's greatest contribution to the field of college education is getting out of the way of his students by letting them do the course self-paced. That comes with its own risks that you do in fact fall behind. But do not expect any help from him or the TAs through your journey, you're on your own.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-06-27T17:37:21.236249Z"
+    },
+    {
+      "professor": "Michelle Hugue",
+      "course": "CMSC420",
+      "review": "I took Meesh's class in 2003, and TA'd for 420 twice.  You can blame me for the XML input the projects still use today.  Meesh was the best 400 level professor I had.  I learned more in her class than any other at UMD.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-07-19T13:36:57.244084Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "I hate proofs I hate proofs I hate proofs I hate proofs I hate proofs I hate proofs I hate proofs I hate proofs I hate proofs I hate proofs I hate proofs I hate proofs I hate proofs I hate proofs I hate proofs I hate proofs I hate proofs I hate proofs I hate proofs I hate proofs I hate proofs I hate proofs I hate proofs I hate proofs I hate proofs I hate proofs",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2024-10-29T01:12:59.596219Z"
+    },
+    {
+      "professor": "Narayanaswamy Narayanaswamy",
+      "course": "CMSC420",
+      "review": "Class is hard, but he is very accomodating. Records lectures and gives you all the resource you need to succeed. You have to work for an A.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-11-20T11:45:32.365234Z"
+    },
+    {
+      "professor": "Narayanaswamy Narayanaswamy",
+      "course": "CMSC420",
+      "review": "His class reminds me of CMSC351 with Kruskal. A lot of the content is pretty analytical and some of the homeworks can be tough, but overall he grades very leniently and gives lot of partial credit. Projects are pretty fair and if people ask they will extend the deadlines a bit usually. Overall, I think its a pretty rewarding class.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2024-11-21T20:43:00.728981Z"
+    },
+    {
+      "professor": "Narayanaswamy Narayanaswamy",
+      "course": "CMSC420",
+      "review": "Poor lecturer. Often stumbles over his words and his accent makes it difficult to understand him. Projects are often confusing- so much so that every project in the class so far has had its deadline extended.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2024-11-28T02:47:49.548722Z"
+    },
+    {
+      "professor": "Narayanaswamy Narayanaswamy",
+      "course": "CMSC420",
+      "review": "Narayanaswamy should not be employed here. He is a very poor lecturer. He started off with handwritten notes that were extremely hard to follow and not even always fully correct. Eventually he just gave up and started presenting seemingly random slides he found on the internet. It was never easy to follow him, and he would start rambling off about unnecessary topics. He is a very poor communicator. Nobody knew what the structure of the course was going to look like till about 3 weeks in, AFTER the add/drop deadline. He gave very vague comments about how the homeworks/exams/projects would be set up and never made it clear what the grading guidelines were. For some godforsaken reason, he made most homeworks due at 12:30am, rather than 11:59pm, or any other conceivable time of day. This would cause a lot of confusion as an assignment due Nov 30 actually had to be done by the night of Nov 29. Now you think you would get used to this, except he often changed the deadlines for assignments. I was unable to submit one homework because for no real reason he decided that one will be due at 11:59. His project deadlines were even worse. They never released on time and the due date would keep getting pushed back because the description left us with too many questions about the project details. We were supposed to have 5 project but he was so late on them that we only had 4. And the projects weren't even relevant to the content we were covering, instead being about some stupid fictional world with lore and all sorts of unnecessary details. The one midterm we had (which he changed the weightage of without telling us by the way) had an average of 55%, as he gave no real study guide, or even general advice on what it would cover, how to best prepare, etc. The TAs are entirely useless and may as well not exist. They don't hold office hours and are of extremely little help. I've even seen them giving objectively wrong answers about programming projects on Piazza. Narayanaswamy himself gave up in person office hours and only holds them via Zoom, which you have to schedule via email. He is of very little help too, as once my friend went for help with some test cases for a programming project, and Narayanaswamy told him to literally \"comment out blocks of his code to figure out what test cases were testing\" because the instructors had improperly named the tests. Overall, this has been an extremely negative experience. I don't even think this a case where a professor can learn from a rocky first semester and improve, he is just an objectively bad teacher.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2024-11-30T06:03:36.811417Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "I love Justin and he is my personal GOAT.  I encourage that you go to lecture because he explains topics really well and in ways that most people will understand.  He doesnt record his lectures but he does post his lecture notes to ELMS, which is MASSIVe for studying for exams or homework questions.  Also, he has his own website (https://www.math.umd.edu/~immortal/) which includes all of the content he will be teaching in the course, and I highly recommend using it from time-to-time for better, more in-depth examples that he sometimes won't be able to go over in-class.  He strikes a fair balance between more mathematical concepts and programming.\r\n\r\nThe weekly homework is fair and not too difficult if you go to class or OH (grades only 10 highest).  The exams are also open-note, so that's cool.  The final is take-home but is kinda long long.  The programming assignments are not too bad either, and you get to skip one.  There are 2 \"difficult\" ones (B-Trees and KD-Trees), so I recommend you skip either one of those.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2024-12-07T05:42:58.925136Z"
+    },
+    {
+      "professor": "Narayanaswamy Narayanaswamy",
+      "course": "CMSC420",
+      "review": "People are coping. His lectures are not hard to undertand - he does have a slight accent, but overall his English is very well articulated and better than most professors in the department. His projects/hws/exams are challenging and demand a strong understanding of the course material, and if you are keeping up with the textbook and lectures, there is no reason you shouldn't succeed in this class. \r\n\r\nThat said, he is very accomodating, and while you have to work for an A, he gives you everything you need to do so.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-09T19:41:51.707539Z"
+    },
+    {
+      "professor": "Narayanaswamy Narayanaswamy",
+      "course": "CMSC420",
+      "review": "Definitely a challenging class, as it focuses very strongly on analytical content. 250/351 probably won't be sufficient preparation for the rigor of proofs he goes through in class, but the proofs we actually have to write (for homework, exams) are usually far more straightforward \u2014 or fairly copyable from the notes/textbook. The projects were a pain but doable as long as you started early. He records his lectures, posts his notes, and is helpful and friendly at office hours; however, his availability is lacking, and I think the TA only started doing office hours about halfway through the semester. The midterm was challenging and I think most people didn't finish in time, but partial credit was extremely generous.\r\n\r\nDon't take this class with him if you don't like math, or if you want an easy A. Otherwise, I think it was a rewarding experience.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2024-12-10T16:23:31.099562Z"
+    },
+    {
+      "professor": "Narayanaswamy Narayanaswamy",
+      "course": "CMSC420",
+      "review": "His first semester teaching and honestly it was not a great time. \r\nHis lectures were confusing and he had poor slides. He does record his lectures which is a plus. \r\nHomework were generally okay but sometimes the questions has poor wording. \r\nProjects are overall very doable (he drops the lowest one) but it does take some time and often don't feel very related to lecture content. \r\nI did poor on the midterm exam (which was mainly my own fault) but he doesn't give any practice problems nor study guides for his exams which I felt would've helped me greatly. \r\nHe also extends deadlines for basically all the assignments which is nice but also sometimes required due to his poor logistics and communication. On the topic of communication, most of his clarification statements makes things more confusing and creates more questions. I have emailed him many times and it often takes a long time to get a clear and concise answer. \r\n\r\nWould've gave him one star but he is a nice person and does try to help (albeit not very well) so I'll give him two stars. This class definitely gave me more stress than it had to and I wish he wouldn't co-taught with Justin. Hopefully the class will be structured better in future semesters. \r\n\r\nTLDR: Nice person, poor lecturing, communications, and everything logistic related. Personally, wouldn't recommend but definitely a passable class as long as you complete assignments.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2024-12-12T02:30:19.982099Z"
+    },
+    {
+      "professor": "Narayanaswamy Narayanaswamy",
+      "course": "CMSC420",
+      "review": "Like many have said this class is not easy, but I felt Narayanaswamy wanted to help the students whenever he could, and although the class seemed a bit disorganized since this is his first semester teaching at UMD and it is apparent he is still making adjustments to his teaching style and course structure I think it is understandable. Exams are not easy but if you read his notes and the text they are manageable. Projects are also pretty challenging with very strict time requirements which I found made them more interesting to do. He is also very willing to give extensions and partial credit when asked which I also appreciate.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2024-12-12T08:43:10.902128Z"
+    },
+    {
+      "professor": "Narayanaswamy Narayanaswamy",
+      "course": "CMSC420",
+      "review": "Definitely a challenging class as compared to others. The homework and projects he gives are pretty tough and require a lot of time to do so I would suggest to start early. He is a boring lecturer but all of the lectures are still recorded and he posts them consistently. However, the class structure was very painful to deal with because he would often change deadlines and push out a lot of things late with expectations to be on time. He also was very vague about many things and would not announce them till last minute.",
+      "rating": 3,
+      "expected_grade": "C",
+      "created": "2024-12-16T16:12:41.253224Z"
+    },
+    {
+      "professor": "Narayanaswamy Narayanaswamy",
+      "course": "CMSC420",
+      "review": "Challenging class that is pretty heavy on analysis (most similar to Kruskal's 351). Exams were pretty hard (mainly because it felt like we did not have enough time on them), but homeworks and programming assignments were fair and pretty doable. Lectures can be a mixed bag because of disorganized some of the earlier lecture slides were, but he records almost every class so if you are ever confused you can always go and rewatch them. TAs didn't hold office hours until half-way through the semester, and even then they maybe had them once a week, however the Prof Swamy had them almost every weekday. Also, grade cutoffs were just announced and an A+ was an 88%.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2024-12-16T16:38:58.353596Z"
+    },
+    {
+      "professor": "Narayanaswamy Narayanaswamy",
+      "course": "CMSC420",
+      "review": "Lectures were disorganized and confusing.\r\nProgramming projects were doable but you should start them early.\r\nMid Term was hard since he doesn't give a study guide or practice problems so you have to study all the contents.\r\nFinal was take home, open note. Was still relatively difficult, avg was about 66%.\r\n\r\nProf Nara was a nice teacher overall. However logistics were poor, the way he types makes things more confusing. Lecture slides were poorly made and explained. \r\nHe does try to help and did give a huge curve (A- was 79 and C- was 55) meaning it shouldn't be too hard to pass the class.\r\nPersonally, I don't think I got much out of the class and there was unnecessary stress at times. \r\nOverall, I can't recommended him for this class (Especially when the other teacher is Justin) but if you are stuck with him, you will probably be fine.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2024-12-16T20:59:55.211914Z"
+    },
+    {
+      "professor": "Narayanaswamy Narayanaswamy",
+      "course": "CMSC420",
+      "review": "The worst professor I have had in the cs department. The lectures are awful with bad explanations and most of the time him just reading slides. The homework\u2019s are easy enough but had a very odd timeline for most of the semester as they were released on thursday but due on tuesday. The projects were relatively ok but most of the difficulty stemmed from the logic of the problem rather than creating the data structures ourselves. The exams were absolutely awful, it was almost impossible to know what was on them and when it came to take the test there was nowhere near enough time to complete the problems. Overall the course was one of the least organized i\u2019ve ever seen and was just not very good in general. IF YOU HAVE THE CHOICE DO NOT TAKE THIS PROFESSOR.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2024-12-17T22:27:24.984970Z"
+    },
+    {
+      "professor": "Narayanaswamy Narayanaswamy",
+      "course": "CMSC420",
+      "review": "Challenging class but he is very understanding and does the most to help students. Things could be disorganized at times but I think he really figured things out by the end and made sure everyone was with him. Switching form 5 projects to 4 and adding a project drop during the semester for example. Exams were definitely the most difficult part. There is an end of semester curve as well.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2024-12-29T04:15:07.881172Z"
+    },
+    {
+      "professor": "Narayanaswamy Narayanaswamy",
+      "course": "CMSC420",
+      "review": "Homework and projects poorly structured, unclear, not extremely relevant to the actual new course material taught compared to 351.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-02-09T19:02:33.877532Z"
+    },
+    {
+      "professor": "Narayanaswamy Narayanaswamy",
+      "course": "CMSC420",
+      "review": "Poor quizzes, bad notes, projects have flaws and are poorly designed, boring lectures, no real reason to take this professor if any other is available.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2025-02-18T16:02:18.770501Z"
+    },
+    {
+      "professor": "Narayanaswamy Narayanaswamy",
+      "course": "CMSC420",
+      "review": "The teacher is very accommodating and understanding of student's needs. Don't listen to most of the negative reviews - he is a good professor.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-02-18T18:02:58.622552Z"
+    },
+    {
+      "professor": "Narayanaswamy Narayanaswamy",
+      "course": "CMSC420",
+      "review": "A very sweet guy who does his best to help his students out. You can tell he really cares about the kids in his class and wants everyone to succeed. Content is challenging and by no means easy but he is very helpful in responding to questions and providing resources.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2025-03-11T13:38:46.801451Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "As someone who struggled a lot in his 351 class, this was so much better. Homeworks are not too bad and he gives a lot of reasonable extensions for each project (about 2 extension, both being a week long!). Both of the midterms were decent and the final exam was long but very straight forward. I took away a lot from this class so i definitely recommend.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2025-05-16T18:02:05.487413Z"
+    },
+    {
+      "professor": "Daeun Jung",
+      "course": "CMSC420",
+      "review": "Such an amazing TA for CMSC420. She is so nice and helpful in office hours, especially with homeworks. Also a fun person to talk to about non-CS stuff.\r\n\r\nOverall Rating: 5/5",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2025-05-17T20:57:02.900299Z"
+    },
+    {
+      "professor": "Narayanaswamy Narayanaswamy",
+      "course": "CMSC420",
+      "review": "He is a great and nice guy, but it seems his greatest flaw is being too smart since he administers challenging weekly homework, fast-paced 15-minute weekly quizzes, and 4 hellish projects throughout the semester. The grade cutoffs are shifted dramatically to compensate for this wild difficulty. \r\nIf you ever need a deadline extended or to redo a quiz, he will work with you: indeed, he cares about his students and their learning in this class. He posts all of his slideshows, is good at responding to emails, often has online Zoom lectures, and will be sometimes lenient on grading quizzes. \r\nIf I were to take the class again, I would not take Nari but this is only because the other options\u2014usually Justin\u2014are just superb teachers too.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-05-23T17:18:29.370141Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "If you had Justin for 351 then expect a similar teaching style. Justin handwrites his notes in class and also has his extensive pdf notes online. Lectures are not recorded. There are about 6 coding projects done in Python along with a weekly homework. There are two midterms with the first being in the middle of the semester and the second being near the end. There is also a take-home final.\r\n\r\nI highly recommend taking this class, especially if it is with Justin, because you get to learn many different useful data structures and Justin is able to teach the concepts and usefulness of the data structures very well. Justin does teach this class to be more mathematical so expect some proofs and calculations but they are fair.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-05-24T18:03:07.507237Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "We all know he's the goat\r\n\r\nPros:\r\nLectures\r\nVery organized\r\nVery lenient with deadlines, will push back projects two or three weeks if needed\r\nMaterial is very interesting and has a lot of real world application\r\nGood projects\r\nEasy ash final\r\n\r\nCons:\r\nTwo hard projects but has a drop, do the kd tree instead of the b tree\r\n\r\nIf you are lucky enough to take this class you will have fun",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-27T18:06:15.002744Z"
+    },
+    {
+      "professor": "Narayanaswamy Narayanaswamy",
+      "course": "CMSC420",
+      "review": "Very nice and lenient professor, course is challenging but if you stay on track with course material and genuinely try to understand the analysis in depth you should be good. Some projects were quite challenging so it is best recommended to start early.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-05-31T00:39:41.951777Z"
+    },
+    {
+      "professor": "Narayanaswamy Narayanaswamy",
+      "course": "CMSC420",
+      "review": "I personally thought he was a bad lecturer. Yes, the material is tough on its own, but his delivery really didn\u2019t help and made going to lecture feel like a waste of time. A lot of important info ended up being shared in Piazza follow-ups instead of through proper announcements, which made it hard to keep track of what was going on. He did give extensions on almost everything, which was nice, but also made it clear that the course wasn\u2019t well planned. He seems like a nice guy, but I wouldn\u2019t take a class with him again by choice.",
+      "rating": 2,
+      "expected_grade": "B-",
+      "created": "2025-05-31T22:57:37.477196Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "Completely overrated professor. You'd think a CS class would be relevant to CS but its just a math class.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2025-06-05T17:59:40.947034Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "I had Justin for calc 3 and had Ting for 351 who cotaught with Justin, so I\u2019m something of a Justin veteran myself. He\u2019s a great lecturer, which is a given. This class is a little weird, with lectures talking solely about math and theory, but with 6 coding projects. The B tree project was the hardest of the 6, but the rest are doable and he drops the lowest so its chill. Also all the projects had their deadlines pushed by at least two weeks which is nice. There are also weekly written homeworks and he dropped the lowest 1 or 2 I cant remember. The tests were fair, anyone who complains about Justin\u2019s exams being too hard is suffering from an incredible skill issue. Overall a good experience.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2025-06-05T20:41:52.104978Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "I love Justin's style of teaching (he has very good, human readable notes). I did not show up to a single lecture at all and only studied the notes and did the HWs. Piss easy class if you use your brain power to understand trees. CS = Math + Coding and this is exactly what this class is. The coding projects were not too bad if you understood the concepts very well. Not proof heavy class like 451 but still are some mini proofs and stuff. I would take any class Justin teaches because I know his exams are gonna be straightforward and notes are always on point. 2 ez",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-06-20T16:35:07.036277Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "Justin\u2019s great! He\u2019s very personable, understanding, and a great lecturer. What has become increasingly clear this semester, however, is his descent into madness as he strives to engineer a class so airtight that cheating itself becomes a scientific impossibility. I get that cheating is a problem, and Justin is 100% justified in trying to fight against it, but 7 MIDTERM EXAMS is the wrong approach. In his attempts to play God, Justin has made this class extremely stressful for me with his constant onslaught of exams.\r\n\r\nI want to stress that Justin is still a very good professor, hence my high rating, but he seems to be struggling recently with the recent wave of academic dishonesty, and is fully prepared to experiment with some crazy solutions to the problem. Beware; who knows what he\u2019ll do next.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2025-11-03T16:26:16.000023Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "Justin is a great professor and his notes are great. However, after looking at the syllabus I regret taking his class. He does not seem to understand that we also have other very difficult (and now even harder) cmsc courses alongside this. He has now made it where you have 7 midterm exams and a final, alongside 5 projects. Just because he has 8 exams now does not mean the difficulty of the exams are easier either. The questions are still the same level of difficulty, it is simply just covering less topics. I think the class would be fair and balanced if there were 4 exams and a final, 5 projects and also grade HW for at least even 10% of the grade. He also goes on about how students are cheating and trying to work and earn undeserved money after they graduate from cheating. What about the TAs? The projects are autograded, HWs are not graded, and they are usually lazy, cancel office hrs often, or just embarrass a student when they ask too much and tell them to read the class materials. Do you think it is fair for them to earn money while not even doing 10% of their responsibilities? Don't you think they use AI or look at the solutions sheet because most of them actually don't know or remember how to do it at all when a student asks for help?",
+      "rating": 1,
+      "expected_grade": "C-",
+      "created": "2025-11-07T05:25:00.707156Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "Justin has kept me on my toes all semester. You can't even focus on other classes for like 10 days without having to worry about another exam for this class. I dislike his course structure this semester.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-11-07T05:27:00.716444Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "I took Justin\u2019s class after glowing reports about his 351 class, boy was that a mistake. I have done nothing this semester but have anxiety over this class because there\u2019s an exam pretty much every other week. I can\u2019t breathe. He yaps about cheating constantly and has gone a little crazy to prevent it to the point where the class structure hurts all students. I have other classes to focus on but it\u2019s like I can\u2019t because it\u2019s not even like the exams are easier they\u2019re still difficult but now instead of once a month they\u2019re every 10ish days",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-11-14T13:50:03.312644Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "I can\u2019t take it anymore\u2026 this class and Justin\u2019s new course structure have driven my mental health to an all-time low. I don\u2019t care how good of a lecturer Justin is, this class is so ridiculously stressful and draining with the constant exams. I\u2019d avoid Justin at all costs.",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2025-11-21T16:51:47.141941Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "DISCLAIMER: I took this class in the spring so I did not have to deal with the 7 exam thing.\r\n\r\nFor some reason, I heard this class was useless, boring, and theoretical. I actually really enjoyed it and learned a lot. Justin is a great lecturer and breaks things down really well. I saw multiple of the trees covered in the class in production code  at my summer internship which was really cool(but I did more theoretical work than most internships so take this with a grain of salt).\r\n\r\nCompared to Justin's 351, the exams and homeworks were slightly easier but the grading was way nicer(or maybe I got better at proofs).  Projects were pretty easy except the btree/kd projects but one dropped so I only did b trees and it was long with a lot of edge cases but still doable(would probably recommend skipping it and doing kd trees instead though). There are no release tests or secret tests and he gave extensions on almost every project which definitely wasn't needed but still nice.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-11-29T17:17:18.664827Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "The 7 midterm exam format made CMSC420 one of the most stressful classes I\u2019ve taken in my academic career. Constantly studying for exams every other week has me incredibly burnt out and has started to affect my performance in other classes as well as my general well-being. Over Thanksgiving break, I had a mental breakdown and spent a good couple hours bawling my eyes out on the floor. This is the first time I\u2019ve ever been pushed to this point and I\u2019ve taken many difficult CS and Math classes before. I enjoyed the course content, and I\u2019m sure in retrospect I will be glad to have taken this course, but I cannot in good conscience recommend ANY class taught be Justin Wyss-Gallifent if he continues to organize his classes like this.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2025-12-04T03:07:38.222149Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "The 7 exams just not worth it cause ur always stressed about studying",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2025-12-10T20:45:41.658886Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "Pros:\r\n- Justin is an amazing prof and he cares a lot about his students. I came in late once for an exam, and he let me take the next section with no penalty.\r\n- Notes are extremely organized and easy to follow.\r\n- The practice questions that he provides for the exams are very helpful.\r\n- One exam and one project are dropped, so you can skip one of each or use it for a bad score.\r\n- The data structures that we cover are really interesting, and Justin teaches it in an intuitive way. He always leaves time for students to ask questions, and prioritizes your learning. \r\n\r\nCons:\r\n- 7 exams is brutal. I felt burnt out halfway through the semester, especially since these are full-length, \"Justin-esque\" exams. It may be because I'm done with the course now and outcome bias, but I feel like it's definitely doable if you make sure to have a set study schedule throughout the week leading up to the exam. However, I agree that 7 exams is wayy too much for any class, and hope that it's replaced with an alternative for future classes (we suffered so you don't have to).\r\n- Some of the projects can be quite difficult as well, just make sure to start the hard ones early (B Trees or EKD, depending on if you skip one)",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2025-12-10T20:57:29.456901Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "I've seen a lot of complaints on here recently regarding Justin's new class format designed to fight AI use. I in no way agree with these complaints. I am a very average student that performs around the mean in most of my classes. I am taking 3 CMSC 400s this semester and have been working part time as a software developer. I never felt that this course load was unbearable or unfair. The exams were extremely manageable given the limited content window and the practice problems provided which were extremely similar to what was shown on the exams. Justin also drops a project and an exam which makes the class even better. There are only two/three projects which take a considerable amount of time and you can completely choose to just not do one of them. I probably won't get an A in the course, so if thats extremely important for anyone maybe check out a different review. But I never felt Justin was unfair or unwilling to help. He's very responsive in Piazza and willing to grant extensions in certain circumstances. I personally enjoyed this course and its structure.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2025-12-10T21:16:23.563220Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "I am shocked to see so many people up in arms about the high number of midterms in this class. It seems like I am in the minority when I say I didn't mind this structure and actually kind of liked it.\r\n\r\nJustin changed his CMSC420 course structure this semester to be very largely exam-based, with a \"midterm\" exam every two weeks. He did this with the idea that if he assigned homework, students would just ChatGPT the whole thing (and he's probably not wrong). At surface level, this does sound atrocious and I was worried at first. But there is a pro to this structure: there were no major midterm exams that required cramming a huge amount of content into your brain, like most classes. Each exam was entirely focused on the material we had covered since the last exam, which was at max two weeks, or five lectures, of material. Thus, there was only so much he could possibly test on, making studying easier (for me at least). \r\n\r\nThe rest of the things that people have praised Justin for over the years haven't gone away: his super engaging lectures, his detailed and organized notes, and his stellar focus on helping students succeed. For every topic we covered, he had a set of organized optional problems on that topic available on ELMS. Before each exam, he would post on Piazza which questions within those problem sets to focus on when studying. So my studying usually consisted entirely of working through those suggested problems, which was enough to get me As on just about every exam. Maybe the material just clicked with me in a way that it didn't for others, but I had to study for like maximum two hours for each exam. \r\n\r\nAs such, I actually liked this structure because for me, it kept the workload outside of class pretty light. Study for an exam one night every two weeks, do the occasional project here and there (these were pretty straightforward, enjoyable, and well-explained). He also drops the lowest exam grade and lowest project grade, so there's a nice cushion for error there too. \r\n\r\nI'm not sure if he will keep doing this in the future, because he has seen the negative feedback here and elsewhere and has acknowledged that he wasn't aware some students would have such major stress in regards to this class. \r\n\r\nTL;DR: If you are a student who tends to study a LOT for exams and tends to get really stressed before exams, I would stay away from this class with Justin, because you'll probably fall into the same hole as a lot of these 1-star reviewers. But if you're someone like me who doesn't stress too much over exams, I imagine this class will feel light for you too. Justin is still a top-notch lecturer and professor, and I loved learning this content from him.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-10T22:24:03.428555Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "Justin is a great lecturer who really makes the content engaging and easy to digest, and he posts great notes as well if you miss class. The seven exam structure was interesting, but I quite liked it. Given we had a midterm dropped and that the exams generally reflected the given practice material it was not too difficult to prepare for, and I found it less stressful to study one or two topics than studying a bunch of topics for two or three exams. Just start reviewing practice problems and making sure you understand how the exams DS works a couple of days before the exam and you should be good to go. The projects aren't too bad and have no secret test which is nice, and one is dropped. Great class, would recommend.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-10T23:25:54.434976Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "After reading all of these opinions on the 7 exam structure, I wanted to join and say I actually really enjoyed it. This was one of my favorite CS classes ever.\r\n\r\nInstead of cramming for large exams with a bunch of different concepts, I was able to focus on just two at a time and actually learn! The exams line up very well with the practice problems and are not very difficult. The number of exams and the fact that Justin drops some is also very forgiving if you have an off week. Overall, Justin is an amazing lecturer and the structure of this class was very fair in my opinion. I learned a lot.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-11T03:22:16.857469Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "Everyone here is complaining for no reason, i'm taking this class right now and the exams and projects are challenging but not to the point that some of these reviews are saying. I've learned so much through this course and can actually retain information because of his teaching and exam structures. The exams are basically the exact same as the practice problems and one night of studying before the exam will literally get you at least an 80%. He also pushed back project deadlines SOO often if anyone asked. I'm by no means coasting through this class and I am not a particularly bright student but I enjoyed this class and would take it again despite the 7 exams.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-11T03:22:37.287666Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "I am writing this in response to some of the other students' reviews for CMSC420 for the fall 2025 semester. I do not want to invalidate any of their struggles or experiences. However, based on a Piazza discussion forum about the class structure that was created at the end of the semester, there were also many students who preferred the biweekly exam structure over the traditional course format whose perspectives are not currently represented. \r\n\r\nAs one of these students, I found that having biweekly exams was much less stressful than having to study lots of content for a few big midterms, since each of the exams only had a few topics. The week before each exam, Justin posted a list of recommended homework problems with answer keys that would be very similar or essentially the same as the exam questions. After doing these problems each week and checking my mistakes, I felt that I understood the content well and was confident in my ability to do well on the exams. The lowest two exam grades were also dropped. \r\n\r\nRegarding Justin's perspectives on cheating, I only remembered him talking about this a few times at the beginning of the semester when he explained his rationale for the new exam structure. From then on, I don't remember him mentioning it, and all of the lectures were completely focused on the content. Throughout the semester, Justin was also very responsive to students' questions and concerns.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-11T22:56:54.243150Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "7 exams made the class annoyingly time consuming. As each exam only covered 2-3 data structures, the level of understanding needed was arguably too high for the 13 days you we got to learn. Maybe this led to a higher understanding of the material than 3 midterms, but made the class unpleasant. \r\n\r\nAdditionally, Justin's notes and lecturing were somewhat vague for how harshly he graded exams (50% off for not showing \"sufficient work\", expecting complex sums to be simplified perfectly, etc). \r\n\r\nI'm sure if I spent more time on the class, an A was easily possible, but after exam 5, I couldn't be bothered anymore.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2025-12-12T05:27:03.306565Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "Giving him a 5 bcuz that extra exam drop came in clutch. The reason most students consider him the GOAT is because he is open to taking feedback from students which is a GOAT mindset to have as a professor.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2025-12-14T03:44:07.753444Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "Exhausting semester.  I get why he did so many exams.  I get it let me study fewer topics per exam.  I probably did better because of it.  But it was non-stop like no class since first year has been for me.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2025-12-16T20:50:38.136476Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "I will start this review by affirming that Justin is one of the best lecturers at all of UMD, and going to his lectures is the best way to experience the professor. On top of that, he has some of the most thorough online study material, which covers everything he lectures about, and more. He answers questions through email and piazza, and if you score poorly on an assignment, it's rarely due to ambiguity (I would say never, but his 351 exams had many poorly phrased questions that were revised mid-exam). \r\nOnto the structure of the class, this is where things become controversial. If you are in the third of UMD students that went to an MCPS high school, the class structure will be very familiar. There are seven total midterms, at least one being dropped. This means a midterm every other Friday, including the second, and last Friday of the semester. The course starts at full speed, and finishes at full speed. The entire semester is midterm season. There are numerous upsides to having this many midterms though, which other students fail to point out. Each exam is only worth 11% of the grade, and only covers two weeks of material. This puts much less weight on any individual exam, and I personally got a B on multiple exams and still finished the class with a high A. The constant studying does cause occasional burnout, but it also prevents the midterm season cramming that many students tend to do, and prevents you from falling too far behind. \r\nJustin is an amazing lecturer, and the midterm schedule may sound daunting, but the condensed test material really helps prevent bad midterm habits.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-18T20:42:51.330008Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "Best professor ever. Makes content super digestible. He is very understanding, and he gives a lot of practice for the exams. He tried out a new structure for the class this semester which is why there are so many low-star reviews, but he has released a survey and promised to improve the course further.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-20T22:14:07.014303Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "It seems like Justin might change the class format in the next semester, so this only really applies if it is the 7 exam format. This class is honestly the overachiever in CS's dream class. Two out of seven exams are dropped, which means even if you have a bad exam a couple of times, you will still be alright. The final is online and is very easy, especially if you organize notes beforehand. I am not very good at coding, and I found all of the projects to be somewhat approachable (I skipped the B Tree one, however). He posts about 13ish practice problems before every exam that very closely model the exam format. No homework is required, so if you spend a good amount of time reviewing these problems, you will do well on the exam. The median in the class was a 90, so the average student who puts in effort will do alright. The tests are very easy because they are focused on such a small amount of material. You essentially have to understand ~2 - 3 different data structures for each test, and if you do, then you'll be golden. Justin's notes are amazing and provide you with all the information that you need to do well on exams. The only exception to this I would say is the skip lists exam as it is a lot more math heavy than the other exams.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-21T04:37:14.777170Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "The lectures were very engaging, well organized, and easy to follow.\r\n\r\nI enjoyed the course structure of breaking the topics into exams every 2 weeks. Each exam only required reviewing a small amount of material, and we dropped the lowest exam grade.\r\n\r\nMy only qualm is that we didn\u2019t go too deep into the theory behind a lot of the data structures. There were a lot of times where it seemed like Justin held back from material that may have been a bit challenging, which limited how much I learned from the course. Most proof questions on homeworks/exams were minor variants of proofs done in class.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2025-12-22T01:31:04.784451Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "Pros:\r\n- Having seven exams means that each exams only has two or three data structures on it, so that makes studying a bit easier. I feel like one thing I struggled with in 351 was trying to keep all of the algorithms straight, and I liked having fewer topics on each exam.\r\n- Justin is very receptive to feedback and adapts based on the needs of students. He decided to drop a second exam because people asked for it on Piazza. I am guessing he will do some restructuring of the course based on reviews\r\n- In my personal opinion, the exams were not unfairly challenging. I am NOT one of those super smart cs kids (far from it) but I got As and Bs on all of the exams. A lot of people didn't do well on the first exam, I think because it came so early in the semester and it had a few really difficult high-point-value problems. He changed the exams as the semester went on, so the rest of them were mostly short questions with one long-form question at the end. \r\n\r\nCons:\r\n- Not having any homeworks means your grade is composed of only projects and exams. However, he does drop your lowest exam and lowest project so I don't think that is necessarily the end of the world.\r\n- Projects were ROUGH. He lists 3 and 5 as the \"hard\" projects but I thought project 4 was just as bad. I would spend upwards of 30 hours trying to make my code work.\r\n\r\nOverall I would recommend this class for a CS elective and Justin as a professor. I think he puts a lot of effort into curating a good class experience and will continue to improve on the things that made 420 a rough experience for some people.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-12-22T04:58:20.123510Z"
+    },
+    {
+      "professor": "Hanan Samet",
+      "course": "CMSC420",
+      "review": "He talks extremely quietly. He is not technology savvy at all. I firmly believe he has not interacted with Canvas once the entire semester. Everything that wasn't lectures seemed to be run by the TAs. He was present for perhaps half the days of the semester. We covered maybe 20% of the intended curriculum in lecture. Self-teaching is a requirement.\r\n\r\nTwo ridiculous scenarios that occurred:\r\n- First assignment of the course and a four part project were about KD-trees. We did not cover KD-trees AT ALL in any lectures.\r\n- Some topics that were not in the curriculum showed up on the final.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2025-12-31T17:20:55.520442Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "Just a note about the really bad warnings: we were only told that he was switching his class format about two weeks before the semester started so I would guess that some people who were really unhappy may not have had enough time to find a new class or realized what 7 exams would entail for them (especially poor test takers). \r\n\r\nYes, 7 exams could be stressful (this is the reason I deducted a star, but really I'd give a 4.5 if possible). However, the exams were really fair except for the first one. They were a lot like the recommended problems, some of them were even directly from these problems. For anyone who doesn't struggle with serious test anxiety, you'll probably be fine. Do the recommended problems and try to stay on top of content so you don't have to cram for each exam.\r\nJustin himself is a great teacher. His lectures were pretty engaging and he explained things really well. The only real complaint I have about the exams is that sometimes the proofs were just a little too difficult for someone who isn't used to proofs. The first exam was kind of heinous, but I think Justin just didn't account for the fact that it had been awhile since we had seen 351 material and we all had professors who taught the content differently. And Justin is INCREDIBLY nice, like way nicer than a professor really has to be. He wasn't out to get us with the 7 exam thing, he was just trying to make the course fair to those of us who refuse to cheat on every single assignment handed to us. He dropped an extra exam after seeing how much stress some of the students were experiencing due to the change in class structure. He extended project deadlines MULTIPLE times. \r\nAgain, as long as you're not someone who has serious test anxiety you will do fine.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2026-01-03T18:48:56.075981Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "The 7 midterm no homework course format did not go too smoothly. IMO, even though the midterms don't cover as much material as usual, having so many exams forces additional studying, noticeably increasing the work required for the class. From my experience, only a few topics lend themselves to difficult exam problems, and they are not evenly distributed across exams, so some exams had bad averages, and other exams had amazing averages. However, with 2 exams being dropped avoiding the grade impact of the bad exams was very easy. \r\n\r\nBesides that, the class was pretty normal for one of Justin's classes. Justin's lectures were great, exam problems were fair given the difficulty of the corresponding topics, and getting a good exam grade was doable if you solved all of the recommended hw problems. Justin was also receptive to feedback as always. In response to much of the class being distressed by the format, he dropped 2 exams (originally it was only supposed to be 1) among other things.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2026-01-09T18:36:12.074115Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "I want to start off by saying that Justin took a lot of feedback from this semester, and I don't think he's going to be doing 7 midterms again lol (i could be wrong). The class structure was 7 midterm exams, with your lowest score to be dropped, which he changed to two at the end of the semester, 6 projects, lowest dropped, and then a final take home which was very easy cause its open note and you have time to just check your notes for the answer (he says you wont but if you I did this and still had like 45 minutes of time to spare).\r\n\r\nOverall the lectures were really well taught, and you can tell he puts effort into thinking how to make it understandable for students. The exams were annoying since they were every two weeks, with means of ~83. Again at the end of the semester he was very gracious in taking feedback, and ended up dropping a 2nd exam. The whole semester I thought I was going to end up with an A-, but he ended up dropping the grade boundary all the way to 91, combined with the dropping of exams if you do all the projects its not too difficult to get an A. \r\n\r\nI probably would have given him a 3 star, but him taking feedback sincerely was nice so I think he deserves a 4. But still, I think he kind of went overkill with the 7 exams. \r\n\r\nThe actual content of the course is not really useful, although it is interesting. If you have done a decent amount of leetcode/DSA the implementation of the projects is not bad, but still challenging enough.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2026-01-17T14:55:42.317969Z"
+    },
+    {
+      "professor": "Justin Wyss-Gallifent",
+      "course": "CMSC420",
+      "review": "this class is similar to the Justins 351. It's very math oriented. You will learn alot about how to take a normal binary tree and make it better in various ways to keep it lgn search, delete and insert which is actually really cool but also you need to prove it mathematically (no surprise here its Justin). No hw and multiple exams, it was 5 out of 7 (fall 26) it's really not that bad each exam is worth way less but the studying is a bit tough. Exams are just as difficult despite having more, you have 14 days until the next one so you better not fail behind. It was a stressful mid semester not because it was to difficult but you counldnt get caught lacking cause you wanted to chill to long now its Thursday. But usually only 2 data structures per exam as long as you do the practice problems and actually understand them you will be fine. make sure you always understand the how the data structure works internally and you'll get an A. You can totally also get a C if your worried about passing as well long as you practice enough.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2026-01-21T05:05:21.578467Z"
+    }
+  ],
+  "department": "CMSC",
+  "course_number": "420",
+  "name": "CMSC420",
+  "title": "Advanced Data Structures",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> Minimum grade of C- in CMSC351 and CMSC330; and permission of CMNS-Computer Science department. Or must be in the (Computer Science (Doctoral), Computer Science (Master's)) program.\nDescription, properties, and storage allocation functions of data structures including balanced binary trees, B-Trees, hash tables, skiplists, tries, KD-Trees and Quadtrees. Algorithms for manipulating structures. Applications from areas such as String Processing, Computer Graphics, Information Retrieval, Computer Networks, Computer Vision, and Operating Systems.",
+  "is_recent": true,
+  "geneds": null
+}

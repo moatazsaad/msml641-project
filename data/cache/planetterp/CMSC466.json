@@ -1,0 +1,38 @@
+{
+  "average_gpa": null,
+  "professors": [
+    "Tobias von Petersdorff",
+    "Maria Cameron",
+    "Pierre-Emmanuel Jabin",
+    "Harland Glaz",
+    "Doron Levy",
+    "Dionisios Margetis",
+    "Eitan Tadmor",
+    "Lise-Marie Imbert-Gerard",
+    "Maria Cameron",
+    "Dionisios Margetis",
+    "Dionisios Margetis",
+    "Abba Gumel",
+    "Dionisios Margetis",
+    "Dionisios Margetis",
+    "Dionisios Margetis"
+  ],
+  "reviews": [
+    {
+      "professor": "Maria Cameron",
+      "course": "CMSC466",
+      "review": "She's a LOT better than people give her credit for. It can be difficult to understand her because of her accident, but that is where her faults end.\n\r\nShe puts a tremendous amount of effort into the course: she is even willing to print your homework out for you if you email it to her, and lets you turn it in overnight. She gives very reasonable test problems: if you practice with her provided material, the tests are easy. She makes it a very reasonable class.\n\r\nIf you cannot learn from her, read over the optional book instead. She goes over a lot of material, and makes you learn, while making it reasonable to learn.\n\r\nThe only other thing is she has a LOT of homework. It can be pretty annoying, but you'll get through it.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2013-12-23T19:14:00Z"
+    }
+  ],
+  "department": "CMSC",
+  "course_number": "466",
+  "name": "CMSC466",
+  "title": "Introduction to Numerical Analysis I",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> 1 course with a minimum grade of C- from (MATH240, MATH341, MATH461); and 1 course with a minimum grade of C- from (MATH241, MATH340); and 1 course with a minimum grade of C- from (CMSC106, CMSC131); and minimum grade of C- in MATH410.  Also offered as: AMSC466.\n<b>Credit only granted for:</b> AMSC460, CMSC460, AMSC466, or CMSC466.\nFloating point computations, direct methods for linear systems, interpolation, solution of nonlinear equations.",
+  "is_recent": true,
+  "geneds": null
+}
