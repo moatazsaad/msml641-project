@@ -1,11 +1,9 @@
 """
 Predict per-course workload signals using the trained TF-IDF classifier.
 
-Trains one TF-IDF + LogisticRegression classifier per workload label on all
-labeled reviews (see LABELED_DATA_PATHS below), then applies it to the real
-reviews TerpLoad has collected (data/cleaned_reviews.csv). Predictions are
-averaged per course so the CLI report can use real data instead of the
-hardcoded sample signals.
+Trains one TF-IDF classifier per workload label using the latest
+training and validation splits, then applies the classifiers to the
+current cleaned PlanetTerp review corpus.
 
 For the reviews that already have a real (weak) label, that known label is
 used instead of the model's own prediction when building course signals.
@@ -24,14 +22,13 @@ from sklearn.pipeline import Pipeline
 
 from workload_labels import WORKLOAD_LABELS
 
-# week08 = original 64 labeled reviews, week10 = 40 more labeled the same way.
-LABELED_DATA_PATHS = [
-    Path("data/weakly-labeled-week08.csv"),
-    Path("data/weakly-labeled-week10.csv"),
-]
+
+TRAIN_PATH = Path("data/splits/train.csv")
+VAL_PATH = Path("data/splits/val.csv")
+TEST_PATH = Path("data/splits/test.csv")
+
 REVIEWS_PATH = Path("data/cleaned_reviews.csv")
 OUTPUT_PATH = Path("data/course_workload_signals.json")
-
 # A course is marked True for a label once at least this share of its
 # reviews are predicted positive for that label.
 POSITIVE_LABEL_THRESHOLD = 0.3
@@ -130,10 +127,12 @@ def write_course_signals(course_signals, output_path):
 
 def main():
     # Same columns, no overlapping review_id values, so a plain concat is safe.
+    train_df = pd.read_csv(TRAIN_PATH)
+    val_df = pd.read_csv(VAL_PATH)
     labeled_df = pd.concat(
-        [pd.read_csv(path) for path in LABELED_DATA_PATHS],
-        ignore_index=True,
-    )
+    [train_df, val_df],
+    ignore_index=True,
+)
     reviews_df = pd.read_csv(REVIEWS_PATH)
 
     classifiers = train_label_classifiers(labeled_df)

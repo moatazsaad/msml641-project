@@ -3,7 +3,6 @@ import json
 import numpy as np
 import pandas as pd
 import torch
-
 from sklearn.metrics import accuracy_score, precision_recall_fscore_support
 from torch.utils.data import Dataset, DataLoader
 from transformers import DistilBertTokenizer, DistilBertForSequenceClassification
@@ -40,17 +39,7 @@ BATCH_SIZE = 8
 EPOCHS = 3
 LR = 2e-5
 
-df = pd.read_csv(CSV_PATH)
 
-texts = df["review_text"].astype(str).tolist()
-labels = df[LABEL_COLUMNS].astype(int).values
-
-train_texts, test_texts, train_labels, test_labels = train_test_split(
-    texts,
-    labels,
-    test_size=0.2,
-    random_state=42,
-)
 
 tokenizer = DistilBertTokenizer.from_pretrained("distilbert-base-uncased")
 
@@ -63,6 +52,13 @@ train_encodings = tokenizer(
 
 test_encodings = tokenizer(
     test_texts,
+    truncation=True,
+    padding=True,
+    max_length=MAX_LENGTH,
+)
+
+val_encodings = tokenizer(
+    val_texts,
     truncation=True,
     padding=True,
     max_length=MAX_LENGTH,
@@ -89,6 +85,10 @@ train_loader = DataLoader(
 
 test_loader = DataLoader(
     ReviewDataset(test_encodings, test_labels),
+    batch_size=BATCH_SIZE,
+)
+val_loader = DataLoader(
+    ReviewDataset(val_encodings, val_labels),
     batch_size=BATCH_SIZE,
 )
 

@@ -34,10 +34,7 @@ from workload_labels import WORKLOAD_LABELS  # noqa: E402
 
 st.set_page_config(page_title="TerpLoad", page_icon="📚", layout="centered")
 
-LABELED_DATA_PATHS = [
-    "data/weakly-labeled-week08.csv",
-    "data/weakly-labeled-week10.csv",
-]
+LABELED_DATA_PATH = "data/weakly_labeled_reviews_full.csv"
 
 RISK_COLORS = {"Low": "low", "Medium": "medium", "High": "high"}
 
@@ -158,8 +155,7 @@ def load_evidence_quotes():
     never label_rationale, which is our own note about *why* we labeled
     it that way, not something the student wrote.
     """
-    frames = [pd.read_csv(path) for path in LABELED_DATA_PATHS]
-    labeled = pd.concat(frames, ignore_index=True)
+    labeled = pd.read_csv(LABELED_DATA_PATH)
 
     quotes = {}
     for _, row in labeled.iterrows():

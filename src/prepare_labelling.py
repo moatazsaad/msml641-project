@@ -12,7 +12,6 @@ from typing import Dict, List, Set
 INPUT_PATH = Path("data/cleaned_reviews.csv")
 OUTPUT_PATH = Path("data/reviews_to_weak_label.csv")
 EXISTING_LABEL_PATHS = [
-    Path("data/weakly-labeled-week08.csv"),
     Path("data/weakly_labeled_reviews_full.csv"),
 ]
 
