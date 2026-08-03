@@ -70,7 +70,7 @@ The current TerpLoad flow is:
 ## Individual contributions
 
 * Moataz Abdelaziz (Product): Connected the TF-IDF course signals to the CLI report, generated course workload signals and added CLI tests. (evidence: issue #33, PR #34)
-* Abhiram Metuku (Data&Eval): Reviewed model mistakes and wrote Week 9 error analysis focused on ambiguous workload signals, fair and heavy reviews, and model limitations. (evidence: issue #35, PR #38)
+* Abhiram Metuku (Data&Eval): Reviewed model mistakes and wrote Week 9 error analysis focused on ambiguous workload signals, fair and heavy reviews, and model limitations. (evidence: issue #35, PR #38)[PR #38](https://github.com/moatazsaad/msml641-project/pull/39))
 * Sriram Vema (Engineering): Continued baseline/modeling pipeline work. (evidence: PR #37)
 
 ## Lean canvas changes
