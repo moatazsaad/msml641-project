@@ -5,11 +5,13 @@ import pandas as pd
 import torch
 
 from sklearn.metrics import accuracy_score, precision_recall_fscore_support
-from sklearn.model_selection import train_test_split
 from torch.utils.data import Dataset, DataLoader
 from transformers import DistilBertTokenizer, DistilBertForSequenceClassification
 
-CSV_PATH = "data/weakly-labeled-week08.csv"
+TRAIN_PATH = "data/splits/train.csv"
+VAL_PATH = "data/splits/val.csv"
+TEST_PATH = "data/splits/test.csv"
+
 
 LABEL_COLUMNS = [
     "project_heavy",
@@ -17,6 +19,18 @@ LABEL_COLUMNS = [
     "homework_heavy",
     "time_consuming",
 ]
+
+train_df = pd.read_csv(TRAIN_PATH)
+val_df = pd.read_csv(VAL_PATH)
+test_df = pd.read_csv(TEST_PATH)
+
+train_texts = train_df["review_text"].astype(str).tolist()
+val_texts = val_df["review_text"].astype(str).tolist()
+test_texts = test_df["review_text"].astype(str).tolist()
+
+train_labels = train_df[LABEL_COLUMNS].astype(int).values
+val_labels = val_df[LABEL_COLUMNS].astype(int).values
+test_labels = test_df[LABEL_COLUMNS].astype(int).values
 
 RESULTS_DIR = "results"
 os.makedirs(RESULTS_DIR, exist_ok=True)
