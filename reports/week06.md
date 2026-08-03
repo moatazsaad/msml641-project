@@ -66,9 +66,9 @@ Additional signals such as `harsh_grading`, `self_learning_required`, and `disor
 
 ## Individual contributions
 
-- **Moataz Abdelaziz — Product:** Aligned MVP documentation and baseline risk logic with the four-label first model. (evidence: issue #15, PR #16)
-- **Abhiram Metuku — Data & Evaluation:** Collected and cleaned the PlanetTerp data, created the 30-review pilot, defined the labels and modifiers, generated candidate labels, and built the merge workflow. (evidence: issue #18, PR #19)
-- **Sriram Vema — Engineering:** Defined the training input columns, created `src/train_tfidf_classifier.py`, created `src/workload_signal_baseline.py`, and verified the risk-rule pipeline.(evidence: PR #20)
+- **Moataz Abdelaziz — Product:** Aligned MVP documentation and baseline risk logic with the four-label first model. (evidence: [Issue #15](https://github.com/moatazsaad/msml641-project/issues/15), [PR #16](https://github.com/moatazsaad/msml641-project/pull/16))
+- **Abhiram Metuku — Data & Evaluation:** Collected and cleaned the PlanetTerp data, created the 30-review pilot, defined the labels and modifiers, generated candidate labels, and built the merge workflow. (evidence: [Issue #18](https://github.com/moatazsaad/msml641-project/issues/18), [PR #19](https://github.com/moatazsaad/msml641-project/pull/19))
+- **Sriram Vema — Engineering:** Defined the training input columns, created `src/train_tfidf_classifier.py`, created `src/workload_signal_baseline.py`, and verified the risk-rule pipeline.(evidence: [PR #20](https://github.com/moatazsaad/msml641-project/pull/20))
 
 ## Lean canvas changes
 
