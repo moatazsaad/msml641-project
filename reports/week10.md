@@ -55,6 +55,11 @@ The current TerpLoad flow is:
 * TF-IDF evaluation: 5-fold cross-validation
 * Tests passing: 12/12
 * Final trained model: not completed yet
+* *14/14 (100%) found the overall format helpful for understanding what they were getting into.
+* 14/14 (100%) found it easy to navigate
+* 9/14 (64%) wanted more professor-specific signals.
+* 3/14 (21%) asked about courses with no reviews, motivating the grade-distribution fallback.
+
 
 ## Challenges / blockers
 
