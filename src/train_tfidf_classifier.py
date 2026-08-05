@@ -1,6 +1,7 @@
 import json
 from pathlib import Path
 
+import joblib
 import numpy as np
 import pandas as pd
 
@@ -197,6 +198,8 @@ def main() -> None:
     metrics: dict = {}
     thresholds: dict = {}
 
+    models = {}
+
     all_test_truths = []
     all_test_predictions = []
 
@@ -243,6 +246,8 @@ def main() -> None:
 
         # Train one final candidate model on the full training split.
         pipeline.fit(train_texts, train_y)
+
+        models[label] = pipeline
 
         # Use validation only to select the label-specific threshold.
         val_probabilities = pipeline.predict_proba(val_texts)[:, 1]
@@ -324,6 +329,11 @@ def main() -> None:
         ),
         "test_rows": int(len(test_df)),
     }
+
+    joblib.dump(
+        models,
+        RESULTS_DIR / "tfidf_models.joblib",
+    )
 
     predictions_df.to_csv(
         RESULTS_DIR / "tfidf_predictions.csv",
