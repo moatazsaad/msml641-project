@@ -57,9 +57,9 @@ We narrowed the first model to four labels so it is easier to build and evaluate
 
 ## Individual contributions
 
-* Moataz Abdelaziz (Product): Defined product data requirements and created the workload label schema. (evidence: issue #8, PR #9)
-* Abhiram Metuku (Data&Eval): Created an initial manually labeled review sample using the four workload labels and added notes and confidence column to test whether the schema works on real review excerpts. (evidence: PR #10)
-* Sriram Vema (Engineering): Created a text-based sample risk report showing how workload labels can help get an idea for students of what their combined schedule is. (evidence: PR #11)
+* Moataz Abdelaziz (Product): Defined product data requirements and created the workload label schema. (evidence: [Issue #8](https://github.com/moatazsaad/msml641-project/issues/8), [PR #9](https://github.com/moatazsaad/msml641-project/pull/9))
+* Abhiram Metuku (Data&Eval): Created an initial manually labeled review sample using the four workload labels and added notes and confidence column to test whether the schema works on real review excerpts. (evidence: [PR #10](https://github.com/moatazsaad/msml641-project/pull/10))
+* Sriram Vema (Engineering): Created a text-based sample risk report showing how workload labels can help get an idea for students of what their combined schedule is. (evidence: [PR #11](https://github.com/moatazsaad/msml641-project/pull/11))
 
 ## Lean canvas changes
 

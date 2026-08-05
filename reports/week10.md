@@ -76,7 +76,7 @@ The current TerpLoad flow is:
 
 * Moataz Abdelaziz (Product): Added Week 10 updates, low-evidence warning, tests, documentation updates, and Streamlit demo. (evidence: issue #42, PR #43)
 * Abhiram Metuku (Data&Eval): Expanded and weak-labeled the review dataset, created fixed data splits, updated TF-IDF evaluation, removed outdated dataset paths, and regenerated workload signals for 109 courses. (evidence: issue #39, PR #41)
-* Sriram Vema (Engineering):  (evidence: issue #, PR #)
+* Sriram Vema (Engineering):  Retrained on updated dataset, finalized model as distilBERT due to better performance (evidence: PR #45)
 
 ## Lean canvas changes
 

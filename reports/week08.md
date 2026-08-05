@@ -67,8 +67,7 @@ The next thing to test is whether students understand the risk level and reasons
 
 ## Individual contributions
 
-- **Moataz Abdelaziz  (Product):** Built the simple report CLI and added user testing notes. (evidence: issue #29, PR #30)
-- **Abhiram Metuku (Data&Eval):**  Created the Week 8 review sample, weak-labeled dataset, label distribution, and labeling notes. (evidence: issue #26, PR #27)
-- **Sriram Vema (Engineering):**  Run Keyword and TF IDF baselines, generate results (evidence: PR #32)
-
+- **Moataz Abdelaziz  (Product):** Built the simple report CLI and added user testing notes. (evidence: [Issue #29](https://github.com/moatazsaad/msml641-project/issues/29), [PR #30](https://github.com/moatazsaad/msml641-project/pull/30))
+- **Abhiram Metuku (Data&Eval):**  Created the Week 8 review sample, weak-labeled dataset, label distribution, and labeling notes. (evidence: [Issue #26](https://github.com/moatazsaad/msml641-project/issues/26), [PR #27](https://github.com/moatazsaad/msml641-project/pull/27))
+- **Sriram Vema (Engineering):**  Run Keyword and TF IDF baselines, generate results (evidence: [PR #32](https://github.com/moatazsaad/msml641-project/pull/32))
 
