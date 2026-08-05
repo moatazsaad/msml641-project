@@ -1,4 +1,3 @@
-Model,Average Accuracy,Macro F1,Notes
-Keyword,0.6914,0.5870,High recall baseline but can over-trigger on workload keywords
-TF-IDF,0.7404,0.3112,5-fold cross-validated on 104 reviews (64 original + 40 added week10). Accuracy ticked up slightly but macro F1 went DOWN from 0.3648 - homework_heavy is still 0 recall even with 20 positive examples now. More data did not clearly help; see docs/error_analysis.md.
-DistilBERT,0.1538,0.1905,EXPERIMENTAL ONLY - not used in production. Scored worse than the keyword baseline; 64 labeled reviews is too small to fine-tune a transformer reliably.
+Model,Subset Accuracy,Macro F1,Micro F1,Hamming Loss
+TF-IDF,0.5657894736842105,0.6871252992262051,0.7108753315649867,0.14342105263157895
+DistilBERT,0.7618421052631579,0.8166281049193077,0.8285714285714286,0.07894736842105263
