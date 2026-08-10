@@ -22,13 +22,24 @@ def build_evidence_status(
     evidence_level = get_evidence_level(review_count)
 
     if evidence_level == "none":
-        return {
-            "evidence_level": "none",
-            "can_show_workload_signals": False,
-            "show_low_evidence_warning": True,
-            "show_grade_context": grade_data_available,
-            "message": (
-                "TerpLoad does not have enough review evidence "
-                "to estimate workload for this course."
-            ),
-        }
+      return {
+          "evidence_level": "none",
+          "can_show_workload_signals": False,
+          "show_low_evidence_warning": True,
+          "show_grade_context": grade_data_available,
+          "message": (
+              "TerpLoad does not have enough review evidence "
+              "to estimate workload for this course."
+          ),
+      }
+    if evidence_level == "low":
+      return {
+          "evidence_level": "low",
+          "can_show_workload_signals": True,
+          "show_low_evidence_warning": True,
+          "show_grade_context": grade_data_available,
+          "message": (
+              f"Limited evidence: this estimate is based on "
+              f"only {review_count} review(s)."
+          ),
+      }
