@@ -27,3 +27,6 @@ def aggregate_grade_rows(grade_rows: list[dict]) -> dict | None:
   
   if total == 0:
     return None
+  
+  def rate(grades):
+    return sum(counts[grade] for grade in grades) / total
