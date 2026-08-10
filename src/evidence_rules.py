@@ -40,4 +40,14 @@ def build_evidence_status(review_count: int, grade_data_available: bool,) -> dic
           f"Limited evidence: this estimate is based on "
           f"only {review_count} {review_word}."
       ),
-      }
+    }
+  return {
+    "evidence_level": "enough",
+    "can_show_workload_signals": True,
+    "show_low_evidence_warning": False,
+    "show_grade_context": grade_data_available,
+    "message": None,
+  }
+    
+    
+  
