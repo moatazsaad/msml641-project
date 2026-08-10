@@ -9,7 +9,7 @@ GRADE_GROUPS = {
     "D": ["D+", "D", "D-"],
 }
 
-def aggregate_grade_rows(grade_rows: list[dict]) -> dict | None:
+def aggregate_grade_rows(grade_rows: list[dict]):
   if not grade_rows:
     return None
   counts = {
