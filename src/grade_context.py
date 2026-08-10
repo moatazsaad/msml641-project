@@ -30,3 +30,13 @@ def aggregate_grade_rows(grade_rows: list[dict]) -> dict | None:
   
   def rate(grades):
     return sum(counts[grade] for grade in grades) / total
+  return {
+    "total_grade_records": total,
+    "a_range_rate": rate(GRADE_GROUPS["A"]),
+    "b_range_rate": rate(GRADE_GROUPS["B"]),
+    "c_range_rate": rate(GRADE_GROUPS["C"]),
+    "d_range_rate": rate(GRADE_GROUPS["D"]),
+    "f_rate": counts["F"] / total,
+    "withdrawal_rate": counts["W"] / total,
+    "distribution": counts,
+    }
