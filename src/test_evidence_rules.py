@@ -37,3 +37,15 @@ def test_multiple_low_reviews():
     assert result["message"] == (
         "Limited evidence: this estimate is based on only 4 reviews."
     )
+
+def test_enough_reviews():
+    result = build_evidence_status(
+        review_count=10,
+        grade_data_available=True,
+    )
+
+    assert result["evidence_level"] == "enough"
+    assert result["can_show_workload_signals"] is True
+    assert result["show_low_evidence_warning"] is False
+    assert result["show_grade_context"] is True
+    assert result["message"] is None
