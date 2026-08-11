@@ -10,7 +10,6 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import (
     accuracy_score,
     f1_score,
-    hamming_loss,
     precision_score,
     recall_score,
 )
@@ -317,12 +316,6 @@ def main() -> None:
         ),
         "subset_accuracy": float(
             accuracy_score(
-                test_truth_matrix,
-                test_prediction_matrix,
-            )
-        ),
-        "hamming_loss": float(
-            hamming_loss(
                 test_truth_matrix,
                 test_prediction_matrix,
             )

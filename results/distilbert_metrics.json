@@ -1,53 +1,52 @@
 {
     "project_heavy": {
-        "selected_threshold": 0.4,
+        "selected_threshold": 0.9,
         "test": {
-            "accuracy": 0.975,
-            "precision": 0.8421052631578947,
-            "recall": 0.8275862068965517,
-            "f1": 0.8347826086956521,
-            "support": 58,
+            "accuracy": 0.968421052631579,
+            "precision": 0.7258064516129032,
+            "recall": 0.8653846153846154,
+            "f1": 0.7894736842105263,
+            "support": 52,
             "total": 760
         }
     },
     "exam_heavy": {
-        "selected_threshold": 0.5,
+        "selected_threshold": 0.65,
         "test": {
-            "accuracy": 0.9052631578947369,
-            "precision": 0.8876811594202898,
-            "recall": 0.8566433566433567,
-            "f1": 0.8718861209964412,
-            "support": 286,
+            "accuracy": 0.8276315789473684,
+            "precision": 0.7191011235955056,
+            "recall": 0.7741935483870968,
+            "f1": 0.7456310679611651,
+            "support": 248,
             "total": 760
         }
     },
     "homework_heavy": {
-        "selected_threshold": 0.5,
+        "selected_threshold": 0.55,
         "test": {
-            "accuracy": 0.8947368421052632,
-            "precision": 0.7751004016064257,
-            "recall": 0.8894009216589862,
-            "f1": 0.8283261802575107,
-            "support": 217,
+            "accuracy": 0.843421052631579,
+            "precision": 0.6458333333333334,
+            "recall": 0.8201058201058201,
+            "f1": 0.7226107226107226,
+            "support": 189,
             "total": 760
         }
     },
     "time_consuming": {
-        "selected_threshold": 0.5,
+        "selected_threshold": 0.75,
         "test": {
-            "accuracy": 0.9092105263157895,
-            "precision": 0.7230769230769231,
-            "recall": 0.7401574803149606,
-            "f1": 0.7315175097276264,
+            "accuracy": 0.8881578947368421,
+            "precision": 0.6909090909090909,
+            "recall": 0.5984251968503937,
+            "f1": 0.6413502109704642,
             "support": 127,
             "total": 760
         }
     },
     "overall_test": {
-        "macro_f1": 0.8166281049193077,
-        "micro_f1": 0.8285714285714286,
-        "subset_accuracy": 0.7618421052631579,
-        "hamming_loss": 0.07894736842105263,
+        "macro_f1": 0.7247664214382196,
+        "micro_f1": 0.7227799227799228,
+        "subset_accuracy": 0.6605263157894737,
         "test_rows": 760
     }
 }
