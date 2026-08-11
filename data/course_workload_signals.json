@@ -6,11 +6,11 @@
     "project_heavy": false,
     "project_heavy_positive_rate": 0.01,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.49,
+    "exam_heavy_positive_rate": 0.44,
     "homework_heavy": true,
-    "homework_heavy_positive_rate": 0.38,
+    "homework_heavy_positive_rate": 0.37,
     "time_consuming": false,
-    "time_consuming_positive_rate": 0.24
+    "time_consuming_positive_rate": 0.23
   },
   "BSCI161": {
     "course_code": "BSCI161",
@@ -21,7 +21,7 @@
     "exam_heavy": false,
     "exam_heavy_positive_rate": 0.033,
     "homework_heavy": true,
-    "homework_heavy_positive_rate": 0.5,
+    "homework_heavy_positive_rate": 0.4,
     "time_consuming": true,
     "time_consuming_positive_rate": 0.567
   },
@@ -32,24 +32,24 @@
     "project_heavy": false,
     "project_heavy_positive_rate": 0.0,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.323,
+    "exam_heavy_positive_rate": 0.313,
     "homework_heavy": false,
-    "homework_heavy_positive_rate": 0.192,
+    "homework_heavy_positive_rate": 0.182,
     "time_consuming": false,
-    "time_consuming_positive_rate": 0.101
+    "time_consuming_positive_rate": 0.091
   },
   "BSCI171": {
     "course_code": "BSCI171",
     "review_count": 83,
     "low_evidence": false,
     "project_heavy": false,
-    "project_heavy_positive_rate": 0.048,
+    "project_heavy_positive_rate": 0.036,
     "exam_heavy": false,
-    "exam_heavy_positive_rate": 0.072,
-    "homework_heavy": true,
-    "homework_heavy_positive_rate": 0.373,
+    "exam_heavy_positive_rate": 0.048,
+    "homework_heavy": false,
+    "homework_heavy_positive_rate": 0.253,
     "time_consuming": false,
-    "time_consuming_positive_rate": 0.229
+    "time_consuming_positive_rate": 0.217
   },
   "BSCI201": {
     "course_code": "BSCI201",
@@ -57,12 +57,12 @@
     "low_evidence": false,
     "project_heavy": false,
     "project_heavy_positive_rate": 0.0,
-    "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.31,
+    "exam_heavy": false,
+    "exam_heavy_positive_rate": 0.27,
     "homework_heavy": false,
-    "homework_heavy_positive_rate": 0.24,
+    "homework_heavy_positive_rate": 0.18,
     "time_consuming": false,
-    "time_consuming_positive_rate": 0.1
+    "time_consuming_positive_rate": 0.09
   },
   "BSCI202": {
     "course_code": "BSCI202",
@@ -84,9 +84,9 @@
     "project_heavy": false,
     "project_heavy_positive_rate": 0.0,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.343,
+    "exam_heavy_positive_rate": 0.323,
     "homework_heavy": false,
-    "homework_heavy_positive_rate": 0.273,
+    "homework_heavy_positive_rate": 0.263,
     "time_consuming": false,
     "time_consuming_positive_rate": 0.071
   },
@@ -97,11 +97,11 @@
     "project_heavy": false,
     "project_heavy_positive_rate": 0.0,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.596,
+    "exam_heavy_positive_rate": 0.586,
     "homework_heavy": false,
-    "homework_heavy_positive_rate": 0.192,
+    "homework_heavy_positive_rate": 0.182,
     "time_consuming": false,
-    "time_consuming_positive_rate": 0.121
+    "time_consuming_positive_rate": 0.111
   },
   "BSCI223": {
     "course_code": "BSCI223",
@@ -110,11 +110,11 @@
     "project_heavy": false,
     "project_heavy_positive_rate": 0.063,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.326,
+    "exam_heavy_positive_rate": 0.305,
     "homework_heavy": true,
-    "homework_heavy_positive_rate": 0.579,
+    "homework_heavy_positive_rate": 0.516,
     "time_consuming": true,
-    "time_consuming_positive_rate": 0.484
+    "time_consuming_positive_rate": 0.474
   },
   "BSCI330": {
     "course_code": "BSCI330",
@@ -123,9 +123,9 @@
     "project_heavy": false,
     "project_heavy_positive_rate": 0.01,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.37,
+    "exam_heavy_positive_rate": 0.34,
     "homework_heavy": false,
-    "homework_heavy_positive_rate": 0.28,
+    "homework_heavy_positive_rate": 0.27,
     "time_consuming": false,
     "time_consuming_positive_rate": 0.19
   },
@@ -136,7 +136,7 @@
     "project_heavy": false,
     "project_heavy_positive_rate": 0.0,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.5,
+    "exam_heavy_positive_rate": 1.0,
     "homework_heavy": false,
     "homework_heavy_positive_rate": 0.0,
     "time_consuming": false,
@@ -149,11 +149,11 @@
     "project_heavy": false,
     "project_heavy_positive_rate": 0.0,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.479,
+    "exam_heavy_positive_rate": 0.458,
     "homework_heavy": false,
     "homework_heavy_positive_rate": 0.229,
     "time_consuming": false,
-    "time_consuming_positive_rate": 0.188
+    "time_consuming_positive_rate": 0.167
   },
   "BSCI410": {
     "course_code": "BSCI410",
@@ -162,11 +162,11 @@
     "project_heavy": false,
     "project_heavy_positive_rate": 0.0,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.32,
+    "exam_heavy_positive_rate": 0.33,
     "homework_heavy": true,
-    "homework_heavy_positive_rate": 0.33,
+    "homework_heavy_positive_rate": 0.31,
     "time_consuming": false,
-    "time_consuming_positive_rate": 0.15
+    "time_consuming_positive_rate": 0.13
   },
   "CHEM131": {
     "course_code": "CHEM131",
@@ -175,9 +175,9 @@
     "project_heavy": false,
     "project_heavy_positive_rate": 0.0,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.48,
+    "exam_heavy_positive_rate": 0.45,
     "homework_heavy": false,
-    "homework_heavy_positive_rate": 0.28,
+    "homework_heavy_positive_rate": 0.29,
     "time_consuming": false,
     "time_consuming_positive_rate": 0.14
   },
@@ -190,7 +190,7 @@
     "exam_heavy": false,
     "exam_heavy_positive_rate": 0.286,
     "homework_heavy": true,
-    "homework_heavy_positive_rate": 0.538,
+    "homework_heavy_positive_rate": 0.385,
     "time_consuming": false,
     "time_consuming_positive_rate": 0.253
   },
@@ -201,9 +201,9 @@
     "project_heavy": false,
     "project_heavy_positive_rate": 0.0,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.39,
+    "exam_heavy_positive_rate": 0.4,
     "homework_heavy": false,
-    "homework_heavy_positive_rate": 0.2,
+    "homework_heavy_positive_rate": 0.18,
     "time_consuming": false,
     "time_consuming_positive_rate": 0.12
   },
@@ -214,11 +214,11 @@
     "project_heavy": false,
     "project_heavy_positive_rate": 0.0,
     "exam_heavy": false,
-    "exam_heavy_positive_rate": 0.056,
+    "exam_heavy_positive_rate": 0.167,
     "homework_heavy": true,
-    "homework_heavy_positive_rate": 0.667,
+    "homework_heavy_positive_rate": 0.611,
     "time_consuming": true,
-    "time_consuming_positive_rate": 0.333
+    "time_consuming_positive_rate": 0.389
   },
   "CHEM231": {
     "course_code": "CHEM231",
@@ -229,7 +229,7 @@
     "exam_heavy": true,
     "exam_heavy_positive_rate": 0.47,
     "homework_heavy": true,
-    "homework_heavy_positive_rate": 0.34,
+    "homework_heavy_positive_rate": 0.32,
     "time_consuming": false,
     "time_consuming_positive_rate": 0.21
   },
@@ -240,9 +240,9 @@
     "project_heavy": false,
     "project_heavy_positive_rate": 0.0,
     "exam_heavy": false,
-    "exam_heavy_positive_rate": 0.173,
+    "exam_heavy_positive_rate": 0.185,
     "homework_heavy": true,
-    "homework_heavy_positive_rate": 0.593,
+    "homework_heavy_positive_rate": 0.494,
     "time_consuming": true,
     "time_consuming_positive_rate": 0.37
   },
@@ -253,11 +253,11 @@
     "project_heavy": false,
     "project_heavy_positive_rate": 0.0,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.49,
+    "exam_heavy_positive_rate": 0.48,
     "homework_heavy": false,
-    "homework_heavy_positive_rate": 0.24,
+    "homework_heavy_positive_rate": 0.26,
     "time_consuming": false,
-    "time_consuming_positive_rate": 0.22
+    "time_consuming_positive_rate": 0.21
   },
   "CHEM242": {
     "course_code": "CHEM242",
@@ -266,11 +266,11 @@
     "project_heavy": false,
     "project_heavy_positive_rate": 0.0,
     "exam_heavy": false,
-    "exam_heavy_positive_rate": 0.276,
+    "exam_heavy_positive_rate": 0.207,
     "homework_heavy": true,
-    "homework_heavy_positive_rate": 0.586,
+    "homework_heavy_positive_rate": 0.517,
     "time_consuming": false,
-    "time_consuming_positive_rate": 0.207
+    "time_consuming_positive_rate": 0.172
   },
   "CHEM271": {
     "course_code": "CHEM271",
@@ -279,9 +279,9 @@
     "project_heavy": false,
     "project_heavy_positive_rate": 0.0,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.5,
+    "exam_heavy_positive_rate": 0.49,
     "homework_heavy": true,
-    "homework_heavy_positive_rate": 0.35,
+    "homework_heavy_positive_rate": 0.34,
     "time_consuming": false,
     "time_consuming_positive_rate": 0.28
   },
@@ -291,21 +291,21 @@
     "low_evidence": false,
     "project_heavy": false,
     "project_heavy_positive_rate": 0.0,
-    "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.316,
+    "exam_heavy": false,
+    "exam_heavy_positive_rate": 0.246,
     "homework_heavy": true,
-    "homework_heavy_positive_rate": 0.667,
+    "homework_heavy_positive_rate": 0.509,
     "time_consuming": true,
-    "time_consuming_positive_rate": 0.544
+    "time_consuming_positive_rate": 0.526
   },
   "CMSC131": {
     "course_code": "CMSC131",
     "review_count": 100,
     "low_evidence": false,
     "project_heavy": false,
-    "project_heavy_positive_rate": 0.18,
+    "project_heavy_positive_rate": 0.14,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.33,
+    "exam_heavy_positive_rate": 0.31,
     "homework_heavy": false,
     "homework_heavy_positive_rate": 0.09,
     "time_consuming": false,
@@ -316,9 +316,9 @@
     "review_count": 100,
     "low_evidence": false,
     "project_heavy": true,
-    "project_heavy_positive_rate": 0.33,
+    "project_heavy_positive_rate": 0.3,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.42,
+    "exam_heavy_positive_rate": 0.39,
     "homework_heavy": false,
     "homework_heavy_positive_rate": 0.2,
     "time_consuming": false,
@@ -329,65 +329,65 @@
     "review_count": 100,
     "low_evidence": false,
     "project_heavy": true,
-    "project_heavy_positive_rate": 0.52,
+    "project_heavy_positive_rate": 0.48,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.48,
+    "exam_heavy_positive_rate": 0.52,
     "homework_heavy": false,
-    "homework_heavy_positive_rate": 0.2,
+    "homework_heavy_positive_rate": 0.24,
     "time_consuming": false,
-    "time_consuming_positive_rate": 0.28
+    "time_consuming_positive_rate": 0.25
   },
   "CMSC250": {
     "course_code": "CMSC250",
     "review_count": 100,
     "low_evidence": false,
     "project_heavy": false,
-    "project_heavy_positive_rate": 0.01,
+    "project_heavy_positive_rate": 0.0,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.42,
+    "exam_heavy_positive_rate": 0.4,
     "homework_heavy": true,
-    "homework_heavy_positive_rate": 0.35,
+    "homework_heavy_positive_rate": 0.34,
     "time_consuming": false,
-    "time_consuming_positive_rate": 0.15
+    "time_consuming_positive_rate": 0.13
   },
   "CMSC320": {
     "course_code": "CMSC320",
     "review_count": 100,
     "low_evidence": false,
     "project_heavy": false,
-    "project_heavy_positive_rate": 0.23,
+    "project_heavy_positive_rate": 0.19,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.45,
+    "exam_heavy_positive_rate": 0.39,
     "homework_heavy": true,
-    "homework_heavy_positive_rate": 0.36,
+    "homework_heavy_positive_rate": 0.31,
     "time_consuming": false,
-    "time_consuming_positive_rate": 0.23
+    "time_consuming_positive_rate": 0.21
   },
   "CMSC330": {
     "course_code": "CMSC330",
     "review_count": 100,
     "low_evidence": false,
     "project_heavy": true,
-    "project_heavy_positive_rate": 0.45,
+    "project_heavy_positive_rate": 0.4,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.32,
+    "exam_heavy_positive_rate": 0.3,
     "homework_heavy": false,
     "homework_heavy_positive_rate": 0.01,
     "time_consuming": false,
-    "time_consuming_positive_rate": 0.11
+    "time_consuming_positive_rate": 0.1
   },
   "CMSC335": {
     "course_code": "CMSC335",
     "review_count": 46,
     "low_evidence": false,
-    "project_heavy": true,
-    "project_heavy_positive_rate": 0.304,
+    "project_heavy": false,
+    "project_heavy_positive_rate": 0.239,
     "exam_heavy": false,
-    "exam_heavy_positive_rate": 0.174,
+    "exam_heavy_positive_rate": 0.13,
     "homework_heavy": false,
     "homework_heavy_positive_rate": 0.0,
     "time_consuming": false,
-    "time_consuming_positive_rate": 0.087
+    "time_consuming_positive_rate": 0.065
   },
   "CMSC351": {
     "course_code": "CMSC351",
@@ -396,24 +396,24 @@
     "project_heavy": false,
     "project_heavy_positive_rate": 0.0,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.47,
+    "exam_heavy_positive_rate": 0.39,
     "homework_heavy": false,
     "homework_heavy_positive_rate": 0.22,
     "time_consuming": false,
-    "time_consuming_positive_rate": 0.07
+    "time_consuming_positive_rate": 0.08
   },
   "CMSC411": {
     "course_code": "CMSC411",
     "review_count": 63,
     "low_evidence": false,
     "project_heavy": false,
-    "project_heavy_positive_rate": 0.175,
+    "project_heavy_positive_rate": 0.143,
     "exam_heavy": true,
     "exam_heavy_positive_rate": 0.333,
     "homework_heavy": false,
     "homework_heavy_positive_rate": 0.286,
     "time_consuming": false,
-    "time_consuming_positive_rate": 0.19
+    "time_consuming_positive_rate": 0.159
   },
   "CMSC412": {
     "course_code": "CMSC412",
@@ -422,20 +422,20 @@
     "project_heavy": true,
     "project_heavy_positive_rate": 0.84,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.44,
+    "exam_heavy_positive_rate": 0.64,
     "homework_heavy": false,
-    "homework_heavy_positive_rate": 0.16,
+    "homework_heavy_positive_rate": 0.28,
     "time_consuming": true,
-    "time_consuming_positive_rate": 0.44
+    "time_consuming_positive_rate": 0.52
   },
   "CMSC414": {
     "course_code": "CMSC414",
     "review_count": 94,
     "low_evidence": false,
     "project_heavy": true,
-    "project_heavy_positive_rate": 0.447,
+    "project_heavy_positive_rate": 0.436,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.33,
+    "exam_heavy_positive_rate": 0.362,
     "homework_heavy": false,
     "homework_heavy_positive_rate": 0.117,
     "time_consuming": false,
@@ -447,10 +447,10 @@
     "low_evidence": false,
     "project_heavy": true,
     "project_heavy_positive_rate": 0.404,
-    "exam_heavy": false,
-    "exam_heavy_positive_rate": 0.298,
+    "exam_heavy": true,
+    "exam_heavy_positive_rate": 0.351,
     "homework_heavy": false,
-    "homework_heavy_positive_rate": 0.035,
+    "homework_heavy_positive_rate": 0.053,
     "time_consuming": false,
     "time_consuming_positive_rate": 0.298
   },
@@ -459,26 +459,26 @@
     "review_count": 100,
     "low_evidence": false,
     "project_heavy": true,
-    "project_heavy_positive_rate": 0.35,
+    "project_heavy_positive_rate": 0.32,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.41,
-    "homework_heavy": true,
-    "homework_heavy_positive_rate": 0.31,
+    "exam_heavy_positive_rate": 0.35,
+    "homework_heavy": false,
+    "homework_heavy_positive_rate": 0.24,
     "time_consuming": false,
-    "time_consuming_positive_rate": 0.15
+    "time_consuming_positive_rate": 0.14
   },
   "CMSC421": {
     "course_code": "CMSC421",
     "review_count": 90,
     "low_evidence": false,
     "project_heavy": true,
-    "project_heavy_positive_rate": 0.344,
+    "project_heavy_positive_rate": 0.311,
     "exam_heavy": false,
-    "exam_heavy_positive_rate": 0.256,
+    "exam_heavy_positive_rate": 0.289,
     "homework_heavy": false,
     "homework_heavy_positive_rate": 0.267,
     "time_consuming": false,
-    "time_consuming_positive_rate": 0.211
+    "time_consuming_positive_rate": 0.189
   },
   "CMSC422": {
     "course_code": "CMSC422",
@@ -489,31 +489,31 @@
     "exam_heavy": true,
     "exam_heavy_positive_rate": 0.369,
     "homework_heavy": false,
-    "homework_heavy_positive_rate": 0.2,
+    "homework_heavy_positive_rate": 0.215,
     "time_consuming": false,
-    "time_consuming_positive_rate": 0.154
+    "time_consuming_positive_rate": 0.108
   },
   "CMSC424": {
     "course_code": "CMSC424",
     "review_count": 100,
     "low_evidence": false,
     "project_heavy": true,
-    "project_heavy_positive_rate": 0.38,
+    "project_heavy_positive_rate": 0.35,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.6,
-    "homework_heavy": true,
-    "homework_heavy_positive_rate": 0.3,
+    "exam_heavy_positive_rate": 0.59,
+    "homework_heavy": false,
+    "homework_heavy_positive_rate": 0.22,
     "time_consuming": false,
-    "time_consuming_positive_rate": 0.29
+    "time_consuming_positive_rate": 0.26
   },
   "CMSC426": {
     "course_code": "CMSC426",
     "review_count": 61,
     "low_evidence": false,
     "project_heavy": true,
-    "project_heavy_positive_rate": 0.361,
-    "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.328,
+    "project_heavy_positive_rate": 0.328,
+    "exam_heavy": false,
+    "exam_heavy_positive_rate": 0.295,
     "homework_heavy": false,
     "homework_heavy_positive_rate": 0.18,
     "time_consuming": false,
@@ -524,13 +524,13 @@
     "review_count": 62,
     "low_evidence": false,
     "project_heavy": true,
-    "project_heavy_positive_rate": 0.339,
+    "project_heavy_positive_rate": 0.306,
     "exam_heavy": false,
-    "exam_heavy_positive_rate": 0.194,
+    "exam_heavy_positive_rate": 0.258,
     "homework_heavy": false,
     "homework_heavy_positive_rate": 0.081,
-    "time_consuming": true,
-    "time_consuming_positive_rate": 0.306
+    "time_consuming": false,
+    "time_consuming_positive_rate": 0.274
   },
   "CMSC433": {
     "course_code": "CMSC433",
@@ -538,10 +538,10 @@
     "low_evidence": false,
     "project_heavy": true,
     "project_heavy_positive_rate": 0.364,
-    "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.318,
+    "exam_heavy": false,
+    "exam_heavy_positive_rate": 0.25,
     "homework_heavy": false,
-    "homework_heavy_positive_rate": 0.091,
+    "homework_heavy_positive_rate": 0.136,
     "time_consuming": false,
     "time_consuming_positive_rate": 0.114
   },
@@ -550,35 +550,35 @@
     "review_count": 46,
     "low_evidence": false,
     "project_heavy": true,
-    "project_heavy_positive_rate": 0.326,
+    "project_heavy_positive_rate": 0.304,
     "exam_heavy": false,
-    "exam_heavy_positive_rate": 0.109,
+    "exam_heavy_positive_rate": 0.087,
     "homework_heavy": false,
     "homework_heavy_positive_rate": 0.261,
     "time_consuming": true,
-    "time_consuming_positive_rate": 0.391
+    "time_consuming_positive_rate": 0.37
   },
   "CMSC436": {
     "course_code": "CMSC436",
     "review_count": 42,
     "low_evidence": false,
     "project_heavy": true,
-    "project_heavy_positive_rate": 0.452,
+    "project_heavy_positive_rate": 0.381,
     "exam_heavy": false,
-    "exam_heavy_positive_rate": 0.286,
+    "exam_heavy_positive_rate": 0.238,
     "homework_heavy": false,
-    "homework_heavy_positive_rate": 0.262,
+    "homework_heavy_positive_rate": 0.167,
     "time_consuming": false,
-    "time_consuming_positive_rate": 0.238
+    "time_consuming_positive_rate": 0.214
   },
   "CMSC451": {
     "course_code": "CMSC451",
     "review_count": 87,
     "low_evidence": false,
     "project_heavy": false,
-    "project_heavy_positive_rate": 0.034,
+    "project_heavy_positive_rate": 0.011,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.379,
+    "exam_heavy_positive_rate": 0.391,
     "homework_heavy": true,
     "homework_heavy_positive_rate": 0.54,
     "time_consuming": true,
@@ -591,9 +591,9 @@
     "project_heavy": false,
     "project_heavy_positive_rate": 0.033,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.361,
+    "exam_heavy_positive_rate": 0.328,
     "homework_heavy": true,
-    "homework_heavy_positive_rate": 0.361,
+    "homework_heavy_positive_rate": 0.344,
     "time_consuming": false,
     "time_consuming_positive_rate": 0.115
   },
@@ -606,7 +606,7 @@
     "exam_heavy": true,
     "exam_heavy_positive_rate": 0.5,
     "homework_heavy": true,
-    "homework_heavy_positive_rate": 0.5,
+    "homework_heavy_positive_rate": 0.667,
     "time_consuming": false,
     "time_consuming_positive_rate": 0.167
   },
@@ -628,11 +628,11 @@
     "review_count": 18,
     "low_evidence": false,
     "project_heavy": false,
-    "project_heavy_positive_rate": 0.278,
-    "exam_heavy": false,
-    "exam_heavy_positive_rate": 0.278,
+    "project_heavy_positive_rate": 0.111,
+    "exam_heavy": true,
+    "exam_heavy_positive_rate": 0.5,
     "homework_heavy": true,
-    "homework_heavy_positive_rate": 0.5,
+    "homework_heavy_positive_rate": 0.556,
     "time_consuming": false,
     "time_consuming_positive_rate": 0.222
   },
@@ -668,10 +668,10 @@
     "low_evidence": false,
     "project_heavy": true,
     "project_heavy_positive_rate": 0.375,
-    "exam_heavy": false,
-    "exam_heavy_positive_rate": 0.25,
+    "exam_heavy": true,
+    "exam_heavy_positive_rate": 0.312,
     "homework_heavy": true,
-    "homework_heavy_positive_rate": 0.312,
+    "homework_heavy_positive_rate": 0.375,
     "time_consuming": false,
     "time_consuming_positive_rate": 0.062
   },
@@ -697,7 +697,7 @@
     "exam_heavy": false,
     "exam_heavy_positive_rate": 0.1,
     "homework_heavy": false,
-    "homework_heavy_positive_rate": 0.2,
+    "homework_heavy_positive_rate": 0.1,
     "time_consuming": false,
     "time_consuming_positive_rate": 0.2
   },
@@ -708,9 +708,9 @@
     "project_heavy": false,
     "project_heavy_positive_rate": 0.0,
     "exam_heavy": false,
-    "exam_heavy_positive_rate": 0.067,
+    "exam_heavy_positive_rate": 0.0,
     "homework_heavy": false,
-    "homework_heavy_positive_rate": 0.2,
+    "homework_heavy_positive_rate": 0.067,
     "time_consuming": false,
     "time_consuming_positive_rate": 0.067
   },
@@ -723,9 +723,9 @@
     "exam_heavy": false,
     "exam_heavy_positive_rate": 0.091,
     "homework_heavy": true,
-    "homework_heavy_positive_rate": 0.409,
-    "time_consuming": true,
-    "time_consuming_positive_rate": 0.318
+    "homework_heavy_positive_rate": 0.364,
+    "time_consuming": false,
+    "time_consuming_positive_rate": 0.182
   },
   "DATA350": {
     "course_code": "DATA350",
@@ -736,7 +736,7 @@
     "exam_heavy": false,
     "exam_heavy_positive_rate": 0.286,
     "homework_heavy": true,
-    "homework_heavy_positive_rate": 0.571,
+    "homework_heavy_positive_rate": 0.429,
     "time_consuming": false,
     "time_consuming_positive_rate": 0.286
   },
@@ -747,24 +747,24 @@
     "project_heavy": false,
     "project_heavy_positive_rate": 0.148,
     "exam_heavy": false,
-    "exam_heavy_positive_rate": 0.136,
+    "exam_heavy_positive_rate": 0.148,
     "homework_heavy": false,
     "homework_heavy_positive_rate": 0.259,
     "time_consuming": false,
-    "time_consuming_positive_rate": 0.148
+    "time_consuming_positive_rate": 0.123
   },
   "INST327": {
     "course_code": "INST327",
     "review_count": 45,
     "low_evidence": false,
     "project_heavy": false,
-    "project_heavy_positive_rate": 0.267,
+    "project_heavy_positive_rate": 0.289,
     "exam_heavy": false,
-    "exam_heavy_positive_rate": 0.022,
+    "exam_heavy_positive_rate": 0.067,
     "homework_heavy": false,
-    "homework_heavy_positive_rate": 0.2,
+    "homework_heavy_positive_rate": 0.178,
     "time_consuming": false,
-    "time_consuming_positive_rate": 0.244
+    "time_consuming_positive_rate": 0.222
   },
   "INST414": {
     "course_code": "INST414",
@@ -773,11 +773,11 @@
     "project_heavy": false,
     "project_heavy_positive_rate": 0.125,
     "exam_heavy": false,
-    "exam_heavy_positive_rate": 0.208,
-    "homework_heavy": false,
-    "homework_heavy_positive_rate": 0.25,
+    "exam_heavy_positive_rate": 0.25,
+    "homework_heavy": true,
+    "homework_heavy_positive_rate": 0.333,
     "time_consuming": false,
-    "time_consuming_positive_rate": 0.25
+    "time_consuming_positive_rate": 0.208
   },
   "INST447": {
     "course_code": "INST447",
@@ -786,9 +786,9 @@
     "project_heavy": true,
     "project_heavy_positive_rate": 0.308,
     "exam_heavy": false,
-    "exam_heavy_positive_rate": 0.077,
+    "exam_heavy_positive_rate": 0.154,
     "homework_heavy": true,
-    "homework_heavy_positive_rate": 0.385,
+    "homework_heavy_positive_rate": 0.308,
     "time_consuming": false,
     "time_consuming_positive_rate": 0.231
   },
@@ -799,11 +799,11 @@
     "project_heavy": false,
     "project_heavy_positive_rate": 0.0,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.4,
+    "exam_heavy_positive_rate": 0.38,
     "homework_heavy": false,
-    "homework_heavy_positive_rate": 0.24,
+    "homework_heavy_positive_rate": 0.23,
     "time_consuming": false,
-    "time_consuming_positive_rate": 0.09
+    "time_consuming_positive_rate": 0.07
   },
   "MATH141": {
     "course_code": "MATH141",
@@ -812,11 +812,11 @@
     "project_heavy": false,
     "project_heavy_positive_rate": 0.0,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.34,
+    "exam_heavy_positive_rate": 0.36,
     "homework_heavy": false,
-    "homework_heavy_positive_rate": 0.24,
+    "homework_heavy_positive_rate": 0.21,
     "time_consuming": false,
-    "time_consuming_positive_rate": 0.1
+    "time_consuming_positive_rate": 0.07
   },
   "MATH240": {
     "course_code": "MATH240",
@@ -824,12 +824,12 @@
     "low_evidence": false,
     "project_heavy": false,
     "project_heavy_positive_rate": 0.01,
-    "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.323,
+    "exam_heavy": false,
+    "exam_heavy_positive_rate": 0.222,
     "homework_heavy": false,
     "homework_heavy_positive_rate": 0.091,
     "time_consuming": false,
-    "time_consuming_positive_rate": 0.04
+    "time_consuming_positive_rate": 0.03
   },
   "MATH241": {
     "course_code": "MATH241",
@@ -838,11 +838,11 @@
     "project_heavy": false,
     "project_heavy_positive_rate": 0.01,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.48,
+    "exam_heavy_positive_rate": 0.38,
     "homework_heavy": false,
-    "homework_heavy_positive_rate": 0.17,
+    "homework_heavy_positive_rate": 0.14,
     "time_consuming": false,
-    "time_consuming_positive_rate": 0.12
+    "time_consuming_positive_rate": 0.11
   },
   "MATH246": {
     "course_code": "MATH246",
@@ -851,11 +851,11 @@
     "project_heavy": false,
     "project_heavy_positive_rate": 0.02,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.42,
+    "exam_heavy_positive_rate": 0.33,
     "homework_heavy": false,
-    "homework_heavy_positive_rate": 0.16,
+    "homework_heavy_positive_rate": 0.15,
     "time_consuming": false,
-    "time_consuming_positive_rate": 0.09
+    "time_consuming_positive_rate": 0.08
   },
   "MATH310": {
     "course_code": "MATH310",
@@ -864,9 +864,9 @@
     "project_heavy": false,
     "project_heavy_positive_rate": 0.0,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.341,
+    "exam_heavy_positive_rate": 0.354,
     "homework_heavy": true,
-    "homework_heavy_positive_rate": 0.366,
+    "homework_heavy_positive_rate": 0.329,
     "time_consuming": false,
     "time_consuming_positive_rate": 0.28
   },
@@ -875,13 +875,13 @@
     "review_count": 100,
     "low_evidence": false,
     "project_heavy": false,
-    "project_heavy_positive_rate": 0.09,
-    "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.33,
-    "homework_heavy": true,
-    "homework_heavy_positive_rate": 0.32,
+    "project_heavy_positive_rate": 0.07,
+    "exam_heavy": false,
+    "exam_heavy_positive_rate": 0.29,
+    "homework_heavy": false,
+    "homework_heavy_positive_rate": 0.23,
     "time_consuming": false,
-    "time_consuming_positive_rate": 0.15
+    "time_consuming_positive_rate": 0.13
   },
   "MATH402": {
     "course_code": "MATH402",
@@ -890,9 +890,9 @@
     "project_heavy": false,
     "project_heavy_positive_rate": 0.0,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.6,
+    "exam_heavy_positive_rate": 0.4,
     "homework_heavy": true,
-    "homework_heavy_positive_rate": 0.6,
+    "homework_heavy_positive_rate": 0.4,
     "time_consuming": false,
     "time_consuming_positive_rate": 0.0
   },
@@ -903,9 +903,9 @@
     "project_heavy": false,
     "project_heavy_positive_rate": 0.0,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.442,
+    "exam_heavy_positive_rate": 0.404,
     "homework_heavy": true,
-    "homework_heavy_positive_rate": 0.346,
+    "homework_heavy_positive_rate": 0.327,
     "time_consuming": false,
     "time_consuming_positive_rate": 0.192
   },
@@ -918,7 +918,7 @@
     "exam_heavy": true,
     "exam_heavy_positive_rate": 0.545,
     "homework_heavy": true,
-    "homework_heavy_positive_rate": 0.818,
+    "homework_heavy_positive_rate": 0.727,
     "time_consuming": false,
     "time_consuming_positive_rate": 0.091
   },
@@ -929,9 +929,9 @@
     "project_heavy": false,
     "project_heavy_positive_rate": 0.0,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.383,
+    "exam_heavy_positive_rate": 0.34,
     "homework_heavy": true,
-    "homework_heavy_positive_rate": 0.489,
+    "homework_heavy_positive_rate": 0.426,
     "time_consuming": false,
     "time_consuming_positive_rate": 0.213
   },
@@ -941,12 +941,12 @@
     "low_evidence": false,
     "project_heavy": false,
     "project_heavy_positive_rate": 0.0,
-    "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.311,
+    "exam_heavy": false,
+    "exam_heavy_positive_rate": 0.295,
     "homework_heavy": true,
-    "homework_heavy_positive_rate": 0.443,
+    "homework_heavy_positive_rate": 0.393,
     "time_consuming": false,
-    "time_consuming_positive_rate": 0.246
+    "time_consuming_positive_rate": 0.18
   },
   "MATH410": {
     "course_code": "MATH410",
@@ -955,11 +955,11 @@
     "project_heavy": false,
     "project_heavy_positive_rate": 0.0,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.42,
+    "exam_heavy_positive_rate": 0.43,
     "homework_heavy": true,
     "homework_heavy_positive_rate": 0.33,
     "time_consuming": false,
-    "time_consuming_positive_rate": 0.12
+    "time_consuming_positive_rate": 0.1
   },
   "MATH411": {
     "course_code": "MATH411",
@@ -968,9 +968,9 @@
     "project_heavy": false,
     "project_heavy_positive_rate": 0.0,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.483,
-    "homework_heavy": true,
-    "homework_heavy_positive_rate": 0.31,
+    "exam_heavy_positive_rate": 0.448,
+    "homework_heavy": false,
+    "homework_heavy_positive_rate": 0.259,
     "time_consuming": false,
     "time_consuming_positive_rate": 0.224
   },
@@ -981,7 +981,7 @@
     "project_heavy": false,
     "project_heavy_positive_rate": 0.0,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.429,
+    "exam_heavy_positive_rate": 0.357,
     "homework_heavy": false,
     "homework_heavy_positive_rate": 0.286,
     "time_consuming": false,
@@ -1009,7 +1009,7 @@
     "exam_heavy": false,
     "exam_heavy_positive_rate": 0.25,
     "homework_heavy": false,
-    "homework_heavy_positive_rate": 0.25,
+    "homework_heavy_positive_rate": 0.125,
     "time_consuming": false,
     "time_consuming_positive_rate": 0.0
   },
@@ -1018,11 +1018,11 @@
     "review_count": 15,
     "low_evidence": false,
     "project_heavy": false,
-    "project_heavy_positive_rate": 0.267,
-    "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.4,
-    "homework_heavy": true,
-    "homework_heavy_positive_rate": 0.4,
+    "project_heavy_positive_rate": 0.2,
+    "exam_heavy": false,
+    "exam_heavy_positive_rate": 0.2,
+    "homework_heavy": false,
+    "homework_heavy_positive_rate": 0.267,
     "time_consuming": false,
     "time_consuming_positive_rate": 0.067
   },
@@ -1045,10 +1045,10 @@
     "low_evidence": false,
     "project_heavy": false,
     "project_heavy_positive_rate": 0.0,
-    "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.364,
-    "homework_heavy": true,
-    "homework_heavy_positive_rate": 0.364,
+    "exam_heavy": false,
+    "exam_heavy_positive_rate": 0.273,
+    "homework_heavy": false,
+    "homework_heavy_positive_rate": 0.273,
     "time_consuming": false,
     "time_consuming_positive_rate": 0.091
   },
@@ -1098,7 +1098,7 @@
     "project_heavy": false,
     "project_heavy_positive_rate": 0.0,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.333,
+    "exam_heavy_positive_rate": 0.667,
     "homework_heavy": false,
     "homework_heavy_positive_rate": 0.0,
     "time_consuming": false,
@@ -1135,9 +1135,9 @@
     "review_count": 5,
     "low_evidence": true,
     "project_heavy": false,
-    "project_heavy_positive_rate": 0.2,
+    "project_heavy_positive_rate": 0.0,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.4,
+    "exam_heavy_positive_rate": 0.6,
     "homework_heavy": true,
     "homework_heavy_positive_rate": 0.6,
     "time_consuming": false,
@@ -1150,11 +1150,11 @@
     "project_heavy": false,
     "project_heavy_positive_rate": 0.0,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.413,
+    "exam_heavy_positive_rate": 0.36,
     "homework_heavy": true,
-    "homework_heavy_positive_rate": 0.453,
+    "homework_heavy_positive_rate": 0.4,
     "time_consuming": false,
-    "time_consuming_positive_rate": 0.187
+    "time_consuming_positive_rate": 0.173
   },
   "PHYS122": {
     "course_code": "PHYS122",
@@ -1163,7 +1163,7 @@
     "project_heavy": false,
     "project_heavy_positive_rate": 0.0,
     "exam_heavy": false,
-    "exam_heavy_positive_rate": 0.211,
+    "exam_heavy_positive_rate": 0.158,
     "homework_heavy": false,
     "homework_heavy_positive_rate": 0.105,
     "time_consuming": false,
@@ -1176,11 +1176,11 @@
     "project_heavy": false,
     "project_heavy_positive_rate": 0.015,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.418,
+    "exam_heavy_positive_rate": 0.388,
     "homework_heavy": true,
-    "homework_heavy_positive_rate": 0.522,
+    "homework_heavy_positive_rate": 0.493,
     "time_consuming": false,
-    "time_consuming_positive_rate": 0.254
+    "time_consuming_positive_rate": 0.224
   },
   "PHYS132": {
     "course_code": "PHYS132",
@@ -1189,9 +1189,9 @@
     "project_heavy": false,
     "project_heavy_positive_rate": 0.0,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.355,
+    "exam_heavy_positive_rate": 0.323,
     "homework_heavy": true,
-    "homework_heavy_positive_rate": 0.484,
+    "homework_heavy_positive_rate": 0.452,
     "time_consuming": false,
     "time_consuming_positive_rate": 0.258
   },
@@ -1228,11 +1228,11 @@
     "project_heavy": false,
     "project_heavy_positive_rate": 0.0,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.48,
-    "homework_heavy": true,
-    "homework_heavy_positive_rate": 0.31,
+    "exam_heavy_positive_rate": 0.47,
+    "homework_heavy": false,
+    "homework_heavy_positive_rate": 0.28,
     "time_consuming": false,
-    "time_consuming_positive_rate": 0.16
+    "time_consuming_positive_rate": 0.15
   },
   "PHYS261": {
     "course_code": "PHYS261",
@@ -1242,8 +1242,8 @@
     "project_heavy_positive_rate": 0.0,
     "exam_heavy": false,
     "exam_heavy_positive_rate": 0.053,
-    "homework_heavy": true,
-    "homework_heavy_positive_rate": 0.316,
+    "homework_heavy": false,
+    "homework_heavy_positive_rate": 0.263,
     "time_consuming": false,
     "time_consuming_positive_rate": 0.053
   },
@@ -1253,12 +1253,12 @@
     "low_evidence": false,
     "project_heavy": false,
     "project_heavy_positive_rate": 0.0,
-    "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.376,
+    "exam_heavy": false,
+    "exam_heavy_positive_rate": 0.282,
     "homework_heavy": false,
-    "homework_heavy_positive_rate": 0.188,
+    "homework_heavy_positive_rate": 0.153,
     "time_consuming": false,
-    "time_consuming_positive_rate": 0.094
+    "time_consuming_positive_rate": 0.106
   },
   "PHYS271": {
     "course_code": "PHYS271",
@@ -1269,7 +1269,7 @@
     "exam_heavy": false,
     "exam_heavy_positive_rate": 0.2,
     "homework_heavy": false,
-    "homework_heavy_positive_rate": 0.2,
+    "homework_heavy_positive_rate": 0.1,
     "time_consuming": false,
     "time_consuming_positive_rate": 0.2
   },
@@ -1281,8 +1281,8 @@
     "project_heavy_positive_rate": 0.0,
     "exam_heavy": true,
     "exam_heavy_positive_rate": 0.333,
-    "homework_heavy": true,
-    "homework_heavy_positive_rate": 0.333,
+    "homework_heavy": false,
+    "homework_heavy_positive_rate": 0.292,
     "time_consuming": false,
     "time_consuming_positive_rate": 0.167
   },
@@ -1292,12 +1292,12 @@
     "low_evidence": false,
     "project_heavy": false,
     "project_heavy_positive_rate": 0.0,
-    "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.312,
-    "homework_heavy": true,
-    "homework_heavy_positive_rate": 0.312,
+    "exam_heavy": false,
+    "exam_heavy_positive_rate": 0.25,
+    "homework_heavy": false,
+    "homework_heavy_positive_rate": 0.188,
     "time_consuming": false,
-    "time_consuming_positive_rate": 0.125
+    "time_consuming_positive_rate": 0.062
   },
   "PHYS402": {
     "course_code": "PHYS402",
@@ -1321,7 +1321,7 @@
     "exam_heavy": true,
     "exam_heavy_positive_rate": 0.529,
     "homework_heavy": true,
-    "homework_heavy_positive_rate": 0.529,
+    "homework_heavy_positive_rate": 0.471,
     "time_consuming": false,
     "time_consuming_positive_rate": 0.294
   },
@@ -1343,11 +1343,11 @@
     "review_count": 100,
     "low_evidence": false,
     "project_heavy": false,
-    "project_heavy_positive_rate": 0.06,
+    "project_heavy_positive_rate": 0.05,
     "exam_heavy": false,
-    "exam_heavy_positive_rate": 0.16,
+    "exam_heavy_positive_rate": 0.12,
     "homework_heavy": false,
-    "homework_heavy_positive_rate": 0.26,
+    "homework_heavy_positive_rate": 0.21,
     "time_consuming": false,
     "time_consuming_positive_rate": 0.1
   },
@@ -1362,33 +1362,33 @@
     "homework_heavy": true,
     "homework_heavy_positive_rate": 0.34,
     "time_consuming": false,
-    "time_consuming_positive_rate": 0.06
+    "time_consuming_positive_rate": 0.05
   },
   "STAT401": {
     "course_code": "STAT401",
     "review_count": 90,
     "low_evidence": false,
     "project_heavy": false,
-    "project_heavy_positive_rate": 0.089,
+    "project_heavy_positive_rate": 0.056,
     "exam_heavy": false,
-    "exam_heavy_positive_rate": 0.267,
-    "homework_heavy": true,
-    "homework_heavy_positive_rate": 0.311,
+    "exam_heavy_positive_rate": 0.211,
+    "homework_heavy": false,
+    "homework_heavy_positive_rate": 0.256,
     "time_consuming": false,
-    "time_consuming_positive_rate": 0.189
+    "time_consuming_positive_rate": 0.156
   },
   "STAT410": {
     "course_code": "STAT410",
     "review_count": 99,
     "low_evidence": false,
     "project_heavy": false,
-    "project_heavy_positive_rate": 0.02,
+    "project_heavy_positive_rate": 0.01,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.414,
+    "exam_heavy_positive_rate": 0.384,
     "homework_heavy": true,
-    "homework_heavy_positive_rate": 0.343,
+    "homework_heavy_positive_rate": 0.323,
     "time_consuming": false,
-    "time_consuming_positive_rate": 0.222
+    "time_consuming_positive_rate": 0.212
   },
   "STAT420": {
     "course_code": "STAT420",
@@ -1397,22 +1397,22 @@
     "project_heavy": false,
     "project_heavy_positive_rate": 0.029,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.441,
+    "exam_heavy_positive_rate": 0.471,
     "homework_heavy": true,
     "homework_heavy_positive_rate": 0.412,
     "time_consuming": false,
-    "time_consuming_positive_rate": 0.235
+    "time_consuming_positive_rate": 0.176
   },
   "STAT430": {
     "course_code": "STAT430",
     "review_count": 48,
     "low_evidence": false,
     "project_heavy": false,
-    "project_heavy_positive_rate": 0.146,
+    "project_heavy_positive_rate": 0.083,
     "exam_heavy": true,
-    "exam_heavy_positive_rate": 0.375,
-    "homework_heavy": true,
-    "homework_heavy_positive_rate": 0.312,
+    "exam_heavy_positive_rate": 0.354,
+    "homework_heavy": false,
+    "homework_heavy_positive_rate": 0.292,
     "time_consuming": false,
     "time_consuming_positive_rate": 0.125
   }
