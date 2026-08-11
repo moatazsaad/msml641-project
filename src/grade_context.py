@@ -2,6 +2,7 @@
 aggregates grade data 
 """
 
+
 GRADE_GROUPS = {
     "A": ["A+", "A", "A-"],
     "B": ["B+", "B", "B-"],
