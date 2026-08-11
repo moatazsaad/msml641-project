@@ -110,3 +110,67 @@ def test_above_threshold_is_true():
 
     assert course["project_heavy_positive_rate"] == 0.40
     assert course["project_heavy"] is True
+def test_low_review_count_can_still_be_positive():
+    reviews_df = pd.DataFrame([
+        {"review_id": "r1", "course_id": "CMSC216"},
+        {"review_id": "r2", "course_id": "CMSC216"},
+        {"review_id": "r3", "course_id": "CMSC216"},
+    ])
+
+    predictions = {
+        "project_heavy": [1, 0, 0],
+        "exam_heavy": [0, 0, 0],
+        "homework_heavy": [0, 0, 0],
+        "time_consuming": [0, 0, 0],
+    }
+
+    labeled_df = pd.DataFrame(
+        columns=[
+            "review_id",
+            "project_heavy",
+            "exam_heavy",
+            "homework_heavy",
+            "time_consuming",
+        ]
+    )
+
+    result = aggregate_course_signals(
+        reviews_df,
+        predictions,
+        labeled_df,
+    )
+
+    course = result["CMSC216"]
+
+    assert course["project_heavy_positive_rate"] == 0.333
+    assert course["project_heavy"] is True
+    assert course["low_evidence"] is True
+def test_zero_reviews_returns_no_course_signal():
+    reviews_df = pd.DataFrame(
+        columns=["review_id", "course_id"]
+    )
+
+    predictions = {
+        "project_heavy": [],
+        "exam_heavy": [],
+        "homework_heavy": [],
+        "time_consuming": [],
+    }
+
+    labeled_df = pd.DataFrame(
+        columns=[
+            "review_id",
+            "project_heavy",
+            "exam_heavy",
+            "homework_heavy",
+            "time_consuming",
+        ]
+    )
+
+    result = aggregate_course_signals(
+        reviews_df,
+        predictions,
+        labeled_df,
+    )
+
+    assert result == {}
