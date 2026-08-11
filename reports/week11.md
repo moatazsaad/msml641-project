@@ -72,7 +72,7 @@ The current TerpLoad flow is:
 
 ## Individual contributions
 
-* Moataz Abdelaziz (Product): Audited weak labels, fixed confirmed-wrong labels, regenerated splits, retrained TF-IDF and DistilBERT, updated DistilBERT training code, added requirements. (evidence: issue #48, PR #Y)
+* Moataz Abdelaziz (Product): Audited weak labels, fixed confirmed-wrong labels, regenerated splits, retrained TF-IDF and DistilBERT, updated DistilBERT training code, added requirements. (evidence: issue #48, PR #49)
 * Abhiram Metuku (Data&Eval): To (evidence: issue #X, PR #Y)
 * Sriram Vema (Engineering): To  (evidence: issue #X, PR #Y)
 
