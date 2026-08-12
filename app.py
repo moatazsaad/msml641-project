@@ -19,22 +19,17 @@ import html
 import sys
 from pathlib import Path
 
-import pandas as pd
 import streamlit as st
 
 sys.path.insert(0, str(Path(__file__).parent / "src"))
 
 from risk_rules import estimate_schedule_risk  # noqa: E402
-from simple_report_cli import (  # noqa: E402
-    build_course_inputs,
-    get_low_evidence_courses,
-    load_course_signals,
-)
+from course_profile_service import CourseProfileService  # noqa: E402
+from distilbert_inference import SavedModelUnavailableError  # noqa: E402
+from simple_report_cli import build_course_inputs, get_low_evidence_courses  # noqa: E402
 from workload_labels import WORKLOAD_LABELS  # noqa: E402
 
 st.set_page_config(page_title="TerpLoad", page_icon="📚", layout="centered")
-
-LABELED_DATA_PATH = "data/weakly_labeled_reviews_full.csv"
 
 RISK_COLORS = {"Low": "low", "Medium": "medium", "High": "high"}
 
@@ -147,23 +142,10 @@ st.markdown(
 )
 
 
-@st.cache_data
-def load_evidence_quotes():
-    """Real quoted excerpts from labeled reviews, keyed by course code.
-
-    Only uses evidence_snippet (an actual quote from the review text) -
-    never label_rationale, which is our own note about *why* we labeled
-    it that way, not something the student wrote.
-    """
-    labeled = pd.read_csv(LABELED_DATA_PATH)
-
-    quotes = {}
-    for _, row in labeled.iterrows():
-        snippet = str(row.get("evidence_snippet", "")).strip()
-        if not snippet or snippet.lower() == "nan":
-            continue
-        quotes.setdefault(row["course"], []).append(snippet)
-    return quotes
+@st.cache_resource
+def get_course_service():
+    """Keep the profile cache and loaded DistilBERT model across reruns."""
+    return CourseProfileService()
 
 
 def compute_confidence(courses, courses_without_data):
@@ -193,9 +175,7 @@ def best_move_text(result, courses_without_data):
     return "Looks manageable based on the review data we have."
 
 
-course_signals = load_course_signals()
-known_courses = sorted(course_signals.keys())
-evidence_quotes = load_evidence_quotes()
+course_service = get_course_service()
 
 st.markdown('<div class="terpload-title">TERPLOAD</div>', unsafe_allow_html=True)
 st.markdown(
@@ -206,24 +186,33 @@ st.markdown(
 st.caption("Select your courses")
 picker_col, button_col = st.columns([5, 1])
 with picker_col:
-    picked = st.multiselect(
+    picked = st.text_input(
         "Courses",
-        options=known_courses,
-        default=[],
+        placeholder="e.g. CMSC330, CMSC351, STAT400",
         label_visibility="collapsed",
-        help="Courses we have real review data for.",
+        help="Enter 3-5 UMD course codes. New valid courses are fetched and analyzed once.",
     )
 with button_col:
     run = st.button("↑", type="primary", use_container_width=True, disabled=not picked)
 
-extra_text = st.text_input(
-    "Other course codes (comma-separated, no review data yet)",
-    placeholder="e.g. MATH410",
-)
-extra_courses = [c.strip().upper() for c in extra_text.split(",") if c.strip()]
-course_codes = picked + [c for c in extra_courses if c not in picked]
+course_codes = list(dict.fromkeys(c.strip().upper() for c in picked.split(",") if c.strip()))
 
-if (run or extra_courses) and course_codes:
+if run and course_codes:
+    if not 3 <= len(course_codes) <= 5:
+        st.error("Enter between 3 and 5 courses for a schedule analysis.")
+        st.stop()
+    try:
+        course_signals = {
+            course_code: course_service.get_profile(course_code)
+            for course_code in course_codes
+        }
+    except SavedModelUnavailableError as error:
+        st.error(str(error))
+        st.stop()
+    except Exception as error:
+        st.error(f"Could not retrieve and analyze course reviews: {error}")
+        st.stop()
+
     courses, courses_without_data = build_course_inputs(course_codes, course_signals)
     result = estimate_schedule_risk(courses)
     low_evidence_courses = get_low_evidence_courses(courses)
@@ -310,7 +299,7 @@ if (run or extra_courses) and course_codes:
         evidence_html = ""
         for c in known_selected:
             course_code = c["course_code"]
-            for quote in evidence_quotes.get(course_code, [])[:2]:
+            for quote in c.get("evidence_snippets", [])[:2]:
                 evidence_html += (
                     f'<div class="evidence-quote">"{html.escape(quote)}"</div>'
                     f'<div class="evidence-source">{html.escape(course_code)}</div>'

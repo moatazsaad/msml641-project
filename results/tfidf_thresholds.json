@@ -1,6 +1,6 @@
 {
-    "project_heavy": 0.6,
+    "project_heavy": 0.5,
     "exam_heavy": 0.45,
-    "homework_heavy": 0.55,
+    "homework_heavy": 0.5,
     "time_consuming": 0.55
 }
