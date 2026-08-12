@@ -74,5 +74,6 @@ The current TerpLoad flow is:
 
 * Moataz Abdelaziz (Product): Audited weak labels, fixed confirmed-wrong labels, regenerated splits, retrained TF-IDF and DistilBERT, updated DistilBERT training code, added requirements. (evidence: issue #48, PR #49)
 * Abhiram Metuku (Data&Eval): To (evidence: issue #X, PR #Y)
-* Sriram Vema (Engineering): To  (evidence: issue #X, PR #Y)
+* Sriram Vema (Engineering): Final DistilBERT integration, Live new-course review fetching, Saved-model inference, Caching/backend servic, Backend/API testing
+ (evidence: PR #50)
 
