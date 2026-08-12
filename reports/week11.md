@@ -2,7 +2,7 @@
 
 team: TerpLoad
 week: 11
-date: 2026-08-10
+date: 2026-08-12
 
 members:
 - name: Moataz Abdelaziz
@@ -45,8 +45,11 @@ The current TerpLoad flow is:
 * cleaned PlanetTerp reviews
 * corrected weak labels
 * train / validation / test splits
-* TF-IDF and DistilBERT training
-* course workload signals
+* TF-IDF and DistilBERT training/evaluation
+* saved DistilBERT inference
+* course workload aggregation
+* low-evidence handling and grade context
+* schedule-risk calculation
 * CLI / Streamlit report
 
 ## Metrics snapshot
@@ -60,16 +63,17 @@ The current TerpLoad flow is:
 * DistilBERT macro F1: 0.739
 * DistilBERT micro F1: 0.738
 * Final model selected: DistilBERT
-* `requirements.txt` added
 
 ## Challenges / blockers
 
 * The audit focused on labels incorrectly marked as `1`
+* Courses with few reviews have less reliable workload estimates
+* Long reviews may be truncated by DistilBERT’s input limit
 
 ## Next week's goal
 
 * Update `docs/error_analysis.md`
-* Prepare final model results for the report/demo
+* Prepare final model results for the report/demo and presentation
 
 ## Individual contributions
 
