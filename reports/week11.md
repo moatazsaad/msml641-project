@@ -24,16 +24,15 @@ north_star:
 
 ## Shipped this week
 
-* Audited weak labels that were marked as positive but contradicted the review text
-* Hand-checked flagged reviews before changing labels
-* Fixed 493 confirmed-wrong labels in the master labeled CSV
-* Regenerated `data/splits/train.csv`, `data/splits/val.csv`, and `data/splits/test.csv`
-* Retrained TF-IDF on the corrected labels
-* Updated and retrained DistilBERT on the corrected labels
-* Added class weighting to DistilBERT
-* Added a fixed random seed and main guard to `train_distilbert.py`
-* Added `requirements.txt`
-* Regenerated `data/course_workload_signals.json`
+* Audited and corrected weak labels, fixing 493 confirmed-wrong labels
+* Regenerated train/validation/test splits and retrained TF-IDF and DistilBERT
+* Selected DistilBERT as the final model based on stronger evaluation results
+* Validated thresholds and course-level workload aggregation
+* Added low-evidence handling and historical grade context
+* Verified that grades do not affect workload signals or schedule risk
+* Integrated final DistilBERT inference into the backend
+* Added live review fetching for new courses, caching, and backend/API testing
+* Regenerated course workload signals and updated project requirements
 
 ## User / validation learning
 
@@ -73,7 +72,7 @@ The current TerpLoad flow is:
 ## Individual contributions
 
 * Moataz Abdelaziz (Product): Audited weak labels, fixed confirmed-wrong labels, regenerated splits, retrained TF-IDF and DistilBERT, updated DistilBERT training code, added requirements. (evidence: [issue #48](https://github.com/moatazsaad/msml641-project/issues/48), [PR #49](https://github.com/moatazsaad/msml641-project/pull/49))
-* Abhiram Metuku (Data&Eval): To (evidence: [issue #46](https://github.com/moatazsaad/msml641-project/issues/46), [PR #47](https://github.com/moatazsaad/msml641-project/pull/47))
+* Abhiram Metuku (Data&Eval): Compared final TF-IDF and DistilBERT results, validated model thresholds, tested course-level workload aggregation, implemented low-evidence handling and grade-context logic, and added evaluation/tests for schedule-risk behavior. (evidence: [issue #46](https://github.com/moatazsaad/msml641-project/issues/46), [PR #47](https://github.com/moatazsaad/msml641-project/pull/47))
 * Sriram Vema (Engineering): Final DistilBERT integration, Live new-course review fetching, Saved-model inference, Caching/backend servic, Backend/API testing
  (evidence: [PR #50](https://github.com/moatazsaad/msml641-project/pull/50))
 
