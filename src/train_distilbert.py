@@ -17,6 +17,7 @@ import joblib
 import numpy as np
 import pandas as pd
 import torch
+from tqdm.auto import tqdm
 
 from sklearn.metrics import (
     accuracy_score,
@@ -47,6 +48,11 @@ MAX_LENGTH = 256
 BATCH_SIZE = 8
 EPOCHS = 3
 LR = 2e-5
+MODEL_NAME = "distilbert-base-uncased"
+# The project environment already caches the base checkpoint. Prefer it so a
+# retraining run is reproducible and does not fail on a restricted network.
+# Set HF_LOCAL_FILES_ONLY=0 to explicitly allow a fresh Hugging Face download.
+LOCAL_FILES_ONLY = os.getenv("HF_LOCAL_FILES_ONLY", "1").strip() != "0"
 
 # Fixed so a rerun on the same data reproduces the same model instead of a
 # different random initialization/shuffle every time.
@@ -74,7 +80,10 @@ def main():
     val_labels=val_df[LABEL_COLUMNS].astype(int).values
     test_labels=test_df[LABEL_COLUMNS].astype(int).values
 
-    tokenizer=DistilBertTokenizer.from_pretrained("distilbert-base-uncased")
+    tokenizer=DistilBertTokenizer.from_pretrained(
+        MODEL_NAME,
+        local_files_only=LOCAL_FILES_ONLY,
+    )
 
     def encode(texts):
         return tokenizer(texts,truncation=True,padding=True,max_length=MAX_LENGTH)
@@ -96,10 +105,17 @@ def main():
 
     device=torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
+    print(
+        "Loaded data: "
+        f"{len(train_df)} train, {len(val_df)} validation, {len(test_df)} test rows. "
+        f"Using {device}."
+    )
+
     model=DistilBertForSequenceClassification.from_pretrained(
-        "distilbert-base-uncased",
+        MODEL_NAME,
         num_labels=len(LABEL_COLUMNS),
         problem_type="multi_label_classification",
+        local_files_only=LOCAL_FILES_ONLY,
     ).to(device)
 
     optimizer=torch.optim.AdamW(model.parameters(),lr=LR)
@@ -112,11 +128,16 @@ def main():
     pos_weight=torch.tensor(neg_counts/pos_counts,dtype=torch.float).to(device)
     criterion=torch.nn.BCEWithLogitsLoss(pos_weight=pos_weight)
 
-    print("Training...")
+    print(f"Training for {EPOCHS} epochs ({len(train_loader)} batches per epoch)...")
     model.train()
     for epoch in range(EPOCHS):
         loss_sum=0
-        for batch in train_loader:
+        progress=tqdm(
+            train_loader,
+            desc=f"Epoch {epoch + 1}/{EPOCHS}",
+            unit="batch",
+        )
+        for batch_num, batch in enumerate(progress, start=1):
             optimizer.zero_grad()
             batch={k:v.to(device) for k,v in batch.items()}
             out=model(input_ids=batch["input_ids"],attention_mask=batch["attention_mask"])
@@ -124,7 +145,8 @@ def main():
             loss.backward()
             optimizer.step()
             loss_sum+=loss.item()
-        print(f"Epoch {epoch+1}: {loss_sum/len(train_loader):.4f}")
+            progress.set_postfix(loss=f"{loss.item():.4f}", avg_loss=f"{loss_sum / batch_num:.4f}")
+        print(f"Epoch {epoch+1}/{EPOCHS} complete — average loss: {loss_sum/len(train_loader):.4f}")
 
     def predict(loader):
         model.eval()

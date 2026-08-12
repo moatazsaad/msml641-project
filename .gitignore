@@ -1,3 +1,6 @@
 .venv/
 __pycache__/
-*.pycresults/distilbert_model/
+*.pyc
+results/distilbert_training*.log
+results/distilbert_training.pid
+data/cache/course_profiles_distilbert.json

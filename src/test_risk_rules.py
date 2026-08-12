@@ -108,6 +108,37 @@ def main():
             failed += 1
     # Print the final test summary
     print(f"\n{passed} passed, {failed} failed")
+    
+def test_grade_context_does_not_change_schedule_risk():
+    course_without_grades = {
+        "course_code": "CMSC216",
+        "project_heavy": True,
+        "exam_heavy": False,
+        "homework_heavy": True,
+        "time_consuming": False,
+    }
+
+    course_with_grades = {
+        **course_without_grades,
+        "grade_context": {
+            "a_range_rate": 0.10,
+            "b_range_rate": 0.20,
+            "c_range_rate": 0.30,
+            "d_range_rate": 0.15,
+            "f_rate": 0.15,
+            "withdrawal_rate": 0.10,
+        },
+    }
+
+    result_without_grades = estimate_schedule_risk(
+        [course_without_grades]
+    )
+
+    result_with_grades = estimate_schedule_risk(
+        [course_with_grades]
+    )
+
+    assert result_without_grades == result_with_grades
 
 if __name__ == "__main__":
     main()
