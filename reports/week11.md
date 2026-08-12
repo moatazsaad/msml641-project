@@ -52,13 +52,15 @@ The current TerpLoad flow is:
 ## Metrics snapshot
 
 * Confirmed-wrong labels fixed: 493
+* Test set size: 760 reviews
 * TF-IDF subset accuracy: 0.537
 * TF-IDF macro F1: 0.652
 * TF-IDF micro F1: 0.667
-* DistilBERT subset accuracy: 0.661
-* DistilBERT macro F1: 0.725
-* DistilBERT micro F1: 0.723
-* `requirements.txt` added: yes
+* DistilBERT subset accuracy: 0.647
+* DistilBERT macro F1: 0.739
+* DistilBERT micro F1: 0.738
+* Final model selected: DistilBERT
+* `requirements.txt` added
 
 ## Challenges / blockers
 
