@@ -23,6 +23,7 @@ import streamlit as st
 
 sys.path.insert(0, str(Path(__file__).parent / "src"))
 
+from planetterp_client import grade_context
 from risk_rules import estimate_schedule_risk  # noqa: E402
 from course_profile_service import CourseProfileService  # noqa: E402
 from distilbert_inference import SavedModelUnavailableError  # noqa: E402
