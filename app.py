@@ -23,7 +23,7 @@ import streamlit as st
 
 sys.path.insert(0, str(Path(__file__).parent / "src"))
 
-from planetterp_client import grade_context
+from planetterp_client import get_grade_context
 from risk_rules import estimate_schedule_risk  # noqa: E402
 from course_profile_service import CourseProfileService  # noqa: E402
 from distilbert_inference import SavedModelUnavailableError  # noqa: E402
@@ -147,6 +147,16 @@ st.markdown(
 def get_course_service():
     """Keep the profile cache and loaded DistilBERT model across reruns."""
     return CourseProfileService()
+
+@st.cache_data(ttl=3600)
+def load_grade_context(course_code):
+    """fetches historical grade context and no need for refetching later"""
+    try:
+        return get_grade_context(course_code)
+    except Exception:
+        return None
+
+
 
 
 def compute_confidence(courses, courses_without_data):
@@ -272,6 +282,12 @@ if run and course_codes:
     known_selected = [c for c in courses if c["course_code"] in course_signals]
     if known_selected:
         rows_html = ""
+        for c in known_selected:
+            course_code = c["course_code"]
+            grade_context = load_grade_context(course_code)
+
+    if grade_context:
+        st.write(course_code, grade_context)
         for c in known_selected:
             active_labels = [label for label in WORKLOAD_LABELS if c.get(label)]
             tag_html = "".join(f'<span class="tag">{label.replace("_", "-").upper()}</span>' for label in active_labels)
