@@ -62,7 +62,37 @@ def fetch_grades(course_code):
     response.raise_for_status()
 
     return response.json()
-  
+
+
 def get_grade_context(course_code):
-    grade_rows = fetch_grades(course_code)
-    return aggregate_grade_rows(grade_rows)
+    """Return grade context, trying the matching DATA code for MSML courses."""
+    requested_course = normalize_course_code(course_code)
+
+    candidate_codes = [requested_course]
+
+    # The important relationship is the MSML/DATA prefix.
+    # Example: if MSML601 has no direct grade rows, try DATA601.
+    if requested_course.startswith("MSML"):
+        course_number = requested_course[4:]
+
+        if course_number.isdigit():
+            candidate_codes.append(f"DATA{course_number}")
+
+    for source_course in candidate_codes:
+        try:
+            grade_rows = fetch_grades(source_course)
+        except requests.RequestException:
+            # A missing fallback course should not break the app.
+            continue
+
+        context = aggregate_grade_rows(grade_rows)
+
+        if context:
+            context["requested_course_code"] = requested_course
+            context["grade_source_course_code"] = source_course
+            context["used_crosslist_fallback"] = (
+                source_course != requested_course
+            )
+            return context
+
+    return None
