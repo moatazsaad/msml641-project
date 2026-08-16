@@ -62,7 +62,7 @@ The current TerpLoad flow is:
 
 ## Individual contributions
 
-* Moataz Abdelaziz (Product): Updated error analysis, cleaned dead files, drafted the final report, drafted the final slides, and added final setup notes. (evidence: issue #52, PR #Y)
+* Moataz Abdelaziz (Product): Updated error analysis, cleaned dead files, drafted the final report, drafted the final slides, and added final setup notes. (evidence: issue #52, PR #53)
 * Abhiram Metuku (Data&Eval):  (evidence: issue #X, PR #Y)
 * Sriram Vema (Engineering): (evidence: issue #X, PR #Y)
 
