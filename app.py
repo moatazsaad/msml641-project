@@ -317,4 +317,4 @@ if run and course_codes:
             )
 
 elif not course_codes:
-    st.caption("Pick at least one course to get a report.")
+    st.caption("Enter 3 to 5 courses to get a report")
