@@ -42,3 +42,8 @@ For a course without an existing DistilBERT profile, TerpLoad requests reviews
 from PlanetTerp, classifies them with that saved model, and persists the result
 to `data/cache/course_profiles_distilbert.json`. Later requests reuse that
 profile and do not refetch or rerun inference.
+
+The repository includes precomputed DistilBERT profiles for the two stable
+demo schedules. See the [production architecture](docs/architecture.md) and
+[release/demo runbook](docs/release_runbook.md) for deployment checks and the
+presentation fallback procedure.

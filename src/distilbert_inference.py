@@ -9,7 +9,8 @@ from transformers import AutoModelForSequenceClassification, AutoTokenizer
 from workload_labels import get_workload_labels
 
 
-DEFAULT_MODEL_DIR = Path("results/distilbert_model")
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+DEFAULT_MODEL_DIR = PROJECT_ROOT / "results" / "distilbert_model"
 
 
 class SavedModelUnavailableError(RuntimeError):
@@ -26,6 +27,19 @@ class DistilBertWorkloadModel:
                 "Saved DistilBERT model not found at "
                 f"{self.model_dir}. Copy the training output directory there; "
                 "the application never retrains during inference."
+            )
+
+        weights_path = self.model_dir / "model.safetensors"
+        if not weights_path.exists():
+            raise SavedModelUnavailableError(
+                f"Saved DistilBERT weights not found at {weights_path}."
+            )
+        with weights_path.open("rb") as file:
+            prefix = file.read(128)
+        if prefix.startswith(b"version https://git-lfs.github.com/spec/v1"):
+            raise SavedModelUnavailableError(
+                "model.safetensors is a Git LFS pointer, not the trained model. "
+                "Install Git LFS and pull the artifact before starting the app."
             )
 
         self.labels = get_workload_labels()

@@ -1,0 +1,110 @@
+{
+  "CMSC330": {
+    "course_code": "CMSC330",
+    "review_count": 278,
+    "low_evidence": false,
+    "model": "distilbert",
+    "evidence_snippets": [
+      "He is one of the best professor I have ever had and he is totally fair. He knows the materials very well and there is always a decent curve on his grades around ten points. He loves his students and never let them go down and if you need him please go to his office hours. His both midterms are long but easy. %50 of the grade is for projects. If you do your project and get around average for your test you can pass the class easily with b/c . He is talking very very fast but you will get used to it. He tests you on what you know not what you memorize. His hardest project was 4th project and the 5th one..... so do your best on the first 3 ... they are not easy but interesting and doable without any TA's help. He is always on time and on his schedule. he provides solution for all of his tests and quizzes..  he is awesome. I will take a class with him if i can",
+      "He isn't perfect, but there's one reason I'm giving him five stars: I can tell he actually tries to adjust his teaching style as opposed to holding onto how he teaches the course every time. This means that over time, he is going to become an even better professor as he drops things that didn't work and holds on to things that did.\n\r\nFor example, in 2008 someone commented that it was \"purely a slides class.\" A friend who took the course a couple years back also said it was very slide-heavy at the time. This semester, he used the slides sometimes, but didn't teach purely off of the slides. They played more of a supportive role, and oftentimes he didn't even use the slides at all and gave several real-time examples and the like.\n\r\nProjects were kind of a mix. I thought they were mostly fun, but toward the end the public tests dealt with nothing more than basic functionality, which isn't a bad thing, but you have to be aware of it and actually test your code. Practice exams, practice problems, and slides were sufficient for studying for exams, but I had to study pretty hard to get As (according to my browser, I visited the class website 226 times this semester).\n\r\nI know a lot of people care about this, so yes, there was a curve even though the raw mean was a 74.\n\r\nPotential drawbacks: I never asked for an extension in his class, but I did hear he was relatively unaccommodating about them. If you are taking this class at the same time as, say, a class with Meesh, and your life is hard, you should try to finish your assignments for this class on time and ask Meesh for the extension. If you know ahead of time you're going to have a really tough semester for whatever reason, I'd consider holding back on this course until your life clears up a little, if you can afford to.\n\r\ntl;dr not perfect, but good and improving, definitely worth taking"
+    ],
+    "project_heavy": true,
+    "project_heavy_positive_rate": 0.313,
+    "exam_heavy": false,
+    "exam_heavy_positive_rate": 0.259,
+    "homework_heavy": false,
+    "homework_heavy_positive_rate": 0.018,
+    "time_consuming": false,
+    "time_consuming_positive_rate": 0.112
+  },
+  "CMSC351": {
+    "course_code": "CMSC351",
+    "review_count": 366,
+    "low_evidence": false,
+    "model": "distilbert",
+    "evidence_snippets": [
+      "She's just not a good teacher. I'll agree she's a very understanding person and I like her exam style, but we should have gotten way more out of 351 than we did. I didn't enroll in 351 to hear Meesh talk about random stories from her life for the entire class. It's great when professors can provide relevant anecdotes to the material that they're teaching, but Meesh just provided anecdotes about whatever happened to pop into her strange mind at the time.\r\nAt least the class is really easy though. I mean we only had 4 hws and one small project, which just goes to show you how little we learned.",
+      "This was my second time having Meesh. She is complicated. I'm a firm believer that a professor is not defined purely by his or her lecture skills, and since she's not your average professor, I have to break this down a little.\n\r\nLectures: Tough to follow. If you learn purely through lectures, you might want to avoid her classes.\n\r\nExams: Long, but fair. She does not penalize you very much for missing small details. Just don't ever get caught up on one problem. If it takes you too long, skip it.\n\r\nHomework and projects: Also pretty fair. She doesn't seem to believe in secret tests. She isn't as forgiving about stupid mistakes on homework as she is on exams.\n\r\nAccommodations: Seriously amazing. Is your life hard? Do you have other things going on? Do you mess up sometimes, and does that one bad day sometimes ruin your entire grade for a class? Congratulations, Meesh acknowledges that you are human! That test you took half-asleep and sick and stressed beyond belief? Dropped. That homework you couldn't do because you had so much going on outside of this class? Dropped. That day you have two projects due and two homework assignments due and two exams? Meesh is the professor who will give you an extension.\n\r\nDisabilities: If you have any sort of disability it is really nice to have a professor who understands. Meesh will be the first person to realize that you're not stupid; your brain just works differently."
+    ],
+    "project_heavy": false,
+    "project_heavy_positive_rate": 0.011,
+    "exam_heavy": true,
+    "exam_heavy_positive_rate": 0.372,
+    "homework_heavy": false,
+    "homework_heavy_positive_rate": 0.276,
+    "time_consuming": false,
+    "time_consuming_positive_rate": 0.131
+  },
+  "STAT400": {
+    "course_code": "STAT400",
+    "review_count": 493,
+    "low_evidence": false,
+    "model": "distilbert",
+    "evidence_snippets": [
+      "Fairly straightforward lecturer. Her teaching strategy never moves much beyond writing formulas and doing examples. However she does try to deliver some intuition behind the math, and makes an effort to stay in touch with the class and get a sense of students' understanding, as much as possible in a large lecture.\n\r\nThe book is not great but it gets the point across. Unfortunately HW comes from it that you must turn in.\n\r\nNot a terribly difficult subject, I wouldn't sweat the professor too much.",
+      "I took this class when she first taught it in Fall 2009 as a freshman. I was also in Math241, which gives me a basis to compare to this class.\n\r\nShe was horrible at answering questions, she didn't know the concept of a class curve, and she would spend all of lecture writing indiscernible symbols on the board that were useless theory and proofs of formulas, then on the tests she would have these horribly complex and contrived applications that we had no idea how to do, along with the ridiculous proof questions.\n\r\nHowever, this being her first semester in America, we broke her in for you guys, demanding that she curve the class, forcing her to hold review sessions during lecture, begging her for extra office hours, and constantly going to her TA's (which were extremely helpful) for help.\n\r\nSo, back in my day, this class was a pain in the ass, now for you guys, it should be okay.\n\r\nShe had this awesome TA, Ziliang Li, who basically saved my life in this class with his wonderful help during discussions about homework/quiz questions that helped me a lot."
+    ],
+    "project_heavy": false,
+    "project_heavy_positive_rate": 0.053,
+    "exam_heavy": true,
+    "exam_heavy_positive_rate": 0.363,
+    "homework_heavy": false,
+    "homework_heavy_positive_rate": 0.284,
+    "time_consuming": false,
+    "time_consuming_positive_rate": 0.112
+  },
+  "CMSC216": {
+    "course_code": "CMSC216",
+    "review_count": 476,
+    "low_evidence": false,
+    "model": "distilbert",
+    "evidence_snippets": [
+      "Nelson is a wonderfully funny professor who really values his students. I would certainly recommend that you take him, if possible, because he makes his classes very enjoyable. His exams can be fairly tricky, but if you study well you will be fine.",
+      "In my opinion, Nelson is a solid CS professor. I took 216 with him, and he made it a point to ensure us that it wasn't a weeder course. \n\r\nOnce you get around the accent, he's great at explaining the topics at hand. He keeps his lectures fairly lighthearted and relaxed, and he also has a sense of humor. He, along with his TAs, are stationed on Piazza to help students with any problems or concerns, and this is very convenient and helpful. \n\r\nProjects take longer to complete than those in 131 and 132, and starting early is essential. Quizzes and Exams are fair, and he provides a test bank from previous semesters. The final was challenging, so be prepared. \n\r\nRegarding the cons of a class with Nelson - he can be very annoying. The amount of times he will stop the lecture just to call out a student fooling around is just unnecessary and it also distracts everyone in the class. His humor also doesn't appeal to everyone. In addition, be prepared for your inbox to be flooded with his email updates on the course material. I once remember receiving six emails in a 15 minute span from him alone.\n\r\nOverall, he's a great CS prof, and the only professor I would take over him is Fawzi Emad."
+    ],
+    "project_heavy": true,
+    "project_heavy_positive_rate": 0.403,
+    "exam_heavy": true,
+    "exam_heavy_positive_rate": 0.359,
+    "homework_heavy": false,
+    "homework_heavy_positive_rate": 0.13,
+    "time_consuming": false,
+    "time_consuming_positive_rate": 0.227
+  },
+  "CMSC250": {
+    "course_code": "CMSC250",
+    "review_count": 525,
+    "low_evidence": false,
+    "model": "distilbert",
+    "evidence_snippets": [
+      "He admittedly does not cover the material he is supposed to, and whenever he does, it is always a very cursory overview whereas Fawdi Emad's section comprehensively went over all of the material, yet we were all given the same exams and quizzes, all written by Fawzi. Seems pretty unfair, eh? \r\nOn the bright end, Yiannis is a very nice person who appreciates other people's input. He may not be the best professor, but thankfully this class is extremely easy to begin with and you can be fine by just teaching yourself everything from the textbook.",
+      "He is the most accommodating person I've ever met. If you have a problem and you address it to him, he will absolutely help you out. He is completely engrossed in the success of his students. This is an extremely rare quality in a professor.\n\r\nThere are only a few things holding me back from giving him five stars. Firstly, he goes on a lot of tangents. If you are the type of student who learns solely from lectures, it might be difficult since sometimes he does not cover all of the material. Secondly, he seems to have difficulty teaching the students who have difficulty grasping the concepts. If you really have trouble with theoretical math and logic, it might be best to take it with a different professor."
+    ],
+    "project_heavy": false,
+    "project_heavy_positive_rate": 0.008,
+    "exam_heavy": true,
+    "exam_heavy_positive_rate": 0.406,
+    "homework_heavy": true,
+    "homework_heavy_positive_rate": 0.36,
+    "time_consuming": false,
+    "time_consuming_positive_rate": 0.202
+  },
+  "MATH141": {
+    "course_code": "MATH141",
+    "review_count": 562,
+    "low_evidence": false,
+    "model": "distilbert",
+    "evidence_snippets": [
+      "Czaja's grading was extreme and the opposite of lenient.  No partial credit was given. The final exam was easy, but the other exams were the hardest exams I've ever taken.\n\r\nClass average was a D+.  \n\r\nCzaja was a great lecturer but his exams were too hard compared to lecture.  I wouldn't suggest taking him at all.",
+      "Ok this guy's lecture is quite real. He explains stuffs at such a complicated and minor level that I have no clue as to what is happening. Furthermore, his examples in class are so basic. I learned more for discussions than I did from lectures. His accent is quite distracting also. The quizes are hella easy, but I feel he types \"hardest calc problems ever made\" in google to get the four problems he needs for the exams. In the final exam he will probably make us prove fermat's last theorem, so can't wait for that. My grades went like 72 100 52 (fourth one will probably 43 or something). This guys is chill doh, and he is wayyyy more lenient than the other lecturers. So pick this guys. oh and he is funny af."
+    ],
+    "project_heavy": false,
+    "project_heavy_positive_rate": 0.0,
+    "exam_heavy": true,
+    "exam_heavy_positive_rate": 0.37,
+    "homework_heavy": false,
+    "homework_heavy_positive_rate": 0.231,
+    "time_consuming": false,
+    "time_consuming_positive_rate": 0.13
+  }
+}

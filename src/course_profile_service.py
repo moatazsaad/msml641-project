@@ -8,7 +8,8 @@ from planetterp_client import fetch_course_reviews, normalize_course_code
 from workload_labels import get_workload_labels
 
 
-PROFILE_CACHE_PATH = Path("data/cache/course_profiles_distilbert.json")
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+PROFILE_CACHE_PATH = PROJECT_ROOT / "data" / "cache" / "course_profiles_distilbert.json"
 POSITIVE_LABEL_THRESHOLD = 0.30
 LOW_EVIDENCE_REVIEW_THRESHOLD = 10
 

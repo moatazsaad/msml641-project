@@ -9,7 +9,8 @@ import requests
 from grade_context import aggregate_grade_rows
 
 BASE_URL = "https://planetterp.com/api/v1"
-CACHE_DIR = Path("data/cache/planetterp")
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+CACHE_DIR = PROJECT_ROOT / "data" / "cache" / "planetterp"
 
 def normalize_course_code(course_code):
     return (
