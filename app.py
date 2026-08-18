@@ -942,6 +942,13 @@ remembered_course_options = set(
     st.session_state.get("user_added_course_options", [])
 )
 
+# A submitted course has already gone through the app's search flow. Keep it
+# in the real option list immediately so BaseWeb treats an exact match as an
+# existing course instead of offering a duplicate ``Add: <course>`` action.
+searched_course_options = set(
+    st.session_state.get("searched_course_options", [])
+)
+
 if not raw_picker_state and pending_course_options:
     remembered_course_options.update(pending_course_options)
     st.session_state["user_added_course_options"] = sorted(
@@ -954,7 +961,7 @@ else:
     )
 
 course_options = sorted(
-    base_option_set | remembered_course_options
+    base_option_set | remembered_course_options | searched_course_options
 )
 
 
@@ -976,6 +983,15 @@ def submit_schedule():
         )
         return
 
+    searched_courses = set(
+        st.session_state.get("searched_course_options", [])
+    )
+    searched_courses.update(
+        course_code
+        for course_code in course_codes
+        if re.fullmatch(r"[A-Z]{3,5}\d{3}", course_code)
+    )
+    st.session_state["searched_course_options"] = sorted(searched_courses)
     st.session_state["submitted_course_codes"] = course_codes
     st.session_state.pop("grade_context_course", None)
     st.session_state.pop("schedule_submit_error", None)
