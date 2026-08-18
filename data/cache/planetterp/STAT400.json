@@ -4023,6 +4023,54 @@
       "rating": 3,
       "expected_grade": "A",
       "created": "2026-02-20T15:21:39.467590Z"
+    },
+    {
+      "professor": "Hatice Sahinoglu",
+      "course": "STAT400",
+      "review": "The way she words problems are mindbogglingly terrible. During our first exam she had to stop the class for five whole minutes to ATTEMPT to explain what one of the questions were asking, and by the end, half of us still didn't get it. You will spend exponentially more time dechiphering her questions than you will actually answering them. theyre unessecarily verbose and long while somehow chosing wrongs word to form a coherent sentence. \r\n\r\nThen there's the grade distribution. All exams are 20%-25% of your grade. You do bad on one of those and that's basically a whole letter grade down.\r\n\r\nAnd doesnt record lectures just to top it off.",
+      "rating": 2,
+      "expected_grade": "C-",
+      "created": "2026-03-25T22:48:28.144875Z"
+    },
+    {
+      "professor": "Shixin Zheng",
+      "course": "STAT400",
+      "review": "So I'm the guy who wrote the letter to the professor.\r\n\r\nAt the beginning of the semester it was clear that he was new to this, he would use another professor's old notes (never gave that to us but wtv) and would never really give a full explanation to the topics.\r\n\r\nPractice problems were posted pretty much 3 days before exams and sort of helped (vague and easy, not comparable to the difficulty of the exams themselves). He was also extremely strict on the grading, everything was pretty much all or nothing, and regrades were the only thing that could possibly save you (I had a 64~ with a regrade I got it to a 79 (literally 1 regrade)). After we wrote that letter though, he understood the issue that the class was having and actually fixed a lot of things. He would give topics for the exam (super close to the actual exam which is not something we requested but I'll take it). He started giving extra credit and curved exams, completely saving my grade. To the people saying that we went too far, you would have had a much worse grade that would honestly not have been deserved because many people genuinely studied for this course and still did just ok. \r\n\r\nI'm not 100% sure as to what he is doing this current semester as I had him during the fall, but he is genuinely a good guy who is trying to help you. I sincerely hope he has gotten better and refined his course, not only for the students but for himself. Dude should also go into fashion, dressed like a model every day.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2026-04-09T01:03:51.522097Z"
+    },
+    {
+      "professor": "Hatice Sahinoglu",
+      "course": "STAT400",
+      "review": "She's really nice and gives good advice, even if it's off topic. She gives you a lot of resources so make sure you use them but also, like others said, don't get in the habit of skipping lecture. She gets a bad wrap but she's honestly a pretty good professor as long as you put in the work. Reading the textbook here and there helps as well. Also unrelated but I think she'd be fun to get coffee with sometime because she's very wise.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2026-04-11T21:00:15.551964Z"
+    },
+    {
+      "professor": "Mestiyage Gunatilleka",
+      "course": "STAT400",
+      "review": "records lectures, fair homeworks, 3 r projects that arent very hard, fair exams. quizzes in discussion are helpful to review for midterms and not super hard. Super sweet guy. \r\nbe warned tho bro loves calc. integrals from day 1. will make stat400 feel like a ap calc bc class all over again. no complains tho if ur fine w calc and thinking in 3d.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2026-04-13T15:59:47.830540Z"
+    },
+    {
+      "professor": "David Pincus",
+      "course": "STAT400",
+      "review": "100% of your grade in this course is assessment-based. His lectures are dry; by the end, when the content is difficult, it's very hard to understand. Massive curve to the class because the final was much harder than expected. He also didn't provide great course resources, and lectures aren't recorded.",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2026-04-19T23:59:46.322767Z"
+    },
+    {
+      "professor": "Hatice Sahinoglu",
+      "course": "STAT400",
+      "review": "She is so unorganized. I've had her for Calc 3, Stat400, and unfortunately will have to take her for stat401. Exams are like 60-80 percent of your grade. While she does have a grading curve, her exams are pretty hard. We have 3 exams, other than the final, and the 3rd exams content is covered over the course of one week which is insane because there's no week before the exam to really fully prep for the exam. During lectures she focuses heavily on \"proving\" why a formula works, or how it is \"derived\" which is pointless because you will never have to prove or derive a formula for exams. She keeps posting homeworks that are due in person on discussions a day or two before, so no ample time to complete them.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2026-04-21T18:57:20.443597Z"
     }
   ],
   "department": "STAT",

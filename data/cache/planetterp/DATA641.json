@@ -1,0 +1,42 @@
+{
+  "average_gpa": 3.52887323943662,
+  "professors": [
+    "Philip Resnik",
+    "Armin Mehrabian",
+    "Armin Mehrabian"
+  ],
+  "reviews": [
+    {
+      "professor": "Philip Resnik",
+      "course": "DATA641",
+      "review": "This is the standard all professors should try to achieve. He balances his lectures between theory and real world application well. He is well known in his area od expertise and it shows in his lectures.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-05-21T19:43:51Z"
+    },
+    {
+      "professor": "Philip Resnik",
+      "course": "DATA641",
+      "review": "Great professor, he really takes the time to explain his material and often checked with the class on what we need clarification or further explaining on. The class was very interesting and I definitely learned a lot. Strongly considering a career in NLP now. This class was a bit difficult for me though because my understanding with American grammar is not that good and was never really good at English. I very often got confused with some terminology and labeling the words. I also was not very good at python, so I had a lot of trouble with the homework assignments, but he does offer a lot ALOT of extra credit, so its hard not to do well. I actually did not do much of the extra credit. I probably would have gotten an A if I tried to do more, but personal reasons stopped me.",
+      "rating": 5,
+      "expected_grade": "B-",
+      "created": "2021-05-27T23:31:43Z"
+    },
+    {
+      "professor": "Armin Mehrabian",
+      "course": "DATA641",
+      "review": "This professor is not worth taking. The assignments are hard and grading is not good. Many of us are getting low grades. So for people who want a good grade, don't take his class.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2026-04-01T13:33:06.976695Z"
+    }
+  ],
+  "department": "DATA",
+  "course_number": "641",
+  "name": "DATA641",
+  "title": "Natural Language Processing",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> DATA603 or MSML603.\n<b>Cross-listed with:</b> MSML641.\n<b>Credit only granted for:</b> DATA641 or MSML641.\nIntroduces fundamental concepts and techniques involved in getting computers to deal more intelligently with human language. Focused primarily on text (as opposed to speech), the class will offer a grounding in core NLP methods for text processing (such as lexical analysis, sequential tagging, syntactic parsing, semantic representations, text classification, unsupervised discovery of latent structure),  key ideas in the application of deep learning to language tasks, and consideration of the role of language technology in modern society.",
+  "is_recent": true,
+  "geneds": null
+}

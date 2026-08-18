@@ -1,0 +1,1712 @@
+{
+  "average_gpa": 2.8178415563281316,
+  "professors": [
+    "Sergio Picozzi",
+    "Andris Skuja",
+    "David Buehrle",
+    "Theodore Kirkpatrick",
+    "Suresh Tonwar",
+    "Matthew Severson",
+    "Hailu Gebremariam",
+    "Andrew Baden",
+    "Darayash Tata",
+    "Daniel Hertz",
+    "Giridhar Nandikotkur",
+    "Chuan Liu",
+    "Anzi Hu",
+    "Raymond Fermo",
+    "Matt Severson",
+    "David Buehrle",
+    "Hailu Gebremariam",
+    "David Buehrle",
+    "Hailu Gebremariam",
+    "David Buehrle",
+    "Hailu Gebremariam",
+    "Matt Severson",
+    "Matt Severson",
+    "David Buehrle",
+    "Hailu Gebremariam",
+    "Negar Heidarian Boroujeni",
+    "Hailu Gebremariam",
+    "Negar Heidarian Boroujeni",
+    "Aria Heidarian",
+    "Aria Heidarian",
+    "David Buehrle",
+    "Hailu Gebremariam",
+    "Alberto Belloni",
+    "Bei Lok Hu",
+    "Alberto Belloni",
+    "Aria Heidarian",
+    "Bei Lok Hu",
+    "Hailu Gebremariam",
+    "Matt Severson",
+    "Alberto Belloni",
+    "Aria Heidarian",
+    "Bei Lok Hu",
+    "David Buehrle",
+    "Rachel Rice",
+    "Alberto Belloni",
+    "Alexander Conte",
+    "Hailu Gebremariam",
+    "Rachel Rice",
+    "Zackaria Chacko"
+  ],
+  "reviews": [
+    {
+      "professor": "Theodore Kirkpatrick",
+      "course": "PHYS161",
+      "review": "Overall he is a good professor. His lectures can sometimes be slightly boring as he often spends long amounts of time working out practice problems that are hard to follow. However, he is a nice guy and he curves the exams, which are not very hard to begin with.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2015-11-02T15:06:00Z"
+    },
+    {
+      "professor": "Theodore Kirkpatrick",
+      "course": "PHYS161",
+      "review": "Great teacher. Good with concepts. His handwriting can be difficult to understand though. Fairly average exams. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2015-02-18T13:23:00Z"
+    },
+    {
+      "professor": "Theodore Kirkpatrick",
+      "course": "PHYS161",
+      "review": "Kirkpatrick is a fairly interesting teacher, although his lectures aren't really necessary to do well in his course. I mostly just read the textbook. The quizzes and tests were very straight forward.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2014-11-05T18:52:00Z"
+    },
+    {
+      "professor": "Wolfgang Losert",
+      "course": "PHYS161",
+      "review": "Not a good professor to have if you are taking physics for the first time in your life.  Expect to rely on your textbook for help because he spends most of his lectures starting a problem and then concluding that the problem must be solved with additional concepts and techniques that we have not yet learned.   He is not very organized and never finishes his sentences.  The exams were okay and there was a curve on each one, but be prepared to be bored. ",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2009-01-14T05:11:00Z"
+    },
+    {
+      "professor": "Rabindra Mohapatra",
+      "course": "PHYS161",
+      "review": "Funny dude in lecture, but is very difficult to understand.  Take a different teacher.\n\r\nWants to get to know students, so he's good in his limited office hours, but that's the best I can say.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2010-04-26T22:43:00Z"
+    },
+    {
+      "professor": "Rabindra Mohapatra",
+      "course": "PHYS161",
+      "review": "If you've taken some form of physics before then the class will be pretty straightforward, but Mohapatra's accent made it near impossible to learn anything from the lecture.  However, he's a nice enough guy and seemed willing to help if you took the time to go to him and ask questions.  Quizzes and homework were annoying, but I probably learned more from those than the lectures.  Sad thing is, he's probably one of the better physics professors on campus (the least bad of the physics professors if that makes sense) and I would take him over most of the other physics professors.",
+      "rating": 2,
+      "expected_grade": "C",
+      "created": "2009-04-20T02:21:00Z"
+    },
+    {
+      "professor": "Rabindra Mohapatra",
+      "course": "PHYS161",
+      "review": "Go to discussion. I made the mistake of not going and learned nothing. His teaching style and accent aren't helpful either. The book won't help you either.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2008-12-24T04:35:00Z"
+    },
+    {
+      "professor": "Rabindra Mohapatra",
+      "course": "PHYS161",
+      "review": "Giving weekly quizzes isn't such a bad thing. You actually learn under this guy, and he is a riot. His demonstrations and explanations are very entertaining. He was also really nice and approachable in his office hours and help me make up they exams I missed. ",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2008-11-25T16:19:00Z"
+    },
+    {
+      "professor": "Rabindra Mohapatra",
+      "course": "PHYS161",
+      "review": "I did not really get much out of his lectures. They were so boring and his accent got on my nerves. I learned by doing the written homework and masteringphysics. Even though masteringphysics was a huge pain, I actually did get something out of it. He did make jokes occasionally and some were actually funny. The first midterm was easy but the second and third ones were kind of difficult. The final was not that bad. \n\r\nBest advice is to go to office hours, go to discussion class, do the homework in a timely manner, and try to do as many other practice problems from the book. ",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2008-06-02T23:46:00Z"
+    },
+    {
+      "professor": "Rabindra Mohapatra",
+      "course": "PHYS161",
+      "review": "Mohapatra in my opinion should stick to teaching grad courses. Not only are his lectures extremely boring, but he makes it a nuisance for students to not go to class. He gives a weekly quiz, which is good and all, but gives them on sporadic times to his whim. \r\nIn addition, his accent does put a large barrier in terms of learning. If you don't like powerpoints, or find yourself falling asleep while looking at them, do not join his class. He's not a very good teacher. Nice guy, but he definitely doesn't know how to convey the information over to students.\r\nHe's also quite unreasonable when it comes to problems with the online homework. ",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2008-05-21T02:24:00Z"
+    },
+    {
+      "professor": "Rabindra Mohapatra",
+      "course": "PHYS161",
+      "review": "Although Mohapatra appears to know his stuff, he doesn't teach very clearly. His accent is an unfortunate barrier, it took me half the semester to get used to it. He used masteringphysics which was a disaster because there were glitches with the program. Despite many complaints, he remained indifferent to the fact that many people had low homework grades because the online homework wasn't working correctly. He usually just gives confusing proofs in class and doesn't always point out which forumlas are worth knowing. He is, however, very eager to help anyone who comes to office hours or makes an appointment so if you don't understand something, take some time to see him after class. Despite his confusing explanations, he is happy to help anyone who is truely interested.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2008-05-02T14:30:00Z"
+    },
+    {
+      "professor": "Andris Skuja",
+      "course": "PHYS161",
+      "review": "Horrible professor. He seems like a nice dude, but he is the worst lecturer I have ever seen. Has no idea how to teach properly. He just does problems and mumbles about while trying to solve them. He doesn't explain well at all. If you didn't take AP physics in high school, you'll be totally lost. Avoid this teacher at all costs!",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2013-08-05T09:35:00Z"
+    },
+    {
+      "professor": "Andris Skuja",
+      "course": "PHYS161",
+      "review": "Bad teacher. You will most likely not do well if you did not take AP Physics in high school. \n\r\nEven having taken AP Physics in high school, I had to put in a lot of work to pull off an A. His exam questions are basically taken directly out of the book. My strategy was that if I did most of the problems in the book, I would be prepared when I saw the same question on the exam. This strategy seemed to work, and I recommend it. \n\r\nBtw, the final exam is insanely difficult. You will feel like you failed, but there is some ridiculous 20 point curve because everyone fails it. ",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2013-06-10T13:32:00Z"
+    },
+    {
+      "professor": "Andris Skuja",
+      "course": "PHYS161",
+      "review": "Pretty bad teacher. Not much homework. The materials not impossible to learn on ur own.You'll learn nothing in lecture.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2013-05-17T13:15:00Z"
+    },
+    {
+      "professor": "Andris Skuja",
+      "course": "PHYS161",
+      "review": "THE WORST PROFESSOR EVER. You sit in lecture, and think \"why the eff am I here?\" The examples he gives in class are ridiculously easy and he spends too much time going over them. The exam problems, then, are NOTHING like ANYTHING he goes over in lecture. I stopped going to class because I wasn't getting anything out of them.\n\r\nI'm pretty sure I would have gotten a worse grade in the class if I had actually gone. Instead, during lecture times I self-studied or did the Mastering Physics. Seriously, skuja is a horrible teacher, do anything you can not to take his class. \n\r\nHonestly, he's probably a smart guy with a lot of knowledge, but he does not know how to teach at all. Avoid at all costs. ",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2013-05-17T12:33:00Z"
+    },
+    {
+      "professor": "Andris Skuja",
+      "course": "PHYS161",
+      "review": "Terrible Professor. He basically screwed up on the first exam because the average was a 90, and now he's going to compensate for it by normalizing the grades. Going to class is useless and exams (other than the first) are so obscure and ridiculous. AVOID AT ALL COSTS.",
+      "rating": 1,
+      "expected_grade": "C-",
+      "created": "2013-05-16T00:48:00Z"
+    },
+    {
+      "professor": "Andris Skuja",
+      "course": "PHYS161",
+      "review": "He is a nice guy but not very good at teaching. Out of 300 of people in the class maybe 50 go to class. You really need to teach yourself in order to do well in the class. He does not give much homework so it is up to you to study and get practice. He takes everything out of the book almost word for word and does not teach anything new.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2013-05-10T21:40:00Z"
+    },
+    {
+      "professor": "Andris Skuja",
+      "course": "PHYS161",
+      "review": "The worst professor anyone could ever take in the span of their entire college career. He doesn't actually teach anything and likes to whip out obscure questions on exams. I would gladly take 8 am or even 8pm classes over this class.",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2013-04-30T09:59:00Z"
+    },
+    {
+      "professor": "Andris Skuja",
+      "course": "PHYS161",
+      "review": "Awful teacher, he does not explain anything in class. If you have him, you basically have to self study. When I go to lecture, I come out thinking why did I go? Literally have not learned anything all semestre.",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2013-03-31T23:19:00Z"
+    },
+    {
+      "professor": "Frederick Wellstood",
+      "course": "PHYS161",
+      "review": "Great teacher! He was helpful and very interested in his work. His exams were fair and offered make ups for the first two. He is also very nice if you visit him during his office hours. Would take again.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2011-01-18T16:41:00Z"
+    },
+    {
+      "professor": "Frederick Wellstood",
+      "course": "PHYS161",
+      "review": "I don't think there is any sane person who would have any complaint WHATSOEVER with this professor. I think he might actually be a godsend to reward us cursed engineering students. He responds to e-mails, cares about his students, basically gives away the exams with his review sessions, Gave MAKE-UP exams for two exams last semester in 161 (I don't think you heard me right, let me say that again: THE MAN GAVE TWO MAKE UP EXAMMMMMMMSSSSSSS!!!!!!!), has a fun, quirky attitude in lecture, explains all the concepts behind equations in PROSE AND INDENTIFIES THEM PHYSICALLY, has cool fun demoes sporadically, I could spent all day listing his qualities. I took him for 161, have him right now in 260 (and btw the first exam was easier than expected, lol), and damn sure plan to take him for 271. I don't care what you expect to get from the class, how you want your tests to be, how you want the professor to teach, or your general level in physics (he could teach a monkey about fluid dynamics) -- Wellstood is the high school physics teacher who came to answer all of your prayers! ",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2010-03-03T14:41:00Z"
+    },
+    {
+      "professor": "Frederick Wellstood",
+      "course": "PHYS161",
+      "review": "Softball class, especially if you have had some Physics in high school. Wellstood is a great professor, going through derivations and a few examples in class. \n\r\nA bit nitpicky when it comes to grading, although if you attend review sessions and/or pay attention in class, he tells you what he expects and how he grades.\n\r\nHomework is sometimes harder than what is covered in lecture, but that's what discussion's for. Tests are surprisingly easy, although the final is a bit tricky.\n\r\nOverall, a good experience. As someone with a good background in mechanics, this class took little time and effort. Even for someone new to physics, it shouldn't be too bad.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2009-12-19T15:15:00Z"
+    },
+    {
+      "professor": "Frederick Wellstood",
+      "course": "PHYS161",
+      "review": "Professor Wellstood has been my favorite teacher this Fall 2009 semester.  His class is fun, and very informative with great examples to use for the homework.  He is approachable and will also answer any questions you may have.  The mastering physics homework is also helpful and really makes the students think.  \n\r\nHis examinations are very difficult but they are ALL curved (so is the class) so just do as well or better than the class average and you should get at least a B in the class.  One last thing, if you completely bomb any of the examines, he will allow you to complete a make-up examine!  How many professors allow students to get another attempt at the material?  None that i know of.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2009-12-12T18:24:00Z"
+    },
+    {
+      "professor": "Frederick Wellstood",
+      "course": "PHYS161",
+      "review": "EXCELLENT PROFESSOR!  Dr. Wellstood truly cares about his students and goes the extra mile to make sure he is doing everything possible to be of assistance when help is needed. He personally grades exams, so he gets to know your strengths and weaknesses in the subject material.  Dr. Wellstood makes sure that all students understand the essentials of Physics I (i.e. vectors, proper notation, etc.), all of which are critically important in all sciences/math/engineering. The class is challenging, but it is a necessary class for all engineering majors (and no physics class is easy).  Dr. Wellstood is by far one of the greatest professors in the physics department.  ",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2008-12-04T00:11:00Z"
+    },
+    {
+      "professor": "Frederick Wellstood",
+      "course": "PHYS161",
+      "review": "Professor Wellstood is awful! First of all... he SMELLS SO BAD all the time! Please do us a favor and take a shower! Second... his exams are so hard! They are nothing like lecture, homework, or discussion. The old exams are sometimes helpful, but not that much. Don't take him! ",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2008-11-16T02:31:00Z"
+    },
+    {
+      "professor": "Frederick Wellstood",
+      "course": "PHYS161",
+      "review": "Amazing teacher. very clear and comprehensive with his lectures. you will definitely want to go to all of the lectures and take notes since they are extremely helpful. He takes the extra effort to emphasize the important points and theorems and try to incorporate demonstrations to illustrate certain points (makes the class so much more interesting). His animated character and love for physics is quite contagious (will keep you entertained and awake in class). Although his examples are graded a bit more carefully, it is very reasonably done so since the problems are basically exactly like the posted sample examples and he will go over the entire sample example at the review sessions (if you can't make it, he will go over the sample exam with you in office hours). His lectures are also thorough enough to warrant for the difficulty level of the test. \n\r\nDefinitely do all of the mastering physics hw! they are very helpful.\n\r\nTo succeed in this class:\r\n1. attend and stay awake for all his lectures\r\n2. do all the mastering phys hw\r\n3. do sample exam and go to review session\n\n",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2008-11-06T12:34:00Z"
+    },
+    {
+      "professor": "Frederick Wellstood",
+      "course": "PHYS161",
+      "review": "Professor Wellstood is very smart and very knowledgeable about physics, so much so that I felt like his teachings and his expectations for you as a student went beyond what is necessary.  Classes were okay.  You definitely want to take notes, as a couple exam questions here and there will come from what is discussed in lecture.  Homework was relatively easy, as the problems were straight out of the book.  \n\r\nHowever, you can have a great understanding of how to do all of the problems in the book/homework and then his test questions come straight outta \"no-man's land\". \r\nExams are SOOO HARD!! Exam questions that are nothing like the homework problems and oftentimes the type of problems that were never covered in class.  If you take his class, DEFINITELY study the old sample exams; exams are ususally very similar to old exams and are very helpful.  He doesn't post answers to these old exams, you HAVE to attend his review sessions (usually in the evening, day before exam) in order to obtain the solutions.  Also, he provides a curve based on a bell statistical distribution.  AVERAGE grades were usually like a 45 for my class; he already anticipates offering a make-up exam before giving the actual exam.  Harsh grading; real big on vector notation.  If I had to take this class again, I'd definitely look to take it with another professor. Please!\n",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2008-10-30T20:02:00Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "He's terrible at teaching. His lectures are so vague and he never does examples. I give him three stars because his class wasn't too hard. The clicker questions are online so you can not go to lecture and still do the clicker questions, you just have to always be looking at your computer so you know when a new questions pops up.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2016-11-15T10:42:00Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "I never leave reviews for professors unless I have a bad time. I had a bad time with this guy.\n\r\nThis guy straight up gives you old AP Physics C problems as exams. Those by themselves are hard. He does not actually teach anything, especially as an introductory Physics class. All he does is derivations on the board. I went to every lecture and it seemed like the time spent in class did not help at all and was a complete waste of time. All in all, bad teacher and really hard exams. Reading the book and watching videos helps a bit.\n\r\nWeekly quizzes which are usually pretty hard and can rarely be done in the time given. Discussion is utterly useless as all you have time to do is take the quiz then go over the answers to the quiz after it is collected.\n\r\nNow, after all this there is a pretty big curve. Be aware the final is really hard. I would recommend just doing old AP Physics C Free Responses to prepare for the exams. \n\r\nI worked really hard in this class and was able to pull off an A- in his class after the curve but if I had the option to take it with someone else that actually teaches, I would. (Side note: This guy is treats guy and girls completely differently -- to the point where me and several other students in lecture would pick up on the way he would talk to guys as opposed to the way he talked to girls.)",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2015-05-29T01:03:00Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "He is engaging and enthusiastic in his teaching. Grading was fair with the exams being manageable. I'll say the same for quizzes.\n\r\nIt's important to actually do the homework problems and GSS worksheets. If you practice until you can get the answers without error, you will get an A in the class. I became lazy and started googling the homework answers since they are all online. Still managed a B in the class.\n\r\nI should mention this is my third physics class since I am a biology major and the material in this was a bit different.\n\r\nDefinitely would take a another class with him.",
+      "rating": 5,
+      "expected_grade": "B-",
+      "created": "2015-01-20T14:13:00Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "Buehrle was a decently dynamic teacher, but ultimately lectures were superfluous and I rarely went. Having taken AP Physics, I was quite bored by the class and he didn't do enough to change that. This would've been fine, but his mastering physics homeworks were ridiculous. They would often take hours and be significantly harder than anything he had talked about in class. On top of this, his exams were laughably difficult and the averages seemed to generally fall in the 60s. I don't feel like I learned the material well at all. That being said, the curve is definitely in your favor and relative to what I've heard of other teacher's for 161 you could do far worse.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2014-12-04T01:39:00Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "First, you are going to have endless amounts of Mastering Physics. It sucks. They take 2-5 hours depending on the week and your Googling ability. They don't match up all that well with the difficulty and style of the problems you get in class.\n\r\nSecond, he does not go over many examples in class, and mostly does formula derivations, which is not very helpful for learning how to actually do the problems.\n\r\nThird, his exams are really hard. People walk out and say \"I don't know if I got a single point.\" They are all curved, usually a lot, so there is no final curve on the class. Many people had already learned the material but the University did not give them AP credit, so that messed up the curve.\n\r\nFourth, he is an engaging and energetic lecturer. He likes to bring in demonstrations that are not necessarily helpful, but at least interesting. He lets class out 10-15 minutes early almost every day.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2014-05-28T21:22:00Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "Buehrle is such a nice, straightforward person. He's teaching style is slow but thorough. If you've gone through AP Physics B you'll be fine for most of the course (you can probably skip most lectures and be fine on the exams). If you've never had physics before, he is also a great choice because of how thorough. \n\r\nI definitely recommend him.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2014-04-26T02:14:00Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "Buehrle was a very straight forward and easy to understand professor. He explains everything VERY slowly compared to physics professors I've had in the past, which is good when you get into slightly more complicated topics. He's also easy to approach and is probably the least condescending professors I've ever had.\n\r\nHis tests are more difficult and fast paced than his teaching style would suggest, but they are graded leniently. I'm usually decent at predicting my test scores, and I was confident I got a C or B at best on each test, but I actually got all As BEFORE the curve. The curve on each exam was around 10%. The tests did have a lot of questions without numbers, which could be a problem for some people.\n\r\nI noticed the reviewers that complained were in 121 or 122. I took those classes when I was a biology major, so I'm guessing they are also bio majors. I met a lot of bio majors while getting my microbiology degree at umd, and I hate to generalize, but a large percentage of them are incredibly lazy when it comes to certain classes (mainly pre-meds who want the glory of being a physician, but don't want to put in the work). My point is, don't judge Buehrle by those reviews.\n\r\nP.S. The last paragraph wasn't meant to offend pre-med students. There are plenty of hard working pre-meds who will be great physicians one day!\n\n",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2014-01-31T15:47:00Z"
+    },
+    {
+      "professor": "Brad Conrad",
+      "course": "PHYS161",
+      "review": "The exams were hard, and I paid attention in everyone of his lectures. The homework was extremely easy and the classes were interesting. The demos were fun to watch and he is a very nice professor.\n\r\nThe final was really hard and I feel like he did not prepare us enough for the tests that we had.",
+      "rating": 3,
+      "expected_grade": "C",
+      "created": "2011-01-26T15:40:00Z"
+    },
+    {
+      "professor": "Brad Conrad",
+      "course": "PHYS161",
+      "review": "As far as assignments, there was weekly online and book homework. Online was through mastering physics and the book homework was generally fairly easy (one to two problems per week).\n\r\nExams were fairly long, sometimes needing all or  more time than the 50 minutes provided, but the course is curved generously. Normally had some True/False, a question on one of the demos, a couple short problems, and 2-3 longer problems with multiple parts. The content was nothing unexpected if you paid attention in class and did the homework problems; all the problems were rearranged problems from class.\n\r\nClass was late (at 7pm), but he tried to fill it with demos to make it more interesting, and you could tell that he enjoyed teaching the material.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2010-05-07T10:43:00Z"
+    },
+    {
+      "professor": "Young Kim",
+      "course": "PHYS161",
+      "review": "Unless you can learn physics straight from  a text book do not take this class. Kim is a nice guy but his extremely poor command of English and disorganized lecture style make it hard for students to learn anything in his lectures. To give an example of his disorganization, when I was in his class he talked about how much he admired Galileo for literally the first three weeks of classes. He did not cover any material related to physics during this time.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2007-11-16T01:40:00Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "I love Bantu, he is the best! go to his office hours and befreind him he is a great guy. I already graduated two years ago but he has become my freind and mentor for a long time. What an amazing guy. so damn nice. godman",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2013-01-21T00:00:00Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "To be honest, the only reason I ever went to lecture was because of the unannounced pop quizzes. Bantu's lectures are pretty boring (and that's with a laptop). \n\r\nMastering Physics (online HW) is more difficult than any of the tests (or the examples done in class).\n\r\nIf you have even marginal experience with physics this class is a review. (but a 3 on AP C Mech doesn't place you out).",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2010-05-22T16:19:00Z"
+    },
+    {
+      "professor": "Suresh Tonwar",
+      "course": "PHYS161",
+      "review": "Suresh Tonwar is terrible. He speaks terrible english, and he is not very good at answering questions. His lectures are not organized at all, and he only does some parts of some problems. His exams are nothing like his discussion sections, practice problems, or homeworks. They are totally random. It was very hard to study for his exams because his questions were out of the blue and random. If there are other teachers take them.",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2015-01-12T00:05:00Z"
+    },
+    {
+      "professor": "Sergio Picozzi",
+      "course": "PHYS161",
+      "review": "A lot of people like the way he teaches, but I had a hard time in this class. He doesn't really go over concepts, he just does practice problems on the board. All of his midterms are curved, they didn't really consist of the problems we did in class. He's nice and approachable, but personally, I didn't like his teaching style. ",
+      "rating": 3,
+      "expected_grade": "C",
+      "created": "2017-12-21T00:45:04Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "Took him for PHYS161. I would not recommend him. His classes are mainly done from Powerpoint . He did many examples during class but the exams were a lot more difficult than the examples. Worst part was that he does not curve at all. And trust me, you'll want curving.",
+      "rating": 2,
+      "expected_grade": "W",
+      "created": "2018-05-05T22:19:53Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "You\u2019re 100% not going to take anything from this class. I would honestly say he is the worst professor I\u2019ve had at this university, and it\u2019s a shame because he\u2019s a nice guy and says funny things and engages the class - all building fa\u00e7ade that you might be learning something useful or that those practice problems you just went over or the demo he did will end up being beneficial. The BAM here comes midterm number 1 ready to just bend you over and dilate your orifices until you walk out of the lecture hall physically and emotionally drained, wondering how you got to that point, and whether or not you\u2019ll ever make it as an engineer when you thought you studied and prepared for this exam only to stare at the first problem and then at your formula sheet and realize you didn\u2019t learn a damn thing in this class and it\u2019s only getting worse from here on.\r\n\r\nFor anyone discouraged after taking this course, PHYS260 is arguably harder in terms of content, but so long as your professor actually teaches you things they test you on, then you\u2019ll be fine. \r\n\r\nJust rely on Buehrle\u2019s curve to pass this class, I\u2019d honestly say it\u2019s impossible otherwise unless you took physics in high school. ",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2018-06-02T10:29:05Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "He's a pretty decent professor even though most of his teaching is based off his slides. His TA is pretty bad however, and discussion sections are basically useless aside from the required quizzes. One big thing about his class though is that there's no curve which you'll want at the end of the semester",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2019-01-28T23:52:15Z"
+    },
+    {
+      "professor": "Raymond Fermo",
+      "course": "PHYS161",
+      "review": "Dude made this class waaaaay harder than it should be, also where is my refund for the hw thing in the beginning of the semester????",
+      "rating": 2,
+      "expected_grade": "C-",
+      "created": "2019-05-15T12:48:08Z"
+    },
+    {
+      "professor": "Raymond Fermo",
+      "course": "PHYS161",
+      "review": "Fermo is inconsiderate and unhelpful. Through this entire semester, he has read off the powerpoint without doing any practice problems. He is insensitive and says things like \"try harder\" and \"my pay isn't affected by my student's grades.\" Terrible professor. ",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2019-05-17T17:10:51Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "The lectures were boring and long, but the homework was easy. However, the exams were tough. He gives a good curve because the average was low, but you still have to put in effort to get a good grade",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2019-05-25T01:20:53Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "Great Guy, Lectures were really boring sometimes, but HW was free and the exams were pretty fair, quizzes were really dumb sometimes tho",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2019-12-13T19:06:46Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "He is the definition of an alright teacher. You will get in what you put out and his exams are fair representations of the material covered in class. I do advise you work out a significant number of problems in the book, since just doing the ExpertTA homework is unlikely to earn you and A unless you have past experience with physics. He's a good guy and writes very clearly. Lectures consist of mainly slides with supplemental work on the chalkboard.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2019-12-17T22:39:03Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "Hailu's style of teaching mechanics is by completing examples during lecture, so if you do not make the effort to attend, you will likely have a hard time. He's a pretty laid-back professor and likes to occasionally joke during class too. His home work assignments are pretty easy and only take around one hour a week. He is not a perfect professor and definitely will not make you love physics if you already don't, but I would recommend him in general.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2019-12-18T02:15:44Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "Covers the material well, makes the occasional physics jokes, and is personal with each student's concerns and requests. He teaches at a manageable pace and posts his lectures slides. The exams however are quite difficult, but he curves.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2020-04-10T20:48:57Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "He's a funny and nice guy, but with this class, you get what you put in. The lectures are mostly pretty boring and the exams are pretty tough. There is a curve for the exams tho, plus he drops 1 of the 3 exams since the other physics professor only gives 2 exams. ",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2020-05-07T23:49:34Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "Buehrle is a chill professor who makes the occasion physics jokes. The homework is easy, but the exams are usually pretty difficult, but he always curves the average to around 80%",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2020-05-13T18:38:51Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "The first thing people think about Professor Buehrle is that he looks like Mark Hamill. Aside from that, Buerhle is a laid back professor, and teaches similarly to AP Physics C. The notes were not too helpful with homework, but was doable. Exams were difficult, but he always curves to make the average 80%. Since quizzes were online, there was nothing to do in discussions, and therefore were pointless, unless you had a homework question.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2020-05-26T22:11:57Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "David Buehrle is a pretty nice guy, but his lectures were pretty boring and not too helpful; most of the content was ripped straight out of the textbook (including examples), and he didn't start doing more beneficial examples until halfway through the course. \r\nHis online lectures were about the same as in-person. Homework was fairly straightforward and easy, but it took a lot of time to do. Exams were probably the worst part of the course: they either escalated the difficulty of problems or didn't give enough time to complete everything and check your answers. The raw average scores of most of the exams were in the upper 50's to lower 60's; however, he curved exams by 20-30% (around the average), which was a blessing.\r\n\r\nOverall, I didn't learn too much from his course, but I had taken AP Physics (so it wasn't utterly terrible). Since this is a requisite for engineering majors, I wish you the best of luck!",
+      "rating": 3,
+      "expected_grade": "B-",
+      "created": "2020-06-08T21:52:31Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "I would give him 0 if that was possible. I think he doesn't deserve one dollar of his salary. He posted the lecture videos and never held class once, only proctored exams and quizes which is so nice of him honestly. He also never ever gave any study material for any test. ",
+      "rating": 1,
+      "expected_grade": "C+",
+      "created": "2020-12-13T15:00:40Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "*class was fully online due to covid*\r\nImagine learning physics by reading a textbook. It's informative, but not particularly exciting. Now turn that textbook into a powerpoint. Literally just screenshot the equations from the digital version of the textbook and stick it in a powerpoint. Mix in an excessive amount of practice problems, usually solved wrong and usually easier than anything the test will give you. Now have a man read this powerpoint, veeerrryyy slooowwwlllyyy, unconstrained by the normal class schedule due to the asynchronous format of the class online. Thats Hailu. Looking back, I'm pretty sure that if I skipped every lecture and just read the textbook, I probably could have learned the same amount in half the time.\r\nThe class had quizzes every week over zoom. They were timed for 10 minutes, so if you had internet issues, you were kind of screwed. The quizzes varied wildly in difficulty, from high school trig to problems we haven't learned yet.\r\nThe class uses expert ta for all homework, which is actually very nice. It gives you hints and specific feedback if it knows why your answer is wrong.\r\nThe class is curved, but hailu seemed to be deliberately vague about how much, or whether he would curve down if final grades were too high. In the end, the 67% average on the final meant there was a generous curve up of at least a few percent.\r\nUltimately, take Hailu if you have to. He's not necessarily a good teacher, but he's also not actively bad.\r\n",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2020-12-26T22:10:52Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "As far as the quality of physics lecturers goes, Buehrle's probably up there as one of the better ones. Pretty entertaining guy in-person. His exams were somewhat challenging but he infamously had really generous curves on them. The flipside is this meant he didn't curve final grades, no matter how close you may have been to the next grade cutoff...",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2021-01-13T06:49:40Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "I had him during fall 2020, so class was completely online. His lecture videos were somewhat monotonous but actually taught you the material if you paid attention, and he had good examples so I never felt the need to read the book to supplement in-class instruction. Make sure to watch out for numerical mistakes in his examples though! Quizzes were simple FRQs which reflected the main concept of the content for the week, and homeworks were pretty consistent with what was taught in class. (Some problems were hard, but that's normal). Midterm exams were pretty ok, final was really hard, but the curve takes care of it.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2021-02-19T17:15:16Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "He\u2019s both ok and extremely boring. If you\u2019re ok with listening to boring, monotone lectures that give the information necessary for homework and exams, then go with him. His exams were mostly ok, but the final exam seemed way harder than necessary. If you need an ok professor, then he\u2019s your guy.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2021-05-17T01:08:55Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "This class was run asynchronously and he just posted old lecture videos from previous courses he taught, not even necessarily from PHYS161! This means it was extremely disorganized and nothing he said in the lecture about the exams/homeworks was actually true. The tests were very hard, though they were curved insanely generously. Personally, I literally got nothing out of listening to his lectures which consisted only of slides from the textbook company and the example problems from the book. I had to do a ton of self-teaching just to pass the class. He also didn't respond to my emails and took forever to grade exams (like a month!!).",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2021-05-21T15:41:14Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "PHYS161 isn't easy, and it is a benchmark course for engineering at UMD. My one and only retake was at UMD, and I took the class with Professor Buehrle.\r\n\r\nPros:\r\nSemi-generous curve.\r\nNo textbook is required. (Physics textbooks can be really expensive.)\r\n\r\nCons:\r\nLong lectures.\r\nExtremely difficult exam problems.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2021-09-03T01:30:07Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "Hailu is fine as a professor. He tends to get frustrated with students who ask questions in lecture which makes it a hard environment to be in when you're confused.\r\n\r\nThe reason this rating is so low is because the TAs for this class were absolutely terrible. They take up to a month to grade quizzes, and don't know what has been introduced in lecture. Multiple times my TA has done in-depth practice problems in discussion on a topic that students had never seen before. \r\n\r\nExams also aren't graded with feedback. You just get a little x next to your answer with no notes, meaning that you lose points but don't gain any knowledge from messing up.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2021-12-19T09:19:07Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "I think this is one of the few professors where the TAs are much worse than the professor, and not in a good way. As other reviews stated, he's very boring and spends class deriving equations and solving problems. Don't take him in the morning if you don't get much sleep, you might doze off. The TA I had was horrible, always late to discussion, took long to grade, and get aggressive if you asked questions how she solved a problem. ",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2021-12-25T21:59:24Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "I'll be honest I came into this class having done physics a few times before but being pretty bad at it. Content is almost exactly what one would learn in AP Physics C mechanics, honestly wished I paid more attention then. First exam is pretty easy but it gets harder from there, even then I felt his midterms weren't that bad. On exams he does allow you to bring a one sided cheat sheet, so I found that to be helpful. \r\n\r\nDiscussions were honestly the worst part.  There's a quiz pretty much every week in discussion in the last 10 minutes of class, and obviously you would want to focus on that content during discussion, well you would be disappointed because our TA at least would just go over stuff from the next chapter and spend all of class doing maybe 2 or 3 problems even going into the last 10 mins. I tried really hard to pay attention but it was tough to follow along. Getting exams/quizzes back was very disorganized and we never went over any of them. Grading also took really long. This semester all the office hours were online and I tried going to one once but it seems the TA stopped holding them halfway through the semester, so I was pretty much on my own. There was some in person tutoring thing in the physics building I went to once (I did go day before hw was due so maybe that's why) but it was packed and the tutor wouldn't just answer the question and no one got it for hours, I ended up just figuring it out myself later.\r\n\r\nWe also got assigned a homework to complete every week, and it's pretty long. I would definitely recommend starting early (at the minimum a day or two in advance) because trying to do it all at once is really hell. I would also recommend finding people in your class to work with because it makes it easier and helps you through it emotionally as well lol. Last couple hw problems of each set were pretty hard in my opinion and def harder than quizzes and midterms so I would just try and answer it and move on without devoting too much time to really understanding. We used expertTA which could sometimes be really stupid and confusing but it does give you 5 tries, no points deducted, and the feedback can be helpful if it gives you any.\r\n\r\nI will also admit I sometimes skipped lecture, sometimes fell asleep in class, or just did not focus in class and here's what I found to be the secret to doing well. He goes over problems in class and posts the slides online. DO THOSE PROBLEMS BEFORE MIDTERMS AND QUIZZES. Follow along with the work to those problems and try understanding why those steps were taken. These problems seemed to be the most on level and usually weren't too bad. He does \"post\" the slides online but there's no answers. It is possible to find the answers to those problems online but sometimes its more confusing. I would recommend going to class and just writing down exactly what he does on the board even if you don't get it in the moment (sometimes I just took pictures but I ended up losing them in camera roll or just not looking back). If you keep this organized you can use it to study and it will help you a lot. Sometimes looking at the textbook may be helpful if you don't know a concept at all or you can try looking at videos online.\r\n\r\nFor exams I did that^ to study and wrote down all the equations and anything I would usually forget on my cheat sheet. I got an 88, 84, and 95 on the midterms this way. Most people fail the last midterm but I studied for like 7 hours at Mckeldin (probably shouldn't take that long but I get distracted easily) for it, looking over all of that^ for each chapter on the exam. I still never felt very confident after exams but I always answered each question and showed work because he does give partial credit. There's usually \"3 questions\" on the exam but each has like 3 or 4 parts and some parts were not even related (pretty much different questions). I did end up working pretty much till the end of the allotted time for every exam.\r\n\r\nThe final exam in my opinion was possibly the worst exam I've ever taken in my life. I had 2 exams that day so maybe that's also why but I was sure I failed. He allows a double sided cheat sheet for this and I wrote every equation that came up but it honestly wasn't super helpful. I probably could have studied more but I pretty much just re did all 3 exams and tried to really understand how to do everything (if you can get your hands on someone's past exam where they got everything or nearly everything right, USE THAT, because just going off his \"corrections\" is not good enough for figuring out how to do the problem and google did not help). I would recommend going over quizzes as well but I lost most of mine or just didn't get them back, and lastly look over the slides questions, and then if time do textbook stuff. The actual exam was \"6 questions\" but again they have parts. All of the questions were pretty hard in my opinion but I did attempt everything, and honestly BS'D my way through most of it. He looks at partial work so if you know how to do one thing and not the other just come up with something and use that in the part you know. I ended up actually getting a 71% on the final so...\r\n\r\nI had a 92.5 before the final was put in and then it went down to an 87% after. Hailu does not curve exams but he does drop your lowest quiz grade and if you're sick you can be exempted from one quiz as well. He does end up curving the class at the end so 20% of people get A's (A-, A, A+) all included, and after the curve my grade went up to an A-. What I've heard from people in the past is that after the final grades go up by ~5% so a B+ becomes an A-, a B becomes B+, B- becomes B, etc. \r\n\r\nTo wrap this up, this was my hardest class in my first semester in college so maybe my view is skewed but I think physics is just a hard subject overall. I've never had a good physics teacher to compare this to but this class has more to do with the amount of effort you put in than anything else. If you've taken physics before like me you can get an A by just putting in work when needed and hoping for the best. If you have never taken physics before I would recommend maybe doing AP mechanics stuff over the break before and putting in a lot of effort and time into this class. Good luck to all of you!\r\n",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2022-01-18T01:11:15Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "People here are saying he's boring, but honestly, there are worse things. He knows what he's talking about in and out. His teaching style is clear and he is patient with any questions that are asked. He was accommodating, when people were having trouble seeing the blackboard he switched to the projector in the next class. He does a lot of examples in class. If you do/understand those with him, it's a huge help. Quizzes are not that bad. Midterms were hard but not a crazy level of hard, especially because you get an entire sheet of paper. I would take him for the rest of my physics classes if I could.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2022-01-31T19:16:04Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "Other people I've talked to think he's great, but personally I think he's just okay. His lectures felt almost entirely conceptually based, meanwhile his exams were only applied problems so it felt like a lot of extra work to keep up. The discussion sections cover applied problems but unfortunately I didn't have a great TA so I was kind of on my own. The HW software wasn't great and was tedious at times. The curves on the exams did help quite a bit, but the questions tend to be more difficult than any other applied problems done during discussion and HWs. I only have Khan Academy to thank for my A in this class.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2022-03-02T00:47:47Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "This professor did quite well in teaching the course, however as many people point out, his lectures are really long and extremely boring at times. His exams tend to be kind of difficult to some extent, but honestly I never found them to be insultingly hard. He curves SUPER generously and the grade distributions basically means that, as long as you get the average on all the midterms and do well on the homeworks and online quizzes, you'll basically have an A by the time you take the final. Not only that but he also drops your lowest midterm, meaning that if you did very well on the first 2 midterms, you don't even have to take the last one. Hell, I only took the last midterm for practice and for funsies. Didn't study at all, barely knew what I was doing, yet I STILL got a good grade on the exam. That's how good the curve is. Overall, study hard for the midterms, course is pretty straight forward, decent professor.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2022-05-12T22:18:54Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "He's a nice guy. You gotta respect him. He gives a nice curve given the exams which he gives are difficult. I wouldn't recommend emailing him he doesn't really help with that kind of thing. Overall pretty good, just do the hw and you will be fine. ",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2022-05-15T19:36:32Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "Quick overview of the course: 2 homework and 1 quiz a week, 3 midterms, 1 final, and you get a formula sheet for every exam\r\nMy experience: I learned nothing from this class. Buehrle's lectures were very long and boring, meaning there is very little chance you will be able to focus enough to understand what he is teaching (many people gave up on showing to class after a while). He also didn't prepare us for the level of difficulty of his exams, so the only thing that will be keeping your grade afloat will be the curve. When I say difficult, I really mean his exams were designed to mess you up. For instance, one of the test questions this semester had 2 paragraphs talking about a block's movement and like 15 variables listed, all of which was completely useless to solving the problem. Instead of testing your knowledge, the problem was only meant to make you waste your time trying to use all of the information given. This is why the curve is critical. He curves the average grade of every midterm up to an 80% and drops your lowest scoring one. I doubt you'll end up learning anything from this class, so at least take the teacher who curves like crazy. GOOD LUCK!!! ",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2022-05-17T21:58:53Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "His lectures are a bit long and dull, and his exams are on the harder sides. However, he does apply a generous curve to most exams and he drops your lowest exam grade, so it's still possible to do well in this class even if you absolutely bomb one of your exams ",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2022-05-19T12:52:58Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "Pros:\r\nVery-generous curve.\r\n\r\nCons:\r\nLectures are pretty bad.\r\n",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2022-05-20T01:46:07Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "Overall, taking physics with Buehrle was okay, but it was the hardest class I have taken here at UMD so far. There is a lot of room to get A's on assignments, especially with the expert TA homeworks, because even though they can be frustrating, they are very doable. The quizzes have very vague and conceptual questions and I think that the wording is intentionally tricky. His exams are very hard since very little information is given to you in each question and you may be unable to see the path that you're supposed to take to answer a question. I also found it very frustrating that the exams asked questions that were similar to lectures, but the expert TA homeworks and quizzes didn't exactly line up with lecture, so it could feel like you were practicing skills you would not be tested on. Buehrle also had no control over the 300 student lecture hall. It was always noisy and distracting and very difficult to learn in that environment. I think Buehrle is a nice guy, and if you already have a solid foundation in physics, you can probably do well in his class. If you never took Ap physics in high school, you should probably find a different professor simply on the fact that it is really hard to focus in his class and the exams and quizzes will be extremely difficult since the expert TA homeworks aren't good practice for them. ",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2022-05-24T14:16:08Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "As someone who has never liked physics this class was painful. Buehrle seems like a nice guy, but his lectures weren't helpful especially because he posted his slides which were straight copied from the textbook and didn't say anything different than what was included in the text. I found it really hard to study for this class because expert TA and quizzes were nothing at all like the problems on exams. I feel like I learned nothing, did average on exams, and only got an A because of a very large curve.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2022-06-08T01:23:25Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "The professor is a really nice guy and is very understandable. People say his exams are harder, but he also curves pretty generously. Overall this guy is really nice and his class is more engaging than Hailu's, so he's a better bet over Hailu so long as you make the effort to understand what's going on in lecture.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2022-12-11T00:18:31.967890Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "The only reason I got an A- in this class was the extremely generous curve. In lecture, I felt like I understood the material when it was taught and studied it. However, when it came to exams I had no idea what I was doing- meaning I wasn't really understanding the material in the first place. As someone who has never taken physics before, his lectures teach you the step above before teaching you the basics- which was detrimental for someone like me who has never seen the material before. I even tried to learn and study the basics, but was still confused when exams came around (though I have come to realize that physics is one of my weaker subjects).\r\n\r\nOverall, I would take Buehrle if you just want to pass the class as he generously curves. Personally, I was not happy taking this course because I wanted to understand the material and found that his lectures hindered my learning instead of helping it.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2022-12-28T15:47:52.308237Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "Great guy and decent lecturer. Homeworks give plenty of attempts and are mostly straightforward (there are a lot however). Quizzes are also pretty simple. Exams are tricky with Buehrle but he curves them pretty significantly. Overall good experience and would definitely recommend taking it with him.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2023-01-03T18:44:13.584107Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "UMDs physics department is not strong. Very boring lecturer, does not explain anything well, and he\u2019ll put you to sleep. There\u2019s about a 5% curve in the class. Weekly homework, quizzes, and that\u2019s it. The exams are the majority of your grade. The final is extremely hard.",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2023-01-09T14:55:31.776469Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "Dr. Hailu is a very straight forward teacher.  If you attend lecture and do practice problems, you will do well in his class.  You have multiple attempts on homework, but he doesn't give extensions.  My TA helped with homework problems I did not understand.  His exams are exactly like the problems he demonstrates in lecture.  I only relied on the textbook for extra practice problems.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-01-28T23:31:58.240211Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "The worst. He thinks that he knows what he's talking about but does not. Worst professor EVER. The curves are pointless and the exams are rediculous. HE LIED WHEN HE SAID THAT THE EXAMS ARE EASIER THAN THE HW. JUST THE WORST!",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2023-03-11T01:11:20.904540Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "I hate hailu. So boring.",
+      "rating": 1,
+      "expected_grade": "D+",
+      "created": "2023-04-25T04:41:14.529310Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "If you can stay awake and not get bored during lectures you will be fine. The material is incredibly boring, but the homeworks and quizzes aren't too hard and give you a good cushion for your grade. The exams are a little tricky but a lot of the questions are literally word for word from the practice exams with the numbers changed so if you study those you're fine. He also drops your lowest of the 3 midterms which is great. He also drops some of your lowest homework and quiz grades which is also very nice. Overall if you pay attention in lecture and study the practice exams a lot you will do great in his class.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2023-05-04T22:43:29.933027Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "Not the best professor or the worst. The grading structure surrounding the class is great such as with the lowest grades being dropped and very generous curves. However in terms of learning he doesn\u2019t really go over problems and just talks about the theory. Which in a class like physics I would say hurts the learner a lot. Take this class if you just need to fulfill some requirements to graduate and pass.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2023-05-05T07:21:33.607743Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "Buehrle is an incredibly boring lecturer to the point that it's extremely hard to stay focused in class. Nothing prepares you for the tests, the exams take a while to get graded, and if you learn by example, he won't be a good professor for you. I found it really difficult to connect each of the concepts because of the way his lectures are structured. He does try to make class interesting, and the dropped midterm is helpful, but other than that I've barely learned anything this semester.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2023-05-08T02:03:37.204462Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "Hailu is a smart guy and not the worst teacher but I found him so incredibly boring that it became really difficult to pay attention for a 50 minute lecture. Would not recommend.",
+      "rating": 2,
+      "expected_grade": "B-",
+      "created": "2023-05-10T17:57:35.125277Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "The main two selling points for Buehrle is his ability to (somewhat?) keep you awake during his lectures, and his kind personality. His lectures on the other hand? Pretty much next to useless. The entire time you will go to lecture, there will be examples that he goes over that mostly just consist of long derivations and RARELY one actual problem that is useful. The only reason why I'm doing well in this course is the extremely generous curve that he applies to every single exam. I'm a physics minor, so I came into this class looking to learn something for my future classes but I'm afraid to say that I've learnt pretty much nothing in this course. The exams are difficult, and the homework questions are nothing like the exam questions so the practice you get out of the homework is very minimal. If you're actually trying learn something in physics, despite Hailu's rep of being boring, take Hailu instead since he actually does relevant examples, but if you want the B- for gateway requirements, etc, take Buehrle for the curve.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2023-05-11T14:43:14.178673Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "I wouldn't say Buehrle himself is terrible, I've heard he's more engaging than Hailu which I guess I can understand and is probably true. However, his exams are very challenging\u2014they are not like the quizzes or the expert TA homeworks, and while they do get curved individually it's really not that much because he curves the average to be around an 80. I should've looked at his grade data for 161 more closely. My one piece of advice is, actually try and study for the third midterm\u2014everyone's going into this one thinking it'll be their drop one, some don't even show up and many people leave halfway after looking at the questions. Why should you study then? Because the curve for this exam is actually good, and it could bring your grade up. I know because I went in thinking I was gonna drop it, but I still studied and tried, and ended up with a slightly higher score than the first exam (which was the easiest of the three) because of the curve. I guess Buehrle prepares you for the final because you're exposed to the combined topic problems he likes to put on his midterms, but I can't say Hailu is better or worse because I haven't seen his exams. \r\nThe only other things contributing to your grade are homeworks (which can be long and difficult, but you get multiple tries per question) and the quizzes. The quizzes can be kind of tricky, and he only drops two so prepare for those. He drops four homeworks, but I would recommend saving those four drops for the end of the semester because there are homeworks due literally a couple of days before finals and nobody has time for that. So don't be lazy during the semester because you'll regret it if you have to do the ones near finals that are on topics you don't even need for the exam.\r\nAnyways I think this course was made more challenging than it should have been to get an A, so I'd probably go with Hailu. Good luck!",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2023-05-23T03:38:00.211137Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "Super boring and was not a fan of his teaching style. He has a PowerPoint he goes through with some basic formulas and definitions and practice problems. He posts the PowerPoint but not the notes that he writes during class that actually shows you how to solve the practice problems. TA was not really helpful. Physics is clearly not my thing but taking Hailu certainly didn't help.",
+      "rating": 2,
+      "expected_grade": "D",
+      "created": "2023-05-23T04:55:51.887635Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "I feel like Buerhle is probably your best bet for 161. I took AP physics C in high school so I found most of the course content pretty easy. In my opinion, he is a very good lecturer, although I know some people felt that he \u201cdumbed down\u201d the content too much while he was explaining. He spends most of class time doing practice problems from the textbook. His exams are pretty brutal but there is usually a nice curve. The weekly quizzes are on Canvas so you can take them at your leisure with notes, and Expert TA homeworks have unlimited hints and 5 attempts with no deductions.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2023-05-24T04:00:36.598132Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "I don't think I really learned anything significant in this class. He's passionate about physics and he's a nice guy, but Buehrle spends the majority of class going over the textbook definition and then very extensive examples, which I felt like I never used in the exams or homeworks. I attended the majority of the lectures, granted literally falling asleep in a few of them, but I still found his exams to be extremely difficult. In each exam, there's usually four problems with one of them being a concept matching or multiple choice. Three exams with curves and one is dropped. Only upsides is that the quizzes are online and multiple choice (use your resources if you know what I mean) and that his chalk handwriting is nice. Don't bother going to lecture if you take Buehrle.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2023-06-07T17:38:58.068835Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "cool guy, boring lectures, practice exams waaayyy easier than actual exam. But not too terrible. Practice you can do ok.",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2023-06-22T21:22:10.181801Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "Really slow lectures that were difficult to learn from (probably because they were boring and monotone) and no curve this semester. No one asked questions during class because no one actually pays attention and does anything else to at least use their time productively. Only the TAs were the saving grace for this course, so definitely go to office hours if you can. The course itself isn't difficult to grasp (coming from someone who didn't even take high school physics) because doing the homework and learning from it is the most important thing and will prepare you for the quizzes and exams.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2023-06-26T18:18:43.808045Z"
+    },
+    {
+      "professor": "Matt Severson",
+      "course": "PHYS161",
+      "review": "Lectures could be a bit dull at some times, but the things he would go over were important and would help you understand what was actually happening. He does take off for wrong answers on homework, which can be annoying at times but oh well. Exams were incredibly straightforward. The questions were extremely similar to ones went over in class. Attending lectures is the best way to make sure you get a good grade.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-07-07T20:44:40.772096Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "If you have taken AP Physics A, this class will be a review. Hailu's lectures aren't the most entertaining, but he usually gives you all the formulas you need by the end of each lecture. Hailu will try and prove every formula which can sometimes be confusing/boing. However, the exams are very fair and doable. The practice exams are the same difficulty as the actual ones, so there are no surprises at all.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-08-26T23:15:56.477842Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "While the material itself isn't the hardest thing in the world, the exam questions can be much more abstract then any of the homework or quiz questions. It doesn't help that Hailu is an incredibly dry lecturer, and it makes the lecturers feel like a chore when 80% of every lecture is just him solving practice problems.",
+      "rating": 3,
+      "expected_grade": "C+",
+      "created": "2023-12-05T04:00:35.508599Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "it all depends on what you want/if you have any experience with physics, but overall he's a fairly good teacher. he posts his powerpoints ahead of time and works through all the examples in class, and he gives a practice exam for each midterm. you get a single-sided cheat sheet for each midterm (8.5x11) and a double-sided one for the final. weekly Expert TA homeworks, 3 midterms, weekly quizzes in discussion (lowest is dropped and if you're sick you can get one excused), and a fairly large curve at the end of the semester (top 15% get As, next 40% get Bs, next 25% get Cs, and the rest get Ds and Fs) so its not too bad even if you don't do well. if you've taken AP physics 1 you're basically set. little to no calc needed as well.",
+      "rating": 4,
+      "expected_grade": "B-",
+      "created": "2023-12-05T22:01:46.837187Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "Went into this class expecting a horrible professor and came out realizing most of his bad reviews for 161 are from freshmen who aren\u2019t used to having to go to discussion or pay attention in class.  His exams were fair, he was a very efficient lecturer, TA\u2019s were helpful.  Homework every week but I really liked the ExpertTA platform because it gives good hints and feedback.  Structure of class sets students up for success (doing the homework & going to lecture/discussion will definitely help you pass).  Great first semester of physics.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2023-12-07T14:41:48.694013Z"
+    },
+    {
+      "professor": "Negar Heidarian Boroujeni",
+      "course": "PHYS161",
+      "review": "She is such an amazing professor!! She makes everything sound so exciting so that you're actually interested in the class. There is a minimal workload but enough to keep you involved in the class. Definitely take her if you can.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2023-12-13T22:53:48.106881Z"
+    },
+    {
+      "professor": "Negar Heidarian Boroujeni",
+      "course": "PHYS161",
+      "review": "Dr. Heidarian is an excellent physics professor at UMD. With only a limited time to cover lots of content, she did an excellent job putting the conceptual understanding over any formula. She gives so many opportunities to succeed in the class. Her midterms are highly based on what's learned in class and there are 10 extra credit points at the end of each midterm. There are also in class 2-3 question lecture quizzes that are almost word for word a concept we discussed in class.  On top of that, she drops your lowest midterm and lowest quiz grade. In terms of homework, she will help you on any problem you're struggling with and stay after lecture to discuss anything physics. She's also very helpful via email and during her office hours. The only \"downside\" is her class is not a free \"A\" because of the final exam. The exam average was a 75 so she curved it 5 points to an 80. However, it's only 20% of the final grade and everything on the exam is 100% doable and genuinely proves you've learned a lot over the course of the year. Highly recommend for a calc based physics course. My favorite class this semester!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-19T16:41:26.430911Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "Decent professor, I didn't find much use going to lectures. Most of the class didn't. There is an expertTA every week and they're not super helpful. Quizzes are very easy, testing conceptual understanding. The exams are 3 questions, 20 points each, not too bad if you understand the material. The final was much harder. Doesn't record lectures or post the work of him solving problems from his slide decks. The online textbook and youtube videos will be more helpful than the professor.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2023-12-21T04:09:01.881412Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "Everyone saying that Hailu is a boring lecturer is right for the most part. He spends the majority of his lecturers doing practice problems which I think is great because the key to success in physics is practice problems, and more practice problems. The class problems along with the weekly homeworks are great review for the midterms and final. On the last final, one of the problems was actually an exact one that we did in class. This course isn't easy, but if you apply yourself by doing enough practice problems and actually try on the homeworks, you'll succeed. As far as curvature goes, he curves so that the top 60% of the class will get an A or B. My final grade of 83% god curved up to a B+. However, if you are not within the top 60% of the class, you will not get a curve. You are awarded your own cheat sheet for each test, which is helpful.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2023-12-25T04:08:43.504018Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "As other reviews have mentioned, the greatest challenge in Hailu's class is staying awake. While he does effectively teach you the concepts, he does so in a way that will have you making sketches in your notebook within 5 minutes. Lectures were extremely boring, but did get across core concepts of each unit. Properly learning the material only really happened when doing the homeworks, but to be fair, they were quite useful. Quizzes weren't bad. Exams were hit-or-miss; with only three questions per midterm, if you missed one, you were a little screwed. Overall not a bad professor per se, but I would avoid his class if you have alternatives.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-01-30T22:13:12.631233Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "[Taken Spring 2023] David Buehrle is a swell guy but he taught me absolutely nothing about physics. It's odd because his lectures sounded like they made sense, but in effect it's like he's blabbering on about nothing for an hour and fifteen minutes. His exams are extremely hard and everyone bombs them, but his grading scheme is perhaps the most generous that you will find during your time in the engineering program. His class is curved like crazy and the lowest exam is dropped. Because of the grading, you can pass this class without understanding a single concept like myself and many others and laugh about it in the future. In conclusion, if you are already well versed in basic physics such as kinematics and work and energy, you may as well take him to benefit from the generous grading. If you are like how I was and had never taken physics before, avoid him and take Hailu so that you can actually learn the stuff before dynamics.",
+      "rating": 2,
+      "expected_grade": "C",
+      "created": "2024-02-27T21:17:59.376202Z"
+    },
+    {
+      "professor": "Aria Heidarian",
+      "course": "PHYS161",
+      "review": "Professor Heidarian is a very nice and compassionate professor. She helps you a lot on your homework by posting solutions on piazza and even during her office hours. This class is hard enough at it is and I recommend taking lenient classes so you don\u2019t get overwhelmed with this class. For her exams, do her practice sets that she provides you with. It\u2019ll help you with the exam greatly. Only downside with professor Heidarian is that she can sometimes be quiet and hard to hear. She only curves exam if the class average is below 75(don\u2019t count on it). If you\u2019re looking to just pass the class then go for Buerle(his insane curves) but if you want to learn then take Heidarian.",
+      "rating": 4,
+      "expected_grade": "C",
+      "created": "2024-04-24T05:04:59.055155Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "This guy is so boring. If you have prior knowledge of Physics 1, you'll be fine skipping class. If you need a review, you need to go to lecture. He goes kinda fast and the screen is hard to see from the back. If you pay attention, you will pass the class.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2024-05-04T21:16:36.679085Z"
+    },
+    {
+      "professor": "Patrick Kelly",
+      "course": "PHYS161",
+      "review": "Patrick doesn't really care about much and is low-key depressed. He won't teach like the other TAs. But if you want a TA who basically gives you the quiz answers and will do your homework if you ask then he's your guy.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2024-05-04T21:19:49.501876Z"
+    },
+    {
+      "professor": "Aria Heidarian",
+      "course": "PHYS161",
+      "review": "Dr.Heidarian is a nice teacher and care so much for her students. She provides a lot of extra problems and solutions for those problems on Piazza. Her exams are fair, but not easy even if you do her practice problems. My only issue with this professor is that she can be dry in her lectures. She goes by too fast, but at least her notes are posted on canvas. Her teaching style isn\u2019t meant for me and I end up struggling a bit in her class. I don\u2019t like how there\u2019s quizzes every week, but it's doable I\u2019ll say. I would recommend her if you got a good background on physics. Her teaching style really emphasizes on your understanding on the concepts of physics. If you can\u2019t understand it then this class gonna be a struggle. I say take Buerle if you just aiming for the grade. His class is similar but curves very well while Dr.Heidarian isn\u2019t nonchalant when it come to curving the class.",
+      "rating": 3,
+      "expected_grade": "C",
+      "created": "2024-05-09T00:28:11.475881Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "I never understood why students would criticize professors for being boring until I took physics with Hailu. I fought so hard to stay awake during his lectures that I genuinely could not divert any of my energy into actually understanding the topics. \r\n\r\nHe does not post lecture notes or videos, just his slides which are a jumbled mess of textbook screenshots. The only exam prep he provides is one old exam (posted two days before the exam) with no answer key. \r\n\r\nI went to his office hours once and he literally cost me points off my homework assignment; not only was it unproductive, but his explanations felt condescending and rude (not a comfortable environment to learn in). \r\n\r\nThe quizzes are pretty easy and the homework is helpful (both for your grade and understanding). The only reason I would recommend Hailu is because he provides feedback and hints on the hw with no deductions.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2024-05-10T16:20:22.501504Z"
+    },
+    {
+      "professor": "Aria Heidarian",
+      "course": "PHYS161",
+      "review": "An absolutely wonderful human being. I failed PHYS161 last semester and I approached her on the first day of class and her response was something to the effect of \"forget last semester, don't let that bring you down, this is a new start.\" Her teaching style was a little bit unorganized for me. She would post power point slides before lectures for students to download but a lot of her teaching was not actually with the slides, unless it was go over examples. She would use her iPad to write and explain the topics and then skip 5 slides. So it was a little bit difficult to follow and she sometimes just wrote too fast for me to keep up but she always posted her notes from the chapter. Despite this you can tell that she is incredibly knowledgable and passionate about her field and is always happy to answer questions. She is a very gracious grader and in my experience will offer extensions on homeworks when you ask and is always willing to discuss exam grades and where you went wrong if you take the time to speak with her. Lowest midterm and lowest discussion quiz get dropped at the end of the semester so you technically don't have to take the third midterm. I did anyway and got the exact same grade as the first midterm but was granted 2 more points after talking with her. My point is: consider taking the third midterm. You will have 4 Expert TA homework assignments every month, with 2 being due on the 15th and 2 being due on the last day of the month. She is always willing to post solutions to homework problems, or get you started, or elaborate on the process as long as you ask her with enough notice. While her 6 pm classes were a bit rough for me sometimes, especially since they ended at 7:15 pm, I enjoyed not having the class on Friday and her lectures never felt rushed.",
+      "rating": 4,
+      "expected_grade": "B-",
+      "created": "2024-05-17T18:34:08.375208Z"
+    },
+    {
+      "professor": "Aria Heidarian",
+      "course": "PHYS161",
+      "review": "An absolutely wonderful human being. I failed PHYS161 last semester and I approached her on the first day of class and her response was something to the effect of \"forget last semester, don't let that bring you down, this is a new start.\" Her teaching style was a little bit unorganized for me. She would post power point slides before lectures for students to download but a lot of her teaching was not actually with the slides, unless it was go over examples. She would use her iPad to write and explain the topics and then skip 5 slides. So it was a little bit difficult to follow and she sometimes just wrote too fast for me to keep up but she always posted her notes from the chapter. Despite this you can tell that she is incredibly knowledgable and passionate about her field and is always happy to answer questions. She is a very gracious grader and in my experience will offer extensions on homeworks when you ask and is always willing to discuss exam grades and where you went wrong if you take the time to speak with her. Lowest midterm and lowest discussion quiz get dropped at the end of the semester so you technically don't have to take the third midterm. I did anyway and got the exact same grade as the first midterm but was granted 2 more points after talking with her. My point is: consider taking the third midterm. You will have 4 Expert TA homework assignments every month, with 2 being due on the 15th and 2 being due on the last day of the month. She is always willing to post solutions to homework problems, or get you started, or elaborate on the process as long as you ask her with enough notice. While her 6 pm classes were a bit rough for me sometimes, especially since they ended at 7:15 pm, I enjoyed not having the class on Friday and her lectures never felt rushed.",
+      "rating": 4,
+      "expected_grade": "B-",
+      "created": "2024-05-17T18:34:53.220139Z"
+    },
+    {
+      "professor": "Negar Heidarian Boroujeni",
+      "course": "PHYS161",
+      "review": "Professor Heidarian is clearly knowledgeable and skilled in her subject area, and because of that she moves through explanations and practice problems pretty quickly. I found it a bit hard to absorb everything during lecture so I had to do a fair amount of concept review outside of lecture. I found her midterm exams to be pretty difficult (definitely study a lot for these!), although your worst one (out of three) is dropped which is nice. She is very approachable and open to answering individual questions after lecture. Overall, I liked her as a professor.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2024-05-19T03:22:18.976936Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "Pretty slow and boring but gives good practice material and fair exams. He also explains problems well.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-05-21T21:17:55.191524Z"
+    },
+    {
+      "professor": "Negar Heidarian Boroujeni",
+      "course": "PHYS161",
+      "review": "She\u2019s an alright professor. I would say she isn\u2019t that amazing as others put it. Dr.Heidarian is an above average professor who cares about her students. Posting hw solutions on piazza and providing practice sets that help you on the exams. My main issue with her is the lectures. She goes too fast and doesn\u2019t slow down. Her teaching style doesn\u2019t work for me as it goes on the topic for brief moments and then do practice problems. All this makes the lecture very boring. I feel like I can take a nap in her lecture. She drops the lowest midterm and lowest in lecture quiz(make no sense since is only 5%). She does provide a lot of help when you go to office hours(which is a must to pass sadly). Don\u2019t expect curves in her class. She hardly does and only does it if the class average is below 80%. If you want to pass the class without worrying too much, I say go with Buehrle. Who curves the class greatly but his exams are slightly harder. With Dr.Heidarian you must dedicate all your time for the class.",
+      "rating": 3,
+      "expected_grade": "C-",
+      "created": "2024-05-22T01:41:47.542192Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "He taught the course well, clearly explaining all topics in a chill (as in not harsh) style. That allowed me to understand all topics well enough to do well on tests and be interested in them. During office hours, he is willing to answer any question about homework or content and he answers in a non-critical way. Regarding tests, they are administered in a fair way in which we are allowed to bring in cheat sheets which he does not check, allowing us to write what we want. The homework is assigned on a great website called expertTA which usually gives us five chances to get questions correct and does not deduct us for wrong answers or hints. \r\n\r\nOverall, he is a great man and an amazing teacher who I am excited to take again for PHYS261, you should definitely take physics with him if he is a choice.\r\n\r\nRegarding ratings that say he is boring, he does speak in slight monotone but the tip to not getting bored in class is to sit by friends.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-05-22T14:08:15.622402Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "Worst lectures I have ever been to. Skipped for like 2 months because they are useless unless you learn while sleeping. He only posts PowerPoints of the questions he goes through, not the solutions he works through during class so after going a couple of times, make some friends who can send you the notes. The tests are not too hard or tricky which was nice, but the homework kind of sucked just try to stay current on the material.\r\n\r\nTry and take Aria Heidarian, her class was late but my friend said it was much easier. She dropped the worst test and actually taught well. Although the homework and content for tests were a bit different so you can't study or do homework with your friends in Hailu's class. \r\n\r\nOverall the class isn't bad, all tests and final were fair. It is also easier if you took or are taking ENES102 or took AP physics in high school.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2024-05-23T18:11:13.090590Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "Overall, he taught the content well, which succeeded in making me interested in the content and preparing me for the exam. He teaches in a chill style, and while he does get monotonous at times, I could deal with it and the solution is to sit near friends. Homework was assigned on a great site which gives us five attempts for problems and does not deduct us for hints or incorrect answers. For tests, we were allowed to use a cheat sheet and they were all fairly graded, and we were provided with a practice test to prepare us. \r\n\r\nDefinitely take him for Physics 161.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-05-27T15:30:48.377061Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "Overall, he taught the content well, which succeeded in making me interested in the content and preparing me for the exam. He teaches in a chill style, and while he does get monotonous at times, I could deal with it and the solution is to sit near friends. Homework was assigned on a great site which gives us five attempts for problems and does not deduct us for hints or incorrect answers. For tests, we were allowed to use a cheat sheet and they were all fairly graded, and we were provided with a practice test to prepare us. \r\n\r\nDefinitely take him for Physics 161.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-05-27T15:33:40.626274Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "The other reviews are right so I'll keep it brief.\r\n\r\nHailu is boring, it is hard to stay awake. If you can, pay attention in class, as going back to the slides after the lecture isn't really helpful. He doesn't post his solutions to problems we go over in class, so try to follow along.\r\nQuizzes are disproportionally easy compared to the exams. You won't need to worry about the quizzes at all, as long as you understand the basics.",
+      "rating": 3,
+      "expected_grade": "B-",
+      "created": "2024-06-06T12:57:19.192918Z"
+    },
+    {
+      "professor": "Alberto Belloni",
+      "course": "PHYS161",
+      "review": "nice guy, HEAVY Italian accent, lecture style is all over the place, don't feel like i learn a lot in lecture",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2024-09-06T00:36:54.748323Z"
+    },
+    {
+      "professor": "Alberto Belloni",
+      "course": "PHYS161",
+      "review": "Very good guy, Its hard to understand him at all times, makes lectures harder than they should be.",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2024-09-06T10:29:18.773871Z"
+    },
+    {
+      "professor": "Alberto Belloni",
+      "course": "PHYS161",
+      "review": "this is absolutely not the professor to take if you've never taken physics 1 before. the class is incredibly disorganized and very poorly taught. the department generally makes it unnecessarily complex, gives you meaningless practice on expert ta, and no practice exams. belloni seems to be basing the class of the OpenStax PDF and textbook, which straight up suck. I've taken physics 1 before, which is the only reason i'm surviving this class.\r\n\r\nif you're taking this\r\n1) i'm sorry for you\r\n2) use other resources (organic chem tutor, njctl ap physics c notes) to study. lecture is rather useless.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2024-10-19T20:49:52.151638Z"
+    },
+    {
+      "professor": "Alberto Belloni",
+      "course": "PHYS161",
+      "review": "Terrible instructor. Raced through content, had very tough exams, some with averages below 50%, much lower than other sections. Can\u2019t see your old exams either.",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2024-11-11T22:05:31.248192Z"
+    },
+    {
+      "professor": "Alberto Belloni",
+      "course": "PHYS161",
+      "review": "horrible experience. the guy doesn't explain anything in lecture (nothing more than reading the slides), gives out exams you humanly cannot finish in 50 mins, and doesn't give us anything with regards to curve, in spite the exam averages being 58 and 48. do NOT take him. you're better off taking this at ur local CC",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2024-11-17T16:57:24.461057Z"
+    },
+    {
+      "professor": "Alberto Belloni",
+      "course": "PHYS161",
+      "review": "On everything DO NOT TAKE THIS GUY. Exams are impossible, lectures are disorganized, and averages are abysmally low. The only saving grace is HW and weekly online quizzes, and even those are purposefully difficult.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2024-11-26T21:29:01.247899Z"
+    },
+    {
+      "professor": "Alberto Belloni",
+      "course": "PHYS161",
+      "review": "really enthusiastic lecturer, so lectures aren\u2019t boring at all. tests are pretty hard but they follow material covered in class. it may be difficult if you\u2019ve never taken mechanics before. i just like his lecture style.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2024-11-26T22:26:00.518240Z"
+    },
+    {
+      "professor": "Alberto Belloni",
+      "course": "PHYS161",
+      "review": "objectively a bad professor. scratches maybe 15% of the content thru class, lacks meaningful practice (and practice exams) and exams are disproportionately hard compared to what\u2019s covered (most of the class doesn\u2019t finish). notes are horrendously incoherent and disorganized. nice and knowledgeable prof but that doesn\u2019t compensate for the bad class management and confusing teaching style. would absolutely reccomend against taking dr. belloni",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2024-11-29T18:31:40.456869Z"
+    },
+    {
+      "professor": "Alberto Belloni",
+      "course": "PHYS161",
+      "review": "For starters, Alberto is a great human being, kind and willing to help if you ask, but his course overall has plenty of flaws. For starters, his lectures are simply put not good enough. They are often rushed, with mostly theoretical content, so when the exams come, you don't know how to do a majority of the things on there. The class is split with HW-20% Online Quizzes-20% Midterm Exams-30% Final-30% so having 40% of the class be open note is helpful. The exams are hard for a variety of reasons sadly. One, 50 mins is not enough time for 4-5 word problems with 2-4 parts and multiple choice. Two, he doesn't leave a drop of practice problems or mock exams(The HW is not really helpful). Three, he doesn't curve any of the exams greatly the most I've seen is 5%. You do get one of the three midterm exams dropped(my avg. is a 72% on my best two midterms if not it would be like a 60). I have well above the class median and average for exams and I'm still deeply worried that with the hard final and that he possibly won't give a total curve on the class, I won't get a B- which is what you need to transfer into Clark. Overall, don't take even with prior exp. from HS or CC, just not worth it. Wait for another semester or find a better professor.",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2024-12-02T21:13:26.325269Z"
+    },
+    {
+      "professor": "Alberto Belloni",
+      "course": "PHYS161",
+      "review": "I want to start off by saying he is a nice person, and he is also very intelligent. Unfortunately, I did not find his lectures helpful in the slightest and the exams were ridiculously difficult with extremely low averages. The exam material I felt was not adequately reflective of practice problems, although he did not provide any targeted practice problems other than vaguely saying that you should just complete the textbook problems. The homework was fine, but not very helpful. There are weekly quizzes on ELMS that were very difficult to do well on, since they were usually out of 10 points, and if you got a question wrong it was already an 8/10. That being said, I do think that you can pass in his class, it just will take a whole lot of extra and unnecessary effort that could be avoided by taking another professor.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2024-12-03T02:25:42.136592Z"
+    },
+    {
+      "professor": "Alberto Belloni",
+      "course": "PHYS161",
+      "review": "Alberto is a really great guy, very enthusiastic about what he's teaching. He's very approachable during office hours, but as a lot of the other reviews state, his lecturing style isn't very effective. Honestly, you're better off just reading the textbook. If you're into self-teaching, he's great. Lectures and discussion are both optional. However, the exams were really difficult for the time that we were given. The problems followed what we did in class, but time management was an issue. I believe this is the first semester he's teaching this course so perhaps in future semesters he'll be better. I say this because so far the format of every exam has been different. So, if you're a very independent learner and have a solid background in physics and calc, Alberto is fine. If you haven't taken any prior coursework in calc or physics, definitely consider a different professor.",
+      "rating": 3,
+      "expected_grade": "B-",
+      "created": "2024-12-03T19:34:59.751616Z"
+    },
+    {
+      "professor": "Bei Lok Hu",
+      "course": "PHYS161",
+      "review": "I took this class for an engineering requirement and here's what I've found\r\n\r\nPros:\r\n- Super passionate and is a happy person\r\n-He seems like he cares about his students\r\n- His tests are all examples from the book or his lectures\r\n- Homeworks are flexible (5 attempts per question my semester)\r\n\r\nCons:\r\n- Tests can be difficult\r\n- Grades return very slowly\r\n- He jumps through lectures talking about non-relevant topics sometimes\r\n- He is terrible at reading the room and breaking down/explaining his derivations\r\n\r\nOverall love the guy, find his teaching to be painful.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-12-03T20:06:58.830628Z"
+    },
+    {
+      "professor": "Bei Lok Hu",
+      "course": "PHYS161",
+      "review": "Very nice guy and passionate about the subject, but I do not recommend his class. I don't know how the other professors are for this class, but I struggled in his. I have taken 3 physics classes before and I came in already understanding most of the material but this class made it more confusing.\r\nPros\r\n1. Homework was flexible and you had multiple attempts.\r\n2. Quizzes were very easy.\r\nCons\r\n1. His writings in lectures felt like they were all over the place and sometimes I felt like I was better off skipping and learning directly from the textbook.\r\n2. His tests are very hard and it takes almost a month to get your score back. Midterm averages were near failing and I still have not heard of a curve.\r\n3. The homework website, Expert TA is awful.",
+      "rating": 2,
+      "expected_grade": "B-",
+      "created": "2024-12-06T01:58:38.648201Z"
+    },
+    {
+      "professor": "Aria Heidarian",
+      "course": "PHYS161",
+      "review": "Very nice person and a very good teacher overall, the one thing that kind of got on my nerves was that she would give you any time to think when she asks you a question.  She would help you out even after class, just so you can understand the concept as much as possible. She is all over the place for her notes, but if you don't miss a class, you will understand what is going on. She does go over the notes from the previous class if you miss a class or two.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2024-12-10T00:41:18.871429Z"
+    },
+    {
+      "professor": "Alberto Belloni",
+      "course": "PHYS161",
+      "review": "I would strongly recommend against taking this course with Dr. Belloni. \r\nLectures were disorganized and unhelpful, the weekly quizzes were difficult, the exams were unrealistically hard. There are no practice sets given from the textbook, no practice exams, and no significantly useful information to pull from the slides. There is little to no communication from the professor regarding grade cut offs or how to improve the grade. The averages for the exams were all in the 40-50 range and it was never properly acknowledged, the most he did was to slightly change the formatting of the last midterm we took. \r\nI would wait until another semester to take PHYS161 with another professor.",
+      "rating": 1,
+      "expected_grade": "C+",
+      "created": "2024-12-10T16:11:51.251216Z"
+    },
+    {
+      "professor": "Alberto Belloni",
+      "course": "PHYS161",
+      "review": "a pretty decent lecturer, was always good at explaining topics and was an easy class to be in\u2014but he tended to go quickly through important ideas. 3 midterms (30% of total grade) and dropped the lowest one. decided toward the end of the semester that he would also curve each exam individually due to the low averages on each exam (as well as the final) not sure what hes setting the avg at, but hoping for a pretty substantial curve",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2024-12-11T03:31:12.424901Z"
+    },
+    {
+      "professor": "Bei Lok Hu",
+      "course": "PHYS161",
+      "review": "Disclaimer: I did not take AP Physics. This is my first college physics course. This is going to be a long review.\r\n\r\nHomework consists of five problems (most if not all of them have sub-questions) and we got 5 attempts to answer each question with no deductions. It might be 3 attempts for you. It's always due Wednesday. For discussion, there is a quiz on the material that you covered during your last discussion session. If your TA talked about linear momentum last week, your quiz will be on linear momentum this week. Rinse and repeat. There are TWO exams and one cumulative final. You are allowed a formula sheet for all of them, and you should get it back along with your exam assuming your TA doesn't lose it like mine did.\r\n\r\nProfessor Hu is a nice person but he struggles to teach. His lectures are all done through the blackboard, and his writing can be hard to read (probably more so if you sit in the back). The amount of stuff he writes on each blackboard is also a lot, and it can be difficult to follow because he doesn't write in a left-right up-down direction - it's all over the place.\r\n\r\nI struggled hard with this course. He does NOT post his lecture notes online so don't miss class; he also has some demos during class that show up on exams too. On top of the professor's messy lecture structure, he focuses primarily on derivations rather than helping you understand the material that is being taught. Even WHILE he is deriving formulas, he skips a lot of algebra and just assumes you can get to the conclusion as fast as he does. (He has also mentioned partial derivatives and double/triple integrals which is peculiar because, while *I* did take Calculus 3 (MATH 241), it is NOT a prerequisite for this course.) Honestly I even read the textbook and it helped my confusion a little but not entirely, so you're better off using the Organic Chemistry Tutor or something.\r\n\r\nIn terms of difficulty of the graded work in this class, it's easily discussion quizzes < homework < midterm exams. Upon my asking, Professor Hu does not give any practice problems because he says \"the quizzes, homework, textbook, and lecture are enough.\" But the difference in difficulty between the questions on the quizzes and the questions on the midterms is too vast. You're better off taking someone else for physics.",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2024-12-11T21:19:37.165104Z"
+    },
+    {
+      "professor": "Aria Heidarian",
+      "course": "PHYS161",
+      "review": "Heidarian is very nice and her lectures are enjoyable. She does a pretty good job at keeping you engaged. In my opinion, her exams are more than fair (they were honestly easier than the homeworks and practice problems) and if you study you will do fine. Every exam had an 8 point extra credit question so it's not hard to get 100%+ on them. She also provides practice problem sets with answer keys for every midterm which prepared me VERY well. My only complaint is that you don't get really any time to think through example problems in class before she solves them, so I usually ended up just watching her do the problems and not really getting practice myself, but the abundance of resources/practice problems she provides outside of class makes up for it.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2024-12-12T07:12:26.860797Z"
+    },
+    {
+      "professor": "Alberto Belloni",
+      "course": "PHYS161",
+      "review": "I will start off by saying that Alberto Belloni is a really nice guy. He is very helpful and approachable when you attend his office hours. However, his teaching style did not suit me. The lectures were disorganized and rushed at times, and I felt as though he did not cover the important material as much. I would not recommend Professor Belloni to anyone who wants to actually learn physics because I learned very little in this class. The homework assignments are nowhere near the caliber of the midterms he gives and I always felt like there was not enough time to complete these midterms. The weekly quizzes also felt like a waste of time because we would never get a good grasp on the materials learned. The textbook he gave us as a resource (from which he gets his lecture slides) is not even the one he uses to create the midterms (this is what he told me) so find another textbook to learn from if you can. If you a good at self-learning and/or have a strong foundation in physics and calc already, you will be fine. If not, I highly suggest you do what you need to do to get a better prof.",
+      "rating": 1,
+      "expected_grade": "C+",
+      "created": "2024-12-12T07:15:40.970879Z"
+    },
+    {
+      "professor": "Alberto Belloni",
+      "course": "PHYS161",
+      "review": "this dude is a nightmare to learn from. he is confusing to follow in class and messes up his own example problems in class. i genuinely dont think he and the TA communicated at all, as the ta\u2019s were kinda clueless in general. i would like to mention that as a person he is very sweet and kind. he does not make any exceptions for missing work, and often times his homework had little to nothing to do with the examples he presents in class. he makes learning a difficult chore, and honestly most of us were better off missing class to read the textbook. our test averages were 10-20% lower than the other physics classes. i wish professor belloni the best but he needs to better his teaching style",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2024-12-12T15:20:14.784420Z"
+    },
+    {
+      "professor": "Christopher Zapata",
+      "course": "PHYS161",
+      "review": "GOATED TA!",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2024-12-16T02:32:43.185673Z"
+    },
+    {
+      "professor": "Alberto Belloni",
+      "course": "PHYS161",
+      "review": "He seems nice and passionate ab the subject. Posts all his slides to elms but it is mostly just screenshots of text from the textbook to help you understand concepts. He didn't release any practice tests and none of his lecture problems were really like the exams so it was hard to study for it but idk if I can rlly blame him for it since I stopped going to lecture. He drops the lowest exam and also decided to curve final grades due to consistently low exam averages but the curve is still unclear and he is vague ab it. There's weekly quizzes whch are mostly conceptual and hw every other day which ranges from rlly easy to hard but is still nothing like the exams so it doesn't rlly help prepare you.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2024-12-19T06:07:56.409096Z"
+    },
+    {
+      "professor": "Aria Heidarian",
+      "course": "PHYS161",
+      "review": "She was very receptive to questions throughout her lectures. Overall she provided good study material for the exams and posted all the lecture notes on canvas. Her canvas page was also very well set up. I would say though the homework is a bit long sometimes.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2024-12-21T00:25:43.055103Z"
+    },
+    {
+      "professor": "Alberto Belloni",
+      "course": "PHYS161",
+      "review": "he's very passionate about teaching, it should be fine if you do well learning the contents by yourself. exams are DIFFICULT but good curves!",
+      "rating": 3,
+      "expected_grade": "B-",
+      "created": "2024-12-21T14:23:37.774769Z"
+    },
+    {
+      "professor": "Alberto Belloni",
+      "course": "PHYS161",
+      "review": "Overview: Nice and passionate professor however not the best teacher. Seemed to possibly be newer at teaching PHYS161? Reason for it being a 3 and not a 2 is due to PHYS161(in my opinion for physics) being a difficult subject. \r\n\r\nGrades: Dropped lowest of the exams and seemed to have done a final grade curve (which at least according to the syllabus may factor in attendance for me is was one letter grade up) exam medians tended to be around 60% with one exam being around 50%\r\n\r\nAttendance policy: Attendance is not required (discussion attendance for my section quickly dropped to only three to two people attending) however is highly encouraged (and may be factored into grade if you are on the border line)\r\n\r\nLecture: Slides which was heavily based on the textbook which primary focused on concepts. Professor did go through problems on the slides (which sometimes helped) and tended to be quick to respond to questions (especially if you were in the front). Energetic and friendly but may lose you during concept explanation  \r\n\r\nDiscussions: Nothing seemed to be prepared by the professor for discussion with the exception of the answer key to the exams. The TA (at least in my experience) got better with time and would help with any questions that people who attended had (otherwise it is simply just a place to do homework)\r\n\r\nAssignments: Approximately weekly homework (varied in difficulty and type) and quizzes (multiple choice or fill in the blank conceptual questions) \r\n\r\nExams: Tended to be difficult, mostly made up of multiple questions with multiple parts. Quizzes and homework rarely helped for the exam. You are allowed one sheet regular sized sheet of paper for a formula sheet for the exam. The lowest exam was dropped. For the final exam other professors PHYS161 final exams were given however multiple questions were far different from the types of final exam questions given for the other professors.\r\n\r\nOffice hours: Email to schedule, I went once and he was helpful (willing to repeat concepts until I got it, rather friendly) \r\n\r\nTips: Practice problems from the textbook, don't procrastinate on getting the quizzes and homework, go to discussions if you have questions (or just to have a good environment to study with other students), if you are confused about something go to office hours (he is kind even if the question you ask is for something simple)",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2024-12-21T15:49:27.426766Z"
+    },
+    {
+      "professor": "Alberto Belloni",
+      "course": "PHYS161",
+      "review": "I want to start out by saying that Professor Belloni is a very nice man. He obviously wants us to do well and be interested in the subject. However, he doesn't actually do anything to make this possible. He shared no practice exams throughout the semester which made it very difficult to study because the homework, textbook, and lecture practice problems were nothing like the exam problems. I will say that the homework and quizzes have a strong weight in the class so do not slack off on them. For the final, he gave us some practice exams which really helped and I wish he did that for the midterms. The way he curved the class was extremely vague and he never discussed the results of the class. I technically should have ended with a D+ but he curved the class at the very end so I ended with a B. I guess I shouldn't complain but this class brought upon so much stress purely due to the constant lack of information.",
+      "rating": 2,
+      "expected_grade": "C-",
+      "created": "2024-12-21T16:27:00.003322Z"
+    },
+    {
+      "professor": "Alberto Belloni",
+      "course": "PHYS161",
+      "review": "Prof. Belloni is a very nice person and is undeniably passionate about physics. However, as a professor, he is not very good. This is not due to a lack of knowledge\u2014he is extremely intelligent and well-versed in physics\u2014but because his lectures mostly consist of reading from mediocre slides, occasionally deriving equations, and solving one or two practice problems that usually do not accurately represent exam questions.\r\nThe derivations might be valuable for general knowledge, but they were never necessary for exams or homework, making them a less-than-optimal use of time. Additionally, the homework was largely unhelpful. While most problems were of easy-to-medium difficulty, there was often at least one multi-part question that seemed unnecessarily difficult for the sake of being challenging.\r\nHe administers four midterms, with average scores typically ranging between 45 and 55. To his credit, he does drop the lowest midterm score. However, he gave no clear indication of whether or how a curve would be applied, and ultimately, he only curved letter grades when finalizing the course grades with no announcement. If you end up in his class, your best strategy is to focus on the more difficult practice problems from the textbook\u2014don't waste time on easy questions, as he tends to create challenging exams.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2024-12-24T23:26:54.565626Z"
+    },
+    {
+      "professor": "Alberto Belloni",
+      "course": "PHYS161",
+      "review": "Prof. Belloni is that guy who's understanding of the topic is almost too far for his own good. He explains many topics as if you already knew them and will speed through problems. He's funny and someone who really gets you engaged. \r\n\r\nI wouldn't recommend him if you do not do well in fast paced environments or base notes off of the ones provided. \r\n\r\nExams were also extremely difficult. Class average across the midterms was approx. a 52%.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2025-01-02T15:23:29.663783Z"
+    },
+    {
+      "professor": "Bei Lok Hu",
+      "course": "PHYS161",
+      "review": "Hu is a calm and kind but unhelpful and oblivious professor. He frequently assumed that his students wanted him to go faster or understood what he was saying which was hilarious.  \r\n\r\nPros: \r\n- Homework and quizzes are doable. The sps tutoring is helpful too. \r\n- Nice guy\r\n- Free participation credits at the end of the semester\r\n- We had a extra credit hw (15 pts)\r\n- A curve but only for the final grade \r\n- 1 hw per week that does help grasp the content better (5 attempts per question with hints)\r\n\r\nCons:\r\n- slowww grading\r\n- entirely conceptual exams\r\n- Speaks fast and mumbles sometimes\r\n- Moves fast on chalkboard and does not post those problems (only posts textbook slides) \r\n\r\nAgain, the exams are entirely conceptual so do EACH problem that Professor Hu suggests to do the lecture before the exam because for my class, around 1-2 that he mentioned showed up (I still failed them).  Average for each of the 2 midterms we had was a 64%. \r\n\r\nMy grade was a 76 without the curve and I ended up with a B-. Apparently 2/3 of the class ended up with an A or B.",
+      "rating": 2,
+      "expected_grade": "B-",
+      "created": "2025-01-05T21:41:53.623359Z"
+    },
+    {
+      "professor": "Aria Heidarian",
+      "course": "PHYS161",
+      "review": "I don't like her lecture style, as she lacks organization and her slides are from OpenStax. However, her tests are pretty similar to the study material given beforehand. What screwed me over was the weekly in-class quizzes, so don't take them lightly. She offers extra credit on midterms, but not finals. If you have already taken AP Mechanics or something similar before, you will land an A pretty easily.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2025-01-16T01:56:51.176565Z"
+    },
+    {
+      "professor": "Aria Heidarian",
+      "course": "PHYS161",
+      "review": "She is honestly a really good teacher. I was scared coming to class because I had really basic physics knowledge, but she took the time to explain things thoroughly. She is literally just trying to help you succeed. All of the lectures, lecture notes, and supplemental worksheets are on canvas and she takes time to answer questions after class if you need. Great teacher.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-01-21T21:13:05.328674Z"
+    },
+    {
+      "professor": "Aria Heidarian",
+      "course": "PHYS161",
+      "review": "Compared to my high school physics teachers, Dr. Heidarian is in a completely different ballpark. Her lectures are very fast-paced but I found them very helpful, and she posts everything to Canvas quickly after class. Her class is set up well and you go through the material in a way that I found made a lot of sense and allowed me to grasp the concepts as we moved through them. She has plenty of office hours between her and her TA, I hadn't been to any with her but every one I went to with her TA I felt like I understood the material better walking out than I had walked in. She also posts very helpful study guides that model what her tests are going to look like.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2025-01-22T04:20:08.729064Z"
+    },
+    {
+      "professor": "Bei Lok Hu",
+      "course": "PHYS161",
+      "review": "Expect to learn more from the textbook than you do him. He is not good at explaining topics and when he decides to give out examples he just uses variables and only does half a problem. The fact that he never had actual office hours, just made it seem like he had little care about his students having access to him as a valuable resource. He seemed like a lazy teacher in general, just trying to get in and out of class without care for how the students did. My advice is to go to any available tutoring sessions to help yourself out.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2025-01-24T05:23:52.553977Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "Terrible. No disrespect to him at all, I wish him the best, and he seems very kind. However, makes studying for anything impossible as he refuses to post any practice exams or even say what is on the exam. Had to fight for my life for an A in a very easy course because he did not explain much of anything.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2025-04-22T18:05:14.141789Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "He is so incredibly boring, the examples he does in class are useless, and does not do a great job at preparing us for the exams. But, the exams are relatively easy so I was able to get away with skipping basically every class and then learning the information myself because the exams were just that easy. As a professor he isn't great but I'm still going to take him for 260 so do with that what you will.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2025-04-30T20:00:43.567958Z"
+    },
+    {
+      "professor": "Alberto Belloni",
+      "course": "PHYS161",
+      "review": "Grades are not a factor, the class was absolute fun, TAs are also helpful",
+      "rating": 5,
+      "expected_grade": "C",
+      "created": "2025-05-04T04:56:08.686391Z"
+    },
+    {
+      "professor": "Alberto Belloni",
+      "course": "PHYS161",
+      "review": "Exams are extremely hard and long, averages are usually in the 60-low 70 range and there is no curve. Assigns way more homework than other professors that isn't helpful for exam prep. Quizzes are longer and more difficult than the ones from other professors as well. Nice guy, but lectures are boring and he is very unclear about what content is on the final. Doesn't respond to emails in a timely manner at all and exams aren't returned to you I believe you need to request it.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2025-05-07T22:57:33.778834Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "he's kinda boring and slow. The homeworks roughly follow what is taught but besides that it is okay i guess.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-05-12T20:53:46.744647Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "Hailu definitely understands the content well, but he is a very boring lecturer. I have almost fallen asleep in his class multiple times. He also explains the concepts in a way that is more difficult to understand than necessary. From what I've heard, he's a better professor than other professors here, so I would recommend him if he's the best option.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-05-13T16:43:07.073503Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "Hailu is a strict teacher but a fair one, he is very direct with his responses by email but his lectures are very slow paced and honestly not worth going to until the second exam if you've already taken physics or mechanics. He didn't always provide the best review materials for exams but the TA's were helpful and SPS tutoring helped me greatly, I would recommend him but be prepared to review the slides on your own or watch videos as he can overcomplicate simple concepts in lecture during example problems.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2025-05-14T04:37:07.175988Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "Don't really understand the hate here. I came into 161 with exactly zero physics knowledge and am expecting to get an A in the class. I didn't put in crazy hours studying, either. Yes, Hailu lectures very slowly, but he actually explains everything pretty well. Just be aware that he doesn't record his lectures. The midterm exams are very fair and they're similar to his homework/in-class examples. As long as you have a good equation sheet you'll do well in the class. He's definitely the safest option and I'm taking him again for 260.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-05-15T16:56:35.915188Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "Often in lecture he will fail to define variable or connect topics to one another. It is very difficult to follow at times what he is doing and how it is applied. He will often neglect to go over details he covered purely out of fact that he has already covered them even though it would be helpful to have a full understanding of the concepts being taught. His lectures essentially are only of him going over examples, which would be useful if he recorded lecture or posted his notes, however he does not. If you miss a lecture, there is no way to understand what the answer is or how he got there other than scanning through the mediocre textbook or ChatGPT. He posts sample exams before each exam, however, they are often obsolete and he will announce that the questions are not relevant to what material will be on our exams. I do not recommend Dr. Gebremariam, however, the entire physics department seems as if its lacking great professors, so if you can tolerate the above and make sure you attend every lecture (and not fall asleep) you'll be fine to get through the class.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2025-05-17T10:55:15.302507Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "this professor is very boring. I was falling asleep every lecture. The exams were that difficult but many of the past exams he gave as practice were very outdated. HE DOESNT RECORD OR POST ANY NOTES FOR LECTURES. this is probably the worst thing about him. He does so many good examples during lectures but doesn't post them.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2025-05-18T00:26:16.483544Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "I think Professor Gebremariam is an okay professor. Let's start off with the good things. He is a very fair professor in terms of exams and the weekly homework assignments. He also seems like a very approachable professor. I have not talked to him outside of lecture as much as I wanted to, but the one time I did he seem very helpful. Now for the downsides, his lectures can get very boring. He also doesn't post as much practice problems for the exams in my opinion. I'm not talking just about practice exams, but just problems to work on to practice for the exam. Overall, I think he is an okay professor. Not good, but also not bad.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2025-05-18T17:32:42.741540Z"
+    },
+    {
+      "professor": "Alberto Belloni",
+      "course": "PHYS161",
+      "review": "He is a really really nice person. If I had not taken AP mechanics in high school I would have literally no idea what he is talking about (and sometimes I don't know what he is talking about lol). The tangents about stuff totally unrelated would make someone who has never taken physics very confused. His exams were somewhat difficult because it was often hard to really apply the physics concept trying to decipher what he is talking about. The final was pretty easy but I think it was written by a different teacher. He is a really fun professor just not really great at explanations.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2025-05-21T03:23:39.741241Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "The best way to describe Hailu is mid. Hailu is incapable of making his lectures engaging and you want to fall asleep every single lecture. He never posted slides or notes, but his exams were fair for the most part and gave online quizzes you could do whenever. \r\n\r\nHis HWs weren't helpful but it wasn't too much work. If you ask a questions during lecture, watch out he gonna give you some sarcastic or mean remark. There probably isn't a better option, so you might as well take him.\r\n\r\nAlso he didn't want to share the final practice exams with us that Belloni gave his classes??",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2025-05-21T14:18:24.566178Z"
+    },
+    {
+      "professor": "Alberto Belloni",
+      "course": "PHYS161",
+      "review": "He's a very nice guy and passionate about the subject but his teaching is eh... Maybe if you took AP physics in highs school you be fine for this course but for someone who doesn't have that much prior background knowledge in physics his class was rough. I'm guessing its because he's used to teaching higher level physics course, he doesn't know how to \"dumb it down\". Not saying to treat your students like they're stupid but just remember this is an intro level course and things that are easy to you are probably not so easy to a bunch of freshmen.\r\n\r\nPros: he drops your lowest exam and a nice guy\r\nCons: exams are considerable harder than the Hailu or other math professors, lectures aren't clear, assigned 34 hw assignments\r\n\r\nThe avg on exams for our class were in the 60s and 70s but take it with a grain of salt as many people would literally cheat on exams as he didn't have TAs walking around.\r\n\r\nOverall, I'd say if you have a strong foundation in physics, you can try your luck but if you were someone like me who came in with kind of no knowledge besides a regular physics class, then probably steer clear.\r\n\r\nHope there's a curve though",
+      "rating": 2,
+      "expected_grade": "C+",
+      "created": "2025-05-22T01:54:47.659670Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "Overall a solid professor. The lectures were boring and most of the time just slowly going over practice problems. However, if you pay attention to these problems, the exams will be very fair and often easier than some of the examples and homework problems. Fairly easy to succeed in this class, also don't need to go to discussion at all.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-05-23T17:04:38.079142Z"
+    },
+    {
+      "professor": "Aria Heidarian",
+      "course": "PHYS161",
+      "review": "Had this professor in Fall 2024 for PHYS161 but forgot to do a review.\r\n\r\nCourse: This is a standard Physics I course. You'll learn kinematics, dynamics, energy, momentum, rotational motion, and gravitation. Some calculus is involved, but nothing too crazy.\r\n\r\nLectures: I would say lectures are pretty important and Heidarian does a great job covering the topics. There are quizzes at the end of lecture during some sessions which tend to have 2-3 questions. The quizzes overall are only worth 10% so it's not a big deal if you fail one or two, and one of them gets dropped at the end of the semester. So just make sure you are not consistently failing them. Overall I felt with lecture I understood the concepts well enough to be able to apply them in the homeworks.\r\n\r\nHomework: There were about 12 homework assignments. Due dates were pretty spaced apart so you got a good amount to do them (not sure if she changed this for her PHYS260 class). The problems are mostly pretty basic, there are a few that are quite challenging. There was 3% cut for every wrong attempt on the individual, but since the HW assignments had a ton of questions each they rarely ever added up to much. Just make sure to be careful when submitting answers (I've heard her HWs have become more lenient in Spring 2025). Homework questions are good practice for exams (in fact they are usually harder than the questions on the exams).\r\n\r\nExams: These consist of mostly a bunch of basic questions that apply the concepts in lecture in a specific way. Sometimes you just need to substitute in values but other times you'll need to analyze more relationships between things. But none of the questions were crazy. There were a couple of multiple choice questions which can bring down your test grade if you miss 1, but again nothing too crazy here. Heidarian gives an 8 point extra credit question at the end of each midterm (but not the final) which can massively boost your exam grade if you attempt it and get it right. Heidarian also drops one exam.\r\n\r\nClass Review: Heidarian was a great lecturer for PHYS161 and I would recommend her. It's not too hard to do well as long as you understand the concepts. She provides lecture notes so no need to worry if you need to miss a lecture, but do still try to catch as many lectures as you can. She also provides extra practice outside of HW's to work on which closely resemble the problems she gives on exams.\r\n\r\nNote: This class was part of Freshman Connection so the lecture was a lot smaller than usual.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-05-30T01:04:31.933587Z"
+    },
+    {
+      "professor": "Alberto Belloni",
+      "course": "PHYS161",
+      "review": "He's a nice guy who is very passionate about physics. He is not the best lecturer and his tests are difficult. His homework ranges from bad to doable. While in his class, his grades did not reflect the actual grade I received in his class. I was expecting a C+ but with his curve, I received a B+.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2025-05-31T23:21:39.802529Z"
+    },
+    {
+      "professor": "Alberto Belloni",
+      "course": "PHYS161",
+      "review": "Professor Belloni is a great guy, he's so funny at times and genuinely loves Physics, but... he really isn't that good at teaching it. He goes off what is on the slides and speeds through them most of the time. He speaks faster than his brain can think, so he gets stuck and has to take moments to regain his thoughts, and sometimes just skips over steps, but he wouldn't be annoyed if you ask to explain. I had previously taken AP Physics in high school, so most of what was taught was just a review for me. I would sometimes skip lectures because I felt like I had a good idea of what the topics were about.\r\n\r\nThe homework assignments were kind of lengthy at times, but very helpful in understanding how to apply the concepts. The exams were semi-difficult, and his practice tests weren't too similar to his actual exams, but if you studied well, you could've done well. Some people would cheat since it was only him in the lecture hall watching over almost 210 students.\r\n\r\nI would potentially suggest another professor if you want to actually learn, but Belloni is feasible if you learn on your own or have previous Physics knowledge.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-06-01T04:43:08.164030Z"
+    },
+    {
+      "professor": "Alberto Belloni",
+      "course": "PHYS161",
+      "review": "Nice guy, not great teaching, doable if you just give up trying to learn traditionally. He reuses old exam questions sometimes and this semester was easier than others. Just try to get the main three equations you'll need from each lecture and get through each homework. Main focus should be on the practice exams he gives to get the problem-solving strategies which often repeat across questions.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2025-06-01T18:42:01.132047Z"
+    },
+    {
+      "professor": "Matt Severson",
+      "course": "PHYS161",
+      "review": "Took this course over the summer and overall a good professor. Quizzes were easy, exams were fair. The last exam was miserable but that comes with taking it two days after learning new material. All the lecture material is posted at the start of the semester so attendance is not mandatory, he records lectures anyways. However that also means every lecture is him reading off prewritten notes which yeah it can be boring but I found it helpful since he explains things in an intuitive way. I would definitely attend lecture but also use that time to take notes from his slides or textbook because if you just sit there and listen to him, you will fall asleep very quickly, he is very monotone. \r\n\r\nHomework was on expertta which does cost money and you are docked points for wrong answers but the textbook is free so, theres that. I got by fine without using the textbook at all and just using his notes as they are very comprehensive combined with his lectures. He also has solutions to study guides you can use to practice for exams and a formula sheet you get from day one. \r\n\r\nI don't know why people rag on him for being a little blunt at times, he won't hold your hand through the course but gives you the information to pass.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-07-12T05:26:52.404247Z"
+    },
+    {
+      "professor": "Matt Severson",
+      "course": "PHYS161",
+      "review": "This class was pretty easy and Severson gives good resources to help you learn the material and prepare for exams. He gives a lot of real life examples in class which is cool and goes over fundamental things for each topic to help us better understand it. I think his lecture slides are pretty good and the examples we do together are really helpful to grasp the topic. \r\n\r\nThe exams are harder than the quizzes but are still fair and don\u2019t test content we haven\u2019t learned.  \r\n\r\nHe\u2019s nice and willing to help if you\u2019re asking good questions and curious about physics!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-07-14T03:19:29.241271Z"
+    },
+    {
+      "professor": "Matt Severson",
+      "course": "PHYS161",
+      "review": "I took this class over the summer and greatly benefited from not having to take other classes at the same time. Professor Severson is a pretty decent teacher. Class can be boring at times because he just reads off of prewritten notes but overall does a good job of explaining. \r\n\r\nThere are 3 exams for this class. The first exam being weighted half as much as the last two. Overall, the exams are super fair and are basically problems from the lecture notes. Do well on the first two because the last one can be more challenging. \r\n\r\nQuizzes are super easy and are just meant to help your understanding. \r\n\r\nHomework was considerably harder than it needed to be. What is most frustrating is how the homework requires specific entry format. Also every wrong attempt takes points off so be certain with your submissions. \r\n\r\nOverall, this class was extremely fair and Professor Severson intends for you to do really well.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-07-15T16:51:22.251900Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "most of these reviews are pretty accurate, but one thing i disagree with is some people say that you need a good understanding of physics before entering the class. I took this class with no prior knowledge in physics at all, and I did fine. He drops the lowest exams and curves the grades pretty well so as long as you follow along with the class and make sure you understand whats happening on the homework this class is no harder than math140.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2025-10-29T12:59:07.560794Z"
+    },
+    {
+      "professor": "Rachel Rice",
+      "course": "PHYS161",
+      "review": "She is a pretty good professor. She doesn't make the lecture particularly boring but neither are they too exciting. I enjoyed her teaching style. She is both informative and tries to use her students to make the lectures flow in different direction, even if they are wrong. Exam wise: they definitely where challenging but never to the point that they were unfair or purposely tricky. She curved al the exams as well. Her office hours are VERY helpful, to the point that she will tell you the answers on the homeworks. Her TA was also very helpful and gives you great practice problems in discussion. I would recommend going to discussion even if its not mandatory mainly because its so helpful. If you are looking for a teacher that teaches to the syllabus and doesn't really pull any tricks, take Dr. Rice.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-11-04T20:21:42.084982Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "I read the reviews before taking this class and thought I wouldn't care about his monotone voice, but it actually is pretty bad. I try to pay attention to what he's saying, but it's impossible. I basically don't learn anything during the lecture, but you have to go since he doesn't post his notes. You also have to study a lot for this class; just going over the homework wasn't enough for me. You have to understand, and probably do some textbook practice. This is my first B in college, but I also think I am more of a memorization person, which doesn't really work in this class.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2025-11-06T15:59:09.892793Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "I do not get why people hate on this professor. Yes, what he goes over in class may be more simple than what can appear on exams. But that is the case with physics professors. They teach you formulas and how/when to apply them. Professors cannot teach you to problem solve. With that being said, I love Professor Buerhle. This class may be hard, but with practice, it is extremely doable. The curves are very hefty (usually around 20-25% a test if you are receiving the median score), the quizzes are take home and you get a week to do them, same thing goes for the homework. Additionally, lowest score on 1 out of the 3 exams is dropped, the lowest quiz grade is dropped, and a couple of your lowest homework grades are dropped.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-11-19T03:07:00.261878Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "he has got to be rage baiting me! If I could give a 0 star I most definitely would. Tell me why he's explaining the basics of a topic and then giving me jack all in the exam. Sure these exams are curved HEAVILY BECAUSE I WONDER WHY. MAYBE ITS THE FACT THAT THESE QUESTIONS ARE TESTING THE LIMITS OF OUR PATIENCE. If only we had a teacher teaching us anything more than surface level physics maybe we could keep up with his jack all questions on these exams. AND tell me why he's talking about sum \"ion give out points to bump u for ur program even if it depends on it\" because every time I take one of these exams I feel like I'm becoming more and more neurodivergent, it feels  like I'm genuinely losing my braincells. It's like taking tren without the tren and all of the side effects, matter of fact I think I'm gaining gyno from the amount of stress that is causing my hormonal imbalance.",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2025-11-25T06:14:31.068612Z"
+    },
+    {
+      "professor": "Alberto Belloni",
+      "course": "PHYS161",
+      "review": "Proffesor Belloni is one of the nicest teachers I have ever had, does that mean you should go to lecture, well it depends. If you are good at self studying or have already taken lectures never go to a single lecture they are pointless. Also don't go to discussion's you can do those in your room. You should go to the discussion before the test to ask questions on the test.\r\n\r\nThe test's are really HARD no lie. But he gives you 5 practice tests for each midterm and final. With those practice test I was able to get around 85 on the 1st 2 midterms and I didn't study for the third and got a 75. He drops 1 midterm, hw is easy, online quizes are easy.\r\n\r\nALSO GO TO OFFICE HOURS, hes really nice and he explains things much better then he does in lecture",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-13T21:44:49.434028Z"
+    },
+    {
+      "professor": "Alberto Belloni",
+      "course": "PHYS161",
+      "review": "I don't understand why this guy has less than 3 stars, he is really sweet and genuinely cares about his students passing. His lectures are a little disorganized but he posts everything online and gives plenty of practice and review. I feel so maternal towards him he's so nice. He gives free points for everything on exams. You literally get points for choosing an mcq answer. You might have to teach yourself a lot of the course, but it's pretty much fine if you do the practice he gives. I think his exams are fair and you can skip out on lecture, except I felt bad every time I slept through because he is really just trying his best :(. Please be kind to my guy Belloni he is just little belloni.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2025-12-17T03:06:18.711464Z"
+    },
+    {
+      "professor": "Bei Lok Hu",
+      "course": "PHYS161",
+      "review": "Professor Hu is a nice person, but his lectures felt impossible to follow. He would start problems without explaining what he was solving for, struggled to actually answer student questions, and if you didn't sit in the front it was hard to see what he was writing on the chalkboard. If you don't come into this class without some sort of physics background you will struggle.\r\n\r\nOn the plus side, exams were difficult but fair. They were very similar to examples he did in lecture, so definitely go to lecture even if you don't know what's happening. I learned more about the actual concepts from my TA and the textbook, but I studied his examples to prepare for exams.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2025-12-18T00:00:02.838225Z"
+    },
+    {
+      "professor": "Aria Heidarian",
+      "course": "PHYS161",
+      "review": "awesome professor, gives a lot of resources to practice with and the homeworks are pretty helpful. definitely take her if you have the chance",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-20T15:54:55.008969Z"
+    },
+    {
+      "professor": "Bei Lok Hu",
+      "course": "PHYS161",
+      "review": "Very sweet guy; you can tell he likes physics and cares about his students but his exams were difficult and lectures were generally unhelpful. He barely uses numbers in exam questions (mostly conceptual based) which made them really confusing. Homeworks and quizzes were manageable (they had numbers in the questions & made more sense than midterms) but a lot of this course was me teaching myself the content. Lectures were all over the place and were not super engaging. Somewhat typical for a math-based class at UMD but I did expect better.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2025-12-20T16:18:51.776072Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "He is a good professor, 100% better than any other professors that teach PHYS161. I like his lecture style; he tries to be casual, dropping some curse words while lecturing. I didn\u2019t go to his lecture after 3 weeks and studied only like 3 to 4 days before each exam. Homework is due every Monday, Wednesday, and Friday, and participation is due after every lecture. He has online quizzes that are usually easy; some questions are hard and need critical thinking. Exams are harder than homework and quizzes, so do study and try to understand the concepts and how you can manipulate formulas to answer questions. Even though exams are hard, he curves like crazy and really boosts your grade. TBH, I kind of like his exam style because it pushes you to your limit, and he understands that, which is why he curves every exam like crazy. If you can\u2019t make the average on exams, then I believe you need to reconsider your major or the choice of courses you take in the future. He is really understanding, checks his emails, and corrects grades if he makes any mistakes. Exams are 30%, homework is 20%, quizzes 15%, final 30%, and participation 5%. There are 3 exams, and the lowest gets dropped, which is usually the 3rd one. Really try hard on the first 2, as they are much easier than the 3rd one. Take him if you can.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2025-12-21T18:55:38.251760Z"
+    },
+    {
+      "professor": "Alberto Belloni",
+      "course": "PHYS161",
+      "review": "He is a very nice professor who you can tell is passionate about what he is teaching; however, he is not the best teacher. He sometimes gives examples that are based on Physics 2 or 3 concepts, which confuses us a lot.\r\n\r\nAs for his exams, they always have at least one trick question meant to test how well you can apply concepts to an unseen problem, so if you aren\u2019t good at that, you will probably struggle on exams. His averages were usually in the mid-60s, with the final being in the low-70s. The only thing I didn\u2019t like is that for the final, you could only use formulas that appear in the back of the textbook chapters for your formula sheet, so you didn\u2019t have much freedom with that.\r\n\r\nOn the bright side, he does drop your lowest exam score and applies a curve at the end of the course.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2025-12-21T19:39:38.253345Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "Pretty good teacher I neve took any physics before and ended with a B. I am a pretty average student who has failed a class before, but do spend tons of time studying.  His exams 2 and 3 can be a bit difficult but he curves all exams to compensate for it all. Yes the lectures will only be general stuff, so do some Khan academy, watch crash course(I found this personally super helpful), or read the book whatever floats your boat.  Homework's can be long but try not to use AI they will help you with the concepts and problem solving even though they can cook your brain.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2025-12-22T01:42:10.782959Z"
+    },
+    {
+      "professor": "Alberto Belloni",
+      "course": "PHYS161",
+      "review": "He deserves almost none of the hate he gets. It's a hard class but my final grade was curved, he counted the last 3 homework as extra credit (there were 33 total so this was a free 110% in homework category if you got an 100 on the homework that gives you 5 attempts per question), and graded the exams super lightly. Everyone else here is just salty they failed a (very easy) class, just wait until you get into higher level engineering classes, he looks like an angel in comparison. I had several email conversations with him, all of which he was very kind and understanding in. From rescheduling quizzes for me when I was sick (weekly canvas quiz due Sundays) to helping me with issues in ExpertTA. I only take one star away because his lectures are almost useless, and you will learn a lot more by doing practice problems, though he does explain that quite clearly. I would absolutely choose him over the other physics professors based on what I have heard from friends in the other professors classes. He finds a way to make the class fun, gives tons of old practice exams that are almost identical, and manages to make the \"weed out\" class pretty easy. I'd say I spent three hours a week on the class and still got a B-. For sure the best physics professor/teacher I've had though. He loves to help students understand if you go ask him questions, and his TA's are wonderful. Just watch out for his exams, and this semester for the final with little warning he told us we could only use formulas from the textbook, which I did not appreciate. On the midterms we were welcome to do anything we wished on our formula sheet. Just prepare for his exams, he drops your lowest midterm, and he curves. Wish I could take him for 260. I do have a unique perspective here though, because I am a sophomore who was in this class. I'd bet a lot of the negative reviews are freshmen in their first semester who have not experienced a college course and realized that this is how they all are.",
+      "rating": 4,
+      "expected_grade": "B-",
+      "created": "2025-12-22T16:52:03.179036Z"
+    },
+    {
+      "professor": "Bei Lok Hu",
+      "course": "PHYS161",
+      "review": "This class was one of the root causes of my mental distress. I did not have much prior knowledge of physics 1 content, but the way this professor taught made it tremendously more difficult for no reason. This did not help in getting me to enjoy the class content.\r\n\r\nDr. Hu clearly knew a great deal about this field, but did not know how to convey it effectively to students. He assumed everyone wanted him to go faster and that the content was \u201ctoo easy.\u201d He would start problems without finishing them or would jump to answers out of nowhere. He would only use variables (no numbers), which made deciphering his work even harder. I will also not forget that he did not provide practice tests or any in-class practice/review for midterms.\r\n\r\nSpeaking of midterms, there were 2 of them, and they were each extremely conceptual and graded harshly. The averages were always low. The same applies to the final. \r\n\r\nThe homework was graded for accuracy on the Expert TA site, which was super glitchy. Overall, I thought them to be tedious and difficult. I will also note that each question gave you 5 tries and a couple of hints. One homework was dropped at the end.\r\n\r\nIn general, one could argue that you learned more through the textbook readings, which tells you something since I thought the textbook was awful. YouTube and online academic sites are what helped me the most for this course. \r\n\r\nMy discussion section was quite unpleasant. I did not like how the TA would write a problem on the blackboard and then would give us time to think about it and solve it, and then would go over it at a rapid speed; this method just took up so much of our time, stripping us of the opportunity to try other types of problems. I felt like the TA could have also done more review of the class\u2019s main themes for prep before quizzes and tests. There were bi-weekly quizzes that he wrote himself and were challenging. One was dropped at the end.\r\n\r\nThe one redeeming aspect that I will forever praise for this class is that there was a huge curve at the end (at least 10%). I am greatly thankful for it, and for that reason, my rating is slightly higher than what I initially wanted to give and the rating for the rest of the course.",
+      "rating": 2,
+      "expected_grade": "B-",
+      "created": "2025-12-25T19:17:09.129880Z"
+    },
+    {
+      "professor": "Alberto Belloni",
+      "course": "PHYS161",
+      "review": "Dr. Belloni is incredibly kind and understanding. His accent can make lectures unclear, but he answers all questions and doesn't make you feel stupid for asking them. He's very approachable after class and responds to all emails in a timely manner. Well organized- provides all slides and notes from class. The pacing is fast, but physics is always tough (took ap physics c in hs). He definitely curved and offered a little optional extra credit for completing extra homework sets. You unfort have to pay $35 for ExpertTA (homework website), but he generously gives you hints and ~5 attempts per question.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-29T22:53:18.832519Z"
+    },
+    {
+      "professor": "Bei Lok Hu",
+      "course": "PHYS161",
+      "review": "Very nice and kind professor. He is whole hearted and is willing to make sure everyone gets help. Professor Hu is very involved in proving why physics works. It is kind of difficult to understand if you don\u2019t do a ton of examples on your own. Sometimes his explanations make no sense, and he commonly mistakes any questions directed towards an example with another example on the board. His tests are basically the examples done in class. It does not teach any students how to apply concepts learned in class to different scenarios. The tests don\u2019t efficiently test knowledge. The final is difficult without proper preparation though, as another professor makes it (That was the case this year at least). Do not rely on just the notes for the final. Do the practice finals for the final exam. I would not recommend taking him if this is your first time taking physics though. Overall he is not a bad professor.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2026-01-05T02:52:09.949422Z"
+    },
+    {
+      "professor": "Matt Severson",
+      "course": "PHYS161",
+      "review": "I took Dr. Severson's class over the summer. He definitely can be kind of blunt, but he's overall a nice person and will help out however he can if you reach out first. Homework was a little irritating because it took percentages off for incorrect submissions.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2026-01-05T22:17:54.568999Z"
+    },
+    {
+      "professor": "Alberto Belloni",
+      "course": "PHYS161",
+      "review": "I really liked him. He kept the lectures interesting and fun which is hard for a class like physics. He is really sus about the curve, cause we did not have one the entire class up until the final grade. The midterms were not super difficult. The final was pretty difficult but he ended up doing a final grade curve and my grade went from a B+ to an A. Overall would definitely recommend to any freshman needing to take PHYS161.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2026-01-08T15:27:18.382871Z"
+    },
+    {
+      "professor": "Alberto Belloni",
+      "course": "PHYS161",
+      "review": "I really liked having him. He kept the lectures funny and interesting which is hard for such a boring class. The midterms were not super difficult. The final was pretty hard but nothing crazy. He was really sus about the curve cause there was not one the entire time. He ended up curving our final grades and my grade went from a B+ to an A.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2026-01-08T15:30:39.578579Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "Buehrle is not that bad in spite of the reviews posted here. I always felt like what he went over during class was way more simple than what was covered on the exams. Even the previous exams that he provided for us (4 for each exam as well as the final which he created) felt easier than the actual exam for some reason. Other people in the class felt the same way. His lectures did not feel like enough, you always had to get supplemental knowledge from somewhere else, however all of his lectures are recorded. He is a nice enough professor. There are weekly quizzes worth 15% with lowest dropped, homework on expertTA worth 20% with lowest couple dropped (HW is somewhat relevant to the course and it will help you gain a greater understanding but the questions are not similar to exam questions in terms of style), after every lecture there are a one question quiz for participation worth 5% with lowest ones dropped, 3 midterms worth 30% with lowest dropped, and final which is cumulative worth 30% which he creates on his own. As someone who does not have prior physics experience, this class was tough (I took physics online in the summer in HS). I attended most of the lectures and went to the physics course center for help often. What did not help was the TA. First of all, the discussion was too short. it always felt rushed, with him trying to cover the past weeks topics and then asking us to attempt 3 problems with barely enough time for him to go over any of them, least of all getting help. If the discussion was longer and the TA a tad bit better, I would do much better in this course. I did very poorly on the exams, just like everybody else. He curved the hell out of them which is the only reason he's getting 4 stars and I managed to get a B-. I would recommend spamming problems from the textbook to study and watch organic chem tutor.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2026-01-08T21:41:59.589306Z"
+    },
+    {
+      "professor": "Alberto Belloni",
+      "course": "PHYS161",
+      "review": "Great guy, but not the strongest lecturer. Always talked too fast for himself and often went on interesting tangents not really related to the content. Reads slides a lot but really tries to expand on them or provide a demonstration of the effect, or show how an equation is derived. Always willing to pause the lectures and answer questions to ensure that students understood. Homework wasn't bad with five chances per problem. Tests were a challenge, but doing well on the homework and simply studying aids in that. Generous curve, I was expecting around a C+/B- but ended with a B+ despite averaging under 70 for the midterms.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2026-01-10T05:05:42.164082Z"
+    },
+    {
+      "professor": "Alberto Belloni",
+      "course": "PHYS161",
+      "review": "Great guy, but not the strongest lecturer. Always talked too fast for himself and often went on interesting tangents not really related to the content. Reads slides a lot but really tries to expand on them or provide a demonstration of the effect, or show how an equation is derived. Always willing to pause the lectures and answer questions to ensure that students understood. Homework wasn't bad with five chances per problem. Tests were a challenge, but doing well on the homework and simply studying aids in that. Generous curve, I was expecting around a C+/B- but ended with a B+ despite averaging under 70 for the midterms.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2026-01-10T05:05:42.232354Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "Learned literally nothing\r\nHe curves all the exams like crazy but if his exams weren't so hard in the first place, he wouldn't need to curve as hard.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2026-01-12T18:21:37.811902Z"
+    },
+    {
+      "professor": "David Buehrle",
+      "course": "PHYS161",
+      "review": "Buehrle seems like a really nice dude, and he's super funny. As for his teaching ability, I feel like he's too smart to understand why we are struggling to understand this beginner-level physics material. I took this class having 0 physics experience; I didn't even take algebra-based physics in high school. Luckily, I took Calc III the semester before taking this class, which helped A LOT, and is probably the reason I did well in this class. I will say, to me, his first exam was fair, but the second and third exams got a little rocky. Luckily, there is one dropped exam (I still do not understand exam 3 material) and a heavy curve. I mainly learned by watching YouTube videos and taking practice exams, not from lectures tbh, but at the end of the day, this class is doable. Also, since his midterms are on the more difficult side, the final, which is also curved, will feel comparatively more doable.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2026-01-14T16:54:18.768098Z"
+    },
+    {
+      "professor": "Rachel Rice",
+      "course": "PHYS161",
+      "review": "Her lectures are nice; they are energetic and engaging. It is also nice that she drops your lowest midterm. However, her quizzes are bad, as in messy, and you get a short time limit for them. You do not really have time to check your work and none of them are dropped. The sad part is, they make up 15% of your score. Moreover, the homework site she uses is garbage- it barely gives any feedback, the hints are useless, and the homework will mark you wrong over using t instead of delta(t). Even more so, if you forfeit a question or get it wrong too many times, the site will not explain how to properly approach the problem.\r\n\r\ntldr; nice teacher, good (but FAST) lectures, drops a midterm, but her quizzes and homeworks are horrendous and do not provide any proper feedback.",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2026-02-15T21:43:27.280568Z"
+    },
+    {
+      "professor": "Hailu Gebremariam",
+      "course": "PHYS161",
+      "review": "He is a very monotone speaker making lectures very boring but his style of teaching is very good. Midterms can be tricky but homework and quizzes aren\u2019t a problem. Be prepared to do a lot of studying tho",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2026-02-16T18:09:55.930198Z"
+    },
+    {
+      "professor": "Alberto Belloni",
+      "course": "PHYS161",
+      "review": "Great guy, and passionate lecture which made the class surprisingly engaging. He moves a little quick, but has a lot of enthusiasm and is pretty funny. His office hours were very helpful, and he was always glad to help. His midterms were pretty difficult but not too bad, and the curve is incredible.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2026-02-28T20:09:24.931415Z"
+    },
+    {
+      "professor": "Rachel Rice",
+      "course": "PHYS161",
+      "review": "Very good teacher. She gives all the tools to succeed.",
+      "rating": 5,
+      "expected_grade": "B-",
+      "created": "2026-03-01T03:06:49.418225Z"
+    },
+    {
+      "professor": "Alberto Belloni",
+      "course": "PHYS161",
+      "review": "Belloni was very enthusiastic and nice but he isn\u2019t fit for such a simple class. His lectures are surface level while his exams are much more complex. I found that doing the challenging textbook problems and reviewing problems covered in discussion is the best way to prepare for the exams. If you do this from the start then you\u2019re certain to get an A with all his curves and the one dropped midterm exam grade.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2026-03-03T20:25:47.652090Z"
+    },
+    {
+      "professor": "Rachel Rice",
+      "course": "PHYS161",
+      "review": "great professor, quick but easy to follow lectures and plenty of examples worked through in class. she provides about a decade's worth of past exams to go through (with solutions as well). her exams are slightly harder than expected, but nothing bad at all",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2026-03-04T17:33:22.394210Z"
+    },
+    {
+      "professor": "Zackary Short",
+      "course": "PHYS161",
+      "review": "He is AWFUL! Pick a different section if he is your TA!",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2026-04-10T22:40:10.835245Z"
+    },
+    {
+      "professor": "Rachel Rice",
+      "course": "PHYS161",
+      "review": "Just save yourself the trouble and pick someone more predictable and experienced with teaching like Hailu. She also uses Hailu's old exams as prep and switches up on the question type.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2026-04-20T15:18:53.449991Z"
+    }
+  ],
+  "department": "PHYS",
+  "course_number": "161",
+  "name": "PHYS161",
+  "title": "General Physics: Mechanics and Particle Dynamics",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> Must have completed or be concurrently enrolled in MATH141.\n<b>Credit only granted for:</b> PHYS141, PHYS161, or PHYS171.\nFirst semester of a three-semester calculus-based general physics course. Laws of motion, force, and energy; principles of mechanics, collisions, linear momentum, rotation, and gravitation.\n<i>Physics Clinic, PHY 1214, MTWHF 11, 1, 2. If purchasing used books additional software may be required.</i>",
+  "is_recent": true,
+  "geneds": null
+}

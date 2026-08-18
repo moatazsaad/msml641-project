@@ -1,0 +1,479 @@
+{
+  "average_gpa": 3.5957604445359124,
+  "professors": [
+    "Katy Lawley",
+    "Chad Doran",
+    "Katrina Fenlon",
+    "Ryan O'Grady",
+    "Kelly Hoffman",
+    "Lee Lipscomb",
+    "Ray Barker",
+    "Galina Madjaroff",
+    "Mary Francis",
+    "Ryan O'Grady",
+    "Galina Madjaroff",
+    "Ryan O'Grady",
+    "Galina Madjaroff",
+    "Ryan O'Grady",
+    "Katy Lawley",
+    "Ryan O'Grady",
+    "Sydney Triola",
+    "Galina Madjaroff",
+    "Ryan O'Grady",
+    "Galina Madjaroff",
+    "Galina Reitz",
+    "Katy Lawley",
+    "Ryan O'Grady",
+    "Katy Lawley",
+    "Ryan O'Grady",
+    "Jordan Steele",
+    "Galina Reitz",
+    "Connie Siebold",
+    "Ryan O'Grady",
+    "Ryan O'Grady",
+    "Chad Doran",
+    "Connie Siebold",
+    "Chad Doran",
+    "Connie Siebold",
+    "Galina Reitz",
+    "Gregory Olsen",
+    "Ryan O'Grady",
+    "Connie Siebold",
+    "Galina Reitz",
+    "Ryan O'Grady"
+  ],
+  "reviews": [
+    {
+      "professor": "Katy Lawley",
+      "course": "INST311",
+      "review": "I took her summer course and she is a great professor. She is a hard grader but you will actually learn in this class. She is always available and will answer your emails quickly. There are a lot of assignments but all of the exams and quizzes are open-book. I wish she would let us pick our team members.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2018-08-08T04:56:49Z"
+    },
+    {
+      "professor": "Katrina Fenlon",
+      "course": "INST311",
+      "review": "This is her first year teaching, but she is a great professor. She cares a lot of about her students success and listens to student feedback. Most of the material isn't too complicated, but she teaches the material pretty well. Be prepared for a lot of in-class activities that count towards a participation grade, so attendance is mandatory. However, I missed a few lectures and my grade wasn't really affected so just don't miss a ton. Overall, she is a great addition to UMD!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2018-12-29T22:02:56Z"
+    },
+    {
+      "professor": "Chad Doran",
+      "course": "INST311",
+      "review": "I've learned a lot through his online class. He's a very lenient grader and gives great feedback on papers. There tends to be one discussion post and one quiz per week but those are very simple if you remember to look through the slides. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2019-12-06T20:01:48Z"
+    },
+    {
+      "professor": "Ryan O'Grady",
+      "course": "INST311",
+      "review": "His recorded lectures are great - straight forward, easy to understand. Work is not too lax but not too stressful. For the online class, it was usually a discussion, an ILRA, and a response to his lecture video (usually just three bullet points you learned) each week. Sometimes there was a quiz, sometimes there wasn't. Sometimes there was a part of your final project due, sometimes there wasn't. He also responded to my emails quickly and his TA was really nice and critically helpful when grading/leaving comments. ",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2020-12-03T16:45:30Z"
+    },
+    {
+      "professor": "Ryan O'Grady",
+      "course": "INST311",
+      "review": "Great professor, he made the course asynchronous while still giving us the materials to succeed. Easy class and a great professor!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-04-15T20:40:26Z"
+    },
+    {
+      "professor": "Ryan O'Grady",
+      "course": "INST311",
+      "review": "The exams/quizzes were open note and open Google, and he always had the weekly modules prepared far in advance, and if you submitted the assignments, you got an A. Absolutely solid choice for INST311 professors. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-05-23T11:56:42Z"
+    },
+    {
+      "professor": "Katy Lawley",
+      "course": "INST311",
+      "review": "Her class is great. She's a great professor and everything is explained extremely well. There's rubrics for almost every assignment, so if you follow them, it's practically guaranteed As. Everything is open book, open course, open note, open internet, buy you just can't collaborate with others, so exams and quizzes are easy.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-07-11T16:11:35Z"
+    },
+    {
+      "professor": "Ryan O'Grady",
+      "course": "INST311",
+      "review": "O'Grady's class was extremely well organized, making it super easy to learn. I learned a lot in this class with very little stress. I would highly recommend taking him.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-10-15T19:19:53Z"
+    },
+    {
+      "professor": "Ryan O'Grady",
+      "course": "INST311",
+      "review": "O'Grady is a great professor, and his lecture videos are great for learning the material. You'll really appreciate his organization and consistency, especially if you take it online. ",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2021-12-06T15:08:58Z"
+    },
+    {
+      "professor": "Ryan O'Grady",
+      "course": "INST311",
+      "review": "O'Grady is chill. Just make sure you come to class and make efforts to understand the concepts you'll do really well. He makes his class very engaging and adjusts his style and content based on student reviews. There is a lot of group work though so be prepared for that. Other than that, his exams and quizzes are based on lectures and slides he posts but they are really easy.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-12-23T04:47:25Z"
+    },
+    {
+      "professor": "Ryan O'Grady",
+      "course": "INST311",
+      "review": "O'Grady is a great professor! He knows what he's talking about and is entertaining to listen to during lectures. This class was organized phenomenally on ELMS which made it super easy to keep track of assignments and readings. He posts all the lecture videos and slides online, so you don't need to come to class every now and then if needed. Also, the App project is probably my favorite project I've done for a class just because it was spread out throughout the semester so well that I was never stressed about it, and I am still confident in my group's final product. Workload was medium to light, and he also made class asynchronous occasionally which was a nice break. Overall great and easy class if you pay attention in class and to the upcoming assignments! ",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-04-28T18:00:59Z"
+    },
+    {
+      "professor": "Matthew Patrick",
+      "course": "INST311",
+      "review": "DO NOT TAKE INST 311 WITH HIM! I literally almost failed my class and he never responds to any emails or gives any reasoning for a grade deduction. ",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2022-07-02T03:42:02Z"
+    },
+    {
+      "professor": "Ryan O'Grady",
+      "course": "INST311",
+      "review": "Easy class but entirely busy work which is not always well explained if you have to take the class then take it with him but try to avoid the class in general.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2022-10-29T16:51:50.914854Z"
+    },
+    {
+      "professor": "Ryan O'Grady",
+      "course": "INST311",
+      "review": "Such an easy class, plus he's a super nice, understanding guy. All assignments are super easy and he often cancels Friday class. He also responds in a timely manner which is refreshing",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2022-12-07T00:27:43.201183Z"
+    },
+    {
+      "professor": "Ryan O'Grady",
+      "course": "INST311",
+      "review": "Easy class, great guy, assignments are straight forward and he gives great assistance, plus the final project is good for portfolio's. Good class!",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2022-12-08T18:27:56.587781Z"
+    },
+    {
+      "professor": "Ryan O'Grady",
+      "course": "INST311",
+      "review": "I took this class asynchronously, but I really enjoyed it. The class itself is easy but is also super interesting. The main semester-long project is to design the app with a group and I really loved making it. He also is super responsive to emails.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-12-16T18:38:34.316906Z"
+    },
+    {
+      "professor": "Ryan O'Grady",
+      "course": "INST311",
+      "review": "Great professor. Very easy to communicate with and is very understanding. Your grade depends on a semester long project. Groups are chosen based on interests but he\u2019s understanding if you have bad teammates.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-12-25T19:25:15.222314Z"
+    },
+    {
+      "professor": "Ryan O'Grady",
+      "course": "INST311",
+      "review": "I took INST201 and INST311 with him. He is a very good teacher. The canvas and class is very organized makes it so easy to get work done. Also, there are weekly quizzes which are online and fairly easy. The class had a big group project which was not bad at all if you have a cooperative group. Even if you don't have a good group you honestly could do the work, but let him know and will help. Overall good guy and easy class.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-01-30T03:40:56.090366Z"
+    },
+    {
+      "professor": "Ryan O'Grady",
+      "course": "INST311",
+      "review": "really like this class, prof and ta's are really understanding",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2023-03-29T21:59:04.542764Z"
+    },
+    {
+      "professor": "Sydney Triola",
+      "course": "INST311",
+      "review": "This is a professor who has an air of unvarnished contempt for her students. It comes through in multiple ways but is especially plain when it comes to grading, feedback and advisory meetings. The grading standards are not just applied inconsistent - they are almost completely arbitrary and might as well not exist. At the end of the day, it just feels downright abusive to be in her class. Avoid.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2023-04-06T19:35:19.125954Z"
+    },
+    {
+      "professor": "Sydney Triola",
+      "course": "INST311",
+      "review": "The absolutely worst professor I have ever had at this University. If you have a chance to not take this class with this professor do not. The fact that all the reviews say she is far left leaning at an already normally liberal college should give you all you need. No mercy on grading. This teacher needs to be up for review her class is so unorganized.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2023-04-18T18:34:01.815154Z"
+    },
+    {
+      "professor": "Sydney Triola",
+      "course": "INST311",
+      "review": "I like the content of this class, but the professor has shown me that she does not care about the student's well-being. As someone who endured an unprecedented situation, I requested an extension and she said she was \"taken aback\" by my email and called my request \"inappropriate\". All of the reviews are very accurate; do not take this class with this professor.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2023-04-19T22:38:33.988251Z"
+    },
+    {
+      "professor": "Sydney Triola",
+      "course": "INST311",
+      "review": "Worst professor I've ever taken! She is extremely disorganized!! And she does not like people! Beware! -1/5.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2023-04-24T21:53:43.504886Z"
+    },
+    {
+      "professor": "Ryan O'Grady",
+      "course": "INST311",
+      "review": "Such a chill dude and such a chill class",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-04-25T18:37:48.787672Z"
+    },
+    {
+      "professor": "Sydney Triola",
+      "course": "INST311",
+      "review": "I was expecting there not to be this many reviews about this instructor. These are all 100 percent true worst teacher I have had in my whole life. Absolutely insane.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2023-04-25T21:25:14.741295Z"
+    },
+    {
+      "professor": "Katy Lawley",
+      "course": "INST311",
+      "review": "Dr. Lawley was a great professor. She explained everything in detail and provided assistance whenever needed. She gave detailed feedback on all assignments, which is certainly helpful. I would 100% recommend taking a class with her.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2023-04-28T23:25:53.229194Z"
+    },
+    {
+      "professor": "Ryan O'Grady",
+      "course": "INST311",
+      "review": "You need to take this guy. He gives honest and great feedback and his course content makes it easy for you to understand information systems.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-05-01T18:22:34.830243Z"
+    },
+    {
+      "professor": "Sydney Triola",
+      "course": "INST311",
+      "review": "If I could give this instructor 0 stars, I would.   I wouldn't take her at all. She doesn't care about other people well being. Nor does she give proper assistance on assignments, which can lead to the deduction of points on assignments.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2023-05-03T14:27:07.728936Z"
+    },
+    {
+      "professor": "Ryan O'Grady",
+      "course": "INST311",
+      "review": "Chill class. Big group project throughout the whole semester which is easy with a good group.  Lots of busy work. TA's were really helpful and really led the discussions and classes well.  Maybe it was just my class but I never physically saw the professor in class so that's a thing.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2023-11-10T07:45:44.491748Z"
+    },
+    {
+      "professor": "Galina Madjaroff",
+      "course": "INST311",
+      "review": "1 star off because sometimes she seems like she is winging the lectures and hoping the material sticks. Really, all that is useful are her slides, resources, and experience with the semester long group project. Great character, lenient grading, and easy to ask for help.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2023-12-09T04:56:18.825773Z"
+    },
+    {
+      "professor": "Katy Lawley",
+      "course": "INST311",
+      "review": "Dr. Lawley is a super great professor and I highly recommend her for this class. Each week there's a discussion, activity, and quiz (some weeks there's only 2 of those items) but each one will take you like 15 minutes to complete. The lectures are informative and she records them but it's hard to hear so I'd recommend going. The midterm and final are online so you can use your notes and she even gives you all the slides in one document and tells you to control F to find the answer. There is also a final group project where you do a little at a time over the whole semester and you design an app. If you have a good group then it's super easy. She also offers you feedback where you submit the project before it's due and she grades it and gives you feedback on how to improve it so you can get a higher grade.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-12T17:28:47.515280Z"
+    },
+    {
+      "professor": "Galina Reitz",
+      "course": "INST311",
+      "review": "Professor Reitz was great! If you come to class (in-class activities are a significant part of your grade), and complete the assignments on time, you should have no problem getting an A. You also want to make sure that you get a good group for the semester-long group project. The final exam was difficult.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-24T16:13:14.431683Z"
+    },
+    {
+      "professor": "Ryan O'Grady",
+      "course": "INST311",
+      "review": "Easy A class with mostly busy work and an engaging group project. Teaches and reinforces the important concepts well. Crystal clear grading criteria. Very responsive professor who takes student feedback into account.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-12-28T18:58:09.273051Z"
+    },
+    {
+      "professor": "Galina Madjaroff",
+      "course": "INST311",
+      "review": "The professor was nice and kept lectures engaging. She is a lenient grader and as long as you do the assignments you will end up with a good grade. The group project was spread out throughout the semester and wasn't too difficult.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2024-01-09T00:48:29.271198Z"
+    },
+    {
+      "professor": "Ryan O'Grady",
+      "course": "INST311",
+      "review": "Professor O\u2019Grady is a great teacher and the course page on Canvas is the best I\u2019ve had so far (I\u2019m a junior). Definitely make Professor O\u2019Grady\u2019s sections of INST311 your first pick!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-02-05T19:04:44.318261Z"
+    },
+    {
+      "professor": "Jordan Steele",
+      "course": "INST311",
+      "review": "Would not take again. Not helpful.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2024-02-20T19:11:11.868106Z"
+    },
+    {
+      "professor": "Jordan Steele",
+      "course": "INST311",
+      "review": "Very easy and simple class. The professor is very responsive to emails and the TA's give great feedback on the group project. The homework assignments were a bit tedious but very simple to do. Just a lot of busy work overall. This class is an easy A as long as you complete the assignments and have good group members, you'll do great!",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2024-04-24T01:29:14.045438Z"
+    },
+    {
+      "professor": "Ryan O'Grady",
+      "course": "INST311",
+      "review": "Great professor and very easy course. Grady is super chill and is super lenient if you have something going on. Highly recommend.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-06T03:22:29.029543Z"
+    },
+    {
+      "professor": "Ryan O'Grady",
+      "course": "INST311",
+      "review": "Super easy class. Really supportive professor and TA's. Almost impossible to fail tbh.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-11T01:27:42.418742Z"
+    },
+    {
+      "professor": "Connie Siebold",
+      "course": "INST311",
+      "review": "Professor Siebold is one of the best professors you'll find at Maryland. The only way you could fail the class is if you don't put in the effort. Professor Siebold is incredibly understanding and always gives students the time they need to complete their work. I honestly wish Professor Connie taught more classes at the iSchool. The online lectures were both informative and engaging, making the material easy to follow. I highly recommend taking the class \u2013 you won\u2019t regret it!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-17T20:53:14.399993Z"
+    },
+    {
+      "professor": "Connie Siebold",
+      "course": "INST311",
+      "review": "Professor Connie is one of the best professors you'll find at Maryland. The only way you could fail the class is if you don't put in the effort. Professor Connie is incredibly understanding and always gives students the time they need to complete their work. I honestly wish Professor Connie taught more classes at the iSchool. The online lectures were both informative and engaging, making the material easy to follow. I highly recommend taking the class \u2013 you won\u2019t regret it!",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2024-12-17T20:53:43.565990Z"
+    },
+    {
+      "professor": "Ryan O'Grady",
+      "course": "INST311",
+      "review": "A lot of easy busy work. You almost never meet/talk to professor and will be taught and communicate with the TA's. They are all super helpful and chill if you need help with anything. There is a semester long project with multiple parts in it, so find decent people that you can work with (I didn't and that made my semester hard for no reason).",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-02-22T06:31:01.930963Z"
+    },
+    {
+      "professor": "Ryan O'Grady",
+      "course": "INST311",
+      "review": "Very organized class with a manageable workload. There\u2019s a midterm and final exam, but both are online and pretty easy if you review the Kahoot and weekly study guide. Each week, you\u2019re expected to watch videos and read a few notes, with a study guide summarizing the week\u2019s content. There is quite a bit of busy work in the beginning, but the workload lightens halfway through the semester. One major assignment is a group project where you design an app proposal using Figma. It involves wireframing and teamwork, so make sure to get a good group and don\u2019t procrastinate. We never actually met the professor (only in the online videos) and everything is led by the TAs, who is very chill and helpful. You\u2019ll learn a lot of relevant and practical skills in this class.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-05-01T17:03:32.063887Z"
+    },
+    {
+      "professor": "Ryan O'Grady",
+      "course": "INST311",
+      "review": "Very understanding and responsive professor.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-05-07T14:53:08.667086Z"
+    },
+    {
+      "professor": "Connie Siebold",
+      "course": "INST311",
+      "review": "Connie is one of the best professors/teachers I have ever had. She is an extremely understanding and relatable person. She teaches all the lessons clearly and even when I did not enjoy the topics she found ways to get through them quickly and in a way that made sense. Most classes were presentations that she got through at a refreshingly fast pace and group work which was graded extremely fairly. She is very open to talking to people and helping when someone does not understand, even in the bigger class environment. Any class you can take with her DO IT.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-05-09T06:58:23.896096Z"
+    },
+    {
+      "professor": "Ryan O'Grady",
+      "course": "INST311",
+      "review": "Never saw the professor but this was the best class I've taken. The professor communicates everything, responds within a few hours and is very understanding. The TA's are very nice and helpful too. The work load is very manageable. 2 exams online open book, group project and other assignments.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-05-20T17:22:02.489671Z"
+    },
+    {
+      "professor": "Connie Siebold",
+      "course": "INST311",
+      "review": "One of the best professors and classes to take for sure. I found the group project very enjoyable to work on and it was nice having opportunities to catch up on work before the hard grade deadline.\r\n\r\nOnly thing to worry about is just pick good people that work hard for the project. Realistically it's impossible to really fail unless you're acting like this class doesn't exist.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-07-19T15:02:08.370822Z"
+    },
+    {
+      "professor": "Connie Siebold",
+      "course": "INST311",
+      "review": "Genuinely one of the best professors/teachers/instructors I've ever had. The course is ACTUALLY interesting with her and she has a super grounded and relatable way of conveying things. She does a great job at structuring the course and being flexible with submissions. I walked away with a great impression of this course and learned things at my own pace in a way that was not stressful.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-08-23T07:25:28.210552Z"
+    },
+    {
+      "professor": "Connie Siebold",
+      "course": "INST311",
+      "review": "SHE IS SO SO CHILL! She is very engaging and an easy grader. As long as you don't use AI, you're fine (she hates it), but I definitely recommend it. It's an easy A, and she's genuinely very funny (not the cringe type). Also, attendance isn't mandatory, and she grades and replies to emails VERY fast. \r\n\r\nDefinitely one of my favorite professors.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2025-10-26T17:12:15.539481Z"
+    },
+    {
+      "professor": "Connie Siebold",
+      "course": "INST311",
+      "review": "Very super nice chill professor. However, assignments can be very long and tedious, and she will make you do two of those that are due on the same days, which are Fridays. Don't know why she doesn't make assignments due on Sundays like everyone else. BEWARE, she WILL leave you homework to do over Thanksgiving break, which is super annoying because it defeats the whole purpose of it being called a Thanksgiving BREAK. She also gives you bland feedback that is not very detailed. She still has a lot to improve on, but everyone starts somewhere.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-12-15T02:15:54.561244Z"
+    },
+    {
+      "professor": "Ryan O'Grady",
+      "course": "INST311",
+      "review": "You will never see this professor in person, however, his GTA who's apparently have been under him for a while is very kind and will help you learn easier during discussions. O'Grady though always makes sure to comment or give feedback on your assignments and or quizzes though which is very nice. Easy class, lot of busy work but not hard work. Semester long group project so make sure your teammates are pretty good. Exams are open note; learning materials are readings and videos.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2026-01-13T21:13:53.368725Z"
+    },
+    {
+      "professor": "Connie Siebold",
+      "course": "INST311",
+      "review": "Extremely chill professor, quick and easy grader but doesn't leave a whole ton of feedback. Knows the material pretty well however. Classes were an hour and 15 minute sections, but it can truly be narrowed down to 50 minutes most of the time.\r\n\r\nINST311 is a class about how information is organized on things such as websites. It's pretty easy material but also pretty work-heavy. There is a large, semester-long group project like INST201 where you get to design an app concept, but you have to go super in-depth about things like every single property of a user's profile and what it's there for.\r\n\r\nWeekly assignments consist of a short multiple choice quiz on the lecture material, an activity or two connected to the big group project, and a \"forum\" post where you go find examples of the lecture material on an everyday website. These are technically all due at the end of the semester, but I would recommend doing them the weekend that they're listed as being due. The 6ish parts of the group project are due on Sunday with a 24 hour grace period.\r\n\r\nIt seems like it's not a fun class but I still had a great time, and would highly recommend Siebold for this course. Final note, do not use AI in the course whatsoever, it's like her biggest rule.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2026-04-09T20:04:53.501661Z"
+    },
+    {
+      "professor": "Connie Siebold",
+      "course": "INST311",
+      "review": "Who could've guessed that a course that is called \"information organization\" could be so interesting? She can somehow take a really boring topic (like exploring rich search results, or information architecture in a website) and make them actually engaging to listen and learn about. She cracks jokes in class, and they are actually funny as opposed to most professors' jokes. She gives very clear feedback on assignments and the group projects, also a very lenient grader. I'm not sure what the other guy is talking about, the assignments are \"due\" on friday, but she is super clear about how the assignments aren't actually due until the last day of classes (which I have to say is an absolute godsend some weeks where you are just slammed with homework, cause you can just let the assignments for this class slip through the cracks). \r\nThere is a semester-long project where you have to design an app with a group that you can either select or she'll assign you one. Though it barely even feels like a project if you pick an app that you actually find interesting to make. On the topic of the project, some weeks she will fully designate a lecture to just be time to work on the project where she will just float around and answer questions or give feedback.\r\nCannot recommend this professor enough, fully and 1000% the most goated professor in the information science program.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2026-04-20T20:11:02.376818Z"
+    }
+  ],
+  "department": "INST",
+  "course_number": "311",
+  "name": "INST311",
+  "title": "Information Organization",
+  "credits": 3,
+  "description": "<b>Restriction:</b> Must be in Information Science program.\nExamines the theories, concepts, and principles of information, information representation and organization, record structures, description, and classification. Topics to be covered in this course include the methods and strategies to develop systems for storage, organization, and retrieval of information in a variety of organizational and institutional settings, as well as policy, ethical, and social implications of these systems.",
+  "is_recent": true,
+  "geneds": null
+}

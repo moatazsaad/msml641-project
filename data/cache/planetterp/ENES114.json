@@ -1,0 +1,56 @@
+{
+  "average_gpa": 3.7794,
+  "professors": [
+    "Tamara Fuller",
+    "Veronica Perrigan",
+    "Catherine Donohoe",
+    "Erica Ely",
+    "Paige Smith",
+    "Carla Jones",
+    "Zabrina Anzyl",
+    "Liza Lebrun",
+    "Liza Lebrun",
+    "Elizaveta Solovey",
+    "Liza Lebrun",
+    "Sam Murillo",
+    "Lizzy Solovey",
+    "Paige Smith",
+    "Sam Murillo",
+    "Brianne Gridley",
+    "Lizzy Solovey"
+  ],
+  "reviews": [
+    {
+      "professor": "Liza Lebrun",
+      "course": "ENES114",
+      "review": "Extremely condescending and makes us all feel like children. Pretty ironic seeing as this is a career development class. I'd drop Virtus in a heartbeat to avoid being in class with this woman again.",
+      "rating": 1,
+      "expected_grade": "A+",
+      "created": "2022-04-28T21:52:53Z"
+    },
+    {
+      "professor": "Liza Lebrun",
+      "course": "ENES114",
+      "review": "She treats you like a child. I would not recommend what so ever. If I could give 0 stars I would. ",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2022-05-15T19:31:16Z"
+    },
+    {
+      "professor": "Liza Lebrun",
+      "course": "ENES114",
+      "review": "I would not recommend Liza Lebrun as an instructor for ENES114. Her teaching skills are subpar and she appears to have little knowledge of engineering. Liza's lack of education is evident in her teaching style, as she treats students like children and struggles to explain concepts effectively. Her technological incompetence further hinders the learning process. Liza deserves one star for her inadequate performance as an instructor. She is not a professor. She is an unqualified \"instructor\" who majored in Latin American studies, yet attempts to portray herself as an accomplished engineer.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2023-04-21T15:27:36.419945Z"
+    }
+  ],
+  "department": "ENES",
+  "course_number": "114",
+  "name": "ENES114",
+  "title": "Virtus Seminar II",
+  "credits": 1,
+  "description": "<b>Prerequisite:</b> ENES113.\n<b>Restriction:</b> Students must be participants in the Virtus Living and Learning Community.\nFocus on personal and professional development with engineering with a strong emphasis on career development.  Learn to employ strategies and skills for academic and professional success.",
+  "is_recent": true,
+  "geneds": null
+}
