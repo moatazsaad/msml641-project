@@ -39,7 +39,6 @@ st.set_page_config(
     layout="centered",
 )
 
-
 RISK_COLORS = {"Low": "low", "Medium": "medium", "High": "high", "Uncertain": "uncertain"}
 
 st.markdown(
@@ -48,16 +47,14 @@ st.markdown(
     .stApp {
         background: radial-gradient(circle at top, #2b1f1a 0%, #1a1512 45%, #0f0d0c 100%);
     }
-.terpload-title {
-    text-align: center;
-font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-font-weight: 550;
-    font-size: 2.05rem;
-    letter-spacing: 6px;
-    color: #f5f0e8;
-    margin-top: 0 !important;
-    margin-bottom: 0.3rem;
-}
+    .terpload-title {
+        text-align: center;
+        font-weight: 800;
+        font-size: 2.4rem;
+        letter-spacing: 3px;
+        color: #f5f0e8;
+        margin-bottom: 0.2rem;
+    }
     .terpload-subtitle {
         text-align: center;
         color: #cfc7ba;
