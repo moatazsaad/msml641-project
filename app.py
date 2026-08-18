@@ -33,7 +33,12 @@ from simple_report_cli import build_course_inputs, get_low_evidence_courses  # n
 from workload_labels import WORKLOAD_LABELS  # noqa: E402
 import plotly.graph_objects as go
 
-st.set_page_config(page_title="TerpLoad", page_icon="📚", layout="centered")
+st.set_page_config(
+    page_title="TerpLoad",
+    page_icon="assets/terpload_logo.png",
+    layout="centered",
+)
+
 
 RISK_COLORS = {"Low": "low", "Medium": "medium", "High": "high", "Uncertain": "uncertain"}
 
@@ -43,14 +48,16 @@ st.markdown(
     .stApp {
         background: radial-gradient(circle at top, #2b1f1a 0%, #1a1512 45%, #0f0d0c 100%);
     }
-    .terpload-title {
-        text-align: center;
-        font-weight: 800;
-        font-size: 2.4rem;
-        letter-spacing: 3px;
-        color: #f5f0e8;
-        margin-bottom: 0.2rem;
-    }
+.terpload-title {
+    text-align: center;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+font-weight: 550;
+    font-size: 2.05rem;
+    letter-spacing: 6px;
+    color: #f5f0e8;
+    margin-top: 0 !important;
+    margin-bottom: 0.3rem;
+}
     .terpload-subtitle {
         text-align: center;
         color: #cfc7ba;
@@ -395,56 +402,26 @@ st.markdown(
         white-space: nowrap;
     }
     .evidence-link:hover { text-decoration: underline !important; }
+/* Historical grade course selector */
+div[data-testid="stSegmentedControl"] button {
+    border-color: #d8b04a !important;
+    color: #d8b04a !important;
+    background: transparent !important;
+    font-weight: 700 !important;
+}
 
-    /* Historical grade course selector — TerpLoad red */
-    div[data-testid="stSegmentedControl"] button {
-        border-radius: 999px !important;
-        border-color: #E60000 !important;
-        background: transparent !important;
-        font-weight: 700 !important;
-        min-height: 36px !important;
-        padding-left: 0.9rem !important;
-        padding-right: 0.9rem !important;
-    }
+/* Selected course */
+div[data-testid="stSegmentedControl"] button[aria-pressed="true"] {
+    background: #E60000 !important;
+    color: #111111 !important;
+    border-color: #E60000 !important;
+}
 
-    div[data-testid="stSegmentedControl"] button,
-    div[data-testid="stSegmentedControl"] button * {
-        color: #E60000 !important;
-    }
-
-    /* Selected grade-context course */
-    div[data-testid="stSegmentedControl"] button[aria-pressed="true"] {
-        background: #E60000 !important;
-        border-color: #E60000 !important;
-    }
-
-    div[data-testid="stSegmentedControl"] button[aria-pressed="true"],
-    div[data-testid="stSegmentedControl"] button[aria-pressed="true"] * {
-        color: #ffffff !important;
-    }
-
-    /* Hover */
-    div[data-testid="stSegmentedControl"] button:hover {
-        border-color: #E60000 !important;
-        background: #fff1f1 !important;
-    }
-
-    div[data-testid="stSegmentedControl"] button:hover,
-    div[data-testid="stSegmentedControl"] button:hover * {
-        color: #E60000 !important;
-    }
-
-    /* Selected course stays white-on-red while hovering */
-    div[data-testid="stSegmentedControl"] button[aria-pressed="true"]:hover {
-        background: #CC0000 !important;
-        border-color: #CC0000 !important;
-    }
-
-    div[data-testid="stSegmentedControl"] button[aria-pressed="true"]:hover,
-    div[data-testid="stSegmentedControl"] button[aria-pressed="true"]:hover * {
-        color: #ffffff !important;
-    }
-
+/* Hover */
+div[data-testid="stSegmentedControl"] button:hover {
+    border-color: #E60000 !important;
+    color: #E60000 !important;
+}
     .why-signals-card {
         background: #ffffff;
         border-radius: 16px;
@@ -509,15 +486,10 @@ st.markdown(
         text-decoration: underline !important;
     }
 
-    /* Professor context: grouped/attached rows, open by default */
+    /* Professor context is OPEN by default and can be collapsed per course. */
     .course-professor-details {
         margin-top: 0.5rem;
-        border: 1px solid #ddd5ce;
-        border-radius: 7px;
-        overflow: hidden;
-        background: #f1eeeb;
     }
-
     .course-professor-summary {
         display: flex;
         align-items: center;
@@ -526,20 +498,19 @@ st.markdown(
         box-sizing: border-box;
         list-style: none;
         cursor: pointer;
-        color: #24201d;
-        background: #f1eeeb;
-        padding: 0.52rem 0.68rem;
-        font-size: 0.70rem;
-        font-weight: 850;
+        color: #6f675f;
+        background: #faf8f5;
+        border: 1px solid #e6dfd8;
+        border-radius: 6px;
+        padding: 0.48rem 0.62rem;
+        font-size: 0.69rem;
+        font-weight: 800;
         user-select: none;
         outline: none;
-        border: none;
     }
-
     .course-professor-summary::-webkit-details-marker {
         display: none;
     }
-
     .course-professor-summary::after {
         content: "⌃";
         margin-left: auto;
@@ -547,70 +518,46 @@ st.markdown(
         font-size: 0.72rem;
         line-height: 1;
     }
-
     .course-professor-details:not([open]) .course-professor-summary::after {
         content: "⌄";
     }
-
     .course-professor-summary:hover {
-        color: #E60000;
-        background: #f5f1ee;
+        color: #24201d;
+        border-color: #d8b04a;
+        background: #fffaf0;
     }
-
     .course-professor-list {
-        margin: 0;
-        padding: 0;
-        background: #ffffff;
-        border-top: 1px solid #ddd5ce;
+        margin: 0.34rem 0 0.08rem 0;
     }
-
     .course-professor-row {
         display: flex;
         align-items: center;
         justify-content: space-between;
         gap: 0.8rem;
-        padding: 0.56rem 0.68rem;
-        margin: 0;
-        background: #ffffff;
-        border: none;
-        border-top: 1px solid #e4ddd7;
-        border-radius: 0;
+        padding: 0.52rem 0.65rem;
+        margin-top: 0.34rem;
+        background: #fffdf9;
+        border: 1px solid #e4ddd5;
+        border-radius: 6px;
         color: inherit !important;
         text-decoration: none !important;
-        transition:
-            background 0.12s ease,
-            color 0.12s ease,
-            border-color 0.12s ease;
+        transition: background 0.12s ease, border-color 0.12s ease;
     }
-
-    .course-professor-row:first-child {
-        border-top: none;
-    }
-
     .course-professor-row:hover {
-        background: #fff1f1;
-        color: #E60000 !important;
+        background: #fff8df;
+        border-color: #d8b04a;
         text-decoration: none !important;
     }
-
     .course-professor-name {
         color: #24201d;
         font-size: 0.76rem;
-        font-weight: 400;
-        transition: color 0.12s ease;
+        font-weight: 750;
     }
-
     .course-professor-rating {
-        color: #24201d;
+        color: #6f675f;
         font-size: 0.75rem;
-        font-weight: 800;
+        font-weight: 750;
         white-space: nowrap;
-        transition: color 0.12s ease;
-    }
-
-    .course-professor-row:hover .course-professor-name,
-    .course-professor-row:hover .course-professor-rating {
-        color: #E60000 !important;
     }
     </style>
     """,
@@ -627,7 +574,7 @@ def get_course_service(cache_version):
     """Keep the profile cache and loaded DistilBERT model across reruns."""
     return CourseProfileService()
 
-@st.cache_data(ttl=3600, show_spinner="Loading historical grade context...")
+@st.cache_data(ttl=3600)
 def load_grade_context(course_code, cache_version):
     """Fetch historical grade context without refetching on each rerun."""
     try:
@@ -636,7 +583,7 @@ def load_grade_context(course_code, cache_version):
         return None
 
 
-@st.cache_data(ttl=21600, show_spinner="Loading professor context...")
+@st.cache_data(ttl=21600)
 def load_professor_context(
     course_code,
     start_year=2024,
@@ -1515,7 +1462,7 @@ if course_codes:
                         y=grade_values,
                         text=[f"{value:.0f}%" for value in grade_values],
                         textposition="outside",
-                        marker_color="#FF4D4D",
+                        marker_color="#d8b04a",
                         hovertemplate="<b>%{x}</b><br>%{y:.1f}%<extra></extra>",
                     )
                 )

@@ -1,0 +1,860 @@
+{
+  "average_gpa": 3.239488320355951,
+  "professors": [
+    "Bill Kules",
+    "Jonathan Brier",
+    "Jeannette Kartchner",
+    "Joel Chan",
+    "Leonard Mayfield",
+    "Pamela Duffy",
+    "Donal Heidenblad",
+    "C Rytting",
+    "Jennifer Proctor",
+    "Timothy Richards",
+    "Amanda Lazar",
+    "Aric Bills",
+    "Edward Summers",
+    "Jean-Paul Togbe",
+    "Philip Piety",
+    "Satyarth Praveen",
+    "Kelly Hoffman",
+    "Carrie Lindeman",
+    "Naghmeh Momeni",
+    "Vedat Diker",
+    "P Kshetry",
+    "Amanda Lazar",
+    "Gabriel Cruz",
+    "Jennifer Proctor",
+    "P Kshetry",
+    "Carrie Lindeman",
+    "Anukriti Singh",
+    "Carrie Lindeman",
+    "Giovanni Luca Ciampaglia",
+    "Jennifer Proctor",
+    "P Kshetry",
+    "Jennifer Proctor",
+    "Anukriti Singh",
+    "Giovanni Luca Ciampaglia",
+    "Joel Chan",
+    "P Kshetry",
+    "Jennifer Proctor",
+    "Brian Gillikin",
+    "Christopher Dempwolf",
+    "Giovanni Luca Ciampaglia",
+    "Scott Jackson",
+    "Elia Shahbazi",
+    "Giovanni Luca Ciampaglia",
+    "Joel Chan",
+    "Scott Jackson",
+    "Zach Drake",
+    "Giovanni Luca Ciampaglia",
+    "Joel Chan",
+    "Mohammad Ali",
+    "Scott Jackson",
+    "Christopher Dempwolf",
+    "J Bern Jordan",
+    "Joel Chan",
+    "Scott Jackson",
+    "Erik Jones",
+    "Giovanni Luca Ciampaglia",
+    "J Bern Jordan",
+    "Scott Jackson",
+    "Joel Chan",
+    "Maria Krupenkin",
+    "Scott Jackson"
+  ],
+  "reviews": [
+    {
+      "professor": "Joel Chan",
+      "course": "INST126",
+      "review": "Joel has a passion for helping students understand the material. Is more than helpful to try and figure out issues you may be having, but also emphasizes the importance of being able to figure out a solution on your own, even if you have to \"google it\"",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2018-12-29T06:31:57Z"
+    },
+    {
+      "professor": "Jeannette Kartchner",
+      "course": "INST126",
+      "review": "If you had previous coding experience then you will probably do fine in this class regardless.\r\n\r\nProfessor Kartchner is personable and often extends deadlines, but she is a very poor professor. The class is definitely an after thought for her. Her lectures are lazy and she does a very poor job explaining concepts and often forgets to explain basic stuff( often citing she forgot we are first time programmers/ or that she is a JavaScript programmer not Python). Her lectures started out \u201cjust okay\u201d and  went downhill as the semester progressed. Additionally, for 2 weeks prior to the exam she told us pandas and matplotlib ( a whole 2 units)were going to be on the exam. Only for her to tell us a day or two before the exam that those units were not going to be on the exam. So she can be pretty disorganized. Lastly, deadlines for assignments were often extended because most of the class had no idea how to do the assignments. If you are a first time programmer, I would recommend taking someone else.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2018-12-29T21:51:34Z"
+    },
+    {
+      "professor": "Pamela Duffy",
+      "course": "INST126",
+      "review": "She has a great personality and really cares for her students. Her teaching is mainly centered around creating labs so students can get hands-on python experience. No final, just a group project. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2019-11-12T21:01:39Z"
+    },
+    {
+      "professor": "Philip Piety",
+      "course": "INST126",
+      "review": "Not sure why he has all these awful reviews, I haven's had any of these problems. He's been very responsive, reasonable, and understanding. Some assignments seemed a little sloppy, but I think they were made mostly by the TA. He lectures relatively well, somewhat engaging but makes some mistakes occsaionally.\r\nOverall, one of the more engaging and reasonable professors I've had, but execution is slightly sloppy.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2020-02-28T17:39:43Z"
+    },
+    {
+      "professor": "Edward Summers",
+      "course": "INST126",
+      "review": "Really nice guy, not a tough grader. If you need help just ask and he'll show you. Came in with no computing experience at all and he made it a lot easier to understand. Midterms are open everything and homework is done in class on Fridays and it's optional to go. ",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2020-04-23T19:53:02Z"
+    },
+    {
+      "professor": "Joel Chan",
+      "course": "INST126",
+      "review": "Joel Chan was my introduction to a formal programming class and he made everything smooth sailing for me. He really wants his students to succeed and stresses \"computational thinking\".",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2020-08-22T00:50:57Z"
+    },
+    {
+      "professor": "Philip Piety",
+      "course": "INST126",
+      "review": "he is a horrible professor. don't take him. he drops your letter grade by 1. he does that every semester",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2020-08-30T23:26:41Z"
+    },
+    {
+      "professor": "Jesse Anderson",
+      "course": "INST126",
+      "review": "very dedicated to students + provides lots of comments on all assignments\r\n\r\nalso very active in office hours and gives lots of notes from them that are v clear!!! super nice and supportive of me as a woman in stem to",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2021-02-09T19:47:20Z"
+    },
+    {
+      "professor": "Carrie Lindeman",
+      "course": "INST126",
+      "review": "great professor. she was very reasonable in her work terms and she was a great grader. she helped her students a lot",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2021-03-04T20:38:37Z"
+    },
+    {
+      "professor": "Joel Chan",
+      "course": "INST126",
+      "review": "Dr. Chan has a real passion for teaching. He explains things in such a way that makes Python a walk in the park. I have previous programming experience so I can't speak for everyone, but Dr. Chan models the class in a way that focuses less on achieving a good grade, and more on how a person can think and work like a programmer. His lecture examples really helped with both assignments and projects. I will say that the last two projects will seem a bit harder at first, but I really believe that if one really dives deep into the material that Dr. Chan provides, one really can succeed. ",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2021-05-19T14:32:32Z"
+    },
+    {
+      "professor": "Carrie Lindeman",
+      "course": "INST126",
+      "review": "Professor Lindeman was really fantastic! She explains Python and coding in an approachable way, so if you don't have coding experience it's still easy to understand and learn. Her office hours are really helpful, and we often review material in class and do classwork to practice. \r\nThe class is structured this way: introducing a new concept through recorded lecture and a quiz, then the next lecture will review that material and we will do problems/exercises with small groups to practice it, then she'll go over the problems and the answers. Then we'll have an assignment that's usually writing a program involving what we learned in class. The class was online, and lectures were recorded. Additionally, Professor Lindeman allows us to submit/re-submit assignments and quizzes multiple times to be re-graded, which was really helpful and motivated me to practice the material more or wait to submit when I better understood the concept. As a result, this class was not stressful for me since I knew that I could always improve upon my previous work. The only things we can't resubmit/submit late are the 3 projects. The project details are given ahead of time, and Professor Lindeman will help look over our projects and debug things so it's not too bad either. \r\nOverall, I enjoy Professor Lindeman's approach to teaching and enjoy her class a lot!",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2021-10-09T03:34:47Z"
+    },
+    {
+      "professor": "Philip Piety",
+      "course": "INST126",
+      "review": "He hardly knows the subject matter at all and when it was time for us to work on assignments he threw us into hard assignments with little to no guidance. He also had a poor attitude especially when people had a hard time understanding the course work. In these cases he would belittle you as if you were stupid. I was not the only one from my class who had to retake INST126. Now, I am at the end of my second semester in this class with a different instructor and currently have a 97%. That should show you how much of a horrible professor he was and it not just being the course work. ",
+      "rating": 1,
+      "expected_grade": "D+",
+      "created": "2021-11-22T22:33:06Z"
+    },
+    {
+      "professor": "Jennifer Proctor",
+      "course": "INST126",
+      "review": "Insanely easy class. Professor Proctor is fairly boring but a nice person. ",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-01-18T00:16:15Z"
+    },
+    {
+      "professor": "Philip Piety",
+      "course": "INST126",
+      "review": "So I had 335 with him as well, and after reading a lot of the reviews here I can definitely understand why people feel negative about him. Personally, I never had any issues with elms assignments or him being responsive to me even though I am a pretty lazy student. I would definitely agree that 335 was questionable at times as it's own class, also the bronze falls simulation didn't really seem to be worth the time we put into it, the scoring system and limited moves made very little sense. \r\nA lot of people struggled with 126, and he seemed totally willing to work one-on-one with students. I personally worked on coding with him at least 3-4 times and he was only harsh once (but he was right). He tried his best to make sure I actually understood why things worked and I appreciate that. ",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2022-04-22T14:48:50Z"
+    },
+    {
+      "professor": "Carrie Lindeman",
+      "course": "INST126",
+      "review": "Professor Linderman did a great job on explaining python to people that are new to programming. If you have no prior experience to programming, this is the teacher for you, being someone that already knew a great amount of python before taking the class I found the lectures to be quite useless but they are packed with good content for those that are new to the language. She brings in ways that would allow for the students to learn better, it would be a 4.5/5 if I could solely due to having late responses when emailing her, and her grading was quite harsh.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2022-05-09T19:11:19Z"
+    },
+    {
+      "professor": "Jennifer Proctor",
+      "course": "INST126",
+      "review": "She doesn't teach the class really, she has videos for you to learn. Classes as far as I know have always been online.\r\n\r\nDo the work you will get an A",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2022-05-18T03:49:03Z"
+    },
+    {
+      "professor": "Carrie Lindeman",
+      "course": "INST126",
+      "review": "Professor Lindeman is a great person that wants to make beginner programming an ease. The online format of her class does require personal initiative to go and watch the videos she posts or attend the online class. Her extensions on assignments (not big projects) are generous. Professor Lindeman's office hours are very helpful in understanding the code and what the assignment is asking. Something problematic about the class is the availability of her office hours being only twice a week and the TA's office hours sometimes having an unreliable schedule. But if you come to the class and ask questions/learn there, then this shouldn't be an issue. Another negative part of this class is the inclusion of \"stack traces\" in each coding assignment. These stack traces were maps of all the data points in a program. the rules surrounding these stack traces took a while to pick up on and the the stack traces could be very tedious to complete. A guide on how to do them in various instances would have been helpful. Overall a great professor that i benefited a lot from and would recommend. ",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2022-05-20T17:37:10Z"
+    },
+    {
+      "professor": "Joel Chan",
+      "course": "INST126",
+      "review": "Dr. Chan loves to teach, he loves to code, and he loves to show his students HOW to find the answer to their questions rather than just giving it to them. Even if you know nothing about coding you will love this class and you will love Joel, the last 2 projects are a bit harder than the first 2 but its nothing crazy, and Dr. Chan is always willing to help. Would highly recommend this class to CS/IS majors as well as nonmajors who just wanna take a really cool elective with a great prof.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-05-24T18:31:23Z"
+    },
+    {
+      "professor": "Joel Chan",
+      "course": "INST126",
+      "review": "Dr.Chan is one of those professors who is dedicated to his job and the success of everyone he teaches, he understands the struggle that every individual student has and works with each and every student individually to ensure that every student is successful in his class both with learning the concept and grade wise, if anyone has a chance to take a class with him, I would Highly Recommend, I promise that no one will ever regret taking a course with him ",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-05-29T02:14:25Z"
+    },
+    {
+      "professor": "P Kshetry",
+      "course": "INST126",
+      "review": "Best teacher I have ever had. she is very chill and laid back. would recommend her definitely! ",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-07-02T03:36:43Z"
+    },
+    {
+      "professor": "Carrie Lindeman",
+      "course": "INST126",
+      "review": "The class is easy. She teaches nothing. You will not learn python unless you self teach yourself. Her videos are 5 minutes long and do not relate to the assignments at all.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2022-10-20T19:18:18.551471Z"
+    },
+    {
+      "professor": "Carrie Lindeman",
+      "course": "INST126",
+      "review": "Idk what the person below is bashing the professor for. I barely interacted with her, however, I believe Professor Carrie is genuinely is the type of instructor we need. Her class is asynchronous, so the lessons are video lectures (they are from 2020 so not recent, which would probably be my only thing I wish she'd change so it's more recent). However, I think they cover what is needed to be known and I am having a good amount of fun. Something that I admire a lot is her late policy which is the most lenient one I've seen. As there are assignments due each Sunday, there's a good amount of stuff to do considering I have other classes, so I haven't turned in things on time. That being said, the way the class is set up is that there are two main deadlines with one being in the first half of the semester and one being in the last week of the semester, and we can turn in assignments before that main deadline without getting points docked. In addition, we get to redo assignments for full credit until that main deadline comes. You are set up to get an A in this class.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-11-14T00:21:20.112060Z"
+    },
+    {
+      "professor": "Carrie Lindeman",
+      "course": "INST126",
+      "review": "so i took this course asynchronous and i did not learn a damn thing. she literally has 5 minute videos and goes over the easiest examples and then when you get to the assignments and the projects, its like 10 times harder. i don't get how she expects us to learn how to code when 1. your videos are 5-10 min long from 2020, 2. tas office hours are so inconvenient, 3. you make the projects nearly impossible to do. the only good thing about this class is that the deadlines are very lenient. she's a nice person but the class is structured awfully.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2022-12-05T20:06:10.161493Z"
+    },
+    {
+      "professor": "Giovanni Luca Ciampaglia",
+      "course": "INST126",
+      "review": "He\u2019s very knowledgeable but all of his quizzes are so at 11:59am instead of pm which for a lot of students meant forgetting to turn them in on time and hurting our grade by quite a bit. If you don\u2019t go to class you definitely shouldn\u2019t expect to pass\u2026 been there done that.",
+      "rating": 3,
+      "expected_grade": "F",
+      "created": "2022-12-11T20:35:29.166555Z"
+    },
+    {
+      "professor": "Carrie Lindeman",
+      "course": "INST126",
+      "review": "Informative videos, fair work for an asynchronous class.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-12-13T02:49:20.047654Z"
+    },
+    {
+      "professor": "Carrie Lindeman",
+      "course": "INST126",
+      "review": "This professor is great at what she does, she is very knowledgeable and will help you whenever you need it! Earlier in the semester, the assignments were a lot easier to follow and the short videos she made helped a lot when doing the assignments. I will say that you have to take initiative in googling things as it IS an async course, you literally signed up to be online and basically pace your own learning. She is very lenient about due dates which can be some students' downfalls if they don't keep up with the assignments due each week. There are no exams, there are coding assignments each week, and 3 projects which you should ace if you come to office hours. I must emphasize GO TO THE PROFESSORS OFFICE HOURS!!!!! The projects can be challenging and intimidating when you first read them. THERE IS NO REASON TO LOSE POINTS ON PROJECTS SHE WILL LITERALLY TELL YOU WHAT'S WRONG WITH YOUR CODE AND HELP YOU FIX IT. I didn't go to TA office hours that much because it seemed like one of the TAs wasn't really clear about what he was doing. But the other TA, Rony, will actually tell you what's wrong with the code and fix it, however, he does have some inconvenient times so it might be hard to make it there. Overall an easy class if you utilize the resources given, actually watch the short lecture videos, and GO TO OFFICE HOURS FOR PROJECTS!!! Take her if you have the chance.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-12-14T03:27:36.936146Z"
+    },
+    {
+      "professor": "P Kshetry",
+      "course": "INST126",
+      "review": "I took this class async so my opinion is kinda biased. I never spoke to the teacher once. The entire class is online and is a video lecture from another teacher. Kshetry is quick to respond to emails but I don't feel like I learned anything from the class due to it being async. Overall easy class but wouldn't recommend taking it async with her if you want to learn anything about Python.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2022-12-15T06:45:54.895517Z"
+    },
+    {
+      "professor": "Anukriti Singh",
+      "course": "INST126",
+      "review": "She was very informative and knowledgable in the subject. I learned a lot of core fundamentals and brushed up on skills I knew in the past. I took the class online and I 100% would recommend it.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-12-20T15:34:09.494958Z"
+    },
+    {
+      "professor": "Anukriti Singh",
+      "course": "INST126",
+      "review": "She extends deadlines and doesn't have hard deadlines only on the projects. It was online and i would 100% recommend. Only bad thing is that the TA do not respond to emails",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2022-12-23T18:50:13.428211Z"
+    },
+    {
+      "professor": "Carrie Lindeman",
+      "course": "INST126",
+      "review": "Because of the asynchronous nature of the course, the video lectures become very important for projects and homework assignments. However, sometimes there are gaps between lecture and assignments, leading to googling different coding aspects and topics to fully understand how to do the assignments. I will say, i didn\u2019t find the projects very difficult because of the help you can get from the TAs and the actual coding not being difficult.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2022-12-24T00:35:23.129453Z"
+    },
+    {
+      "professor": "Joel Chan",
+      "course": "INST126",
+      "review": "Dr. Chan is an amazing professor. You can tell he cares about his students grades. Always makes sure everyone is on the same page. He has no problem explaining anything to you. If you have to programming experience at all then you NEED to take him.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-04-18T18:10:45.013561Z"
+    },
+    {
+      "professor": "P Kshetry",
+      "course": "INST126",
+      "review": "Like the previous review the class is async and the video lectures are from another teacher. Do not take this class async if you're new to coding and actually wish to learn. This class was manageable but I don't feel like I learned anything because it was async. Take it in person or live zoom if possible",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2023-05-01T03:25:09.290910Z"
+    },
+    {
+      "professor": "P Kshetry",
+      "course": "INST126",
+      "review": "I could never get in contact with this professor. I had multiple unprecedented situations this semester and had documentation, but she never responded to my emails so i kept getting 0s on past work. If you are going to take this class async, don\u2019t do it with her.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2023-05-09T17:45:01.114657Z"
+    },
+    {
+      "professor": "Chu Sern Joel Chan",
+      "course": "INST126",
+      "review": "GOAT. Makes sure everyone is on the same page, always willing to help debug code, assignments were explained very well and clearly, questions were always answered fully if you asked him any.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-05-23T14:04:21.855247Z"
+    },
+    {
+      "professor": "Giovanni Luca Ciampaglia",
+      "course": "INST126",
+      "review": "Usually the first day of class was used for learning and the next class we would apply this learning to in class projects. He is very knowledgable about programming. No exams or finals for this class, just projects. I found the projects to be significantly harder than what we practiced in class, but he gives plenty of time to complete them. Just make sure you don't wait until the last minute to start them.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2023-06-30T17:20:24.765908Z"
+    },
+    {
+      "professor": "P Kshetry",
+      "course": "INST126",
+      "review": "Didn't see the professor one time. Delegated all office hours to TA's. I get the class was async but I don't know what they are paying her to do lol. Got an A in the class though so it wasn't the worst thing in the world.",
+      "rating": 2,
+      "expected_grade": "A+",
+      "created": "2023-07-19T20:03:44.554735Z"
+    },
+    {
+      "professor": "Giovanni Luca Ciampaglia",
+      "course": "INST126",
+      "review": "Professor and TA's are really nice. However the class is pretty boring. Lectures are long and not super helpful. Assignments are due at such weird times and can be pretty annoying. Also, not many examples of how to code are given as a resource so the projects and PCE's can get kind of hard. It is easy to lose points. Overall, the class isn't the greatest and since it's required for the major I would suggest trying to get a different professor.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2023-12-11T03:00:17.300047Z"
+    },
+    {
+      "professor": "Anukriti Singh",
+      "course": "INST126",
+      "review": "Took this course online with this professor and I recommend her. She is an easy grader but sometimes takes a while to respond to emails. The class structure is really nicely set up where you learn something in lecture, then actually have an assignment where you practice it by coding so it allows you to understand it and it's easy. The online quizzes are pretty easy and you can use your notes. The final was a group coding project but you get lots of time to work on it and it's not too far out of reach.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-12T17:23:38.728793Z"
+    },
+    {
+      "professor": "Scott Dempwolf",
+      "course": "INST126",
+      "review": "I'm glad I'm the first person to write a review. Professor Dempwolf is a really awesome professor, just good all around. He's very kind, he listens to his students and their concerns and makes sure everyone is heard. His lectures are lengthy and he does talk a lot but if you care enough to attend you will learn much. There were supposed to be three projects total this semester, but they were cut down to 2 because of time constraints and I was fine with that. However, I don't know how other students feel about it. The first project was worth 75 points, unfortunately, the second was worth 175 points and is 20% of your grades. If you keep up with the class, even if you don't do too well on the last project your grade will still hold, you can still finish the class off with a low A or high B, With that being said, the projects are far from easy, but Prof. Dempwolf will definitely help you in any way he can. He gives you most of the code for the projects and even eliminates some parts if students ever get too stuck. On top of that, he always give extensions and just cares for what he does. Out of all the INST126 classes I can say his is the easiest and the best. So, please take him. It won't be easy but it will be easy enough to allow you to pass!",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2023-12-12T22:58:45.005665Z"
+    },
+    {
+      "professor": "Joel Chan",
+      "course": "INST126",
+      "review": "Dr. Chan is absolutely amazing when he teaches you Python. He makes sure that everyone understands the concept by frequently giving us exercises in lecture to practice what we'd learn. When getting extra help from him, no matter the circumstance he's in, he will always find some way or time to help you. I truly felt there was a passion in helping his students thrive. Highly recommend him as a professor because you will properly learn without any experiencing any stress.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-12-13T03:19:18.290436Z"
+    },
+    {
+      "professor": "Scott Jackson",
+      "course": "INST126",
+      "review": "I really liked Scott! He wasn't the best lecturer - so GO TO HIS OFFICE HOURS! I cannot express enough how crucial it is to Scott's office hours. He's super flexible and approachable as well. Just make sure you at least somewhat understand the course material, and you'll do fine.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2023-12-25T01:21:54.272659Z"
+    },
+    {
+      "professor": "Christopher Dempwolf",
+      "course": "INST126",
+      "review": "chill professor, and super nice. Taking him again",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2024-01-09T19:27:52.780276Z"
+    },
+    {
+      "professor": "Christopher Dempwolf",
+      "course": "INST126",
+      "review": "The class was relatively easy but his lectures were incredibly boring and didn't teach much about the content. The final project compared to coursework was very difficult and wasn't a reflection of what we had learned over the semester. Overall an easy professor but don't expect to learn a whole lot about python unless you like teaching it to yourself.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-01-16T16:44:10.263248Z"
+    },
+    {
+      "professor": "Christopher Dempwolf",
+      "course": "INST126",
+      "review": "He's a really nice guy but his class is super disorganized, his slides and lecture usually comes from a youtube video he posts so going to class is kinda pointless. The work was super easy but he had to curve the projects a lot due to no one knowing how to do them. Overall if you just want the easy A take him, but if you want to actually learn how to code, I would take another professor.",
+      "rating": 2,
+      "expected_grade": "A+",
+      "created": "2024-02-21T09:08:03.891582Z"
+    },
+    {
+      "professor": "Joel Chan",
+      "course": "INST126",
+      "review": "yas best professor ever",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-02-27T20:54:29.522364Z"
+    },
+    {
+      "professor": "Elia Shahbazi",
+      "course": "INST126",
+      "review": "There were many things that went wrong in this class. Many of the assignments were not graded until the seventh week of school. Several of the assignments were not working properly due to broken links. He randomly assigned a final exam out of nowhere even though it was not in the syllabus. He never made an announcement about it and only told a small portion of the class. He was upset about students not attending class even though attendance was optional, and many felt as though they were not getting any value from attending. Slow to respond to emails as well. The class is very dull and there is no class interaction. He rushes over topics quickly. TA's go over practice problems on Friday's which was a great thing about the class. However, this professor was not attentive towards his students and would often get frustrated and annoyed whenever we asked questions. I would highly suggest getting a different professor.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2024-04-24T01:23:24.211527Z"
+    },
+    {
+      "professor": "Scott Jackson",
+      "course": "INST126",
+      "review": "Nice dude but slightly boring. His classes didn't seem too structured there was a lot of TBD on the syllabus and he didn't come to class on mondays since he had another class to teach. But his gradings was good, follow the rubric and you'll get an A.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-05-02T04:33:34.942530Z"
+    },
+    {
+      "professor": "Scott Jackson",
+      "course": "INST126",
+      "review": "Scott is a horrible lecturer and I learned mostly from the TAs in this class. Also, the grading is terrible! It is the end of the semester and I have not received one grade. His class is very disorganized. I would not recommend Scott.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2024-05-03T18:25:25.156352Z"
+    },
+    {
+      "professor": "Joel Chan",
+      "course": "INST126",
+      "review": "Literally the most fantastic professor, I wish I could have him for all my programming classes. He values every student and is always open for questions. He is confident in every student's ability to succeed and will take the time to go over any question you may have. He also uses Discord for the class and is very responsive there. The classes are recorded, which is also a huge plus. Dr. Chan is very passionate about what he does and his excitement for programming really rubs off on you.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-05-06T20:37:35.269138Z"
+    },
+    {
+      "professor": "Elia Shahbazi",
+      "course": "INST126",
+      "review": "Honestly, I would not recommend him. He used Prof Joel Chan's slides and read off of them every day. I mean I guess you could pass with a good grade if you make friends and have previous knowledge of Python but you're better off taking another professor.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2024-05-07T15:29:41.075018Z"
+    },
+    {
+      "professor": "Scott Jackson",
+      "course": "INST126",
+      "review": "Doesn't update grades during semester its the last week of school and I haven't had one assignment graded. If you want to learn python he does a pretty decent job in class and there are GSS oppurtunties to get better understanding outside of class(though I have never attended a session).  He seems like one of the teachers that will give you a good grade based on effort. Other than the lack of knowledge where i stand on this class, the professor is understanding and workload isn't crazy.",
+      "rating": 4,
+      "expected_grade": "P",
+      "created": "2024-05-08T01:54:36.563301Z"
+    },
+    {
+      "professor": "Scott Jackson",
+      "course": "INST126",
+      "review": "Horrible grading. It is the end of the semester and I still have no grade in this course. Absolutely no feedback. His lectures are useless. He barely explains anything and he is boring. He just codes and reads aloud everything he types. Would not recommend him.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2024-05-08T17:50:00.667295Z"
+    },
+    {
+      "professor": "Giovanni Luca Ciampaglia",
+      "course": "INST126",
+      "review": "He's a really nice dude, but the projects and homework are insanely confusing and often cover things we don't even cover in class. Also, his assignments are due at bizarre times (11:59 am????? Really dude????).\r\n\r\nJust choose a different professor. Again, really nice dude, just not very bright.",
+      "rating": 2,
+      "expected_grade": "C",
+      "created": "2024-05-10T20:13:02.411493Z"
+    },
+    {
+      "professor": "Scott Jackson",
+      "course": "INST126",
+      "review": "Very nice and approachable",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2024-05-14T19:11:54.954156Z"
+    },
+    {
+      "professor": "Scott Jackson",
+      "course": "INST126",
+      "review": "Do not take this professor. He is overall a nice guy but if you have anxiety about your grade do not take him at all. He does not release your grades until the final week (exam week) and gives you little wiggle room to raise your grade. Again, he is a very nice guy but just the overall structure of this class was too much to handle on top of other classes because you don't know if your failing or passing the class until it's too late.",
+      "rating": 1,
+      "expected_grade": "C+",
+      "created": "2024-05-15T02:25:01.904239Z"
+    },
+    {
+      "professor": "Scott Jackson",
+      "course": "INST126",
+      "review": "Don't take him. Terrible lecturer and still hasn't posted a single grade for my class when its literally finals week. He can not be a real professor. Please avoid him.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2024-05-16T01:14:54.671831Z"
+    },
+    {
+      "professor": "Scott Jackson",
+      "course": "INST126",
+      "review": "I DO NOT recommend taking this professor. This was his first year teaching this course which is understandable but he provided zero feedback throughout the entire semester. We did not get anything graded and had no grades put in as of the last day of classes. He kept on promising that he would grade things but never ended up doing so. So it was very difficult to know how you're doing in the class. If you do take him, I recommend going to his office hours because they were helpful. He's very nice when you talk to him one on one but the whole course was very disorganized. It consisted of 3 word count projects and consolidation projects. The lectures are recorded.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2024-05-19T02:59:45.641388Z"
+    },
+    {
+      "professor": "Scott Jackson",
+      "course": "INST126",
+      "review": "Such a great professor, course is super easy to follow. prof is such a great help and he pushes back assignment so it can be turned in. He definately make coding fun",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-05-22T12:36:06.279611Z"
+    },
+    {
+      "professor": "Scott Jackson",
+      "course": "INST126",
+      "review": "Goated professor!! Scott is really chill and super supportive, it\u2019s easy to tell he cares about his students\u2019 understanding of the material. The workload wasn\u2019t crazy, we had about 12 assignments throughout the whole semester (including the projects) and coding projects build off of each other. He had a system where your grades were based on how many points you score based on the course concepts, so if you didn\u2019t score a lot of points for one project it didn\u2019t matter because you could gain those points back with following projects.\r\n\r\nThe only issue I had is that we would get literally no feedback on your projects unless you asked, which was fine in the end because Scott would tell you exactly what you need to work on when you go to him. I agree with the other comment saying to use his office hours when you need to!! He\u2019s very happy to help!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-05-23T20:07:12.183954Z"
+    },
+    {
+      "professor": "Scott Jackson",
+      "course": "INST126",
+      "review": "Professor Jackson is a very supportive and patient instructor. He goes out of his way to reassure students and provide clear guidance in programming, which I found incredibly helpful. His explanations are always thorough, and he takes the time to ensure everyone understands the material.\r\n\r\nHowever, there is a significant downside: he never returns graded assignments, no matter how many times we ask. Despite his frequent apologies, none of us received any feedback on our assignments throughout the entire semester. This lack of feedback started from the very first week and persisted until the end of the term, which was quite frustrating.\r\n\r\nIf he could improve on this aspect, he would be an outstanding professor. Overall, if you can manage without timely feedback on your work, you'll benefit a lot from his teaching.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2024-05-25T02:39:27.906480Z"
+    },
+    {
+      "professor": "Scott Jackson",
+      "course": "INST126",
+      "review": "I'll be honest, I took him in the spring and it was only his second semester teaching. He was a nice guy but would always delay grading. The whole class had no grades until the day final grades were do. But his grading system is fair, lets say you miss one or multiple coding assignment, you have the opportunity to get a grade for them still if you show that you can implement the code in the next assignment. He grades off a fundamentals list, so technically you can submit the final project and make sure to include everything in the list and get an A (that's lowkey what I did) but I don't recommend it, since you literally have no other assignments to back you up if you do that.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2024-07-30T15:27:30.249613Z"
+    },
+    {
+      "professor": "Scott Jackson",
+      "course": "INST126",
+      "review": "Very nice professor, willing to work with students and help them. Assignments can be a little bit unclear, but he leaves them very open to what you want to do. He never really published grades, which made it hard to know how you were doing in the class. I think overall an easy grader",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2024-07-30T17:49:18.315681Z"
+    },
+    {
+      "professor": "Elia Shahbazi",
+      "course": "INST126",
+      "review": "straight garbage, lies on the syllabus does not teach.  Do not take him; honestly, double it and give it to another bad school for him to teach.",
+      "rating": 1,
+      "expected_grade": "A+",
+      "created": "2024-09-04T19:16:22.278402Z"
+    },
+    {
+      "professor": "Scott Jackson",
+      "course": "INST126",
+      "review": "Lectures didn't help with anything, grades weren't updated so I couldn't tell what I was doing wrong or right, and assignments weren't clear.",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2024-10-03T20:26:37.745364Z"
+    },
+    {
+      "professor": "Scott Jackson",
+      "course": "INST126",
+      "review": "Much of the material learned was complicated, and a lot of the people in the class had a lot of advanced prior coding knowledge and were able to complete assignments without much worry. Professor is nice and willing to work with students, but grades haven't been updated as of after November.",
+      "rating": 3,
+      "expected_grade": "C-",
+      "created": "2024-11-07T02:00:52.778673Z"
+    },
+    {
+      "professor": "Scott Jackson",
+      "course": "INST126",
+      "review": "Scott is a genuinely good person who cares about his students and is passionate about teaching this subject. The issues i do have though is the lack of grading... we are already in November and i believe we have one grade in so far, with the lack of grading comes the lack of feedback, i have zero clue how i am doing. He is helpful though and is there if you need help with during his office hours. For lectures i tend to zone out and not learn, i feel the class isnt engaging enough to be motivated to want to learn the skill.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2024-11-12T02:06:47.845103Z"
+    },
+    {
+      "professor": "Scott Jackson",
+      "course": "INST126",
+      "review": "I honestly have no idea how I am doing in this class and its already November. Scott's grading system is very unusual as he doesn't use canvas/ELMs to update grades, he instead uses a \"point\" system but it seems like he gives a lot of opportunities to improve prior scores, so I do appreciate that. There are no exams in this class and he does not require attendance in his lectures, which are pretty boring btw. He does record helpful tutorials on almost every coding assignment which I find help me more than attending his lectures. Overall, hes a really nice guy and replies to emails/questions really quickly its just the class is structured kind of odd so I have no clue where I stand...",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2024-11-14T16:30:29.559877Z"
+    },
+    {
+      "professor": "Scott Jackson",
+      "course": "INST126",
+      "review": "He's a good professor but the grading system is horrendous, I have no idea how i'm doing in the class and the semester ends in a few days. Only 2 main assignments have been graded so far and I'm seriously wondering how he's gonna grade the final project in time. He also doesn't allow late submissions so if you miss one deadline your grade could look like it's tanked but you can make up the points in the following assignments.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2024-12-04T21:07:09.190933Z"
+    },
+    {
+      "professor": "Scott Jackson",
+      "course": "INST126",
+      "review": "I do not recommend taking this professor. Do not take this professor. He doesn\u2019t grade assignments til last minute. I was fine as of yesterday and my grade dropped a whole 10%. Grading system is very odd and I am afraid for my grade in this class. This class should\u2019ve been easy but his grading system made it very difficult and we\u2019d get negative points which wasn\u2019t helpful.",
+      "rating": 1,
+      "expected_grade": "C+",
+      "created": "2024-12-05T05:14:34.683281Z"
+    },
+    {
+      "professor": "Scott Jackson",
+      "course": "INST126",
+      "review": "Scott is a very nice person, a very good lecturer, and a good person. I found his class very interesting as this was the first coding class I had ever taken. But one drawback. The grading system is terrible. He does not grade your assignments for all semester but will at the very end. He knows this too which is good so he made sure everyone will pass who did their coding assignments. I would suggest him as a professor just be aware of this before taking the class.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-12-05T19:44:07.051327Z"
+    },
+    {
+      "professor": "Scott Jackson",
+      "course": "INST126",
+      "review": "I would not recommend taking this professor. He is a very nice person but his grading system is extremely odd where he does a \"points\" system. It was nice that you were able to gain points back in the next assignments but since he grades so late and the majority of his assignments are based on the prior, we do not get feedback in time to know what to improve on in the next assignment. Also, I found it unfair that you could get negative points on an assignment because that means if you quite literally did not put in the effort and did not submit the assignment, you might get a higher grade than someone who actually tried but they just had a lot of \"anti-patterns\". He has many opportunities to improve your grade but it is extremely difficult to tell how you are doing in the class. The semester literally ended and we still don't have the majority of our grades. With the final due a few days before grades are finalized, I wonder how he will manage to grade the final project AS WELL AS our previous assignments in time. Save yourself the stress and do not take him if you don't want your gpa to plummet.",
+      "rating": 1,
+      "expected_grade": "C+",
+      "created": "2024-12-09T16:11:54.933334Z"
+    },
+    {
+      "professor": "Giovanni Luca Ciampaglia",
+      "course": "INST126",
+      "review": "Ciampaglia was good. I did not find the coding assignments difficult at all until the later half of the semester, and even then it wasn't super bad. Attendance isn't mandatory, but unless you are a python genius and have a lot of experience coding, you should go. We had two lectures a week, with one of them being a paired-programming exercise that counts for grade. After some time, I found myself only going to the class with the graded coding exercise.\r\n\r\nI can understand why others may say that the homework was confusing and how it covers things we don't go over in class. I didn't think it was terrible though. I will say I used ChatGPT a lot, not necessarily to do the projects/homework for me, but to help me complete them. It helped a lot with debugging (pasting the error message into Chat), and I learned a lot of methods/techniques that filled the gaps from what I missed from not going to all the lectures or that he straight up didn't go over. \r\n\r\nOverall, I think that he is hit or miss depending on how much programming experience you have before coming into his class. If you have previous experience in Python, or coding in general, you will be fine. I can definitely see how people who have never coded before or struggle with coding may have a difficult time in his class, though. Even then, if you put in the work, you will be fine. My advice is to do the PCE (basically your homework) by the early submission extra credit dates. All the PCE's are due at the end of the semester, but if you do them early it really boosts your grade. \r\n\r\nNot an amazing 10/10 professor, but decent.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-12-12T23:23:55.776432Z"
+    },
+    {
+      "professor": "Scott Jackson",
+      "course": "INST126",
+      "review": "Professor Jackson is very nice and accessible through discord. I enjoyed the flexibility of this course and how understanding he was. However, as everyone has been saying, a major issue with him is grading. I still don't know what grade I actually have currently and have no idea what my final grade could be . At this point in the semestest that is unaceptable. I did appreaciate the ability to earn points back, but, as others have also said, that is hard to do when grades aren't put in until after the next assignment is due.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-12-13T21:30:04.250755Z"
+    },
+    {
+      "professor": "Scott Jackson",
+      "course": "INST126",
+      "review": "Professor Jackson is really kind and understanding, but the late grading for assignments has been incredibly stressful to deal with. Most of the coding assignments (including the final project) depend on previous feedback, but I have yet to receive feedback on assignments from weeks prior. Without knowing what to improve or work on, I don't know what my progress is or what my final grade will even be. I appreciated the extra credit assignments to compensate, but not having grades in from a month before classes have finished is unacceptable. I also felt that the lectures did not really help with learning how to code, and I personally would have preferred more in person coding exercises as opposed to hours of tutorial videos to watch on our own time.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2024-12-15T18:16:22.929195Z"
+    },
+    {
+      "professor": "Scott Jackson",
+      "course": "INST126",
+      "review": "Scott Jackson is a very nice person, like others have put it. He very forgiving and always does his best to adjust assignments. It his third semester teaching Inst126 (if I recall our meeting correctly) so he is still improving the course as he goes. His grading and timing is one that hugely affects his class. This class would be a breeze if his grading system wasn\u2019t very confusing. Since he does very poorly on grading, many people are reviewing him pretty low. I say take Scott Jackson if you want leniency. He\u2019s very lenient and very communicative when you reach out to him.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-12-23T06:21:50.163519Z"
+    },
+    {
+      "professor": "Scott Jackson",
+      "course": "INST126",
+      "review": "This is one of the weirdest classes I\u2019ve taken. The grading system was so weird and confusing because you can earn negative points on assignments. Scott had a big issue with grading on time and this was important because you need the previous assignments feedback to work on future assignments. I think the class is not difficult and Scott knew that there was a problem in the grading and really wanted to help us. He gave us extra points that somewhat offset his tardy grading. Overall not a difficult course.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2024-12-24T00:38:36.456038Z"
+    },
+    {
+      "professor": "Scott Jackson",
+      "course": "INST126",
+      "review": "He was a nice person. However, he would take a very long time to grade stuff which was very stressful and annoying because the assignments would build off of each other. So, we wouldn't know how to approach our new assignments without his feedback. He also had antipoints which is very unnecessary and confusing.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2025-02-05T22:35:57.216592Z"
+    },
+    {
+      "professor": "Scott Jackson",
+      "course": "INST126",
+      "review": "He is a very nice and chill guy. However, he would take soooo long to grade assignments. This was very annoying because the assignments would build off of each other. So without his feedback, we didn't know what to fix for the new assignments. He also graded using anti-patterns which to this day makes no sense to me. We also didn't know our grade until after the semester ended.",
+      "rating": 2,
+      "expected_grade": "A+",
+      "created": "2025-02-05T22:40:42.783886Z"
+    },
+    {
+      "professor": "Scott Jackson",
+      "course": "INST126",
+      "review": "I like Scott! It is accurate that he is not known for grading quickly and uses a silly grading rubric (many professors in INFO enjoy doing that) but he is genuinely easy to deal with outside of that. As someone who struggled with programming prior to this class I believe I became a lot more comfortable with practicing good programming habits and understanding the context behind it all. As for the grading... it's a 100s level INFO course. There's not a whole lot to keep you from passing if you follow instruction.\r\n\r\nHe goes through BASH usage for file management, GIT, Python from basic printing to sets/tuples, good material. Not many assignments which I like as I can focus on learning. However in my class he unfortunately skipped over APIs which was listed in the syllabus and I'm not sure why as I assume it's a vital lesson to cover. Weird guy sometimes.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2025-02-09T14:21:25.575320Z"
+    },
+    {
+      "professor": "Joel Chan",
+      "course": "INST126",
+      "review": "Dr. Chan was the best professor I took at umd ever. He really want students to understand the course material, and also he doesn't have any midterms only one final. The projects are pretty easy if you pay attention in class, and you have a lot of time to work on them too. Overall, 10/10 guy.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-05-01T18:28:40.837535Z"
+    },
+    {
+      "professor": "Joel Chan",
+      "course": "INST126",
+      "review": "TAKE HIM OMG genuinely if u take any other professor you are setting yourself up for failure. Professor Chan is SO EASY to work with, very accommodating, and a lenient grader! Classes aren't necessary to show up to 100% of the time, but definitely go if you aren't too confident in your skills. Majority of the assignments are online, which he provides clear instructions for and gives you plenty of time to complete them + lets you know about these in advance. Professor Chan is genuinely one of the easiest, best professors I've had at UMD, and I really recommend you take him! It's almost impossible not to do well because he and his TAs are all very helpful and willing to work with you! I am currently sitting at a 103% in this class and I barely went to lecture, so def take this course with him if you are struggling w Python/somewhat confident in your skills, and are looking for a class that won't be too stressful but also beneficial!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-05-05T00:43:15.592198Z"
+    },
+    {
+      "professor": "Joel Chan",
+      "course": "INST126",
+      "review": "Dr. Chan is a wonderful professor who makes programming understandable for anyone and everyone. He is always willing to help clarify or explain concepts, provides clear instructions for assignments and practices, and goes at a pace that is comfortable for all learners. Definitely recommend him for this class!",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2025-05-19T17:18:34.075974Z"
+    },
+    {
+      "professor": "Joel Chan",
+      "course": "INST126",
+      "review": "Nicest professor ever. Great at teaching, kind hearted, and a joy to work with. Only class i actually went to because i liked going to his class! 10/10 rec",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-05-19T18:38:53.831093Z"
+    },
+    {
+      "professor": "Scott Jackson",
+      "course": "INST126",
+      "review": "Scott from a teacher's standpoint is amazing. If you're new to coding or want a more thorough approach, or even someone where you can just turn your brain off and absorb the tutorial slop he provides he is 100% the guy to go to. He explains concepts pretty well especially when it comes to file directories, and even setting up Git which is very important if you want to code!\r\n\r\nFrom a professor's standpoint, just like many of these other reviews, is one of the worst graders of all time. Cooked even. \r\nThis semester (Spring 2025) I had almost NONE of my assignments graded even far after the semester. I had to check my transcript to see that I got an A+ and there was no feedback at all from any assignments. The pacing of the class was very slow and in my opinion it's very disruptive when you're starting off the first few weeks with basic tutorials and getting used to your workspace to creating/iterating on detailed projects by weeks 10-15. There was a lack of moving parts to make the course tie together, which can be very jarring if you are inexperienced.\r\n\r\nIf you end up taking him, by all means he isn't insufferable. Hes very nice and definitely can help if you have questions. However be wary that you will very likely will go weeks without having an assignment graded, or have insight on your progress as a coder. This isn't a class where you can just let someone yap and you gradually just improve at coding. I found the most success personally by collaborating with other students especially during projects, and peer code review.",
+      "rating": 1,
+      "expected_grade": "A+",
+      "created": "2025-07-19T14:43:41.159836Z"
+    },
+    {
+      "professor": "Joel Chan",
+      "course": "INST126",
+      "review": "Dr. Chan is absolutely amazing! I cannot tell you a more gracious, humble, and kind professor. From the very first day of class, he established an inclusive and welcoming atmosphere that made it easy for all students to feel comfortable and engaged. He is genuinely willing to work with every student, regardless of their level of programming skills or prior knowledge, which is a testament to his dedication to teaching and commitment to student success.\r\n\r\nWhat I appreciate most about Dr. Chan is his approachability. He encourages questions and discussions, making his office hours not just a time for assistance but also a chance to connect and learn more deeply. His lectures are consistently engaging and thought-provoking, filled with real-world applications that make the material come alive. He possesses a unique ability to break down complex concepts into manageable parts, which has tremendously helped me grasp the content.\r\n\r\nThe projects assigned in his class are not only great to practice your chops but also clearly outlined, so there's no ambiguity. You always know what's expected of you, and he's available to provide guidance every step of the way. His lecture notes are concise and organized, making them an invaluable resource for reference both during and after the course. Use the Discord! \r\n\r\nThis is not a glaze post. I wholeheartedly recommend that everyone take him for their programming courses. His teaching style and dedication are truly exceptional, and I genuinely wish he taught INST326 because I would jump at the chance to learn from him again. If you get the opportunity to enroll in his class, don't hesitate! TAKE HIM! You will not regret it, and it might just be one of the best academic decisions you ever make for InfoSci if you are serious about SWE or programming in general.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2025-12-05T21:45:50.536039Z"
+    },
+    {
+      "professor": "Scott Jackson",
+      "course": "INST126",
+      "review": "PLEASE DON'T TAKE HIM IF YOU DON'T WANNA SUFFER. Grades and feedback are not given in a timely manner; I might've said my expected grade was an A-, but I have no idea what my grade actually is because he barely grades any assignments, nor does he put any effort into the course. Plus, his lectures are very boring.\r\n\r\nThere are 2 major assignments that still haven\u2019t been graded up to this day. One is Word count 0.3, which was due on 10/28, and the other one is Word count 0.4, which was due on 11/25. In order for us to get full points for Word count 0.4, we needed to use the feedback from Word count 0.3. So, many of us had to assume we got most of the points right for Word count 0.3 to be able to start Word count 0.4.  This was very frustrating for many of us because all the assignments in this course build off of each other, meaning we need to use the feedback from the last assignment to get full points for the next assignment. Every week, he's told us to expect the feedback to be returned that week, but it never happens.\r\n\r\nAdditionally, some of the feedback from Word count 0.4 also applies to the final project. Despite how essential timely feedback is in the course and many people raising concerns about it, Prof. Jackson consistently delayed grading our assignments to the point that it was ridiculous that he was so far behind. \r\n\r\nHis grading criteria is also very confusing for both projects, which made it even harder to do the assignments. Every person I talked to in the class agreed with my opinion, so I know I\u2019m not the only one who feels this way. \r\n\r\nNone of us even know what our current grade is in the class, which shows just how big of a problem this is, especially considering this is the only course other people and I are having issues with. It is very unfair to have to pay so much money to attend this University and have to deal with professors who can\u2019t do the bare minimum for students\u2019 success.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2025-12-14T02:10:48.528920Z"
+    },
+    {
+      "professor": "Scott Jackson",
+      "course": "INST126",
+      "review": "Scott Jackson is nice and all, but man, does he take forever to grade. This class relies on the feedback from the professor to improve coding, but be WARNED, you will not get any feedback at all. It took him more than two months to give you feedback, which is unprofessional and irresponsible as a professor. Additionally, his lectures are rapid fire, and he teaches so fast that it doesn't give you time to process. The only \"good\" thing he does is post online YouTube video tutorials, which defeats the whole purpose of actually teaching in class. He will also give you a hard, complicated final project game in which even the TAs say that they don't know why he picked the final project to be a complicated game. Overall, a bad professor but a nice guy.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2025-12-15T02:11:48.309440Z"
+    },
+    {
+      "professor": "Scott Jackson",
+      "course": "INST126",
+      "review": "Scott was a nice guy, and taught core concepts well, however, he COMPLETELY neglected grading all semester. It's finals week & I have NO IDEA where my grade stands. Professor Jackson STILL hasn't given us feedback on part 3 of a 4-part project we were supposed to be finished with before Thanksgiving break. Because of this, we cannot even begin part 4 of this project, despite the fact that our final project is due this Friday. In addition to literally never grading anything, Scott doesn't respond to emails at all. In fact, the only way to get a hold of him is via his discord server, where responses are still a 50/50. This is made worse by the fact that his due dates are extremely unclear, as his assignments build off of each other, which means they're constantly getting delayed. This guy is genuinely not a real professor. Take his class if you wanna learn nothing and then stress out because you don't have a single grade in the gradebook all year.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2025-12-15T02:33:41.943726Z"
+    },
+    {
+      "professor": "Scott Jackson",
+      "course": "INST126",
+      "review": "Notice how I don't have an expected grade? That's because I genuinely have no clue where I stand in this course. So far, I've gotten 100% on assignments, but that doesn't mean much when about a third of the assignments (including major assignments) haven't been graded and we have no total grade calculation on Canvas (you literally cannot see your current grade in this class). I understand he's doing this grading thing where you can earn back points and stuff, but it makes it really hard to understand how you're doing in the course, especially when it takes forever to get feedback and you don't get feedback in time for your next assignment which builds off the previous one.\r\n\r\nI'm not sure if he's the only one grading or if he's going through something in his personal life. If the latter is the case, I feel bad for writing such a bad review. It's just frustrating when assignment due dates keep getting postponed and we get no tutorial videos that we need to complete our assignments (I would watch videos from YouTube, but he takes off points if we use things that he himself hasn't taught us).\r\n\r\nI'd like to note that he's not a mean person at all. His class was just...",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-12-21T01:03:00.593748Z"
+    },
+    {
+      "professor": "Erik Jones",
+      "course": "INST126",
+      "review": "Really amazing teacher and for his first semester teaching he is amazing. He's a very passionate teacher and knows what he is talking about in regards to python and is very understanding and is willing to work anything out. Lectures have attendance through an in-person zoom link but if you have the link its not technically mandatory. Lectures also have slides posted + Panopto recordings so everything is there if you miss. There are quizzes every week on the previous lecture but every other week they are in person and the other is complete by midnight the day of/next. The TA for one of the sections was so extremely monotone and I could/did not pay attention in discussion. But the TAs know what they're talking about too but can be a bit harsh graders. \r\n\r\nThe 3 projects are easy as long as you know the concept/can look it up since its a very beginner class. Final exam was cumulative with you applying concepts on paper closed note, its long but not too bad. \r\nHe also bases his lectures pretty similar to a notes page he posts to, so there's different examples and more in-depth explanations to study. There are also 3 code reviews throughout the semester but you are assigned to only one where you have to explain your work in the most recent project to show you understand it, but its so casual and as long as you know what everything does its fine.\r\n\r\nBut 100% take this guy for this class, gets the basic concepts of python pretty drilled in you and he is a good guy and teacher.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-21T20:30:46.187834Z"
+    },
+    {
+      "professor": "J Bern Jordan",
+      "course": "INST126",
+      "review": "I had experience in Python, so this class was very easy for me. If you have a basic Python background, this class will be very easy for you too!\r\n\r\nSince I knew what Prof. Jordan was teaching, sometimes I felt like he was not teaching in the best way for students to learn. There were many times when I helped students because he did not explain the material well or clearly. For example, we go over functions in week 4 after making functions for each one of his assignments in the previous weeks. That didn't make a lot of sense to me, and I feel like the students who made it through this class definitely did not get a grasp on Python at all.\r\n\r\nEven with the teaching issues, there are many resources available, and we had several TAs with office hours throughout the week. I'd recommend doing a Python tutorial concurrently before/while you do this class. If you do that, you'd probably not have to attend lectures since they mainly just go through the slides and are all recorded online.\r\n\r\nOverall - okay professor, but it will take some work outside of class to actually learn and master the topics!",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2025-12-22T01:53:25.943017Z"
+    },
+    {
+      "professor": "Erik Jones",
+      "course": "INST126",
+      "review": "This was my first programming course and Jones did a really good job at teaching the material. The workload can be a bit much but he gives a lot of time to do the assignments. There are only three projects which aren't too bad and a final exam which was pretty difficult. So long as you turn the material in, you're guaranteed at least a B-. The only reason I got a B was because I didn't turn in some of the work. He also gives a lot supplemental material and chances for extra credit.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2025-12-24T16:18:19.482391Z"
+    },
+    {
+      "professor": "Erik Jones",
+      "course": "INST126",
+      "review": "The course covers a lot of concepts, and this professor does a good job at teaching them. All lectrues are recorded which was nice, plenty of office hours opportunities, and a manageable workload. Nice guy who did not try to stress his students out with excessive work and tests.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-30T00:05:16.734314Z"
+    },
+    {
+      "professor": "J Bern Jordan",
+      "course": "INST126",
+      "review": "Very chill. Class was easy and not much work.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2026-01-27T09:52:24.520169Z"
+    },
+    {
+      "professor": "Erik Jones",
+      "course": "INST126",
+      "review": "Legend, 10/10 and very helpful",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2026-01-31T03:20:27.432430Z"
+    },
+    {
+      "professor": "Giovanni Luca Ciampaglia",
+      "course": "INST126",
+      "review": "Very nice guy but so boring and impossible to stay focused in his class. Overall doesn't do a very good job at explaining new concepts, so the second half of the course got pretty difficult. The assignments were always harder than what was covered in class and definintely requires you to do some learning on your own. That being said, there were so many easy, small assignments for you to rack up points, and participation in the class activity was also a free A every time. Also you can get extra credit for turning in the assignments early, so as long as you do the work, you'll get an A.",
+      "rating": 2,
+      "expected_grade": "A+",
+      "created": "2026-02-03T16:46:17.678455Z"
+    },
+    {
+      "professor": "Chu Sern Joel Chan",
+      "course": "INST126",
+      "review": "Fairly easy class, especially if you took AP computer science. Consists of three-ish short projects with weekly homework. TAs are harsh graders, and there is a whole ton of resources. The subject matter is honestly a little boring and slow, but attendance is optional and all the notes/lectures are online.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2026-04-09T20:09:09.079713Z"
+    },
+    {
+      "professor": "Maria Krupenkin",
+      "course": "INST126",
+      "review": "Professor is solid and responsive, is interested in what you do outside of class if you let her know",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2026-04-10T18:08:18.438097Z"
+    }
+  ],
+  "department": "INST",
+  "course_number": "126",
+  "name": "INST126",
+  "title": "Introduction to Programming for Information Science",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> Minimum grade of C- in MATH115; or must have math eligibility of MATH140 or higher; or permission of instructor.\n<b>Restriction:</b> Must not have completed INST326; and must be in Information Science program.\nAn introduction to computer programming for students with very limited or no previous programming experience. Topics include fundamental programming concepts such as variables, data types, assignments, arrays, conditionals, loops, functions, and I/O operations.",
+  "is_recent": true,
+  "geneds": null
+}
