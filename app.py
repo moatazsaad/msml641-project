@@ -22,13 +22,12 @@ import sys
 from pathlib import Path
 
 import streamlit as st
-import streamlit.components.v1 as components
 
 sys.path.insert(0, str(Path(__file__).parent / "src"))
 
-from planetterp_client import get_grade_context
+from planetterp_client import get_grade_context, get_recent_professor_context
 from risk_rules import estimate_schedule_risk  # noqa: E402
-from course_profile_service import CourseProfileService  # noqa: E402
+from course_profile_service import CourseProfileService, POSITIVE_LABEL_THRESHOLD  # noqa: E402
 from distilbert_inference import SavedModelUnavailableError  # noqa: E402
 from simple_report_cli import build_course_inputs, get_low_evidence_courses  # noqa: E402
 from workload_labels import WORKLOAD_LABELS  # noqa: E402
@@ -405,14 +404,152 @@ st.markdown(
         padding-left: 0.9rem !important;
         padding-right: 0.9rem !important;
     }
+    .why-signals-card {
+        background: #ffffff;
+        border-radius: 16px;
+        overflow: hidden;
+    }
+    .why-signals-header {
+        background: #E60000;
+        color: #ffffff;
+        padding: 0.72rem 1.15rem;
+        font-size: 0.82rem;
+        font-weight: 850;
+        letter-spacing: 0.03em;
+    }
+    .why-signals-content {
+        padding-bottom: 0.85rem;
+    }
+
+    .course-evidence-block {
+        padding: 0.8rem 1.2rem 0.95rem 1.2rem;
+        border-bottom: 1px solid #ece6e0;
+    }
+    .course-evidence-block:last-child {
+        border-bottom: none;
+        padding-bottom: 1.35rem;
+    }
+    .course-evidence-head {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 0.8rem;
+        margin-bottom: 0.18rem;
+    }
+    .course-evidence-code {
+        color: #24201d;
+        font-size: 0.79rem;
+        font-weight: 850;
+        letter-spacing: 0.01em;
+    }
+
+    /* Evidence stays visible. Course-wide PlanetTerp link is a small text link. */
+    .course-evidence-excerpt-row {
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-between;
+        gap: 0.9rem;
+    }
+    .course-evidence-excerpt-row .evidence-quote {
+        flex: 1 1 auto;
+        min-width: 0;
+        margin: 0.32rem 0 0.42rem 0 !important;
+    }
+    .course-evidence-course-link {
+        flex: 0 0 auto;
+        margin-top: 0.42rem;
+        color: #d90000 !important;
+        font-size: 0.68rem;
+        font-weight: 800;
+        text-decoration: none !important;
+        white-space: nowrap;
+    }
+    .course-evidence-course-link:hover {
+        text-decoration: underline !important;
+    }
+
+    /* Professor context is OPEN by default and can be collapsed per course. */
+    .course-professor-details {
+        margin-top: 0.5rem;
+    }
+    .course-professor-summary {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 100%;
+        box-sizing: border-box;
+        list-style: none;
+        cursor: pointer;
+        color: #6f675f;
+        background: #faf8f5;
+        border: 1px solid #e6dfd8;
+        border-radius: 6px;
+        padding: 0.48rem 0.62rem;
+        font-size: 0.69rem;
+        font-weight: 800;
+        user-select: none;
+        outline: none;
+    }
+    .course-professor-summary::-webkit-details-marker {
+        display: none;
+    }
+    .course-professor-summary::after {
+        content: "⌃";
+        margin-left: auto;
+        color: #8f8780;
+        font-size: 0.72rem;
+        line-height: 1;
+    }
+    .course-professor-details:not([open]) .course-professor-summary::after {
+        content: "⌄";
+    }
+    .course-professor-summary:hover {
+        color: #24201d;
+        border-color: #d8b04a;
+        background: #fffaf0;
+    }
+    .course-professor-list {
+        margin: 0.34rem 0 0.08rem 0;
+    }
+    .course-professor-row {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 0.8rem;
+        padding: 0.52rem 0.65rem;
+        margin-top: 0.34rem;
+        background: #fffdf9;
+        border: 1px solid #e4ddd5;
+        border-radius: 6px;
+        color: inherit !important;
+        text-decoration: none !important;
+        transition: background 0.12s ease, border-color 0.12s ease;
+    }
+    .course-professor-row:hover {
+        background: #fff8df;
+        border-color: #d8b04a;
+        text-decoration: none !important;
+    }
+    .course-professor-name {
+        color: #24201d;
+        font-size: 0.76rem;
+        font-weight: 750;
+    }
+    .course-professor-rating {
+        color: #6f675f;
+        font-size: 0.75rem;
+        font-weight: 750;
+        white-space: nowrap;
+    }
     </style>
     """,
     unsafe_allow_html=True,
 )
 
 
-COURSE_SERVICE_CACHE_VERSION = 10
+COURSE_SERVICE_CACHE_VERSION = 22
 GRADE_CONTEXT_CACHE_VERSION = 3
+PROFESSOR_CONTEXT_CACHE_VERSION = 3
 
 @st.cache_resource
 def get_course_service(cache_version):
@@ -426,6 +563,24 @@ def load_grade_context(course_code, cache_version):
         return get_grade_context(course_code)
     except Exception:
         return None
+
+
+@st.cache_data(ttl=21600)
+def load_professor_context(
+    course_code,
+    start_year=2024,
+    end_year=2026,
+    cache_version=PROFESSOR_CONTEXT_CACHE_VERSION,
+):
+    """Fetch professor context without slowing every Streamlit rerun."""
+    try:
+        return get_recent_professor_context(
+            course_code,
+            start_year=start_year,
+            end_year=end_year,
+        )
+    except Exception:
+        return []
 
 
 
@@ -744,9 +899,9 @@ def submit_schedule():
         )
     )
 
-    if not 3 <= len(course_codes) <= 5:
+    if not 1 <= len(course_codes) <= 6:
         st.session_state["schedule_submit_error"] = (
-            "Enter between 3 and 5 courses for a schedule analysis."
+            "Enter between 1 and 6 courses for a schedule analysis."
         )
         return
 
@@ -806,44 +961,48 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-# Center the selector group. The arrow stays outside the white input box.
+# Center the SEARCH BAR itself on the page.
+# Use equal-width side columns so the red submit button does not shift the
+# visual center of the selector. The title/subtitle are already page-centered,
+# so they now sit exactly over the midpoint of the search box.
 outer_left, outer_center, outer_right = st.columns(
-    [0.7, 8.6, 0.7],
+    [0.2, 9.6, 0.2],
     gap="small",
 )
 
 with outer_center:
-    st.markdown(
-        '<div style="color:#bdb7b2;font-size:0.82rem;margin:0 0 0.45rem 0.15rem;">'
-        'Select your courses'
-        '</div>',
-        unsafe_allow_html=True,
-    )
-
-    # Use normal widgets here so removing a course (Backspace or X)
-    # immediately invalidates the old report and returns to the landing state.
-    picker_col, button_col = st.columns(
-        [9.25, 1.15],
+    left_balance, picker_col, button_col = st.columns(
+        [1.15, 9.25, 1.15],
         gap="medium",
         vertical_alignment="center",
     )
 
     with picker_col:
+        st.markdown(
+            '<div style="color:#bdb7b2;font-size:0.82rem;margin:0 0 0.45rem 0.15rem;">'
+            'Select your courses'
+            '</div>',
+            unsafe_allow_html=True,
+        )
+
         picked = st.multiselect(
             "Courses",
             options=course_options,
             placeholder="Search a course code",
             label_visibility="collapsed",
             help=(
-                "Select 3-5 courses. You can also type a course code "
+                "Select 1-6 courses. You can also type a course code "
                 "that is not already listed."
             ),
-            max_selections=5,
+            max_selections=6,
             accept_new_options=True,
             key="course_picker",
         )
 
     with button_col:
+        # Small top spacer aligns the circular button vertically with the search
+        # box rather than with the "Select your courses" label above it.
+        st.markdown('<div style="height:1.45rem;"></div>', unsafe_allow_html=True)
         st.button(
             "↑",
             type="primary",
@@ -851,25 +1010,6 @@ with outer_center:
             disabled=not picked,
             on_click=submit_schedule,
             key="analyze_schedule_button",
-        )
-
-    # Normal widgets rerun after a selection change. Put focus back into the
-    # multiselect so the user can keep typing the next course without clicking.
-    if picked and len(picked) < 5:
-        components.html(
-            """
-            <script>
-            setTimeout(() => {
-                const doc = window.parent.document;
-                const input = doc.querySelector(
-                    'div[data-testid="stMultiSelect"] input'
-                );
-                if (input) input.focus();
-            }, 80);
-            </script>
-            """,
-            height=0,
-            width=0,
         )
 
 entered_course_codes = list(
@@ -969,6 +1109,7 @@ if course_codes:
             "time_consuming": "TIME-CONSUMING",
         }
 
+
         for c in known_selected:
             course_code = c["course_code"]
             active_labels = [
@@ -991,10 +1132,12 @@ if course_codes:
                     '</span>'
                 )
             elif active_labels:
+                # COURSE WORKLOAD SIGNALS always shows the actual course-level
+                # labels produced by full-review model aggregation.
                 signal_items_html = "".join(
                     (
                         '<span class="signal-item">'
-                        f'<span class="tag">{display_names[label]}</span>'
+                        f'<span class="tag">{html.escape(display_names[label])}</span>'
                         f'<span class="signal-percent">'
                         f'{round(c.get(f"{label}_positive_rate", 0) * 100)}%'
                         '</span>'
@@ -1045,8 +1188,18 @@ if course_codes:
             unsafe_allow_html=True,
         )
 
-        # Why these signals? Group all supporting evidence under each course.
+        # WHY THESE SIGNALS?
+        # Evidence excerpts are always visible.
+        # Professor context is open by default per course and can be collapsed
+        # independently under each course.
         evidence_html = ""
+
+        evidence_names = {
+            "project_heavy": "PROJECT EVIDENCE",
+            "exam_heavy": "EXAM EVIDENCE",
+            "homework_heavy": "HOMEWORK EVIDENCE",
+            "time_consuming": "TIME EVIDENCE",
+        }
 
         for c in known_selected:
             course_code = c["course_code"]
@@ -1067,89 +1220,160 @@ if course_codes:
                 for item in clean_items
             )
 
-            # Active course signals keep their normal workload-label chips.
-            # A course with no dominant signal gets a muted "X EVIDENCE" chip
-            # so a single review is not mistaken for a course-level label.
-            course_labels = []
-            for item in clean_items[:2]:
-                for label in item.get("matched_labels") or []:
-                    if label not in course_labels:
-                        course_labels.append(label)
-
-            if representative_only:
-                has_fallback_excerpt = any(
-                    item.get("evidence_scope") == "representative_fallback"
-                    for item in clean_items
-                )
-
-                if has_fallback_excerpt:
-                    tag_html = '<span class="tag muted">REPRESENTATIVE REVIEW</span>'
-                else:
-                    representative_names = {
-                        "project_heavy": "PROJECT EVIDENCE",
-                        "exam_heavy": "EXAM EVIDENCE",
-                        "homework_heavy": "HOMEWORK EVIDENCE",
-                        "time_consuming": "TIME EVIDENCE",
-                    }
-                    tag_html = "".join(
-                        f'<span class="tag muted">{html.escape(representative_names.get(label, "WORKLOAD EVIDENCE"))}</span>'
-                        for label in course_labels
-                    )
-            else:
-                tag_html = "".join(
-                    f'<span class="tag">{html.escape(label.replace("_", "-").upper())}</span>'
-                    for label in course_labels
-                )
-
             source_url = clean_items[0].get(
                 "source_url",
                 f"https://planetterp.com/course/{course_code}/reviews",
             )
             safe_url = html.escape(source_url, quote=True)
 
-            evidence_html += (
-                '<div class="evidence-meta">'
-                '<div>'
-                f'<span class="signal-course">{html.escape(course_code)}</span>'
-                f'{tag_html}'
-                '</div>'
-                f'<a class="evidence-link" href="{safe_url}" '
-                'target="_blank" rel="noopener noreferrer">'
-                'PlanetTerp ↗'
-                '</a>'
-                '</div>'
+            professors = load_professor_context(
+                course_code,
+                start_year=2024,
+                end_year=2026,
+                cache_version=PROFESSOR_CONTEXT_CACHE_VERSION,
             )
 
-            # Show supporting excerpts beneath the single course heading.
-            # Representative-only courses intentionally show just one excerpt.
-            items_to_show = clean_items[:1] if representative_only else clean_items[:2]
-
-            for item in items_to_show:
-                excerpt = item.get("excerpt", "")
-
-                evidence_html += (
-                    '<div class="evidence-quote">'
-                    f'“{html.escape(excerpt)}”'
-                    '</div>'
-                )
+            # Representative/below-threshold labels remain only where needed.
+            tag_html = ""
+            representative_note_html = ""
 
             if representative_only:
-                evidence_html += (
-                    '<div class="signal-detail" '
-                    'style="margin:-0.35rem 1.2rem 0.9rem 1.2rem;'
-                    'color:#8a8a8a;font-size:0.72rem;">'
-                    'Representative review excerpt only · no workload category '
-                    'crossed the 30% course threshold, so this does not affect the '
-                    'course label or schedule risk.'
+                course_labels = []
+                for item in clean_items:
+                    for label in item.get("matched_labels") or []:
+                        if label not in course_labels:
+                            course_labels.append(label)
+
+                has_fallback_excerpt = any(
+                    item.get("evidence_scope") == "representative_fallback"
+                    for item in clean_items
+                )
+
+                below_threshold_labels = []
+
+                if not has_fallback_excerpt:
+                    below_threshold_labels = [
+                        label
+                        for label in course_labels
+                        if (
+                            0.0
+                            < float(c.get(f"{label}_positive_rate", 0.0))
+                            < POSITIVE_LABEL_THRESHOLD
+                        )
+                    ]
+
+                if below_threshold_labels:
+                    tag_html = "".join(
+                        (
+                            '<span class="tag muted">'
+                            f'{html.escape(evidence_names.get(label, "WORKLOAD EVIDENCE"))} '
+                            '· BELOW 30%'
+                            '</span>'
+                        )
+                        for label in below_threshold_labels
+                    )
+                    representative_note_html = (
+                        '<div class="signal-detail" '
+                        'style="margin:-0.12rem 0 0.28rem 0;'
+                        'color:#8a8a8a;font-size:0.72rem;">'
+                        'Evidence found, but this workload type did not reach the '
+                        '30% course threshold. No risk impact.'
+                        '</div>'
+                    )
+                else:
+                    tag_html = '<span class="tag muted">REPRESENTATIVE REVIEW</span>'
+                    representative_note_html = (
+                        '<div class="signal-detail" '
+                        'style="margin:-0.12rem 0 0.28rem 0;'
+                        'color:#8a8a8a;font-size:0.72rem;">'
+                        'Representative excerpt only · no workload category reached '
+                        'the 30% course threshold. No risk impact.'
+                        '</div>'
+                    )
+
+            quote_items = (
+                clean_items[:1]
+                if representative_only
+                else clean_items
+            )
+
+            quotes_html = ""
+
+            for index, item in enumerate(quote_items):
+                excerpt = html.escape(item.get("excerpt", ""))
+
+                review_link = (
+                    f'<a class="course-evidence-course-link" href="{safe_url}" '
+                    'target="_blank" rel="noopener noreferrer">Course reviews ↗</a>'
+                    if index == 0
+                    else ""
+                )
+
+                quotes_html += (
+                    '<div class="course-evidence-excerpt-row">'
+                    '<div class="evidence-quote">'
+                    f'“{excerpt}”'
+                    '</div>'
+                    f'{review_link}'
                     '</div>'
                 )
+
+            professor_rows_html = ""
+
+            for professor in professors:
+                professor_name = html.escape(professor["name"])
+                professor_url = html.escape(
+                    professor["planetterp_url"],
+                    quote=True,
+                )
+                professor_rating = professor["average_rating"]
+
+                professor_rows_html += (
+                    f'<a class="course-professor-row" href="{professor_url}" '
+                    'target="_blank" rel="noopener noreferrer">'
+                    f'<span class="course-professor-name">{professor_name}</span>'
+                    f'<span class="course-professor-rating">{professor_rating:.2f} / 5</span>'
+                    '</a>'
+                )
+
+            professor_context_html = ""
+
+            if professor_rows_html:
+                professor_context_html = (
+                    '<details class="course-professor-details" open="open">'
+                    '<summary class="course-professor-summary">'
+                    'Professor context'
+                    '</summary>'
+                    '<div class="course-professor-list">'
+                    f'{professor_rows_html}'
+                    '</div>'
+                    '</details>'
+                )
+
+            evidence_html += (
+                '<div class="course-evidence-block">'
+                '<div class="course-evidence-head">'
+                '<span>'
+                f'<span class="course-evidence-code">{html.escape(course_code)}</span>'
+                f'{tag_html}'
+                '</span>'
+                '</div>'
+                f'{quotes_html}'
+                f'{representative_note_html}'
+                f'{professor_context_html}'
+                '</div>'
+            )
 
         if evidence_html:
             st.markdown(
                 (
-                    '<div class="card">'
-                    '<div class="card-header"><span>WHY THESE SIGNALS?</span></div>'
+                    '<div class="why-signals-card">'
+                    '<div class="why-signals-header">'
+                    '<span>WHY THESE SIGNALS?</span>'
+                    '</div>'
+                    '<div class="why-signals-content">'
                     f'{evidence_html}'
+                    '</div>'
                     '</div>'
                 ),
                 unsafe_allow_html=True,
@@ -1204,6 +1428,7 @@ if course_codes:
                         y=grade_values,
                         text=[f"{value:.0f}%" for value in grade_values],
                         textposition="outside",
+                        marker_color="#d8b04a",
                         hovertemplate="<b>%{x}</b><br>%{y:.1f}%<extra></extra>",
                     )
                 )
@@ -1250,7 +1475,7 @@ if course_codes:
 elif not entered_course_codes:
     st.markdown(
         '<div style="text-align:center;color:#aaa;font-size:0.82rem;margin-top:0.55rem;">'
-        'Pick at least one course to get a report.'
+        'Pick 1-6 courses to get a report.'
         '</div>',
         unsafe_allow_html=True,
     )

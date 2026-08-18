@@ -1,0 +1,333 @@
+{
+  "average_gpa": 2.967725988700565,
+  "professors": [
+    "William Hawkins",
+    "Gang Qu",
+    "Tudor Dumitras",
+    "Pramod Govindan",
+    "Mohammad Nayeem Teli",
+    "Wesley Lawson",
+    "Tudor Dumitras",
+    "Tudor Dumitras",
+    "Tudor Dumitras",
+    "Tudor Dumitras",
+    "Tudor Dumitras",
+    "Tudor Dumitras",
+    "Tudor Dumitras",
+    "Tudor Dumitras"
+  ],
+  "reviews": [
+    {
+      "professor": "Gang Qu",
+      "course": "ENEE140",
+      "review": "Great professor! I feel like he really wants you to work hard and have a deep understanding of the material. He focuses on you learning how to problem solve. 140 was an easy class but the project can be very time consuming. \n\r\nHe also taught 150 and the difficulty level was definitely increased tenfold. Very long projects and most exams were pretty difficult. You could tell by the end of the semester some students were pretty stressed out, but that is expected. He basically tells you the main things that will be on the exams but to expect pretty much everything he has gone over. You really need to manage your time wisely. Most questions on the exams were ones that I had not yet tried to implement so you need to be on your toes and prepared to think and problem solve! \n\r\nOverall, if you put in the time and effort you should do well and also learn some too!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2016-09-11T19:10:00Z"
+    },
+    {
+      "professor": "Gang Qu",
+      "course": "ENEE140",
+      "review": "Pretty average professor, nothing extraordinary or terribly bad about his teaching style. There is an accent here, but I think it's pretty understandable. Pay attention, maybe he'll tell you the story of how he told his son he couldn't play basketball.\n\r\nFor 140, he had our class get a little paper booklet of the all the notes for the entire class at the beginning of the semester for like $5. If you've had any programming experience before this class, 140 will probably be pretty easy. If not, consult that booklet all the time. Seriously, it has pretty much everything need in it.\n\r\nFor 244, I thought he was a pretty good teacher. Better than Silio at actually teaching, and I'm assuming better than Nakajima just based on the horror stories I've heard about his 244 class. When I took it, he fit 3 exams into the semester as well as a final exam, but I don't think he usually does that. Our final and our third exam had a lot of overlap, because not many people did well on that third exam. The end of his exams always have extra credit questions, but they're pretty tough so don't bank on these for points.\n\n\r\nQu grades on a curve..kind of. He doesn't like when you have hard cut offs and someone is like 0.01 away from a letter grade, so he clusters grades near enough to eachother to be certain letter gradse, and decides the cutoff when there is a big gap in grades. For example, 93, 92.5, 94 might all be A's, but if the next grade is 88 that could be a B. ",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2015-11-13T12:57:00Z"
+    },
+    {
+      "professor": "Gang Qu",
+      "course": "ENEE140",
+      "review": "He seems like a nice guy, but the class is very hard if you have never done any programming before. The projects take a ton of time and effort so make sure you start them early. This class was way too much work for a 2 credit class but I don't necessarily blame that on Dr. Qu.",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2015-11-02T15:13:00Z"
+    },
+    {
+      "professor": "Gang Qu",
+      "course": "ENEE140",
+      "review": "Tough class, but he is an average teacher. The class is dependant on the TA you have, so if you don't feel like you have a good one, try to change it ASAP. His lecture notes are good, but I would have liked to get more out of discussion. ",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2011-12-24T16:53:00Z"
+    },
+    {
+      "professor": "Gang Qu",
+      "course": "ENEE140",
+      "review": "Qu's pretty good and he's pretty generous with grades. But his projects are so hard. I'm warning you about those projects; they are hard. ",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2011-05-23T21:38:00Z"
+    },
+    {
+      "professor": "Gang Qu",
+      "course": "ENEE140",
+      "review": "Nice professor. Hard class if you've NEVER done ANY programming ever before. I felt that there is more work than credits though. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2009-12-23T20:31:00Z"
+    },
+    {
+      "professor": "Gang Qu",
+      "course": "ENEE140",
+      "review": "He wasn't that bad of a professor. I studied C programming since I was in 8th grade, so this class was honestly too easy. I wish he would have taught people how to debug though.\n\r\nBut, I guess, if you have no prior experience, you are in for a long semester. It was pretty easy for me.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2009-11-12T16:44:00Z"
+    },
+    {
+      "professor": "Gang Qu",
+      "course": "ENEE140",
+      "review": "Very Very difficult class. Only a two credit class but takes a lot of time and it is very difficult without previous programming experience. Professor is difficult to understand, but very lenient and a very nice guy. Prepare for a long semester tho if you are taking this class.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2008-12-08T15:09:00Z"
+    },
+    {
+      "professor": "Charles Silio",
+      "course": "ENEE140",
+      "review": "You can't follow Silio's lectures!  He talks so quietly that if you dont sit within 10 feet on him you cant hear.  He strays off topic constantly,  and isnt too structured in his assignments which causes a lot of confusion.\n\r\nOverall, take 140 with Silio but dont go to lectures, they're incredibly pointless.  He gives you everything you need to know on elms handouts and reads straight from them in lecture anyways.  Good class, bad professor\n\n",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2010-12-17T22:22:00Z"
+    },
+    {
+      "professor": "Charles Silio",
+      "course": "ENEE140",
+      "review": "OMG....he is really not good at teaching.he is always talking about his personal experience during class and cover the material by just reading the slides.his class will really makes you fall asleep because its toally not helpful. i really dont recommend him. you can study the material by reading his notes and maybe that will be much more efficient.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2009-04-14T21:53:00Z"
+    },
+    {
+      "professor": "Tudor Dumitras",
+      "course": "ENEE140",
+      "review": "Tudor's a pretty chill guy and a good teacher. He tries to structure his lectures around the concepts students find most difficult from assigned readings which helps. The homework he assigns for this class is fairly straightforward and ties in directly with projects he assigns for this class. His projects aren't too hard, but they take time.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2018-12-21T02:35:36Z"
+    },
+    {
+      "professor": "Gang Qu",
+      "course": "ENEE140",
+      "review": "This is a really poorly structured and disorganized course. His lectures were extremely basic and off sync from the labs by two or so weeks for most of the semester. By the time we finished the first project, Qu had just started covering the required material in lecture. The lab manual is also sometimes obtusely worded, so be wary of that. This class is highly TA dependent, so be sure to attend office hours often and ask questions frequently. Do your projects early. I learned almost all of the material in the class by reading a textbook (Stephen Prata's C Primer Plus) and attending office hours. This course did not feel like 2 credits of work, especially for what was intended to be an introduction to programming. Having experience with C or another programming language would have been incredibly helpful.",
+      "rating": 2,
+      "expected_grade": "A+",
+      "created": "2019-12-17T22:47:13Z"
+    },
+    {
+      "professor": "Tudor Dumitras",
+      "course": "ENEE140",
+      "review": "Professor Tudor was very easy going and very approachable. I wish his lectures were structured a little better. The projects are ridiculously tedious for a two credit class, but I feel as it did prepare me for 150. ",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2020-05-30T05:04:40Z"
+    },
+    {
+      "professor": "Gang Qu",
+      "course": "ENEE140",
+      "review": "Dr. Qu was just ok at lecturing and instructing this course. He's decently helpful in office hours and very nice once you get him talking, but his lectures can be pretty dry. I took this class with no prior programming experience at all and found it challenging, but not impossible. The homework was pretty fair, and the projects were sometimes tough so I basically lived in office hours. The TAs we had during my semester in this class were phenomenal, so sometimes they really do make or break the course. This class should be more than 2 credits given the work load, but I don't blame Qu for that (the EE department kind of sucks in general...) ",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2020-11-02T20:21:55Z"
+    },
+    {
+      "professor": "Tudor Dumitras",
+      "course": "ENEE140",
+      "review": "He\u2019s a pretty good prof, but his lectures are a little disorganized. If you ask questions he\u2019s good at clarifying though. He was consistently 5-10 minutes late and would hold us 10-15 minutes past the end of class, but this is likely just a online-learning thing. Overall nice Professor and not too hard of a class!",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2020-11-24T14:44:38Z"
+    },
+    {
+      "professor": "Mohammad Nayeem Teli",
+      "course": "ENEE140",
+      "review": "The course was straightforward, and Dr. Teli was an effective lecturer and wrote fair exams and projects. For an introductory level class his explanations were often a bit overcomplicated for some concepts, and some aspects that are more difficult for people learning to program he didn't cover in as much depth as would have been appreciated. That said, the class was relatively easy, and it was easy to do well if you asked for TA help when necessary. ",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2021-12-23T16:04:29Z"
+    },
+    {
+      "professor": "Mohammad Nayeem Teli",
+      "course": "ENEE140",
+      "review": "Dr. Teli is a good professor for enee140. Would go over concepts with many, many example codes and always tried to make sure the class was following his lectures. After all of his examples, concepts were usually pretty clear to me, but he was always willing to take questions. Plenty of time to complete projects, which were 50% of the grade. Usually a quiz every other week. He would give worksheets to prepare for the quizzes, but would not provide answers, you had to go to the discussion for those. I found that a little annoying but I went to most of the discussions anyway so not a huge problem. There was one midterm and a final. He gave previous tests, with answers, that were very similar to the tests given so studying was fairly easy. Overall a pretty good professor, not exceptional, but I would still highly recommend for 140.  ",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2021-12-25T14:50:51Z"
+    },
+    {
+      "professor": "Tudor Dumitras",
+      "course": "ENEE140",
+      "review": "Good lectures, always helpful in answering questions and explaining topics. Projects were really hard and took a long time but were very well thought out and really got right to the heart of the concepts while also introducing other topics and giving a taste of how programming algorithms are actually used in the real world. Overall the class was a really good introduction to c and programming more generally and did great at preparing us for 150. Some people say the class was a bit too hard for people who have no prior programming experiences, but I think its about the same difficulty as other introductory programming classes .",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-12-05T19:41:15.386546Z"
+    },
+    {
+      "professor": "Tudor Dumitras",
+      "course": "ENEE140",
+      "review": "ENEE140 is supposedly an \"intro\" class but I did not find this the case at all. There is a lot to learn and it doesn't feel like a 2 credit class at all. There are weekly homework, around 8 quizzes in the semester, and 3 projects. The homework are doable, but if you do not have prior coding experience, USE THE TA'S! They are very helpful. I personally did not use professor Tudor too often, as the TA's were very reliable for me. Make sure to make friends in the class as sometimes homeworks and projects become a bit much as the semester picks up and it is very useful to have people you can ask for help when the TA's are not available. The lectures went smoother as the semester went on, but at the beginning they were often confusing and went over lecture time. START EARLY on the projects. They are normally quite a lot of work. There are project help sessions the Friday before the project is due. These sessions last from 8am to 5pm. There are also weekly extra credit coding assignments and every project has extra credit on it. If you put in effort, you will see results. Just make sure to start things early and do not fall behind on the content.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2022-12-06T04:25:57.100308Z"
+    },
+    {
+      "professor": "Tudor Dumitras",
+      "course": "ENEE140",
+      "review": "For a 2 credit class, ENEE140 is a lot of work. Projects are very challenging and time consuming, as I found myself relying on TA's a lot despite having worked with C before. Projects are rewarding in the end, and I def learned something from them despite their rigorous nature. Lectures were pretty boring, as they only felt somewhat relevant and really only provided good information about half the time. Exams are fair and professor provides a lot of past exams (and answers to study). Use your TA's heavily and start projects early and you will be fine.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2022-12-13T21:43:07.824648Z"
+    },
+    {
+      "professor": "Tudor Dumitras",
+      "course": "ENEE140",
+      "review": "For a two-credit course, the projects take way too much time. Late to class often, and sometimes forgets to post coursework.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2023-10-24T14:02:56.288212Z"
+    },
+    {
+      "professor": "Tudor Dumitras",
+      "course": "ENEE140",
+      "review": "Projects take too much time for a 2 credit course. His lectures are pointless, I went to 3 or 4 lectures and each time I regretted it. If you read the book and do the projects you'll be fine on the tests.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2023-12-23T14:47:46.373498Z"
+    },
+    {
+      "professor": "Tudor Dumitras",
+      "course": "ENEE140",
+      "review": "I feel like while the class is a bit harder, the reasoning behind it makes sense. It definitely prepared me for the upper level ENEE courses, where the workload definitely ramps up. Tudor and the TAs did a great job, and I learned a lot from that course. Would take it again, had a great time in that class.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-03-18T19:55:26.307750Z"
+    },
+    {
+      "professor": "Tudor Dumitras",
+      "course": "ENEE140",
+      "review": "TAs are the best resource in this class. I went to some office hours and most of the discussions as they were helpful for projects and exams. The weekly homeworks and reading quizzes were easy and didn't take much time. Projects are hard and take a long time, but they prepare you for the future workload. My TA was very good at explaining more difficult parts of the projects when I went in for help. There are only two exams (midterm and final) which were both straightforward and pretty easy. Lots of extra credit opportunities in this class for those that need it.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-14T19:33:08.778218Z"
+    },
+    {
+      "professor": "Tudor Dumitras",
+      "course": "ENEE140",
+      "review": "This class should be 3 credits, I'm not sure why the department hasn't made it so already. His lectures aren't the most helpful, anything you learn in class is straight from the slides, which are online, or can be learned with online resources. The TA's are the biggest help by FAR, and help explain concepts much more. If you can do the homework, and go to office hours/discussions, its not that bad to do projects, People said the midterm was rough, but personally I just did the previous ones and did pretty well on it (91). The extra credit for projects is very helpful, if you do it the final is worth like nothing. He's a less than average prof, but the TAs all make up for his teaching. Definitely would find a friend who has already taken the course, too.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-05-23T15:58:40.120776Z"
+    },
+    {
+      "professor": "Tudor Dumitras",
+      "course": "ENEE140",
+      "review": "Good professor, willing to help if you show up. I enjoy his slides and formatting of lecture. All his exams are open note, you can have anything except electronics, which is super helpful. The textbook is so hard to read. Overall good guy, but the projects are insane, not worth a 2 credit course.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-12-03T17:25:56.799158Z"
+    },
+    {
+      "professor": "Tudor Dumitras",
+      "course": "ENEE140",
+      "review": "He's named after a watch brand which is sick, but it doesn't translate to how good his teaching is. I had no prior coding experience (I was cooked from the start) which def made the class 100x harder. However, the TAs are the best for the class, as they have taken the class, and will help you with anything you need. As for the lecture, it's only good if you have programmed before. READ TEXTBOOK LOL.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2024-12-04T19:11:37.920781Z"
+    },
+    {
+      "professor": "Tudor Dumitras",
+      "course": "ENEE140",
+      "review": "Projects are hard but Tudor does explain stuff well. Definitely read the textbook.",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2024-12-11T03:58:06.405428Z"
+    },
+    {
+      "professor": "Tudor Dumitras",
+      "course": "ENEE140",
+      "review": "Dude is a terrible professor. I don\u2019t like his brain works. The type of exam questions that he and his TAs comes up with don\u2019t make any sense and can be hard for no reason. Like there\u2019s nothing holding them back. I\u2019m glad I passed his class with a decent grade but that was purely because me going to office hours and taking advantage of the extra credit on the projects. I worry about 150 now.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2024-12-17T09:33:01.818616Z"
+    },
+    {
+      "professor": "Nadine Combatir",
+      "course": "ENEE140",
+      "review": "My TA for ENEE140. Very friendly, personable, and always willing to put in the extra effort for help. I haven't seen her in other classes, but her character most likely carries over. Would recommend in a heartbeat.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-01-09T21:33:04.357857Z"
+    },
+    {
+      "professor": "Tudor Dumitras",
+      "course": "ENEE140",
+      "review": "Professional and just a genuinely pretty nice/cool person. Tests/quizzes/midterms/projects were fair in my opinion. As far as learning C goes, most of it will come from your TA and textbook/self-learning, but the reinforcement in lecture provided some solid examples and explanations sometimes. Do the extra credit, start projects early, and communicate with TAs and you'll be just fine. Only late sometimes, it wasn't as bad as others told me it would be. Although, he does have little patience for stupid questions and doesn't always explain things the best.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2025-01-09T21:36:30.312504Z"
+    },
+    {
+      "professor": "Tudor Dumitras",
+      "course": "ENEE140",
+      "review": "He is a good person. He understands the content well and will answer any question you have on it. Other than missing the first lecture with no announcement he never truly annoyed me. His lectures were boring and thank god I have a lot of experience writing code or I probably would have spent 3x as long on the homework's and projects. The class is fair, now there are only two projects, both of which were quite difficult. Start the projects early and read the textbook and you should be ok. I wish I had him for 150 if I'm honest.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2025-03-25T03:50:40.291043Z"
+    },
+    {
+      "professor": "Tudor Dumitras",
+      "course": "ENEE140",
+      "review": "One of my favorite professors so far. He is very into this class and has given you all the resources you need to succeed. If you go to discussion your TA will likely give you most of the code you need for all the projects. Attending class isn't strictly necessary, but being there while he goes over gives you something better that the slides can't, and he is very happy and helpful when answering any questions the class may have. Definitely would recommend taking him for 140.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-06T18:29:37.311321Z"
+    },
+    {
+      "professor": "Tudor Dumitras",
+      "course": "ENEE140",
+      "review": "Okay can't even lie he's not the best prof, but the TA's for this class are goated and if you have a good TA then you're chillling",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2025-12-14T01:07:22.653225Z"
+    },
+    {
+      "professor": "Tudor Dumitras",
+      "course": "ENEE140",
+      "review": "In short, Dr. Dumitras is a good professor. I personally think his lectures are pretty bad, but his slides are pretty good. His workload is fair. This class really should be a 3-credit class for the workload, but I think that's out of his control. His TAs are amazing! Shoutout to Akash.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-12-22T19:58:03.378454Z"
+    },
+    {
+      "professor": "Tudor Dumitras",
+      "course": "ENEE140",
+      "review": "Good class! Was very easy, especially if you already have coding experience, and even if you do not, Dr. Dumitras really tries to go slow and make sure you understand the material. I felt the exams were quite easy and that you are literally given everything you need to succeed. I mean you could bring your notebook and a copy of the physical book in for exams if you needed to. The projects were also not that bad, just sometimes a bit difficult to wrap your head around what they are asking you to do, but when you figure it out, it gets quite easy. The TAs are also extremely helpful! I went to all my discussions, and it really benefitted me, so I would recommend to not skip those.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2026-01-03T20:38:21.090755Z"
+    },
+    {
+      "professor": "Tudor Dumitras",
+      "course": "ENEE140",
+      "review": "I always wanted a formal introduction to programming before I started to deepen my understanding. This was exactly what I wanted. \r\n\r\nAs an EE, I had to take this class before ENEE150 since I didn\u2019t take any AP CS courses. It was slow paced enough that we could get a very good understanding of each topic. \r\n\r\nI did most of my learning in the discussion, where we went over the HWs, the current and future content for the class, the projects, the quizzes, basically anything that was relevant. The projects, while at first difficult to grasp, weren\u2019t that bad. They may take multiple hours spread over the ~3 weeks you have for them, but you should be able to get them done with some thinking and a little help from your TA. Tudor himself was good, willing to answer questions, and knew his stuff, but most of your interactions will be with your TA. Grades aren't based on a specific distribution, but instead Tudor ranks the students\u2019 grades and makes a letter grade cut (i.e. the cut between A and A-) when the difference between consecutive students' grades is large. Many previous midterm and final exams were provided to review before the exams, and these exams were open-note, with no electronics allowed. There were 2 project fixing sessions, one for each project, when all day TAs would be in the discussion room and help answer questions about the project.\r\n\r\nNote that this class is 2 credits but it kinda feels like a 3 credit class. Overall really enjoyed this class",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2026-01-05T20:34:53.424197Z"
+    },
+    {
+      "professor": "Tudor Dumitras",
+      "course": "ENEE140",
+      "review": "Lectures were very boring, all he did was read off of slides the entire time. Honestly if you have a background in coding the lectures are kind of pointless. Your TA will be the person you actually learn from, so it's important to go to discussion. Exams are easy and open note and textbook. Homeworks were pretty easy and didn't take long. I thought projects, especially the second one were pretty difficult. I feel like if I didn't take APCSA in high school I would have struggled in this class. If you do your work and do pretty good on exams its an easy A.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2026-02-11T18:20:49.691357Z"
+    }
+  ],
+  "department": "ENEE",
+  "course_number": "140",
+  "name": "ENEE140",
+  "title": "Introduction to Programming Concepts for Engineers",
+  "credits": 2,
+  "description": "<b>Prerequisite:</b> Permission of ENGR-Electrical & Computer Engineering department.\n<b>Restriction:</b> Must be in Engineering: Electrical program; or must be in Engineering: Materials Science program.\nIntroduction to the programming environment: editing, compiling, UNIX, data types and variable scope; program selection, formatted/unformatted input/output, repetition, functions, arrays and strings.",
+  "is_recent": true,
+  "geneds": null
+}

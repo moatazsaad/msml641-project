@@ -4254,6 +4254,14 @@
       "rating": 5,
       "expected_grade": "A",
       "created": "2026-03-11T16:20:04.849814Z"
+    },
+    {
+      "professor": "Parsa Hosseini",
+      "course": "CMSC250",
+      "review": "During discussion he kind of works like he's working a retail job. Very similar to any other TA that just wants to get by. He doesn't respond to emails unless you speak to him during the discussion. Mid TA overall.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2026-04-12T06:29:55.614962Z"
     }
   ],
   "department": "CMSC",

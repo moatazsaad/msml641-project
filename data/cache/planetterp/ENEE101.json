@@ -1,0 +1,261 @@
+{
+  "average_gpa": 3.8484615384615375,
+  "professors": [
+    "Romel Gomez",
+    "Julius Goldhar",
+    "Ramalingam Chellappa",
+    "Joseph JaJa",
+    "Romel Gomez",
+    "Romel Gomez",
+    "Romel Gomez",
+    "Julius Goldhar",
+    "Romel Gomez",
+    "Julius Goldhar",
+    "Carol Espy-Wilson",
+    "Andre Tits",
+    "Emma Griffith",
+    "Andre Tits"
+  ],
+  "reviews": [
+    {
+      "professor": "John Baur",
+      "course": "ENEE101",
+      "review": "Good ta",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2020-02-28T02:59:51Z"
+    },
+    {
+      "professor": "Xiangyu Mao",
+      "course": "ENEE101",
+      "review": "Patient TA and generous when grading",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2020-05-19T20:39:22Z"
+    },
+    {
+      "professor": "Romel Gomez",
+      "course": "ENEE101",
+      "review": "This class was very easy, largely in part to my TA though. Not sure how much grade is affected by TA but I am certain that effort required is dependent on your TA. Some of the labs can be very tedious and feel kind of pointless but I found if you do them at least for completion you'll be fine. The class structure is cool with the Ted Talk style lectures, he is pretty funny when he lectures though. Very nice guy and there are lots of points to compensate for any late or undone assignments.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2021-12-29T00:42:37Z"
+    },
+    {
+      "professor": "Romel Gomez",
+      "course": "ENEE101",
+      "review": "Class itself is pretty easy. Some labs can be tricky but the TA's get you through it. I enjoyed it but many people I know switched to CS because they didn't enjoy this class. Our TA was honestly the goat, gave us advice on other things outside of class as well. The friday lectures were actually mad annoying and people mainly did other work during and eventually just stopped going. Gomez came in once during lab and honestly just made things harder for us. If you make friends in class it's kind of fun.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2022-01-18T01:44:39Z"
+    },
+    {
+      "professor": "Romel Gomez",
+      "course": "ENEE101",
+      "review": "Although the class was run by my TA and I didn't see Gomez often, I liked him when I did. He took an interest in what we were doing, told stories, and gave good feedback. Reccomend.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2022-12-01T01:16:46.633943Z"
+    },
+    {
+      "professor": "Matt Finnan",
+      "course": "ENEE101",
+      "review": "Good TA. Wants you to understand and enjoy the class",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-12-05T14:05:22.615020Z"
+    },
+    {
+      "professor": "Romel Gomez",
+      "course": "ENEE101",
+      "review": "This class was mostly guest speaker lectures and a lot of labs. Both the labs and lectures were hit or miss, some weeks being better than others, but the class was very easy and mostly serves its purpose of being an introduction to interesting ECE topics. The lectures from Dr. Gomez were usually the best with live demonstrations and engaging delivery of the topics, and my TA who ran the lab was really chill and my entire section liked him.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2022-12-05T19:29:44.832530Z"
+    },
+    {
+      "professor": "Romel Gomez",
+      "course": "ENEE101",
+      "review": "This is a very lab-focused course, and grading is dependent on your TA. That being said, the labs aren't very hard, but each lab may not interest everyone and you'd sometimes just want to leave early. Unfortunately, I somehow faced some sort of hardware problem almost with every lab, which didn't help the experience. The lectures were hit-or-miss too; it came to the point where some of the guest speakers Dr. Gomez was bringing in were legitimately making people fall asleep. Some of them were definitely more entertaining and engaging, including Dr. Gomez himself.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2022-12-18T23:56:24.613601Z"
+    },
+    {
+      "professor": "Romel Gomez",
+      "course": "ENEE101",
+      "review": "Honestly ENEE 101 is such a TA-driven class that I don\u2019t even really feel qualified to give him a review. Almost all of the lectures are guest lectures and the majority of time in this class is spent in lab so you don\u2019t really see him that often. However, the lectures he did give were pretty good. Honestly for this class you really just have to hope you get a good TA and go to office hours. There\u2019s no curve because it\u2019s pretty easy to do well as long as you take the time to do all of your labs, pre-labs, and reflection paragraphs. There are no exams or anything so it\u2019s pretty low-stress overall. Don\u2019t take an 8am section.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2023-01-12T05:11:49.115278Z"
+    },
+    {
+      "professor": "Vincent Pham",
+      "course": "ENEE101",
+      "review": "Goat TA. Goes the extra mile to help out during office hours and makes the intro class to EE and CompE very fun and entertaining!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-09-24T01:22:15.488441Z"
+    },
+    {
+      "professor": "Vincent Pham",
+      "course": "ENEE101",
+      "review": "Amazing TA, helps so much during class and makes sure everybody has the opportunity to understand the subject matter and how to complete the assignment. Also just a really cool person to talk to.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2023-09-29T16:07:30.209138Z"
+    },
+    {
+      "professor": "Vincent Pham",
+      "course": "ENEE101",
+      "review": "Stupendous TA. Very nice and actually goes over the lab content. He is a very relaxed grader, and is always keen to give extra credit.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-10-02T14:25:15.233452Z"
+    },
+    {
+      "professor": "Vincent Pham",
+      "course": "ENEE101",
+      "review": "Goated TA. Goes over the lab during lab (that sounds like a given but apparently it's not). Plays chill lofi beats while you work. Also just very chill/entertaining.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2023-10-02T14:25:41.405585Z"
+    },
+    {
+      "professor": "Vincent Pham",
+      "course": "ENEE101",
+      "review": "W TA, best TA there is",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-11-01T15:15:19.171277Z"
+    },
+    {
+      "professor": "Joseph Jacob",
+      "course": "ENEE101",
+      "review": "Joseph is such a fantastic TA! He really knows what he is talking about and explains concepts very well. I believe he is also a very wealthy man because he gave me a dollar for actively participating in the class. I say I am expecting a W, but what I really mean is that I am expecting a W grade from him! God bless you Joseph, what a legendary TA",
+      "rating": 5,
+      "expected_grade": "W",
+      "created": "2023-11-10T19:44:38.108320Z"
+    },
+    {
+      "professor": "Ali Siddiqi",
+      "course": "ENEE101",
+      "review": "Ali has got to be one of the best TA's of all time. Not only does he know what he is doing, he does it absolutely well! Sometimes I go to his office hours because he is such a great teacher. Without him, I wouldn't know what my grade is in this class. If I were to give him a rotten tomatoes score, it would be a 200% because he goes above and beyond to help his students out!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-11-10T19:47:19.339166Z"
+    },
+    {
+      "professor": "Julius Goldhar",
+      "course": "ENEE101",
+      "review": "This class is pretty much a nothing class. You will do two labs every week with little difficulty. Many of the topics in the labs you will do involve MATLAB, Arduino, Python, and circuiting with breadboards. If you have any prior experience with basic engineering concepts, it will be a breeze for you. The TAs are very nice and will explain the labs to you, answer questions, and walk you through the more confusing ones. Most, if not all of the labs can be completed in the given two-hour period. Every Friday, you will have a mandatory hour-long lecture by different professors every other week regarding a different topic that you will cover in the following labs. Attendance will be 20% of your grade where you just answer a password-locked quiz saying you were there and filling out a paragraph of what you learned. There will also be an extra credit paper you can submit as an optional final to make up any lost credit. You won't really talk to Professor Goldhar at all, but he will pass by the lab room to make sure your jackets and backpacks aren't by the lab stations.\r\n\r\nOverall, pretty easy class, can be boring sometimes, run by the TA's who are helpful.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2023-12-01T17:46:29.885785Z"
+    },
+    {
+      "professor": "Joseph Jacob",
+      "course": "ENEE101",
+      "review": "Amazing TA. Made this course worth going to.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-12-08T02:54:10.015983Z"
+    },
+    {
+      "professor": "Joseph JaJa",
+      "course": "ENEE101",
+      "review": "Great professor. Amazing guy",
+      "rating": 5,
+      "expected_grade": "B-",
+      "created": "2024-03-08T17:05:00.798880Z"
+    },
+    {
+      "professor": "Romel Gomez",
+      "course": "ENEE101",
+      "review": "ENEE101 is a good intro to ECE that doesn't take much effort. My TA basically walked us through every lab and as long as we were there we were pretty much guaranteed full points. Some labs were more engaging than others but all were super easy. Guest lectures are sometimes interesting and are easy to skip if you have friends to send you the codes. Lots of extra credit opportunities in this class.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-05-06T19:37:42.897512Z"
+    },
+    {
+      "professor": "Max Stine",
+      "course": "ENEE101",
+      "review": "Helpful but sometimes really sassy or rude to students...generous with grading late work though.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2024-05-07T21:17:14.911788Z"
+    },
+    {
+      "professor": "Ali Siddiqi",
+      "course": "ENEE101",
+      "review": "Wonderful TA that wants to see his students succeed. He will work with you to make sure you understand the material if you need his help. I would absolutely take another class with him. He made taking this \"free\" class much more fun. I could see hating how easy this class is with another TA, though Ali always made sure we were having fun in some way or another. As of now, he has been the best TA I've ever had, and it will likely stay that way. His explanations are very clear and through, and he makes sure everybody understands before moving on.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-05T20:58:15.817256Z"
+    },
+    {
+      "professor": "Julius Goldhar",
+      "course": "ENEE101",
+      "review": "As previous reviews stated, pretty much a nothing class that consists of two labs that correspond with the prior week's lecture. For the weekly Friday lecture, they bring in a specialist in some sort of ECE field who talks about that field, and it's pretty enjoyable. Just follow the steps for each lab, listen to your TA, and turn in your work and you'll get an A. I find it crazy that students get anything under 95% in this class as the only thing you have to do is turn in your labs/pre-labs. The labs are also pretty interesting towards the end of the semester as the focus shifts from MatLab to Python, Arduino, and autonomous robots. Never met Goldhar personally but from the few times he spoke at lectures he seems like a good guy, TAs teach the entire class but they're all great for the most part.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-09T20:46:29.899962Z"
+    },
+    {
+      "professor": "Valerie Hoang",
+      "course": "ENEE101",
+      "review": "I think that she might be one of the best TAs I have ever experienced at the University of Maryland. She knows exactly what she's doing, and I personally believe that she knows what she's doing. Her skills in MATLAB, circuits, signals, ethics, Python, Machine Learning, and literally everything that is taught in this course are amazing. She's nice and friendly, and I heard she's really good at piano which I think is pretty cool (it rivals Chopin and Liszt). 10/10 would recommend her as a TA because she is very awesome.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-02-28T19:51:51.089899Z"
+    },
+    {
+      "professor": "Nicholas Venginickal",
+      "course": "ENEE101",
+      "review": "Nick has gotta be one of the best TAs of all time. He makes the classes very very engaging to the point where I would spend extra tuition for him to be my TA for all EE classes. This guy, is really passionate about what he does. I believe that he can go to any employer and make them happy that they hired him. If I could do 101 with him again, I wouldn't choose any other TA. God bless the man",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-02-28T20:07:22.067917Z"
+    },
+    {
+      "professor": "Avi Baruch",
+      "course": "ENEE101",
+      "review": "TA Avi is the goat!!!!!!\r\nHe gave me great grades and answered all of my questions perfectly.\r\n\r\nA little birdie told me he is TAing for this course again next semester so definitely take the lab with Avi\r\n\r\nDOWNLOAD his chrome extension - Better Testudo",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2025-05-13T02:55:21.150102Z"
+    },
+    {
+      "professor": "Carol Espy-Wilson",
+      "course": "ENEE101",
+      "review": "Don't have much to say about her since I never really met her. She really only showed up to guest lectures on Friday, and the class was mainly run by TAs. It's an easy A, and teaches you the fundamentals to a different concept each week so you can choose your niche early in your college career. It was a really fun course, and was a really great intro into the ECE department.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2025-06-03T20:38:43.602674Z"
+    },
+    {
+      "professor": "Andre Tits",
+      "course": "ENEE101",
+      "review": "Seems like a nice guy.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-27T18:03:08.310291Z"
+    },
+    {
+      "professor": "Andre Tits",
+      "course": "ENEE101",
+      "review": "If you are engineering undecided, this might be a great class for you. (ECE students already have to take it so you don\u2019t have a choice lol)\r\n\r\nThis class was really fun. We got exposure to multiple different fields of ECE, giving us an early look at what might be of our interest. There are lectures every Friday from different ECE professors for which you write a short summary paragraph, and subsequent labs the next week are based on these lectures. We did a lot of work in MATLAB, but also did a lot of stuff with physical hardware. It was much easier to finish labs in class because the TAs can help you complete the assignment. This class was on the lighter side workload wise, with most assignments able to be completed in the 2 hour lab period. There isn't any exams, so your attendance at lecture and labs and your completion of their related assignments are your entire grade. I slept in like 3 times and missed 2 labs but still got an A, so you'll be fine.\r\n\r\n(Professor Tits does not teach this class, I think he just coordinates it and I only saw him at Friday lectures where he would introduce the speaker, so this is more of a review of the class itself. 99% of your interactions will be directly with your TA.)",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2026-01-05T20:39:18.932944Z"
+    }
+  ],
+  "department": "ENEE",
+  "course_number": "101",
+  "name": "ENEE101",
+  "title": "Introduction to Electrical & Computer Engineering",
+  "credits": 3,
+  "description": "<b>Corequisite:</b> MATH140. And corequisite: ENEE140 or CMSC131; or a score of 5 on the A Java AP exam; or a score of 4 or 5 on the AB Java AP exam; or satisfactory performance on the department's placement exam.\n<b>Restriction:</b> Must be in one of the following programs (Engineering: Electrical; Engineering: Computer) ; and students cannot enroll in ENEE101 and ENES100 in the same semester.\nAn exploration of topics within Electrical & Computer Engineering (ECE). Students will be introduced to key elements of both the Electrical Engineering and Computer Engineering curriculum, including: circuits, computing systems and software, communications and controls, electrodynamics and waves, microelectronics, signal processing, and power systems.",
+  "is_recent": true,
+  "geneds": null
+}

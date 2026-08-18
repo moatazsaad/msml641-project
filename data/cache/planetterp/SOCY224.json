@@ -1,0 +1,273 @@
+{
+  "average_gpa": 3.369917808219178,
+  "professors": [
+    "Rashawn Ray",
+    "Nicole Cousin-Gossett",
+    "Kris Marsh",
+    "Chandra Reyna",
+    "Kris Marsh",
+    "Rashawn Ray",
+    "Jeffrey Parsells-johnson",
+    "Kris Marsh",
+    "Jeffrey Parsells-johnson",
+    "Muna Adem",
+    "Dawn Dow",
+    "Kris Marsh",
+    "Dawn Dow",
+    "Kris Marsh",
+    "Muna Adem",
+    "Kris Marsh",
+    "Dawn Dow",
+    "Wayne Santoro"
+  ],
+  "reviews": [
+    {
+      "professor": "Kris Marsh",
+      "course": "SOCY224",
+      "review": "Best professor ever!!!! All we did in this class was watch the Boondocks and talk about it. ",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-02-15T17:36:40Z"
+    },
+    {
+      "professor": "Jeffrey Parsells-johnson",
+      "course": "SOCY224",
+      "review": "Good teaching, very funny. Workload is manageable and easy. Classes are straightforward and interesting. If you come to class, the class will be very easy.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-04-20T14:06:49.757648Z"
+    },
+    {
+      "professor": "Jeffrey Parsells-johnson",
+      "course": "SOCY224",
+      "review": "great professor, very lenient with deadlines and flexible with classes.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-02T13:36:50.247617Z"
+    },
+    {
+      "professor": "Jeffrey Parsells-johnson",
+      "course": "SOCY224",
+      "review": "Nice guy but weird grading",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2023-08-22T17:00:29.811610Z"
+    },
+    {
+      "professor": "Muna Adem",
+      "course": "SOCY224",
+      "review": "Professor Adem is one of the best professors I've had yet! My class was her first at UMD, so there were a lot of growing pains but I really enjoy her style of teaching. She's energetic and does a great job at getting everyone involved, so if you don't like that then she isn't the best professor for you. She does a great job managing such difficult topics, making sure everyone knows that their opinion is okay to share with the class. This class has an op-ed each week (roughly 200 words) with two exams and a final paper. She is extremely open to making sure due dates and criteria is flexible for everyone and will have open conversation about said deadlines with the whole class to hear our opinions. I took this class for the gen-ed credit, so I didn't purchase to book(s), yet I was still able to achieve an A.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-06T22:29:21.229416Z"
+    },
+    {
+      "professor": "Muna Adem",
+      "course": "SOCY224",
+      "review": "Pros:\r\n-Incredibly kind and understanding professor, quick to respond to emails\r\n-Extremely interesting and enlightening readings/course material\r\n-Easy and fairly quick homeworks (basically 10 250-word responses; I never received under a 100%)\r\n-Exams are easy and open-note to some extent\r\nCons:\r\n-Lecture style was not great. The slides are not especially entertaining, and the in-class activities where people work in randomly-assigned groups consistently ended up being like 2 people out of the group doing all the work. Now, I fault this class being a convenient Double Gen-Ed class for people's lack of interest more than I fault the professor, but there probably could have been a better method to generate engagement than this.\r\n-Really did not like the exams. The multiple choice sections felt like they were testing us on technicalities rather than some of the big concepts.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2023-12-14T23:43:15.974627Z"
+    },
+    {
+      "professor": "Kris Marsh",
+      "course": "SOCY224",
+      "review": "LOVEEEEEE DR MARSH. TAKE HER IF YOU CAN! CLASS IS THE EASIEST A YOU WILL EVER GET!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-12-19T05:26:43.868209Z"
+    },
+    {
+      "professor": "Muna Adem",
+      "course": "SOCY224",
+      "review": "one of the sweetest women/professors i've ever had, extremely personable and really tried to get to know her students. the content of the course was super interesting and she explained everything very well. the exams weren't too hard at all, and the final was a paper which she gave a lot of lenience with. i loved her and this course so much!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-01-15T22:36:53.301807Z"
+    },
+    {
+      "professor": "Muna Adem",
+      "course": "SOCY224",
+      "review": "the sweetest professor i could ask for!! she asks for feedback and actually listens to our opinions and actively changes things in the curriculum based on it. exams were basically open note and we had a weekly(ish) op ed post which werent too difficult bc u could find a lot of the info in the readings. there were a lot of readings but i never actually read them all i j skimmed for answers. i loved the in class discussions and the prompts she gave us but the group work felt kinda pointless sometimes. overall i found the class v interesting and loved having her as my professor",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-01-19T05:05:03.207842Z"
+    },
+    {
+      "professor": "Jeffrey Parsells-johnson",
+      "course": "SOCY224",
+      "review": "Anyone saying that there is \"too much work\" or \"he grades weird\" is just lying or lazy. There was not even close to a lot of work in any of the classes I have taken with him and all of the information was comprehensive and interesting. He is funny, kind, caring, and charismatic. The only thing I could criticize is that he needs to loosen up, he is a new professor here so it makes sense for him to be a bit stressed. However, he does seem a bit tense even though he is genuinely an enjoyable professor!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-01-25T19:35:09.268396Z"
+    },
+    {
+      "professor": "Kris Marsh",
+      "course": "SOCY224",
+      "review": "Super easy class!! Meets once a week unfortunatley at 8am but i have missed a few and I just turn in the assignment the next week. They are very flexible and she wants you to succeed. Best class you will ever take.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-04-22T18:36:36.590023Z"
+    },
+    {
+      "professor": "Kris Marsh",
+      "course": "SOCY224",
+      "review": "yes i know a 8am?? But you only go to the Thursday sessions. Tuesdays we don't meet because she gives us time to watch the episode of the boondocks. Easy A and the TA Joey is awesome!!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-07T19:08:22.902727Z"
+    },
+    {
+      "professor": "Kris Marsh",
+      "course": "SOCY224",
+      "review": "Easiest GenEd you could possibly take. You watch the Boondocks, write a one page summary every week and turn it in in class. She only holds one class a week even though Testudo may say it\u2019s two, but the downside is it\u2019s an 8am and attendance is required since you have to turn in your summaries in person. If you\u2019re ok with this and want the easiest double GenEd possible, this is the class for you.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-12T00:31:17.043254Z"
+    },
+    {
+      "professor": "Dawn Dow",
+      "course": "SOCY224",
+      "review": "This a good class if you're looking for an A. I feel like workload was reasonable and you could definitely get everything done without going to every lecture which was nice. Class consisted of weekly readings + reading quizzes, discussion boards, a midterm, and a final paper. TAs do most of the grading and sometimes I felt it was too harsh for what the class was, but if you put a little effort in, you can maintain a good grade.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-05-12T22:21:51.375407Z"
+    },
+    {
+      "professor": "Kris Marsh",
+      "course": "SOCY224",
+      "review": "Easiest A in my life. Only assignments is thursday you need to turn in your summary of the episode of the show you watched. 3 to 5 sentences for each episode.  Its a tuesday and thurs class but we only meet thursdays. I  missed around 4 classes but still got credit when the next week i turned in the paper. TA Joey is so nice! Take this class bc yes its a 8 am but it goes fasttttt.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-22T15:49:09.671327Z"
+    },
+    {
+      "professor": "Kris Marsh",
+      "course": "SOCY224",
+      "review": "Don't even think about just take it. I know its an 8am but theres only three parts to this class summary of the Boondocks, online discussion where you have to connect an article to an episode, and an in class discussion. Easiest A of my life. Just take her!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-05T01:42:52.416076Z"
+    },
+    {
+      "professor": "Muna Adem",
+      "course": "SOCY224",
+      "review": "Professor Adem is the sweetest professor ever! She is very passionate about what she teaches but she is also determined for her students to pass the class. There are homework assignments about every 2 weeks, and they are very easy as long as you include everything she wants you to. The class is full of discussion, but you are not required to participate. With that being said, attendance is mandatory but the classes are actually super interesting, which made it easy to get up and go to class. There is a final group project instead of a final exam, which was also a bonus! I definitely recommend this class, whether it be for a GenEd or just as an elective.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-05T14:47:32.949248Z"
+    },
+    {
+      "professor": "Muna Adem",
+      "course": "SOCY224",
+      "review": "The best professor. She is so kind, considerate, and down to earth. Would highly recommend\u2019",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-06T19:48:39.071570Z"
+    },
+    {
+      "professor": "Muna Adem",
+      "course": "SOCY224",
+      "review": "Professor is legitimately one of the nicest women I have ever met. Class discussion was interesting and engaging. Final grade is a group project, but is extremely easy to do well on. I think you would have to try to get less than an A in this class. Would take a million times again.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-09T04:47:56.140533Z"
+    },
+    {
+      "professor": "Muna Adem",
+      "course": "SOCY224",
+      "review": "Amazing professor! She's extremely nice and friendly. The class was super interesting. I loved her teaching method. And it was an easy A because she believes that if you do all the work as expected, you should get an A.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-01-19T16:51:05.930675Z"
+    },
+    {
+      "professor": "Muna Adem",
+      "course": "SOCY224",
+      "review": "Amazing professor! She's super nice & friendly. The class was super interesting. I really liked her teaching style. Plus it was an easy A because she believes that as long as you show up and do the work, you should get an A.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-01-21T20:32:10.803611Z"
+    },
+    {
+      "professor": "Kris Marsh",
+      "course": "SOCY224",
+      "review": "If you need a big question credit, just take this class. It's genuinely so easy to get a good grade because there are no assessments, and you only have to watch three boondocks' episodes a week (which doesnt even feel like work) and write three analysis a week which can be all done in one day. If you really wanted to, you don't want to go to class (besides on Thursdays) because the work can be completed online. However, the class discussions are always very interesting, and they do keep my attention whenever I did go. Kris Marsh is one of the best teachers I've had, she is passionate about what she teaches and has a very nice personality. Just take the class, point blank period",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-06T14:14:50.905199Z"
+    },
+    {
+      "professor": "Kris Marsh",
+      "course": "SOCY224",
+      "review": "If all you care about is easy work/no tests then take it... but I did not enjoy this class. There was a great opportunity to go in-depth about race and really get people talking but Dr. Marsh probably only engaged with the class for about 10-20 minutes for each 1hr15minute class, and some of that time was often spent self-promoting or talking about her hobbies, grad students, etc. Also, semester is ending in 5 days and only about 50% (if that) of the grades are in which is wildly frustrating.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2025-05-09T00:44:55.926473Z"
+    },
+    {
+      "professor": "Kris Marsh",
+      "course": "SOCY224",
+      "review": "This class was alright. You basically watch The Boondocks all semester, and each week there are four assignments, but only three are graded, so you can drop one. Dr. Marsh is honestly great. She\u2019s got a fun energy and is super likeable, which made the class more enjoyable.\r\n\r\nThe main downside was the grading, it felt kind of harsh, especially since the questions were the same every week. Also, the class uses the A-, A, A+ grading scale, which felt a little extra for how chill the content was. Like, it\u2019s The Boondocks, I shouldn\u2019t be stressing about getting an A-.\r\n\r\nOverall, I\u2019d still recommend it because it\u2019s an easy class, just be careful with the random grading quirks.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2025-05-13T00:20:24.971742Z"
+    },
+    {
+      "professor": "Dawn Dow",
+      "course": "SOCY224",
+      "review": "Dr. Dow is very nice on her own time and is a good lecturer. however, this class is not really worth the amount of work she assigns. she also has displays of obvious favoritism and sometimes when reached out to can be unnecessarily passive aggressive. although i am getting an A, the material was repetitive, lecture would constantly be behind, and her dismissiveness is annoying.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2025-11-06T20:38:00.285746Z"
+    },
+    {
+      "professor": "Dunamis Esuola",
+      "course": "SOCY224",
+      "review": "Duna really goes above & beyond in helping students succeed in the course. Always responds to Canvas messages quickly and is super friendly. Willing to help with rubric stuff and read assignments for you. Genuinely saved me in this class",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-09T17:45:45.403082Z"
+    },
+    {
+      "professor": "Dawn Dow",
+      "course": "SOCY224",
+      "review": "She's a fun professor, but every lecture is just her reading slides and is not useful. She also doesn't prepare you for the midterm or final paper at all, and her rubrics are often vague and unhelpful. There isn't much work during the bulk of the class, except for reading quizzes, which are kind of a waste of time due to her doing over the readings in class anyway. Otherwise, pretty easy A.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-12-13T18:31:36.389576Z"
+    },
+    {
+      "professor": "Dawn Dow",
+      "course": "SOCY224",
+      "review": "I really tried to like this class\u2026\r\n\r\nLectures can seem all over the place, instructions and feedback for large assignments can be very vague, and TA\u2019s grade harshly. It\u2019s actually ridiculous. I would not take this course again and would not recommend it either.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2025-12-14T17:28:09.428818Z"
+    },
+    {
+      "professor": "Dawn Dow",
+      "course": "SOCY224",
+      "review": "Dr. Dow is nice, and she cares about her students and what she's teaching. She can maybe be a little dismissive but it's rlly only if students are being annoying. The course content itself is truly interesting, but the coursework is just poorly designed. Reading quizzes are twice a week, useful and doable, no problem at all. She even drops ur lowest 4 grades. But rubrics for major assignments are all over the place (there are like three different ones posted for any given assignment and only one is the \"correct\" one), extremely vague, and she doesn't post slideshows with important assignment information until like a week after they showed up in class, even if people ask for it. Major assignments are few, far between, and graded a little too harshly for a gen ed imo. I can't say I recommend this class if you want an easy A, but if you're genuinely interested in the content and are willing to put in extra effort to understand the assignment rubrics definitely take it.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2025-12-26T00:45:15.987368Z"
+    },
+    {
+      "professor": "Kris Marsh",
+      "course": "SOCY224",
+      "review": "Dr. Marsh is always so full of energy even for an 8:00AM class that it definitely helped me get motivated to face the rest of my day.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2026-01-01T21:45:30.803551Z"
+    }
+  ],
+  "department": "SOCY",
+  "course_number": "224",
+  "name": "SOCY224",
+  "title": "Why are We Still Talking About Race?",
+  "credits": 3,
+  "description": "Exploration of the major debates and assumptions that construct individual perceptions of what race is and how race matters. Sociological and sub-cultural theories will give students a historical and present day frame with which to view race and ethnic relations in the twenty-first century.",
+  "is_recent": true,
+  "geneds": null
+}
