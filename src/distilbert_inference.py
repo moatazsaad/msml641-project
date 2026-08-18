@@ -37,7 +37,13 @@ class DistilBertWorkloadModel:
         self.thresholds = joblib.load(thresholds_path)
         self.batch_size = batch_size
         self.max_length = max_length
-        self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        if torch.cuda.is_available():
+            self.device = torch.device("cuda")
+        elif torch.backends.mps.is_available():
+            self.device = torch.device("mps")
+        else:
+            self.device = torch.device("cpu")
+            
         self.tokenizer = AutoTokenizer.from_pretrained(self.model_dir)
         self.model = AutoModelForSequenceClassification.from_pretrained(
             self.model_dir

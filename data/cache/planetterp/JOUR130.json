@@ -1,0 +1,407 @@
+{
+  "average_gpa": 3.5541161455009576,
+  "professors": [
+    "Kelly Stepno",
+    "Renee Poussaint",
+    "Cassandra Clayton",
+    "Sharon O'Malley",
+    "Jenny Glick",
+    "Mark Gray",
+    "Colleen Phelps",
+    "Mary Burns",
+    "Katherine McAdams",
+    "Hamil Harris",
+    "Amber Miller",
+    "Amber Moore",
+    "George Lanum",
+    "Alison Burns",
+    "Amber Moore",
+    "Hamil Harris",
+    "Amber Moore",
+    "George Lanum",
+    "Hamil Harris",
+    "Mark Gray",
+    "Amber Moore",
+    "Amber Moore",
+    "Amber Moore",
+    "Sohana Nasrin",
+    "Amber Moore",
+    "Carolina Siqueira Paranhos Velloso",
+    "Amber Moore",
+    "Hamil Harris",
+    "Mark Gray",
+    "Amber Moore",
+    "Amber Moore",
+    "George Lanum",
+    "Hamil Harris",
+    "Mark Gray",
+    "Ivy Lyons",
+    "Teona Goderdzishvili",
+    "Amber Moore",
+    "Amber Moore",
+    "Alison Burns",
+    "Amber Moore",
+    "Amber Moore",
+    "George Lanum",
+    "Hamil Harris",
+    "Mark Gray",
+    "Amber Moore",
+    "Alexander Pyles",
+    "Teona Goderdzishvili",
+    "Amber Moore"
+  ],
+  "reviews": [
+    {
+      "professor": "Cassandra Clayton",
+      "course": "JOUR130",
+      "review": "Her class is enjoyable, but she noticeably like this one ass-sucker and gives him extra points while some people get points off for pronouncing her name wrong. Also she changes her mind so much and can be rude. She always gave me this look whenever I had a question about my quiz, she would be like \"Yes you are here for the grades, AGAIN\". I liked her at first and then by the end of the semester, I hated her. ",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2015-12-13T00:05:00Z"
+    },
+    {
+      "professor": "Alison Burns",
+      "course": "JOUR130",
+      "review": "Best teacher, class was relaxed and did not have a lot of work.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2017-11-20T00:56:19Z"
+    },
+    {
+      "professor": "Kelly Stepno",
+      "course": "JOUR130",
+      "review": "JOUR130 is a great class to take and as long as you put some effort in, you should get an A. Professor Stepno is really knowledgeable in her field of work and it helps a lot in trying to understand the topic presented in this class. You will definitely learn a lot of useful information too.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2018-12-19T06:26:11Z"
+    },
+    {
+      "professor": "Kelly Stepno",
+      "course": "JOUR130",
+      "review": "Really a great teacher, class with her was fun and enjoyable. would take her again if I needed another class in the area",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2019-12-06T21:52:11Z"
+    },
+    {
+      "professor": "Amber Moore",
+      "course": "JOUR130",
+      "review": "She is amazing! Such a great speaker and person. We had a total of 6 presentations and one big final paper, but the topics were interesting. She will definitely help you improve you communication and presentation skills. You'll get an A if you do the work and participate. This class was a life-changing experience; I would take her again if I could!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2019-12-21T00:49:22Z"
+    },
+    {
+      "professor": "Amber Moore",
+      "course": "JOUR130",
+      "review": "She is an amazing professor. I often struggled with public speaking and honestly if you just put in the effort and truly show improvement she is most likely going to give a good grade on your presentations. ",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2021-12-09T20:26:55Z"
+    },
+    {
+      "professor": "Hamil Harris",
+      "course": "JOUR130",
+      "review": "Professor Harris is a very kind and understanding professor. If you have the opportunity please take him as it's almost a guaranteed A. Just put in the work, the first few speaking assignments are annoying but weren't too bad. The final project seems intimidating but you can do it as a group and knock it out in less than a day. He is very forgiving and as long as you show some type of effort he will give you an A.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-12-11T03:05:39Z"
+    },
+    {
+      "professor": "Amber Moore",
+      "course": "JOUR130",
+      "review": "Professor Moore is well-suited for this class. She is so encouraging of her students and allows students to take their time to emotionally prepare before speaking which I found extremely helpful. She doesn't want students to fail or do bad in her class and you can clearly see that in her teaching!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-12-14T02:52:55Z"
+    },
+    {
+      "professor": "Mark Gray",
+      "course": "JOUR130",
+      "review": "He did not receive our syllabus for around a month because he was experiencing issues with Canvas. After Canvas had been restored, assignment due dates were a mess. Lecture was interesting for a while, then it began to feel like he was repeating the same topics. That said, you can tell he's passionate about speech and all students received an A in the course (all students received the same grade on each assignment, with maybe a 2 point difference). It wasn't horrible to take, but it did stress me out as I wasn't sure when certain assignments were due or my grade. Also, he tends to take while to respond to student messages (whether through email or text).",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2022-01-07T12:56:48Z"
+    },
+    {
+      "professor": "Mark Gray",
+      "course": "JOUR130",
+      "review": "Every class was repetitive and boring. No one knew what was going on in the class. The only reason why I am not giving him a one-star review is that he gave good grades.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2022-01-31T21:16:03Z"
+    },
+    {
+      "professor": "Amber Moore",
+      "course": "JOUR130",
+      "review": "It was great to take a class on communication from someone who has real-world experience speaking in front of a TV camera! You can tell she wants the students to learn and succeed and will answer any questions and doubts you may have. Although I took it for a general education credit, I learned some information about public speaking and video recording which I will use in the future. The class isn;t difficult, mostly just reading from a textbook and then several projects.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-02-07T23:13:59Z"
+    },
+    {
+      "professor": "Hamil Harris",
+      "course": "JOUR130",
+      "review": "You don't have to go to all of his classes. I went about once a week. Just follow the directions and you will get an A. He is a very nice guy, but sometimes his directions are unclear. He is very understanding and has done a lot in his life. Very hard to get an A+ but very easy to get an A.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-04-19T17:17:39Z"
+    },
+    {
+      "professor": "Amber Moore",
+      "course": "JOUR130",
+      "review": "You have to be good at public speaking in order to expect a good grade. She does not grade off of improvement but rather a rubric that applies from beginning to end. As long as you can follow her rubric then you'll be fine. If you want an easy COMM class, this one is not the one to take.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2022-11-30T19:45:17.864860Z"
+    },
+    {
+      "professor": "Amber Moore",
+      "course": "JOUR130",
+      "review": "Amber is a great teacher, very helpful, and knows what she is talking about. The actual class is easy, and her feedback is super helpful. 6 presentations and a mid-term, you will learn a lot about public speaking, definitely worth it, especially since it's an easy A Oral Com gen ed. My only complaint is that the last month was fully virtual for us(she didn't explain why), and that limited the presentations. Be creative, she really grades easily if you are creative and put in the effort.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-12-07T17:09:14.567374Z"
+    },
+    {
+      "professor": "Mark Gray",
+      "course": "JOUR130",
+      "review": "Easy A, but a bit disorganized (no Canvas until 2 weeks in, unclear due dates)\r\n\r\nLectures got a bit repetitive so we created a bingo chart for what would be stated in class:\r\n\"Secure the bag\"\r\n\"I may not agree with Donald Trump politically, but he is a great influencer\"\r\n\"I got BEEF\"\r\n\"Climate Change is Real\"\r\n\"You guys need to chillll\"\r\n\"There *may* have been some lack of communication on my end\"\r\n\"SECURE THE BAG\"",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-12-19T21:27:10.127981Z"
+    },
+    {
+      "professor": "Mark Gray",
+      "course": "JOUR130",
+      "review": "Very helpful. Every class was the same. Probably cared less about the class than the students, didn't have an in-person class for over 5 weeks due to class cancellations or being switched to virtual lectures.  Every lecture was the same that we made a bingo chart for same exact quotes he would mention in class. I am pretty sure that all the assignment grades were randomly generated between a 95-98. Gave everyone good grades so it's all good.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2022-12-19T21:27:27.253501Z"
+    },
+    {
+      "professor": "Amber Moore",
+      "course": "JOUR130",
+      "review": "She\u2019s definitely a strong lecturer and public speaker. She\u2019s also invested in students - she\u2019ll schedule a one-on-one meeting with you if you aren\u2019t doing as well in the class, to answer questions about her feedback and help you make a plan to improve.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-04-29T13:51:01.893930Z"
+    },
+    {
+      "professor": "Amber Moore",
+      "course": "JOUR130",
+      "review": "Professor Moore is amazing!  She has real world experience in the topic and does a really good job at using it to help everyone succeed.  She is super kind and extremely invested in her students' success.  The course itself is super straight forward, she is not the type to make things difficult just to make things difficult.  If you just show up, listen to her feedback, and put in some effort you'll end up learning more about public speaking than anyone would in a gen-ed course.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-04T23:03:42.797659Z"
+    },
+    {
+      "professor": "Amber Moore",
+      "course": "JOUR130",
+      "review": "I had this professor last year but never really got around to reviewing her. The fact that I often recommend her to friends reminded me that I should leave a positive review for selecting a professor for JOUR130. I absolutely hated public speaking and so naturally everything bad that could happen during a presentation happened. However, Professor Moore was understanding and lenient and even with my absolutely horrendous performance, I was still able to get a C. Thanks to her teaching style, I bounced back and ended the class with an A. I recommend taking her 100%!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-09-26T22:48:21.061019Z"
+    },
+    {
+      "professor": "Mark Gray",
+      "course": "JOUR130",
+      "review": "He cancels class almost all the time and there is 6 assignments in the whole semester. The assignments are a 90-second videos due each week on a topic assigned. He will always give you an A no matter what you submit. While the class is easy and is a free A it is very disorganized and his canvas has messed up due dates and is confusing. He is also bad at responding to emails.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2023-11-29T21:01:44.740044Z"
+    },
+    {
+      "professor": "Amber Moore",
+      "course": "JOUR130",
+      "review": "I loved Professor Moore! She gave really helpful feedback on the presentations and was always clear about her expectations for each assignment. She also wanted everyone to succeed and did her best to make you feel comfortable presenting in front of people. She was super kind and approachable, I would definitely recommend taking her for the FSOC gen ed.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-06T21:14:50.931483Z"
+    },
+    {
+      "professor": "Hamil Harris",
+      "course": "JOUR130",
+      "review": "Very easy class and I would highly recommend this professor. He cares about his students and genuinely wants to know more about them. The class is easy with a few assignments that aren't graded very hard. Attendance also isn't mandatory and he doesn't really mind when assignments aren't turned in on time. Fairly hard to get an A+ in the class but if you do all the work and put effort in an A will be very easy.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-12-18T21:28:05.147450Z"
+    },
+    {
+      "professor": "Mark Gray",
+      "course": "JOUR130",
+      "review": "Easy class, cancels lectures quite often. Very chill and easy going guy, canvas was disorganized but I didn't mind it was an easy A. The final grade was a video submission talking about our personal life and school.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-01-24T18:58:42.954724Z"
+    },
+    {
+      "professor": "Mark Gray",
+      "course": "JOUR130",
+      "review": "Prof. Gray is such an awesome guy.  This class is a free A and I think we met less than 10 times throughout the course of the semester.  The class/canvas is disorganized, but it doesn't matter because you'll only have like 5 assignments anyway.  He is super nice and an interesting person.  You can tell he is passionate about his work and life in general.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-02-06T04:18:02.548157Z"
+    },
+    {
+      "professor": "Hamil Harris",
+      "course": "JOUR130",
+      "review": "Very nice and chill professor who cares about his students. Doesn't care too much about late assignments as long as you let him know. Attendance is not mandatory. Went to first 3 classes of the semester and never went again and got a 150% in the class. Yes, a 150% (not a typo). Never did any extra credit, he just gave it out. Since I never went to class, accidentally missed the final so he gave his personal number and I did it over the phone and got a 100. Highly recommend this professor.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-05-13T00:56:58.712826Z"
+    },
+    {
+      "professor": "Amber Moore",
+      "course": "JOUR130",
+      "review": "nice professor, good speaker with clear directions and good feedback. if you take the three week version of the course, the class has a pacing issue. the first half of the course is introductory info + chapter reading w/quizzes, and then about halfway, they dump three speeches on you due the following week. it's convenient to get this gen ed out of the way within three weeks, but the speech dumping was decently stressful.",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2024-06-06T02:02:59.860758Z"
+    },
+    {
+      "professor": "Amber Moore",
+      "course": "JOUR130",
+      "review": "Great professor, super quick to respond to emails and very reasonable grading scale. If you follow the rubrics she gives you for the speeches and reference the textbook while preparing, you're pretty much guaranteed a solid grade in the course. Quizzes are also very reasonable and open book (at least for the summer course, which I took). Highly recommend Professor Moore!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-06-18T18:52:25.639481Z"
+    },
+    {
+      "professor": "Amber Moore",
+      "course": "JOUR130",
+      "review": "absolutely love her she's the sweetest woman ever and genuinely wants you to succeed. 6 presentations but if you put in even a little bit of effort you'll be fine",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-11-26T02:04:54.989950Z"
+    },
+    {
+      "professor": "Mark Gray",
+      "course": "JOUR130",
+      "review": "Professor Gray is awesome and clearly cares about all his students the class is straight forward and as long as you do the work you will get an A. Take this class!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-02T23:07:34.161770Z"
+    },
+    {
+      "professor": "Mark Gray",
+      "course": "JOUR130",
+      "review": "Prof. Gray cares about all his students and as long as you submit all your work you will get an A. Awesome guy take his class!!!",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2024-12-02T23:09:11.654006Z"
+    },
+    {
+      "professor": "Amber Moore",
+      "course": "JOUR130",
+      "review": "BEST TEACHER EVER!! Take this class! Its such a small and fun environment and she makes public speaking and writing speeches so fun!!",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2024-12-04T15:56:33.784436Z"
+    },
+    {
+      "professor": "Amber Moore",
+      "course": "JOUR130",
+      "review": "I absolutely loved this class. If you are debating taking this class, DO IT. Before I talk about the class itself, Amber Moore cares SO MUCH about her students, not only does she want you to succeed in her class but she wants you to learn the skills and improve for life. My class actually ended up getting her a gift because we love her so much. In terms of the class, it is six presentations and (technically) textbook readings (although you really don't have to do those unless you want to). With a little bit of work, you can get an easy A in this class. The lowest grade I think she gave out was a B+. If you are looking for a fun and engaging class that will be useful for your life, I recommend this class. Not to mention the community that this class creates!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-04T22:18:47.897160Z"
+    },
+    {
+      "professor": "Amber Moore",
+      "course": "JOUR130",
+      "review": "I love professor Moore. Definitely take this class. She's so nice and positive. She works with you and makes sure you succeed in her class. She knows a lot about the subject and has helped me get good at public speaking. As someone who hates talking in front of people, I feel so much better about it after taking this class. There are 6 presentations, including your final, which seems like a lot at the beginning of the year but its really not bad at all once the semester gets going. Overall, I love professor Moore and the class is great and very beneficial.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-05T19:30:54.109527Z"
+    },
+    {
+      "professor": "Mark Gray",
+      "course": "JOUR130",
+      "review": "I enrolled in Professor Gray's Jour130 class to fulfill my FSOC (Oral Communications) general education credit. If you complete your assignments on time, you can earn an excellent grade. Professor Gray is a fantastic teacher who genuinely cares about his students and their well-being. I highly recommend this class to anyone seeking the FSOC credit. It\u2019s not just an easy A; it also provides a significant boost to your GPA! :) Professor Gray is Great!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-05T23:54:28.007438Z"
+    },
+    {
+      "professor": "Alison Burns",
+      "course": "JOUR130",
+      "review": "if you need a communications credit, take this in the summer. 3 credits, 3 weeks. no mandatory zoom meetings. the work is really easy with small assignments and open book quizzes.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-06-27T16:15:26.183074Z"
+    },
+    {
+      "professor": "Amber Moore",
+      "course": "JOUR130",
+      "review": "Professor Moore is a great professor for public speaking! All oral communication classes suck if you hate public speaking but taking it with Professor Moore made it not so bad. She is a really nice and lenient grader so it\u2019s hard to get bad grades even if you aren\u2019t good at speaking. The class is structured with there being 6 speeches/presentations which is around the same as other public speaking classes. You get to pick the topics always but each presentation is a different criteria meaning one was a persuasive speech and another was like a YouTube video we have to make. Overall Professor Moore is very kind and If you hate public speaking I would take your oral communications requirement class with her!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-10T02:18:16.400065Z"
+    },
+    {
+      "professor": "Amber Moore",
+      "course": "JOUR130",
+      "review": "Professor Moore is a great professor for public speaking! All oral communication classes suck if you hate public speaking but taking it with Professor Moore made it not so bad. She is a really nice and lenient grader so it\u2019s hard to get bad grades even if you aren\u2019t good at speaking. The class is structured with there being 6 speeches/presentations which is around the same as other public speaking classes. You get to pick the topics always but each presentation is a different criteria meaning one was a persuasive speech and another was like a YouTube video we have to make. Overall Professor Moore is very kind and If you hate public speaking I would take your oral communications requirement class with her!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-10T03:28:50.722014Z"
+    },
+    {
+      "professor": "Hamil Harris",
+      "course": "JOUR130",
+      "review": "If you take JOUR130 TAKE THIS PROFESSOR. He's passionate, engaging, understanding and overall an amazing guy. Don't be afraid to speak up in his class, he loves participation. Assignments are very minimal and you're basically guaranteed an A+. It's definitely worth making an outside of class connection with him. You can really tell he cares about every student and deeply enjoys what he teaches. Unfortunately Professor Harris had to leave midway through the semester but for the time we had him, he was great.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-18T20:28:50.769558Z"
+    },
+    {
+      "professor": "Amber Moore",
+      "course": "JOUR130",
+      "review": "Professor Moore is a great professor for public speaking! All oral communication classes suck if you hate public speaking but taking it with Professor Moore made it not so bad. She is a really nice and lenient grader so it\u2019s hard to get bad grades even if you aren\u2019t good at speaking. The class is structured with there being 6 speeches/presentations which is around the same as other public speaking classes. You get to pick the topics always but each presentation is a different criteria meaning one was a persuasive speech and another was like a YouTube video we have to make. Overall Professor Moore is very kind and If you hate public speaking I would take your oral communications requirement class with her! (But I also recommend looking at the other oral communication classes like INAG or COMM107 depending on what you want out of the class)",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-22T17:38:20.156060Z"
+    },
+    {
+      "professor": "Amber Moore",
+      "course": "JOUR130",
+      "review": "Professor Moore is an excellent professor! She is understanding and communicates her expectations clearly. There was a lot of videos and recordings to do which was expected. If you are not comfortable in front of a camera and do not plan on learning how to be, I would not recommend this class. However if you are comfortable/willing to learn I think this class will be a great experience.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2026-01-25T23:15:34.809700Z"
+    },
+    {
+      "professor": "Hamil Harris",
+      "course": "JOUR130",
+      "review": "Take this as your OC Credit. Very interesting class and he engages with the students throughout the entire class, he doesn't just sit and talk for 75 minutes. He geniunely cares about his students and wants to make a connection with you. Unfortantetly during last semester he left halfway, but if this course is offered with him I highly recommend. Also, a really easy workload here.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2026-02-05T16:10:40.626728Z"
+    },
+    {
+      "professor": "Hamil Harris",
+      "course": "JOUR130",
+      "review": "Professor Hamil is probably one of the nicest and most caring professors. He is really chill and takes time for everyone and gives pretty good feedback. The class itself is very easy, and you do need to show up.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2026-03-09T20:40:54.028728Z"
+    },
+    {
+      "professor": "Teona Goderdzishvili",
+      "course": "JOUR130",
+      "review": "She took over the class after Professor Hamil unfortunately left. She was chill with grading, but took attendance and made you show up. She was pretty nice but was decently strict.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2026-03-09T20:53:08.736884Z"
+    }
+  ],
+  "department": "JOUR",
+  "course_number": "130",
+  "name": "JOUR130",
+  "title": "Self-Presentation in the Age of YouTube",
+  "credits": 3,
+  "description": "<b>Credit only granted for:</b> COMM107, COMM200, ENES143, INAG110, JOUR130 or THET285.\n<b>Additional information:</b> May not count toward the Journalism major.\nStudents, as they make use of evolving technologies, need to be able to present themselves effectively in front of any number of different audiences through any number of different outlets. Whether in an interview on radio, a guest presentation at a conference, in comments on a video blog, in commentary on TV, in the lead on a self-produced YouTube video, or as spokesperson in front of investors or management, professionals need strong oral communication skills. This class focuses on strengthening those skills through active individual and group presentations, as well as, through discussion of key techniques and group critique of presentation publicly available in the social media space on sites such as YouTube.",
+  "is_recent": true,
+  "geneds": null
+}

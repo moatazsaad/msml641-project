@@ -1,0 +1,989 @@
+{
+  "average_gpa": 3.529158638407193,
+  "professors": [
+    "Jessica Vitak",
+    "Elizabeth Bonsignore",
+    "Daniel Greene",
+    "Joel Chan",
+    "Kelly Hoffman",
+    "Laudan Kalantary",
+    "Ryan O'Grady",
+    "Eric Hung",
+    "Jordan Sly",
+    "Joyce Garczynski",
+    "Abbie Basile",
+    "Sarah Gilbert",
+    "Courtney Douglass",
+    "Lee Lipscomb",
+    "Laria Rogers",
+    "Sydney Triola",
+    "Renee Hill",
+    "M Sauter",
+    "Joseph Sherren",
+    "Caitlin Christian-Lamb",
+    "Jason Aston",
+    "Sidney Champagne",
+    "Caitlin Christian-Lamb",
+    "Courtney Douglass",
+    "Fabian Faccio",
+    "Caitlin Christian-Lamb",
+    "Christopher Dempwolf",
+    "Courtney Douglass",
+    "Elizabeth Bonsignore",
+    "Matthew Patrick",
+    "M Sauter",
+    "Caitlin Christian-Lamb",
+    "Fabian Faccio",
+    "Chad Doran",
+    "Christopher Dempwolf",
+    "Courtney Douglass",
+    "Caitlin Christian-Lamb",
+    "Fabian Faccio",
+    "Courtney Douglass",
+    "Elia Shahbazi",
+    "Hananya Cohen",
+    "Kelly Hoffman",
+    "Zach Drake",
+    "Chad Doran",
+    "Christopher Dempwolf",
+    "Diana Bridgett",
+    "Madeline Georgevich",
+    "Nicole Miller",
+    "Dustin Smith",
+    "Angela Rodgers-Koukoui",
+    "Chad Doran",
+    "Corie Brown",
+    "Dustin Smith",
+    "J Stephanie Rose",
+    "Phillip Thompkins",
+    "Angela Rodgers-Koukoui",
+    "Chad Doran",
+    "Dustin Smith",
+    "Fabian Faccio",
+    "Jieun Yeon",
+    "Fabian Faccio",
+    "Angela Rodgers-Koukoui",
+    "Dustin Smith",
+    "Fabian Faccio",
+    "Jieun Yeon",
+    "J Stephanie Rose",
+    "Phillip Thompkins",
+    "M Sauter",
+    "M Sauter",
+    "Mustafa Sikder"
+  ],
+  "reviews": [
+    {
+      "professor": "Jessica Vitak",
+      "course": "INST201",
+      "review": "Great professor she really does try to make things interesting for the class. She does make you do a meme group project. Her tests are easy and she doesn't make the class overly difficult. ",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2017-12-30T00:43:52Z"
+    },
+    {
+      "professor": "Sarah Gilbert",
+      "course": "INST201",
+      "review": "Dr. Gilbert is a kind instructor who really wants her students to do well in the class. She gives numerous extra credit opportunities that have a profound impact on your grade. In addition, she posts her lecture slides online if you miss class. While the class is a bit lecture-heavy, it is relatively easy to get an A in.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2019-05-28T01:40:11Z"
+    },
+    {
+      "professor": "Sydney Triola",
+      "course": "INST201",
+      "review": "I took inst201. It was very easy to tell she had favorites in class. Whoever was her favorite didn't have to do much work in the class and always received extra credit on every assignment. She maintains this cheery personality in class, but if you don't cite literally every sentence in your essay, she will say its false.",
+      "rating": 2,
+      "expected_grade": "B-",
+      "created": "2019-11-24T01:31:08Z"
+    },
+    {
+      "professor": "Sydney Triola",
+      "course": "INST201",
+      "review": "Do not take this class or at least with this teacher. She teaches based on her own political beliefs and if you disagree you will fail. She talks about having an \u201copen and safe room\u201d but if you end up disagreeing with anything she believes in she will correct you to make it her opinion. Every week you get assigned LONG readings that are so dull and dry and then you have to take an online quiz. She makes a huge PowerPoints and reads off the slides every class. Her grading for papers is all over the place and you really never know what you are going to get. No one in my class knew how to do APA citation and would mark everyone off significantly for not doing it. She linked Perdue owl to do the work cited on the class page but when you do it through Perdue owl (which she linked) she would say it isn\u2019t correct APA? This was her first year teaching and it was quite obvious. She had good intentions but failed to properly run a class. ",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2019-12-17T15:29:10Z"
+    },
+    {
+      "professor": "Renee Hill",
+      "course": "INST201",
+      "review": "She was the man. The class is a joke and while she tried to make it sound important, she also didn't assign dumb work or assignments. She grades easy, and is one of the nicest professors I have had here. She is a great person and I feel like if she had to teach an actual course she would do well too. However, this class was a joke, but she gets 5 stars for her combination of being a great person and not making a dumb class harder than it needed to be.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2020-05-08T20:48:11Z"
+    },
+    {
+      "professor": "M Sauter",
+      "course": "INST201",
+      "review": "was concerned since she had no reviews, but INST201 was interesting, and not that hard at all. i took it online, but her in person lecture is probably fine too. the quizzes and discussion boards were pretty easy, and you do a semester-long group project, for which i had a good group for. overall take her for inst201. she is nice and knowledgeable, and i feel she is on the same page as college students and is quite up to date on what's going around on social media and the world. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2020-05-13T01:00:06Z"
+    },
+    {
+      "professor": "Ryan O'Grady",
+      "course": "INST201",
+      "review": "Took online. Chill professor. Your grade vs the effort you put in will depend on a lot TA since TA grades a lot of the assignments. ",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2020-06-08T20:50:12Z"
+    },
+    {
+      "professor": "Lee Lipscomb",
+      "course": "INST201",
+      "review": "one of the worst professors ive ever had",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2020-07-18T16:21:19Z"
+    },
+    {
+      "professor": "M Sauter",
+      "course": "INST201",
+      "review": "Prof. Sauter is amazing. Their lectures are super interesting, comedic, and relatable. There are no exams, only occasional 5 questions quizzes based on the lectures. The only downside is that your final project (and many of the assignments throughout the semester) are with an assigned group of 4-5. I got stuck doing all the work.  TAKE THIS PROFESSOR'S CLASS.  ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2020-08-24T22:52:42Z"
+    },
+    {
+      "professor": "Elizabeth Bonsignore",
+      "course": "INST201",
+      "review": "Dr. B is a great professor. The class is slight if you put in some effort. I've got no complaints apart from the fact that she can go on a tangent sometimes but even that is related to the topic so it's not really a bad thing. Take her class, couple readings here and there but it's slight. Put in some work, easy dub.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2020-12-18T17:53:11Z"
+    },
+    {
+      "professor": "Sydney Triola",
+      "course": "INST201",
+      "review": "The class had so much potential but this professor just really ruined it for everyone. It wasn't even her teaching style; she just graded things without any mercy. Forgot a period? -10 points. Citation off by a single indent? -25 points. Doesn't matter the quality of your writing I bet she wouldn't even read it unless the grammar and punctuation were 100% accurate. ",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2021-01-23T05:16:20Z"
+    },
+    {
+      "professor": "Laria Rogers",
+      "course": "INST201",
+      "review": "Professor Rogers is great, very nice, and gave easy assignments for the fall 2020 version of 201. The research project instructions were also very clear, and she gave amazing feedback as well",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2021-02-06T16:08:53Z"
+    },
+    {
+      "professor": "Elizabeth Bonsignore",
+      "course": "INST201",
+      "review": "She's very nice and somewhat lenient about due dates (small late penalty per day late). However, the class is kind of disorganized. Seems to be a lot of busy work, even if it's easily graded. But, prepare to wait ages for your grades. Our final papers are due the 17th, and as of last night, the 14th, some groups still hadn't gotten their draft paper grades back yet. They were due a month ago.\r\n\r\nShe also has this \"playable case study\" to teach us about cybersecurity, which in theory is cool, but the website is filled with glitches. It's some sort of research project... not sure what's being researched though. You don't have to consent to having your data used in her research, but I'm pretty sure the goal of having these assignments is for them to have free beta testers.\r\n\r\nOverall, the class is not a lot of work, you'll just be frustrated at times because in class activities are confusing, there's a lot of busy work, and you will wait for major grades.\r\n",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2021-05-15T17:00:28Z"
+    },
+    {
+      "professor": "Joyce Garczynski",
+      "course": "INST201",
+      "review": "This class was pretty much exactly what I signed up for. There was a relatively low workload each week, mostly discussion posts and a quiz covering a few articles we were supposed to read. There was plenty of extra credit (you could get 3.5 points out of 3 on any quiz, for instance, which is pretty much just +.5% to your final grade) which was nice, but wasn't really needed, I felt. The final group project was to try to make a meme go viral and then report on virality, which wasn't too difficult and I found the process fun. ",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2021-05-16T20:43:14Z"
+    },
+    {
+      "professor": "Joyce Garczynski",
+      "course": "INST201",
+      "review": "She was always prepared at the beginning of the week with the course material and content. Easy grader and responsive to emails. Would take her again without hestitation. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-05-18T22:53:42Z"
+    },
+    {
+      "professor": "Joyce Garczynski",
+      "course": "INST201",
+      "review": "The class is literally a free A. Weekly quizzes can be completed by just searching the readings with control + f. The discussions posts are very easy and the final project is not hard at all. I would recommend this class to people who are looking for a light 3 credit course. ",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2021-05-26T03:40:40Z"
+    },
+    {
+      "professor": "Courtney Douglass",
+      "course": "INST201",
+      "review": "I am currently taking her online class. She is very harsh in grading. ",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2021-06-16T23:06:56Z"
+    },
+    {
+      "professor": "Elizabeth Bonsignore",
+      "course": "INST201",
+      "review": "Prof. B is an extremely nice, caring, and inspiring lady who truly enjoys what she does. I feel bad giving her such a bad rating, but her class was awful. It feels like our class was the last priority in her busy life. Also, the class contents were mostly common sense and really seemed useless. There was a semester long group project that was drug out for soooo long. It took months, but we could have gotten it done in one week. The class was extremely unorganized to the point it was obnoxious. The instructions of every single assignment was unclear. On top of that, our class were the test dummies for a Playable Case Study program that was extremely buggy and pretty much unusable. We had two lectures a week, the first 30 minutes of each 50 minute lecture was spent talking about assignments and off-topic things. Since she only had 20 mins each lecture to actually lecture, she never finished, so she had to take time out of our discussion section to finish. Needless to say, I stopped attended the lectures early on, I learned nothing, and I passed the class with a high A.. I would recommend prof B for other classes, but for this one, I would recommend getting your easy A from someone else.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2021-10-15T19:10:44Z"
+    },
+    {
+      "professor": "M Sauter",
+      "course": "INST201",
+      "review": "Best professor I've had at UMD. They make the class interesting and give many opportunities for extra credit. This helps me a lot since I am not the strongest student on campus. There isn't a final exam, but there is a final paper that a group needs to write together. I would definitely take it again. ",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2021-12-22T23:54:16Z"
+    },
+    {
+      "professor": "Caitlin Christian-Lamb",
+      "course": "INST201",
+      "review": "interesting class and i learned a lot. very easy class. nice teacher ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-05-02T02:50:20Z"
+    },
+    {
+      "professor": "Courtney Douglass",
+      "course": "INST201",
+      "review": "Do not take INST 201 with this professor, *especially* if it's asynchronous. She records her lectures but about 1/3 to 1/2 of her lectures are reused from her summer classes, which made due dates confusing. And even though she records the lectures, they're usually much longer than they need to be because she pauses... several times... for minutes at a time... during the lecture. Also speaking of due dates, she moves them around with no warning. Discussion boards are a pain. ",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2022-05-10T02:05:56Z"
+    },
+    {
+      "professor": "Courtney Douglass",
+      "course": "INST201",
+      "review": "taken her class during Spring 2022, the worst Gen Ed class ever. The assignments are confusing, quizzes don't make sense even after studying her lectures. Also, the lectures are recycled. Useless discussions are graded harshly, and she grades them very late. The due date for assignments is moved without notice, so good luck rescheduling your assignments. She also always asks for sympathy for the super late grading in announcements, which doesn't seem really fair to me as she's paid by the university to give out grades at specific times. \r\nTLDR: Just avoid taking her class. It's just not worth it.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2022-05-15T14:01:10Z"
+    },
+    {
+      "professor": "Caitlin Christian-Lamb",
+      "course": "INST201",
+      "review": "Easy class. Regardless of who the instructor is, it was barely any work each week, so I'd recommend this class to last semester seniors. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-05-15T21:42:07Z"
+    },
+    {
+      "professor": "Fabian Faccio",
+      "course": "INST201",
+      "review": "Fabian is a good professor. He gives a lot of office hours and he is able to help so much with assignments if you need it. However, the course load isn't too bad (or hard by any means) as long as you don't dedicate time to the weekly readings. The weekly assignments consist of saying three things you learned from lecture (recorded), a 5 question open-note quiz based on lecture, and a discussion board. His TAs were somewhat strict on grading, but not enough where you'll get below an A. The other con was the group paper that was a semester-long, working on with our group during Zoom discussion. He assigns the groups, but as long as you get lucky, then you can knock it out pretty easily. A good class despite being thrown together during the first week of classes. ",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2022-05-17T19:45:18Z"
+    },
+    {
+      "professor": "Ryan O'Grady",
+      "course": "INST201",
+      "review": "Easy, class hope you get a good group. Work is so easy to do",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-05-18T03:49:42Z"
+    },
+    {
+      "professor": "Ryan O'Grady",
+      "course": "INST201",
+      "review": "Awesome professor! His lectures are easy to follow, he explains concepts very well, and he gives many examples so that we know how what we're learning applies in the real world",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-05-19T12:40:16Z"
+    },
+    {
+      "professor": "Ryan O'Grady",
+      "course": "INST201",
+      "review": "Great class, easy and interesting. There's an end of the semester research project that is the only thing that was important. The assignments are just online ELMS quizzes and discussion boards that are also easy. ",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-05-20T23:44:27Z"
+    },
+    {
+      "professor": "Fabian Faccio",
+      "course": "INST201",
+      "review": "He is a really great professor, he understands everyone's concerns and really takes the time to address those concerns, I took his class recently in Spring 2022, our class got pushed too online last minute with zoom lectures every Friday, the TA's are strict on grading but I believe that it is fair. Overall the class is really great and Fabian is a really great professor to have ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-05-29T02:23:16Z"
+    },
+    {
+      "professor": "Ryan O'Grady",
+      "course": "INST201",
+      "review": "Great professor! He is really understanding about any situation you are in. I would totally recommend his class",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-07-02T03:37:35Z"
+    },
+    {
+      "professor": "M Sauter",
+      "course": "INST201",
+      "review": "Uses They/Them pronouns. Their lecture is enjoyable and at times interesting. Although they are interesting I rarely attended class because they are all posted online and I am not an InfoSci major. There are no exams, only occasional 5 questions open note online quizzes based on the recorded lectures. The only thing that could downside is that your final project which is a random group of 5-7 people and if they meet deadlines the class is a breeze. You can get an A in the class literally spending less than 3 hours a week, submitting online assignments by skimming through the recorded lecture and do your part for your group without actually ever attending class.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-09-15T05:50:02.870949Z"
+    },
+    {
+      "professor": "Fabian Faccio",
+      "course": "INST201",
+      "review": "Goat prof, super nice and chill, take him if you can!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-10-29T11:42:39.429445Z"
+    },
+    {
+      "professor": "M Sauter",
+      "course": "INST201",
+      "review": "Had class online during fall 2022. Lectures seemed decent enough but was able to do basically all the work without watching any of them. Main work on a weekly basis is discussion posts/replies, ELMS quiz, and a lecture exit ticket, all of which were always easy. Have group report due at end of semester for final with various progress checks throughout semester, was fairly easy for my group, we never even needed to meet in person. Would recommend for gen ed or if you have general interest,",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-11-07T04:05:12.332077Z"
+    },
+    {
+      "professor": "Ryan O'Grady",
+      "course": "INST201",
+      "review": "Had this guy for Inst201, and Inst311. He makes quizzes/exams so easy class probably averages a 90 percent on them.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-11-28T02:48:16.069183Z"
+    },
+    {
+      "professor": "Courtney Douglass",
+      "course": "INST201",
+      "review": "Please avoid taking this professor at all costs. I've never had a professor that is so unprofessional, rude, and just overall terrible at teaching ever. I would call myself a pretty good student and I attended all her painfully confusing and long lectures, go to office hours, and make sure to be on top of every assignment for this course. Dr. Douglass is incredibly unorganized and she constantly rambles about everything but what we're supposed to learn. If you ever need any clarification on anything for the class do not expect to get any CLEAR answers from her. She constantly talks in circles without ever getting to an actual point. She NEVER lets you forget that she has ADHD and its hard for her...statistically probably more than 1/4 of her students struggle with the same thing and I'm sure none would behave as awfully as her. Save yourself the confusion, headaches, and stress and just avoid taking her if you can. (The course itself is so easy, she just overcomplicates everything and her teaching style is just talking about things that don't relate to the material whatsoever).",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2022-12-06T22:02:51.726541Z"
+    },
+    {
+      "professor": "Christopher Dempwolf",
+      "course": "INST201",
+      "review": "Ok, so this teacher was basically none existent, still don't know if he's a real person. He had recorded lectures at the start, but then just started posting PowerPoints. The class itself is extremely easy. The biggest part of your grade is a group project where you have to write an essay about the topic you're assigned. Grading is extremely slow also. In the end, the class is an easy A but you won't learn anything from it.",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2022-12-15T06:49:23.599935Z"
+    },
+    {
+      "professor": "M Sauter",
+      "course": "INST201",
+      "review": "Never watched a single lecture and you don't have to. There were weekly discussion posts, but you didn't really have to do any of the reading for them since you only needed 200-300 word responses. There were also lecture exit tickets, and you just had to say three things you learned from lectures and you could copy of the slides they upload. Weekly quizzes most weeks, but all the answers are online and you get 2 tries. Only big assignment is a group paper. It could maybe suck if you are placed in a bad group, but there are checks on the progress every couple of weeks that keep people in check and also count for a good amount of your grade. The paper was only like 3,000 words which really isn't that much for 5-6 people. Seemed to be graded pretty leniently. Great no-stress class, and honestly, some of the material on the slides did seem pretty interesting.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-01-11T23:25:03.279400Z"
+    },
+    {
+      "professor": "Courtney Douglass",
+      "course": "INST201",
+      "review": "The other comments sum her up very well:\r\n- begs for pity but is the least understanding towards students\r\n- doesnt answer emails\r\n- her TAs dont do anything\r\n- will make you consider switching majors",
+      "rating": 1,
+      "expected_grade": "A+",
+      "created": "2023-01-27T19:08:34.514833Z"
+    },
+    {
+      "professor": "Courtney Douglass",
+      "course": "INST201",
+      "review": "She refused to round from 79.7 to an 80 so I ended with a C+. She wasn't a bad professor just demanded people's attention throughout the class and yelled if someone was having a convo during the lecture. Attendance in lectures became mandatory because people weren't showing up. She also used the words \"black folk\" a lot during our lectures on certain topics.",
+      "rating": 3,
+      "expected_grade": "B-",
+      "created": "2023-02-20T18:27:25.978708Z"
+    },
+    {
+      "professor": "Courtney Douglass",
+      "course": "INST201",
+      "review": "Worst professor you can ever have. Don't take her.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2023-03-03T17:21:32.583458Z"
+    },
+    {
+      "professor": "Courtney Douglass",
+      "course": "INST201",
+      "review": "Currently taking this class and she is terrible. The content is not hard or difficult but her wording on the quizzes makes them tricky and most of the time you will end with a poor score. She is also a very harsh grader and is also very strict about class. She doesn't answer emails and asks to be understanding for her needs but then goes to complain about us. I would avoid taking her at all and the only reason why I chose this class was because she was the only professor available.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2023-03-05T20:46:37.434351Z"
+    },
+    {
+      "professor": "Courtney Douglass",
+      "course": "INST201",
+      "review": "Omg PLEASE DO NOT TAKE HER. I\u2019m sorry but the worst professor I\u2019ve ever had in my entire life. She\u2019s making this class so much more difficult that it should be, her grading is super harsh. Taking points off for the smallest reason. PLEASE PLEASE if you want a good gpa DO NOT take her!!!!",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2023-03-06T21:50:33.839928Z"
+    },
+    {
+      "professor": "Courtney Douglass",
+      "course": "INST201",
+      "review": "She is extremely unreliable with her rubric and grading and does not provide the opportunities for easy point earning she claims she gives. The actual content is easy to understand and the concepts can be grasped but for some reasons she makes it so difficult to do well. The tests are not over course material, and I have heard of so many people going through every single document available and still not finding concepts she mentioned. I do not understand what makes grades for this class so unattainable, as it sounds like an approachable class, but trust me. If you tend to get decent grades, this class will still pose you a challenge.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2023-03-09T16:47:05.608770Z"
+    },
+    {
+      "professor": "Courtney Douglass",
+      "course": "INST201",
+      "review": "She is a terrible professor. Harsh grading and stupid quiz questions that don't make sense or reflect lectures.",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2023-04-13T04:02:02.057797Z"
+    },
+    {
+      "professor": "Courtney Douglass",
+      "course": "INST201",
+      "review": "This professor is one the worst that I have ever encountered. The class is really disorganized with little to no communication from her or the TA's. She grades stuff really late so you don't know your actual grade until near the end of the semester. Her quizzes are meant for you to fail as they are more of a \"gotcha\" questions and don't really reflect the lecture nor the content.",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2023-04-20T16:15:19.822912Z"
+    },
+    {
+      "professor": "Courtney Douglass",
+      "course": "INST201",
+      "review": "This class was incredibly unorganized and nobody responded to emails. Assignments and class format were confusing and unclear. She was nice enough I guess but she grades harshly and doesn't put grades in until very late. I'm honestly not even sure what my grade is going to be and we're two weeks away from finals week. This class may be the one the drop me GPA which absolutely blows my mind. The content isn't even interesting and it's overall just a tough class to get through. There's one big group project that she makes out to be much bigger than it actually is. The project is very annoying and is just not worth your time.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2023-05-02T00:23:37.581091Z"
+    },
+    {
+      "professor": "Courtney Douglass",
+      "course": "INST201",
+      "review": "Run! Don't do it! Everyone here pretty much gave a good summary of what she's like and how she organizes her class. So, word of advice, if you can, take this class with literally anyone else. \r\nThis class is not hard but she makes it unnecessarily stressful. Getting a good grade on any assignment, except for discussions, is like a game of luck, regardless of how much you study.",
+      "rating": 1,
+      "expected_grade": "C+",
+      "created": "2023-05-06T14:33:35.921042Z"
+    },
+    {
+      "professor": "Courtney Douglass",
+      "course": "INST201",
+      "review": "Just because someone has a Ph.D. does not mean they are a good teacher. Courtney was the worst professor I have had at UMD - little communication with students, harsh grading, warped and confusing quiz questions, unorganized, and switched between in-person and online lectures without sending announcements. The list of issues with her class is lengthy and she is not a real professor. I hope the INST college can look for some better professors because this is not worth anyone's tuition.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2023-05-16T21:34:15.611599Z"
+    },
+    {
+      "professor": "Courtney Douglass",
+      "course": "INST201",
+      "review": "1. The class is extremely dysfunctional and assignments on the syllabus were either never created and loaded to canvas weeks late\r\n2. Each Quiz was incredibly difficult and made for you to receive the lowest grade possible as she asked questions you couldn\u2019t possibly prepare for or guess were relevant to the section. \r\n3. Save yourself, do not take this class. The class content is enjoyable, but there\u2019s no reason why I shouldn\u2019t have an A.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2023-05-17T11:38:45.259055Z"
+    },
+    {
+      "professor": "Courtney Douglass",
+      "course": "INST201",
+      "review": "Her teaching style was actually interesting when we had lectures (she was gone for more than half of the semester). However, the material is quite boring. The TAs are incompetent but hope and pray she doesn't grade any of your stuff because she's not only harsh but also unfair. The class is really structured around a big \"semester project\" that my 7 yr old cousin can complete in a day hence she drags everything out to make up for the lack of more meaningful assignments. The quizzes are extremely weird. You can Command F the entire quiz based on the slides and end up with a 65. And to top things off, she doesn't adhere to her grading scale and ended up not posting assignments that were on the syllabus. Fellow terp, if you care about your well-being, please seek another class or professor.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2023-05-21T23:44:34.655460Z"
+    },
+    {
+      "professor": "Kelly Hoffman",
+      "course": "INST201",
+      "review": "Professor Hoffman is probably one of the best and nicest professors i\u2019ve ever had. I just switch majors to InfoSci and this is one of the first intro classes I\u2019m taking and she\u2019s extremely kind and helpful. For the online session, she does not have any exams because she understands how difficult it can be in terms of cramming and retaining the information. Her lectures are interesting and informative. All her assignments correspond to the readings and lectures. She\u2019s extremely organized and has the modules posted by week so it\u2019s really easy to see what you you need to do for the week/keep up with the due dates. She also makes sure the class understands why she does things the way she does which is something not a lot of professors do. Definitely recommend taking any of her classes!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-07-18T00:31:08.058918Z"
+    },
+    {
+      "professor": "Lee Lipscomb",
+      "course": "INST201",
+      "review": "If you actually did all the readings (around 5 per week), watched every lecture (3 per week, 1hr each on average), and did all the assignments and quizzes (3 to 4 every week), you wouldn't have time for your actual major. I think she doesn't understand that almost no one in her class is taking this as a major requirement - it's a gen ed and she needs to chill. My group was only a couple hours late on one heavily weighted assignment and BAM we got a zero with no chance of pleading our case (we had a pretty good reason, trust). She just told us to do the extra credit work. Her extra credit opportunities are ridiculous (you'd probably spend several hours working on them) and they can't compensate for some of these assignments.\r\nI'm sure this class would be great with literally any other professor.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2023-10-19T02:08:45.993363Z"
+    },
+    {
+      "professor": "Matthew Patrick",
+      "course": "INST201",
+      "review": "Do not take. Very rude to students and generally aloof.",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2023-11-10T02:27:00.367683Z"
+    },
+    {
+      "professor": "Hananya Cohen",
+      "course": "INST201",
+      "review": "Seriously the most boring class Ive ever taken. Im really not complaining though, i just took this class for a gen-ed requirement. Professor (?) is pretty nice but extremely monotone and quiet. Half of the class doesnt even show up any more. Id take this class again, just skip out on the lectures you dont need them.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2023-12-01T03:10:37.768578Z"
+    },
+    {
+      "professor": "Hananya Cohen",
+      "course": "INST201",
+      "review": "Took this class thinking it would be super fun since the reviews were all so positive. Unfortunately it ended up being the most boring class I've ever taken. There is only one real grade and its a group paper that Prof Cohen didn't seem to know much about. It was pretty apparent that he is a librarian and not prepared to teach this class nor did he seem to know much of what its about. He kind of just reads the readings he assigned during lecture. No one really goes anymore so you can skip every class. Prof Cohen is a SUPER nice guy just maybe not meant to teach an information science class.",
+      "rating": 2,
+      "expected_grade": "A+",
+      "created": "2023-12-03T04:30:54.010616Z"
+    },
+    {
+      "professor": "Zach Drake",
+      "course": "INST201",
+      "review": "Very easy instructore for INST201, he teaches 126 too but I haven't taken the course yet. Very easy overall, very acommodating, recommended professor if you don't want to stress. Though emails may take a few days to be responded to",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-08T20:17:27.541864Z"
+    },
+    {
+      "professor": "Kelly Hoffman",
+      "course": "INST201",
+      "review": "She is one of the nicest professors I have ever had. She is an amazing lecturer and makes sure to keep her lectures interesting. She is always willing to help you with something, set up office hours, and answer your questions. She also responds to emails quickly and the class itself is VERY organized. The class was a weekly discussion post, a weekly quiz, and a final 10-page paper which was not bad at all because you'll be working with a group on it and you'll be working on it over the course of the semester so it's not as bad as it sounds.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-11T03:05:21.095901Z"
+    },
+    {
+      "professor": "Kelly Hoffman",
+      "course": "INST201",
+      "review": "TAKE THIS CLASS WITH PROF HOFFMAN!!!! It is a requirement for Info Sci but if you need an elective I recommend this since it is easy. There are two zoom meetings a week that you have to be logged into because she grades the top 20 participation grades (it's only 50 mins its not that hard). Then there's an in-person discussion once a week but it only takes like 30 mins and it's just a group activity for participation and extremely easy it needs no thought. There are weekly content quizzes based on the lectures and assigned readings (I didn't read the readings and was just fine). There are also weekly discussion boards but those are easy as well and about 150 words which is like nothing. The final for this class is a group project on a topic (kind of given to you but you choose from a list) that is 10 pages long. HOWEVER, there are due dates throughout the semester like research review, then 2 weeks later is the outline, 2 weeks after that are body paragraphs, etc. These due dates gave us plenty of time and I feel like I spent no time at all writing it. We were also done the paper like 2 weeks before finals week so it's not stressful.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-12T17:21:00.544944Z"
+    },
+    {
+      "professor": "Lee Lipscomb",
+      "course": "INST201",
+      "review": "Low-stress class with generous extra credit (worth up to ~12%). No exams or presentations, light grading, and the group project is a straightforward research paper. \r\nLearn to skim readings and speed-watch lectures, and do groupwork early! She's initially unclear on due dates, so ask for clarification.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2023-12-26T16:57:28.578061Z"
+    },
+    {
+      "professor": "Courtney Douglass",
+      "course": "INST201",
+      "review": "If I had the ability to give 0 stars, I would. I took her over the Fall semester and she didn't even show up to most of her lectures, she made one of her TA's lecture the class. And when she did come to class she would just ramble on about whatever and leave everyone clueless. She is extremely disorganized and honestly makes me wonder if she even knows what she's teaching. To this day, I couldn't even tell you what I learned in the class. Her assignments and quizzes are unreasonable and her grading makes absolutely no sense. It's as if she rolls a die and just picks and chooses who gets what grade. She never puts in grades so you're left clueless as to where you stand in the class. Even if the quizzes were open note and the answers were literally on the slides, the answer would somehow still be wrong. While there are no midterms or a final, there are a few quizzes throughout the semester and a final deliverable. Like I said, the quizzes are unreasonable and made absolutely no sense. And the final deliverable made me feel like I was in fifth grade again cutting and gluing paper on to a trifold. I can go on and on about how horrible of a professor she is, but I think you got the idea. It is possible to get at least an A- in the class as long as you complete all the assignments and do the extra credit (extra credit is provided at the end of the semester). Overall, don't take her if you have the choice, save yourself some time!!",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2023-12-29T01:59:33.941425Z"
+    },
+    {
+      "professor": "Kelly Hoffman",
+      "course": "INST201",
+      "review": "Overall a very good professor. Always makes sure her students are all on the same page, is very clear and concise with her presentations, well-structured course. There was a 10-page final paper however, you work on it over the course of the semester so it's not bad at all. She responds quickly and in detail to her emails. Grading is very fair and honest. 100% would recommend her for INST201.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-30T20:47:23.638828Z"
+    },
+    {
+      "professor": "Courtney Douglass",
+      "course": "INST201",
+      "review": "The professor was gone for most of the semester and had the TA teaching. She is a harsh grader and the quiz questions and assignment instructions were sometimes confusing. The final project is pretty easy but is dragged along the whole semester. Discussion was required but often pointless.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2024-01-09T00:57:01.607144Z"
+    },
+    {
+      "professor": "Kelly Hoffman",
+      "course": "INST201",
+      "review": "the nicest professor ever. class was super chill, just be careful who you choose as ur project partners! otherwise the best professor i wish i could take her again.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-01-09T19:31:49.948306Z"
+    },
+    {
+      "professor": "Courtney Douglass",
+      "course": "INST201",
+      "review": "Please please PLEASE beware of Dr. Douglass!! I am begging you, the other reviews are 100% true. Dr. Douglass is incredibly disorganized, her quizzes make no sense, and she never responds to her emails. High emphasis on the previous review that the semester long \u201cproject\u201d could easily be completed in a day. Honestly the content of this class can be interesting for Info Science but with Dr. Douglass\u2019s poor organization and her leaving mid-semester, the class content felt like a drag and everything was busy work with no assistance from the professor herself. Late grades, but she is lenient with a 50% rule that made up for her tardiness (not sure if this happened in previous semesters) but overall the class with Dr. Douglass was just unnecessary stress and scrambling for what\u2019s an intro course. \r\n\r\nI registered for INST201 with another professor (because I read the reviews first) and on the first day of classes the professor switched to Dr. Douglass without warning - if this happens to you, please switch out!!",
+      "rating": 1,
+      "expected_grade": "C+",
+      "created": "2024-01-18T20:02:46.397769Z"
+    },
+    {
+      "professor": "Dustin Smith",
+      "course": "INST201",
+      "review": "This professor was amazing. The class was very easy and simple. He would often give students the chance to complete assignments if they missed it. He actually made the effort to make the class engaging. He showed cared for his students. We worked on a semester long group project, and we have to write a long essay for it which is very simple if you follow directions. The professor and TA's give a lot of feedback and are always checking in on us. Very simple homework assignments as well and there was no exam. I highly suggest this professor!!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-04-24T01:27:24.881288Z"
+    },
+    {
+      "professor": "Nicole Miller",
+      "course": "INST201",
+      "review": "This class is really easy and Nicole makes sure to make it all the more easier. During the semester she does about five lecture checks but she usually lets you know the lecture before. All of the information is very surface level in relation to infosci but its very helpful. Major assignments are mostly just weekly discussion boards and quizzes. It's really hard not to get an A in this class because she offers A LOT of extra credit opportunities like extra discussion board replies, watching videos and writing about what they are. If I'm not mistaken there are about 30 extra credit points you can earn which is pretty nice. I would definitely recommend taking her if you can.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-05-06T13:06:42.435438Z"
+    },
+    {
+      "professor": "Nicole Miller",
+      "course": "INST201",
+      "review": "Nicole is honestly one of the most considerate professor who understands what it's like to be an undergrad. All of the assignments are easy with them being either weekly quizzes or discussion boards. There is no midterm or final but there is a final project. Her lectures are overall really interesting with her brining in guest speakers for whatever the week's topic is. I feel like you genuinely have to be doing no work to get an A in her class because there are about 30 extra credit opportunities which are relatively low effort. I would definitely recommend taking her if you can.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-05-06T13:11:39.174727Z"
+    },
+    {
+      "professor": "Dustin Smith",
+      "course": "INST201",
+      "review": "Honestly super laid back, and you can really tell that he's passionate. There are lots of readings but that's required and has nothing to do with the prof but he definitely makes them easier to swallow. Super slight class and no reason you should not get an A.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-07T15:31:06.518747Z"
+    },
+    {
+      "professor": "Nicole Miller",
+      "course": "INST201",
+      "review": "Nicole was an amazing instructor. She was super understanding and lenient. She also found a way to add jokes to the lecture. It is a super easy class btw.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-05-07T19:02:16.042580Z"
+    },
+    {
+      "professor": "Courtney Douglass",
+      "course": "INST201",
+      "review": "Please avoid at all costs. Extremely unorganized, confusing quizzes that have nothing to do with class material.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2024-05-07T20:37:33.953019Z"
+    },
+    {
+      "professor": "Nicole Miller",
+      "course": "INST201",
+      "review": "Really interesting class with light work load. She really cared about making the information and course palatable.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2024-05-09T18:13:09.256537Z"
+    },
+    {
+      "professor": "Nicole Miller",
+      "course": "INST201",
+      "review": "Really really cares, an incredibly kind person, but the class is almost too free? If you want a great environment but also some time to work on other work, this is your class. One note though: just because it is an IS class, does not mean programming is involved.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2024-05-09T18:16:40.184495Z"
+    },
+    {
+      "professor": "Nicole Miller",
+      "course": "INST201",
+      "review": "This class is great and the professor is committed to your success in the course. It is just quizzes and discussion boards in the class and one small final project. Super easy and fun class. You do have to go to class and discussions for participation grade.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-05-09T18:17:58.810845Z"
+    },
+    {
+      "professor": "Nicole Miller",
+      "course": "INST201",
+      "review": "I would highly recommend Nicole to any student who needs to take INST201. She makes the course material very engaging and she cares very much about her students. Her grading is pretty chill; Online quizzes are very easy as long as you look at the posted slides, discussions do not take long to fill out, etc... Overall, this class is a very easy A+. Attendance is required (and graded) for all discussions, and you can honestly get away with not showing up to most of the lectures. She will post on the slides when there will be a \"lecture check\" where she infrequently checks/grades attendance (7 times the entire semester). Again, I would highly recommend Nicole as she truly cares about student well-being and grades.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-05-09T18:19:04.028957Z"
+    },
+    {
+      "professor": "Nicole Miller",
+      "course": "INST201",
+      "review": "Nicole is such an understanding professor who actually cares for her students. She is fairly young so she understands all the stress that we have and tries to make the class as easy, but worthwhile as she can. The structure of the class is an easy A and there are many opportunities for extra credit. Even though you could easily pass the class without attending lectures, she made them very interesting with her own examples, bringing in guest speakers, and overall being interactive with us. It was a decent-sized lecture hall but she still was able to get all our attention. \r\nI'd highly recommend taking this class if it is something you are interested in!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-05-12T03:03:15.522736Z"
+    },
+    {
+      "professor": "Madeline Georgevich",
+      "course": "INST201",
+      "review": "Chillest professor ever! I went to maybe 5 lectures and I got a 100% in the class. SO lenient.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-05-22T05:01:06.560246Z"
+    },
+    {
+      "professor": "Angela Rodgers-Koukoui",
+      "course": "INST201",
+      "review": "She's a very lovely professor and you should definitely take her if you can. The work is minimal and attendance is not required. A lot of her assignments are common sense and the most amount of work you need to put it in is for the final group project.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-11-11T17:51:14.285788Z"
+    },
+    {
+      "professor": "J Stephanie Rose",
+      "course": "INST201",
+      "review": "she literally doesn\u2019t teach the class, she talks for 10 minutes and sits there for the rest of the class. and she\u2019s rude.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2024-11-22T01:26:34.379017Z"
+    },
+    {
+      "professor": "J Stephanie Rose",
+      "course": "INST201",
+      "review": "there is 0 point in attending lectures cuz she doesn\u2019t teach shit. all we do is yap about the weekly readings for the entire class and then she tells u the homework. she randomly cancels class. she is probably the rudest professor i\u2019ve ever had. if u email her about a question, she tells u to ask a classmate or pay attention in class. the only reason i am not giving her a 0/5 is cuz this class is easy. a monkey could understand the concepts in this class",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2024-12-03T18:19:31.573875Z"
+    },
+    {
+      "professor": "Angela Rodgers-Koukoui",
+      "course": "INST201",
+      "review": "Very nice and lenient professor! The workload for this class is very light, consisting of weekly discussion boards and bi-weekly reflection essays. The assignments were not difficult at all. The final group project was either creating a presentation or podcast about the history of a technology. I skipped the majority of lectures. Discussion was mandatory but the TA did a great job of leading my section and the content we learned was interesting.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-03T18:20:02.382151Z"
+    },
+    {
+      "professor": "J Stephanie Rose",
+      "course": "INST201",
+      "review": "As a professor she sucks major ass, Intro to Infosci is generally an easy class and an easy A as long as you get your work and HW in on time. However if you are genuinely interested in Infosci please choose a different professor. Shes generally a person who doesn't seem very interested in the subject herself, is rude to the students as well as dismissive, her lectures suck and only take like 15-20 minutes despite the whole class lasting like an hour and 15, and she forces you to stay in them, doesnt actually take attendance besides the check-in forms that she SOMETIMES has. Other than that an incredibly easy class with easy assignments, 2 quizzes (you literally dont need to study just use common sense) and one final presentation/paper. BTW she literally gloated about leaving us to go to Japan for like a whole week.",
+      "rating": 2,
+      "expected_grade": "A+",
+      "created": "2024-12-05T04:16:32.704688Z"
+    },
+    {
+      "professor": "J Stephanie Rose",
+      "course": "INST201",
+      "review": "As a professor she really sucks, Intro to infosci is generally an easy class and an easy A as long as you get your work and HW in on time, however if you are genuinely interested in infosci please choose a different professor. She doesnt seem very interested int eh subject herself, is rude to the students as well as dismissive, her lectures suck, presentation material lasts about like 10-20 minutes and she forces you to stay the rest of the class which is about an hour and 15, doesnt take attendance besides the check-in forms that she has, other than that its an incredibly easy class, 2 quizzes and one final presentation/paper",
+      "rating": 2,
+      "expected_grade": "A+",
+      "created": "2024-12-05T04:37:24.689810Z"
+    },
+    {
+      "professor": "J Stephanie Rose",
+      "course": "INST201",
+      "review": "These reviews down below are actually so irrelevant. These students who made the reviews down below never once payed attention nor participated in class. Quite frankly, they are just rude. They didn\u2019t even give her the time of day, so she didn\u2019t give them hers. If you respect her, she respects you. I\u2019ve asked her multiple questions and got a response that was both appropriate and respectful. The class is extremely easy and if you ACTUALLY pay attention and participate you will learn something out of it. It\u2019s a great genED to take with fair due dates and leisurely work. You will have about 2 quizzes that she makes study guides for. Plus the WHOLE point of INST201 is to have discussions\u2026 it was literally stated in her syllabus. So if you aren\u2019t discussing, then why should she discuss. She not going to sit there and look stupid asking questions to people who aren\u2019t responding. So please consider taking this class, because as an INFO SCI major you\u2019re going to have too. Ignore the immature responses below. Also I didn\u2019t know it was a crime to randomly cancel classes ? She canceled like 4 classes. It was never that serious.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-06T02:04:26.886589Z"
+    },
+    {
+      "professor": "J Stephanie Rose",
+      "course": "INST201",
+      "review": "She cancels class a lot and is rude and out of pocket which is why it was entertaining sometimes being in the class because of how randomly out of pocket she would be. You do not really learn much at all and most of the time you sit in silence... It is a really easy class but for me it felt like a waste of time.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2024-12-06T02:23:15.111708Z"
+    },
+    {
+      "professor": "J Stephanie Rose",
+      "course": "INST201",
+      "review": "She doesn\u2019t teach and cancels class all the time with little notice, also is generally rude",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2024-12-06T17:35:48.789619Z"
+    },
+    {
+      "professor": "J Stephanie Rose",
+      "course": "INST201",
+      "review": "lowk a free grade, decent gen ed, just choose a diff professor to make it worth your while and not feel like youre wasting your time sitting in that class. Everyone below saying shes rude aint wrong, that one five star rating is like so untrue. That she didnt give the time to students who did give her the time. First like 3 weeks of class there was this one guy who seemed genuinely interested in the class and actually asked questions, paid attention, sat in front of the class despite not being able to attend the first couple of classes for some external reason, and really tried in the class. Only for the professor to literally brush him off and and answer him with \"yeah\" and dry ass responses with a blank stare. I havent seen him since, pretty sure he dropped the class cus of that. but yeah a 6th grader could understand the material in the class, you could not show up a single day and pass with an A+, I would know thats what I did. the assignments are literally just yap for x amount of pages with single spacing. Shes also really mean for no reason when you try to ask for clarification on the formatting of assignments (text size, spacing, etc) even though it isnt explicitly stated.",
+      "rating": 1,
+      "expected_grade": "A+",
+      "created": "2024-12-06T17:48:25.703019Z"
+    },
+    {
+      "professor": "Phillip Thompkins",
+      "course": "INST201",
+      "review": "Take this class with Professor Thompkins!! I took this course as a benchmark for Information Science and it\u2019s what made me realize I want to do it. The class is genuinely so easy to do well in it consists of weekly discussion boards where you have to comment on someone else\u2019s post as well to get the full points and weekly online canvas quizzes based on the readings and from lecture, but it\u2019s genuinely like so easy like the quizzes are, I think 5 to 10 points each and they\u2019re all directly from the slides and the readings and multiple choice. Professor Thompkins is so chill. He\u2019s very young professor, so he is really understanding and he really focuses on trying to be there for his students and be as relatable as possible.\r\n\r\nHe also offers SO MUCH extra credit!! It\u2019s nearly impossible to not get an A/A+ in this class. There are no exams, finals, or paper quizzes in his class either. \r\n\r\nI barely showed up to lectures, but I went to my discussions every week which I would definitely recommend going to because the majority of your grade is based on the final group project and the discussion sections is when you meet your group members and you get time during that discussion to work on your group project. The class is very laid-back, which is really nice for if you\u2019re doing it as a gen ed or if you\u2019re doing it as a benchmark course because it\u2019s really stress-free and if it ever is stress inducing professor Thompkins is really understanding!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-06T23:38:55.117328Z"
+    },
+    {
+      "professor": "Phillip Thompkins",
+      "course": "INST201",
+      "review": "Take Professor Thompkins if you have the choice to. His class is very laid back and he is even more laid back. He offers you to ask any questions you have about anything in technology and he will give you the answer. The class INST201 is very easy. It has a weekly discussion post and quiz but that's it. No tests! I showed up to class every week but many did not and I'm sure they did fine as well. The final is worth most of your grade and it is a 5 person paper that needs to be only 3k words. I would definitely take him if you have the chance to.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-09T15:31:45.055346Z"
+    },
+    {
+      "professor": "J Stephanie Rose",
+      "course": "INST201",
+      "review": "Don't take her. Don't listen to that 5 star review it's not worth it.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2024-12-10T00:18:40.120169Z"
+    },
+    {
+      "professor": "J Stephanie Rose",
+      "course": "INST201",
+      "review": "Gate kept the final presentation information from me and would not tell me what it was I was supposed to do for it for a week before finally sharing it to me the day before it was due.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2024-12-10T18:40:51.379767Z"
+    },
+    {
+      "professor": "Phillip Thompkins",
+      "course": "INST201",
+      "review": "Extremely easy class. The professor is extremely laid-back and funny. He gives lots of extra credit and also at the time of writing this review has 24-hour grace period for submitting assignments after the due date without being penalized. If an assignment is due Friday night, you can turn it before 11:59 pm on Saturday and get full credit. \r\n\r\nThe class itself is a requirement for my major but I feel like I didn't get much out of the class. \r\n\r\nNo final in-person exams. No tests. You do have a final-paper that you will work on for the majority of the semester with a group of classmates. Discussion is required, lecture is not. Lecture was Monday and Wednesday, discussion is on Friday. Nearly impossible to get lower than a A/A+. \r\n\r\nClass mainly consists of discussion boards, weekly lecture exit tickets, quizzes online (very easy), and then working on the semester-long project. Overall probably about 1.5-2 hours per week of work.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2024-12-12T07:59:39.442700Z"
+    },
+    {
+      "professor": "Phillip Thompkins",
+      "course": "INST201",
+      "review": "Chill and understanding professor. Makes this class an easy A with all the extra credit opportunitues he provides. Also is very understanding for extensions. Class contains weekly discussions, quizzes, and lecture tickets where you need to write 3 things you learned from lecture that week. Class does require semester long group project, but if you have a good group it should be enjoyable.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-12T22:06:18.205383Z"
+    },
+    {
+      "professor": "Phillip Thompkins",
+      "course": "INST201",
+      "review": "great proffessor, class was very laid back easy gen ed",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-17T19:59:21.606348Z"
+    },
+    {
+      "professor": "Phillip Thompkins",
+      "course": "INST201",
+      "review": "Super chill guy and easy coursework since he is a recent grad so he understands students have other classes in addition to this one. The topics covered in the class were also pretty interesting and were a good break from harder classes. Assignments are quick and final paper is easy if you have a good group. He is also lenient grader and will grant extensions for basically any assignment. Only downside is that the class meets 4 times a week, although lectures are optional.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-19T03:59:39.927924Z"
+    },
+    {
+      "professor": "J Stephanie Rose",
+      "course": "INST201",
+      "review": "I'll give her a honest review. She can be \"nice\" in some situations and sometimes can be a lenient grader. However, there are a couple things we had trouble with. The slides for the classes are not published after class. Thus, we have to rely on what we remember on instruction. For example, she showed the information regarding the criteria for our final presentation. Unfortunately, she didn't publish the slides until the day of the first presentations. I'd say it's pretty unfair for those who presented on day one. I haven't emailed, so I never experienced her being \"rude\". However, her tone during class sounded like she's a bit unprepared and unmotivated. The class ends around 8:45pm so I kinda don't blame her. INST201 is an extremely easy class. Neanderthals can literally still pass this course. 70% of the classes are so skippable. Almost like coming to a late night class only to see her talk is like a waste of time.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2025-02-04T02:58:08.309164Z"
+    },
+    {
+      "professor": "Phillip Thompkins",
+      "course": "INST201",
+      "review": "Didn't go to lecture ONCE and got the easy A+. Just busy work and a semester long project that is just writing heavy. Professor is an easy grader and super lenient on extensions.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-02-22T06:33:18.229204Z"
+    },
+    {
+      "professor": "Yeweon Kim",
+      "course": "INST201",
+      "review": "Terrible professor. Can not understand what she says, she just reads off the slides, and does not provide any review for the quiz. So basically you have to review all your lecture notes and all the long readings to prepare for the quiz.",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2025-02-28T00:14:50.870977Z"
+    },
+    {
+      "professor": "Dustin Smith",
+      "course": "INST201",
+      "review": "I took Dustin in Fall 2024, and he was amazing. The class was fairly easy with a quiz and discussion board post every week, along with a discussion section every Friday for us to get with our team for the semester-long final project. Although there were a lot of readings, which is fairly common for all INST201 sections, he would go over them in class and offer additional insights as to how they can connect to our lives.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-03-24T00:04:48.151141Z"
+    },
+    {
+      "professor": "Jieun Yeon",
+      "course": "INST201",
+      "review": "You have to attend every single class to get a good grade. Attendance exit tickets for every class and she often takes attendance. Papers are super vague with bad rubrics and you will have no idea what you're doing 99% of the time.",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2025-04-22T18:30:15.974426Z"
+    },
+    {
+      "professor": "Jieun Yeon",
+      "course": "INST201",
+      "review": "Easy class if you keep up with the readings and attend the classes. The professor herself is understanding as I came across many group problems and had to contact her very often. She responds fast and tries to find solutions regarding the concerns. Like what others said, attendance is very important to your grade with exit tickets at the end of every lecture and discussion. She's considerate when you email her about an absence but you'd have to give her some kind of proof or documentation to allow you to make up the exit ticket you missed. Grading is very weird and I didn't like how a lot of the quizzes were only up to 2 points with 5 questions as some of them kind of tanked my grade. She also gives good feedback on written papers and allows extensions if you are overwhelmed with other assignments. Overall, it\u2019s an easy A if you stay on top of assignments and attend regularly, though it can feel high maintenance.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-05-08T19:47:32.867151Z"
+    },
+    {
+      "professor": "Jieun Yeon",
+      "course": "INST201",
+      "review": "Easy class, you'll just have to go to every lecture and discussion for exit tickets. There are weekly quizzes (online, 1 attempt) and writing assignments occasionally but you can wing them, given you look at the readings somewhat, and still have a decent grade in the end.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-05-09T22:13:35.925564Z"
+    },
+    {
+      "professor": "Jieun Yeon",
+      "course": "INST201",
+      "review": "The professor is very kind. However, the rubrics were hard to find and the Canvas was disorganized at times. I didn't think it was easy to figure out what she was looking for in essays. The class was more work than in previous years.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2025-05-12T00:54:00.759184Z"
+    },
+    {
+      "professor": "Jieun Yeon",
+      "course": "INST201",
+      "review": "Lectures and discussions are mandatory and come with exit tickets. As long as you put enough effort into the assignments and show up, you'll be fine. Sometimes, the discussions felt very unstructured though. You will also be assigned a group throughout the semester to work on the research report. There are also extra credit assignments that help a lot.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-05-13T16:32:40.384931Z"
+    },
+    {
+      "professor": "Jieun Yeon",
+      "course": "INST201",
+      "review": "I think Professor Jieun is amazing! Her classes will require attendance (not taking attendance really but will need exit tickets) and she will basically know if you did come or not even if you did the exit tickets. TBF that's how it should be. Her course is an INTRO class and if you have a problem with it, I say you prolly are too advance for it. Despite knowing a lot prior, her lectures are pretty decent and allows you to think more about the major. Professor Jieun herself is super kind and helpful. Her communication is among one of the best I've encountered here at UMD, and you can tell she really cares for her students. Has extra credit opportunities, allows extensions, there is a group project that is semester long, only thing I didn't like so much is that I wished she was a little stricter on telling people to do work in group projects. I wished there was a reflection part where we could've told her what teammates helped and who didn't, but it sounds like she will come up with something in later classes.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-13T18:58:34.197958Z"
+    },
+    {
+      "professor": "Jieun Yeon",
+      "course": "INST201",
+      "review": "Ignore her bad reviews, she is a good professor. Attendance is required because she does exit tickets after every class but they are very easy. Lectures are online so there is absolutely no reason for the bad reviews for attendance when all you have to do is join on zoom. Quizzes are easy you can just control F the answers in the weekly readings for them. The class as a whole is easy, except the discussion is very disorganized most weeks. Her rubrics are very easy to understand and the project is easy to understand as well. The bad reviews are most likely from people who did not pay attention or are just braindead.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-05-15T00:08:13.184050Z"
+    },
+    {
+      "professor": "Jieun Yeon",
+      "course": "INST201",
+      "review": "The professor is nice. But I did not enjoy the class much. The rubrics for our large paper assignment were incredibly vague and caused a lot of confusion amongst the class because no one had any idea what she was looking for. The discussion was a hit or miss, depending entirely on your TA. One thing that didn't sit right with me is that the professor occasionally belittled some students who were the MAIN ONES PARTICIPATING in lectures and discussions but I will give her the benefit of the doubt that it was due to her language barrier. However, this deeply affected participation because we went from having 10-15 people engaging regularly to roughly 2 by the end of it. Attendance is mandatory, exit tickets are given every time. If your group mates are lazy than goodluck figuring out how you are going to do the final paper.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-05-15T00:14:58.436511Z"
+    },
+    {
+      "professor": "Yeweon Kim",
+      "course": "INST201",
+      "review": "Pros: required to submit 7 out of 12 weekly assignments, required to complete 2 out of 3 quizzes (highest two count), just need to get 14 participation points to get max grade for participation category, can do major assignments in groups if you wish\r\n\r\nCons: grade calculation is harsh (each point you get off of any assignment equates to 1% off of final grade), mandatory participation, in person quizzes pen/paper (all other profs have them online take home), TA's grade harsh, TA's don't email you back, lectures and discussions are so dead but you have to be there",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2025-05-15T18:31:17.006930Z"
+    },
+    {
+      "professor": "Yeweon Kim",
+      "course": "INST201",
+      "review": "The class itself is easy; you have weekly reflections that you need to do, but you only need to do 7 out of the 12 weeks, show up to classes and discussions to get participation points, where you only need 14 points. She says that \"you are required to go to discussions,\" but I only showed up to a handful, and in discussions, you are just doing a boring group assignment for participation points. She gave out study guides after the class had done so badly on the first one, and after that, they became easier. As for the major assignments are pretty straightforward; make sure you plan ahead because it can be a lot of writing.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2025-05-17T04:49:49.744853Z"
+    },
+    {
+      "professor": "Yeweon Kim",
+      "course": "INST201",
+      "review": "I want to clarify first that I want to be generous (so take my review with a grain of salt) as this was her first semester teaching a class and does seem a genuinely kind professor just kinda overloading with concepts in teaching. You only need to complete 7 out of 12 weekly reflections which are overall pretty easy, only need 14 participation points (theres about 2-3 per week), and only need to complete 2 out of 3 quizzes (lowest dropped). After you're doing with participation points, you can optionally skip class (and she posts the slides). \r\n\r\nBut there are some negatives: First of all, the weekly readings actually expected was kinda ridiculous and I really don't think a single person in this class read all of them, let alone retained anything from them. The quizzes are more like exams in my opinion because the review needed to cover the entire 4 weeks of lectures is pretty crazy for me personally; you need to cover a lot of the content in the past lectures and that can include obscure concepts in the weekly readings and the slides and its just really hard to know what will be covered in the exam and what won't be. For papers, I personally found them really difficult to find the literature on and kinda long (4 pages for a major assignment and 6 for the final paper). Also, classes and discussions are very boring and just kinda hard to get through in general. For lectures, she does know what she is talking about when she teaching but there isn't anything really new from what she is saying and what is on the slides. For discussions, they were just super mudane where they often just reviewed assignments, made you work in groups for the class, or just talk about the readings/content. \r\n\r\nOverall, the class wasn't completely crazy, just kinda boring and confusing, plus when major work was assigned I felt like I just had to write papers on scarce literature concepts in information science plus I felt my education was just a whole load of weird concepts. I don't think she deserves 1 star (more like a 2-2.5?) but I think she definitely needs to restructure her class.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-05-17T06:37:59.052450Z"
+    },
+    {
+      "professor": "Jieun Yeon",
+      "course": "INST201",
+      "review": "Strict on attendance. Easy class with ample opportunities for extra credit. Ignore the bad reviews.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-11-10T01:11:24.955451Z"
+    },
+    {
+      "professor": "Fabian Faccio",
+      "course": "INST201",
+      "review": "Super chill professor, class is basically a whole lot of busy work with one group research paper which they seem pretty lax about. Id take this class for an elective or any gen ed.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-15T02:09:38.349941Z"
+    },
+    {
+      "professor": "Fabian Faccio",
+      "course": "INST201",
+      "review": "You learn interesting things in class, all things considered. It's important to understand how humanities and technology combine. But the lectures border on coherent and every assignment feels like slop. Grading also feels arbitrarily strict for a class of this level, but it's generally a free A. That said, it's hard to call it a good Introduction to Information Science.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2025-12-18T21:44:24.070511Z"
+    },
+    {
+      "professor": "Dustin Smith",
+      "course": "INST201",
+      "review": "This was a very easy class. My class was online, and we met on Tuesdays and Thursdays online. We had attendance through Google Forms, but I don't think the professor checked them. We had discussions every Friday, and that's where most of the Draft and Research Reports were made. We had discussions that were straightforward and also had quizzes with 2 attempts each. The class had a lot of readings, but if you skim through them, you should be fine since the readings are discussed in class. We also had exit tickets where we had to write 3 things we learned that week. The Research Report is very straightforward, and you work on it throughout the semester with a ton of feedback from the TA, Shoutout to Kuru, as long as you follow the directions, you should be fine.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2026-01-24T00:56:20.720045Z"
+    },
+    {
+      "professor": "Mustafa Sikder",
+      "course": "INST201",
+      "review": "Does not answer questions and becomes visibly frustrated when you ask questions\r\nReads off slides word for word, lectures are low quality and passionless \r\nNo office hours?\r\nsame complaints for the TA's\r\nNo support for students, \r\nregularly forgets to share slides, gets mad when you remind him\r\nYou must have expert self teaching skills",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2026-04-08T18:46:49.063748Z"
+    }
+  ],
+  "department": "INST",
+  "course_number": "201",
+  "name": "INST201",
+  "title": "Introduction to Information Science",
+  "credits": 3,
+  "description": "<b>Credit only granted for:</b> INST201 or INST301.\n<b>Formerly:</b> INST301.\nExamining the effects of new information technologies on how we conduct business, interact with friends, and go through our daily lives. Understanding how technical and social factors have influenced the evolution of information society. Evaluating the transformative power of information in education, policy, and entertainment, and the dark side of these changes.",
+  "is_recent": true,
+  "geneds": null
+}

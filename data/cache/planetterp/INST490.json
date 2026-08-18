@@ -1,0 +1,333 @@
+{
+  "average_gpa": 3.767461044912924,
+  "professors": [
+    "Elizabeth Bonsignore",
+    "Gregory Smith",
+    "Timothy Summers",
+    "Mary Kendig",
+    "C Rytting",
+    "Andrew Fellows",
+    "Richard Panzer",
+    "Philip Piety",
+    "Pamela Duffy",
+    "Mary Francis",
+    "Vedat Diker",
+    "Katy Lawley",
+    "TJ Rainsford",
+    "Babak Hamidzadeh",
+    "Bill Kules",
+    "Andrew Fellows",
+    "Bill Kules",
+    "Katy Lawley",
+    "TJ Rainsford",
+    "Tamara Clegg",
+    "Timothy Rainsford",
+    "William Kules",
+    "Andrew Fellows",
+    "Bill Kules",
+    "Mary Ann Francis",
+    "Mary Francis",
+    "Timothy Rainsford",
+    "William Kules",
+    "Andrew Fellows",
+    "Bill Kules",
+    "Mary Ann Francis",
+    "Jesse Klein",
+    "Travis Wagner",
+    "Jesse Klein",
+    "Richard Panzer",
+    "Timothy Rainsford",
+    "William Kules",
+    "Jesse Klein",
+    "Travis Wagner",
+    "Andrew Fellows",
+    "Jesse Klein",
+    "Mary Ann Francis",
+    "TJ Rainsford",
+    "William Kules",
+    "Andrew Fellows",
+    "Jesse Klein",
+    "Mary Ann Francis",
+    "Richard Panzer",
+    "Tamara Clegg",
+    "TJ Rainsford",
+    "William Kules",
+    "Andrew Fellows",
+    "Jesse Klein",
+    "Katy Lawley",
+    "Mary Ann Francis",
+    "Stacy Surla",
+    "TJ Rainsford",
+    "Alla Levin",
+    "Andrew Fellows",
+    "Jesse Klein",
+    "Kibbi Henderson",
+    "Pamela Duffy",
+    "Patrick Thornton",
+    "Stacy Surla",
+    "Tamara Clegg",
+    "TJ Rainsford",
+    "Caro Williams-Pierce",
+    "Jesse Klein",
+    "Nitzan Koren",
+    "Andrew Fellows",
+    "Jesse Klein",
+    "Mary Ann Francis",
+    "Nitzan Koren",
+    "Stacy Surla",
+    "Tamara Clegg",
+    "TJ Rainsford",
+    "Alla Levin",
+    "Alla Levin",
+    "Andrew Fellows",
+    "Jesse Klein",
+    "Lesley Langa",
+    "Patrick Thornton",
+    "Ryan O'Grady",
+    "Stacy Surla",
+    "Tamara Clegg",
+    "TJ Rainsford"
+  ],
+  "reviews": [
+    {
+      "professor": "Timothy Rainsford",
+      "course": "INST490",
+      "review": "Absolutely the best professor I've ever had the pleasure of learning from. He keeps it real and creates a welcoming atmosphere that encourages participation, questions, and anecdotes. He is very laid-back and is willing to discuss any topic with the class, whether that be interview tips, job advice, or insight on the working world and how to effectively manage your income. He is a very experienced individual who has worked several high-ranking positions across various IT fields, so you can trust he knows what he is talking about. His stories about personal experience and life advice is truly inspiring and worth listening to. If you are willing to show that you care about learning, he is more than willing to teach.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2019-12-18T00:27:35Z"
+    },
+    {
+      "professor": "Timothy Rainsford",
+      "course": "INST490",
+      "review": "Absolutely the best professor I've ever had the pleasure of learning from. He keeps it real and creates a welcoming atmosphere that encourages participation, questions, and anecdotes. He is very laid-back and is willing to discuss any topic with the class, whether that be interview tips, job advice, or insight on the working world and how to effectively manage your income. He is a very experienced individual who has worked several high-ranking positions across various IT fields, so you can trust he knows what he is talking about. His stories about personal experience and life advice is truly inspiring and worth listening to. If you are willing to show that you care about learning, he is more than willing to teach.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2019-12-18T00:27:50Z"
+    },
+    {
+      "professor": "Timothy Rainsford",
+      "course": "INST490",
+      "review": "Absolutely the best professor I've ever had the pleasure of learning from. He keeps it real and creates a welcoming atmosphere that encourages participation, questions, and anecdotes. He is very laid-back and is willing to discuss any topic with the class, whether that be interview tips, job advice, or insight on the working world and how to effectively manage your income. He is a very experienced individual who has worked several high-ranking positions across various IT fields, so you can trust he knows what he is talking about. His stories about personal experience and life advice is truly inspiring and worth listening to. If you are willing to show that you care about learning, he is more than willing to teach.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2019-12-18T13:27:07Z"
+    },
+    {
+      "professor": "Katy Lawley",
+      "course": "INST490",
+      "review": "She's an amazing professor. Throughout the semester, she regularly met with our team and provided detailed feedback and recommendations on various aspects of our capstone project, enabling us to successfully hand over our project deliverables to our client. Prof. Lawley was also really accessible outside of class and responded to messages very quickly. Her lectures were really informative, especially those on professional development. She is very knowledgeable on this topic, so I would strongly encourage you to visit her office hours, especially if you need help with resumes or job interviews. ",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-06-18T05:25:09Z"
+    },
+    {
+      "professor": "Bill Kules",
+      "course": "INST490",
+      "review": "Starts out as a very chill professor and is easy to talk to, however he has a bad habit of gaslighting the class on assignments. Gives the class templates for everyone to use, then says to not follow the templates and takes points off the class' assignment purely because of that. The TAs he had this semester do it as well so the instructional team gaslights students. The first assignment that was related to the overall major project nobody got a full score on because of his gaslighting with templates.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2022-10-19T14:39:41.293664Z"
+    },
+    {
+      "professor": "William Kules",
+      "course": "INST490",
+      "review": "My semester with professor Kules was fine. He would waste work time re-iterating topics we've already learned din past courses and doesn't operate elms as efficiently as you'd need. His TA's do most of the work in being helpful resources to our project. He forces us to communicate on slack and would give us examples on elms that he doesn't expect us to follow. A lot of people ignore his bloated lectures to do coursework which results in loads of students missing a sentence of important information that would end up having us turn in assignments incomplete.\r\n\r\nEither way, apart from these little issues, Kules still provides an environment that allows you to succeed with your group, but he definitely isn't the best professor for it.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2023-01-03T02:05:50.548019Z"
+    },
+    {
+      "professor": "Mary Ann Francis",
+      "course": "INST490",
+      "review": "Very slow lectures, but gave good feedback and time to revise.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2024-01-02T06:58:00.634739Z"
+    },
+    {
+      "professor": "Richard Panzer",
+      "course": "INST490",
+      "review": "The course itself is just a group project on steroids for the entire semester. The group members matter more than the professor imo. Rich is a super chill guy and there won't be any sort of problem with that regard.\r\n\r\nGoing into this course you'd be more worried about if your group members are competent or not imo.\r\n\r\nBut yes, take the course with him. I strongly recommend.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-01-14T23:34:58.608511Z"
+    },
+    {
+      "professor": "Mary Ann Francis",
+      "course": "INST490",
+      "review": "Sweet person, and provides good feedback. Agree with the lectures being slow, but honestly, it is not that big of a deal breaker since most of the class has to do with your semester-long project.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2024-05-08T09:06:29.182738Z"
+    },
+    {
+      "professor": "Richard Panzer",
+      "course": "INST490",
+      "review": "Richard was a ok professor the only flaws about him is he is very sarcastic and rude. Also as someone else said in this thread he takes very long to respond to emails which is not helpful. He also is very serious and barely jokes but as far as the workload as long as you have a good group you should be on point in this class.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2024-05-14T21:47:51.284103Z"
+    },
+    {
+      "professor": "Andrew Fellows",
+      "course": "INST490",
+      "review": "Old school professor who wants you to succeed. Would highly recommend.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-04T04:01:42.685109Z"
+    },
+    {
+      "professor": "Andrew Fellows",
+      "course": "INST490",
+      "review": "Overall an easy A. Holds his students to a high standard. Would recommend.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-13T22:39:35.454949Z"
+    },
+    {
+      "professor": "Jesse Klein",
+      "course": "INST490",
+      "review": "Jesse is an amazing professor! She brings a great sense of humor and always has a smile on her face, making every class enjoyable. Her positive energy creates a fun and engaging learning environment, and it's clear that she genuinely cares about her students. I truly wish there were more professors like her who make learning so much fun and interesting!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-20T14:13:03.144851Z"
+    },
+    {
+      "professor": "TJ Rainsford",
+      "course": "INST490",
+      "review": "Yaps in Class for no reason and gives assignments he never grades. The class INST490 isn't hard per say, but he has a bad grading system.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2025-01-07T03:19:15.919896Z"
+    },
+    {
+      "professor": "TJ Rainsford",
+      "course": "INST490",
+      "review": "TJ is the GOAT. He's really knowledgeable about what he does and is always willing to set you up for success in the long run, not just for class.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2025-02-27T16:59:58.416187Z"
+    },
+    {
+      "professor": "Alla Levin",
+      "course": "INST490",
+      "review": "Very confusing instructions, changes due dates randomly, instructions on the assignment are not actually what she wants. For class presentations, make sure you ask a million questions beforehand or you will get up there and spend half an hour getting yelled at. Consider recording or writing down conversations because she will suddenly decide she didn't actually say that.\r\n\r\nCan't trust anything, put on your teacher's pet hat. Random bonus points for wearing bizcas, but she doesn't actually take names down...\r\n\r\nTake another professor for your capstone if you want to actually have a useful experience. She just cares about project management, not the product. We are not business students.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2025-03-05T23:51:47.936319Z"
+    },
+    {
+      "professor": "Alla Levin",
+      "course": "INST490",
+      "review": "Confusing class. No organized and does not follow the syllabus. She gaslights students and rips into them. She is relatively lenient with grading as long as you ask or pester her. However she does not help with group issues. Overall this class adds more stress to your life for no reason.  You put way more effort into trying to cater to her than you do the actual projects.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2025-05-06T06:02:38.896273Z"
+    },
+    {
+      "professor": "Alla Levin",
+      "course": "INST490",
+      "review": "The most confusing and terrible course I have ever taken and this is supposed to be a capstone course. The professor was the most rude and hateful prof I have ever had, she would yell and gripe at you for the smallest thing. She created the most stressful terrible environment ever. Not only did she do this she also committed multiple FERPA violations by showing individual student grades and would even see a grade and go \"oh yeah this person does not deserve this high of a grade\" and lower it in front of our faces. \r\n\r\nShe forces you to remember every single word she says in class and if you do not remember it she will rip into you in front of everyone. She will constantly brag about her achievements or what she does in her personal time to make you feel bad. \r\n\r\nJust take a different professor....easily was the worst professor/teacher/instructor I have had in my academic experience",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2025-05-07T21:36:31.989324Z"
+    },
+    {
+      "professor": "TJ Rainsford",
+      "course": "INST490",
+      "review": "For someone who supposedly loves efficiency and hates wasting time, Rainsford wastes an incredible amount of time bragging about his experience, how many positions he's held (CTO is a favorite, despite it being at a company with only about 30 employees), how many people he's hired or fired, et cetera.  Rainsford has mentioned a few times how we may notice that he \"talks like a person with a PhD,\" and that he is a PhD candidate; he tries his best to compensate for his lack of a PhD.  Rainsford has an enormous ego, and seizes every opportunity to talk about his \"experience,\" which usually is not pertinent to the task at hand.  If you have a question, there is a high probability that he will flip it so that you feel bad for asking it.  He never grades, rarely utilizes ELMS, is late to respond to emails, and acts extremely arrogant.  I expected Rainsford to have worked for Goldman Sachs with his attitude, but in actuality has never been employed by a company with more than 200 employees (excluding UMD and Mount St. Mary's).  \r\n\r\nI started off the semester like a few of the reviewers here; I thought Rainsford was knowledgeable (which he partially is), but realized that he's rude, arrogant, inefficient, and a pedant.  I rarely leave reviews for professors, but Rainsford killed my enthusiasm for the course (INST490 can be fun, and is rather straightforward) to the point where I dreaded being forced to raise my hand in order to avoid another 10 minute monologue surrounding the laziness of the entire class, or some other insignificant flaw that only a select few students possess.  If no one raises their hand to answer a question, the odds of Rainsford launching into a long monologue shoot up to 90%.  I encourage you to raise your hand no matter how \"stupid\" your answer/response feels - you\u2019ll save everyone time by avoiding one of his tangents.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2025-05-08T07:04:24.521903Z"
+    },
+    {
+      "professor": "Alla Levin",
+      "course": "INST490",
+      "review": "Coming back again to say that she did not get any better - she's pedantic, nitpicky, and doesn't reply enough to emails to merit either of those. She keeps saying things about bonus points but they aren't actually there, and it feels like she keeps changing the shape of the hole we have to fit into. JUST LET ME GRADUATE MAN",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2025-05-12T13:38:37.287723Z"
+    },
+    {
+      "professor": "TJ Rainsford",
+      "course": "INST490",
+      "review": "I'm not gonna rip this prof to shreds like the reviewer before mine (even tho they're not wrong..)\r\nJust try to take another prof for 490 if you can. Maybe with a lower-level class that has more structure this prof would be better, but with a class like 490 it's better if you can find another prof like Klein or something. If not, just prepare to be present and VOCAL during class and with your team (this entire class is basically a huge group project) btw the way things are graded/structured is extremely vague and usually random. Lame advice but just try to keep it pushing and you'll make it through eventually. \r\nI'd kindly suggest Rainsford to think about how he comes across to his students because he clearly has real-world knowledge to share, but his teaching approach could be improved.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2025-05-14T19:05:35.197004Z"
+    },
+    {
+      "professor": "Alla Levin",
+      "course": "INST490",
+      "review": "Typically, I don't write reviews, but after reading some negative comments about Dr. Levin's INST 490 class, which I attended, I felt compelled to share my experience. In my opinion, those criticisms are unfounded. \r\nDr. Levin is an exceptional professor who values hard work and personal responsibility. She is both professional and highly knowledgeable in her field.\r\nThroughout the semester, she provided clear guidance, making it easy to follow her instructions, assuming you attended classes and engaged with the course materials. \r\nThis class was instrumental in preparing me for real-life situations and future employment. \r\nIt was the most impactful course of my academic career. \r\nIf you have the opportunity, I HIGHLY recommend enrolling in Dr. Levin\u2019s classes.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-30T11:34:29.820765Z"
+    },
+    {
+      "professor": "Alla Levin",
+      "course": "INST490",
+      "review": "OMG, seriously?! That bitter review is such a joke. It's obviously just one lazy person spamming the same complaint over and over. I took a few classes with this professor and literally tried to sign up for every single one she taught. She's AMAZING. This person clearly didn't even show up to class, because the instructions were repeated every single session. The prof was super friendly, kind, fair, and totally honest. If someone couldn't handle that, maybe they're just not ready for the real world. \r\nThe syllabus was broken down into two-week Sprints, following the Agile method. Each Sprint had similar deliverables. If someone can't keep up with that, it says more about them than the class. Plus, the professor gave all the bonus points and even added extra \"teacher's appreciation\" points for good work. I think this person was just intimidated by her strong professional background and knowledge.\r\nDon't let this hater's comments fool you. The professor is AWESOME.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-06-02T11:27:54.245662Z"
+    },
+    {
+      "professor": "TJ Rainsford",
+      "course": "INST490",
+      "review": "With over 20 years of experience in the fields of inefficiency, yapping, and pretension, Rainsford brings unparalleled incompetence to the table.",
+      "rating": 1,
+      "expected_grade": "A+",
+      "created": "2025-07-23T18:38:57.664591Z"
+    },
+    {
+      "professor": "Alla Levin",
+      "course": "INST490",
+      "review": "Where do I start? All the 1 star reviews about Dr. Levin are true. If I could give her zero stars, I would. She's judgemental, fussy, and not flexible at all. You just can't impress her, and I wasn't even trying to. She won't explain the topics or assignments properly, the instructions would be unclear and blame you for not doing what was asked. Even after asking a million questions and clarifying, it's like she would change the instructions without you knowing then tell you what you did was completely wrong, sometimes in front of the whole class. She would literally call you out and humiliate you. There was this one review I saw that said, \"She keeps changing the shape of the hole we have to fit in to.\" That's correct.\r\n\r\nJust take a different professor, she's terrible.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2025-10-24T02:00:12.260105Z"
+    },
+    {
+      "professor": "TJ Rainsford",
+      "course": "INST490",
+      "review": "He says you will learn a lot of things, survey said, that's a lie. I knew what I was getting into when I took this class considering it was 3 hours long and met once a week. It was boring, but I can manage. My main gripe is how he talks to his students. He doesn't allow for people to ask him questions personally. You have to say it in class in front of everyone, or it won't get answered. If you send him an email with a question, get ready for that same question to be repeated the next day in class. I really was turned off on how he was yelling at a student. And once the professor realized he looked dumb yelling at the student, he back tracked and said, \" I talk to all of my clients like this, you students are like my clients\" WOW! Nice job taking accountability. He says that students make him feel sad when we don't talk. He said, word for word, \"think about how your professors feel when no one talks\" GEE GOLLY! I wonder why no one speaks up... The environment is not very warm at all. Also, you would not talk to president pines or your boss like that. You just went on a short power trip. Just give me my free A and begone with it.",
+      "rating": 1,
+      "expected_grade": "A+",
+      "created": "2025-12-01T18:00:24.751355Z"
+    },
+    {
+      "professor": "Alla Levin",
+      "course": "INST490",
+      "review": "Great professor, a lot of knowledge in the professional field. The instructions are clear (you should be present in class to hear them \u2013 this is a reply to the negative reviewer below). \r\nI would highly recommend her if you want to get off to the right start in your career.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-18T11:47:43.447907Z"
+    },
+    {
+      "professor": "TJ Rainsford",
+      "course": "INST490",
+      "review": "Honestly, I personally don't think he is aaas bad as the reviews cut him out to be. I fully back the points that he rambles too much. Especially during the first 3-4 weeks of the semester, all he did was talk when we should've been starting our projects earlier, especially with projects that can have so many unforeseen circumstances as when working with a client, and for a class that is only once a week for 2.5 hrs. I didn't enjoy the long winded life lessons in the first half of the semester, and always expected us to play Q&A with the prof. As we got into our projects, he slowly lightened up I can say. My group had a lot of issues with our client and he was very supportive and on our side of things and gave good guidance. I had no worries my grade would ever be impacted, he also answered my emails fairly quickly. Out of a lot of the rambling he did have some good advice (more towards the end of the sem) and I definitely learned a lot with the project. If you take his class you'll be very bored but you'll be fine.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2026-01-06T20:47:54.840416Z"
+    },
+    {
+      "professor": "Alla Levin",
+      "course": "INST490",
+      "review": "I highly recommend avoiding this professor if you want to succeed in capstone. If you want to learn anything related to the workforce or you even just want to graduate, she is not it.\r\n\r\nShe\u2019s a very nitpicky and overly strict professor and overly strict about very miniscule things. Not only do you need to take care of your project but on top of that, you also need to make sure you do cater to exactly what she wants.\r\n\r\nShe also has a habit of asking vague questions or instructions, the student answers, and then she tells them they are wrong because they didn\u2019t approach it in the same detailed way she expects. Except she never actually stated what those expectations are so how are we supposed to meet that?\r\n\r\nShe constantly states every 2 minutes that she does not care what you think of her or that she\u2019s \u201cnot trying to be strict\u201d or justifying what she\u2019s doing in some way. This is clearly indicative of someone who cares way too much about what you think of them and is very much trying to prove how smart they are.\r\nShe constantly needs you to validate that \u201cAlla knows best\u201d and constantly tells you that you are wrong and penalizes your answers and work for a \u201clesson\u201d for a rather minute detail that has no relevance to the coursework, it\u2019s just so she can have a moment to show how she is right. It feels more like you must please her so much so that you don\u2019t actually absorb any skills from the class and another reviewer said it best, you spend more time trying to pander to her every whim and pleasing her than actually learning something from the class.\r\n \r\nI do wanna be fair though and give her some credit. She\u2019s very lenient with resubmissions. She grades very brutally, yes, but she allows you to resubmit. USE those resubmissions to your advantage! There is a chance for you to get an extremely good grade her so listen carefully to what she\u2019s expecting after she critiques you \r\n\r\nOverall, she\u2019s not effective at teaching and it feels more like she\u2019s trying to prove something rather than us actually understanding anything. It\u2019s already stressful when many of us want to graduate and we want to learn about the industry or our jobs",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2026-04-06T01:01:54.234390Z"
+    }
+  ],
+  "department": "INST",
+  "course_number": "490",
+  "name": "INST490",
+  "title": "Integrated Capstone for Information Science",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> 1 course with a minimum grade of C- from (INST201, INST301); and minimum grade of C- in INST126, INST311, INST314, INST326, INST327, INST335, INST346, INST352, INST362, PSYC100, STAT100, and MATH115.\n<b>Restriction:</b> Must be in Information Science program; and permission of INFO-College of Information Studies.\nThe capstone provides a platform for Information Science students where they can apply a subset of the concepts, methods, and tools they learn as part of the Information Science program to addressing an information problem or fulfilling an information need.",
+  "is_recent": true,
+  "geneds": null
+}

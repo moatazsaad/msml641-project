@@ -12,7 +12,16 @@
     "Samet Ayhan",
     "Sujeong Kim"
   ],
-  "reviews": [],
+  "reviews": [
+    {
+      "professor": "Sujeong Kim",
+      "course": "MSML606",
+      "review": "The midterm for the class was completely different in terms of formatting and difficulty. The professor prepared students and provided ample amount of material to study from, but the structure and constraints, such as time limit(60 minutes to solve 30 questions, many of which required reading the full question and each choice, and perform some amount of calculation on), differed from what was expected. The past year's midterm format was completely different from what was seen in the current one. Was not willing to curve despite such low averages for the class, and thought that it was a good distribution. Reads mostly off off slides the whole time. It also seems like most of the assignments are given criteria like a specific word amount, rather than what is most optimal for that question(ironic for a class like this). Also like the other reviews mention, for a very small assignment the requirements are huge, such as creating a report and presentation, all while balancing the workload and studying for this class and other classes as well. Topics are definitely helpful and interesting, but if you expect to learn anything in this class, that will not happen in class. You will need to teach yourself.",
+      "rating": 1,
+      "expected_grade": "C-",
+      "created": "2026-04-21T20:41:57.672051Z"
+    }
+  ],
   "department": "MSML",
   "course_number": "606",
   "name": "MSML606",

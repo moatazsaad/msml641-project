@@ -2264,6 +2264,22 @@
       "rating": 1,
       "expected_grade": "",
       "created": "2026-02-21T21:31:44.328925Z"
+    },
+    {
+      "professor": "Cliff Bakalian",
+      "course": "CMSC330",
+      "review": "Cliff made a lot of changes to 330 this semester making the course significantly more difficult than in past semesters. His lectures are basically useless and his quizzes this semester have been awful. He also appears to not see a problem with all of his students doing terrible in his class.\r\nCliff co-teaches with Anwar so the class itself is the same between professors, but Cliff's lectures are much worse. It also appears that all of the changes to this course making it more difficult have been made by Cliff. \r\nThe course material is the same between the 2 professors but I recommend taking Anwar. He is a better lecturer, and he seems to care more about his students.",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2026-04-10T01:01:35.098884Z"
+    },
+    {
+      "professor": "Cliff Bakalian",
+      "course": "CMSC330",
+      "review": "Cliff's lectures are not very helpful for learning the course content. Luckily, since Anwar and Cliff co-teach, you have access to Anwar's recordings. The programming in this class is the easiest part imo, the rest was a bit difficult. If you take this with CMSC351, good luck. Later projects can be long and quite difficult.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2026-04-19T23:46:50.705856Z"
     }
   ],
   "department": "CMSC",
