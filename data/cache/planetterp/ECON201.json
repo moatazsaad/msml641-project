@@ -1,0 +1,1254 @@
+{
+  "average_gpa": 2.82466704900274,
+  "professors": [
+    "Naveen Sarna",
+    "John Shea",
+    "John Neri",
+    "Svetlana Pivovarova",
+    "Xing Hong",
+    "Kenji Higa-Flores",
+    "Veronika Penciakova",
+    "Heehyun Lim",
+    "Seul Kim",
+    "Seula Kim",
+    "Seho Kim",
+    "Michael Navarrete",
+    "John Shea",
+    "Naveen Sarna",
+    "John Shea",
+    "Naveen Sarna",
+    "Alka Gandhi",
+    "Naveen Sarna",
+    "Michael Navarrete",
+    "Cesar Vasquez Chacon",
+    "Michael Navarrete",
+    "Luying Yang",
+    "Tom Boesche",
+    "John Shea",
+    "Naveen Sarna",
+    "Alka Gandhi",
+    "Naveen Sarna",
+    "John Shea",
+    "Naveen Sarna",
+    "Luying Yang",
+    "Alka Gandhi",
+    "Naveen Sarna",
+    "Dereck Yang",
+    "Jose Cristi Le-Fort",
+    "John Shea",
+    "Naveen Sarna",
+    "Dereck Yang",
+    "Alka Gandhi",
+    "Naveen Sarna"
+  ],
+  "reviews": [
+    {
+      "professor": "John Neri",
+      "course": "ECON201",
+      "review": "I recommend this course! Though I took macroeconomics in high school, I got a 2 on the AP exam and learned almost nothing throughout the year. So, I was a little worried coming into college and taking this class. I did well above the average on both midterms (averages were 72% and 69%). He does not curve individual tests but curves at the end of the semester. Personally I think macro is pretty boring so I don't pay that much attention in lecture, but I don't mind going. He often has technical difficulties, poor man. But lectures aren't painful. He's also a totally nice guy. It's clear that he loves economics, and I think it's important for a professor to be passionate about their subject. Without paying attention in lectures, I am projected to get a B+. Honestly, you just have to study before the exam and you should be fine. You have one homework assignment once a week, and it usually takes about an hour to do. Easy workload, medium-difficulty tests, and a nice guy. Study and you'll be fine!",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2016-12-09T23:54:00Z"
+    },
+    {
+      "professor": "John Neri",
+      "course": "ECON201",
+      "review": "Professor Neri is a horrible professor. If you HAVE to sign up for his class because of a scheduling conflict then I suggest you CHANGE YOUR SCHEDULE because you will not do well in his class. He teaches off of PowerPoints and then gives extremely difficult exams. The average on his Final (spring 2015) was a 65%. Please listen to my advice and stay away from John Neri. He will make you upset and the 4 credits will kill your GPA.",
+      "rating": 1,
+      "expected_grade": "C+",
+      "created": "2015-05-22T00:58:00Z"
+    },
+    {
+      "professor": "John Neri",
+      "course": "ECON201",
+      "review": "I'm sorry but people need to post updated reviews on here. John Neri is a upper level Econ professor that taught an INTRO class. This class was seriously like death. The slides were basically from the book but a little spiced up and the lecture was a snore. He is a very nice man but seriously shouldn't be teaching 201. I went into his office for help a few times and didn't explain things any differently. If your like me and all you have to do is read the book to understand the concept that's fine but be aware that it will not prepare for the exam! There were a few people in the class (clearly Econ majors) that were doing the most and clearly inflated the average. Sadly if there were more up to date reviews on here I would have taken Sarna. Sadly I will have to take him for my upper level Econ class and I am dreading it. His tests are just way to tricky. Please save yourself the trouble and take Sarna don't be a fool because your GPA will pay.",
+      "rating": 2,
+      "expected_grade": "C+",
+      "created": "2013-05-17T14:02:00Z"
+    },
+    {
+      "professor": "John Neri",
+      "course": "ECON201",
+      "review": "This class is definetely less challenging than micro economics but it still involves the same amount of analyzing graphs. But, this class should be taken after ECON200. It will make a lot more sense then.\n\r\nProfessor Neri is definetely one of the better professors at UMD. He cracks some really funny jokes at people and himself during the lecture which almost always facilitates in learning the material. This class starts out really easy and the first exam should be an easy mid B or an A. After that, the class becomes difficult exponentially. My best advice to other students is to read the chapter before and after the lecture it was taught in. It will help a lot especially while doing homework. I felt that homework was way more challenging than the exams itself because he sometimes introduced concepts which he felt that we would magically know just by taking this class. And also because the wording was too damn confusing. \n\r\nA little secret that he doesn't tell his students. MORE THAN HALF OF THE PROBLEMS IN HIS EXAMS ARE DIRECTLY FROM THE HOMEWORK PROBLEMS IN MY ECON LAB. They are literally the best way to study for the exams. I realized this days before the final exam and used the homework problems as the main studying tool. I ended up getting more than 10 percentage points above the class average. But, you should still read the book, not skim it.\n\r\nThe class consisted of 2 midterms (40 questions each), a final exam (55 questions) and the quiz sets on my econ lab (homework) which he drops the lowest 3. He also gave out 5 bonus points twice during semester to reward the students who came and stayed all the way though in his lectures. These bonus points might not seem a lot considering the class was out of 430 points. But they really do help. I ended up getting exactly 90.3% just because of the bonus points. If it weren't for them, I would end up getting somewhere around 87-88%\n\r\nAnd he curves in the end only if the overall class performance was not as good as he hoped for. \n\r\nTake this class with Neri. You will learn a lot!!",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2010-12-24T16:45:00Z"
+    },
+    {
+      "professor": "John Neri",
+      "course": "ECON201",
+      "review": "Really upbeat cool guy. Gives a weekly MyEconLab quiz, but he only counts your top 9 out of like 12. Exams were tough. 10 extra credit points if you went to class and stayed til the end a couple times.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2010-12-20T18:09:00Z"
+    },
+    {
+      "professor": "John Neri",
+      "course": "ECON201",
+      "review": "He was a decent professor.  He knows what he's doing, and he's not the typical dry econ lecturer.  He draws a lot of real-world comparisons and shows examples, he occasionally cracks a joke (although they're not drop dead funny I appreciate his effort), the homeworks and the tests are reasonable.  What you have to keep in mind is the subject matter.  He is a decent professor, but by no means good enough to make econ enjoyable.  It is dry and boring, and I ended up skipping most of the lectures (bad idea, since he occasionally gives pop quizzes to reward those in attendance).  I couldn't pay attention, and ended up reading the textbook the day before the tests instead.  The tests are reasonable if you understand the concepts though, and he doesn't spring anything on you just to be mean.\n\r\nSummary: He's a good professor, but to make econ anything other than dry and miserable, you need to be a really great professor.  Go to class, read the book, do the homeworks, and make sure you know the concepts.",
+      "rating": 4,
+      "expected_grade": " B",
+      "created": "2010-01-18T14:18:00Z"
+    },
+    {
+      "professor": "John Neri",
+      "course": "ECON201",
+      "review": "I don't understand the negative reviews for this professor because to me , he was a really great teacher. While I did this class as a Business school prequisite he made economics so interesting and applicable that I will try to take more econ classes as electives, especially if he is teaching it. Just go to class, study the powerpoints, and rely on knowing the formulas and you are fine. His exams are very fair yet still a bit challenging, he gives 3 attendance quizzes a semester, and he is lenient on the MyEconLab Grades. Just go to lecture and skip the discussion because all you do is go over the MyEconLabs.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2009-12-20T22:27:00Z"
+    },
+    {
+      "professor": "John Neri",
+      "course": "ECON201",
+      "review": "I had an A the entire semester. I just took the final exam and it was one of the hardest I've ever taken.  It was much harder than any exam he gave during the year. Watch out for this final.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2008-12-18T17:30:00Z"
+    },
+    {
+      "professor": "John Neri",
+      "course": "ECON201",
+      "review": "He is nice and funny. You really need to read the book to understand the material and to succeed on the exam. I would recommend going to every class because sometimes he puts questions on the test from things that he talked about in class. One thing that really helped me was  printing out the power points and taking on them while he went over them in class. Also he gives out extra credit quizzes in class. The extra credit is so crucial to your grade especially after the final which is so hard. ",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2008-01-08T02:57:00Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "Professor Sarna is by far the best teacher I have had at The University of Maryland, he does an excellent job making sometimes challenging concepts about ECON easy to understand, he goes over concepts multiple times and draws out tons of examples.  Further, he is very responsive to students needs, for example he made us a mock exam and the TA's gave it too us in class for each exam and that was insanely helpful and was similar to the questions on the regular exam.  In addition he has review sessions in class.  The only thing I would recommend is that you sit in the front because he writes on the board a lot and is hard to see in the big lecture hall.  You cannot rely on the power points in order to get an A because the on board examples is where you do a lot of learning.  Excellent teacher, take him not Neri! ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2016-05-05T15:38:00Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "Made the class very easy to understand. One of the best professors I've had so far. He is very knowledgeable in economics. Explains concepts simply and makes sure students understand the fundamentals. Exams were fair",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2015-06-29T18:43:00Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "Just got  my grade for the class and wanted to write a review for Professor Sarna because he definitely deserves one.  \n\r\nEconomics is my major so I'm very into the material. Lectures were enjoyable for me. Professor Sarna knows his stuff. He teaches in a manner that forces you to understand the models and apply them when tested. He doesn't want his students to memorize and then just regurgitate the material come exam time. And his teaching style reflects that. He is VERY approachable and very nice. He really wants his students to understand the material and do well in his classes.\n\r\nI didn't go to a single discussion and found that reading the chapters in the book prior to lectures was very beneficial. Midterms and the final averaged B/B- for the class. Final grade was curved by 3%. \n\r\nFairly easy class though it will require some diligence as it is a 4 credit class. Bottom line if you have to take ECON201 take it with Professor Sarna. He is an excellent professor.\n\r\nUpdate: I took his ECON317 policies class. He has to be one of the best econ professors I've had. He has lots of real world experience and he brings that knowledge into the classroom. Great lecturer, great class. The class does require considerable effort though if you want an A. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2015-02-13T02:09:00Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "If you have to take this class, take it with Shea! You can tell that he is very intellectual and really knows what he is talking about which is so important. His exams are straight from his lectures, which are full of information. It can be tough, but the best advice I can give is to audio record the lectures and listen to them later.\r\nWhat is the best about Professor Shea is that when it comes down to it, he's a really understanding guy. If you need extra assistance, he will do anything to help you. If you are sick or have something that interferes with deadlines for legitimate reason, he will be understanding completely. He also curves really well. Getting an A in this class is totally doable.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2014-12-17T15:12:00Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "Overall, ECON201 is not such a boring topic. It's pretty interesting. But Shea takes a fairly good topic and makes it probably the most boring class you'll take at Maryland. \n\r\nThat's not to say he doesn't know what he's talking about. When you do find yourself paying attention, you'll see he knows his stuff. It's actually very impressive. However, the way he goes about presenting the information you need to know is abysmal and dry.\n\r\nHe really doesn't go by the textbook at all (I haven't opened it once all year and my final is next week.) Having said that, it means you have to go to class and take really good notes because the exams do come straight from what he writes down, which is a plus I guess. Although, none of the in-class notes are electronic (no powerpoints, nothing on ELMS besides practice exams or problem set answers), so when you inevitably tune him out, you're going to fall behind. He will only write on the chalkboard, which can be brutal when you can't read the handwriting/tune out for a few minutes and fall behind.\n\r\nAs for the class, he's solid as a grader, and this is why I gave him a 3 star rating. Two exams, a final, and problem sets. The problem sets are very easy to get full points on, which translates to 15% of your final grade. The exams, while they can be tough, are very similar to his old exams and are curved, which is really nice.\n\r\nIf you can bear to pay attention twice a week for an hour and fifteen minutes, it shouldn't be too bad and you can do very well. But that can be very, very difficult to do.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2014-12-08T19:06:00Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "Great professor. Extremely intellectual, very obvious that he legitimately earned his graduate degree(s). Do not buy the book, he will write down everything you need to know in class on the board. This in mind, go to lecture since lecture notes are your only source of information (or at least get them from someone else). Must know not only main ideas and key points, but also details and specific facts. The economic history he goes over in class is not just for fun; he puts many questions on exams about it. The only way to succeed in this class is to read over your lecture notes and know them front to back because the exam questions are way too detail-oriented for a \"general concept\" understanding. If you have questions that your friends cannot answer, email him or go to office hours (don't do office hours the week before the exam, since his office is packed with people and he gets extremely peevish, like any normal person would). ",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2012-09-23T00:12:00Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "DO NOT TAKE THIS PROFESSOR! ECON201 is not a terrible class but do not take it with Shea... take it with Sarna! He never ends the class on time and his tests are so hard. Class ends at 315 but on a good day youll get out at 316. He started teaching us the first day of class!!!! He sucks get Sarna!!!!!!!!!!!!!!!!!!!!!!!!!!!! ",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2012-05-17T23:49:00Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "Overall opinion: that man knows his stuff by heart. I respect him for being able to lecture and write on the chalkboard for an hour and 15 min straight. (He will go until the very last minute, and sometimes will go over.)Be ready for solidly and furiously writing for the entire class.\n\r\nHe tends to be redundant in his lectures (A good thing, because he likes to emphasize important points). He goes over points in a somewhat logical manner  and tries to tie them in to current events. He'll even crack the occasional joke or two. \n\r\nTips to do really well:\r\n1) Sometimes his notes on the board aren't very organized. I would take the time to rewrite, or type (which I did) your notes. \r\n2) Do not simply memorize, but understand the logic behind it. He usually explains the logic verbally, so try to listen as you're writing. I was never a verbal learner, so I kind of found it difficult to follow him when he talked. *This is more important for the new material he teaches for the final.*\r\n3) Highlight/mark up important dates. There are always 2-3 questions on the exams that ask for those dates. It hurts if you miss those, since each exam is 30 questions. (Final is 40)\r\n4) Do all your homework. Don't be lazy. It's an easy 100% because it's graded for effort. And they help you study for the exams. He does drop the lowest score out of all of them.\r\n5)The format of his practice exams are very similar to the actual midterms. The questions aren't, because his lectures slightly differ from year to year. But it's a great study tool, because you can see what concepts are behind each question.\r\n6)Don't rely on the curve too much. But by god, I love the curves for this class. He does it by aiming for his target distribution of grades.\r\nNote: I don't think students can fail this class... unless they put in 0 effort. Effort will be rewarded accordingly. \n\r\nEasy to pull off a B, and an A is definitely not out of reach. If you have a curved/projected B after both midterms, do well on the final, and that A can be reached.\n",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2012-01-22T05:00:00Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "Shea is by far one of the best professors I have had on campus. His lectures are very thorough and he is willing to go over any material a student is confused on whether it be in lecture or during his office hours. He also relates the material to today's economy so you have a better understanding of whats going on. His exams are difficult, but if you study for them you will be fine. My best suggestion is to learn the concepts and processes instead of just memorizing formulas. Shea designs his tests to make sure you know the entire process instead of just definitions. I'd also write down any dates he writes on the board because those show up on the exams. I managed to get a 29/30 on the first exam, a 26/30 on the second, a 34/40 on the final and a 15/15 on the problem sets (graded on completion). This totaled to a 90.58 which curved to an A+. I think the cut off for an A was an 81. This class is definitely easy to pass if you put the effort into it.  ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2012-01-08T18:22:00Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "This class is pretty terrible. The material is very basic and not very challenging, however Shea cannot teach and/or explain macroeconomics for his life. He teaches to his students as if they already know the material/definitions and does not help them acquire a proper understanding. He applies a very broad advisory curve to the midterms and then does not necessarily follow through with this scale. Shea does nothing to help out his students. There is no reason for such a steep advisory curve in a basic economics class. Additionally, do not buy the book as it is very expensive and does not assist you in the course (you will use it) . Try to avoid ECON201 with Shea at all costs, as taking the course with any other professor would result in a better understanding of the topic. By the way, he let's you out of class 3 minutes late every lecture. Enjoy",
+      "rating": 1,
+      "expected_grade": "C+",
+      "created": "2011-12-21T23:50:00Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "Shea is one of the best lecturers at the University.  He does right a lot each lecture, but he is very thorough.  The textbook is not needed at all to get an A in the course. The course is also curved significantly.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2011-12-16T19:58:00Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "This class is not too bad if you go to class and take notes. It is really easy to get a B since he curves every exam. There is homework due once a week which is written. It is not too hard but you are graded for completion not correctness so thats a nice boost. Exams are very similar to the practice exams which he posts.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2011-12-07T15:34:00Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "Great Professor. Very knowledgeable, and explains concepts thoroughly. This is a challenging course, but completely worth it. Pay attention in lecture, study lecture notes, problem sets, and past exams and you'll be fine. You will learn a lot of valuable material because Professor Shea is the man.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2011-12-02T18:46:00Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "This was a great professer.  Only a midterm and a final and 10 homework problem sets.they are easy  Exams were difficult.your grade was basically decided by 60 questions for the year.  Although i have learned more in this class than any other class at md.  He is a true professional",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2010-10-20T10:22:00Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "This class is not fun. Shea starts his lecture and does not stop talking until the minute the class is over. He writes everything on the board, which is helpful. However, it is nearly impossible to follow what he is saying while scrambling to copy what he writes down. I wrote four to five pages of notes every lecture. You must attend class to get notes because he does not test you on what is in the book.\n\r\nThe problem sets helped a lot in the midterm and the final, so study those! However, I felt that he just gave us the problems and expected us to know how to do them (when it was clear that we did not.)\n\r\nThe midterm and the final are really, really hard exams. The best way to prepare for these is to go over your problem sets and the questions from his practice exams. Thankfully, there is a HUGE curve at the end. I ended with an 81% and got an A, so I'm happy. \n\r\nDon't buy the book - its unnecessary and a waste of money unless you know that you will not be able to come to a lot of classes. I really wouldn't advise skipping lectures because it is so easy to fall behind!\n",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2010-05-23T11:28:00Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "An amazing professor! I wasn't fond of Econ 200, but Professor Shea made this class very very enjoyable. He has a great sense of humor, writes very clear notes, and provides very good detailed explanations of key concepts during class, so you are never confused. It's unbelievable the amount of information I gained by the end. He is also very nice, and willing to help students out with any of their concerns throughout the semester. \n\r\nThe tests are tricky. They are all multiple choice, and about half the test consists of questions that are on the challenging side. However, the curve is pretty generous, so if you go to class, take good notes and pay attention to everything he says (memorizing the dates and Presidents is super important), and get a full grade on your homework, you have a very high chance of getting an A. When I took the class, a 79 got you an A. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2010-05-23T10:36:00Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "One of the best professor I've had! Shea's really adept at instilling the materials in his students. He stresses and rewords key points over and over again and breaks things down into digestible parts. I always come out of lecture fully understanding every single concept covered in lecture! \n\r\nNo need to buy the textbook. Study from his notes and sit in the front row, as the chalkboard could be hard to read from the back. \n\r\nThere're a dozen problem sets (we had 9, each comprises 3-6 problems. They're graded for effort.) In addition, there're two mid-terms and one final. Just remember to review the old mid-terms and finals and you'll be all set. \n\r\nBottom line: A great great professor! Just take good notes and try to follow closely in class, and you're almost guaranteed an A! ",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2009-12-25T18:36:00Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "the stuff you learn in this class is actually applicable to real life. very good teacher, i definetly recommend shea if you have to take econ201, tests are tricky but really not that bad. literally memorizing ahttp://www.ourumd.com/books/ll of his notes is the key to an A.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2009-06-15T16:56:00Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "Prof Shea is extremely impressive. He can teach an entire lecture by looking at notes at most twice. Make sure you take notes because everything from the test comes from the notes, making it no need to buy the book. Granted this is basic macro and something hard to make interesting but he manages to make it less painful. Mixes in history that you must know for the tests. Tests are difficult but the curve works things out (~80% is an A).",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2009-06-02T01:33:00Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "This guy is one of the BEST professors at UMD.  I can honestly say he inspired me to really pursue economics, something I was only mildly interested in before having him as a professor. He explains things SO well in layman terms, covers the material in just the right amount of detail: in other words, not too detailed but not too general either.  He lectures purely from his head and writes everything on the board while speaking it, making the class and the information so easy to follow.  He is super organized, super clear, and it is apparent that he understands economics like the back of his hand.\n\r\nYou don't need to buy the textbook.  Just go to EVERY class (you CANNOT miss one), pay attention! (a lot of people would come to class and read the Diamondback or play computer games on their laptops), and actually THINK about what he's saying while you're writing it down (in other words, don't just mindlessly take notes).  \r\nShea makes the class really interesting by applying what we're learning to current events, and occasionaly he'll crack a surprisingly funny joke. I just hope that I get to take another econ class with him later on.  ",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2009-05-27T18:23:00Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "In my opinion, ECON sucks. It's hard and it takes me awhile to understand concepts.\n\r\nBUT, I have to admit Shea made me understand better. In lectures, I actually understood what he was teaching. The class is based on notes so you have to go to lectures but you don't have to buy a textbook. \r\nShea's tests are hard so you should study. You should also complete the problem sets they will help your grade at the end of the semester.\r\nOverall hard class, but HUGE curve at the end. I definitely recommend Shea if you have the chance and need this requirement.  ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2009-05-21T13:05:00Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "Shea is an awesome teacher.  He could go a whole lecture without looking at his notes.  He is also very interesting and very helpful with questions.  You will have to write a lot, but it is worth it.  Also, there is no powerpoint so you have to go to class.  It is not smart to just copy someone else's notes as it is much easier to learn by going to class.  Discussion is only if you need extra help.  Tests are hard, but there is a curve.  If you are an ECON major, definitely take his class.  If not, still take his class.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2008-07-22T20:45:00Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "He knows his stuff, but unfortunately he writes all his notes on the chalkboard so you have to go to lecture. \r\nDon't buy the book, it's useless. \r\nHe doesn't use Aplia, instead he has easy homework assignments that are graded for effort. \r\nThe tests are really hard so you have to study. Especially the random history questions. ",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2008-07-22T15:41:00Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "This professor writes an entire lecture on the chalkboard without using his notes. That's pretty darn impressive. By the way, don't skip class because the material on the exams are base on notes and they are not posted online. \n\r\nDo not be intimidated by this class. There is a lenient grade curve. The final grade was 80% for an A. Do not over analyze the notes, just grasp the main concept i.e. AS/AD graphs, Keynesian model, classical model. \n\r\nThere will be a substantial amount of memorization of formulas. The key is to use mnemonic devices or break big formulas into smaller formulas. \n\r\nOh yeah, the discussions are pointless and are just reiterations of the week's material. You might as well take the time yourself to review the notes. Don't go unless you want to collect homework assignments. ",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2008-06-05T11:30:00Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "He is a great lecturer with very thorough notes. I walk out of his class completely understanding what he  lectured about. BUT... when I look at his exams, its like I've never gone to class. SO SO HARD. Thankfully his homeworks are based on completion and you can even do it during class, and sometimes he would go over some problems of the homework while we are doing the homework b/c its due at the end of the class. Also, the curve is good. As a student that took intermediate Macro, this is a good beginner macro course. The history that he spends a min on is actually necessary. At first, I didnt see the point, but now I get that we had to know it. ",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2008-03-28T20:32:00Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "I liked Shea because there was no aplia... there we're handed in problem sets that were relatively easy and were graded very leniently.  Econ is going to suck no matter who you have so I guess Shea is okay.  Dont bother with the book.  You will need to go to class or get notes if you miss class.  And the curve is pretty sweet.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2007-11-17T16:23:00Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "I had Prof. Shea for Econ201 and he was one of the best teachers I've ever had. He is very smart and clear in presenting the material. You must attend the (huge) lecture because the material on the test comes straight from Prof. Shea's lectures. He never required that we read from the textbook but I found it useful as a supplement sometimes; if you're trying to save money, you can get by without it probably. He made a lot of connections between theory and historical anecdote (as well as current politics/economics), which made the material much more interesting. Highly recommended for econ majors.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2007-11-16T14:13:00Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "Hard to learn material. Does not use the book at all (don't bother buying it). Exams are based on class notes only, which he writes on the chalkboard and are not available online. Uses long drawn out examples that don't seem relevant to the material. Focuses alot on history and dates. \r\nOverall not that hard though because of a huge curve at the end of the semester but I didnt learn anything.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2007-10-23T17:08:00Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "SO BORING. It is honestly impossible to pay attention in this class. When I was able to pay attention he was a good teacher but just brutal for a long lecture. You're signing up to teach yourself the course. ",
+      "rating": 3,
+      "expected_grade": "D+",
+      "created": "2018-05-22T23:36:35Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "Easy material in general, I knocked a star off because his lectures can be rather dry, and you have to sit in the front of the class to understand his graphs. With that said he's funny and gives interesting analogies related to real life economics. The material isn't difficult, and he doesn't complicate the material making it a relatively easy class.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2018-09-06T16:53:05Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "Does a good job for a class as boring as Macroeconomics. Lectures aren't mandatory but still go because what he says is helpful for the notes. Homeworks are easy for effort but class is graded mostly on exams and they can be tough. Overall good guy to take for macroeconomics.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2019-12-10T19:27:10Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "Kind've a GOAT, makes a lot of jokes about food. Hard to pay attention in class though, ended up using the textbook ",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2020-05-16T04:13:54Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "Shea really knows what he is talking about. I strongly suggest going to class, you'll learn more that way and have a better understanding of the material you need to know. He has a generous curve but his exams are extremely difficult. There were a few issues this semester when it came to testing because of covid and him not having a set format for tests. I never understood why his tests were THAT difficult, made me feel like I never actually learned anything. ",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2020-12-19T23:16:26Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "You can tell Shea is very knowledgeable and his lectures are filled with information. I didn't think the exams weren't that bad just make sure you attend all of his lectures and do the practice exams. I honestly learned a lot in the class and I definitely recommend him. There's a generous curve and the homeworks are easy As so you have to do well on the exams. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-01-12T19:11:36Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "Most of what I learned in this class was reading off the slides and being 3-4 slides ahead from live lectures because I couldn't write the notes at the same speed Dr. Shea taught. But the small instances I would stop taking notes and listen to Shea explain concepts, he seemed pretty thorough and I found the topics interesting but I don't know how interesting it would be people that don't care for econ (I also took econ in high school). I never read the textbook, and his tests are only based on slides, but I would recommend writing at least a couple slides before lecture so that you can listen rather than scramble to write notes. Personally, I felt his test curves and grading were pretty generous, and an A is definitely not out of reach. ",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2021-01-28T21:28:53Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "Awesome professor! I took it online, and the exams were open-note, but even if they weren't this would be a really well-taught and fair class. He's a little quick so you won't have a lot of down time during the lectures but if you write fast you can keep up. (I'm usually a slow writer but I realized pretty quickly with this class it's either sloppy notes or missing a lot of stuff). The lectures are really info-heavy though, so get ready to start learning on the FIRST DAY and for a 75-minute information dump every class. Some say the exams are tough but I personally thought they accurately reflected the rigor of the class, and the curve is more than generous. He covers everything you need in class, the weekly problem sets are graded on effort (but are really helpful anyway) and the review sessions and practice exams are spot-on. If you pay attention, take notes, and do the practice exams, an A is totally doable. The textbook is free but not mandatory. I personally never read a word of it and still pulled an A on the exams. \r\nProfessor Shea is a really solid choice for this class. He explains everything clearly and thoroughly and prepares you well for the exams. I also found the material interesting because it's so easy to apply it to the real world, and it's nice to understand how these things work (unemployment, inflation, business cycles, etc). Definitely take Professor Shea, you won't regret it!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-04-19T18:50:42Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "Prof Shea teaches pretty traditionally in the sense that this class is extremely lecture heavy. If you're not a good note taker or struggle to pay attention during long lectures, you might struggle in his class. Every week there were two 1 hour 15 min classes where he lectures from a long PowerPoint presentation that's posted on ELMS (he would often go overtime too so be mindful of that) and then a problem set that was graded on completion due at the end of the week. Lectures can be pretty dry and monotonous at times but Shea is very thorough and clear at explaining the material. The textbook was free and optional but I never read it and honestly you don't need to read it to understand the material. Just make sure that you're good at taking quick notes during lecture (pretty much anything he says in lecture, including historical background and examples are fair game for exams) and you know how to do every problem on the HW and you'll do fine. Tests are not too difficult as long as you study and he grades them on a curve. If you pay attention and take good notes during lecture, this class is not difficult to get an A in.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2021-04-20T16:37:16Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "Such a good professor, only a few assignments per semester, and the exams are very fair. Lectures can be a little boring, but overall a great professor! Take him",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-04-29T15:31:04Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "I loved having professor Shea. I think he presents the information in maybe not the most intriguing way but I dont think it can much more interesting with this content, he tries to integrate some real life implications. He is the most fair teacher ive had and just an all around good person. I would 100% take a class with him again. I have really bad testing anxiety and school anxiety and with this course I always felt like i was in control of my grade. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-01-18T02:08:56Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "Excellent professor. Economics is not exactly my main area of interest, but Sarna's lectures were engaging, and he did a great job explaining things in a relatable and understandable manner. The only criticism I can think of is that he had trouble understanding students' questions, but he always did his best to answer them.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2022-03-24T01:21:47Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "literally 8 assignment the entire semester, lectures are slow and then when he finally puts information on the board to takes notes of, he clicks by it too quick to take notes. He poorly prepares students for the exams and overall just doesnt give students enough content to review. I BEG YOU PLEASE DONT TAKE SARNA! YOU WILL REGRET IT.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2022-03-25T02:37:46Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "He gives boring, sleep inducing lectures that do very little in preparing you for the exams. I am a straight A student that came up short in his class because of his lack of effort. He did little to help us prepare for exams, giving s a half baked mock exam that reflected NONE of the themes of the actual exam! I have only ever had ONE bad teacher before in my scholastic career, Naveen Sarna has increased that number to 2! Avoid him!",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2022-03-25T02:38:03Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "Professor Shea is the most caring, knowledgeable, and passionate professor. He is always willing to reexplain concepts and his tests are very fair and reflect the material and weekly problem sets. Nothing should be a surprise. If you do the work and keep up, you should not have trouble getting at least a B. If you get the opportunity to take Professor Shea, DO IT. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-04-09T06:18:39Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "The most kind, funny, intelligent, thorough, and knowledgeable professor. I feel so lucky to have been taught by him. He can explain math, history very well as it relates to economics. ",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2022-04-11T17:05:47Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "Everyone's reviews are very bipolar, either saying he is very engaging or very boring, and that he is both a bad and good lecturer.\r\nI took his class this semester, and have friends who also took his class. Here are my thoughts, coupled with theirs as well:\r\n(1) Sarna can be EITHER boring or engaging, depending on your attention span and willingness to focus. \r\n(2) He gives EVERYTHING needed for exams and your success (anyone who says otherwise just didn't use the resources presented to them).\r\n\r\nTo address (1), if you have a short attention span, you'll have to pull yourself up by your bootstraps. For me, I thoroughly enjoyed his lectures, and thought he was quite engaging. He has a slight (Indian) accent \u2013 which doesn't inhibit his ability to lecture!! \u2013 but his tone is soft and rather monotonous, so it is easy to lose focus espeeeeeciiially if you use a computer for notes. While I indeed liked his lectures, I also cannot count the amount of times I got sidetracked playing tetris. Side-note: he isn't monotone in a way that suggests he's not passionate about his course (the reality is the opposite), and he makes subtle jokes here and there.\r\n***My biggest suggestion is if you get distracted easily,*** take notes on a notebook and don't worry about making them look pretty. Sarna gives EVERYTHING you need on his powerpoints, which are all linked in Canvas; but he doesn't link the drawings and figures he puts alongside the powerpoints, which can be helpful for review (hence why notebooks are also good, since you can scribble the figures down). \r\n\r\nAs for (2), do not underestimate the class content. I took this class as a gen ed, and came in thinking I wouldn't have to ever review content. This was absolutely wrong, and I was surprised & disheartened at my first exam score. Understand the big-picture concepts, and memorize the equations. As with what the other reviews said, his exam review materials aren't great. His mock exams don't reflect the real exam at all, but I was lucky to have helpful TA's who made a mock exam that I believe will help me on the upcoming 2nd exam. Again, his EXAM REVIEW materials suck. NOT the powerpoints, which you can easily use as review material.\r\n\r\nTry to attend class IRL, and not over Zoom (which he gives an option for at the same hour). If you attend his lectures over Zoom, you can't ask questions since he mutes the students and doesn't look at the chat since he's in-tune with the IRL classroom.\r\n\r\nOverall, a good class. 7 homework assignments (the lowest 2 are dropped), 2 midterms, and a final. Lightly study, and don't be afraid to ask Sarna for help. Good luck!",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2022-04-12T18:22:06Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "Really boring lectures. Very slow moving class. I had to teach myself everything, but if you put in the work you can get a decent grade.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2022-04-27T21:35:31Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "While there is very little homework and readings assigned, lectures are very unhelpful and exams can be tricky with wording and graphs. I found that not attending class and understanding the textbook well was what allowed me to get by, but I would recommend taking another professor if you actually want to learn the material.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2022-04-28T18:18:57Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "Made a class I was really nervous to take genuinely engaging and informative. I felt like I actually learned a LOT. Tests are more than fair. Really glad I took this class with Prof. Shea!",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2022-05-15T00:07:40Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "I love Professor Shea! He\u2019s incredibly caring, knowledgeable, and thorough. Nothing on exams should be a surprise because they\u2019re worded exactly like the practice exams and problem sets. I thought the exams were very reasonable and reflected the course. Plus there\u2019s a great curve. You can tell he loves what he teaches and he\u2019s brilliant. One of the best at UMD. TAKE HIM!",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2022-05-16T17:30:20Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "The best. Take him.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2022-05-16T17:31:09Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "Dont take Sarna, Shea seems to be the better option. Sarna gives boring, monotonous lectures. He really does not seem to care. Mock exams and review materials are half baked and don't reflect whats on the exam what so ever. He's probably tenured so I doubt he really cares at all. ",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2022-05-17T18:23:40Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "Dr. Shea is a super nice professor and sets you up for success. The content can be challenging but the tests were very fair and there is a generous curve. Entire grade is based off of two midterms, a final, and weekly problem sets graded for completion. Only reason I didn't give 5 stars was because the lectures were pretty dry. Take ECON201 with him!!!",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2022-05-20T18:28:47Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "Really great professor. His knowledge and passion for Econ is clear in the way he gives his lectures. The material is pretty dry most of the time, but easy to learn. Grading is also super fair, we had problem sets every week graded for completion and two midterms + a final. You get to make a double-sided formula sheet for both midterms and two double sided formula sheets for the final. There are also discussion boards on ELMS for all of the chapters where you can post questions for him to answer, which is super helpful for the exams. The curve at the end of class is also very, very generous. Highly recommend taking Prof. Shea!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-05-22T02:10:24Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "Only reason I don't give him 5 stars is because the lectures are on the dry side. That being said, he really sets you up for success and clearly explains relevant concepts. Make sure to study practice exams and you will do well. ",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2022-05-25T19:10:41Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "DON'T TAKE SARNA. Just don't. He isn't a great teacher for this class - his lectures are quite boring and he also doesn't really prepare us well for the exams. The mock exams also don't help. ",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2022-06-23T14:56:14Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "No one ever went to his lectures. Very boring and gives no information in class. He repeats the book content but more vaguely during class. His test info sessions are useless as well. Few exams throughout and they were all in-person, multiple-choice tests on paper. Much more difficult than the content he talks about. I would definitely recommend really understanding the macro econ concepts before taking the exam. They're not that difficult tbh just a bit confusing. The class was very boring though. Only read the book content. No assignments except for an occasional online bookwork that was graded for correction.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2022-07-25T13:20:18Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "Go to lecture and you can't do worse then a B-. Exams are like 15-20 m/c and a couple short answers, but the practice exams and TA review sessions make them not that bad. Also a big curve. Buddy of mine got a C with like under a 50% in the course.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2022-11-22T19:04:31.301558Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "horrible teacher. So slow, quiet, monotone, and boring. He rambles on about random topics not related to class like goldy locks (not kidding). I have not been to a single class since early October (it is finals week now). I teach myself everything from the textbook. I am expecting an A-. It is not too difficult of a course but requires so much outside effort because Pr. Sarna is so bad. Avoid him at all costs if you can!",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2022-12-15T02:23:31.508438Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "Just not good at teaching. His practice exams are super short and have little representation of the actual exams.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2022-12-21T16:33:50.766358Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "He is an incredibly smart and nice man. But his skills as a professor are lacking, especially with the content of the lectures lining up with the textbook and the test materials. Exam reviews were not helpful in any manner and were hard for students to stay focused and engaged in lectures, so a ton of people opted out. I am retaking this course currently and the content I am receiving in this lecture/ textbook is worlds different from what was given in Sarna's lecture. Again, great man, but bad teaching style/ set up.",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2023-01-04T21:28:21.938322Z"
+    },
+    {
+      "professor": "Cesar Vasquez Chacon",
+      "course": "ECON201",
+      "review": "Teaches well",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2023-02-17T21:45:26.662943Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "Dr. Sarna gives very long winded explanations and makes everything appear more complicated than it is. I was way more successful in this class when I had to thoroughly teach myself all of the concepts and not even look at class notes. Learning it myself made everything more simple than his explanations! Exams weren't too difficult if you understood the material but it took a lot of effort outside of class.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2023-04-26T23:12:37.068024Z"
+    },
+    {
+      "professor": "Alka Gandhi",
+      "course": "ECON201",
+      "review": "I just want to say, I second this comment \"Her lectures are rather good, goes over everything with great detail. However, her grading is nonsensically rigid, to the point where you seem to lose the point of the assignment in the first place. Instead of grading for an understanding of the content she seems to grade on arbitrary standards, which aren\u2019t necessarily made clear prior.\" I guess I can understand where the good posts about her are coming from but after being in this class for an entire semester I can attest that it requires extensive studying for every assignment. For example, for the quizzes, you will be expected to remember very specific details about 10+ extremely long readings and 5+ extremely vague PowerPoint. If you don't go to every class and take detailed notes there is a high chance, you will fail and even if you do that there is still a pretty good shot you will get a C or D considering the amount of studying that goes into taking her exams and quizzes. That being said even if you do all the studying and feel prepared for her exams or quizzes you'll still prob get a bad grade. I swear every time I study so hard and walk out thinking I did so well just to get my test or quiz back to find out that I did not do well, at all, simply because she graded looking for very specific details. Love the professor as a lecturer but as a grader, she is so frustrating.",
+      "rating": 2,
+      "expected_grade": "C",
+      "created": "2023-05-04T14:16:52.244545Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "I'll echo what many people have said about Dr. Sarna - he is a wonderful person and this is nothing personal with him at all. He simply isn't a great professor. His lectures are unengaging and went a bit too fast for my liking. He tries to teach the concepts of macroeconomics but does not do a good job with it - while his anecdotes/examples can be funny, they can also be irrelevant and make concepts actually harder to understand. I find that he tiptoes around the true definitions/rules of macroeconomics that could be made much more simple. I would definitely recommend taking another professor if possible or even completing economics at another institution because I know that UMD doesn't have great reviews for a lot of undergrad economic courses/professors.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2023-05-04T15:27:01.602860Z"
+    },
+    {
+      "professor": "Alka Gandhi",
+      "course": "ECON201",
+      "review": "This felt like one of the most unorganized classes I have ever taken, especially during exams. I think she is a good lecturer and allows students the opportunity to take decent notes, but she doesn't post her completed notes, so if you miss a lecture, good luck catching up. The practice exams are okay but she constantly posted incorrect answer keys which makes studying extremely confusing. For our first practice exam, she never even provided an answer key, instead, she had a TA go over the answers the day before our exam. The GSS review sessions seemed extremely unorganized and very hard to follow. Basically, if you want to succeed in this class, make sure to go to every lecture and take thorough notes.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2023-05-14T22:28:52.391692Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "The Econ department in general isn't that great here, and this is just another example. Lectures were not engaging at all, you pretty much learn all the material on your own. Also he doesn't assign a lot of work, so grades are heavily relied on exams. However, with such a heavy weight on exams, multiple practice exams would be expected. However, he gives you half of a practice test. Avoid Professor Sarna if you value going to class and understanding the material.",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2023-05-15T01:39:07.224731Z"
+    },
+    {
+      "professor": "Alka Gandhi",
+      "course": "ECON201",
+      "review": "Lectures seem to drag on forever, quite literally. She seems to read the powerpoint and then go on her own monologue for about a minute about whatever is on the slides. Powerpoints are available after classes, but they aren't helpful on their own so attendance is basically mandatory if you want to learn anything. Homework is easy, 2 attempts per problem, and then 2 attempts to do the whole thing over again. Exams are weird, whoever's grading between her or the TAs seem to be pretty against giving partial credit even though it said we could receive it by showing some work. Recommend watching Jacob Clifford as a supplement to her weird lectures.",
+      "rating": 2,
+      "expected_grade": "B-",
+      "created": "2023-05-17T05:06:17.585151Z"
+    },
+    {
+      "professor": "Alka Gandhi",
+      "course": "ECON201",
+      "review": "Professor Gandhi is a great and in my opinion, is a great lecturer. The only negative thing is that she will test you on things she just mention one time. She is very specific when it comes to her exams and the practice exams are so much easier than the final. But if you really listen in class and go over everything you learned and go to her office hours for help you should be able to end up with a B+ and above. This semester she curved the exams a lot even by 10 percent.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2023-05-19T19:54:13.544335Z"
+    },
+    {
+      "professor": "Alka Gandhi",
+      "course": "ECON201",
+      "review": "Good Lecturer, but it felt like there was a lack of resources and practice for exams (I think she hasn't taught it for a long time). There was weekly homework and 4 Application Based Activities that you could knock out in at most 30 minutes each. The power points are good, however, there was definitely a lack of examples for some concepts. The saving grace was that she gave extra credit on one midterm, and curved the next one.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2023-05-23T18:51:18.947445Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "He's a nice professor but his lectures are absolutely terrible. He would take at least 3 class periods to get through two topics and the lectures would just not be engaging enough. The exams are a huge part of the grade and there isn't enough hws and other grades to balance things out. TAs and him would not allow for the posting of the slides before the class or even after and would be posted a while after the specific lecture which was annoying and again not helpful to understanding the material while it was taught.",
+      "rating": 1,
+      "expected_grade": "C+",
+      "created": "2023-09-30T05:10:19.134086Z"
+    },
+    {
+      "professor": "Alexander Cross",
+      "course": "ECON201",
+      "review": "I just wanted to give a shoutout to Xander. Even though he only does office hours and not discussions, he's been a total lifesaver for me in this course. Whenever I'm feeling lost with the course material, he's there to help me out.\r\n\r\nWhat I really appreciate is how professional and respectful he is. It can be intimidating asking for help sometimes, but he makes it so easy. No judgment, just pure support.\r\n\r\nOverall, Xander has been a big part of my success in this course, and I couldn't be happier with his help.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2023-10-02T21:37:42.450783Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "Exams are really fair and have cheat sheets he makes for you, homeworks are graded for completion. Not a fan of Shea, he's not very interesting to listen to lecture. He also covers some weird topics of macroeconomics that other professors don't cover, but nothing is that difficult. Just lots of math and real world stuff. You don't ever have to go to class to pass it for this one, so if you have to take it, don't stress. Also, would appreciate if he left his political opinions out of lectures, entirely irrelevant to his particular content.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2023-12-13T06:33:47.841951Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "Such a good professor. His lectures were pretty interesting and not too complicated. His homework grades were based on completion. The best part about the class was that the exams were extremely similar to the practice exams and you get to bring a formula sheet that you can put whatever you want on. As long as you make a good cheat sheet and do some of the practice exams you have more than enough materials to do well in the course.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-12-21T22:45:00.379161Z"
+    },
+    {
+      "professor": "Alka Gandhi",
+      "course": "ECON201",
+      "review": "Gandhi is an alright lecturer. She explains concepts; however, her slides don't have much information. Along with that, she handwrites \"notes\" but they aren't very helpful if you don't attend the lecture. I was sick with the flu, and she was very strict about makeup exams. In her syllabus, she says that she prefers that students don't makeup exams, which is a bit odd. Otherwise, the class has one homework assignment a week with 3 attempts. It was a lower workload compared to ECON200 with Scandizzo. I withdrawed from the class because I felt that her grading was unfair on exams. She is a definitely a harsh grader and takes off a lot of points if you make a small error.",
+      "rating": 2,
+      "expected_grade": "W",
+      "created": "2024-04-22T14:42:02.352575Z"
+    },
+    {
+      "professor": "Alka Gandhi",
+      "course": "ECON201",
+      "review": "Lectures are hard to pay attention to but generally all the content for the exam is there if you have the patience to listen. My one complaint is that there's not enough practice material to study for the midterms.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2024-04-24T17:16:03.187426Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "Lectures are insanely boring but gives a ton of test prep and if you are confused and have specific questions he can be very helpful. Just hard to focus in class. And his canvas is so unorganized any resources he puts in there are basically useless.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-05-11T21:44:30.403624Z"
+    },
+    {
+      "professor": "Alka Gandhi",
+      "course": "ECON201",
+      "review": "Professor Gandhi was a average lecturer. She would upload the slides and her notes on canvas, so attendance wasn't mandatory. Homework was very simple typically given 2-3 attempts per assignment. However, the midterms were very difficult, one of the averages being a D. I felt that most students were unprepared for the exams and her grading structure was very hard to understand. Gandhi didn't use weights to calculate our grades instead she did it out of point value, but it was very unorganized as she would drop assignments and then add extra credit. Overall, I think the class was made out to be more difficult than it should've been as Professor Gandhi would often breeze through the information and not further elaborate. Definitely a class where it's on you to put in the extra hours outside of class to really understand the concepts.",
+      "rating": 3,
+      "expected_grade": "B-",
+      "created": "2024-05-17T23:35:24.810663Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "Lectures are horrible you won\u2019t be able to pay attention. But he gives a lot of test prep and curves all tests, plus they aren\u2019t super difficult never anything unexpected",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2024-05-19T15:51:25.515443Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "Professor Sarna is very experienced and knows what he's talking about, but his lectures are very boring and not engaging. Much of the time, he will explain class content through many confusing anecdotes. I honestly learned the content better from reading and taking notes on the textbook. But, he did a nice job preparing us for exams with review sessions and mock exams. The exams aren't too difficult, but they are a big portion of your grade. Overall, this class is not difficult but professor doesn't teach the content well.",
+      "rating": 2,
+      "expected_grade": "A+",
+      "created": "2024-05-20T21:21:38.103961Z"
+    },
+    {
+      "professor": "Alka Gandhi",
+      "course": "ECON201",
+      "review": "Kind of slacked off half way through the semester and while it isn difficult, you can definitely get an A in this class. Just take initiative to go to office hours or weekly review session or even ask questions in class. Lectures are kinda boring and you for sure have to attend them to pass.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2024-05-25T01:48:20.592142Z"
+    },
+    {
+      "professor": "Alka Gandhi",
+      "course": "ECON201",
+      "review": "Solid lecturer. She was pretty nice and flexible and gave our class bonus points if at least 75% filled out the end-of-semester survey. Midterms were difficult but they could've been easier if I just studied more and practiced. Go to review sessions if you aren't sure of something, they were pretty helpful. I Studied a lot for the final and did pretty well because of that. I think it was also just easier than the midterms. Also, she drops your lower midterm grade which was really nice.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2024-08-28T14:05:48.898827Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "Great professor with lots of knowledge about economics, recommend to everyone for ECON 201. \r\n\r\nClass Structure: \r\n- 2x week lectures (not mandatory at all and all lectures ARE RECORDED) \r\n\r\nExams: \r\n- 2 Midterms \r\n- 1 Final \r\n* Can bring cheat sheet to all tests and practice tests that are very similar to the actual test are shared in advance* \r\n\r\nHomework: \r\n- 3 question weekly assignment which is graded on COMPLETION \r\n\r\nOverall, his exams can be slightly difficult since macroeconomics can be difficult in general but he makes it fair for every student to succeed as long as they put in the work.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-05T04:53:30.060645Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "Avoid taking this class with Sarna if you can. Lectures are so boring and not helpful whatsoever. He uses random anecdotes that make no sense and complicate simple concepts. Nobody shows up to lectures because they are so boring and unhelpful. There are three exams and 7 problem sets graded on accuracy and he and his TAs are also unclear about how/if they curve grades. Exam reviews are not helpful as the TAs speed through them and assume everyone already understands the concepts. The mock exam questions are usually completing different from the questions on the exams. Honestly, you're better off learning from the textbook.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2024-12-05T18:10:56.836485Z"
+    },
+    {
+      "professor": "Alka Gandhi",
+      "course": "ECON201",
+      "review": "Great lecturer and helps you understand the concepts deeply cause she dumbs it down to help student understand it very well. As long as you're not stupid, this class is really easy",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-08T17:57:05.621438Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "If there's one thing I learned from Professor Shea is that he REALLY disagrees with Jerome Powell and the Biden administration's handling of post-pandemic inflation. I think he expressed this like every single lecture. Seriously though, great professor. He really sets you up for success. Exams are multiple choice with short answer questions at the end. He allows you to bring a 2 page formula sheet, which you're allowed to include any information on. Exams are difficult but he does curve. Not the most exciting lecturer but he records and posts his lectures so if you struggle with staying focused, you can just watch them at home at your own pace.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-13T21:01:45.229279Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "Shea is an amazing professor! He posts all lectures (slides and video recordings) and makes sure to post them day of. I find his lectures engaging, he clearly explains difficult topics and makes them easy to understand, and gives contextual knowledge that really helped me understand the course better. There are weekly homework\u2019s graded on completion which are similar to the essay questions on exams, and he posts the answer keys so you can practice. He also posts practice exams that are similar to his exams. He\u2019s super lenient if you can\u2019t attend an exam for some reason ( I woke up sick the day before a midterm and he allowed me an extension) and is overall very responsive and cares about his students.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2024-12-14T06:22:38.622610Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "Professor Shea is great! He is extremely knowledgeable and is able to explain the concepts in a way everyone can understand. He does a really good job at connecting what we\u2019re learning in class to what we already know. He posts his recorded lectures and the lecture slides, so you don\u2019t really have to attend the in person lecture. Weekly homework\u2019s are graded on completion and are very similar to the essay questions on exams. 2 midterms and a final which he curves very generously. He\u2019s very lenient if you need to reschedule an exam, and very responsive to questions.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2024-12-14T06:32:47.950655Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "If you can take Professor Shea for Econ definitely do.  Lectures are recorded, homeworks are graded on completion. Most of the grade in the class is based on 2 midterms (25% each) and the final (35%), which could be difficult if you are not mathematically inclined but he gives 2 practice exams for each exam we\u2019ve had so far and I found that to be great for practice.  Also the homework\u2019s give a good idea of the exam content.  Overall he is a great professor, clearly very knowledgeable on economics and seems like a nice dude.  You may have to put in some studying for the exams, but the homework\u2019s are very light so this class isn\u2019t crazy hard.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-14T17:39:33.391391Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "John Shea, THE Unca John. He is a savior sent shining down from the blissful heavens of the trove of University of Maryland College Park professors. He was absolutely the GOAT professor; he was very knowledgeable about economics, posted his slides online, and recorded all the lectures, the practice exams were nearly identical to the midterms and final, and allowed you a formula sheet. A quick tip: Make your formula sheet and stretch the margins on a Google doc and shrink the font (if you have glasses rip) to try and fit as much info as possible and add any practice problems to it as well. 5/5 stars for Unca John would take again but can't say economics is my favorite subject. Easy A if you put in the effort to study and have a good formula sheet, definitely learned a lot from this class and applied my knowledge to investments.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-16T04:11:59.038236Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "This class was so bad that I had to change my major. Exams were incredibly difficult with averages in the 40's, professor was unwilling to help understand difficult concepts, and TA's were impossible to contact. Even the econ tutoring center couldn't understand the practice exams, which were full of trick questions. Actual exams were a disaster, with the TA's talking the entire time as loudly as they could. Professor Sarna seems like he would be a nice guy, but he really needs to find a job that doesn't involve teaching. His accent is impossible to understand, he makes the TA's explain everything, and he disappears in the two weeks leading up to every exam.",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2024-12-17T17:07:53.064677Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "Do not take this class with Sarna. I thought I met and could deal with boring professors before taking his class, but Sarna is so boring it is unlistenable. It's a shame too because the material itself is interesting and I enjoyed learning it independently (which you have to do because his lectures are unbearable.) Sarna also can't write an exam to save his life, as every exam had multiple typos and other errors (graphs printed on wrong pages, etc.) He also struggles to administer exams, as he frequently showed up late, and the TAs act like they've never seen an exam before. The cherry on top was during the final, a student asked Sarna a question extremely crucial to the problem (I was going to ask a similar question), and Sarna responded with \"that is for you to figure out\" without looking at the question. If I had to use one word to describe Sarna it would be useless.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2024-12-18T00:49:44.351519Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "Everyone gives him a bad rep, but honestly, if you just read his slides and do the practice study guides he gives you, you're good for the exam. He is sometimes boring but his exams don't stray too far from what he puts on the slides and the resources he gives you. I never read the textbook and missed a couple of classes and still managed to do very well on every exam. You can also drop your lowest two grades from the problem sets. I also like how they grade every exam so fast, and he does curve the exam grades.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-18T14:53:43.877883Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "TAKE HIM!!! He is so nice and his lectures are recorded (so i never went to class). He lets you have cheats sheets and even though the exams can be difficult, his curve is really generous. He is sweet and will answer any question you have.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2024-12-19T00:31:57.451052Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "The curve is too good to be true! Some reviews already talked about the course structure, so I'll just talk about John. He's one of the kindest, most forgiving professors I'll ever meet. I missed my exam, so I scheduled a make-up. I missed the makeup because I was too busy sleeping, and he let me schedule another time to take it. About the material: You should get 100% on the homework, no excuse. I thought the first midterm was harder; you need to know historical economic events, so make sure to know those, for the open-ended for all of the exams are easy if you do the homework. I didn't go to class because the lectures were recorded. If you don't have a study routine, this is your guide (I figured this out a bit too late), if you procrastinate, start 3-4 days before the exam usually, there are around ten lectures to watch for each midterm, and final, so for the first 2 days watch all the lectures and write your notes, 3-4th day do all the practice problem sets around 3-4 for each midterm and the final. It would be better if you watched the lecturing recording the day off, but not everyone is disciplined like that soo... Should not be too hard of a class or time taking!",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2024-12-19T19:16:10.806383Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "Take this professor if you have the choice. He makes it impossible to fail the class with his curve which is generous. Exams are pretty similar to his practice exams and he posts all of his lectures online.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-20T03:42:25.044378Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "Professor Shea is truly so caring and you will not have any other professor who is so flexible, especially for the size of the class. He emphasized not to come to an exam if your sick, recorded lectures, and made all homework assignments based on completion. He also has a very generous curving system, where a third of the class gets an A a third gets a B and a third gets a C. Cannot recommend macro with Shea enough!!!!!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-12-23T01:29:10.919029Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "Take Professor Shea if you can. As someone who isn\u2019t very strong in economics, i was still able to do somewhat well in the class. The material can be difficult sometimes but his office hours are very useful. Homework is very easy and is graded for effort not accuracy. Also after every exam he gives you an advisory curve which helps give you an idea of your grade. Overall he is a great professor and helps make sure you are able to succeed in the class",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2025-01-20T15:16:19.039912Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "Professor Sarna gets way too much hate. He provides tons of exam prep and review sessions; you'll do fine if you understand what is on the PowerPoint slides. Lectures are boring, but thug it, get the notes and review them after class. USE MINDTAP on Connect when studying for exams; the best practice tool for this class saved me for both exams. It gives you tons of practice for similar problems you may see on the exam. He also curves all the exams",
+      "rating": 4,
+      "expected_grade": "A-",
+      "created": "2025-01-22T03:54:49.484171Z"
+    },
+    {
+      "professor": "Luying Yang",
+      "course": "ECON201",
+      "review": "Took her class during the winter, online, completely asynchronous, and easy. There are about 4-5 reading quizzes weekly which are based on chapters in the textbook (20%). Two weekly problem sets (20%). There are two \"midterms\" with about 35 questions in 40 minutes (25%). All assignments have one attempt. Also the final, which is 35% of your final grade. Overall, if you took micro already, I would say it gives you a good advantage in this class. I think that if you haven't, you will also be okay. The professor is very understanding and works with you. I would recommend taking this class if you want to get ECON 201 over with!",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-01-22T13:07:36.361485Z"
+    },
+    {
+      "professor": "Luying Yang",
+      "course": "ECON201",
+      "review": "I took ECON201 with her over Winter 2025 and the class is honestly not that hard. I never actually once met her since the class is asynchronous but she is quite responsive to emails and concerns over the course. The course is designed for self studiers and people who would rather read and learn from a textbook rather than attend classes. Almost all the assignments are done via the online textbook as well.\r\n\r\nCourse structure:\r\n- 14 Chapter readings each with a quiz at the end of them (20% of grade)\r\n- 2 problem sets per week (20%)\r\n- 2 midterms (25% of grade)\r\n- 1 final (35% of grade)\r\n\r\nAll the assignments and exams were honestly very fair and Professor Yang was always receptive to questions that you had one them afterwards. Overall if you are a self studier and don't mind a quick paced class, I HIGHLY recommend taking this class with Prof. Yang over the winter.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2025-01-26T15:50:54.988978Z"
+    },
+    {
+      "professor": "Luying Yang",
+      "course": "ECON201",
+      "review": "Responds slow to email. Difficult to understand when teaching.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2025-01-27T23:45:27.579821Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "I agree with the bottom reviewer. Professor Sarna can be a bit boring during the lectures and the attendance rate significantly drops after the first couple of the lectures, but that's like a lot of classes. Attendance isn't mandatory, but he does post the slides eventually afterwards. The textbooks align directly with what he is teaching. Economics is not my major and I tend to struggle with the conceptual stuff, so my grade in the class doesn't reflect his teaching style and how he is a good professor overall. I would say on average, people perform well in the class. He provides midterm practices and also host review sessions in class before the midterms, which is helpful. The midterms are curved and the homeworks are weighted the same as a midterm (25% of your final grade), which can be bad or good. The homeworks aren't difficult, a lot of the answers can be found in the textbook and the lowest two scores gets dropped.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2025-04-22T23:13:08.548608Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "Take econ 201 with him, solid teacher who is very knowledgeable about the content. Exams are not too hard, and he curves them. Gave him a four star rating because lectures can be dull at times.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2025-04-23T16:42:28.609549Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "He's a boring lecturer but I still understood everything he taught. Lectures can be stale but working past that his class isn't very hard, this is definitely a test heavy class with only homework assignments making up a small portion so make sure you are studying with plenty of time and not cramming. Other than that he's a nice guy.",
+      "rating": 4,
+      "expected_grade": "C+",
+      "created": "2025-04-23T18:44:13.567293Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "Do not take with Sarna! Lectures are beyond dry and boring. He does not cover any useful information in class so most people don't even show up. Tests were nothing like mock test he posted and TA's were not helpful. Honestly upset this class is tanking my gpa for no reason.",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2025-04-29T04:50:01.225932Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "This class was not good. Sarna and the TA's in this class are heartless. He does curve the exams but doesn't give any extra credit or rounds grades so if you have a 79 he will not round it which I think is BS. I told the professor about my mental health issues and the response that he gave me made him to be a heartless SOB. I had to change my whole major because of ths class. Please try and find another professor.",
+      "rating": 2,
+      "expected_grade": "C-",
+      "created": "2025-04-29T19:00:09.550554Z"
+    },
+    {
+      "professor": "Alka Gandhi",
+      "course": "ECON201",
+      "review": "She needs to post videos or something. She goes off topic a lot and it's just wasting time. She posts notes but it's notes that only she can read or if you went to lectures you'll have a better idea.",
+      "rating": 2,
+      "expected_grade": "B+",
+      "created": "2025-05-01T18:57:10.787386Z"
+    },
+    {
+      "professor": "Alka Gandhi",
+      "course": "ECON201",
+      "review": "Not a bad professor, but her exams are written horribly. So many trick questions, and way more difficult than the practice exams. If you do all of your work outside the exams, you should have a decent grade though. Not sure how the final will be, but if its anything like her first two exams it'll probably be horrible.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2025-05-06T16:07:01.422796Z"
+    },
+    {
+      "professor": "Alka Gandhi",
+      "course": "ECON201",
+      "review": "Honestly a fine professor, but as others have said, exams are not clear. I appreciate that she connects lecture to current evens, and breaks down current economic trends and phenomena in politics, but it unfortunately comes at the expense of a lot of time in class that could be spent working through practice problems and deepening understanding of the concepts we are being tested on.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2025-05-07T14:00:34.265905Z"
+    },
+    {
+      "professor": "Alka Gandhi",
+      "course": "ECON201",
+      "review": "She's a fine professor; as the comment below me states. But the midterms are ridiculous. There's always been at least 2-3 unsolvable questions; due to how tricky it is. It's about some concepts that was barely talked about as well. The short answer questions aren't that bad though, so it balances itself out. She knows her stuff, without a doubt. But she would keep going on a tangent and waste a lot of time in class. I personally enjoyed talking to her about deeper economic concepts, but as a professor for this course? She sometimes makes it harder than an intro level course.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2025-05-09T00:01:45.602569Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "This class is basically set up for you to fail. There are basically less than 10 assignments and the rest of your grade relies on the exams. His lectures are not helpful and his explanations make it even harder to understand.",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2025-05-12T22:28:03.395563Z"
+    },
+    {
+      "professor": "Alka Gandhi",
+      "course": "ECON201",
+      "review": "The class is soooooo slow. I can barely pay attention, and whenever I do, she makes it more confusing. Midterms were also challenging. 8 mcq and 4 frqs.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2025-05-13T16:03:20.813281Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "He is the worst Econ professor this school has to offer. His lectures are boring as he reads off slides and rambles about topics that do not make sense for what we are learning. There is a bit of a language barrier. Additionally, his practice tests and reviews are absolutely nothing like what the actual test ends up looking like at all. He barely has any graded assignments so your grade almost solely relies on how you do on these tests. Overall, not a good professor if you are looking to get a good Econ grade or learn macroeconomics at all.",
+      "rating": 1,
+      "expected_grade": "C-",
+      "created": "2025-05-14T03:18:03.914004Z"
+    },
+    {
+      "professor": "Alka Gandhi",
+      "course": "ECON201",
+      "review": "I think she is great. Super nice and friendly, and always open to constructive feedback. She is very gracious with grading overall, gave us a little bit of extra credit at the end for filling out the course evaluation survey, and dropped several assignments so there was less pressure on us to get perfect scores every time, and we could learn from our mistakes without our grade suffering. Your lowest midterm also gets dropped if you do better on the final than one of your midterms, and the final is counted as 45% instead of 30% if this applies to you. I was taking some super tough classes along with econ 201, and this policy helped me out so much and reduced my stress.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2025-05-17T17:22:43.392500Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "The whole econ department sucks but Sarna is just awful . Mock exams are nothing like the real test. Your whole grade is dependent on 7 homeworks and the 3 exams.  TA's were useless, not helpful, and curt. Honestly if you want to learn macro take another professor.",
+      "rating": 2,
+      "expected_grade": "B-",
+      "created": "2025-05-18T16:26:16.781965Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "Overall seems like a genuine dude but this class sucked because of a few things:\r\n1. Grading Policy: He doesn't round or curve or give any sort of extra credit;moreover, the entire course has 3 exams and 7 assignments, so you have to do good on everything to get a good grade.\r\n2. TA's: The TA's are just awful. They are mean and snarky. There's a few good ones, but one of them is very rude and can act smart with you.\r\n3. Exam Review: Pratice exams are literally so pointless in this class. IT IS NOTHING LIKE THE ACTUAL EXAM THERE ISN'T A SIMILAR QUESTION ONE BIT.\r\n\r\nI give him 3 stars because Prof. Sarna seems nice and stuff, but the course is horrible.",
+      "rating": 3,
+      "expected_grade": "C-",
+      "created": "2025-05-18T19:37:01.830350Z"
+    },
+    {
+      "professor": "Alka Gandhi",
+      "course": "ECON201",
+      "review": "She's a nice professor, kinda funny as well. Lecture is insanely boring and honestly really hard to pay attention, but you definitely need to go to lecture in order to have a shot. She also tends to talk a lot and go over the 50 minute class period which sometimes was not good for me because I had a class right after that I was required to be on time for. Otherwise she provides plenty of review material for exams, second exam was rough but she curved it 3% and also offers dropping your lower midterm grade and making the final worth more.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2025-05-19T03:39:58.536188Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "Sarna is definitely not the BEST teacher but he's not the worst: he talks veryyy slowly and monotone so paying attention in his class is hard but its good practice with patience! at the beginning of the semester especially he'd speak in a lot of metaphors and I really enjoyed that as it was entertaining (but not very helpful with learning I'll admit...). the class consisted of 7 problem sets and 3 exams and nothing else so not too demanding but yeah succeeding is easy if you pay attention and try throughout the semester (I'm sure you can still do well if you don't go to class but waiting until exam week to try to learn everything def isn't smart because it is a lot of confusing concepts)",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2025-05-20T19:22:16.866801Z"
+    },
+    {
+      "professor": "Alka Gandhi",
+      "course": "ECON201",
+      "review": "I honestly don't understand some of these negative reviews. Sure, the lectures are not the most exciting thing in the world, but they were only 50 minutes long and are not even boring. I liked that she showed a lot of real world examples and tied the material into the real world and current economy. She was also extremely friendly and super approachable. As for the exams, I personally felt like they were very similar to the practice exams and was able to recognize pretty much all of the material on the real exams. She also grades very leniently on the short answer questions as long as your answers are consistent with each other even if they are wrong. We even got a 3 point curve on one of our exams because the scores were lower. The final also gets two hours which is more than enough time than you really need. Overall I definitely recommend Professor Gandhi for 201, it's pretty interesting and really applicable to the world.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-22T00:58:43.631629Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "The class is pretty easy; I do not think I showed up after the 3rd week of the semester. To be honest, the tests were chill, and the curve was helpful. Exams were graded quickly. I did not like the style of teaching. Navin has a heavy accent, which makes him hard to understand, and his economics analogies are not helpful at all. He probably talks at 0.25 speed, and I fell asleep during the days when I did go to class because it was so boring. I did not hate the class and the structure. It was just that the teaching was unhelpful, and I learned all the material on my own before the exams. Would not recommend if you are interested in a passionate, engaging, and efficient professor, but this course is fine if you can take on learning the material on your own.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2025-05-23T02:33:52.505040Z"
+    },
+    {
+      "professor": "Alka Gandhi",
+      "course": "ECON201",
+      "review": "a lotta generous grades, exams real nice w/ 15/15/30 and dropping lowest midterm and making final 45 if it's higher than one of the midterms. macro data assignment is a bit strange (but also designed with leniency even if you get a few things wrong), good review guides and such\r\n\r\nlectures real nice, she's obv friendly and says some opinions where i cant tell if she's makin fun of the opinion or actually believes it. connected examples in class to what was going on in the real world. which was good even if us econ these days is falling apart faster than my gpa. class had a lot of people yappin tho and i stopped showing up 'cause she never called it out, but was easy to learn from lecture notes she posted and even textbook. still would v. much recommend tho",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2025-05-23T17:08:46.001839Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "Professor Sarna is a great teacher! He teaches very clearly and concisely, and his pacing is relaxed and not at all rushed. I\u2019m not normally very fond of going to lectures, but his class was pretty enjoyable. It felt a bit like listening to a YouTube video or a podcast - he\u2019s very soft spoken and takes his time, but he teaches you exactly what you need to know and gives you tons of prep material. All in all, a nice experience and a real stand up guy.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-05-24T01:16:20.049611Z"
+    },
+    {
+      "professor": "Alka Gandhi",
+      "course": "ECON201",
+      "review": "If you did well on ECON200, you won\u2019t really need to attend lecture for about the first half of the course. I honestly only paid any attention to it a day or 2 before exams. Professor is nice. Gives off the energy of meeting your girl\u2019s mom for the first time.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2025-06-26T00:19:05.220192Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "I'm a little surprised by all the praise personally, I found the class underwhelming. The lectures mostly consisted of him reading directly from the slides, and the exams were extremely difficult, even with plenty of preparation. I studied for a full week before each exam and still ended up scoring around a 75.\r\nThe questions often felt intentionally tricky, with confusing wording\u2014especially ones with double negatives like, \"Which of the following is not unlikely to occur in a perfectly competitive market?\" It made it harder to focus on the actual concepts. While he seems like a nice person, the teaching style didn\u2019t do much to help me engage with or understand the material.\r\nReview sessions before exams were just walkthroughs of the practice test answers without much explanation. I also didn\u2019t love the seating arrangement during exams\u2014students with last names A\u2013L were required to sit in the front, while others sat in the back. It didn\u2019t seem like a big deal at first, but the TAs only walked around the front rows. Meanwhile, I could clearly see groups in the back sharing answers. It felt unfair being closely monitored while others weren't, especially during such difficult exams. This is not me condoning cheating, but it was annoying.",
+      "rating": 1,
+      "expected_grade": "C+",
+      "created": "2025-08-07T04:48:47.900053Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "I fell asleep for every lecture. There are parts when lecture gets interesting, but he takes too long to speak and transition into the next concept. The Online textbook and application that comes with it is not that great to navigate, and not print-friendly. Reads off slides, but that's like every professor. The problem is that it's hard to understand the slides at times because it's not very apparent what the main points are. So if you don't remember lecture, then you will need to decipher the content while cross referencing the textbook. \r\n\r\nThe mathematical models used to explain/ represent certain events are not that hard to understand, it's just not taught well. You will need to put in more work for this class if you take it with this professor.",
+      "rating": 2,
+      "expected_grade": "C",
+      "created": "2025-11-05T14:54:37.026136Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "Lectures are boring like genuinely falling asleep and can do the notes myself in like 15 mins, but hes very chill. Epic curve and practice exams are just like the real ones.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-11-20T22:26:24.095139Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "Goated professor. He's extremely knowledgeable and passionate about what he is teaching. Class can get boring, but all of his lectures are recorded. Work is very minimal. Format of the class: 1 homework set per week, 3 exams. that's it. The exams can be a bit hard but to his credit they're extremely similar to the practice exams. He is very clear and a great professor!",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2025-11-30T17:27:45.637138Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "Genuinely the most boring professor. He seems like a really nice guy but he talks so slow and monotone I dont even bother going to class bc ill fall asleep. His practice exams arent like the actual one and the TA's seem kinda lost. Also your grade depends on 7 homework and 3 exams so if you tank one exam youre done for.",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2025-12-04T00:57:31.038448Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "He is a very boring lecturer. The grading isn't too harsh; it's just that because he's so boring, I can't understand the material that well, and I ended up tanking my first exam. His TAs might be the worst instructors I've had in my entire life. One of them couldn't even answer what the difference was between an increase in quantity demanded and demand was when asked. Take him if you are capable of staying awake and learning everything on your own.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2025-12-07T05:16:05.763352Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "Best professor ever. The practice exams are practically identical to the real ones, there's only two midterms and the final. Hw is graded for completion. AND he lets you bring a double sided cheat sheet for each exam, TWO sheets for the final. AND there's a curve that you literally should not even need if you do the practice exam. Also if you don't do anything he brings extra cheat sheets to the exams and pencils and calculators. Cutest guy ever.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-10T20:42:33.172829Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "DO NOT TAKE. While the course load is relatively light (10 problem sets, 2 Midterms, and a final) and he records lectures (so you don't have to go) his multiple choice tests are impossible and he makes his exams unnecessarily difficult. I went to him after an exam to go over it and he was not understanding at all. He will make you think his class is a breeze and then give u 40 on a test. Avoid if possible.",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2025-12-23T23:55:08.251772Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "I really don't think he himself is a bad teacher but his practice materials are awful and his exams are a terribly poor reflection of what we learned in class. It's weird that the TA who leads the in class discussions is the worst of them all and can't adequately answer questions students have without making himself and the student even more confused. The homework is alright but again doesn't really help on the exams. Exams were the absolute worst part of this class as every single exam had at least one mistake on it. The exams are curved but it's because no one would pass without them.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2025-12-24T00:10:30.651510Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "Pros: He's pretty nice and understanding...sort of. He provides several review sessions and mock exams leading up to exams. Though whether you find them helpful or not, depends on the person. I, personally, thought that they were not very useful.\r\n\r\nCons: Like nearly every review before me has stated, he is incredibly boring and not engaging whatsoever. It's hard to understand what he's even talking about most of the time due to his tone and accent and he doesn't even post the slides so you can follow along until AFTER class. Leading up to the final, I tried several times to meet with him to go over course materials but, he continuously just shoved me over to the TA's and said to ask them for help and when I said I want to learn directly from him, he kept insisting that I just email him questions or ask him questions before or after class. He refused to be flexible with me despite me demonstrating several times that I really needed his help. I felt defeated and like I had no one else to turn to. Oh and the TA's sucked!!\r\n\r\nCourse structure:\r\n3 Exams - (25% each)\r\n7 MindTap (Cengage) Problem Sets - (5% each) ---> 2 lowest ones get dropped\r\n\r\nAll in all, I strongly encourage you to take this class with another professor whether that is here at UMD or at a community college. The negatives far outweigh the positives unfortunately...",
+      "rating": 1,
+      "expected_grade": "D",
+      "created": "2025-12-24T00:59:18.941262Z"
+    },
+    {
+      "professor": "John Shea",
+      "course": "ECON201",
+      "review": "Lectures are SO boring but still giving him 5 stars. Exams are pretty fair, did find the past exams to usually be easier than the real exams (mcqs mostly), but with the curve it didn't really matter (final grade curve was VERY generous). Although the lectures could be dull, you could tell he is a super smart dude and explains everything really well. He posts slides and lecture videos so if you have a hard time focusing in class, which I did, I find sometimes it can be best to just take the notes from the slideshow and refer to the lecture video when you are confused and need a more in depth explanation (examples especially). For exams, there are double sided full page formula sheets that you can also add your own stuff to, these were super helpful, and for the final it's two pages front and back. He is also a very sweet guy, he'll make jokes every once in a while and is very nice if you ever go talk to him or ask him any questions. Homework is 15% of your grade and graded solely on completion, which is a great grade boost and the problem set questions are very relevant to exams. There are problem sets once a week and no reading so most of the work for this class is just studying well. \r\n\r\nOverall really liked this class with Shea I learned a lot!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-25T05:04:05.952433Z"
+    },
+    {
+      "professor": "Dereck Yang",
+      "course": "ECON201",
+      "review": "Honeslty I took this class during the winter and best decision. its all online and ur own paste. The assignments are not bad at all, and the exams are like the practice ones. I strongly recommend",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2026-01-28T17:58:28.602723Z"
+    },
+    {
+      "professor": "Dereck Yang",
+      "course": "ECON201",
+      "review": "The whole class is asynchronous and on your own pace. There are three problem sets, a midterm exam, and a final exam.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2026-02-12T20:10:25.096730Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "I had him fall semester and he\u2019s an easy class for 201. Doesn\u2019t assign much work and his exams are easy. All you have to do is review the slides the night before and you\u2019ll do fine on the exams.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2026-02-20T00:52:52.991050Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "Took this in the fall and the reviews are extremely misleading for professor Sarna...besides the fact that he can kind of go on tangents sometimes. This class isn't really that bad if you've taken an econ class before, but if you haven't it can definitely be a mindset adjustment for sure. If you do the chapter readings, take notes, use chat to check over your problem sets and study a minimal amount before the exam you will be fine. Use the lectures as a discussion of the chapter readings you've done, so you should try and stay on top of you readings (most important and challenging part of the class IMO). Also the average for the class was like really low which means Sarna basically had a 12% curve every exam, so I got an 100 on every exam except the first one from the curve alone. Sarna himself isn't the easiest lecturer to follow, but again, doing the readings makes him 100 times easier to understand. Essentially if you do what you need to you will do great in the class.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2026-03-06T19:07:47.515994Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "I think this is genuinely one of the worst classes I have ever taken. The professor is very knowledgeable in his subject but that does not mean he is a good professor. This was simply a horrific class, unless you understand analogies and metaphors on a topic you have no prior knowledge in this is the class for you. His lectures are very slow and hard to comprehend, when he isn't reading off the slides, he is providing a long winded story that is gives to try to explain the topic and just makes it harder to understand. This class will be you doing all the work yourself, I have had to rely entirely on the textbook because whenever I went to lecture I just ended up more confused. If you already understand macro then this would be the class for you, if you really wanna learn then do not take this course with him. He was constantly unwilling to work with students and it seems like he genuinely hates his job. This class will destroy your gpa.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2026-03-12T18:22:21.143676Z"
+    },
+    {
+      "professor": "Naveen Sarna",
+      "course": "ECON201",
+      "review": "I'm not sure why his ratings are so low. His exams are actually pretty manageable\u2014they\u2019re all multiple choice, and there are only three total exams (two midterms and a final). The only other assignments are seven problem sets, and he drops the lowest two, which helps if you have a busy week or don\u2019t do as well on one. He also does exam reviews and even dedicates a class to going over a mock exam, which is really helpful for understanding what to expect. Another plus is that he uploads the lecture slides after class, and they\u2019re very useful for studying and reviewing the material. The only downside is that the lectures themselves aren\u2019t the most engaging, but the slides and reviews make it pretty straightforward to do well if you stay on top of the work.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2026-03-13T23:40:40.758860Z"
+    },
+    {
+      "professor": "Alka Gandhi",
+      "course": "ECON201",
+      "review": "On the second exam, the class average was a failing grade. This was a direct result of the professor failing to provide study material relevant to the questions on the exam. There was no curve, after 4/400 students got a grade in the 90s. Luckily, the lowest exam grade is dropped, but this result is still inexcusable - take another professor if possible.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2026-04-20T23:54:27.041022Z"
+    }
+  ],
+  "department": "ECON",
+  "course_number": "201",
+  "name": "ECON201",
+  "title": "Principles of Macroeconomics",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> MATH107 or MATH110; or must have math eligibility of MATH113 or higher.\n<b>Recommended:</b> ECON200.\n<b>Credit only granted for:</b> ECON201 or ECON205.\nAn introduction to how market economies behave at the aggregate level. The determination of national income/output and the problems of unemployment inflation, will be examined, along with monetary and fiscal policy.",
+  "is_recent": true,
+  "geneds": null
+}
