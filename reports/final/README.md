@@ -62,7 +62,7 @@ Student selects 1–6 courses
 
 ## Live App
 
-[Open TerpLoad]()
+[Open TerpLoad](terpload.streamlit.app)
 
 ---
 
@@ -73,7 +73,7 @@ Student selects 1–6 courses
 
 ```bash
 git clone https://github.com/moatazsaad/msml641-project 
-cd https://github.com/moatazsaad/msml641-project
+cd msml641-project
 ```
 
 ### 2. Download Git LFS Model Files
