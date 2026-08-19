@@ -28,7 +28,6 @@ sys.path.insert(0, str(Path(__file__).parent / "src"))
 from planetterp_client import get_grade_context, get_recent_professor_context
 from risk_rules import estimate_schedule_risk  # noqa: E402
 from course_profile_service import CourseProfileService, POSITIVE_LABEL_THRESHOLD  # noqa: E402
-from distilbert_inference import SavedModelUnavailableError  # noqa: E402
 from simple_report_cli import build_course_inputs, get_low_evidence_courses  # noqa: E402
 from workload_labels import WORKLOAD_LABELS  # noqa: E402
 import plotly.graph_objects as go
@@ -621,18 +620,45 @@ st.markdown(
 )
 
 
-COURSE_SERVICE_CACHE_VERSION = 22
-GRADE_CONTEXT_CACHE_VERSION = 3
-PROFESSOR_CONTEXT_CACHE_VERSION = 3
+COURSE_SERVICE_CACHE_VERSION = 30
+GRADE_CONTEXT_CACHE_VERSION = 10
+PROFESSOR_CONTEXT_CACHE_VERSION = 10
 
-@st.cache_resource
+@st.cache_resource(show_spinner=False)
 def get_course_service(cache_version):
-    """Keep the profile cache and loaded DistilBERT model across reruns."""
-    return CourseProfileService()
+    """Keep the profile cache and any lazily loaded DistilBERT model across reruns."""
+    base_dir = Path(__file__).resolve().parent
+    cache_path = base_dir / "data" / "cache" / "course_profiles_distilbert.json"
+    return CourseProfileService(profile_cache_path=cache_path)
+
+@st.cache_data(show_spinner=False)
+def load_precomputed_secondary_context(cache_version):
+    """Load optional precomputed professor/grade context committed with the app."""
+    cache_dir = Path(__file__).resolve().parent / "data" / "cache"
+
+    def read_json(name):
+        path = cache_dir / name
+        if not path.exists():
+            return {}
+        try:
+            payload = json.loads(path.read_text(encoding="utf-8"))
+            return payload if isinstance(payload, dict) else {}
+        except Exception:
+            return {}
+
+    return (
+        read_json("grade_context.json"),
+        read_json("professor_context.json"),
+    )
+
 
 @st.cache_data(ttl=3600, show_spinner="Loading historical grade context...")
 def load_grade_context(course_code, cache_version):
-    """Fetch historical grade context without refetching on each rerun."""
+    """Use precomputed grade context first, then fall back to the live API."""
+    grade_cache, _ = load_precomputed_secondary_context(cache_version)
+    cached = grade_cache.get(str(course_code).strip().upper())
+    if isinstance(cached, dict):
+        return cached
     try:
         return get_grade_context(course_code)
     except Exception:
@@ -646,7 +672,11 @@ def load_professor_context(
     end_year=2026,
     cache_version=PROFESSOR_CONTEXT_CACHE_VERSION,
 ):
-    """Fetch professor context without slowing every Streamlit rerun."""
+    """Use precomputed professor context first, then fall back to the live API."""
+    _, professor_cache = load_precomputed_secondary_context(cache_version)
+    cached = professor_cache.get(str(course_code).strip().upper())
+    if isinstance(cached, list):
+        return cached
     try:
         return get_recent_professor_context(
             course_code,
@@ -1107,11 +1137,11 @@ if course_codes:
                 course_code: course_service.get_profile(course_code)
                 for course_code in course_codes
             }
-    except SavedModelUnavailableError as error:
-        st.error(str(error))
-        st.stop()
     except Exception as error:
-        st.error(f"Could not retrieve and analyze course reviews: {error}")
+        if error.__class__.__name__ == "SavedModelUnavailableError":
+            st.error(str(error))
+        else:
+            st.error(f"Could not retrieve and analyze course reviews: {error}")
         st.stop()
 
     courses, courses_without_data = build_course_inputs(course_codes, course_signals)
