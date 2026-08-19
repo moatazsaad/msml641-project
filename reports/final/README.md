@@ -62,7 +62,7 @@ Student selects 1–6 courses
 
 ## Live App
 
-[Open TerpLoad](terpload.streamlit.app)
+[Open TerpLoad](https://terpload.streamlit.app/)
 
 ---
 
