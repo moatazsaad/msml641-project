@@ -23,8 +23,7 @@ north_star:
 ## Shipped this week
 
 - Updated error analysis with current DistilBERT results
-- Removed outdated files
-- Added final report, slides, and README to `reports/final/`
+- Added final report, slides, demo, and README to `reports/final/`
 
 ## User / validation learning
 
