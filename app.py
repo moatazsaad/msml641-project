@@ -1555,3 +1555,4 @@ elif not entered_course_codes:
         '</div>',
         unsafe_allow_html=True,
     )
+    )
