@@ -631,6 +631,29 @@ def get_course_service(cache_version):
     cache_path = base_dir / "data" / "cache" / "course_profiles_distilbert.json"
     return CourseProfileService(profile_cache_path=cache_path)
 
+
+@st.cache_data(show_spinner=False)
+def load_precomputed_course_profiles(cache_version):
+    """Read committed course profiles directly for the instant cache-hit path.
+
+    This deliberately bypasses CourseProfileService.get_profile() for courses
+    already present in the JSON cache, so stale evidence metadata can never
+    trigger review fetching or DistilBERT inference before the report renders.
+    """
+    cache_path = (
+        Path(__file__).resolve().parent
+        / "data"
+        / "cache"
+        / "course_profiles_distilbert.json"
+    )
+    if not cache_path.exists():
+        return {}
+    try:
+        payload = json.loads(cache_path.read_text(encoding="utf-8"))
+        return payload if isinstance(payload, dict) else {}
+    except Exception:
+        return {}
+
 @st.cache_data(show_spinner=False)
 def load_precomputed_secondary_context(cache_version):
     """Load optional precomputed professor/grade context committed with the app."""
@@ -1132,11 +1155,27 @@ course_codes = st.session_state.get("submitted_course_codes", [])
 
 if course_codes:
     try:
-        with st.spinner("Analyzing course reviews..."):
-            course_signals = {
-                course_code: course_service.get_profile(course_code)
-                for course_code in course_codes
-            }
+        precomputed_profiles = load_precomputed_course_profiles(
+            COURSE_SERVICE_CACHE_VERSION
+        )
+
+        # Fast path: cached courses are plain JSON dictionary lookups.
+        # CourseProfileService is reached only for a genuine cache miss.
+        course_signals = {}
+        uncached_codes = []
+        for course_code in course_codes:
+            cached_profile = precomputed_profiles.get(course_code)
+            if isinstance(cached_profile, dict):
+                course_signals[course_code] = cached_profile
+            else:
+                uncached_codes.append(course_code)
+
+        if uncached_codes:
+            with st.spinner("Analyzing course reviews..."):
+                for course_code in uncached_codes:
+                    course_signals[course_code] = course_service.get_profile(
+                        course_code
+                    )
     except Exception as error:
         if error.__class__.__name__ == "SavedModelUnavailableError":
             st.error(str(error))
@@ -1309,12 +1348,42 @@ if course_codes:
             course_code = c["course_code"]
             items = c.get("evidence_snippets", [])
 
-            clean_items = [
-                item for item in items
-                if isinstance(item, dict)
-                and item.get("excerpt")
-                and item.get("matched_labels")
+            # Current caches store evidence as dictionaries. Older committed
+            # caches may still contain the original review strings. Never run
+            # DistilBERT during a cache hit just to upgrade display metadata:
+            # normalize those legacy strings for rendering only, preserving the
+            # exact cached excerpt text and all existing UI behavior.
+            clean_items = []
+            active_course_labels = [
+                label for label in WORKLOAD_LABELS
+                if c.get(label)
             ]
+            fallback_evidence_label = max(
+                WORKLOAD_LABELS,
+                key=lambda label: float(c.get(f"{label}_positive_rate", 0.0)),
+            )
+
+            for item in items:
+                if (
+                    isinstance(item, dict)
+                    and item.get("excerpt")
+                    and item.get("matched_labels")
+                ):
+                    clean_items.append(item)
+                elif isinstance(item, str) and item.strip():
+                    clean_items.append(
+                        {
+                            "excerpt": item,
+                            "matched_labels": (
+                                active_course_labels[:1]
+                                or [fallback_evidence_label]
+                            ),
+                            "source_url": (
+                                f"https://planetterp.com/course/{course_code}/reviews"
+                            ),
+                            "evidence_scope": "legacy_cached",
+                        }
+                    )
 
             if not clean_items:
                 continue
