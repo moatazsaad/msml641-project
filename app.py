@@ -28,6 +28,7 @@ sys.path.insert(0, str(Path(__file__).parent / "src"))
 from planetterp_client import get_grade_context, get_recent_professor_context
 from risk_rules import estimate_schedule_risk  # noqa: E402
 from course_profile_service import CourseProfileService, POSITIVE_LABEL_THRESHOLD  # noqa: E402
+from distilbert_inference import SavedModelUnavailableError  # noqa: E402
 from simple_report_cli import build_course_inputs, get_low_evidence_courses  # noqa: E402
 from workload_labels import WORKLOAD_LABELS  # noqa: E402
 import plotly.graph_objects as go
@@ -620,59 +621,37 @@ st.markdown(
 )
 
 
-COURSE_SERVICE_CACHE_VERSION = 26
-GRADE_CONTEXT_CACHE_VERSION = 5
-PROFESSOR_CONTEXT_CACHE_VERSION = 5
+COURSE_SERVICE_CACHE_VERSION = 22
+GRADE_CONTEXT_CACHE_VERSION = 3
+PROFESSOR_CONTEXT_CACHE_VERSION = 3
 
 @st.cache_resource
 def get_course_service(cache_version):
-    """Keep the profile cache and any lazily loaded DistilBERT model across reruns."""
-    base_dir = Path(__file__).resolve().parent
-    cache_path = base_dir / "data" / "cache" / "course_profiles_distilbert.json"
-    return CourseProfileService(profile_cache_path=cache_path)
+    """Keep the profile cache and loaded DistilBERT model across reruns."""
+    return CourseProfileService()
 
 @st.cache_data(ttl=3600, show_spinner="Loading historical grade context...")
-def _load_grade_context_cached(course_code, cache_version):
-    """Cache successful historical-grade responses."""
-    return get_grade_context(course_code)
-
-
 def load_grade_context(course_code, cache_version):
-    """Keep the original fallback UI, but do not cache transient API failures."""
+    """Fetch historical grade context without refetching on each rerun."""
     try:
-        return _load_grade_context_cached(course_code, cache_version)
+        return get_grade_context(course_code)
     except Exception:
         return None
 
 
 @st.cache_data(ttl=21600, show_spinner="Loading professor context...")
-def _load_professor_context_cached(
-    course_code,
-    start_year=2024,
-    end_year=2026,
-    cache_version=PROFESSOR_CONTEXT_CACHE_VERSION,
-):
-    """Cache successful professor-context responses."""
-    return get_recent_professor_context(
-        course_code,
-        start_year=start_year,
-        end_year=end_year,
-    )
-
-
 def load_professor_context(
     course_code,
     start_year=2024,
     end_year=2026,
     cache_version=PROFESSOR_CONTEXT_CACHE_VERSION,
 ):
-    """Keep the original fallback UI, but do not cache transient API failures."""
+    """Fetch professor context without slowing every Streamlit rerun."""
     try:
-        return _load_professor_context_cached(
+        return get_recent_professor_context(
             course_code,
             start_year=start_year,
             end_year=end_year,
-            cache_version=cache_version,
         )
     except Exception:
         return []
@@ -1128,11 +1107,11 @@ if course_codes:
                 course_code: course_service.get_profile(course_code)
                 for course_code in course_codes
             }
+    except SavedModelUnavailableError as error:
+        st.error(str(error))
+        st.stop()
     except Exception as error:
-        if error.__class__.__name__ == "SavedModelUnavailableError":
-            st.error(str(error))
-        else:
-            st.error(f"Could not retrieve and analyze course reviews: {error}")
+        st.error(f"Could not retrieve and analyze course reviews: {error}")
         st.stop()
 
     courses, courses_without_data = build_course_inputs(course_codes, course_signals)
