@@ -14,7 +14,9 @@
 | 10 | MSML604 | DistilBERT | Predicted exam_heavy for a review mostly saying averages were low but the professor curved generously. | Low averages or grade difficulty do not always mean exam-heavy workload. so need the grade/context information, not automatically as workload risk. |
 
 
-Seemed like issue was with mixed reviews especially for keyword. Keyword is very sensitive to any mention of a label. TF-IDF also similar. DistilBERT was worse than both other models on our data (see `results/model_comparison.csv`) — this is an experiment we tried and are not using, not a candidate model. With only 64 labeled reviews, a transformer with millions of parameters does not have enough examples per label to fine-tune reliably, especially for `project_heavy` (11 positives) and `homework_heavy` (9 positives).
+Seemed like issue was with mixed reviews especially for keyword. Keyword is very sensitive to any mention of a label. TF-IDF also similar. On this original 64-review set, DistilBERT was worse than both other models. With only 64 labeled reviews, a transformer with millions of parameters did not have enough examples per label to fine-tune reliably, especially for `project_heavy` (11 positives) and `homework_heavy` (9 positives).
+
+**Update (Week 11):** After the label audit fixed 493 confirmed-wrong labels and the dataset grew to 5,059 reviews, TF-IDF and DistilBERT were both retrained with a proper train/validation/test split. On that corrected, larger dataset, DistilBERT outperformed TF-IDF on every metric (macro F1 0.739 vs 0.652, subset accuracy 0.647 vs 0.537 — see `results/model_comparison.csv`) and is now the final model used in `app.py`. The conclusion above only describes the original small-dataset experiment and no longer reflects which model the project uses.
 
 ## Overfitting evidence
 
@@ -27,6 +29,8 @@ further evidence that single-split accuracy numbers elsewhere in this project ov
 well these models generalize to reviews they have not seen.
 
 ## More data did not clearly help (week10 update)
+
+*(Note: this section compares 64 vs. 104 reviews. The dataset has since grown to 5,059 reviews, with 493 labels corrected in the Week 11 audit — see the Week 11 update above. Kept here as historical context, not a description of the current dataset.)*
 
 We labeled 40 more reviews (`data/weakly-labeled-week10.csv`, same weak-labeling method as
 the original 64) and combined them with the original set, going from 64 to 104 labeled
