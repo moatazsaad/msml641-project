@@ -1,7 +1,15 @@
 # TerpLoad
-TerpLoad is our startup project idea. The goal is to help first year and/or CS/STEM students understand whether a planned semester schedule is manageable before fully committing.
+Terpload is a course planning tool for UMD students, mainly for CS/STEM students that analyzes student course reviews with a fine-tuned DistilBERT multi-label classifier and turns review-level workload predictions into an explainable schedule-level report.
 
-Essentially, we want to be able to help these students understand whether they can handle their planned techincal course schedule and inform them of important considerations or details on the schedules.
+Essentially, students begin by selecting 1-6 courses and receive information about:
+- overall schedule risk and or uncertainty(based on review coverage)
+- confidence level of the report
+- main workload driver
+- actionable best move
+- signals for project-heavy, exam-heavy, time-consuming, homework-heavy
+- percentage of reviews supporting each signal
+- recent professor context (context only, does not affect workload classification)
+- historical grade distributions(context only, does not affect workload classification)
 
 ## Persona
 Our main specific target is a UMD CS/STEM student planning a required or workload heavu course combination(that they might not even realize), which includes students who are entering harder higher level major courses, balancing required classes, and also just unsure how they might need to divide their time because they don't know if their planned semester is manageable.
