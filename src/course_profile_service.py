@@ -45,46 +45,25 @@ class CourseProfileService:
 
     def _get_model(self):
         if self._model is None:
-            model_factory = self.model_factory
-            if model_factory is None:
+            if self.model_factory is None:
                 from distilbert_inference import DistilBertWorkloadModel
-                model_factory = DistilBertWorkloadModel
-            self._model = model_factory()
+                self.model_factory = DistilBertWorkloadModel
+            self._model = self.model_factory()
         return self._model
 
     def get_profile(self, course_code):
-        """Return a cached profile, but re-check courses cached with zero reviews.
+        """Return cached profiles immediately; infer only true cache misses.
 
-        Zero-review profiles are special because PlanetTerp may receive the first
-        review later. The raw review client uses a short TTL for empty responses,
-        so this check is cheap while still allowing a new first review to appear.
+        A committed cached profile is already the result of DistilBERT aggregation.
+        Stale evidence metadata must never force hundreds of reviews through the
+        model during a Streamlit request. Legacy evidence is rendered compatibly
+        by app.py; the original evidence-selection implementation remains available
+        for offline precompute and genuinely uncached courses.
         """
         course_code = normalize_course_code(course_code)
 
         if course_code in self._profiles:
-            profile = self._profiles[course_code]
-
-            if int(profile.get("review_count", 0) or 0) == 0:
-                try:
-                    reviews = self.fetch_reviews(course_code)
-                    review_texts = [review["review_text"] for review in reviews]
-                except Exception:
-                    # A temporary API problem should not erase a usable cached
-                    # zero-review state. Return what we already know.
-                    self._upgrade_cached_evidence(course_code, profile)
-                    return profile
-
-                if review_texts:
-                    # PlanetTerp now has reviews where our old profile had none.
-                    # Rebuild with the saved DistilBERT model and replace the stale
-                    # zero-review profile. No retraining occurs.
-                    profile = self._build_profile(course_code, review_texts)
-                    self._profiles[course_code] = profile
-                    self._save_profiles()
-                    return profile
-
-            self._upgrade_cached_evidence(course_code, profile)
-            return profile
+            return self._profiles[course_code]
 
         reviews = self.fetch_reviews(course_code)
         texts = [review["review_text"] for review in reviews]
