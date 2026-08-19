@@ -15,10 +15,11 @@ built from real data:
   data available (e.g. "83% of your grade"), so that is not shown here.
 """
 import re
+import csv
 import html
+import json
 import sys
 from pathlib import Path
-from concurrent.futures import ThreadPoolExecutor, as_completed
 
 import streamlit as st
 
@@ -27,6 +28,7 @@ sys.path.insert(0, str(Path(__file__).parent / "src"))
 from planetterp_client import get_grade_context, get_recent_professor_context
 from risk_rules import estimate_schedule_risk  # noqa: E402
 from course_profile_service import CourseProfileService, POSITIVE_LABEL_THRESHOLD  # noqa: E402
+from distilbert_inference import SavedModelUnavailableError  # noqa: E402
 from simple_report_cli import build_course_inputs, get_low_evidence_courses  # noqa: E402
 from workload_labels import WORKLOAD_LABELS  # noqa: E402
 import plotly.graph_objects as go
@@ -619,19 +621,18 @@ st.markdown(
 )
 
 
-COURSE_SERVICE_CACHE_VERSION = 24
-GRADE_CONTEXT_CACHE_VERSION = 4
-PROFESSOR_CONTEXT_CACHE_VERSION = 4
-ANALYSIS_CACHE_VERSION = 1
+COURSE_SERVICE_CACHE_VERSION = 25
+GRADE_CONTEXT_CACHE_VERSION = 3
+PROFESSOR_CONTEXT_CACHE_VERSION = 3
 
-@st.cache_resource(show_spinner=False)
+@st.cache_resource
 def get_course_service(cache_version):
-    """Keep the precomputed profile dictionary and any lazy model across reruns."""
+    """Keep the profile cache and any lazily loaded DistilBERT model across reruns."""
     base_dir = Path(__file__).resolve().parent
     cache_path = base_dir / "data" / "cache" / "course_profiles_distilbert.json"
     return CourseProfileService(profile_cache_path=cache_path)
 
-@st.cache_data(ttl=3600, show_spinner=False, max_entries=512)
+@st.cache_data(ttl=3600, show_spinner="Loading historical grade context...")
 def load_grade_context(course_code, cache_version):
     """Fetch historical grade context without refetching on each rerun."""
     try:
@@ -640,14 +641,14 @@ def load_grade_context(course_code, cache_version):
         return None
 
 
-@st.cache_data(ttl=21600, show_spinner=False, max_entries=512)
+@st.cache_data(ttl=21600, show_spinner="Loading professor context...")
 def load_professor_context(
     course_code,
     start_year=2024,
     end_year=2026,
     cache_version=PROFESSOR_CONTEXT_CACHE_VERSION,
 ):
-    """Fetch professor context without refetching on each rerun."""
+    """Fetch professor context without slowing every Streamlit rerun."""
     try:
         return get_recent_professor_context(
             course_code,
@@ -656,6 +657,7 @@ def load_professor_context(
         )
     except Exception:
         return []
+
 
 
 
@@ -843,48 +845,160 @@ def best_move_text(result, courses_without_data, courses):
     return "No schedule change stands out. Keep some weekly buffer for unexpected workload spikes."
 
 
-@st.cache_data(show_spinner=False, max_entries=256)
-def analyze_schedule_cached(course_codes_tuple, analysis_version):
-    """Compute the primary report independently of lightweight UI reruns."""
-    service = get_course_service(COURSE_SERVICE_CACHE_VERSION)
-    course_codes = list(course_codes_tuple)
-    course_signals = {
-        course_code: service.get_profile(course_code)
-        for course_code in course_codes
-    }
-    courses, courses_without_data = build_course_inputs(course_codes, course_signals)
-    result = estimate_schedule_risk(courses)
-    return (
-        course_signals,
-        courses,
-        courses_without_data,
-        result,
-        get_low_evidence_courses(courses),
-    )
-
-
-COURSE_OPTIONS_CACHE_VERSION = 4
+COURSE_OPTIONS_CACHE_VERSION = 3
 
 # Snapshot of the 109 course codes represented in the final project dataset.
-# This remains a safe fallback if the precomputed cache is missing.
+# The app still tries to discover courses from data/ first; this is only a
+# safe fallback so the selector never becomes empty because of a path/cache issue.
 PROJECT_COURSE_FALLBACK = ['BSCI160', 'BSCI161', 'BSCI170', 'BSCI171', 'BSCI201', 'BSCI202', 'BSCI207', 'BSCI222', 'BSCI223', 'BSCI330', 'BSCI331', 'BSCI353', 'BSCI410', 'CHEM131', 'CHEM132', 'CHEM135', 'CHEM136', 'CHEM231', 'CHEM232', 'CHEM241', 'CHEM242', 'CHEM271', 'CHEM272', 'CMSC131', 'CMSC132', 'CMSC216', 'CMSC250', 'CMSC320', 'CMSC330', 'CMSC335', 'CMSC351', 'CMSC411', 'CMSC412', 'CMSC414', 'CMSC417', 'CMSC420', 'CMSC421', 'CMSC422', 'CMSC424', 'CMSC426', 'CMSC430', 'CMSC433', 'CMSC434', 'CMSC436', 'CMSC451', 'CMSC456', 'CMSC460', 'CMSC466', 'CMSC470', 'CMSC471', 'CMSC472', 'CMSC474', 'CMSC475', 'DATA100', 'DATA110', 'DATA120', 'DATA350', 'INST326', 'INST327', 'INST414', 'INST447', 'MATH140', 'MATH141', 'MATH240', 'MATH241', 'MATH246', 'MATH310', 'MATH401', 'MATH402', 'MATH403', 'MATH404', 'MATH405', 'MATH406', 'MATH410', 'MATH411', 'MATH416', 'MATH420', 'MATH424', 'MATH430', 'MATH431', 'MATH475', 'MSML601', 'MSML602', 'MSML603', 'MSML604', 'MSML605', 'MSML610', 'MSML640', 'PHYS121', 'PHYS122', 'PHYS131', 'PHYS132', 'PHYS141', 'PHYS142', 'PHYS260', 'PHYS261', 'PHYS270', 'PHYS271', 'PHYS371', 'PHYS401', 'PHYS402', 'PHYS410', 'PHYS411', 'STAT100', 'STAT400', 'STAT401', 'STAT410', 'STAT420', 'STAT430']
+
+@st.cache_data
+def load_course_options(cache_version):
+    """Load every course code represented in TerpLoad's project data."""
+    base_dir = Path(__file__).resolve().parent
+    data_dir = base_dir / "data"
+    course_codes = set()
+
+    # Scan every CSV in data/ recursively. Different project files use either
+    # `course` or `course_id`, so support both instead of assuming one filename.
+    if data_dir.exists():
+        for csv_path in data_dir.rglob("*.csv"):
+            try:
+                with csv_path.open("r", encoding="utf-8", newline="") as handle:
+                    reader = csv.DictReader(handle)
+                    fieldnames = set(reader.fieldnames or [])
+                    course_field = (
+                        "course" if "course" in fieldnames
+                        else "course_id" if "course_id" in fieldnames
+                        else None
+                    )
+                    if not course_field:
+                        continue
+
+                    for row in reader:
+                        course_code = str(row.get(course_field, "")).strip().upper()
+                        if course_code:
+                            course_codes.add(course_code)
+            except Exception:
+                continue
+
+        # Also collect dictionary keys from JSON files that look like
+        # course->profile/signal maps.
+        for json_path in data_dir.rglob("*.json"):
+            try:
+                payload = json.loads(json_path.read_text(encoding="utf-8"))
+                if not isinstance(payload, dict):
+                    continue
+
+                for key in payload.keys():
+                    course_code = str(key).strip().upper()
+                    if re.fullmatch(r"[A-Z]{3,5}\d{3}", course_code):
+                        course_codes.add(course_code)
+            except Exception:
+                continue
+
+    # Never leave the UI with an empty multiselect. These are the course codes
+    # present in the final project snapshot used for Week 11 evaluation.
+    if not course_codes:
+        course_codes.update(PROJECT_COURSE_FALLBACK)
+
+    return sorted(course_codes)
+
 
 course_service = get_course_service(COURSE_SERVICE_CACHE_VERSION)
 
-# Build autocomplete directly from the already-loaded precomputed profile cache.
-# This avoids recursively scanning every CSV/JSON file in data/ on startup.
-base_course_options = sorted(course_service._profiles.keys())
+base_course_options = load_course_options(COURSE_OPTIONS_CACHE_VERSION)
 
-if not base_course_options:
-    base_course_options = PROJECT_COURSE_FALLBACK
+# Read the current picker state without mutating it.
+raw_picker_state = st.session_state.get("course_picker", [])
 
+normalized_picker_state = list(
+    dict.fromkeys(
+        str(course).strip().upper()
+        for course in raw_picker_state
+        if str(course).strip()
+    )
+)
+
+# New custom courses are kept PENDING while the user is actively editing.
+# This is important: changing the multiselect's options while a custom value
+# is still selected can make Streamlit drop/reset chips unexpectedly.
+pending_course_options = set(
+    st.session_state.get("pending_user_course_options", [])
+)
+
+base_option_set = set(base_course_options)
+
+for course_code in normalized_picker_state:
+    if (
+        re.fullmatch(r"[A-Z]{3,5}\d{3}", course_code)
+        and course_code not in base_option_set
+    ):
+        pending_course_options.add(course_code)
+
+st.session_state["pending_user_course_options"] = sorted(
+    pending_course_options
+)
+
+# Only promote learned custom courses into autocomplete AFTER the picker is
+# empty. That way Backspace/X only removes the intended chip and never causes
+# the options list to change underneath an active multiselect.
 remembered_course_options = set(
     st.session_state.get("user_added_course_options", [])
 )
-course_options = sorted(set(base_course_options) | remembered_course_options)
 
-# The submitted report is intentionally independent from in-form edits.
-# A report changes only when the user explicitly submits the form.
+if not raw_picker_state and pending_course_options:
+    remembered_course_options.update(pending_course_options)
+    st.session_state["user_added_course_options"] = sorted(
+        remembered_course_options
+    )
+    st.session_state["pending_user_course_options"] = []
+else:
+    st.session_state["user_added_course_options"] = sorted(
+        remembered_course_options
+    )
+
+course_options = sorted(
+    base_option_set | remembered_course_options
+)
+
+
+def submit_schedule():
+    """Persist the selected schedule before Streamlit performs its normal rerun."""
+    selected = st.session_state.get("course_picker", [])
+
+    course_codes = list(
+        dict.fromkeys(
+            str(course).strip().upper()
+            for course in selected
+            if str(course).strip()
+        )
+    )
+
+    if not 1 <= len(course_codes) <= 6:
+        st.session_state["schedule_submit_error"] = (
+            "Enter between 1 and 6 courses for a schedule analysis."
+        )
+        return
+
+    st.session_state["submitted_course_codes"] = course_codes
+    st.session_state.pop("grade_context_course", None)
+    st.session_state.pop("schedule_submit_error", None)
+
+
+# If the user edits a schedule that already has a report, invalidate only
+# the REPORT. Never rewrite or clear the multiselect selection itself.
+submitted_schedule = st.session_state.get("submitted_course_codes")
+
+if submitted_schedule and normalized_picker_state != submitted_schedule:
+    st.session_state.pop("submitted_course_codes", None)
+    st.session_state.pop("grade_context_course", None)
+    st.session_state.pop("schedule_submit_error", None)
+
+
+# Before a schedule is submitted, add vertical space so the hero sits
+# around the middle of the viewport. After submit, remove the spacer so the
+# title + search form move to the top and the report appears directly below.
 has_submitted_schedule = bool(
     st.session_state.get("submitted_course_codes")
 )
@@ -924,52 +1038,55 @@ st.markdown(
 )
 
 # Center the SEARCH BAR itself on the page.
-# The real st.form batches multiselect edits so typing/removing chips does not
-# trigger Python reruns until the submit arrow is pressed.
+# Use equal-width side columns so the red submit button does not shift the
+# visual center of the selector. The title/subtitle are already page-centered,
+# so they now sit exactly over the midpoint of the search box.
 outer_left, outer_center, outer_right = st.columns(
     [0.2, 9.6, 0.2],
     gap="small",
 )
 
 with outer_center:
-    with st.form("schedule_form", clear_on_submit=False, border=False):
-        left_balance, picker_col, button_col = st.columns(
-            [1.15, 9.25, 1.15],
-            gap="medium",
-            vertical_alignment="center",
+    left_balance, picker_col, button_col = st.columns(
+        [1.15, 9.25, 1.15],
+        gap="medium",
+        vertical_alignment="center",
+    )
+
+    with picker_col:
+        st.markdown(
+            '<div style="color:#bdb7b2;font-size:0.82rem;margin:0 0 0.45rem 0.15rem;">'
+            'Select your courses'
+            '</div>',
+            unsafe_allow_html=True,
         )
 
-        with picker_col:
-            st.markdown(
-                '<div style="color:#bdb7b2;font-size:0.82rem;margin:0 0 0.45rem 0.15rem;">'
-                'Select your courses'
-                '</div>',
-                unsafe_allow_html=True,
-            )
+        picked = st.multiselect(
+            "Courses",
+            options=course_options,
+            placeholder="Search a course code",
+            label_visibility="collapsed",
+            help=(
+                "Select 1-6 courses. You can also type a course code "
+                "that is not already listed."
+            ),
+            max_selections=6,
+            accept_new_options=True,
+            key="course_picker",
+        )
 
-            picked = st.multiselect(
-                "Courses",
-                options=course_options,
-                placeholder="Search a course code",
-                label_visibility="collapsed",
-                help=(
-                    "Select 1-6 courses. You can also type a course code "
-                    "that is not already listed."
-                ),
-                max_selections=6,
-                accept_new_options=True,
-                key="course_picker",
-            )
-
-        with button_col:
-            # Small top spacer aligns the circular button vertically with the search
-            # box rather than with the "Select your courses" label above it.
-            st.markdown('<div style="height:1.45rem;"></div>', unsafe_allow_html=True)
-            submitted = st.form_submit_button(
-                "↑",
-                type="primary",
-                use_container_width=True,
-            )
+    with button_col:
+        # Small top spacer aligns the circular button vertically with the search
+        # box rather than with the "Select your courses" label above it.
+        st.markdown('<div style="height:1.45rem;"></div>', unsafe_allow_html=True)
+        st.button(
+            "↑",
+            type="primary",
+            use_container_width=True,
+            disabled=not picked,
+            on_click=submit_schedule,
+            key="analyze_schedule_button",
+        )
 
 entered_course_codes = list(
     dict.fromkeys(
@@ -978,25 +1095,6 @@ entered_course_codes = list(
         if str(course).strip()
     )
 )
-
-if submitted:
-    if not 1 <= len(entered_course_codes) <= 6:
-        st.session_state["schedule_submit_error"] = (
-            "Enter between 1 and 6 courses for a schedule analysis."
-        )
-    else:
-        st.session_state["submitted_course_codes"] = entered_course_codes
-        st.session_state.pop("grade_context_course", None)
-        st.session_state.pop("schedule_submit_error", None)
-
-        remembered_course_options.update(
-            course_code
-            for course_code in entered_course_codes
-            if re.fullmatch(r"[A-Z]{{3,5}}\d{{3}}", course_code)
-        )
-        st.session_state["user_added_course_options"] = sorted(
-            remembered_course_options
-        )
 
 submit_error = st.session_state.get("schedule_submit_error")
 if submit_error:
@@ -1007,23 +1105,20 @@ course_codes = st.session_state.get("submitted_course_codes", [])
 if course_codes:
     try:
         with st.spinner("Analyzing course reviews..."):
-            (
-                course_signals,
-                courses,
-                courses_without_data,
-                result,
-                low_evidence_courses,
-            ) = analyze_schedule_cached(
-                tuple(course_codes),
-                ANALYSIS_CACHE_VERSION,
-            )
+            course_signals = {
+                course_code: course_service.get_profile(course_code)
+                for course_code in course_codes
+            }
+    except SavedModelUnavailableError as error:
+        st.error(str(error))
+        st.stop()
     except Exception as error:
-        if error.__class__.__name__ == "SavedModelUnavailableError":
-            st.error(str(error))
-        else:
-            st.error(f"Could not retrieve and analyze course reviews: {error}")
+        st.error(f"Could not retrieve and analyze course reviews: {error}")
         st.stop()
 
+    courses, courses_without_data = build_course_inputs(course_codes, course_signals)
+    result = estimate_schedule_risk(courses)
+    low_evidence_courses = get_low_evidence_courses(courses)
     confidence = compute_confidence(courses, courses_without_data)
     risk_level = result["risk_level"]
     shown_risk_level = display_risk_level(
@@ -1182,42 +1277,6 @@ if course_codes:
             "time_consuming": "TIME EVIDENCE",
         }
 
-        # Secondary professor requests run concurrently instead of serially.
-        # Results are retained in session state so lightweight UI reruns do not
-        # refetch them. The resulting HTML/content is unchanged.
-        professor_contexts = dict(
-            st.session_state.get("professor_contexts", {})
-        )
-        professor_course_codes = [
-            c["course_code"]
-            for c in known_selected
-            if c.get("evidence_snippets")
-        ]
-        missing_professor_courses = [
-            course_code
-            for course_code in professor_course_codes
-            if course_code not in professor_contexts
-        ]
-        if missing_professor_courses:
-            max_workers = min(6, len(missing_professor_courses))
-            with ThreadPoolExecutor(max_workers=max_workers) as executor:
-                future_to_course = {
-                    executor.submit(
-                        get_recent_professor_context,
-                        course_code,
-                        start_year=2024,
-                        end_year=2026,
-                    ): course_code
-                    for course_code in missing_professor_courses
-                }
-                for future in as_completed(future_to_course):
-                    course_code = future_to_course[future]
-                    try:
-                        professor_contexts[course_code] = future.result()
-                    except Exception:
-                        professor_contexts[course_code] = []
-            st.session_state["professor_contexts"] = professor_contexts
-
         for c in known_selected:
             course_code = c["course_code"]
             items = c.get("evidence_snippets", [])
@@ -1243,7 +1302,12 @@ if course_codes:
             )
             safe_url = html.escape(source_url, quote=True)
 
-            professors = professor_contexts.get(course_code, [])
+            professors = load_professor_context(
+                course_code,
+                start_year=2024,
+                end_year=2026,
+                cache_version=PROFESSOR_CONTEXT_CACHE_VERSION,
+            )
 
             # Representative/below-threshold labels remain only where needed.
             tag_html = ""
@@ -1392,7 +1456,15 @@ if course_codes:
             )
 
         # Historical grade context — keep every searched course selectable.
-        # Fetch only the course currently being viewed instead of all selected courses.
+        grade_contexts = {}
+
+        for c in known_selected:
+            course_code = c["course_code"]
+            grade_contexts[course_code] = load_grade_context(
+                course_code,
+                GRADE_CONTEXT_CACHE_VERSION,
+            )
+
         if known_selected:
             st.markdown("### Historical Grade Context")
 
@@ -1409,9 +1481,8 @@ if course_codes:
                 label_visibility="collapsed",
             )
 
-            selected_grade_context = load_grade_context(
-                selected_grade_course,
-                GRADE_CONTEXT_CACHE_VERSION,
+            selected_grade_context = grade_contexts.get(
+                selected_grade_course
             )
 
             if selected_grade_context:
