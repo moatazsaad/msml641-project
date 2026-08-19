@@ -623,7 +623,7 @@ st.markdown(
 
 COURSE_SERVICE_CACHE_VERSION = 25
 GRADE_CONTEXT_CACHE_VERSION = 3
-PROFESSOR_CONTEXT_CACHE_VERSION = 3
+PROFESSOR_CONTEXT_CACHE_VERSION = 4
 
 @st.cache_resource
 def get_course_service(cache_version):
