@@ -29,7 +29,6 @@ class CourseProfileService:
         model_factory=None,
         fetch_reviews=fetch_course_reviews,
     ):
-        # Resolve from this module/repo, never from the process working directory.
         self.profile_cache_path = Path(profile_cache_path).resolve()
         self.model_factory = model_factory
         self.fetch_reviews = fetch_reviews
@@ -51,25 +50,19 @@ class CourseProfileService:
 
     def _get_model(self):
         if self._model is None:
-            # Keep torch/transformers completely out of the cached-course path.
+            # Import the heavy transformer stack only for a genuine cache miss.
             if self.model_factory is None:
                 from distilbert_inference import DistilBertWorkloadModel
-
                 self.model_factory = DistilBertWorkloadModel
             self._model = self.model_factory()
         return self._model
 
-    @property
-    def cached_course_codes(self):
-        """Course codes available for instant, precomputed lookup."""
-        return tuple(sorted(self._profiles))
-
     def get_profile(self, course_code):
-        """Return a precomputed profile immediately when one exists.
+        """Return cached profiles immediately; infer only for uncached courses.
 
-        A cache hit is a strict fast path: no PlanetTerp request, evidence refresh,
-        model initialization, or inference is allowed. Existing live-build behavior
-        is preserved only for genuinely uncached courses.
+        Cache hits never call PlanetTerp, refresh evidence, initialize DistilBERT,
+        or run inference. The original live-build/excerpt logic below remains
+        unchanged for genuinely uncached courses.
         """
         course_code = normalize_course_code(course_code)
 
