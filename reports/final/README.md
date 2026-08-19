@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="assets/terpload_logo.png" alt="TerpLoad logo" width="120" height="120">
+  <img src="../../assets/terpload_logo.png" alt="TerpLoad logo" width="120" height="120">
 </p>
-
 
 # TerpLoad
 Terpload is a course planning tool for UMD students, mainly for CS/STEM students that analyzes student course reviews with a fine-tuned DistilBERT multi-label classifier and turns review-level workload predictions into an explainable schedule-level report.
