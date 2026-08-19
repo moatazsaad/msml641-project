@@ -2,13 +2,16 @@ import json
 import re
 from pathlib import Path
 
-from distilbert_inference import DistilBertWorkloadModel
 from planetterp_client import fetch_course_reviews, normalize_course_code
 from workload_labels import get_workload_labels
 
 
-PROJECT_ROOT = Path(__file__).resolve().parents[1]
-PROFILE_CACHE_PATH = PROJECT_ROOT / "data" / "cache" / "course_profiles_distilbert.json"
+PROFILE_CACHE_PATH = (
+    Path(__file__).resolve().parents[1]
+    / "data"
+    / "cache"
+    / "course_profiles_distilbert.json"
+)
 POSITIVE_LABEL_THRESHOLD = 0.30
 LOW_EVIDENCE_REVIEW_THRESHOLD = 10
 EVIDENCE_VERSION = 25
@@ -23,10 +26,11 @@ class CourseProfileService:
     def __init__(
         self,
         profile_cache_path=PROFILE_CACHE_PATH,
-        model_factory=DistilBertWorkloadModel,
+        model_factory=None,
         fetch_reviews=fetch_course_reviews,
     ):
-        self.profile_cache_path = Path(profile_cache_path)
+        # Resolve from this module/repo, never from the process working directory.
+        self.profile_cache_path = Path(profile_cache_path).resolve()
         self.model_factory = model_factory
         self.fetch_reviews = fetch_reviews
         self._model = None
@@ -47,42 +51,30 @@ class CourseProfileService:
 
     def _get_model(self):
         if self._model is None:
+            # Keep torch/transformers completely out of the cached-course path.
+            if self.model_factory is None:
+                from distilbert_inference import DistilBertWorkloadModel
+
+                self.model_factory = DistilBertWorkloadModel
             self._model = self.model_factory()
         return self._model
 
-    def get_profile(self, course_code):
-        """Return a cached profile, but re-check courses cached with zero reviews.
+    @property
+    def cached_course_codes(self):
+        """Course codes available for instant, precomputed lookup."""
+        return tuple(sorted(self._profiles))
 
-        Zero-review profiles are special because PlanetTerp may receive the first
-        review later. The raw review client uses a short TTL for empty responses,
-        so this check is cheap while still allowing a new first review to appear.
+    def get_profile(self, course_code):
+        """Return a precomputed profile immediately when one exists.
+
+        A cache hit is a strict fast path: no PlanetTerp request, evidence refresh,
+        model initialization, or inference is allowed. Existing live-build behavior
+        is preserved only for genuinely uncached courses.
         """
         course_code = normalize_course_code(course_code)
 
         if course_code in self._profiles:
-            profile = self._profiles[course_code]
-
-            if int(profile.get("review_count", 0) or 0) == 0:
-                try:
-                    reviews = self.fetch_reviews(course_code)
-                    review_texts = [review["review_text"] for review in reviews]
-                except Exception:
-                    # A temporary API problem should not erase a usable cached
-                    # zero-review state. Return what we already know.
-                    self._upgrade_cached_evidence(course_code, profile)
-                    return profile
-
-                if review_texts:
-                    # PlanetTerp now has reviews where our old profile had none.
-                    # Rebuild with the saved DistilBERT model and replace the stale
-                    # zero-review profile. No retraining occurs.
-                    profile = self._build_profile(course_code, review_texts)
-                    self._profiles[course_code] = profile
-                    self._save_profiles()
-                    return profile
-
-            self._upgrade_cached_evidence(course_code, profile)
-            return profile
+            return self._profiles[course_code]
 
         reviews = self.fetch_reviews(course_code)
         texts = [review["review_text"] for review in reviews]
