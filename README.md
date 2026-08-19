@@ -1,4 +1,7 @@
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/263b0418-7b94-4049-beb3-200db317b834" />
+<p align="center"
+            <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/263b0418-7b94-4049-beb3-200db317b834" />
+</p>
+
 
 
 # TerpLoad
