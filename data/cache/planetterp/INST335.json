@@ -1,0 +1,353 @@
+{
+  "average_gpa": 3.485053226156854,
+  "professors": [
+    "Ping Wang",
+    "Philip Piety",
+    "Aswani Valiveti",
+    "Mary Kendig",
+    "Taverekere Srikantaiah",
+    "Susannah Paletz",
+    "Susan Winter",
+    "Ge Gao",
+    "Chad Doran",
+    "Laria Rogers",
+    "Laria Rogers",
+    "Philip Piety",
+    "Galina Madjaroff",
+    "Katy Lawley",
+    "Laria Rogers",
+    "Susannah Paletz",
+    "Galina Madjaroff",
+    "Galina Reitz",
+    "Kibbi Henderson",
+    "Phillip Thompkins",
+    "P Kshetry",
+    "TJ Rainsford",
+    "Alla Levin",
+    "Susannah Paletz",
+    "Tatyana Yevgrafova",
+    "Galina Reitz",
+    "Francesca Polito",
+    "Kibbi Henderson",
+    "Srikanth Parvathala",
+    "Susannah Paletz",
+    "Tatyana Yevgrafova",
+    "Francesca Polito",
+    "Susannah Paletz",
+    "Tatyana Yevgrafova",
+    "Francesca Polito",
+    "Galina Reitz",
+    "Srikanth Parvathala",
+    "Susannah Paletz",
+    "Tatyana Yevgrafova",
+    "Francesca Polito",
+    "Susannah Paletz",
+    "Tatyana Yevgrafova"
+  ],
+  "reviews": [
+    {
+      "professor": "Ping Wang",
+      "course": "INST335",
+      "review": "The class is very boring and he does grade attendance so you have to show up. There is also group presentations throughout the semester about every other week. His quizzes are also very difficult. He quizzes on a large amount of topics but the questions are very specific. However I wouldn't say the class is difficult as long as you put in the effort. ",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2017-12-30T00:42:40Z"
+    },
+    {
+      "professor": "Mary Kendig",
+      "course": "INST335",
+      "review": "Great Professor, helps you out a lot and isn't strict with attendance as long as you inform her before class. 2 exams and a few mini projects but definitely reccomend.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2018-12-04T17:01:02Z"
+    },
+    {
+      "professor": "Philip Piety",
+      "course": "INST335",
+      "review": "Tries way too hard to be relatable and isn't a interesting lecturer. Still calls on students like a middle school teacher. ",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2018-12-17T20:03:43Z"
+    },
+    {
+      "professor": "Philip Piety",
+      "course": "INST335",
+      "review": "Really arrogant guy",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2019-02-12T17:14:40Z"
+    },
+    {
+      "professor": "Philip Piety",
+      "course": "INST335",
+      "review": "https://old.reddit.com/r/UMD/comments/apmmeg/professor_reported_all_of_bad_reviews_on/\r\n\r\nHe got all his negative reviews removed from ratemyprofessor",
+      "rating": 1,
+      "expected_grade": "C",
+      "created": "2019-02-14T19:17:53Z"
+    },
+    {
+      "professor": "Philip Piety",
+      "course": "INST335",
+      "review": "Piety is without a doubt, one of the worst professors I have ever had at UMD. Piety refuses to acknowledge when he makes a mistake and won't listen to anyone who may be even insinuating that he may have done some wrong (even if it's something as small as asking clarification about a rubric). He refused to respond to any of my emails with my concerns about a grade on an assignment under the excuse of \"only the group project leader can email me\" and then ignored my project leader when she attempted to contact him.\r\n\r\nHe even refused to accept doctors notes from students who had diseases such as the hand foot and mouth disease. He gave people with valid doctors notes 0s and acted defiant when confronted about how this is completely in violation of university policy.\r\n\r\nRecently, I found out that professors can report and have negative reviews about themselves deleted from RateMyProfessor. I submit a negative review about him back in December, which was approved and posted to his page. His page used to have several negative reviews, and I learned recently (through a UMD subreddit post) that they were all deleted.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2019-02-19T02:00:46Z"
+    },
+    {
+      "professor": "Philip Piety",
+      "course": "INST335",
+      "review": "https://old.reddit.com/r/UMD/comments/apmmeg/professor_reported_all_of_bad_reviews_on/\r\n\r\nI got an A- in his class, but only because God was on my side. He's a horrible professor + deleted all of his bad reviews on ratemyprofessor. I made the post on reddit exposing him, dm if you want more information about him + his class. ",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2019-02-20T23:49:16Z"
+    },
+    {
+      "professor": "Susannah Paletz",
+      "course": "INST335",
+      "review": "Super sweet. Interested in what she is teaching. Helpful and accommodating. Overall, very nice professor! ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2020-03-30T17:25:37Z"
+    },
+    {
+      "professor": "Philip Piety",
+      "course": "INST335",
+      "review": "Most arrogant professor I've run into that can't provide well thought out rubrics for projects",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2020-05-01T20:10:25Z"
+    },
+    {
+      "professor": "Laria Rogers",
+      "course": "INST335",
+      "review": "Overall, she's a solid professor. She opted to not have any exams, only open-note (and easy) quizzes throughout the semester. If you actually put effort into the assignments, you'll get a good grade. ",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2021-05-23T11:51:13Z"
+    },
+    {
+      "professor": "Susannah Paletz",
+      "course": "INST335",
+      "review": "This class is pretty easy-- lecture quizzes can be done without really watching the lectures as they're open note/slide/text etc. The prof and TAs are nice as well. The group project isn't bad either, but god help you if your groupmates are bad or don't understand the project (this was the case for me). Overall the class is pretty chill and I'd recommend it and Dr. Paletz.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2021-12-16T19:16:15Z"
+    },
+    {
+      "professor": "Philip Piety",
+      "course": "INST335",
+      "review": "This class is a complete joke. Worst teacher I\u2019ve experienced in UMD. INST335 is already a bullshit course\u2026but with Piety it\u2019s intolerable bullshit. Everything about his class is unprofessional and his lack of awareness in how ineffective his lectures and assignments are is unreal. At least 35% of the lecture is pointless babble and his assignments are easy, but extremely mind numbing. I can appreciate a bullshit course knowing I\u2019m getting credit and an A for it, but I can\u2019t appreciate a course that\u2019s unbearably miserable to follow in its useless gander knowing I\u2019m paying for this. There\u2019s weeks where we do this \u201cteamwork simulation\u201d which winds down to a barely functioning multiplayer game in which you play a game of checkers. He assigns groupwork on a thursday and expects it done on a sunday despite knowing students rely on weekends to do their part time jobs. This class prepares you for nothing and his merit as a communicative instructor is the worst as he never communicates things properly when it comes to instructions, and when you try to clarify, he gives you an attitude. His grading scale and assignments aren\u2019t even insurable to secure a good grade, even if you tried. I\u2019ve gotten A\u2019s in much harder INST classes, and i\u2019m appalled that i\u2019ve gotten an A- in this course knowing it\u2019s a joke.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2021-12-27T02:39:48Z"
+    },
+    {
+      "professor": "Philip Piety",
+      "course": "INST335",
+      "review": "By far the worst experience I have had in a class during my time at UMD. I originally registered for his specific section, despite the negative reviews, because it was the only available online section of the course. During the summer, Piety requested for it to be in person. I was pretty upset about this but there was nothing I could do. At the beginning of the semester, he opened up a Zoom room where students who were sick could still be in class without having to come in person. Piety asked how many of us came to campus just for his class, a pretty high number of us raised our hands. This was strike one.\r\n\r\nPiety's lectures were absolutely boring. You could tell that he attempted to be interesting and \"fun\" in the delivery of his lectures, but the content was terrible. On top of that, the first 15 minutes of EVERY SINGLE CLASS was him complaining about how students were \"abusing\" the Zoom classroom and how those on Zoom did not want to participate. He never tried to understand peoples' situations.\r\n\r\nThe majority of my poor experience with Piety was in how he resolved conflicts. There were times during the class where I did not receive points I should have. Logically, I would email him on ELMS to ask why I did not receive those points. He would respond as if he was hurt that I noticed his mistake, and would often times not even speak to me about the point over email. He would always say \"meet with me during office hours.\" Why should I have to meet with you to speak about it when I have screenshot proof of the work being completed and turned in on time?\r\n\r\nOn top of that, his deadlines for group work was ridiculous. He would often assign group assignments where you had to meet and record your Zoom meeting and would expect them to be due in the next 3 days. This is not enough time for students to organize to meet. His class is not the only one we are taking.\r\n\r\nOh yeah, he also had his negative reviews removed a couple years ago and actually addressed it in our class saying that he didn't understand why he had them and that, essentially, they were made up/not applicable.\r\n\r\nOverall, Piety is not organized, arrogant, unreliable, and just a bad professor. If you can manage to stay away from his section, do so. If not, be prepared to have to fight with him about grades and deadlines until the last day of classes.",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2022-01-04T16:51:27Z"
+    },
+    {
+      "professor": "Susannah Paletz",
+      "course": "INST335",
+      "review": "Pros: Easy A, low commitment, decent lecture videos.\r\n\r\nCons: Class has a group project that could be completed in a week but is drawn out for the entire semester, class overlaps heavily with other INST courses, a lot of busy work, lecture vids are split up into separate elms links, which gets really annoying.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2022-01-13T19:07:59Z"
+    },
+    {
+      "professor": "Laria Rogers",
+      "course": "INST335",
+      "review": "A very easy, but tedious course. She doesn't help make the course any more interesting, but grades pretty harshly. Also pray you get good group members for this class because most of your grade depends on the group research paper. ",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-07-28T19:39:53Z"
+    },
+    {
+      "professor": "Katy Lawley",
+      "course": "INST335",
+      "review": "She's a nice professor and the course is... what it is. But it's her first time teaching this course and the class seems very misdirected. Course pages don't get published until the lecture starts and she realizes we can't access the slides or information. I would recommend taking this course with someone more experienced in teaching it for a smoother experience.",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2022-10-06T16:36:15.080834Z"
+    },
+    {
+      "professor": "Katy Lawley",
+      "course": "INST335",
+      "review": "This class is legit useless, and Dr. Lawley is super unorganized. We find out about new assignments at the last minute.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2022-10-13T20:12:25.184443Z"
+    },
+    {
+      "professor": "Laria Rogers",
+      "course": "INST335",
+      "review": "She's ok, it's an easy course but she contributes very little as a professor. She's a harsh grader and isn't accommodating but you'll never be overwhelmed from the class itself.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2022-12-07T00:25:20.667278Z"
+    },
+    {
+      "professor": "Katy Lawley",
+      "course": "INST335",
+      "review": "I am being more lenient in my review because she was told she was teaching the course 2 days before classes started, hence the disorganization within the course for the entire semester. However, Dr. Lawley is very understanding and self-aware that the course was not taught very well, leading her to be more lenient in grading this semester. Her office hours really helped me understand a group project, was able to help me brainstorm ideas and allowed me to actually be successful during the project. I would say if you would want to take it with her, take it since I think it'll be better for future semesters.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2022-12-16T18:20:02.132831Z"
+    },
+    {
+      "professor": "Laria Rogers",
+      "course": "INST335",
+      "review": "Harsh grader and doesn\u2019t really add much to the assignment. Her TA\u2019s aren\u2019t very helpful either.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2022-12-25T19:23:34.847241Z"
+    },
+    {
+      "professor": "Katy Lawley",
+      "course": "INST335",
+      "review": "Very unorganized and pointless course. Dr. Lawley was very unprepared throughout the semester.",
+      "rating": 2,
+      "expected_grade": "A+",
+      "created": "2022-12-25T22:44:08.506119Z"
+    },
+    {
+      "professor": "Susannah Paletz",
+      "course": "INST335",
+      "review": "Professor Paletz was a very nice person with great lectures that prepare you for the world. This class consist of Exams, weekly quizzes and in person discussions, and a group project but overall the class was very simple and straightforward.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-11T20:00:48.227455Z"
+    },
+    {
+      "professor": "P Kshetry",
+      "course": "INST335",
+      "review": "For a class about management, this class was poorly organized and the TAs were incompetent",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2023-12-05T00:35:47.244556Z"
+    },
+    {
+      "professor": "Galina Madjaroff",
+      "course": "INST335",
+      "review": "The professor dropped a case study assignment and it caught everyone off guard. A lot of students weren't sure about their answers and professor didn't offer any explanation of what was correct. Also, the semester long group project had vague and repetitive instructions throughout the assignments. Lecture and content was easy but instructions for some assignments were just too vague.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2023-12-09T04:58:58.951611Z"
+    },
+    {
+      "professor": "TJ Rainsford",
+      "course": "INST335",
+      "review": "I had TJ for INST 335 and thought he was pretty good. Lectures were optional as a lot of people stopped showing up for a lot of them but he would occasionally assign in-person class work that counted as extra-credit for people who were there. There was not a lot of assigned work in this class, so it's important to do good on the few papers that he assigns and the final group project. There are also two exams that are given right before midterms and finals but they are in the format of answer in a paragraph and no multiple choice, it's also take-home exams.",
+      "rating": 4,
+      "expected_grade": "A+",
+      "created": "2024-01-25T02:03:35.842444Z"
+    },
+    {
+      "professor": "Alla Levin",
+      "course": "INST335",
+      "review": "I like the class so far. Recommend this professor. Need some work to do, but it is easy and interesting",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-03-12T11:41:07.824916Z"
+    },
+    {
+      "professor": "Alla Levin",
+      "course": "INST335",
+      "review": "Overall, I found Dr. Alla Levin to be a great professor with a deep knowledge of the subject matter. Her lectures were always engaging and thought-provoking, and they encouraged me to think critically and participate in class discussions.\r\nDr. Levin was very approachable and always expressed her willingness to help students outside of class. She was always available for office hours and responded promptly to emails, providing valuable feedback on assignments and exams.\r\nAdditionally, I was impressed by the professor's commitment to creating a positive and inclusive learning environment. She was respectful of diverse viewpoints and made an effort to ensure that all students felt heard and valued in the classroom.\r\nI highly recommend Dr. Alla Levin to future students.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-04-25T11:39:57.524777Z"
+    },
+    {
+      "professor": "Dave Levin",
+      "course": "INST335",
+      "review": "Dr. Levin is a great professor; and very dedicated to her students. She is very knowledgeable in her field and committed to her students' success. Her lectures were not only informative but also engaging, and directly connected with real-world situations. Each class session felt like fun, and I always was looking forward to attending her lectures.\r\nProfessor Levin is always accessible after lectures, she not only teaches but mentors students and she is eager to provide support every step of the way. I am grateful for the opportunity to learn from her and cannot recommend her courses highly enough. If you have the chance to study under Professor Levin's guidance, grab it\u2014you will not be disappointed.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2024-06-11T14:25:16.564629Z"
+    },
+    {
+      "professor": "Alla Levin",
+      "course": "INST335",
+      "review": "Professor Levin teaches very well; what I mean is that you will learn well, not only work for the grade. The class is easy to get an A in, and you will learn more from her than any other professor. Her work is meant to test your knowledge in her class, not how much you can study and cram everything in your head to memorize for a supposedly large test. If you have the privilege of taking her, consider yourself honored.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-09-12T23:16:17.274888Z"
+    },
+    {
+      "professor": "Francesca Polito",
+      "course": "INST335",
+      "review": "Professor is so nice. Assignments are very minimal and the discussion sessions are flexible for your group. On top of it, lecture is only once a week. There are also no exams. Mainly just discussion boards and the occasional assignment. After the first week, it is really easy to grasp the process of class. Definitely the easiest INST335 section offered.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-04-23T13:52:28.601679Z"
+    },
+    {
+      "professor": "Francesca Polito",
+      "course": "INST335",
+      "review": "Very kind and knowledgeable professor. This is a great class if you're interested in learning more about yourself, workplace behavior, and project management. We meet weekly on Zoom and usually do a simple breakout room activity. Each week, there\u2019s one assignment to complete (either solo or a discussion board), and group discussions are optional depending on how your team decides to conduct their workshops. Every week, one person from your group leads a \"workshop\" on a workplace skill, and the rest reflect on it in a journal entry. It\u2019s a very easy, informative class. I would highly recommend this professor!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-05-01T16:55:38.888981Z"
+    },
+    {
+      "professor": "Leanna Seck",
+      "course": "INST335",
+      "review": "She was such a sweet TA and one of the only ones that always responds to emails quickly. She taught the discussion sections thoroughly and was a great resource for my team and I. Some of the grading for this class was confusing, but she always gave a chance to get the highest grade possible. Highly recommend taking her section",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-07-14T14:54:37.706367Z"
+    },
+    {
+      "professor": "Tatyana Yevgrafova",
+      "course": "INST335",
+      "review": "To make this short:\r\n\r\nVery easy class. Shes very nice, and while the content might be boring as the teaching style was just her reading off of power points for 15 weeks which probably make you tune out by week 5, it also serves as a class to get additional work done in other subjects (Spring 2025).\r\n\r\nMake sure you get good group members for the group projects. I feel like this class really depends on if you have solid workers in your group or not. If you're a workaholic and you can carry people that's also fine as well, but its nice to have.\r\n\r\nIt's very easy to pass, but its also very easy to troll this class. Again, just have solid group members, do your assignments, and you should be fine.",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2025-07-19T14:55:33.776977Z"
+    },
+    {
+      "professor": "Leanna Seck",
+      "course": "INST335",
+      "review": "Responds fast to emails and was accommodating to my requests when I dealt with personal issues",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2025-09-03T15:12:49.460629Z"
+    },
+    {
+      "professor": "Susannah Paletz",
+      "course": "INST335",
+      "review": "Genuinely interesting class, easy assignments, easy exams, knowledgeable professor. no complaints. take her.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-11T17:48:24.824806Z"
+    },
+    {
+      "professor": "Susannah Paletz",
+      "course": "INST335",
+      "review": "Professor Paletz is a fantastic professor! She presents a fair course that is hybrid. There is a moderate amount of work with flexible due dates. Communication is very accessible, and I have found the work to be very manageable and actually taught me stuff! The Group Project is very manageable, especially if you have a good group, and the quizzes are very manageable, and you have a lot of flexibility with their due dates. She is also always willing to talk and discuss! Especially your position in the class!\r\n\r\nIf you put in the work, you will definitely get a good grade!\r\n\r\nI would highly suggest this professor! Out of all of the InfoScy classes I have taken, she is certainly the best and most reliable! She is also VERY relatable!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-18T18:02:12.337046Z"
+    },
+    {
+      "professor": "Leanna Seck",
+      "course": "INST335",
+      "review": "335 is an easy class there's a lot of tedious work but you'll get a good grade if you just complete the work. The ta's respond fast",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-19T02:00:33.485133Z"
+    }
+  ],
+  "department": "INST",
+  "course_number": "335",
+  "name": "INST335",
+  "title": "Organizations, Management and Teamwork",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> 1 course with a minimum grade of C- from (INST201, INST301); and minimum grade of C- in PSYC100.\n<b>Restriction:</b> Must be in Information Science program.\nExamines principles, methods and types of leadership with an emphasis on goal setting, motivation, problem solving, and conflict resolution. Examines principles of developing teams and managing team projects through planning and execution, including estimating costs, managing risks, scheduling, staff and resource allocation, communication, tracking, and control. Trains students to recognize and capitalize on opportunities to use information to increase efficiency, improve performance, and support innovation within teams and organizations. Focuses on strategic use of emerging technologies and new information resources to execute information-enabled change.",
+  "is_recent": true,
+  "geneds": null
+}

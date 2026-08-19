@@ -2966,6 +2966,22 @@
       "rating": 1,
       "expected_grade": "",
       "created": "2026-02-16T16:07:44.996554Z"
+    },
+    {
+      "professor": "Ting Jiang",
+      "course": "CMSC351",
+      "review": "Her CMSC351 seems fair in terms of content and grading. Her lectures could improve but I think algorithms is pretty hard to teach. She seems to be better with 1-1 student interactions. Overall, I would recommend taking her as a professor because she is a very nice and helpful person, and her exams are probably easier than Justin's",
+      "rating": 3,
+      "expected_grade": "",
+      "created": "2026-03-26T20:14:51.886366Z"
+    },
+    {
+      "professor": "Ting Jiang",
+      "course": "CMSC351",
+      "review": "Maybe it was because she was co-teaching with Justin, but this class was a breeze. I thought her handwriting and accent were perfectly understandable, so I'm not sure what the other reviews are talking about. If you attend lectures she walks through examples on paper which is super helpful for understanding how the algorithms work. The homework is challenging but not too difficult and a good review for the exams. \r\nPlus, she's funny as hell when she's calling your mistakes a skill issue lmao",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2026-04-01T03:36:44.219069Z"
     }
   ],
   "department": "CMSC",

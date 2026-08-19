@@ -1,0 +1,54 @@
+{
+  "average_gpa": 3.1999999999999997,
+  "professors": [
+    "Daniel Stein",
+    "Cordelia Weiss",
+    "Daniel Stein",
+    "Cordelia Weiss",
+    "Daniel Stein",
+    "Cordelia Weiss",
+    "Cordelia Weiss"
+  ],
+  "reviews": [
+    {
+      "professor": "Cordelia Weiss",
+      "course": "BSCI213",
+      "review": "Wow, just wow. One of the best professors I have had at UMD. She really inspired a new passion for me and did a wonderful job connecting history to microbes. Would 10000% recommend this class.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-07-20T22:33:00.734943Z"
+    },
+    {
+      "professor": "Daniel Stein",
+      "course": "BSCI213",
+      "review": "If you just want a class to fill your gen ed credit, I would say this class is a decent choice. I am NOT a science major, have no interest in this subject, and just took this class to fill my \u201cbig question\u201d credit (so please keep that in mind while reading my review). I genuinely do not understand/have tried to understand anything we have learned in class but all the tests are online, open notes and open internet, and can take wherever you want (not required to be in the classroom). Still, I would not even say it\u2019s an easy A+ given that the time given for the test is not enough for what you would need. The TA sessions are really annoying and just seem very random. The class is pretty disorganized. I would not take this class if you are really trying to get something out of your big question credit. I usually just did work for other things while I was in this class. Except, you do have to come to lectures and pay a little attention because he uses a format where you have to answer questions during lectures that are graded. Doctor Stein, though, is a good professor and is very passionate about what he teaches. I think he does understand though that a lot of people are just taking this class to fill a gen ed credit. Although, he does not respond to emails so that is something to be aware of. This is not a class that I would put myself through again but I wouldn\u2019t say it\u2019s the worst gen ed to take for an easy good grade.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2025-12-09T15:09:20.107991Z"
+    },
+    {
+      "professor": "Cordelia Weiss",
+      "course": "BSCI213",
+      "review": "Genuinely one of, if not the best professors I have had at UMD. She is a passionate teacher who connects her experience, course material, and real world examples together in a way that no other teacher does. Her work load was very manageable, with about 1 assignment a week and mandatory attendance at lecture (you won't want to miss them they are very fun). Her exams were incredibly fair and there were plenty of opportunities for extra credit. 100% recommend.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-12T19:24:29.370316Z"
+    },
+    {
+      "professor": "Daniel Stein",
+      "course": "BSCI213",
+      "review": "He's nice and class is okay but your grade just heavily depends on participation/attendance and exams. Discussions were okay, luckily our TA was super sweet and taught well. The one thing is he never responded to my emails like at all and it was frustrating because any time I tried to ask him something after class he'd just say email me :/ Overall it was an interesting class and theres no harm in taking it. I could've gotten a A I just missed a lot of class.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2026-01-11T02:37:40.174025Z"
+    }
+  ],
+  "department": "BSCI",
+  "course_number": "213",
+  "name": "BSCI213",
+  "title": "The Public Microbe",
+  "credits": 3,
+  "description": "Covers basic concepts in microbiology as they relate to human-microbe interactions by surveying the diversity of microbial life, the role our resident microbiota play in human health, modes of disease tracking, and prophylactic and therapeutic measures designed to control the spread of infectious disease.",
+  "is_recent": true,
+  "geneds": null
+}

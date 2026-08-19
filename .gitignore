@@ -3,4 +3,3 @@ __pycache__/
 *.pyc
 results/distilbert_training*.log
 results/distilbert_training.pid
-data/cache/course_profiles_distilbert.json

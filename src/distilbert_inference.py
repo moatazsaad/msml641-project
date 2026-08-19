@@ -9,7 +9,8 @@ from transformers import AutoModelForSequenceClassification, AutoTokenizer
 from workload_labels import get_workload_labels
 
 
-DEFAULT_MODEL_DIR = Path("results/distilbert_model")
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+DEFAULT_MODEL_DIR = PROJECT_ROOT / "results" / "distilbert_model"
 
 
 class SavedModelUnavailableError(RuntimeError):
@@ -28,6 +29,19 @@ class DistilBertWorkloadModel:
                 "the application never retrains during inference."
             )
 
+        weights_path = self.model_dir / "model.safetensors"
+        if not weights_path.exists():
+            raise SavedModelUnavailableError(
+                f"Saved DistilBERT weights not found at {weights_path}."
+            )
+        with weights_path.open("rb") as file:
+            prefix = file.read(128)
+        if prefix.startswith(b"version https://git-lfs.github.com/spec/v1"):
+            raise SavedModelUnavailableError(
+                "model.safetensors is a Git LFS pointer, not the trained model. "
+                "Install Git LFS and pull the artifact before starting the app."
+            )
+
         self.labels = get_workload_labels()
         thresholds_path = self.model_dir / "thresholds.joblib"
         if not thresholds_path.exists():
@@ -37,7 +51,13 @@ class DistilBertWorkloadModel:
         self.thresholds = joblib.load(thresholds_path)
         self.batch_size = batch_size
         self.max_length = max_length
-        self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        if torch.cuda.is_available():
+            self.device = torch.device("cuda")
+        elif torch.backends.mps.is_available():
+            self.device = torch.device("mps")
+        else:
+            self.device = torch.device("cpu")
+            
         self.tokenizer = AutoTokenizer.from_pretrained(self.model_dir)
         self.model = AutoModelForSequenceClassification.from_pretrained(
             self.model_dir

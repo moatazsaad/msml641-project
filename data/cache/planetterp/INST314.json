@@ -1,0 +1,675 @@
+{
+  "average_gpa": 3.082657941102441,
+  "professors": [
+    "Yla Tausczik",
+    "Susan Winter",
+    "Brian Butler",
+    "Joo Choi",
+    "Brian Kim",
+    "Shawn Janzen",
+    "Aditya Ravindra Bhat",
+    "Hernisa Kacorri",
+    "Melissa Lizmi",
+    "Abdirisak Mohamed",
+    "Adrianne Bradford",
+    "Mark Frame",
+    "Lori Perine",
+    "Byeol Kim",
+    "Babak Fotouhi",
+    "Eric Newburger",
+    "Christopher Dempwolf",
+    "Naghmeh Momeni",
+    "Lori Perine",
+    "Babak Fotouhi",
+    "Babak Fotouhi",
+    "Eric Newburger",
+    "Mark Frame",
+    "Matthew Patrick",
+    "Samantha Kemper",
+    "Matthew Patrick",
+    "Babak Fotouhi",
+    "Hernisa Kacorri",
+    "Matthew Patrick",
+    "Parisa Meisami",
+    "Samantha Kemper",
+    "Scott Jackson",
+    "Christopher Antoun",
+    "Samantha Kemper",
+    "Faisal Quader",
+    "Samantha Kemper",
+    "Christopher Antoun",
+    "Samantha Kemper",
+    "Matthew Patrick",
+    "Scott Jackson",
+    "Faisal Quader",
+    "Samantha Kemper",
+    "Sarah Lee",
+    "Sarah Lee"
+  ],
+  "reviews": [
+    {
+      "professor": "Yla Tausczik",
+      "course": "INST314",
+      "review": "Great professor. More than willing to help students in need. Highly recommend ",
+      "rating": 5,
+      "expected_grade": "B",
+      "created": "2018-06-03T15:09:00Z"
+    },
+    {
+      "professor": "Shawn Janzen",
+      "course": "INST314",
+      "review": "Best goddamn professor at UMD. Want to actually learn? Choose him! He's VERY competent about statistics and will answer your questions you have. Always available during office hours and on the discussions page on ELMS. \r\n\r\nAmazing lectures! Also offers 10.5% of EC through various different assignments and what not. He also posts everything on ELMS. ",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2018-12-22T17:53:52Z"
+    },
+    {
+      "professor": "Shawn Janzen",
+      "course": "INST314",
+      "review": "Very good professor, if you want to learn you should definitely take him. Professor Janzen is very knowledgeable, competent, and easy to approach after class or during office hours. He offered us 5% extra credit that was reasonable to obtain and the workload is fair for the class.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2019-05-22T05:55:53Z"
+    },
+    {
+      "professor": "Eric Newburger",
+      "course": "INST314",
+      "review": "Should be more clear, but really cares about the students and making sure they learn",
+      "rating": 4,
+      "expected_grade": "",
+      "created": "2020-11-21T22:24:24Z"
+    },
+    {
+      "professor": "Aditya Ravindra Bhat",
+      "course": "INST314",
+      "review": "Excellent instructor. During the online UMD sessions, he gave interesting and yet challenging projects. Some were a bit more difficult than others, but he helps so much during office hours! PLEASE attend his office hours! He wants to help and is great at doing so! He knows his concepts in R very well and can help you understand various concepts or problems that you may be stuck on. As someone who originally sucked major butt in R, his class was able to help me understand various functions and how the language is interpreted and it resulted in me getting an A+ for this fall semester. Highly recommend!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2020-12-30T23:58:33Z"
+    },
+    {
+      "professor": "Aditya Ravindra Bhat",
+      "course": "INST314",
+      "review": "Highly recommend this professor because he cares for his students and tries to ask what could be improved in order to help students out. PowerPoints are super helpful and attending his office hours are even more helpful to passing this class!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2021-03-23T14:31:04Z"
+    },
+    {
+      "professor": "Lori Perine",
+      "course": "INST314",
+      "review": "Loads and loads work. INST314 with her should be 4 credits. The class itself should focus on the higher-level statistics and there should be an R lab. She expects you to do work each day for the class. She needs to scale work down and focus on making sure the activities are interactive rather than lecture-based. Teaches the class all about R but then quizzes/exams on Stats. So jumbled",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2021-04-04T22:51:27Z"
+    },
+    {
+      "professor": "Lori Perine",
+      "course": "INST314",
+      "review": "Too much workload for the amount of credits this class gives. Extremely rude on the first day of class because people were being a bit quiet. The wording for some of her stuff is confusing and grades extremely rough.",
+      "rating": 1,
+      "expected_grade": "C+",
+      "created": "2021-04-05T21:12:13Z"
+    },
+    {
+      "professor": "Lori Perine",
+      "course": "INST314",
+      "review": "Makes simple concepts WAY too hard. She doesn't care about students and makes online tests insanely hard for no reason. If you have any other option DO NOT TAKE HER CLASS",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2021-04-15T20:04:47Z"
+    },
+    {
+      "professor": "Lori Perine",
+      "course": "INST314",
+      "review": "The class started out with a lot of lectures and assignments which was hard to keep up with since it was posted 1 day before the discussion. After spring break, the workload stopped for 3 weeks. The organization of the class is weird since it is a review AP Stats/ Stat 100 with R coding. I didn't learn as much about R as I did SQL in INST327, or Python in INST326. The online environment was hostile and she takes complaints personally.  Overall, it was unorganized and I would take a different professor if I could retake this class. ",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2021-04-23T17:15:59Z"
+    },
+    {
+      "professor": "Lori Perine",
+      "course": "INST314",
+      "review": "Do you want to hate your life? Then take this professor; She is an absolute nightmare to interact with, and berated students \"infront\" of the whole class for asking simple questions. She CONSISTENTLY posted lecture material super late into the week that we were supposed to be learning it (I.E. Wed/Thurs), and often times grouped together several hours of videos and expected us to watch it within an unreasonable amount of time. The quizzes were reflective of material we learned, but the tests seemed to be much more complex than needed--And she doesn't curve, even when the class averages were around ~60-68% each test. She uses honorlock for the quizzes and tests, but openly says we're allowed to Google anything we want. Do NOT take her. ",
+      "rating": 1,
+      "expected_grade": "B-",
+      "created": "2021-05-23T12:11:04Z"
+    },
+    {
+      "professor": "Lori Perine",
+      "course": "INST314",
+      "review": "The class was full of lectures on basic stat concepts and how to use R. There aren't many workloads. My main problem with her teaching is that she made each concept way too hard to understand; plus, she's monotoned voice made it extra hard to watch her lectures. I had to rewatch some of her lectures to understand simple concepts. I basically had a better understanding of different concepts by watching YouTube videos. Her quizzes were alright; however, her tests were very difficult. However, she did provide a lot of extra credit opportunities. ",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2021-07-06T19:30:58Z"
+    },
+    {
+      "professor": "Mark Frame",
+      "course": "INST314",
+      "review": "A fantastic professor. Not necessarily because he teaches the course really well, but because of how chill he is. He is super lenient -- doesn't take away many points and sometimes even gives back points for the labs and quizzes. I think this was his first semester teaching INST314 and it was in the summer, so he may change in the future, but as of now I highly recommend him.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2021-07-09T00:44:47Z"
+    },
+    {
+      "professor": "Abdirisak Mohamed",
+      "course": "INST314",
+      "review": "I would definitely never take this again. This professor barely communicated with his students, only had a few harshly graded homeworks and projects, and rarely responded to student requests. This professor copy and pasted instructional videos from another professor, thus none of the projects and homeworks entirely lined up with the videos. Moreover, the instructions on these various homeworks and projects were vague and often times written poorly. It seems as though this professor did not even watch the videos of the other professor that he posted, thus making all of the students suffer. r u n\r\n",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2021-12-20T02:45:21Z"
+    },
+    {
+      "professor": "Eric Newburger",
+      "course": "INST314",
+      "review": "Very nice, and passionate professor. Gives plenty of opportunities for students to re-do assignments and do extra credit. Lectures can sometimes get boring but try his hardest to make them informative. He doesn't really teach too much R, so you will have to self-learn that which isn't that hard to do. Sometimes the assignments are not very clear, but the professor is responsive to questions via email/office hours and the generic statistical testings can be easily found on youtube.",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2022-01-02T05:25:00Z"
+    },
+    {
+      "professor": "Eric Newburger",
+      "course": "INST314",
+      "review": "Professor Eric is a Very passionate professor during lectures and office hours, who is constantly patient and assisting students. Please feel free to contact him if you encounter any questions about the assignment or other in-class activities. Additionally, he will post the necessary code for R in the PPT in facilitating students to complete their homework and project. ",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-02-28T14:36:55Z"
+    },
+    {
+      "professor": "Hernisa Kacorri",
+      "course": "INST314",
+      "review": "Lovely professor. She teaches very well, exams are reasonable with a few easy \"gift\" questions thrown in. She also is giving a 9.4% extra credit assignment this semester which is absolutely crazy for extra credit. The group project is not hard IF you choose a topic where you don't rely on surveys or observing people. Ask for help when you need it, Dr. Kacorri and the TAs are very helpful.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2022-05-08T19:13:34Z"
+    },
+    {
+      "professor": "Babak Fotouhi",
+      "course": "INST314",
+      "review": "Babak\u2019s lectures are very basic. The guy is brilliant though. Some of the concepts he taught were in some of my interview questions. He has great potential to be an amazing lecturer. He\u2019s certainly one of the smartest professors I\u2019ve had. The TA had pretty bad grammar so at times I\u2019d get questions wrong simply because they made no sense.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2022-06-10T18:25:23Z"
+    },
+    {
+      "professor": "Eric Newburger",
+      "course": "INST314",
+      "review": "Newburger is very energetic and seems to be genuinely interested in the content he teaches but expects you to basically know what hes talking about before you walk in the door. Hes one of those no electronics in class professors but then teaches code on the board. Assignments, labs, and lectures are not thought out, often have errors in them. He has to allow a redo on midterms due to the class average being too low.  Organizationally class is awful, TA's are of little help as well and grading is slow.  Be prepared to do a lot of googling r code,",
+      "rating": 1,
+      "expected_grade": "B+",
+      "created": "2022-11-07T16:33:37.784740Z"
+    },
+    {
+      "professor": "Eric Newburger",
+      "course": "INST314",
+      "review": "The worst exams you will ever take. Good luck",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2022-11-15T22:28:07.911287Z"
+    },
+    {
+      "professor": "Eric Newburger",
+      "course": "INST314",
+      "review": "He is passionate about the subject however his organization for this course is poor. His instructions on exams and the final project are confusing and unclear. Overall I would suggest avoiding the headache of having him as a professor in this class.",
+      "rating": 2,
+      "expected_grade": "C",
+      "created": "2022-12-05T19:01:58.022711Z"
+    },
+    {
+      "professor": "Babak Fotouhi",
+      "course": "INST314",
+      "review": "Supposedly this is one of the more challenging courses for Info Sci, but take my word and take it online with this Professor. He may be a little hard to understand sometimes on recorded lecturers but offers lots of extra credit and has been responsive to student feedback when instructions/lectures were unclear by extending deadlines or providing in depth tutorials for R studios. I\u2019m expecting over a 100%.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2022-12-07T04:47:05.130891Z"
+    },
+    {
+      "professor": "Matthew Patrick",
+      "course": "INST314",
+      "review": "Mainly gave lab based assignments until the midterm which was lecture heavy. Lecture slides lacked context and explanation.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2022-12-25T19:19:16.369631Z"
+    },
+    {
+      "professor": "Mark Frame",
+      "course": "INST314",
+      "review": "Good person, but easily one of the worst professors I've had at UMD. This class was crazy difficult and I had to put in hours of work a day at times.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2023-02-22T02:00:00.257008Z"
+    },
+    {
+      "professor": "Matthew Patrick",
+      "course": "INST314",
+      "review": "he gave us example code for each lab which had the exact code we needed for the labs. so it was really easy, but i learned nothing.",
+      "rating": 2,
+      "expected_grade": "A+",
+      "created": "2023-02-25T18:05:13.419621Z"
+    },
+    {
+      "professor": "Aditya Patkar",
+      "course": "INST314",
+      "review": "He was very helpful. The course is difficult for someone with no programming background as you have to work with R programming language for multiple assignments. He summarized the lectures and uploaded his notes to canvas which helped a lot. During office hours, he would break down the problems into smaller chunks and explain the coding process well. He was swift at replying to emails. Overall very helpful.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-04-04T20:32:22.949808Z"
+    },
+    {
+      "professor": "Babak Fotouhi",
+      "course": "INST314",
+      "review": "Overall this professor is ok and you are most likely gonna get an A as long as you do the work. However, he didn't begin to post any real work until weeks into the semester and then begins to dogpile them near the end. It would be better if he spread them out and kept them relevant to the week's lectures instead of having them all cumulative. Also, assignments are graded very late whereas assignments from weeks ago haven't been graded. There are no exams just R exercises, hw and quizzes \r\n\r\n(This semester was online and async and discussion was optional so it might be different in person)",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2023-04-26T16:17:02.924212Z"
+    },
+    {
+      "professor": "Hernisa Kacorri",
+      "course": "INST314",
+      "review": "Professor Kacorri was a great professor. She made sure to clarify her lectures so everyone understood the lesson. The class consist of weekly problems and data camps as the homework with a group project with different parts and three different exams. Other than that the class was pretty smooth, make sure to get into a good group and you'll be fine.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2023-05-11T20:22:15.102774Z"
+    },
+    {
+      "professor": "Matthew Patrick",
+      "course": "INST314",
+      "review": "well-organized professor and not too much work. was a perfect class for my summer",
+      "rating": 5,
+      "expected_grade": "B+",
+      "created": "2023-07-07T00:46:12.494717Z"
+    },
+    {
+      "professor": "Samantha Kemper",
+      "course": "INST314",
+      "review": "Samantha was always open to questions about the class and stayed for after hours. Course was challenging but she was always there to help. Overall great experience",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-10-21T00:39:22.177743Z"
+    },
+    {
+      "professor": "Samantha Kemper",
+      "course": "INST314",
+      "review": "Very passionate teacher and very well knowledgable about stats.  Is very understanding and very helpful with coding and the homework.  TA's were alright but I would just go straight to the professor if possible. Grades take a very long time to get put in.  Fair and honest.  Lecture was ok, pay attention tho cause the stuff she says will be helpful on hw and not always on the slides.",
+      "rating": 4,
+      "expected_grade": "B+",
+      "created": "2023-11-10T07:52:09.817137Z"
+    },
+    {
+      "professor": "Scott Jackson",
+      "course": "INST314",
+      "review": "Had 5 assignments all semester none in the last 3 months. I think he had too many classes and kinda went a wall and gave no assignments past week 6. It probably will not be like this for the next semesters but it was very easy.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2023-12-08T07:37:35.376744Z"
+    },
+    {
+      "professor": "Samantha Kemper",
+      "course": "INST314",
+      "review": "Sami is a pretty good professor. You can tell she is very passionate about the class and wants her students to succeed. She is always down to answer questions that her students have about the coursework and she used to stress that you can also just talk to her about anything if need be (it could be something personal and doesn't have to be about the class or coursework). The only reason why I didn't give a five star is because the grades for assignments took a really long time to come out. I'm not sure if she was the one grading the assignments or if it was her TA's but, sometimes the grade for an assignment would come out a whole month after it was due. Overall, she is a solid lecturer, very kind, very helpful, and wants her students to succeed. I recommend you take her for INST314.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2023-12-11T03:15:41.841951Z"
+    },
+    {
+      "professor": "Samantha Kemper",
+      "course": "INST314",
+      "review": "This class is a bit boring at times if you aren't super into statistics but Sami does everything to make this class easier for her students. For our semester she kept getting sick so she was super accommodating because of that, she made assignments easier when applicable. She cares more about students knowing when and how to use statistics rather than their ability to write code in R, so if you aren't great at writing code in R, she is the professor to take for this course because she prioritizes students demonstrating they understand stats rather than getting all the code perfectly right.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2023-12-20T18:47:15.979663Z"
+    },
+    {
+      "professor": "Samantha Kemper",
+      "course": "INST314",
+      "review": "Smantha is knowledgeable, but regardless transmitting knowledge is not a gift every teacher has. Most of her lectures were really booring and most students never attended( Am not too sure what the other reviews are saying). Regardless in her class be ready to do alot of side reading!. Also, her grading isn't harsh but she never responds to emails.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2023-12-21T02:20:45.730373Z"
+    },
+    {
+      "professor": "Samantha Kemper",
+      "course": "INST314",
+      "review": "Overall, Sami is a good professor and cares about students' success. In particular, I liked how she would provide most of the code for the hws instead of expecting students to figure it all out by themselves as most students haven't used R (the programming language) before. Sami also provides ample time during and outside class to help students with assignments. Most of the hws and midterms will involve doing data analysis with R. The reason I gave Sami 4 stars instead of 5 is that at the time of this review, not a single midterm project grade has been posted (and midterms are worth 45% percent of the total course grade!).",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2023-12-24T15:17:46.430441Z"
+    },
+    {
+      "professor": "Samantha Kemper",
+      "course": "INST314",
+      "review": "She is a very nice person and you can tell that she cares about her students with the amount of help she provides. She makes sure the learning space is comfortable for all students. The only thing is that it took FOREVER to get things graded in this class. I'm not sure if she is the one doing the grading however, it is about to be January and we still have not gotten our final grades for the course yet. Our first project has yet to be inputted into the grade book either.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2023-12-30T20:55:41.973466Z"
+    },
+    {
+      "professor": "Samantha Kemper",
+      "course": "INST314",
+      "review": "Yeah, so I will start by saying I made the mistake of choosing this professor's class. She does not grade any of the midterm project or final project for that matter so you will never know your true grade. This also affects your learning as you have no idea whether what you did in midterm projects was true or not. She still didn't grade a project that was due Oct 16 and today is Jan 3. The Semester ended long ago and the winter semester started and I still don't know my 2 midterm project grades. She released grades for the final project on Jan 1-2 but there is no explanation on why I lost points so it seems like she gave a bunch of random grades to students and called it a day.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2024-01-03T19:59:30.801504Z"
+    },
+    {
+      "professor": "Samantha Kemper",
+      "course": "INST314",
+      "review": "We didn't get our final grades back till 1 month after the semester ended. We didn't even get 2 of our midterm project grades so only the final project grade decided almost all of our class grade. The funny thing is she doesn't even tell you where you made a mistake for the final. It's like she gave some random grades because she is too lazy to grade.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2024-01-10T19:09:39.932873Z"
+    },
+    {
+      "professor": "Samantha Kemper",
+      "course": "INST314",
+      "review": "Despite various reviews, I didn't find her class enjoyable. The simplicity of terms was often overcomplicated, leading to a lack of attendance from students who found it rather boring. Be prepared for extensive side reading as understanding class concepts might be challenging. While she grades at a mediocre level, it's worth noting that email responses are rare, and final grades for the semester were released quite late and the grades for some assignments were never released.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2024-01-18T18:50:19.877891Z"
+    },
+    {
+      "professor": "Samantha Kemper",
+      "course": "INST314",
+      "review": "She's nice and understanding. But that's about the extent of the positives. Lectures weren't helpful, projects took forever and often were left ungraded for extensive periods. She's also hyper-political and expresses her political views in almost every class which is quite annoying for people who don't agree with her views. Nice lady, rough experience.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2024-02-16T20:37:47.431752Z"
+    },
+    {
+      "professor": "Samantha Kemper",
+      "course": "INST314",
+      "review": "She is nice and overall has a positive demeanor for the class. She extends deadlines when requested and will try and not stress out student. One of the biggest issues was the grading. She does not grade projects in a timely manner(march projects not graded even during finals (may)). That sucks because you do not get feedback until the course ends. Lectures are pretty boring, but they contain good information. Discussions are mandatory as she will make you sign in after class.",
+      "rating": 2,
+      "expected_grade": "A",
+      "created": "2024-05-18T18:36:09.755888Z"
+    },
+    {
+      "professor": "Samantha Kemper",
+      "course": "INST314",
+      "review": "Nice professor, but lectures are very long with not much interactive features and seems like she is just talking at you. Takes forever to grade things, and project are not graded until after the semester has ended and grades have already been due.",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2024-05-28T15:23:52.683068Z"
+    },
+    {
+      "professor": "Samantha Kemper",
+      "course": "INST314",
+      "review": "If you show up to the class, pay attention, and ask when confused you will do just fine. However this course may be the most unorganized course I\u2019ve ever taken. You never know where you stand grading takes absolutely forever, and she didn\u2019t even grade 2 of our midterm projects. Just the final project which ended up being 40% of the grade. The final was very easy tho everything was in the modules or easily searchable. She provides almost all the code for the homework just wants you to understand and interpret the results. In conclusion, class isn\u2019t very difficult but organization, lack of clear instructions and lack of grading made it a pain",
+      "rating": 1,
+      "expected_grade": "A",
+      "created": "2024-06-02T15:04:47.778292Z"
+    },
+    {
+      "professor": "Matthew Patrick",
+      "course": "INST314",
+      "review": "Very organized and nice professor. He responds to emails pretty fast and is willing to help students. The homework was straightforward and example code helps a lot. Not too much work for a summer class, definitely take 314 with him.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-11-06T03:02:42.757915Z"
+    },
+    {
+      "professor": "Samantha Kemper",
+      "course": "INST314",
+      "review": "Not really a great lecturer as other reviews mentioned. Shows little interest in making content engaging and reads off slides frequently. ELMS page is a mess and doesn't even have an Assignments page to, you know, look at what's coming and what's due soon. Everything is located within modules instead of separate pages which is inherently maddening when you're searching for a specific assignment/document. Rarely responds to emails and when she does it's often with a rude tone, however that's nothing new for professors. Discussions are pointless as they're often about you writing a discussion post and trying to make small talk, but they're forced and you are required to sign in. Unfortunate that she's the only 314 professor to choose from during some semesters. Also has an annoying laugh",
+      "rating": 2,
+      "expected_grade": "",
+      "created": "2024-11-23T22:19:31.487370Z"
+    },
+    {
+      "professor": "Samantha Kemper",
+      "course": "INST314",
+      "review": "The course itself isn't bad, and the content isn't hard to follow. What makes this course a pain every now and then is the formatting of it and the professor. She doesn't like using an assignments section on canvas because it'll lead the students away from the modules section, so I guess she feels comfortable making those types of decisions for grown adults as well as the fact that she takes so long to respond to emails. I even lost some credit on a quiz because it was hiding within the modules section and scrolled past it when reviewing all assignments.\r\n\r\nSometimes the assignment instructions are hard to follow, and the in-person discussions haven't been thought out having me question why I even made the effort to make each discussion with me sometimes leaving 45 mins early because of how quick you can get it done (a pain as a commuter).\r\n\r\nHer 2 built-in absences account for literally everything related including students skipping class which to her isn't what her absences were built for, but we all know what students use them for, it's not obvious. There are students who have genuine excuses for missing class and discussions yet those built in absences would get used up instead of excusing those students. She's stubborn about her rules and really believes in what she's doing.\r\n\r\nOn the schedule of classes website for spring 2025, there's a reason why she still has 121 seats open while Antoun has all of his sections filled WITH 22 people waitlisted for those closed sections. I don't know Antoun and what his teaching is like, but those numbers are convincing.\r\n\r\nMy condolences to anyone in the future having to take 314 in the fall, my time in this class is almost over and it FEELS DAMN GOOD TO KNOW YALL WILL SUFFER BUT I WONT ANYMORE. Seriously though, stay on top of your work, do a little extra on each assignment, if possible, because it never hurts, and most importantly, don't ever let your final grades fall in the hands of any professor, especially Kemper. With all of that, you should still get an A.",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2024-12-05T00:06:13.852816Z"
+    },
+    {
+      "professor": "Samantha Kemper",
+      "course": "INST314",
+      "review": "She is not a great professor. Coming to class is honestly pointless. The online resources are more helpful than she is. She is not very friendly and doesn't do a great job covering material. I would avoid her at all costs. TAs are also not helpful. TAs and graders give terrible feedback. Coming to discussion is also required which is annoying because the TA sits down and puts the attendance QR code on the screen while we work with classmates and have a \"discussion\".",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2024-12-05T18:44:08.553414Z"
+    },
+    {
+      "professor": "Samantha Kemper",
+      "course": "INST314",
+      "review": "Professor is really nice and sweet. However the R homeworks and projects can be a little unorganized and therefore frustrating to complete. Lecture is also pretty boring and pointless to go to. Discussion is also kind of bland and ends after like 15/20 minutes but they're required to attend.  Grading and feedback also takes forever.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2024-12-11T01:31:35.299183Z"
+    },
+    {
+      "professor": "Samantha Kemper",
+      "course": "INST314",
+      "review": "Many of these reviews do not label Professor Kemper correctly. She explains on the first day of class that \"if you come to lecture, you will do well in the class\" and this is very true. Although statistics can be boring at times, the professor does try and make the lectures interesting by incorporating jokes (albeit not funny ones) and real world examples/applications. \r\n\r\nThe actual assignments are really straight forward and if you are confused about anything, she is more than willing to help (always offering to meet in-person and even via Zoom in the evenings). For the R projects (3), as long as you go to class, they are extremely easy; she not only gives you the entire template but also answers. There was no final, no exams, and only weekly quizzes (that are extremely easy if you go to class). The \"discussions\" are so easy\u2014go to the class, write a discussion post with people around you, and then you're done (class often ended after 15 minutes). \r\n\r\nThe only knock on this professor is that she sometimes takes a while to respond to emails (but if you go up to her at the end of class or during Office Hours, the email issue is resolved) and assignments take a while to be graded.\r\n\r\nOverall, if you plan on going to class, I cannot express how easy this class can be.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-18T16:39:19.950808Z"
+    },
+    {
+      "professor": "Samantha Kemper",
+      "course": "INST314",
+      "review": "Not sure why Professor Kemper gets a lot of hate but she was overall really nice and helpful. Lectures and slides were straight forward, she gave free points for just coming to class sometimes, she went over every single homework in class and dedicated time to answering questions for each one (so if you struggled, maybe you just didn't go to class enough), she answered her emails in a timely manner, and held multiple opportunities for office hours. I will agree that the discussion sessions were kind of pointless at times (but it was easy points, so why complain?). Assignments did take long to grade but they were always graded, and most of the time you get full points as long as you do all of the necessary steps even if outputs are sightly different. TA's were unhelpful in this class and most of the time could not really help you on the homework which was frustrating but again Professor Kemper was always willing to answer any and all questions, she would even offer her office as a space to talk and eat snacks! So if you're thinking about taking this professor and are feeling doubtful, just do it! She is literally super chill, don't let people who didn't do the bare minimum scare you.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-01-17T14:27:35.374138Z"
+    },
+    {
+      "professor": "Christopher Antoun",
+      "course": "INST314",
+      "review": "don't be fooled from his reviews from rate my professor. his lectures are kinda slow so i stopped going. what i dislike is that his assignments are worth so little points. out of everything, the whole class is like 84 points. the weekly labs are worth 2 pts like ?? also his midterm and final are 15 points and we werent allowed to use a calculator. its simple but hard. the average was like a 10/15. my main thing is against his graders though (vikram and manas). they grade so harshly, so SLOWLY, and they're UNRESPONSIVE. the sem is almost over but we still need assignments graded from LAST MONTH.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2025-04-25T14:23:55.909138Z"
+    },
+    {
+      "professor": "Christopher Antoun",
+      "course": "INST314",
+      "review": "He is a nice and chill professor. If you work hard on the labs and exercises you will get a good grade in the class.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-05-05T18:11:19.244647Z"
+    },
+    {
+      "professor": "Christopher Antoun",
+      "course": "INST314",
+      "review": "Professor Antoun is honestly a nice professor. He does his best to make sure everyone is on the same page. He made sure the midterms and finals be fair for everyone. His finals weren\u2019t even bad but mostly because the past two midterms were a bit more difficult. The labs for this class are easy with some being a bit more difficult. Just go to discussions and TAs will gladly help and guide you through the labs assignments. Exercises were a bit of a headache but were not too bad. Overall, the class is not hard but also with some difficulty. I say the professor did his part. Only bad thing about him is his lectures are BORING. So expect boring lectures but honestly you don\u2019t really need them if you know what you\u2019re doing.",
+      "rating": 4,
+      "expected_grade": "B",
+      "created": "2025-05-21T21:46:40.950171Z"
+    },
+    {
+      "professor": "Samantha Kemper",
+      "course": "INST314",
+      "review": "She doesn't grade things on time and you take the final with no idea of your grades from the last two months.It\u2019s extremely difficult to receive email responses from her, even after sending multiple emails. I know a few students who never received any responses, despite sending multiple emails. \r\n\r\nHer course itself is not too bad but the disorganization is bad enough that it's not worth taking with this professor if you don't have to.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2025-05-30T07:00:06.849824Z"
+    },
+    {
+      "professor": "Samantha Kemper",
+      "course": "INST314",
+      "review": "Honestly, if you are able to get in your work on time, she is an easy A. \r\n\r\nON THE OTHER HAND\r\n\r\n\r\nShe does not respond to emails/comments AT ALL. In my experience I spoke with her in person (due to her lack of availability online), and she verbally agreed for me to submit an assignment late. I submitted, it was never graded, and when confronted(online) she had an aggressive attitude towards me, and said there was no agreement. Incredibly weird behavior after being a happy go lucky person all semester(in person). \r\n\r\nbtw it took her the whole semester to respond to me online, after other courses had put in their final grades.\r\n\r\nShe is not organized\r\n\r\neasy A/B, just dont get into any dispute with her without having any paper trails",
+      "rating": 1,
+      "expected_grade": "P",
+      "created": "2025-06-16T00:58:38.534976Z"
+    },
+    {
+      "professor": "Scott Jackson",
+      "course": "INST314",
+      "review": "This was taking online Summer 2025, experience may vary.\r\n\r\nScott is a very pleasant professor to talk to with one of the assignments mandating a thirty minute conversation about the classwork and some of your assignments. It was actually very relaxed and not an oral exam adjacent gauntlet like I thought it'd be.  The online notes are fairly well written but lack the nuance to really go deeper into it for the purposes of a discussion post. People end up writing very bland and same answers written in different ways, often by different AI chatbots. Easy to reach out to, assignments make sense and the grading is very clear.\r\n\r\nUnfortunately this course struggled from a common problem talked about in basically every post: grades took a while to come in, and we went almost two weeks without any material being posted until two units were posted in a one and a half week span. The momentum definitely killed off enjoyment from this class, but he's a well meaning guy and I'd probably take another course of his in the future.",
+      "rating": 3,
+      "expected_grade": "A",
+      "created": "2025-08-27T05:11:06.042831Z"
+    },
+    {
+      "professor": "Samantha Kemper",
+      "course": "INST314",
+      "review": "Did not provide any feedback or grades until the semester was over. Disorganized class material. Asynchronous video recordings were verbose. Provided boring data sets for assignments. Provided readings/textbooks were not useful. Consider taking this course with a different professor if you want to learn stats properly and get sufficient feedback.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2025-08-30T13:47:49.591328Z"
+    },
+    {
+      "professor": "Sarah Lee",
+      "course": "INST314",
+      "review": "She genuinely cares about her students, and her lectures are engaging. She is willing to help you, and her TAs are also very helpful. I am not the best at math, but her quizzes are very helpful when it comes to exams.",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2025-10-26T17:15:36.664115Z"
+    },
+    {
+      "professor": "Samantha Kemper",
+      "course": "INST314",
+      "review": "not flexible at all, super harsh grader, excess amount of work to do",
+      "rating": 1,
+      "expected_grade": "D",
+      "created": "2025-11-21T17:58:04.580556Z"
+    },
+    {
+      "professor": "Sarah Lee",
+      "course": "INST314",
+      "review": "She isn't a bad professor, she's humorous, kind, and understanding. She deeply goes over the content in the course, and it is felt that she wants everyone to succeed. She has weekly quizzes which if you make use of, are very beneficial, and set you up perfectly for the midterm exams. She also posts a short video to watch each week which keep you on track, and essentially could teach you the entire course in a few minutes, but you do have to go to class (and be on time) because of attendance. Overall she's a good professor, the TA's can sometimes grade very late, and don't reply to emails, but she does.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-12-10T16:31:23.564387Z"
+    },
+    {
+      "professor": "Sarah Lee",
+      "course": "INST314",
+      "review": "This class was made a little harder than it needed to be imo. There are 2 exams worth 40% of your grade and the other work consists of team exercises as well as independent work. Attendance is also required (6% of grade). Professor Lee is a very nice and funny lady but her teaching style is not for me- very slow, sometimes did not make sense. If you can, take with another professor, but if not you wont be miserable. Lee is nice.",
+      "rating": 3,
+      "expected_grade": "B",
+      "created": "2025-12-11T17:47:29.302650Z"
+    },
+    {
+      "professor": "Samantha Kemper",
+      "course": "INST314",
+      "review": "Graded faster this semester. Boring lecture material but that\u2019s not her fault. That\u2019s just the class. Could\u2019ve had clearer instructions on how to report data and findings instead of just saying \u201cremember what we did in class\u201d cuz she would yap and write on the chalk board at times. TAs were also confused on what she wanted sometimes.",
+      "rating": 3,
+      "expected_grade": "A-",
+      "created": "2025-12-13T05:07:10.399995Z"
+    },
+    {
+      "professor": "Sarah Lee",
+      "course": "INST314",
+      "review": "This class was frustrating, to say the least. There was a heavy emphasis on lecture attendance, which I did not mind in principle; however, attendance was tracked through TopHat, which we were required to purchase. Even being a minute late could result in a penalty unless you provided clear proof that you were present and that TopHat was malfunctioning. This proof then had to be emailed to both the professor and the grading team, which added unnecessary stress and administrative burden.\r\n\r\nAdditionally, there were multiple errors in the grading of my midterm and exam scores. Each time I reached out, responses from the professor and grading team took a significant amount of time. While incorrect grades may not directly impact them, they had a real effect on my standing in the course throughout the semester. I experienced considerable anxiety whenever a GitHub assignment was graded incorrectly.\r\n\r\nOverall, grading was extremely harsh with little flexibility, and many of the exam questions were confusing. The average grade for the class on each portion of the exam was around 65-70. Each question was graded very heavily, and a simple writing error could result in losing all points on a question without any partial credit.This made it difficult to accurately demonstrate my understanding of the material, even after studying well in advance of the exams.",
+      "rating": 1,
+      "expected_grade": "C-",
+      "created": "2025-12-21T23:30:43.742997Z"
+    },
+    {
+      "professor": "Sarah Lee",
+      "course": "INST314",
+      "review": "There are going to be people saying they had a bad experience in this class for this semester, but honestly, it's an easy A if you do what you're supposed to. I noticed that though there are tough concepts, you'll be fine on the exams if you study. She's a brilliant professor, and though there are some downsides like mandatory attendance in lecture that's validated with a clicker you have to purchase, she truly cares about the subject and cares about answering your questions. The TAs were also excellent and explained everything well. For the midterm and final, you're basically given answer keys to every lab we've done AND you can have a cheat sheet, so there's no way to really do bad on it. You get what you put in, and I think everything about this class was brilliant and it was put together really well. They also drop 3 no shows for lab and lecture attendance, so if you do really have something come up, you don't have to worry about it affecting your grade. Excellent professor!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-22T23:10:22.860729Z"
+    },
+    {
+      "professor": "Samantha Kemper",
+      "course": "INST314",
+      "review": "DO NOT TAKE PROFESSOR KEMPER. She is very nice and sweet, but this is the most disorganized class of all time and it is very difficult to understand what is going on a lot of the time. She is hardly available and isn't consistent when it comes to responding to emails, and can take FOREVER to grade assignments. It is very hard to get an A in her class not because of the course materials, but because of the overall disorganization",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2025-12-24T17:57:38.934527Z"
+    },
+    {
+      "professor": "Samantha Kemper",
+      "course": "INST314",
+      "review": "I first off want to say that Professor Kemper is a very nice woman, and the frustrations I have with the course have much more to do with the structure of the course rather than the professor. First, the syllabus states that homework\u2019s are worth 30% of your grade. Obviously, that is a significant portion of your grade. Unfortunately, this is the only class I have taken across four years that has not allowed for late work to be submitted. Not only that, but you\u2019ll receive a 0 on a homework assignment if you submit one (fully completed) file but not the other. For smaller assignments (5-10%), I believe these restrictions for late work and file submissions are acceptable. But the fact that these restrictions are in place for assignments worth 30% of your grade is quite frankly unbelievable. \r\n\r\nFor most other classes, you would assume the grading weights on the syllabus would reflect the final grading weights. Not for this class. Remember how I mentioned that homework\u2019s were worth 30% of your grade? Nope, it\u2019s actually 35%. This change was made a couple of days before final grades were due. To make matters worse, quizzes, originally worth 10% of your grade on the syllabus (which we did complete in discussions), were completely ignored in final grade calculations. I can\u2019t even fathom how this is ethical in any sense, but here we are.",
+      "rating": 1,
+      "expected_grade": "B",
+      "created": "2025-12-24T20:24:04.446174Z"
+    },
+    {
+      "professor": "Sarah Lee",
+      "course": "INST314",
+      "review": "Just don't. \r\nEasily the most stressful a professor has purposefully made a class. Take Kemper, take someone else it, doesn't matter who else you take just don't take it with Dr. Lee. \r\nTaking this class with her is like taking two classes at the same time....with no emphasis on which you should focus more on. You learn how to code statistics in R studio AND how to write out statistical problems by hand. I THOUGHT THIS CLASS IS SUPPOSED TO PRIMARILY TEACH US HOW TO CODE IN RSTUDIO, why do we spend 90% of the classtime learning about how to do statistical equations by hand?? And, the TAs are responsible for teaching the entirety of the R studio portion (the TAs were phenomenal) and likely the reason why so many people passed the class. Both the midterm and the final had a written portion and a (coding) R Studio portion. Like please just make the big exams one or the other, OR, you can take both but whichever you do better on, you can keep that as your final score. Nothing about this classes format made sense.\r\nAdditionally, you have to pay for attendance through TopHat (in which your in class participation is graded not only by you logging in, but by answering prompts Dr Lee gives you every 5 minutes on your laptop...). Why do we need to pay for attendance when we already pay thousands in tuition, commuting costs, etc? Its ridiculous. \r\nI got a good grade (A-) in the class, but the amount of hours and time devoted to studying for this class was actually nauseating. If you have a heavy course load and you take Dr. Lee, best of luck.",
+      "rating": 1,
+      "expected_grade": "A-",
+      "created": "2025-12-29T23:45:09.099093Z"
+    },
+    {
+      "professor": "Samantha Kemper",
+      "course": "INST314",
+      "review": "This professor is so bad. The professor is delaying the release of grades for an extended period.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2025-12-31T20:27:08.141347Z"
+    },
+    {
+      "professor": "Sarah Lee",
+      "course": "INST314",
+      "review": "I didn\u2019t do the best because I slacked but the professor is amazing. Tries everything in her power to help you succeed",
+      "rating": 5,
+      "expected_grade": "B-",
+      "created": "2026-01-02T02:23:13.503140Z"
+    },
+    {
+      "professor": "Samantha Kemper",
+      "course": "INST314",
+      "review": "Terrible professor. Everything is graded late. Im in January and I am still yet to receive all my grades for fall. Boring lectures with little to no interaction. Fake promises no guarantee what your grade will be. Dont do it.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2026-01-08T13:10:59.596999Z"
+    },
+    {
+      "professor": "Samantha Kemper",
+      "course": "INST314",
+      "review": "She uses chalk board with terrible hand writing and you can\u2019t even see well. Assignment instructions aren\u2019t very clear. Graded assignments faster but apparently she doesn\u2019t know how to put final grades in on time. Kinda funny when she doesn\u2019t accept late work. I can\u2019t turn in work late but you can take 3 weeks to put my final grade in AFTER the semester is over. Get it together girl smh\u2026\u2026",
+      "rating": 2,
+      "expected_grade": "A-",
+      "created": "2026-01-09T08:59:17.023434Z"
+    },
+    {
+      "professor": "Samantha Kemper",
+      "course": "INST314",
+      "review": "Kemper presents herself as a very understanding and forgiving professor but she\u2019s just not. Her rubrics are incredibly vague and caused many students to lose a lot of points on assignments where they didn\u2019t know what the expectations were. She also said that she would ensure our final grade would reflect the work we put in and growth we showed across the semester, and that was a complete lie. Her grading was slow and her teaching style made it incredibly hard to actually learn the material because it was very disorganized and didn\u2019t challenge us to practice it on our own. I don\u2019t recommend taking her class if you don\u2019t want to put hours of hard work into homework and projects and not get a deserved result.",
+      "rating": 1,
+      "expected_grade": "",
+      "created": "2026-01-12T02:56:04.136574Z"
+    },
+    {
+      "professor": "Samantha Kemper",
+      "course": "INST314",
+      "review": "Kemper is a great person and a great teacher. I had a hard time this semester with mental health and would often miss discussion classes due to it, she eventually reached out to me to see if anything was wrong and if she could help. She is extremely friendly and will try her best to make you learn the content in the best way she can. However, in comparison, her materials and ELMS organization was SEVERLY lacking. She doesn't ever really have due dates set for HWs or projects and assigns based on how far in lecture you can get, which is not bad, just sometimes inconvenient for planning. Her TA's (this semester at least) never really have an idea what's going on and are lowkey kind of rude. Slow on grading, had an A the entire semester, Kemper missed the due date to submit the final grade on my final project, didn't even get the grade in canvas for my final project, and my grade on tetsudo came out as a B+ even though there was no correlation on getting a grade that would've made it drop as such. This class to me was pretty hard and made me have to study extra because certain jargon and terms are expected to know already.",
+      "rating": 3,
+      "expected_grade": "B+",
+      "created": "2026-01-13T20:59:33.980480Z"
+    },
+    {
+      "professor": "Samantha Kemper",
+      "course": "INST314",
+      "review": "Lecture has nothing to do with the discussions or homework and is really really slow on grading. Its been a month and the final has not even come out yet. She seems to care about students but her emails dont really reflect that and getting a response over email takes about a week or two usually. Wouldnt recomend as a professor.",
+      "rating": 2,
+      "expected_grade": "B",
+      "created": "2026-01-14T17:26:29.345693Z"
+    },
+    {
+      "professor": "Samantha Kemper",
+      "course": "INST314",
+      "review": "Professor Kemper was a great professor to me. I understand that there were frustrations. Canvas was a little unorganized, but it was not rocket science to find resources or tools on there. Yes, you may struggle for a few minutes before class finding the lecture slides to take notes and may take a few minutes to find videos that are CLOSELY related to the homework (very useful), so it's not impossible. Her due dates ARE clear, which you can see right on Canvas where it says \"submit by (date). \" Also, Prof. Kemper was very understanding with certain projects and assignments. If you show you genuinely want to learn and improve, and if you have made a mistake, you can get an opportunity again and get something regraded.\r\n\r\nAs for TAs, the TAs you don't see who work behind the scenes grading your project... those are kind of ehh. When Prof. Kemper graded, it was clear, and she is not a huge tough grader. As long as you follow her examples (her examples are really helpful), you will be great. The TAs who grade, however, are a little more strict and tough, even when you follow all the criteria, even the way it was demonstrated in videos.\r\n\r\nAlways follow the submission rubric! Submit the correct documents asked for.\r\nI truly believe Prof. Kemper cares for her students, and if she sees you trying, she will help you.\r\nALSO LEARN HOW TO TAKE NOTES in her class. If you are great at taking notes, good, but if you are NOT, learn how to! Her lectures can go by fast sometimes and you will need to spend some time outside of class to be like, \"Okay, wait, what was this concept again??\" but she knows what she's talking about and is very intelligent with statistics. \r\nAlso, the final was pretty simple. For the final project, you will take time applying knowledge from both project 1 and project 2, but it's not impossible! Follow the same examples given for projects 1 and 2 for the final project, as well as new information and examples you will learn towards the end of the weeks.",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2026-02-11T19:12:00.731043Z"
+    },
+    {
+      "professor": "Sarah Lee",
+      "course": "INST314",
+      "review": "Course structure is confusing since this the course description tells us that we are learning to use R for statistics, yet this is not something we cover in lecture, only in discussions. Lectures have mandatory attendance using the tophat app which you need to pay $25 for a semester. The actual lecture content was helpful. but did require talking to the person next to you which isn't fun at 9 AM. Discussions are where we do a little bit of R, but it's usually just setting up the file with the TAs and then actually doing stuff with R for homework. \r\n\r\nHomework is assigned to be completed before the lecture, not after, so you might lose points on the weekly quiz since the content hadn't been reviewed yet in lecture. Additionally, there are R tutorial assignments from agmath-AppliedStatsInteractive on Github, where you need to figure out how to use R and the assignment is then due before we go over it in discussion and learn about how to use the functions for the homework. The fact that assignments are due before we are taught anything is what made this class mildly infuriating to complete since it didn't feel like we were adequately prepared for the assignments before they were due, making it needlessly difficult to get full credit.\r\n\r\nExam structure is generous, you get to make a cheat sheet and are given practice exams and a list of topics to cover on your cheat sheet. Exams were also heavily curved due to the lowest common denominators, so even if you didn't really study it's possible to get a decent grade.",
+      "rating": 3,
+      "expected_grade": "A+",
+      "created": "2026-03-16T21:10:11.488232Z"
+    }
+  ],
+  "department": "INST",
+  "course_number": "314",
+  "name": "INST314",
+  "title": "Statistics for Information Science",
+  "credits": 3,
+  "description": "<b>Prerequisite:</b> Minimum grade of C- in STAT100 and MATH115 (or higher).\n<b>Restriction:</b> Must be in the Information Science program.\n<b>Credit only granted for:</b> BIOM301, BMGT230, CCJS200, ECON230, EDMS451, GEOG306, GEOL351, GVPT422, INST314, JOUR405, PSYC200 or SOCY201.\nBasic concepts in statistics including measure construction, data exploration, hypothesis development, hypothesis testing, pattern identification, and statistical analysis. The course also provides an overview of commonly used data manipulation and analytic tools. Through homework assignments, projects, and in-class activities, you will practice working with these techniques and tools to create information resources that can be used in individual and organizational decision-making and problem-solving.",
+  "is_recent": true,
+  "geneds": null
+}

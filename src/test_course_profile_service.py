@@ -115,12 +115,49 @@ def test_missing_saved_model_reports_actionable_error():
             assert "Saved DistilBERT model not found" in str(error)
 
 
+def test_git_lfs_pointer_reports_actionable_error():
+    with tempfile.TemporaryDirectory() as directory:
+        model_dir = Path(directory)
+        (model_dir / "config.json").write_text("{}")
+        (model_dir / "model.safetensors").write_text(
+            "version https://git-lfs.github.com/spec/v1\n"
+        )
+        try:
+            DistilBertWorkloadModel(model_dir)
+            raise AssertionError("expected unavailable-model error")
+        except SavedModelUnavailableError as error:
+            assert "Git LFS pointer" in str(error)
+
+
+def test_full_schedule_analysis_uses_profiles_end_to_end():
+    from risk_rules import estimate_schedule_risk
+    from simple_report_cli import build_course_inputs
+
+    with tempfile.TemporaryDirectory() as directory:
+        cache_path = Path(directory) / "profiles.json"
+        service = make_service(
+            cache_path,
+            lambda code: [{"review_text": f"Review for {code}"}],
+        )
+        codes = ["CMSC330", "CMSC351", "STAT400"]
+        signals = {code: service.get_profile(code) for code in codes}
+        courses, missing = build_course_inputs(codes, signals)
+        result = estimate_schedule_risk(courses)
+
+        assert missing == []
+        assert len(courses) == 3
+        assert result["risk_level"] in {"Low", "Medium", "High"}
+        assert all(profile["model"] == "distilbert" for profile in signals.values())
+
+
 TESTS = [
     test_known_course_uses_saved_profile_without_fetching_or_loading_model,
     test_cached_raw_course_reviews_are_available_without_a_live_request,
     test_unseen_course_fetches_infers_and_is_reused_from_cache,
     test_api_failure_is_not_saved_as_a_profile,
     test_missing_saved_model_reports_actionable_error,
+    test_git_lfs_pointer_reports_actionable_error,
+    test_full_schedule_analysis_uses_profiles_end_to_end,
 ]
 
 
