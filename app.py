@@ -1,12 +1,10 @@
 """
 TerpLoad - Streamlit demo
 
-This is a display layer only. It reuses the exact same functions the CLI
-(src/simple_report_cli.py) uses - no risk logic lives here, so the web
-version and the CLI version can never disagree.
+This is a display layer only. same functions the CLI
+(src/simple_report_cli.py).
 
-Styling is custom CSS to match a team design mockup. Everything shown is
-built from real data:
+Everything shown is built from real data:
 - risk level / reasons: risk_rules.py, unchanged
 - workload tags: the same project_heavy/exam_heavy/etc. flags as the CLI
 - evidence quotes: real evidence_snippet text from the labeled review CSVs
@@ -14,6 +12,7 @@ built from real data:
   real review counts - not invented numbers. There is no grade-weighting
   data available (e.g. "83% of your grade"), so that is not shown here.
 """
+
 import re
 import csv
 import html
