@@ -1,42 +1,100 @@
-# TerpLoad — Final Submission
+<p align="center">
+  <img src="assets/terpload_logo.png" alt="TerpLoad logo" width="120" height="120">
+</p>
 
-TerpLoad helps UMD CS/STEM students judge whether a planned semester schedule is
-manageable before committing to it, by combining real PlanetTerp course reviews with a
-fine-tuned DistilBERT model that flags workload signals (project-heavy, exam-heavy,
-homework-heavy, time-consuming) per course, then rolling those into one schedule-level
-risk rating.
 
-**Live URL:** Not deployed. The app currently runs locally only — see setup below.
+# TerpLoad
+Terpload is a course planning tool for UMD students, mainly for CS/STEM students that analyzes student course reviews with a fine-tuned DistilBERT multi-label classifier and turns review-level workload predictions into an explainable schedule-level report.
 
-## What's in this folder
+Essentially, students begin by selecting 1-6 courses and receive information about:
+- overall schedule risk and or uncertainty(based on review coverage)
+- confidence level of the report
+- main workload driver
+- actionable best move
+- signals for project-heavy, exam-heavy, time-consuming, homework-heavy
+- percentage of reviews supporting each signal
+- recent professor context (context only, does not affect workload classification)
+- historical grade distributions(context only, does not affect workload classification)
 
-- `report.md` — the written final report (five required areas).
-- `slides.md` — presentation slides.
-- `report.md` and `slides.md` reference files throughout the main repository
-  (`src/`, `data/`, `results/`) rather than duplicating content.
+## Problem and Users
+Currently, students are able to find information about individual courses through sources such as PlanetTerp, Reddit, friends, GroupMe conversations, and academic advisor. The real problem arises when they cannot determine how the level of workloads of several planned courses can stack together during a semester.
 
-## Setup instructions
+TerpLoad is designed for UMD CS and STEM students planning workload-heavy course combinations, including students who are entering more demanding major courses or balancing several required courses at once.
 
+Early interviews with few students helped establish that the difficulty of a semester came from the combinations of different courses rather than one course alone. 
+
+
+## How TerpLoad works
+
+
+```text
+Student selects 1–6 courses
+            |
+            v
+     Course profile exists?
+        /           \
+      yes            no
+       |              |
+       |       Fetch PlanetTerp reviews
+       |              |
+       |       Saved DistilBERT model
+       |              |
+       |       Review-level predictions
+       |              |
+       |       Course-level aggregation
+       |              |
+       |          Cache profile
+        \            /
+         \          /
+            |
+            v
+     Course workload signals
+            |
+            v
+   Transparent schedule rules
+            |
+            v
+      Streamlit report
+````
+
+
+---
+
+## Live App
+
+[Open TerpLoad]()
+
+---
+
+
+## Running TerpLoad Locally
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/moatazsaad/msml641-project 
+cd https://github.com/moatazsaad/msml641-project
 ```
+
+### 2. Download Git LFS Model Files
+
+The saved DistilBERT model is stored using Git LFS.
+
+```bash
+git lfs install
+git lfs pull
+```
+
+### 3. Install Dependencies
+
+```bash
 pip install -r requirements.txt
+```
+
+### 4. Run the Streamlit App
+
+```bash
 streamlit run app.py
 ```
 
-The app uses the saved, fine-tuned DistilBERT model for all workload signals. Before
-running it, `results/distilbert_model/` must exist and contain the Hugging Face model
-files plus `thresholds.joblib` (both produced by `src/train_distilbert.py`). The app
-never retrains on a student request.
-
-For a course without an existing profile, TerpLoad fetches reviews from PlanetTerp,
-classifies them with the saved model, and caches the result to
-`data/cache/course_profiles_distilbert.json`. Later requests for that course reuse the
-cached profile.
-
-A command-line prototype is also available:
-
-```
-python src/simple_report_cli.py
-```
-
-It uses a separate, earlier TF-IDF-based signal file (`data/course_workload_signals.json`)
-rather than live DistilBERT inference — see `report.md`, Area 2, for how the two differ.
+---
