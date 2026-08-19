@@ -1,0 +1,125 @@
+{
+  "average_gpa": 3.530329949238579,
+  "professors": [
+    "Kevin Roy",
+    "Kevin Roy",
+    "Kevin Roy",
+    "Kevin Roy",
+    "Kevin Roy",
+    "Kevin Roy",
+    "Kevin Roy",
+    "Kevin Roy",
+    "Kevin Roy",
+    "Kevin Roy",
+    "Kevin Roy",
+    "Kevin Roy",
+    "Kevin Roy",
+    "Kevin Roy"
+  ],
+  "reviews": [
+    {
+      "professor": "Kevin Roy",
+      "course": "FMSC190",
+      "review": "My favorite. Just a kind, chill dude. You will not regret taking a class with him. ",
+      "rating": 5,
+      "expected_grade": "A-",
+      "created": "2020-12-03T15:49:58Z"
+    },
+    {
+      "professor": "Kevin Roy",
+      "course": "FMSC190",
+      "review": "Awesome guy. Class is super easy. Guaranteed A- or more if you put literally the slightest bit of effort.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2021-01-12T20:53:08Z"
+    },
+    {
+      "professor": "Kevin Roy",
+      "course": "FMSC190",
+      "review": "Take any class you can with Dr. Roy!!!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-05-04T15:04:27Z"
+    },
+    {
+      "professor": "Kevin Roy",
+      "course": "FMSC190",
+      "review": "Great teacher, super understanding, class was very fun and easy, especially the father interview.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-05-12T22:03:34Z"
+    },
+    {
+      "professor": "Kevin Roy",
+      "course": "FMSC190",
+      "review": "AMAZING CLASS!!!!!! SO INTERESTING!!!!!!! if you put in enough work, the assignments are meaningful and easy to do well in. PAY ATTENTION IN CLASS AND FILL OUT THE REVIEW SHEETS and you will be SET for the exams. The class has an essay, project , exams, and discussion posts to complete your grade. This is helpful because no particular assignment is determines your grade. TAKE THIS CLASS W PROF ROY!!!!!!!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2021-12-21T04:57:08Z"
+    },
+    {
+      "professor": "Kevin Roy",
+      "course": "FMSC190",
+      "review": "This class is very easy and you honestly don\u2019t really need to go to the lectures as the information is common knowledge usually. However, he does not believe in giving on 100s. He also does not give out A+. You will have to write two papers, one midterm, final, five movie discussions, and Friday quizzes. There is no class on Fridays and he\u2019ll give you a 5 question quiz instead. There is a group project that was really easy.",
+      "rating": 4,
+      "expected_grade": "A",
+      "created": "2023-01-09T14:52:51.433326Z"
+    },
+    {
+      "professor": "Kevin Roy",
+      "course": "FMSC190",
+      "review": "Learned so much in just three weeks. Genuinely considering adding Family Science as a major because of him and this class. If you need SCIS or whatever other gen eds this class does TAKE IT because it will totally change how you view men, no matter what your gender is. You can do a week's worth of work in one day. He has only one weekly zoom meeting at a random time and it's not required just extra credit, totally doable with whatever you've got going on during break. Fits in really well with a lot of different disciplines, like crim, psych, soc, health, public policy, etc just a really engaging topic no matter what you study.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2023-01-30T17:52:17.951198Z"
+    },
+    {
+      "professor": "Kevin Roy",
+      "course": "FMSC190",
+      "review": "Easiest Gen Ed in the world! It fills out an I-series which is super important. I took it over the winter so I don't really know what it's like in person. But the work load was super easy and manageable. Just do the work and you get an A.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-05-02T05:43:02.749111Z"
+    },
+    {
+      "professor": "Kevin Roy",
+      "course": "FMSC190",
+      "review": "FMSC190 with Dr. Roy is an engaging and very insightful class. We had two exams (one was a final), a few discussions, and some papers, but it was all very manageable. Dr. Roy's lectures were always interesting and made attending class worthwhile. You learn a lot about men, as I learned a lot about their perspectives on life. Plus FMSC190 fulfills the SCIS credit, so if you can, take this class!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-05-18T17:43:44.258157Z"
+    },
+    {
+      "professor": "Kevin Roy",
+      "course": "FMSC190",
+      "review": "one of the most reasonable people on campus. great to talk to as well! excellent course; papers were fun to write, class was always really interesting. would take again if i could",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-08-26T22:25:17.053204Z"
+    },
+    {
+      "professor": "Kevin Roy",
+      "course": "FMSC190",
+      "review": "Dr. Roy's class is very eye-opening. He dives into a lot of topics that aren't discussed enough these days, especially around men's mental health. He's very approachable and shows a clear passion for the topics he is lecturing about.",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2024-10-23T17:45:13.901246Z"
+    },
+    {
+      "professor": "Kevin Roy",
+      "course": "FMSC190",
+      "review": "For an online class, Dr. Roy was amazing! I wish there were more than three zoom sessions because he was pretty engaging with the sessions we had. The assignments were very meaningful to me and Dr. Roy was overall a really kind and passionate person!",
+      "rating": 5,
+      "expected_grade": "A",
+      "created": "2025-01-28T18:22:32.475625Z"
+    }
+  ],
+  "department": "FMSC",
+  "course_number": "190",
+  "name": "FMSC190",
+  "title": "Man Up! Where Are The Fathers?",
+  "credits": 3,
+  "description": "An examination of changing fatherhood roles, health, and inequality in diverse families.  Focus will be on masculinities and disparities among men by race and class; provider role expectations; and trauma and violence faced by men in contemporary society.",
+  "is_recent": true,
+  "geneds": null
+}

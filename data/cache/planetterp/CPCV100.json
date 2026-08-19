@@ -1,0 +1,57 @@
+{
+  "average_gpa": 3.979365079365079,
+  "professors": [
+    "Julie Randolph",
+    "Julie Randolph"
+  ],
+  "reviews": [
+    {
+      "professor": "Julie Randolph",
+      "course": "CPCV100",
+      "review": "SO MUCH BETTER THAN KOREY. She is actually so sweet, I really don't know how she puts up with that rat.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-11-20T21:01:51.662104Z"
+    },
+    {
+      "professor": "Julie Randolph",
+      "course": "CPCV100",
+      "review": "sweetest professor ever, so understanding and is super engaging!!",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-11T09:10:05.481736Z"
+    },
+    {
+      "professor": "Julie Randolph",
+      "course": "CPCV100",
+      "review": "Julie Randolph is one of the kindest most considerable professors I've ever meet. As a teacher in scholars, she understood that we had other responsibilities and made it so that her class wouldn't be an additional burden. She gave us the opportunity to do all the assignments in class besides the four service projects. She also gave us a lot of room to grow and succeed in her class and I truly appreciated her kindness.",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2024-12-17T22:15:01.270669Z"
+    },
+    {
+      "professor": "Julie Randolph",
+      "course": "CPCV100",
+      "review": "I love love love Randolph because she made my scholars experience worth it. We finish early and meeting once a week is so chill and doable. I find myself being closer to her than the *other* first semester professor. You CANT not pass, and randolph if ur reading this i love you and your donut sessions, if ur thinking ab joining cesg scholars, this is the professor you will want",
+      "rating": 5,
+      "expected_grade": "A+",
+      "created": "2025-12-12T02:39:24.308266Z"
+    },
+    {
+      "professor": "Julie Randolph",
+      "course": "CPCV100",
+      "review": "She is there for her students, I wish she was in charge more than Korey",
+      "rating": 5,
+      "expected_grade": "",
+      "created": "2025-12-18T01:32:23.034540Z"
+    }
+  ],
+  "department": "CPCV",
+  "course_number": "100",
+  "name": "CPCV100",
+  "title": "College Park Scholars: Civic Engagement for Social Good First-Year Colloquium I",
+  "credits": 1,
+  "description": "Introductory colloquium: Examination of issues related to civic engagement.",
+  "is_recent": true,
+  "geneds": null
+}
