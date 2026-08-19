@@ -86,13 +86,3 @@ streamlit run app.py
 ```
 
 ---
-
-## Team
-
-| Team Member      | Role              |
-| ---------------- | ----------------- |
-| Moataz Abdelaziz | Product           |
-| Abhiram Metuku   | Data & Evaluation |
-| Sriram Vema      | Engineering       |
-
----
