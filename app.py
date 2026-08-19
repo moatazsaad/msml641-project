@@ -1,12 +1,10 @@
 """
 TerpLoad - Streamlit demo
 
-This is a display layer only. It reuses the exact same functions the CLI
-(src/simple_report_cli.py) uses - no risk logic lives here, so the web
-version and the CLI version can never disagree.
+This is a display layer only. same functions the CLI
+(src/simple_report_cli.py).
 
-Styling is custom CSS to match a team design mockup. Everything shown is
-built from real data:
+Everything shown is built from real data:
 - risk level / reasons: risk_rules.py, unchanged
 - workload tags: the same project_heavy/exam_heavy/etc. flags as the CLI
 - evidence quotes: real evidence_snippet text from the labeled review CSVs
@@ -14,6 +12,7 @@ built from real data:
   real review counts - not invented numbers. There is no grade-weighting
   data available (e.g. "83% of your grade"), so that is not shown here.
 """
+
 import re
 import csv
 import html
@@ -28,6 +27,7 @@ sys.path.insert(0, str(Path(__file__).parent / "src"))
 from planetterp_client import get_grade_context, get_recent_professor_context
 from risk_rules import estimate_schedule_risk  # noqa: E402
 from course_profile_service import CourseProfileService, POSITIVE_LABEL_THRESHOLD  # noqa: E402
+from distilbert_inference import SavedModelUnavailableError  # noqa: E402
 from simple_report_cli import build_course_inputs, get_low_evidence_courses  # noqa: E402
 from workload_labels import WORKLOAD_LABELS  # noqa: E402
 import plotly.graph_objects as go
@@ -620,68 +620,18 @@ st.markdown(
 )
 
 
-COURSE_SERVICE_CACHE_VERSION = 30
-GRADE_CONTEXT_CACHE_VERSION = 10
-PROFESSOR_CONTEXT_CACHE_VERSION = 10
+COURSE_SERVICE_CACHE_VERSION = 22
+GRADE_CONTEXT_CACHE_VERSION = 3
+PROFESSOR_CONTEXT_CACHE_VERSION = 3
 
-@st.cache_resource(show_spinner=False)
+@st.cache_resource
 def get_course_service(cache_version):
-    """Keep the profile cache and any lazily loaded DistilBERT model across reruns."""
-    base_dir = Path(__file__).resolve().parent
-    cache_path = base_dir / "data" / "cache" / "course_profiles_distilbert.json"
-    return CourseProfileService(profile_cache_path=cache_path)
-
-
-@st.cache_data(show_spinner=False)
-def load_precomputed_course_profiles(cache_version):
-    """Read committed course profiles directly for the instant cache-hit path.
-
-    This deliberately bypasses CourseProfileService.get_profile() for courses
-    already present in the JSON cache, so stale evidence metadata can never
-    trigger review fetching or DistilBERT inference before the report renders.
-    """
-    cache_path = (
-        Path(__file__).resolve().parent
-        / "data"
-        / "cache"
-        / "course_profiles_distilbert.json"
-    )
-    if not cache_path.exists():
-        return {}
-    try:
-        payload = json.loads(cache_path.read_text(encoding="utf-8"))
-        return payload if isinstance(payload, dict) else {}
-    except Exception:
-        return {}
-
-@st.cache_data(show_spinner=False)
-def load_precomputed_secondary_context(cache_version):
-    """Load optional precomputed professor/grade context committed with the app."""
-    cache_dir = Path(__file__).resolve().parent / "data" / "cache"
-
-    def read_json(name):
-        path = cache_dir / name
-        if not path.exists():
-            return {}
-        try:
-            payload = json.loads(path.read_text(encoding="utf-8"))
-            return payload if isinstance(payload, dict) else {}
-        except Exception:
-            return {}
-
-    return (
-        read_json("grade_context.json"),
-        read_json("professor_context.json"),
-    )
-
+    """Keep the profile cache and loaded DistilBERT model across reruns."""
+    return CourseProfileService()
 
 @st.cache_data(ttl=3600, show_spinner="Loading historical grade context...")
 def load_grade_context(course_code, cache_version):
-    """Use precomputed grade context first, then fall back to the live API."""
-    grade_cache, _ = load_precomputed_secondary_context(cache_version)
-    cached = grade_cache.get(str(course_code).strip().upper())
-    if isinstance(cached, dict):
-        return cached
+    """Fetch historical grade context without refetching on each rerun."""
     try:
         return get_grade_context(course_code)
     except Exception:
@@ -695,11 +645,7 @@ def load_professor_context(
     end_year=2026,
     cache_version=PROFESSOR_CONTEXT_CACHE_VERSION,
 ):
-    """Use precomputed professor context first, then fall back to the live API."""
-    _, professor_cache = load_precomputed_secondary_context(cache_version)
-    cached = professor_cache.get(str(course_code).strip().upper())
-    if isinstance(cached, list):
-        return cached
+    """Fetch professor context without slowing every Streamlit rerun."""
     try:
         return get_recent_professor_context(
             course_code,
@@ -998,6 +944,13 @@ remembered_course_options = set(
     st.session_state.get("user_added_course_options", [])
 )
 
+# A submitted course has already gone through the app's search flow. Keep it
+# in the real option list immediately so BaseWeb treats an exact match as an
+# existing course instead of offering a duplicate ``Add: <course>`` action.
+searched_course_options = set(
+    st.session_state.get("searched_course_options", [])
+)
+
 if not raw_picker_state and pending_course_options:
     remembered_course_options.update(pending_course_options)
     st.session_state["user_added_course_options"] = sorted(
@@ -1010,7 +963,7 @@ else:
     )
 
 course_options = sorted(
-    base_option_set | remembered_course_options
+    base_option_set | remembered_course_options | searched_course_options
 )
 
 
@@ -1032,6 +985,15 @@ def submit_schedule():
         )
         return
 
+    searched_courses = set(
+        st.session_state.get("searched_course_options", [])
+    )
+    searched_courses.update(
+        course_code
+        for course_code in course_codes
+        if re.fullmatch(r"[A-Z]{3,5}\d{3}", course_code)
+    )
+    st.session_state["searched_course_options"] = sorted(searched_courses)
     st.session_state["submitted_course_codes"] = course_codes
     st.session_state.pop("grade_context_course", None)
     st.session_state.pop("schedule_submit_error", None)
@@ -1155,32 +1117,16 @@ course_codes = st.session_state.get("submitted_course_codes", [])
 
 if course_codes:
     try:
-        precomputed_profiles = load_precomputed_course_profiles(
-            COURSE_SERVICE_CACHE_VERSION
-        )
-
-        # Fast path: cached courses are plain JSON dictionary lookups.
-        # CourseProfileService is reached only for a genuine cache miss.
-        course_signals = {}
-        uncached_codes = []
-        for course_code in course_codes:
-            cached_profile = precomputed_profiles.get(course_code)
-            if isinstance(cached_profile, dict):
-                course_signals[course_code] = cached_profile
-            else:
-                uncached_codes.append(course_code)
-
-        if uncached_codes:
-            with st.spinner("Analyzing course reviews..."):
-                for course_code in uncached_codes:
-                    course_signals[course_code] = course_service.get_profile(
-                        course_code
-                    )
+        with st.spinner("Analyzing course reviews..."):
+            course_signals = {
+                course_code: course_service.get_profile(course_code)
+                for course_code in course_codes
+            }
+    except SavedModelUnavailableError as error:
+        st.error(str(error))
+        st.stop()
     except Exception as error:
-        if error.__class__.__name__ == "SavedModelUnavailableError":
-            st.error(str(error))
-        else:
-            st.error(f"Could not retrieve and analyze course reviews: {error}")
+        st.error(f"Could not retrieve and analyze course reviews: {error}")
         st.stop()
 
     courses, courses_without_data = build_course_inputs(course_codes, course_signals)
@@ -1348,87 +1294,12 @@ if course_codes:
             course_code = c["course_code"]
             items = c.get("evidence_snippets", [])
 
-            # Current caches store evidence as dictionaries. Older committed
-            # caches may contain full review strings. Those legacy strings are
-            # source reviews, NOT display-ready excerpts. Keep the fast cache
-            # path, but derive one short exact-text excerpt per active signal
-            # instead of rendering an entire review. Current dict evidence is
-            # rendered unchanged.
-            clean_items = []
-            active_course_labels = [
-                label for label in WORKLOAD_LABELS
-                if c.get(label)
-            ]
-            fallback_evidence_label = max(
-                WORKLOAD_LABELS,
-                key=lambda label: float(c.get(f"{label}_positive_rate", 0.0)),
-            )
-
-            current_items = [
+            clean_items = [
                 item for item in items
                 if isinstance(item, dict)
                 and item.get("excerpt")
                 and item.get("matched_labels")
             ]
-            clean_items.extend(current_items)
-
-            legacy_reviews = [
-                item.strip() for item in items
-                if isinstance(item, str) and item.strip()
-            ]
-
-            if legacy_reviews and not current_items:
-                signal_terms = {
-                    "project_heavy": ("project", "projects"),
-                    "exam_heavy": ("exam", "exams", "midterm", "midterms", "test", "tests", "final"),
-                    "homework_heavy": ("homework", "homeworks", "hw", "hws", "assignment", "assignments"),
-                    "time_consuming": ("time consuming", "time-consuming", "hours", "hour", "workload", "time"),
-                }
-
-                labels_to_show = active_course_labels or [fallback_evidence_label]
-
-                for label in labels_to_show:
-                    terms = signal_terms.get(label, ())
-                    candidates = []
-
-                    for review in legacy_reviews:
-                        sentences = [
-                            sentence.strip()
-                            for sentence in re.split(r"(?<=[.!?])\s+|[\r\n]+", review)
-                            if sentence.strip()
-                        ]
-
-                        for sentence in sentences:
-                            lower = sentence.lower()
-                            matches = sum(term in lower for term in terms)
-                            if matches:
-                                candidates.append((matches, len(sentence.split()), sentence))
-
-                    if candidates:
-                        # Prefer signal-specific sentences, then the shortest
-                        # exact source sentence among equally relevant matches.
-                        _, _, excerpt_text = max(
-                            candidates,
-                            key=lambda item: (item[0], -item[1]),
-                        )
-                    else:
-                        excerpt_text = legacy_reviews[0]
-
-                    excerpt_text = " ".join(excerpt_text.split())
-                    if len(excerpt_text) > 180:
-                        shortened = excerpt_text[:179].rsplit(" ", 1)[0].rstrip(" ,;:-")
-                        excerpt_text = shortened + "…"
-
-                    clean_items.append(
-                        {
-                            "excerpt": excerpt_text,
-                            "matched_labels": [label],
-                            "source_url": (
-                                f"https://planetterp.com/course/{course_code}/reviews"
-                            ),
-                            "evidence_scope": "legacy_cached",
-                        }
-                    )
 
             if not clean_items:
                 continue
