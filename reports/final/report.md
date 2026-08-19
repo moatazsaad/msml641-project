@@ -1,5 +1,8 @@
 # TerpLoad
 
+| Moataz Abdelaziz — Product | Abhiram Metuku — Data & Evaluation | Sriram Vema — Engineering |
+|---|---|---|
+
 ## 1. Problem and users
 
 UMD students can already find information about individual courses through sources such as PlanetTerp, Reddit, friends, GroupMe conversations, and academic advisors. The harder problem is determining how the workloads of several planned courses may stack together during one semester.
