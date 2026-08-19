@@ -619,7 +619,7 @@ st.markdown(
 )
 
 
-COURSE_SERVICE_CACHE_VERSION = 23
+COURSE_SERVICE_CACHE_VERSION = 24
 GRADE_CONTEXT_CACHE_VERSION = 4
 PROFESSOR_CONTEXT_CACHE_VERSION = 4
 ANALYSIS_CACHE_VERSION = 1
@@ -873,7 +873,8 @@ course_service = get_course_service(COURSE_SERVICE_CACHE_VERSION)
 
 # Build autocomplete directly from the already-loaded precomputed profile cache.
 # This avoids recursively scanning every CSV/JSON file in data/ on startup.
-base_course_options = list(course_service.cached_course_codes)
+base_course_options = sorted(course_service._profiles.keys())
+
 if not base_course_options:
     base_course_options = PROJECT_COURSE_FALLBACK
 
