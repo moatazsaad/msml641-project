@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/terpload_logo.png" alt="TerpLoad logo" width="120">
+  <img src="assets/terpload_logo.png" alt="TerpLoad logo" width="120" height="120">
 </p>
 
 
@@ -59,6 +59,13 @@ Student selects 1–6 courses
 
 
 ---
+
+## Live App
+
+[Open TerpLoad]()
+
+---
+
 
 ## Running TerpLoad Locally
 
