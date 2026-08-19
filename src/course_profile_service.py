@@ -29,7 +29,7 @@ class CourseProfileService:
         model_factory=None,
         fetch_reviews=fetch_course_reviews,
     ):
-        self.profile_cache_path = Path(profile_cache_path).resolve()
+        self.profile_cache_path = Path(profile_cache_path)
         self.model_factory = model_factory
         self.fetch_reviews = fetch_reviews
         self._model = None
@@ -50,12 +50,21 @@ class CourseProfileService:
 
     def _get_model(self):
         if self._model is None:
-            # Import the heavy transformer stack only for a genuine cache miss.
-            if self.model_factory is None:
+            model_factory = self.model_factory
+            if model_factory is None:
+                # Keep torch/transformers off the Streamlit cold-start path.
+                # Inference is loaded only when the original logic actually needs it
+                # (uncached course or one-time cached evidence upgrade).
                 from distilbert_inference import DistilBertWorkloadModel
-                self.model_factory = DistilBertWorkloadModel
-            self._model = self.model_factory()
+
+                model_factory = DistilBertWorkloadModel
+            self._model = model_factory()
         return self._model
+
+    @property
+    def cached_course_codes(self):
+        """Course codes currently available in the precomputed profile cache."""
+        return tuple(sorted(self._profiles))
 
     def get_profile(self, course_code):
         """Return a cached profile, but re-check courses cached with zero reviews.
@@ -97,7 +106,6 @@ class CourseProfileService:
         self._profiles[course_code] = profile
         self._save_profiles()
         return profile
-
 
     def _upgrade_cached_evidence(self, course_code, profile):
         """Refresh old cached evidence using the saved DistilBERT model.
