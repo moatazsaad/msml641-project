@@ -60,8 +60,8 @@ Student selects 1–6 courses
 ### 1. Clone the Repository
 
 ```bash
-git clone [REPOSITORY URL]
-cd [REPOSITORY DIRECTORY]
+git clone https://github.com/moatazsaad/msml641-project 
+cd https://github.com/moatazsaad/msml641-project
 ```
 
 ### 2. Download Git LFS Model Files
