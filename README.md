@@ -1,7 +1,6 @@
 <p align="center">
-            <img width="100" height="100" alt="image" src="[https://github.com/user-attachments/assets/terpload_logo.png](https://github.com/moatazsaad/msml641-project/blob/main/assets/terpload_logo.png?raw=true](https://github.com/moatazsaad/msml641-project/blob/main/assets/terpload_logo.png)"/>
+  <img src="assets/terpload_logo.png" alt="TerpLoad logo" width="120">
 </p>
-
 
 
 # TerpLoad
