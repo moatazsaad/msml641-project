@@ -91,7 +91,7 @@ The NLP approach developed through three stages.
 
 The first stage was a keyword/rule-based prototype (`src/workload_baseline_signal.py`). This initial approach detected explicit terms such as project, exam, or homework, but it was highly sensitive to wording and could fail when a term appeared in a reassuring context.
 
-After that, we tried again with a more formal statistical baseline, which was **TF-IDF + Logistic Regression**. TF-IDF essentially converts review text into weighted word and n-gram features, and Logistic Regression learns a classifier for each workload label. It provided a relatively stronger learned baseline, even though it still heavily relied on lexical overlap and did not model word context in the same way as a transformer would.
+Next, we used **TF-IDF + Logistic Regression** as a statistical baseline. TF-IDF converts review text into weighted word and n-gram features, while Logistic Regression learns a classifier for each workload label. This was stronger than the keyword approach but still relied heavily on lexical overlap rather than contextual language understanding.
 
 The final choice of model was a **fine-tuned DistilBERT multi-label classifier**. The review text is tokenized into subword tokens with a maximum sequence length of 256 and passed through DistilBERT to a four-output multi-label classification head. This model was then fine-tuned for three epochs with a batch size of 8. Finally, the saved model produces review-level scores, and label-specific decision thresholds convert those scores into positive or negative predictions for each workload category.
 
@@ -104,7 +104,7 @@ Both learned approaches were evaluated on the same 760-review held-out test set.
 | TF-IDF + Logistic Regression | 0.537 | 0.652 | 0.667 |
 | Fine-tuned DistilBERT | **0.647** | **0.739** | **0.738** |
 
-DistilBERT improved Macro F1 from **0.652** to **0.739**, along with an improved subset accuracy and micro F1. Following this improvement, DistilBERT was selected as the final model used by the Streamlit application.
+DistilBERT improved Macro F1 from **0.652** to **0.739** while also improving subset accuracy and Micro F1, so it was selected for the final Streamlit application.
 
 The final DistilBERT per-label F1 scores were:
 
